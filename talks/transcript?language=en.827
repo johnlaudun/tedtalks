@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Cynthia Breazeal: The rise of personal robots | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Cynthia Breazeal: The rise of personal robots | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Cynthia Breazeal wonders: Why can we use robots on Mars, but not in our living rooms? The key, she says, is in training robots to interact with people. Now she dreams up and builds robots that teach, learn -- and play. Watch for amazing demo footage of a new interactive game for kids." name="description" />
+<meta content="Cynthia Breazeal" name="author" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The rise of personal robots&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d5d8a98861dcc5ee45ddc721bec6cf00005aafc6_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d5d8a98861dcc5ee45ddc721bec6cf00005aafc6_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Cynthia Breazeal wonders: Why can we use robots on Mars, but not in our living rooms? The key, she says, is in training robots to interact with people. Now she dreams up and builds robots that teach, learn -- and play. Watch for amazing demo footage of a new interactive game for kids." property="og:description" />
+<meta content="http://www.ted.com/talks/cynthia_breazeal_the_rise_of_personal_robots/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1070?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='cynthia_breazeal_the_rise_of_personal_robots'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1070?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="844" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d5d8a98861dcc5ee45ddc721bec6cf00005aafc6_2400x1800.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:04</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Cynthia Breazeal</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1070?language=en' lang='en'>
+The rise of personal robots
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2011
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Ever since I was a little girl</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>seeing &quot;Star Wars&quot; for the first time,</span>
+<span class='talk-transcript__fragment' data-time='5000' id='t-5000'>I've been fascinated by this idea</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>of personal robots.</span>
+<span class='talk-transcript__fragment' data-time='9000' id='t-9000'>And as a little girl,</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>I loved the idea of a robot that interacted with us</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>much more like a helpful, trusted sidekick --</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>something that would delight us, enrich our lives</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>and help us save a galaxy or two.</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>I knew robots like that didn't really exist,</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>but I knew I wanted to build them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='27000' id='t-27000'>So 20 years pass --</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>I am now a graduate student at MIT</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>studying artificial intelligence,</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>the year is 1997,</span>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>and NASA has just landed the first robot on Mars.</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>But robots are still not in our home, ironically.</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>And I remember thinking about</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>all the reasons why that was the case.</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>But one really struck me.</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>Robotics had really been about interacting with things,</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>not with people --</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>certainly not in a social way that would be natural for us</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>and would really help people accept robots</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>into our daily lives.</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>For me, that was the white space; that's what robots could not do yet.</span>
+<span class='talk-transcript__fragment' data-time='61000' id='t-61000'>And so that year, I started to build this robot, Kismet,</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>the world's first social robot.</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>Three years later --</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>a lot of programming,</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>working with other graduate students in the lab --</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>Kismet was ready to start interacting with people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>(Video) Scientist: I want to show you something.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>Kismet: (Nonsense)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>Scientist: This is a watch that my girlfriend gave me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>Kismet: (Nonsense)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>Scientist: Yeah, look, it's got a little blue light in it too.</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>I almost lost it this week.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>Cynthia Breazeal: So Kismet interacted with people</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>like kind of a non-verbal child or pre-verbal child,</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>which I assume was fitting because it was really the first of its kind.</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>It didn't speak language, but it didn't matter.</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>This little robot was somehow able</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>to tap into something deeply social within us --</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>and with that, the promise of an entirely new way</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>we could interact with robots.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>So over the past several years</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>I've been continuing to explore this interpersonal dimension of robots,</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>now at the media lab</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>with my own team of incredibly talented students.</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>And one of my favorite robots is Leonardo.</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>We developed Leonardo in collaboration with Stan Winston Studio.</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>And so I want to show you a special moment for me of Leo.</span>
+<span class='talk-transcript__fragment' data-time='126000' id='t-126000'>This is Matt Berlin interacting with Leo,</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>introducing Leo to a new object.</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>And because it's new, Leo doesn't really know what to make of it.</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>But sort of like us, he can actually learn about it</span>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>from watching Matt's reaction.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>(Video) Matt Berlin: Hello, Leo.</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>Leo, this is Cookie Monster.</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>Can you find Cookie Monster?</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>Leo, Cookie Monster is very bad.</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>He's very bad, Leo.</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>Cookie Monster is very, very bad.</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>He's a scary monster.</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>He wants to get your cookies.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>CB: All right, so Leo and Cookie</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>might have gotten off to a little bit of a rough start,</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>but they get along great now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>So what I've learned</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>through building these systems</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>is that robots are actually</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>a really intriguing social technology,</span>
+<span class='talk-transcript__fragment' data-time='195000' id='t-195000'>where it's actually their ability</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>to push our social buttons</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>and to interact with us like a partner</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>that is a core part of their functionality.</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>And with that shift in thinking, we can now start to imagine</span>
+<span class='talk-transcript__fragment' data-time='206000' id='t-206000'>new questions, new possibilities for robots</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>that we might not have thought about otherwise.</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>But what do I mean when I say &quot;push our social buttons?&quot;</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>Well, one of the things that we've learned</span>
+<span class='talk-transcript__fragment' data-time='216000' id='t-216000'>is that, if we design these robots to communicate with us</span>
+<span class='talk-transcript__fragment' data-time='218000' id='t-218000'>using the same body language,</span>
+<span class='talk-transcript__fragment' data-time='220000' id='t-220000'>the same sort of non-verbal cues that people use --</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>like Nexi, our humanoid robot, is doing here --</span>
+<span class='talk-transcript__fragment' data-time='225000' id='t-225000'>what we find is that people respond to robots</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>a lot like they respond to people.</span>
+<span class='talk-transcript__fragment' data-time='229000' id='t-229000'>People use these cues to determine things like how persuasive someone is,</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>how likable, how engaging,</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>how trustworthy.</span>
+<span class='talk-transcript__fragment' data-time='236000' id='t-236000'>It turns out it's the same for robots.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>It's turning out now</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>that robots are actually becoming a really interesting new scientific tool</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>to understand human behavior.</span>
+<span class='talk-transcript__fragment' data-time='245000' id='t-245000'>To answer questions like, how is it that, from a brief encounter,</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>we're able to make an estimate of how trustworthy another person is?</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>Mimicry's believed to play a role, but how?</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>Is it the mimicking of particular gestures that matters?</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>It turns out it's really hard</span>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>to learn this or understand this from watching people</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>because when we interact we do all of these cues automatically.</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>We can't carefully control them because they're subconscious for us.</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>But with the robot, you can.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='268000' id='t-268000'>And so in this video here --</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>this is a video taken from David DeSteno's lab at Northeastern University.</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>He's a psychologist we've been collaborating with.</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>There's actually a scientist carefully controlling Nexi's cues</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>to be able to study this question.</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>And the bottom line is -- the reason why this works is</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>because it turns out people just behave like people</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>even when interacting with a robot.</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>So given that key insight,</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>we can now start to imagine</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>new kinds of applications for robots.</span>
+<span class='talk-transcript__fragment' data-time='295000' id='t-295000'>For instance, if robots do respond to our non-verbal cues,</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>maybe they would be a cool, new communication technology.</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>So imagine this:</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>What about a robot accessory for your cellphone?</span>
+<span class='talk-transcript__fragment' data-time='306000' id='t-306000'>You call your friend, she puts her handset in a robot,</span>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>and, bam! You're a MeBot --</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>you can make eye contact, you can talk with your friends,</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>you can move around, you can gesture --</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>maybe the next best thing to really being there, or is it?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>To explore this question,</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>my student, Siggy Adalgeirsson, did a study</span>
+<span class='talk-transcript__fragment' data-time='323000' id='t-323000'>where we brought human participants, people, into our lab</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>to do a collaborative task</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>with a remote collaborator.</span>
+<span class='talk-transcript__fragment' data-time='330000' id='t-330000'>The task involved things</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>like looking at a set of objects on the table,</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>discussing them in terms of their importance and relevance to performing a certain task --</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>this ended up being a survival task --</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>and then rating them in terms</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>of how valuable and important they thought they were.</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>The remote collaborator was an experimenter from our group</span>
+<span class='talk-transcript__fragment' data-time='346000' id='t-346000'>who used one of three different technologies</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>to interact with the participants.</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>The first was just the screen.</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>This is just like video conferencing today.</span>
+<span class='talk-transcript__fragment' data-time='355000' id='t-355000'>The next was to add mobility -- so, have the screen on a mobile base.</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>This is like, if you're familiar with any of the telepresence robots today --</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>this is mirroring that situation.</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>And then the fully expressive MeBot.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>So after the interaction,</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>we asked people to rate their quality of interaction</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>with the technology, with a remote collaborator</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>through this technology, in a number of different ways.</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>We looked at psychological involvement --</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>how much empathy did you feel for the other person?</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>We looked at overall engagement.</span>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>We looked at their desire to cooperate.</span>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>And this is what we see when they use just the screen.</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>It turns out, when you add mobility -- the ability to roll around the table --</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>you get a little more of a boost.</span>
+<span class='talk-transcript__fragment' data-time='392000' id='t-392000'>And you get even more of a boost when you add the full expression.</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>So it seems like this physical, social embodiment</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>actually really makes a difference.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='399000' id='t-399000'>Now let's try to put this into a little bit of context.</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>Today we know that families are living further and further apart,</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>and that definitely takes a toll on family relationships</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>and family bonds over distance.</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>For me, I have three young boys,</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>and I want them to have a really good relationship</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>with their grandparents.</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>But my parents live thousands of miles away,</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>so they just don't get to see each other that often.</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>We try Skype, we try phone calls,</span>
+<span class='talk-transcript__fragment' data-time='421000' id='t-421000'>but my boys are little -- they don't really want to talk;</span>
+<span class='talk-transcript__fragment' data-time='423000' id='t-423000'>they want to play.</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>So I love the idea of thinking about robots</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>as a new kind of distance-play technology.</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>I imagine a time not too far from now --</span>
+<span class='talk-transcript__fragment' data-time='433000' id='t-433000'>my mom can go to her computer,</span>
+<span class='talk-transcript__fragment' data-time='435000' id='t-435000'>open up a browser and jack into a little robot.</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>And as grandma-bot,</span>
+<span class='talk-transcript__fragment' data-time='440000' id='t-440000'>she can now play, really play,</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>with my sons, with her grandsons,</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>in the real world with his real toys.</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>I could imagine grandmothers being able to do social-plays</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>with their granddaughters, with their friends,</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>and to be able to share all kinds of other activities around the house,</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>like sharing a bedtime story.</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>And through this technology,</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>being able to be an active participant</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>in their grandchildren's lives</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>in a way that's not possible today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>Let's think about some other domains,</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>like maybe health.</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>So in the United States today,</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>over 65 percent of people are either overweight or obese,</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>and now it's a big problem with our children as well.</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>And we know that as you get older in life,</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>if you're obese when you're younger, that can lead to chronic diseases</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>that not only reduce your quality of life,</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>but are a tremendous economic burden on our health care system.</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>But if robots can be engaging,</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>if we like to cooperate with robots,</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>if robots are persuasive,</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>maybe a robot can help you</span>
+<span class='talk-transcript__fragment' data-time='492000' id='t-492000'>maintain a diet and exercise program,</span>
+<span class='talk-transcript__fragment' data-time='494000' id='t-494000'>maybe they can help you manage your weight.</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>Sort of like a digital Jiminy --</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>as in the well-known fairy tale --</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>a kind of friendly, supportive presence that's always there</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>to be able to help you make the right decision</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>in the right way at the right time</span>
+<span class='talk-transcript__fragment' data-time='507000' id='t-507000'>to help you form healthy habits.</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>So we actually explored this idea in our lab.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>This is a robot, Autom.</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>Cory Kidd developed this robot for his doctoral work.</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>And it was designed to be a robot diet-and-exercise coach.</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>It had a couple of simple non-verbal skills it could do.</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>It could make eye contact with you.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>It could share information looking down at a screen.</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>You'd use a screen interface to enter information,</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>like how many calories you ate that day,</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>how much exercise you got.</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>And then it could help track that for you.</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>And the robot spoke with a synthetic voice</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>to engage you in a coaching dialogue</span>
+<span class='talk-transcript__fragment' data-time='537000' id='t-537000'>modeled after trainers</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>and patients and so forth.</span>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>And it would build a working alliance with you</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>through that dialogue.</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>It could help you set goals and track your progress,</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>and it would help motivate you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>So an interesting question is,</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>does the social embodiment really matter? Does it matter that it's a robot?</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>Is it really just the quality of advice and information that matters?</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>To explore that question,</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>we did a study in the Boston area</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>where we put one of three interventions in people's homes</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>for a period of several weeks.</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>One case was the robot you saw there, Autom.</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>Another was a computer that ran the same touch-screen interface,</span>
+<span class='talk-transcript__fragment' data-time='572000' id='t-572000'>ran exactly the same dialogues.</span>
+<span class='talk-transcript__fragment' data-time='574000' id='t-574000'>The quality of advice was identical.</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>And the third was just a pen and paper log,</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>because that's the standard intervention you typically get</span>
+<span class='talk-transcript__fragment' data-time='580000' id='t-580000'>when you start a diet-and-exercise program.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>So one of the things we really wanted to look at</span>
+<span class='talk-transcript__fragment' data-time='586000' id='t-586000'>was not how much weight people lost,</span>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>but really how long they interacted with the robot.</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>Because the challenge is not losing weight, it's actually keeping it off.</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>And the longer you could interact with one of these interventions,</span>
+<span class='talk-transcript__fragment' data-time='598000' id='t-598000'>well that's indicative, potentially, of longer-term success.</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>So the first thing I want to look at is how long,</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>how long did people interact with these systems.</span>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>It turns out that people interacted with the robot</span>
+<span class='talk-transcript__fragment' data-time='607000' id='t-607000'>significantly more,</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>even though the quality of the advice was identical to the computer.</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>When it asked people to rate it on terms of the quality of the working alliance,</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>people rated the robot higher</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>and they trusted the robot more.</span>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>And when you look at emotional engagement,</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>it was completely different.</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>People would name the robots.</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>They would dress the robots.</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>And even when we would come up to pick up the robots at the end of the study,</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>they would come out to the car and say good-bye to the robots.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>They didn't do this with a computer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>The last thing I want to talk about today</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>is the future of children's media.</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>We know that kids spend a lot of time behind screens today,</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>whether it's television or computer games or whatnot.</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>My sons, they love the screen. They love the screen.</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>But I want them to play; as a mom, I want them to play,</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>like, real-world play.</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>And so I have a new project in my group I wanted to present to you today</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>called Playtime Computing</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>that's really trying to think about how we can take</span>
+<span class='talk-transcript__fragment' data-time='664000' id='t-664000'>what's so engaging about digital media</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>and literally bring it off the screen</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>into the real world of the child,</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>where it can take on many of the properties of real-world play.</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>So here's the first exploration of this idea,</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>where characters can be physical or virtual,</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>and where the digital content</span>
+<span class='talk-transcript__fragment' data-time='683000' id='t-683000'>can literally come off the screen</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>into the world and back.</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>I like to think of this</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>as the Atari Pong</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>of this blended-reality play.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>But we can push this idea further.</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>What if --</span>
+<span class='talk-transcript__fragment' data-time='697000' id='t-697000'>(Game) Nathan: Here it comes. Yay!</span>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>CB: -- the character itself could come into your world?</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>It turns out that kids love it</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>when the character becomes real and enters into their world.</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>And when it's in their world,</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>they can relate to it and play with it in a way</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>that's fundamentally different from how they play with it on the screen.</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>Another important idea is this notion</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>of persistence of character across realities.</span>
+<span class='talk-transcript__fragment' data-time='719000' id='t-719000'>So changes that children make in the real world</span>
+<span class='talk-transcript__fragment' data-time='721000' id='t-721000'>need to translate to the virtual world.</span>
+<span class='talk-transcript__fragment' data-time='723000' id='t-723000'>So here, Nathan has changed the letter A to the number 2.</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>You can imagine maybe these symbols</span>
+<span class='talk-transcript__fragment' data-time='728000' id='t-728000'>give the characters special powers when it goes into the virtual world.</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>So they are now sending the character back into that world.</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>And now it's got number power.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>And then finally, what I've been trying to do here</span>
+<span class='talk-transcript__fragment' data-time='739000' id='t-739000'>is create a really immersive experience for kids,</span>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>where they really feel like they are part of that story,</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>a part of that experience.</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>And I really want to spark their imaginations</span>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>the way mine was sparked as a little girl watching &quot;Star Wars.&quot;</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>But I want to do more than that.</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>I actually want them to create those experiences.</span>
+<span class='talk-transcript__fragment' data-time='757000' id='t-757000'>I want them to be able to literally build their imagination</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>into these experiences and make them their own.</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>So we've been exploring a lot of ideas</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>in telepresence and mixed reality</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>to literally allow kids to project their ideas into this space</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>where other kids can interact with them</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>and build upon them.</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>I really want to come up with new ways of children's media</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>that foster creativity and learning and innovation.</span>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>I think that's very, very important.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>So this is a new project.</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>We've invited a lot of kids into this space,</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>and they think it's pretty cool.</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>But I can tell you, the thing that they love the most</span>
+<span class='talk-transcript__fragment' data-time='790000' id='t-790000'>is the robot.</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>What they care about is the robot.</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>Robots touch something deeply human within us.</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>And so whether they're helping us</span>
+<span class='talk-transcript__fragment' data-time='800000' id='t-800000'>to become creative and innovative,</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>or whether they're helping us</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>to feel more deeply connected despite distance,</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>or whether they are our trusted sidekick</span>
+<span class='talk-transcript__fragment' data-time='808000' id='t-808000'>who's helping us attain our personal goals</span>
+<span class='talk-transcript__fragment' data-time='810000' id='t-810000'>in becoming our highest and best selves,</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>for me, robots are all about people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

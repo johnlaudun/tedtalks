@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Gregory Heyworth: How I&#39;m discovering the secrets of ancient texts | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Gregory Heyworth: How I&#39;m discovering the secrets of ancient texts | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Gregory Heyworth is a textual scientist; he and his lab work on new ways to read ancient manuscripts and maps using spectral imaging technology. In this fascinating talk, watch as Heyworth shines a light on lost history, deciphering texts that haven&#39;t been read in thousands of years. How could these lost classics rewrite what we know about the past?" name="description" />
+<meta content="Gregory Heyworth" name="author" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;How I&#39;m discovering the secrets of ancient texts&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4394f367849027387584466d08ea802a0ce42daf_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4394f367849027387584466d08ea802a0ce42daf_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Gregory Heyworth is a textual scientist; he and his lab work on new ways to read ancient manuscripts and maps using spectral imaging technology. In this fascinating talk, watch as Heyworth shines a light on lost history, deciphering texts that haven&#39;t been read in thousands of years. How could these lost classics rewrite what we know about the past?" property="og:description" />
+<meta content="http://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2430?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option selected value='en'>English</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2430?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="727" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4394f367849027387584466d08ea802a0ce42daf_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:07</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Gregory Heyworth</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2430?language=en' lang='en'>
+How I'm discovering the secrets of ancient texts
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2016
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='760' id='t-760'>On January 26, 2013,</span>
+<span class='talk-transcript__fragment' data-time='3480' id='t-3480'>a band of al-Qaeda militants
+entered the ancient city of Timbuktu</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>on the southern edge of the Sahara Desert.</span>
+<span class='talk-transcript__fragment' data-time='9640' id='t-9640'>There, they set fire to a medieval library
+of 30,000 manuscripts</span>
+<span class='talk-transcript__fragment' data-time='14280' id='t-14280'>written in Arabic
+and several African languages</span>
+<span class='talk-transcript__fragment' data-time='17080' id='t-17080'>and ranging in subject from astronomy
+to geography, history to medicine,</span>
+<span class='talk-transcript__fragment' data-time='22840' id='t-22840'>including one book which records</span>
+<span class='talk-transcript__fragment' data-time='24560' id='t-24560'>perhaps the first treatment
+for male erectile dysfunction.</span>
+<span class='talk-transcript__fragment' data-time='29760' id='t-29760'>Unknown in the West,</span>
+<span class='talk-transcript__fragment' data-time='31080' id='t-31080'>this was the collected wisdom
+of an entire continent,</span>
+<span class='talk-transcript__fragment' data-time='34520' id='t-34520'>the voice of Africa at a time when Africa
+was thought not to have a voice at all.</span>
+<span class='talk-transcript__fragment' data-time='39480' id='t-39480'>The mayor of Bamako,
+who witnessed the event,</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>called the burning of the manuscripts</span>
+<span class='talk-transcript__fragment' data-time='43960' id='t-43960'>&quot;a crime against world cultural heritage.&quot;</span>
+<span class='talk-transcript__fragment' data-time='46880' id='t-46880'>And he was right --</span>
+<span class='talk-transcript__fragment' data-time='48440' id='t-48440'>or he would have been, if it weren't
+for the fact that he was also lying.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='52560' id='t-52560'>In fact, just before,</span>
+<span class='talk-transcript__fragment' data-time='55320' id='t-55320'>African scholars had collected
+a random assortment of old books</span>
+<span class='talk-transcript__fragment' data-time='59480' id='t-59480'>and left them out
+for the terrorists to burn.</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>Today, the collection
+lies hidden in Bamako,</span>
+<span class='talk-transcript__fragment' data-time='64959' id='t-64959'>the capital of Mali,</span>
+<span class='talk-transcript__fragment' data-time='66360' id='t-66360'>moldering in the high humidity.</span>
+<span class='talk-transcript__fragment' data-time='68480' id='t-68480'>What was rescued by ruse</span>
+<span class='talk-transcript__fragment' data-time='70360' id='t-70360'>is now once again in jeopardy,</span>
+<span class='talk-transcript__fragment' data-time='72120' id='t-72120'>this time by climate.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='74200' id='t-74200'>But Africa, and the far-flung
+corners of the world,</span>
+<span class='talk-transcript__fragment' data-time='76640' id='t-76640'>are not the only places,
+or even the main places</span>
+<span class='talk-transcript__fragment' data-time='78960' id='t-78960'>in which manuscripts that could change
+the history of world culture</span>
+<span class='talk-transcript__fragment' data-time='83280' id='t-83280'>are in jeopardy.</span>
+<span class='talk-transcript__fragment' data-time='85920' id='t-85920'>Several years ago, I conducted
+a survey of European research libraries</span>
+<span class='talk-transcript__fragment' data-time='90680' id='t-90680'>and discovered that,
+at the barest minimum,</span>
+<span class='talk-transcript__fragment' data-time='92960' id='t-92960'>there are 60,000 manuscripts</span>
+<span class='talk-transcript__fragment' data-time='96200' id='t-96200'>pre-1500</span>
+<span class='talk-transcript__fragment' data-time='97840' id='t-97840'>that are illegible
+because of water damage,</span>
+<span class='talk-transcript__fragment' data-time='100800' id='t-100800'>fading, mold and chemical reagents.</span>
+<span class='talk-transcript__fragment' data-time='104800' id='t-104800'>The real number is likely double that,</span>
+<span class='talk-transcript__fragment' data-time='107800' id='t-107800'>and that doesn't even count</span>
+<span class='talk-transcript__fragment' data-time='110000' id='t-110000'>Renaissance manuscripts
+and modern manuscripts</span>
+<span class='talk-transcript__fragment' data-time='112640' id='t-112640'>and cultural heritage
+objects such as maps.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='117960' id='t-117960'>What if there were a technology</span>
+<span class='talk-transcript__fragment' data-time='120440' id='t-120440'>that could recover
+these lost and unknown works?</span>
+<span class='talk-transcript__fragment' data-time='125800' id='t-125800'>Imagine worldwide
+how a trove of hundreds of thousands</span>
+<span class='talk-transcript__fragment' data-time='130240' id='t-130240'>of previously unknown texts</span>
+<span class='talk-transcript__fragment' data-time='133200' id='t-133200'>could radically transform
+our knowledge of the past.</span>
+<span class='talk-transcript__fragment' data-time='138280' id='t-138280'>Imagine what unknown classics
+we would discover</span>
+<span class='talk-transcript__fragment' data-time='142320' id='t-142320'>which would rewrite the canons
+of literature, history,</span>
+<span class='talk-transcript__fragment' data-time='145680' id='t-145680'>philosophy, music --</span>
+<span class='talk-transcript__fragment' data-time='147840' id='t-147840'>or, more provocatively, that could
+rewrite our cultural identities,</span>
+<span class='talk-transcript__fragment' data-time='151400' id='t-151400'>building new bridges
+between people and culture.</span>
+<span class='talk-transcript__fragment' data-time='155520' id='t-155520'>These are the questions
+that transformed me</span>
+<span class='talk-transcript__fragment' data-time='158080' id='t-158080'>from a medieval scholar,
+a reader of texts,</span>
+<span class='talk-transcript__fragment' data-time='160920' id='t-160920'>into a textual scientist.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='164120' id='t-164120'>What an unsatisfying word &quot;reader&quot; is.</span>
+<span class='talk-transcript__fragment' data-time='166440' id='t-166440'>For me, it conjures up
+images of passivity,</span>
+<span class='talk-transcript__fragment' data-time='169040' id='t-169040'>of someone sitting idly in an armchair</span>
+<span class='talk-transcript__fragment' data-time='171480' id='t-171480'>waiting for knowledge to come to him</span>
+<span class='talk-transcript__fragment' data-time='173800' id='t-173800'>in a neat little parcel.</span>
+<span class='talk-transcript__fragment' data-time='175520' id='t-175520'>How much better to be
+a participant in the past,</span>
+<span class='talk-transcript__fragment' data-time='178560' id='t-178560'>an adventurer in an undiscovered country,</span>
+<span class='talk-transcript__fragment' data-time='181760' id='t-181760'>searching for the hidden text.</span>
+<span class='talk-transcript__fragment' data-time='185360' id='t-185360'>As an academic, I was a mere reader.</span>
+<span class='talk-transcript__fragment' data-time='188560' id='t-188560'>I read and taught the same classics</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>that people had been reading
+and teaching for hundreds of years --</span>
+<span class='talk-transcript__fragment' data-time='194160' id='t-194160'>Virgil, Ovid, Chaucer, Petrarch --</span>
+<span class='talk-transcript__fragment' data-time='197200' id='t-197200'>and with every scholarly article
+that I published</span>
+<span class='talk-transcript__fragment' data-time='199560' id='t-199560'>I added to human knowledge
+in ever-diminishing slivers of insight.</span>
+<span class='talk-transcript__fragment' data-time='204760' id='t-204760'>What I wanted to be</span>
+<span class='talk-transcript__fragment' data-time='206360' id='t-206360'>was an archaeologist of the past,</span>
+<span class='talk-transcript__fragment' data-time='208480' id='t-208480'>a discoverer of literature,</span>
+<span class='talk-transcript__fragment' data-time='210080' id='t-210080'>an Indiana Jones without the whip --</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>or, actually, with the whip.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='213520' id='t-213520'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='214760' id='t-214760'>And I wanted it not just for myself
+but I wanted it for my students as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='218480' id='t-218480'>And so six years ago,
+I changed the direction of my career.</span>
+<span class='talk-transcript__fragment' data-time='222400' id='t-222400'>At the time, I was working
+on &quot;The Chess of Love,&quot;</span>
+<span class='talk-transcript__fragment' data-time='225440' id='t-225440'>the last important long poem
+of the European Middle Ages</span>
+<span class='talk-transcript__fragment' data-time='228320' id='t-228320'>never to have been edited.</span>
+<span class='talk-transcript__fragment' data-time='229960' id='t-229960'>And it wasn't edited because
+it existed in only one manuscript</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>which was so badly damaged
+during the firebombing of Dresden</span>
+<span class='talk-transcript__fragment' data-time='236280' id='t-236280'>in World War II</span>
+<span class='talk-transcript__fragment' data-time='237520' id='t-237520'>that generations of scholars
+had pronounced it lost.</span>
+<span class='talk-transcript__fragment' data-time='241400' id='t-241400'>For five years, I had been working
+with an ultraviolet lamp</span>
+<span class='talk-transcript__fragment' data-time='244880' id='t-244880'>trying to recover traces of the writing</span>
+<span class='talk-transcript__fragment' data-time='246800' id='t-246800'>and I'd gone about as far
+as technology at the time</span>
+<span class='talk-transcript__fragment' data-time='249240' id='t-249240'>could actually take me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='250640' id='t-250640'>And so I did what many people do.</span>
+<span class='talk-transcript__fragment' data-time='252760' id='t-252760'>I went online,</span>
+<span class='talk-transcript__fragment' data-time='254800' id='t-254800'>and there I learned about</span>
+<span class='talk-transcript__fragment' data-time='256560' id='t-256560'>how multispectral imaging had been used
+to recover two lost treatises</span>
+<span class='talk-transcript__fragment' data-time='261160' id='t-261160'>of the famed Greek
+mathematician Archimedes</span>
+<span class='talk-transcript__fragment' data-time='264080' id='t-264080'>from a 13th-century palimpsest.</span>
+<span class='talk-transcript__fragment' data-time='265640' id='t-265640'>A palimpsest is a manuscript
+which has been erased and overwritten.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='270200' id='t-270200'>And so, out of the blue,</span>
+<span class='talk-transcript__fragment' data-time='271480' id='t-271480'>I decided to write
+to the lead imaging scientist</span>
+<span class='talk-transcript__fragment' data-time='274560' id='t-274560'>on the Archimedes palimpsest project,</span>
+<span class='talk-transcript__fragment' data-time='276800' id='t-276800'>Professor Roger Easton,</span>
+<span class='talk-transcript__fragment' data-time='278320' id='t-278320'>with a plan and a plea.</span>
+<span class='talk-transcript__fragment' data-time='280160' id='t-280160'>And to my surprise,
+he actually wrote back.</span>
+<span class='talk-transcript__fragment' data-time='284000' id='t-284000'>With his help, I was able
+to win a grant from the US government</span>
+<span class='talk-transcript__fragment' data-time='287680' id='t-287680'>to build a transportable,
+multispectral imaging lab,</span>
+<span class='talk-transcript__fragment' data-time='291720' id='t-291720'>And with this lab, I transformed
+what was a charred and faded mess</span>
+<span class='talk-transcript__fragment' data-time='296560' id='t-296560'>into a new medieval classic.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='299360' id='t-299360'>So how does multispectral
+imaging actually work?</span>
+<span class='talk-transcript__fragment' data-time='302160' id='t-302160'>Well, the idea
+behind multispectral imaging</span>
+<span class='talk-transcript__fragment' data-time='304640' id='t-304640'>is something that anyone who is familiar
+with infrared night vision goggles</span>
+<span class='talk-transcript__fragment' data-time='308960' id='t-308960'>will immediately appreciate:</span>
+<span class='talk-transcript__fragment' data-time='310360' id='t-310360'>that what we can see
+in the visible spectrum of light</span>
+<span class='talk-transcript__fragment' data-time='312880' id='t-312880'>is only a tiny fraction
+of what's actually there.</span>
+<span class='talk-transcript__fragment' data-time='315720' id='t-315720'>The same is true with invisible writing.</span>
+<span class='talk-transcript__fragment' data-time='319280' id='t-319280'>Our system uses 12 wavelengths of light</span>
+<span class='talk-transcript__fragment' data-time='323480' id='t-323480'>between the ultraviolet and the infrared,</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>and these are shown down
+onto the manuscript from above</span>
+<span class='talk-transcript__fragment' data-time='329080' id='t-329080'>from banks of LEDs,</span>
+<span class='talk-transcript__fragment' data-time='330720' id='t-330720'>and another multispectral light source</span>
+<span class='talk-transcript__fragment' data-time='332600' id='t-332600'>which comes up through
+the individual leaves of the manuscript.</span>
+<span class='talk-transcript__fragment' data-time='335577' id='t-335577'>Up to 35 images per sequence
+per leaf are imaged this way</span>
+<span class='talk-transcript__fragment' data-time='340120' id='t-340120'>using a high-powered digital camera
+equipped with a lens</span>
+<span class='talk-transcript__fragment' data-time='342764' id='t-342764'>which is made out of quartz.</span>
+<span class='talk-transcript__fragment' data-time='344760' id='t-344760'>There are about five
+of these in the world.</span>
+<span class='talk-transcript__fragment' data-time='346880' id='t-346880'>And once we capture these images,</span>
+<span class='talk-transcript__fragment' data-time='348720' id='t-348720'>we feed them through
+statistical algorithms</span>
+<span class='talk-transcript__fragment' data-time='350800' id='t-350800'>to further enhance and clarify them,</span>
+<span class='talk-transcript__fragment' data-time='353320' id='t-353320'>using software which was originally
+designed for satellite images</span>
+<span class='talk-transcript__fragment' data-time='356720' id='t-356720'>and used by people
+like geospatial scientists</span>
+<span class='talk-transcript__fragment' data-time='360120' id='t-360120'>and the CIA.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='362040' id='t-362040'>The results can be spectacular.</span>
+<span class='talk-transcript__fragment' data-time='364360' id='t-364360'>You may already have heard
+of what's been done</span>
+<span class='talk-transcript__fragment' data-time='366560' id='t-366560'>for the Dead Sea Scrolls,</span>
+<span class='talk-transcript__fragment' data-time='367960' id='t-367960'>which are slowly gelatinizing.</span>
+<span class='talk-transcript__fragment' data-time='370480' id='t-370480'>Using infrared, we've been able
+to read even the darkest corners</span>
+<span class='talk-transcript__fragment' data-time='374160' id='t-374160'>of the Dead Sea Scrolls.</span>
+<span class='talk-transcript__fragment' data-time='376880' id='t-376880'>You may not be aware, however,</span>
+<span class='talk-transcript__fragment' data-time='378360' id='t-378360'>of other Biblical texts
+that are in jeopardy.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='381120' id='t-381120'>Here, for example,
+is a leaf from a manuscript</span>
+<span class='talk-transcript__fragment' data-time='384560' id='t-384560'>that we imaged,</span>
+<span class='talk-transcript__fragment' data-time='386360' id='t-386360'>which is perhaps the most valuable
+Christian Bible in the world.</span>
+<span class='talk-transcript__fragment' data-time='390880' id='t-390880'>The Codex Vercellensis is the oldest
+translation of the Gospels into Latin,</span>
+<span class='talk-transcript__fragment' data-time='396680' id='t-396680'>and it dates from the first half
+of the fourth century.</span>
+<span class='talk-transcript__fragment' data-time='400560' id='t-400560'>This is the closest we can come</span>
+<span class='talk-transcript__fragment' data-time='402840' id='t-402840'>to the Bible at the time
+of the foundation of Christendom</span>
+<span class='talk-transcript__fragment' data-time='406800' id='t-406800'>under Emperor Constantine,</span>
+<span class='talk-transcript__fragment' data-time='408440' id='t-408440'>and at the time also
+of the Council of Nicaea,</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>when the basic creed of Christianity
+was being agreed upon.</span>
+<span class='talk-transcript__fragment' data-time='414520' id='t-414520'>This manuscript, unfortunately,
+has been very badly damaged,</span>
+<span class='talk-transcript__fragment' data-time='417800' id='t-417800'>and it's damaged because for centuries</span>
+<span class='talk-transcript__fragment' data-time='420040' id='t-420040'>it had been used and handled</span>
+<span class='talk-transcript__fragment' data-time='422520' id='t-422520'>in swearing in ceremonies in the church.</span>
+<span class='talk-transcript__fragment' data-time='425240' id='t-425240'>In fact, that purple splotch
+that you see in the upper left hand corner</span>
+<span class='talk-transcript__fragment' data-time='429920' id='t-429920'>is Aspergillus, which is a fungus</span>
+<span class='talk-transcript__fragment' data-time='434240' id='t-434240'>which originates in the unwashed hands</span>
+<span class='talk-transcript__fragment' data-time='437800' id='t-437800'>of a person with tuberculosis.</span>
+<span class='talk-transcript__fragment' data-time='440640' id='t-440640'>Our imaging has enabled me
+to make the first transcription</span>
+<span class='talk-transcript__fragment' data-time='443720' id='t-443720'>of this manuscript in 250 years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='447800' id='t-447800'>Having a lab that can travel
+to collections where it's needed, however,</span>
+<span class='talk-transcript__fragment' data-time='451280' id='t-451280'>is only part of the solution.</span>
+<span class='talk-transcript__fragment' data-time='453480' id='t-453480'>The technology is expensive and very rare,</span>
+<span class='talk-transcript__fragment' data-time='456360' id='t-456360'>and the imaging and image
+processing skills are esoteric.</span>
+<span class='talk-transcript__fragment' data-time='459600' id='t-459600'>That means that mounting recoveries</span>
+<span class='talk-transcript__fragment' data-time='461320' id='t-461320'>is beyond the reach of most researchers
+and all but the wealthiest institutions.</span>
+<span class='talk-transcript__fragment' data-time='466240' id='t-466240'>That's why I founded the Lazarus Project,</span>
+<span class='talk-transcript__fragment' data-time='469040' id='t-469040'>a not-for-profit initiative</span>
+<span class='talk-transcript__fragment' data-time='470720' id='t-470720'>to bring multispectral imaging
+to individual researchers</span>
+<span class='talk-transcript__fragment' data-time='474720' id='t-474720'>and smaller institutions
+at little or no cost whatsoever.</span>
+<span class='talk-transcript__fragment' data-time='479560' id='t-479560'>Over the past five years,</span>
+<span class='talk-transcript__fragment' data-time='481200' id='t-481200'>our team of imaging scientists,
+scholars and students</span>
+<span class='talk-transcript__fragment' data-time='485080' id='t-485080'>has travelled to seven different countries</span>
+<span class='talk-transcript__fragment' data-time='487280' id='t-487280'>and have recovered some of the world's
+most valuable damaged manuscripts,</span>
+<span class='talk-transcript__fragment' data-time='491160' id='t-491160'>included the Vercelli Book,
+which is the oldest book of English,</span>
+<span class='talk-transcript__fragment' data-time='494184' id='t-494184'>the Black Book of Carmarthen,
+the oldest book of Welsh,</span>
+<span class='talk-transcript__fragment' data-time='496824' id='t-496824'>and some of the most valuable
+earliest Gospels</span>
+<span class='talk-transcript__fragment' data-time='500320' id='t-500320'>located in what is now
+the former Soviet Georgia.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='504600' id='t-504600'>So, spectral imaging
+can recover lost texts.</span>
+<span class='talk-transcript__fragment' data-time='508360' id='t-508360'>More subtly, though, it can recover
+a second story behind every object,</span>
+<span class='talk-transcript__fragment' data-time='513480' id='t-513480'>the story of how, when
+and by whom a text was created,</span>
+<span class='talk-transcript__fragment' data-time='518200' id='t-518200'>and, sometimes, what the author
+was thinking at the time he wrote.</span>
+<span class='talk-transcript__fragment' data-time='522600' id='t-522600'>Take, for example, a draft
+of the Declaration of Independence</span>
+<span class='talk-transcript__fragment' data-time='525720' id='t-525720'>written in Thomas Jefferson's own hand,</span>
+<span class='talk-transcript__fragment' data-time='528160' id='t-528160'>which some colleagues of mine
+imaged a few years ago</span>
+<span class='talk-transcript__fragment' data-time='530613' id='t-530613'>at the Library of Congress.</span>
+<span class='talk-transcript__fragment' data-time='532360' id='t-532360'>Curators had noticed
+that one word throughout</span>
+<span class='talk-transcript__fragment' data-time='535080' id='t-535080'>had been scratched out and overwritten.</span>
+<span class='talk-transcript__fragment' data-time='537480' id='t-537480'>The word overwritten was &quot;citizens.&quot;</span>
+<span class='talk-transcript__fragment' data-time='540240' id='t-540240'>Perhaps you can guess
+what the word underneath was.</span>
+<span class='talk-transcript__fragment' data-time='543960' id='t-543960'>&quot;Subjects.&quot;</span>
+<span class='talk-transcript__fragment' data-time='545400' id='t-545400'>There, ladies and gentlemen,
+is American democracy</span>
+<span class='talk-transcript__fragment' data-time='548240' id='t-548240'>evolving under the hand
+of Thomas Jefferson.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='551360' id='t-551360'>Or consider the 1491 Martellus Map,</span>
+<span class='talk-transcript__fragment' data-time='555240' id='t-555240'>which we imaged
+at Yale's Beinecke Library.</span>
+<span class='talk-transcript__fragment' data-time='557600' id='t-557600'>This was the map
+that Columbus likely consulted</span>
+<span class='talk-transcript__fragment' data-time='560080' id='t-560080'>before he traveled to the New World</span>
+<span class='talk-transcript__fragment' data-time='561800' id='t-561800'>and which gave him his idea
+of what Asia looked like</span>
+<span class='talk-transcript__fragment' data-time='564560' id='t-564560'>and where Japan was located.</span>
+<span class='talk-transcript__fragment' data-time='567640' id='t-567640'>The problem with this map
+is that its inks and pigments</span>
+<span class='talk-transcript__fragment' data-time='570680' id='t-570680'>had so degraded over time</span>
+<span class='talk-transcript__fragment' data-time='572800' id='t-572800'>that this large, nearly seven-foot map,</span>
+<span class='talk-transcript__fragment' data-time='574960' id='t-574960'>made the world look like a giant desert.</span>
+<span class='talk-transcript__fragment' data-time='577520' id='t-577520'>Until now, we had very little idea,
+detailed idea, that is,</span>
+<span class='talk-transcript__fragment' data-time='581160' id='t-581160'>of what Columbus knew of the world</span>
+<span class='talk-transcript__fragment' data-time='582840' id='t-582840'>and how world cultures were represented.</span>
+<span class='talk-transcript__fragment' data-time='585240' id='t-585240'>The main legend of the map
+was entirely illegible under normal light.</span>
+<span class='talk-transcript__fragment' data-time='589400' id='t-589400'>Ultraviolet did very little for it.</span>
+<span class='talk-transcript__fragment' data-time='591680' id='t-591680'>Multispectral gave us everything.</span>
+<span class='talk-transcript__fragment' data-time='594640' id='t-594640'>In Asia, we learned of monsters
+with ears so long</span>
+<span class='talk-transcript__fragment' data-time='598240' id='t-598240'>that they could cover
+the creature's entire body.</span>
+<span class='talk-transcript__fragment' data-time='601040' id='t-601040'>In Africa, about a snake
+who could cause the ground to smoke.</span>
+<span class='talk-transcript__fragment' data-time='606680' id='t-606680'>Like starlight, which can convey images</span>
+<span class='talk-transcript__fragment' data-time='608960' id='t-608960'>of the way the Universe
+looked in the distant past,</span>
+<span class='talk-transcript__fragment' data-time='611560' id='t-611560'>so multispectral light can take us back
+to the first stuttering moments</span>
+<span class='talk-transcript__fragment' data-time='615480' id='t-615480'>of an object's creation.</span>
+<span class='talk-transcript__fragment' data-time='617480' id='t-617480'>Through this lens, we witness
+the mistakes, the changes of mind,</span>
+<span class='talk-transcript__fragment' data-time='621440' id='t-621440'>the naïvetés, the uncensored thoughts,</span>
+<span class='talk-transcript__fragment' data-time='624360' id='t-624360'>the imperfections of the human imagination</span>
+<span class='talk-transcript__fragment' data-time='626600' id='t-626600'>that allow these hallowed objects
+and their authors</span>
+<span class='talk-transcript__fragment' data-time='629440' id='t-629440'>to become more real,</span>
+<span class='talk-transcript__fragment' data-time='631120' id='t-631120'>that make history closer to us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='634760' id='t-634760'>What about the future?</span>
+<span class='talk-transcript__fragment' data-time='636480' id='t-636480'>There's so much of the past,</span>
+<span class='talk-transcript__fragment' data-time='638680' id='t-638680'>and so few people
+with the skills to rescue it</span>
+<span class='talk-transcript__fragment' data-time='641920' id='t-641920'>before these objects disappear forever.</span>
+<span class='talk-transcript__fragment' data-time='646480' id='t-646480'>That's why I have begun to teach
+this new hybrid discipline</span>
+<span class='talk-transcript__fragment' data-time='649800' id='t-649800'>that I call &quot;textual science.&quot;</span>
+<span class='talk-transcript__fragment' data-time='651720' id='t-651720'>Textual science is a marriage</span>
+<span class='talk-transcript__fragment' data-time='653360' id='t-653360'>of the traditional skills
+of a literary scholar --</span>
+<span class='talk-transcript__fragment' data-time='655760' id='t-655760'>the ability to read old languages
+and old handwriting,</span>
+<span class='talk-transcript__fragment' data-time='658320' id='t-658320'>the knowledge of how texts are made</span>
+<span class='talk-transcript__fragment' data-time='660040' id='t-660040'>in order to be able
+to place and date them --</span>
+<span class='talk-transcript__fragment' data-time='662200' id='t-662200'>with new techniques like imaging science,</span>
+<span class='talk-transcript__fragment' data-time='664960' id='t-664960'>the chemistry of inks and pigments,</span>
+<span class='talk-transcript__fragment' data-time='667560' id='t-667560'>computer-aided optical
+character recognition.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='671160' id='t-671160'>Last year, a student in my class,</span>
+<span class='talk-transcript__fragment' data-time='673360' id='t-673360'>a freshman,</span>
+<span class='talk-transcript__fragment' data-time='674600' id='t-674600'>with a background in Latin and Greek,</span>
+<span class='talk-transcript__fragment' data-time='676440' id='t-676440'>was image-processing a palimpsest</span>
+<span class='talk-transcript__fragment' data-time='678800' id='t-678800'>that we had photographed
+at a famous library in Rome.</span>
+<span class='talk-transcript__fragment' data-time='682240' id='t-682240'>As he worked, tiny Greek writing
+began to appear from behind the text.</span>
+<span class='talk-transcript__fragment' data-time='688200' id='t-688200'>Everyone gathered around,</span>
+<span class='talk-transcript__fragment' data-time='689720' id='t-689720'>and he read a line from a lost work</span>
+<span class='talk-transcript__fragment' data-time='692400' id='t-692400'>of the Greek comic dramatist Menander.</span>
+<span class='talk-transcript__fragment' data-time='695760' id='t-695760'>This was the first time
+in well over a thousand years</span>
+<span class='talk-transcript__fragment' data-time='698480' id='t-698480'>that those words
+had been pronounced aloud.</span>
+<span class='talk-transcript__fragment' data-time='701880' id='t-701880'>In that moment, he became a scholar.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='705440' id='t-705440'>Ladies and gentlemen,
+that is the future of the past.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='708840' id='t-708840'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='710080' id='t-710080'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

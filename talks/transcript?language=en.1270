@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>John Wilbanks: Let&#39;s pool our medical data | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="John Wilbanks: Let&#39;s pool our medical data | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: When you&#39;re getting medical treatment, or taking part in medical testing, privacy is important; strict laws limit what researchers can see and know about you. But what if your medical data could be used -- anonymously -- by anyone seeking to test a hypothesis? John Wilbanks wonders if the desire to protect our privacy is slowing research, and if opening up medical data could lead to a wave of health care innovation." name="description" />
+<meta content="John Wilbanks" name="author" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript?language=es" hreflang="es" rel="alternate" />
+<meta content="Transcript of &quot;Let&#39;s pool our medical data&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: When you&#39;re getting medical treatment, or taking part in medical testing, privacy is important; strict laws limit what researchers can see and know about you. But what if your medical data could be used -- anonymously -- by anyone seeking to test a hypothesis? John Wilbanks wonders if the desire to protect our privacy is slowing research, and if opening up medical data could lead to a wave of health care innovation." property="og:description" />
+<meta content="http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1585?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='john_wilbanks_let_s_pool_our_medical_data'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1585?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="985" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:25</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>John Wilbanks</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1585?language=en' lang='en'>
+Let's pool our medical data
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Persuasive, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='98' id='t-98'>So I have bad news, I have good news,</span>
+<span class='talk-transcript__fragment' data-time='3159' id='t-3159'>and I have a task.</span>
+<span class='talk-transcript__fragment' data-time='5024' id='t-5024'>So the bad news is that we all get sick.</span>
+<span class='talk-transcript__fragment' data-time='7967' id='t-7967'>I get sick. You get sick.</span>
+<span class='talk-transcript__fragment' data-time='10239' id='t-10239'>And every one of us gets sick, and the question really is,</span>
+<span class='talk-transcript__fragment' data-time='12781' id='t-12781'>how sick do we get? Is it something that kills us?</span>
+<span class='talk-transcript__fragment' data-time='15658' id='t-15658'>Is it something that we survive?</span>
+<span class='talk-transcript__fragment' data-time='17003' id='t-17003'>Is it something that we can treat?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='18931' id='t-18931'>And we've gotten sick as long as we've been people.</span>
+<span class='talk-transcript__fragment' data-time='22187' id='t-22187'>And so we've always looked for reasons to explain why we get sick.</span>
+<span class='talk-transcript__fragment' data-time='25673' id='t-25673'>And for a long time, it was the gods, right?</span>
+<span class='talk-transcript__fragment' data-time='27630' id='t-27630'>The gods are angry with me, or the gods are testing me,</span>
+<span class='talk-transcript__fragment' data-time='30784' id='t-30784'>right? Or God, singular, more recently,</span>
+<span class='talk-transcript__fragment' data-time='33200' id='t-33200'>is punishing me or judging me.</span>
+<span class='talk-transcript__fragment' data-time='35864' id='t-35864'>And as long as we've looked for explanations,</span>
+<span class='talk-transcript__fragment' data-time='38544' id='t-38544'>we've wound up with something that gets closer and closer to science,</span>
+<span class='talk-transcript__fragment' data-time='42255' id='t-42255'>which is hypotheses as to why we get sick,</span>
+<span class='talk-transcript__fragment' data-time='44744' id='t-44744'>and as long as we've had hypotheses about why we get sick, we've tried to treat it as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='49484' id='t-49484'>So this is Avicenna. He wrote a book over a thousand years ago called &quot;The Canon of Medicine,&quot;</span>
+<span class='talk-transcript__fragment' data-time='53517' id='t-53517'>and the rules he laid out for testing medicines</span>
+<span class='talk-transcript__fragment' data-time='55923' id='t-55923'>are actually really similar to the rules we have today,</span>
+<span class='talk-transcript__fragment' data-time='57712' id='t-57712'>that the disease and the medicine must be the same strength,</span>
+<span class='talk-transcript__fragment' data-time='60657' id='t-60657'>the medicine needs to be pure, and in the end we need</span>
+<span class='talk-transcript__fragment' data-time='63054' id='t-63054'>to test it in people. And so if you put together these themes</span>
+<span class='talk-transcript__fragment' data-time='66195' id='t-66195'>of a narrative or a hypothesis in human testing,</span>
+<span class='talk-transcript__fragment' data-time='70660' id='t-70660'>right, you get some beautiful results,</span>
+<span class='talk-transcript__fragment' data-time='73316' id='t-73316'>even when we didn't have very good technologies.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='74758' id='t-74758'>This is a guy named Carlos Finlay. He had a hypothesis</span>
+<span class='talk-transcript__fragment' data-time='77820' id='t-77820'>that was way outside the box for his time, in the late 1800s.</span>
+<span class='talk-transcript__fragment' data-time='80725' id='t-80725'>He thought yellow fever was not transmitted by dirty clothing.</span>
+<span class='talk-transcript__fragment' data-time='83573' id='t-83573'>He thought it was transmitted by mosquitos.</span>
+<span class='talk-transcript__fragment' data-time='85999' id='t-85999'>And they laughed at him. For 20 years, they called this guy</span>
+<span class='talk-transcript__fragment' data-time='88361' id='t-88361'>&quot;the mosquito man.&quot; But he ran an experiment in people,</span>
+<span class='talk-transcript__fragment' data-time='91850' id='t-91850'>right? He had this hypothesis, and he tested it in people.</span>
+<span class='talk-transcript__fragment' data-time='94953' id='t-94953'>So he got volunteers to go move to Cuba and live in tents</span>
+<span class='talk-transcript__fragment' data-time='99595' id='t-99595'>and be voluntarily infected with yellow fever.</span>
+<span class='talk-transcript__fragment' data-time='102630' id='t-102630'>So some of the people in some of the tents had dirty clothes</span>
+<span class='talk-transcript__fragment' data-time='105652' id='t-105652'>and some of the people were in tents that were full</span>
+<span class='talk-transcript__fragment' data-time='106871' id='t-106871'>of mosquitos that had been exposed to yellow fever.</span>
+<span class='talk-transcript__fragment' data-time='109127' id='t-109127'>And it definitively proved that it wasn't this magic dust</span>
+<span class='talk-transcript__fragment' data-time='112528' id='t-112528'>called fomites in your clothes that caused yellow fever.</span>
+<span class='talk-transcript__fragment' data-time='115950' id='t-115950'>But it wasn't until we tested it in people that we actually knew.</span>
+<span class='talk-transcript__fragment' data-time='119326' id='t-119326'>And this is what those people signed up for.</span>
+<span class='talk-transcript__fragment' data-time='121285' id='t-121285'>This is what it looked like to have yellow fever in Cuba</span>
+<span class='talk-transcript__fragment' data-time='124375' id='t-124375'>at that time. You suffered in a tent, in the heat, alone,</span>
+<span class='talk-transcript__fragment' data-time='128909' id='t-128909'>and you probably died.</span>
+<span class='talk-transcript__fragment' data-time='131605' id='t-131605'>But people volunteered for this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='134822' id='t-134822'>And it's not just a cool example of a scientific design</span>
+<span class='talk-transcript__fragment' data-time='138133' id='t-138133'>of experiment in theory. They also did this beautiful thing.</span>
+<span class='talk-transcript__fragment' data-time='141046' id='t-141046'>They signed this document, and it's called an informed consent document.</span>
+<span class='talk-transcript__fragment' data-time='144965' id='t-144965'>And informed consent is an idea that we should be</span>
+<span class='talk-transcript__fragment' data-time='147478' id='t-147478'>very proud of as a society, right? It's something that</span>
+<span class='talk-transcript__fragment' data-time='149704' id='t-149704'>separates us from the Nazis at Nuremberg,</span>
+<span class='talk-transcript__fragment' data-time='152470' id='t-152470'>enforced medical experimentation. It's the idea</span>
+<span class='talk-transcript__fragment' data-time='155345' id='t-155345'>that agreement to join a study without understanding isn't agreement.</span>
+<span class='talk-transcript__fragment' data-time='159133' id='t-159133'>It's something that protects us from harm, from hucksters,</span>
+<span class='talk-transcript__fragment' data-time='163242' id='t-163242'>from people that would try to hoodwink us into a clinical</span>
+<span class='talk-transcript__fragment' data-time='166095' id='t-166095'>study that we don't understand, or that we don't agree to.</span>
+<span class='talk-transcript__fragment' data-time='169847' id='t-169847'>And so you put together the thread of narrative hypothesis,</span>
+<span class='talk-transcript__fragment' data-time='174176' id='t-174176'>experimentation in humans, and informed consent,</span>
+<span class='talk-transcript__fragment' data-time='176773' id='t-176773'>and you get what we call clinical study, and it's how we do</span>
+<span class='talk-transcript__fragment' data-time='179438' id='t-179438'>the vast majority of medical work. It doesn't really matter</span>
+<span class='talk-transcript__fragment' data-time='182453' id='t-182453'>if you're in the north, the south, the east, the west.</span>
+<span class='talk-transcript__fragment' data-time='184795' id='t-184795'>Clinical studies form the basis of how we investigate,</span>
+<span class='talk-transcript__fragment' data-time='188908' id='t-188908'>so if we're going to look at a new drug, right,</span>
+<span class='talk-transcript__fragment' data-time='190767' id='t-190767'>we test it in people, we draw blood, we do experiments,</span>
+<span class='talk-transcript__fragment' data-time='193765' id='t-193765'>and we gain consent for that study, to make sure</span>
+<span class='talk-transcript__fragment' data-time='196094' id='t-196094'>that we're not screwing people over as part of it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='198743' id='t-198743'>But the world is changing around the clinical study,</span>
+<span class='talk-transcript__fragment' data-time='202407' id='t-202407'>which has been fairly well established for tens of years</span>
+<span class='talk-transcript__fragment' data-time='205773' id='t-205773'>if not 50 to 100 years.</span>
+<span class='talk-transcript__fragment' data-time='207673' id='t-207673'>So now we're able to gather data about our genomes,</span>
+<span class='talk-transcript__fragment' data-time='210724' id='t-210724'>but, as we saw earlier, our genomes aren't dispositive.</span>
+<span class='talk-transcript__fragment' data-time='213584' id='t-213584'>We're able to gather information about our environment.</span>
+<span class='talk-transcript__fragment' data-time='216350' id='t-216350'>And more importantly, we're able to gather information</span>
+<span class='talk-transcript__fragment' data-time='218260' id='t-218260'>about our choices, because it turns out that what we think of</span>
+<span class='talk-transcript__fragment' data-time='221100' id='t-221100'>as our health is more like the interaction of our bodies,</span>
+<span class='talk-transcript__fragment' data-time='223820' id='t-223820'>our genomes, our choices and our environment.</span>
+<span class='talk-transcript__fragment' data-time='227469' id='t-227469'>And the clinical methods that we've got aren't very good</span>
+<span class='talk-transcript__fragment' data-time='230213' id='t-230213'>at studying that because they are based on the idea</span>
+<span class='talk-transcript__fragment' data-time='232845' id='t-232845'>of person-to-person interaction. You interact</span>
+<span class='talk-transcript__fragment' data-time='234759' id='t-234759'>with your doctor and you get enrolled in the study.</span>
+<span class='talk-transcript__fragment' data-time='236854' id='t-236854'>So this is my grandfather. I actually never met him,</span>
+<span class='talk-transcript__fragment' data-time='239469' id='t-239469'>but he's holding my mom, and his genes are in me, right?</span>
+<span class='talk-transcript__fragment' data-time='243264' id='t-243264'>His choices ran through to me. He was a smoker,</span>
+<span class='talk-transcript__fragment' data-time='246155' id='t-246155'>like most people were. This is my son.</span>
+<span class='talk-transcript__fragment' data-time='248739' id='t-248739'>So my grandfather's genes go all the way through to him,</span>
+<span class='talk-transcript__fragment' data-time='252181' id='t-252181'>and my choices are going to affect his health.</span>
+<span class='talk-transcript__fragment' data-time='254733' id='t-254733'>The technology between these two pictures</span>
+<span class='talk-transcript__fragment' data-time='257427' id='t-257427'>cannot be more different, but the methodology</span>
+<span class='talk-transcript__fragment' data-time='261100' id='t-261100'>for clinical studies has not radically changed over that time period.</span>
+<span class='talk-transcript__fragment' data-time='265224' id='t-265224'>We just have better statistics.</span>
+<span class='talk-transcript__fragment' data-time='267892' id='t-267892'>The way we gain informed consent was formed in large part</span>
+<span class='talk-transcript__fragment' data-time='271344' id='t-271344'>after World War II, around the time that picture was taken.</span>
+<span class='talk-transcript__fragment' data-time='273935' id='t-273935'>That was 70 years ago, and the way we gain informed consent,</span>
+<span class='talk-transcript__fragment' data-time='277869' id='t-277869'>this tool that was created to protect us from harm,</span>
+<span class='talk-transcript__fragment' data-time='280746' id='t-280746'>now creates silos. So the data that we collect</span>
+<span class='talk-transcript__fragment' data-time='284412' id='t-284412'>for prostate cancer or for Alzheimer's trials</span>
+<span class='talk-transcript__fragment' data-time='287138' id='t-287138'>goes into silos where it can only be used</span>
+<span class='talk-transcript__fragment' data-time='289753' id='t-289753'>for prostate cancer or for Alzheimer's research.</span>
+<span class='talk-transcript__fragment' data-time='292977' id='t-292977'>Right? It can't be networked. It can't be integrated.</span>
+<span class='talk-transcript__fragment' data-time='295871' id='t-295871'>It cannot be used by people who aren't credentialed.</span>
+<span class='talk-transcript__fragment' data-time='299404' id='t-299404'>So a physicist can't get access to it without filing paperwork.</span>
+<span class='talk-transcript__fragment' data-time='302357' id='t-302357'>A computer scientist can't get access to it without filing paperwork.</span>
+<span class='talk-transcript__fragment' data-time='305425' id='t-305425'>Computer scientists aren't patient. They don't file paperwork.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='309568' id='t-309568'>And this is an accident. These are tools that we created</span>
+<span class='talk-transcript__fragment' data-time='313554' id='t-313554'>to protect us from harm, but what they're doing</span>
+<span class='talk-transcript__fragment' data-time='316821' id='t-316821'>is protecting us from innovation now.</span>
+<span class='talk-transcript__fragment' data-time='319351' id='t-319351'>And that wasn't the goal. It wasn't the point. Right?</span>
+<span class='talk-transcript__fragment' data-time='322616' id='t-322616'>It's a side effect, if you will, of a power we created</span>
+<span class='talk-transcript__fragment' data-time='325315' id='t-325315'>to take us for good.</span>
+<span class='talk-transcript__fragment' data-time='327674' id='t-327674'>And so if you think about it, the depressing thing is that</span>
+<span class='talk-transcript__fragment' data-time='330818' id='t-330818'>Facebook would never make a change to something</span>
+<span class='talk-transcript__fragment' data-time='332951' id='t-332951'>as important as an advertising algorithm</span>
+<span class='talk-transcript__fragment' data-time='335522' id='t-335522'>with a sample size as small as a Phase III clinical trial.</span>
+<span class='talk-transcript__fragment' data-time='339933' id='t-339933'>We cannot take the information from past trials</span>
+<span class='talk-transcript__fragment' data-time='343595' id='t-343595'>and put them together to form statistically significant samples.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='347749' id='t-347749'>And that sucks, right? So 45 percent of men develop</span>
+<span class='talk-transcript__fragment' data-time='351233' id='t-351233'>cancer. Thirty-eight percent of women develop cancer.</span>
+<span class='talk-transcript__fragment' data-time='354330' id='t-354330'>One in four men dies of cancer.</span>
+<span class='talk-transcript__fragment' data-time='356674' id='t-356674'>One in five women dies of cancer, at least in the United States.</span>
+<span class='talk-transcript__fragment' data-time='360230' id='t-360230'>And three out of the four drugs we give you</span>
+<span class='talk-transcript__fragment' data-time='362458' id='t-362458'>if you get cancer fail. And this is personal to me.</span>
+<span class='talk-transcript__fragment' data-time='365971' id='t-365971'>My sister is a cancer survivor.</span>
+<span class='talk-transcript__fragment' data-time='367934' id='t-367934'>My mother-in-law is a cancer survivor. Cancer sucks.</span>
+<span class='talk-transcript__fragment' data-time='371523' id='t-371523'>And when you have it, you don't have a lot of privacy</span>
+<span class='talk-transcript__fragment' data-time='373713' id='t-373713'>in the hospital. You're naked the vast majority of the time.</span>
+<span class='talk-transcript__fragment' data-time='377200' id='t-377200'>People you don't know come in and look at you and poke you and prod you,</span>
+<span class='talk-transcript__fragment' data-time='380895' id='t-380895'>and when I tell cancer survivors that this tool we created</span>
+<span class='talk-transcript__fragment' data-time='384336' id='t-384336'>to protect them is actually preventing their data from being used,</span>
+<span class='talk-transcript__fragment' data-time='387434' id='t-387434'>especially when only three to four percent of people</span>
+<span class='talk-transcript__fragment' data-time='389484' id='t-389484'>who have cancer ever even sign up for a clinical study,</span>
+<span class='talk-transcript__fragment' data-time='392282' id='t-392282'>their reaction is not, &quot;Thank you, God, for protecting my privacy.&quot;</span>
+<span class='talk-transcript__fragment' data-time='395840' id='t-395840'>It's outrage</span>
+<span class='talk-transcript__fragment' data-time='398537' id='t-398537'>that we have this information and we can't use it.</span>
+<span class='talk-transcript__fragment' data-time='400662' id='t-400662'>And it's an accident.</span>
+<span class='talk-transcript__fragment' data-time='403138' id='t-403138'>So the cost in blood and treasure of this is enormous.</span>
+<span class='talk-transcript__fragment' data-time='406193' id='t-406193'>Two hundred and twenty-six billion a year is spent on cancer in the United States.</span>
+<span class='talk-transcript__fragment' data-time='409848' id='t-409848'>Fifteen hundred people a day die in the United States.</span>
+<span class='talk-transcript__fragment' data-time='413067' id='t-413067'>And it's getting worse.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='415640' id='t-415640'>So the good news is that some things have changed,</span>
+<span class='talk-transcript__fragment' data-time='418622' id='t-418622'>and the most important thing that's changed</span>
+<span class='talk-transcript__fragment' data-time='420175' id='t-420175'>is that we can now measure ourselves in ways</span>
+<span class='talk-transcript__fragment' data-time='422513' id='t-422513'>that used to be the dominion of the health system.</span>
+<span class='talk-transcript__fragment' data-time='425571' id='t-425571'>So a lot of people talk about it as digital exhaust.</span>
+<span class='talk-transcript__fragment' data-time='427729' id='t-427729'>I like to think of it as the dust that runs along behind my kid.</span>
+<span class='talk-transcript__fragment' data-time='430771' id='t-430771'>We can reach back and grab that dust,</span>
+<span class='talk-transcript__fragment' data-time='433147' id='t-433147'>and we can learn a lot about health from it, so if our choices</span>
+<span class='talk-transcript__fragment' data-time='435561' id='t-435561'>are part of our health, what we eat is a really important</span>
+<span class='talk-transcript__fragment' data-time='438241' id='t-438241'>aspect of our health. So you can do something very simple</span>
+<span class='talk-transcript__fragment' data-time='440930' id='t-440930'>and basic and take a picture of your food,</span>
+<span class='talk-transcript__fragment' data-time='442887' id='t-442887'>and if enough people do that, we can learn a lot about</span>
+<span class='talk-transcript__fragment' data-time='445771' id='t-445771'>how our food affects our health.</span>
+<span class='talk-transcript__fragment' data-time='447196' id='t-447196'>One interesting thing that came out of this — this is an app for iPhones called The Eatery —</span>
+<span class='talk-transcript__fragment' data-time='451712' id='t-451712'>is that we think our pizza is significantly healthier</span>
+<span class='talk-transcript__fragment' data-time='454202' id='t-454202'>than other people's pizza is. Okay? (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='457640' id='t-457640'>And it seems like a trivial result, but this is the sort of research</span>
+<span class='talk-transcript__fragment' data-time='461248' id='t-461248'>that used to take the health system years</span>
+<span class='talk-transcript__fragment' data-time='463562' id='t-463562'>and hundreds of thousands of dollars to accomplish.</span>
+<span class='talk-transcript__fragment' data-time='465855' id='t-465855'>It was done in five months by a startup company of a couple of people.</span>
+<span class='talk-transcript__fragment' data-time='469579' id='t-469579'>I don't have any financial interest in it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='472203' id='t-472203'>But more nontrivially, we can get our genotypes done,</span>
+<span class='talk-transcript__fragment' data-time='474899' id='t-474899'>and although our genotypes aren't dispositive, they give us clues.</span>
+<span class='talk-transcript__fragment' data-time='477717' id='t-477717'>So I could show you mine. It's just A's, T's, C's and G's.</span>
+<span class='talk-transcript__fragment' data-time='480523' id='t-480523'>This is the interpretation of it. As you can see,</span>
+<span class='talk-transcript__fragment' data-time='482755' id='t-482755'>I carry a 32 percent risk of prostate cancer,</span>
+<span class='talk-transcript__fragment' data-time='485355' id='t-485355'>22 percent risk of psoriasis and a 14 percent risk of Alzheimer's disease.</span>
+<span class='talk-transcript__fragment' data-time='489578' id='t-489578'>So that means, if you're a geneticist, you're freaking out,</span>
+<span class='talk-transcript__fragment' data-time='492185' id='t-492185'>going, &quot;Oh my God, you told everyone you carry the ApoE E4 allele. What's wrong with you?&quot;</span>
+<span class='talk-transcript__fragment' data-time='496219' id='t-496219'>Right? When I got these results, I started talking to doctors,</span>
+<span class='talk-transcript__fragment' data-time='499907' id='t-499907'>and they told me not to tell anyone, and my reaction is,</span>
+<span class='talk-transcript__fragment' data-time='502316' id='t-502316'>&quot;Is that going to help anyone cure me when I get the disease?&quot;</span>
+<span class='talk-transcript__fragment' data-time='505604' id='t-505604'>And no one could tell me yes.</span>
+<span class='talk-transcript__fragment' data-time='508668' id='t-508668'>And I live in a web world where, when you share things,</span>
+<span class='talk-transcript__fragment' data-time='511474' id='t-511474'>beautiful stuff happens, not bad stuff.</span>
+<span class='talk-transcript__fragment' data-time='514184' id='t-514184'>So I started putting this in my slide decks,</span>
+<span class='talk-transcript__fragment' data-time='516084' id='t-516084'>and I got even more obnoxious, and I went to my doctor,</span>
+<span class='talk-transcript__fragment' data-time='518545' id='t-518545'>and I said, &quot;I'd like to actually get my bloodwork.</span>
+<span class='talk-transcript__fragment' data-time='520527' id='t-520527'>Please give me back my data.&quot; So this is my most recent bloodwork.</span>
+<span class='talk-transcript__fragment' data-time='523317' id='t-523317'>As you can see, I have high cholesterol.</span>
+<span class='talk-transcript__fragment' data-time='525686' id='t-525686'>I have particularly high bad cholesterol, and I have some</span>
+<span class='talk-transcript__fragment' data-time='528437' id='t-528437'>bad liver numbers, but those are because we had a dinner party with a lot of good wine</span>
+<span class='talk-transcript__fragment' data-time='531440' id='t-531440'>the night before we ran the test. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='534149' id='t-534149'>Right. But look at how non-computable this information is.</span>
+<span class='talk-transcript__fragment' data-time='538562' id='t-538562'>This is like the photograph of my granddad holding my mom</span>
+<span class='talk-transcript__fragment' data-time='541536' id='t-541536'>from a data perspective, and I had to go into the system</span>
+<span class='talk-transcript__fragment' data-time='545135' id='t-545135'>and get it out.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547297' id='t-547297'>So the thing that I'm proposing we do here</span>
+<span class='talk-transcript__fragment' data-time='550579' id='t-550579'>is that we reach behind us and we grab the dust,</span>
+<span class='talk-transcript__fragment' data-time='552995' id='t-552995'>that we reach into our bodies and we grab the genotype,</span>
+<span class='talk-transcript__fragment' data-time='555973' id='t-555973'>and we reach into the medical system and we grab our records,</span>
+<span class='talk-transcript__fragment' data-time='558674' id='t-558674'>and we use it to build something together, which is a commons.</span>
+<span class='talk-transcript__fragment' data-time='562114' id='t-562114'>And there's been a lot of talk about commonses, right,</span>
+<span class='talk-transcript__fragment' data-time='565258' id='t-565258'>here, there, everywhere, right. A commons is nothing more</span>
+<span class='talk-transcript__fragment' data-time='568206' id='t-568206'>than a public good that we build out of private goods.</span>
+<span class='talk-transcript__fragment' data-time='571134' id='t-571134'>We do it voluntarily, and we do it through standardized</span>
+<span class='talk-transcript__fragment' data-time='573903' id='t-573903'>legal tools. We do it through standardized technologies.</span>
+<span class='talk-transcript__fragment' data-time='576703' id='t-576703'>Right. That's all a commons is. It's something that we build</span>
+<span class='talk-transcript__fragment' data-time='579974' id='t-579974'>together because we think it's important.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='582494' id='t-582494'>And a commons of data is something that's really unique,</span>
+<span class='talk-transcript__fragment' data-time='585126' id='t-585126'>because we make it from our own data. And although</span>
+<span class='talk-transcript__fragment' data-time='587994' id='t-587994'>a lot of people like privacy as their methodology of control</span>
+<span class='talk-transcript__fragment' data-time='590281' id='t-590281'>around data, and obsess around privacy, at least</span>
+<span class='talk-transcript__fragment' data-time='592536' id='t-592536'>some of us really like to share as a form of control,</span>
+<span class='talk-transcript__fragment' data-time='595584' id='t-595584'>and what's remarkable about digital commonses</span>
+<span class='talk-transcript__fragment' data-time='597937' id='t-597937'>is you don't need a big percentage if your sample size is big enough</span>
+<span class='talk-transcript__fragment' data-time='601469' id='t-601469'>to generate something massive and beautiful.</span>
+<span class='talk-transcript__fragment' data-time='603980' id='t-603980'>So not that many programmers write free software,</span>
+<span class='talk-transcript__fragment' data-time='606538' id='t-606538'>but we have the Apache web server.</span>
+<span class='talk-transcript__fragment' data-time='608873' id='t-608873'>Not that many people who read Wikipedia edit,</span>
+<span class='talk-transcript__fragment' data-time='611570' id='t-611570'>but it works. So as long as some people like to share</span>
+<span class='talk-transcript__fragment' data-time='615579' id='t-615579'>as their form of control, we can build a commons, as long as we can get the information out.</span>
+<span class='talk-transcript__fragment' data-time='619323' id='t-619323'>And in biology, the numbers are even better.</span>
+<span class='talk-transcript__fragment' data-time='621699' id='t-621699'>So Vanderbilt ran a study asking people, we'd like to take</span>
+<span class='talk-transcript__fragment' data-time='624251' id='t-624251'>your biosamples, your blood, and share them in a biobank,</span>
+<span class='talk-transcript__fragment' data-time='627573' id='t-627573'>and only five percent of the people opted out.</span>
+<span class='talk-transcript__fragment' data-time='629945' id='t-629945'>I'm from Tennessee. It's not the most science-positive state</span>
+<span class='talk-transcript__fragment' data-time='633037' id='t-633037'>in the United States of America. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='636076' id='t-636076'>But only five percent of the people wanted out.</span>
+<span class='talk-transcript__fragment' data-time='638454' id='t-638454'>So people like to share, if you give them the opportunity and the choice.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='642477' id='t-642477'>And the reason that I got obsessed with this, besides the obvious family aspects,</span>
+<span class='talk-transcript__fragment' data-time='646960' id='t-646960'>is that I spend a lot of time around mathematicians,</span>
+<span class='talk-transcript__fragment' data-time='650233' id='t-650233'>and mathematicians are drawn to places where there's a lot of data</span>
+<span class='talk-transcript__fragment' data-time='653147' id='t-653147'>because they can use it to tease signals out of noise.</span>
+<span class='talk-transcript__fragment' data-time='656090' id='t-656090'>And those correlations that they can tease out, they're not</span>
+<span class='talk-transcript__fragment' data-time='659058' id='t-659058'>necessarily causal agents, but math, in this day and age,</span>
+<span class='talk-transcript__fragment' data-time='662930' id='t-662930'>is like a giant set of power tools</span>
+<span class='talk-transcript__fragment' data-time='665290' id='t-665290'>that we're leaving on the floor, not plugged in in health,</span>
+<span class='talk-transcript__fragment' data-time='669165' id='t-669165'>while we use hand saws.</span>
+<span class='talk-transcript__fragment' data-time='671477' id='t-671477'>If we have a lot of shared genotypes, and a lot of shared</span>
+<span class='talk-transcript__fragment' data-time='675915' id='t-675915'>outcomes, and a lot of shared lifestyle choices,</span>
+<span class='talk-transcript__fragment' data-time='678663' id='t-678663'>and a lot of shared environmental information, we can start</span>
+<span class='talk-transcript__fragment' data-time='681439' id='t-681439'>to tease out the correlations between subtle variations</span>
+<span class='talk-transcript__fragment' data-time='684335' id='t-684335'>in people, the choices they make and the health that they create as a result of those choices,</span>
+<span class='talk-transcript__fragment' data-time='689646' id='t-689646'>and there's open-source infrastructure to do all of this.</span>
+<span class='talk-transcript__fragment' data-time='692132' id='t-692132'>Sage Bionetworks is a nonprofit that's built a giant math system</span>
+<span class='talk-transcript__fragment' data-time='695226' id='t-695226'>that's waiting for data, but there isn't any.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='699798' id='t-699798'>So that's what I do. I've actually started what we think is</span>
+<span class='talk-transcript__fragment' data-time='703686' id='t-703686'>the world's first fully digital, fully self-contributed,</span>
+<span class='talk-transcript__fragment' data-time='707624' id='t-707624'>unlimited in scope, global in participation, ethically approved</span>
+<span class='talk-transcript__fragment' data-time='712659' id='t-712659'>clinical research study where you contribute the data.</span>
+<span class='talk-transcript__fragment' data-time='716314' id='t-716314'>So if you reach behind yourself and you grab the dust,</span>
+<span class='talk-transcript__fragment' data-time='718520' id='t-718520'>if you reach into your body and grab your genome,</span>
+<span class='talk-transcript__fragment' data-time='721146' id='t-721146'>if you reach into the medical system and somehow extract your medical record,</span>
+<span class='talk-transcript__fragment' data-time='724193' id='t-724193'>you can actually go through an online informed consent process --</span>
+<span class='talk-transcript__fragment' data-time='727516' id='t-727516'>because the donation to the commons must be voluntary</span>
+<span class='talk-transcript__fragment' data-time='730162' id='t-730162'>and it must be informed -- and you can actually upload</span>
+<span class='talk-transcript__fragment' data-time='732955' id='t-732955'>your information and have it syndicated to the</span>
+<span class='talk-transcript__fragment' data-time='735547' id='t-735547'>mathematicians who will do this sort of big data research,</span>
+<span class='talk-transcript__fragment' data-time='738643' id='t-738643'>and the goal is to get 100,000 in the first year</span>
+<span class='talk-transcript__fragment' data-time='741499' id='t-741499'>and a million in the first five years so that we have</span>
+<span class='talk-transcript__fragment' data-time='743857' id='t-743857'>a statistically significant cohort that you can use to take</span>
+<span class='talk-transcript__fragment' data-time='747691' id='t-747691'>smaller sample sizes from traditional research</span>
+<span class='talk-transcript__fragment' data-time='750113' id='t-750113'>and map it against,</span>
+<span class='talk-transcript__fragment' data-time='751712' id='t-751712'>so that you can use it to tease out those subtle correlations</span>
+<span class='talk-transcript__fragment' data-time='754634' id='t-754634'>between the variations that make us unique</span>
+<span class='talk-transcript__fragment' data-time='757163' id='t-757163'>and the kinds of health that we need to move forward as a society.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='761187' id='t-761187'>And I've spent a lot of time around other commons.</span>
+<span class='talk-transcript__fragment' data-time='764211' id='t-764211'>I've been around the early web. I've been around</span>
+<span class='talk-transcript__fragment' data-time='766891' id='t-766891'>the early creative commons world, and there's four things</span>
+<span class='talk-transcript__fragment' data-time='769499' id='t-769499'>that all of these share, which is, they're all really simple.</span>
+<span class='talk-transcript__fragment' data-time='772853' id='t-772853'>And so if you were to go to the website and enroll in this study,</span>
+<span class='talk-transcript__fragment' data-time='775580' id='t-775580'>you're not going to see something complicated.</span>
+<span class='talk-transcript__fragment' data-time='777835' id='t-777835'>But it's not simplistic. These things are weak intentionally,</span>
+<span class='talk-transcript__fragment' data-time='782884' id='t-782884'>right, because you can always add power and control to a system,</span>
+<span class='talk-transcript__fragment' data-time='785907' id='t-785907'>but it's very difficult to remove those things if you put them in at the beginning,</span>
+<span class='talk-transcript__fragment' data-time='789871' id='t-789871'>and so being simple doesn't mean being simplistic,</span>
+<span class='talk-transcript__fragment' data-time='792416' id='t-792416'>and being weak doesn't mean weakness.</span>
+<span class='talk-transcript__fragment' data-time='794600' id='t-794600'>Those are strengths in the system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='796951' id='t-796951'>And open doesn't mean that there's no money.</span>
+<span class='talk-transcript__fragment' data-time='799616' id='t-799616'>Closed systems, corporations, make a lot of money</span>
+<span class='talk-transcript__fragment' data-time='802636' id='t-802636'>on the open web, and they're one of the reasons why the open web lives</span>
+<span class='talk-transcript__fragment' data-time='806175' id='t-806175'>is that corporations have a vested interest in the openness</span>
+<span class='talk-transcript__fragment' data-time='809002' id='t-809002'>of the system.</span>
+<span class='talk-transcript__fragment' data-time='811336' id='t-811336'>And so all of these things are part of the clinical study that we've created,</span>
+<span class='talk-transcript__fragment' data-time='815130' id='t-815130'>so you can actually come in, all you have to be is 14 years old,</span>
+<span class='talk-transcript__fragment' data-time='818559' id='t-818559'>willing to sign a contract that says I'm not going to be a jerk,</span>
+<span class='talk-transcript__fragment' data-time='820586' id='t-820586'>basically, and you're in.</span>
+<span class='talk-transcript__fragment' data-time='823251' id='t-823251'>You can start analyzing the data.</span>
+<span class='talk-transcript__fragment' data-time='824824' id='t-824824'>You do have to solve a CAPTCHA as well. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='828983' id='t-828983'>And if you'd like to build corporate structures on top of it,</span>
+<span class='talk-transcript__fragment' data-time='832564' id='t-832564'>that's okay too. That's all in the consent,</span>
+<span class='talk-transcript__fragment' data-time='835710' id='t-835710'>so if you don't like those terms, you don't come in.</span>
+<span class='talk-transcript__fragment' data-time='838274' id='t-838274'>It's very much the design principles of a commons</span>
+<span class='talk-transcript__fragment' data-time='841366' id='t-841366'>that we're trying to bring to health data.</span>
+<span class='talk-transcript__fragment' data-time='843960' id='t-843960'>And the other thing about these systems is that it only takes</span>
+<span class='talk-transcript__fragment' data-time='846939' id='t-846939'>a small number of really unreasonable people working together</span>
+<span class='talk-transcript__fragment' data-time='850118' id='t-850118'>to create them. It didn't take that many people</span>
+<span class='talk-transcript__fragment' data-time='853300' id='t-853300'>to make Wikipedia Wikipedia, or to keep it Wikipedia.</span>
+<span class='talk-transcript__fragment' data-time='856772' id='t-856772'>And we're not supposed to be unreasonable in health,</span>
+<span class='talk-transcript__fragment' data-time='858840' id='t-858840'>and so I hate this word &quot;patient.&quot;</span>
+<span class='talk-transcript__fragment' data-time='861116' id='t-861116'>I don't like being patient when systems are broken,</span>
+<span class='talk-transcript__fragment' data-time='864283' id='t-864283'>and health care is broken.</span>
+<span class='talk-transcript__fragment' data-time='866910' id='t-866910'>I'm not talking about the politics of health care, I'm talking about the way we scientifically approach health care.</span>
+<span class='talk-transcript__fragment' data-time='871074' id='t-871074'>So I don't want to be patient. And the task I'm giving to you</span>
+<span class='talk-transcript__fragment' data-time='874344' id='t-874344'>is to not be patient. So I'd like you to actually try,</span>
+<span class='talk-transcript__fragment' data-time='877390' id='t-877390'>when you go home, to get your data.</span>
+<span class='talk-transcript__fragment' data-time='880107' id='t-880107'>You'll be shocked and offended and, I would bet, outraged,</span>
+<span class='talk-transcript__fragment' data-time='882824' id='t-882824'>at how hard it is to get it.</span>
+<span class='talk-transcript__fragment' data-time='885700' id='t-885700'>But it's a challenge that I hope you'll take,</span>
+<span class='talk-transcript__fragment' data-time='888319' id='t-888319'>and maybe you'll share it. Maybe you won't.</span>
+<span class='talk-transcript__fragment' data-time='890780' id='t-890780'>If you don't have anyone in your family who's sick,</span>
+<span class='talk-transcript__fragment' data-time='892224' id='t-892224'>maybe you wouldn't be unreasonable. But if you do,</span>
+<span class='talk-transcript__fragment' data-time='895217' id='t-895217'>or if you've been sick, then maybe you would.</span>
+<span class='talk-transcript__fragment' data-time='897424' id='t-897424'>And we're going to be able to do an experiment in the next several months</span>
+<span class='talk-transcript__fragment' data-time='900512' id='t-900512'>that lets us know exactly how many unreasonable people are out there.</span>
+<span class='talk-transcript__fragment' data-time='903669' id='t-903669'>So this is the Athena Breast Health Network. It's a study</span>
+<span class='talk-transcript__fragment' data-time='905791' id='t-905791'>of 150,000 women in California, and they're going to</span>
+<span class='talk-transcript__fragment' data-time='909609' id='t-909609'>return all the data to the participants of the study</span>
+<span class='talk-transcript__fragment' data-time='912327' id='t-912327'>in a computable form, with one-clickability to load it into</span>
+<span class='talk-transcript__fragment' data-time='915473' id='t-915473'>the study that I've put together. So we'll know exactly</span>
+<span class='talk-transcript__fragment' data-time='918089' id='t-918089'>how many people are willing to be unreasonable.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='920393' id='t-920393'>So what I'd end [with] is,</span>
+<span class='talk-transcript__fragment' data-time='922777' id='t-922777'>the most beautiful thing I've learned since I quit my job</span>
+<span class='talk-transcript__fragment' data-time='926097' id='t-926097'>almost a year ago to do this, is that it really doesn't take</span>
+<span class='talk-transcript__fragment' data-time='929480' id='t-929480'>very many of us to achieve spectacular results.</span>
+<span class='talk-transcript__fragment' data-time='933288' id='t-933288'>You just have to be willing to be unreasonable,</span>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>and the risk we're running is not the risk those 14 men</span>
+<span class='talk-transcript__fragment' data-time='938331' id='t-938331'>who got yellow fever ran. Right?</span>
+<span class='talk-transcript__fragment' data-time='940199' id='t-940199'>It's to be naked, digitally, in public. So you know more</span>
+<span class='talk-transcript__fragment' data-time='943060' id='t-943060'>about me and my health than I know about you. It's asymmetric now.</span>
+<span class='talk-transcript__fragment' data-time='946493' id='t-946493'>And being naked and alone can be terrifying.</span>
+<span class='talk-transcript__fragment' data-time='950123' id='t-950123'>But to be naked in a group, voluntarily, can be quite beautiful.</span>
+<span class='talk-transcript__fragment' data-time='954590' id='t-954590'>And so it doesn't take all of us.</span>
+<span class='talk-transcript__fragment' data-time='956478' id='t-956478'>It just takes all of some of us. Thank you.</span>
+<span class='talk-transcript__fragment' data-time='959484' id='t-959484'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Beth Noveck: Demand a more open-source government | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Beth Noveck: Demand a more open-source government | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: What can governments learn from the open-data revolution? In this stirring talk, Beth Noveck, the former deputy CTO at the White House, shares a vision of practical openness -- connecting bureaucracies to citizens, sharing data, creating a truly participatory democracy. Imagine the &quot;writable society&quot; ..." name="description" />
+<meta content="Beth Noveck" name="author" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript?language=es" hreflang="es" rel="alternate" />
+<meta content="Transcript of &quot;Demand a more open-source government&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6e908cc0a13e7eb1b3927f1e3a762f465cde1261_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6e908cc0a13e7eb1b3927f1e3a762f465cde1261_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: What can governments learn from the open-data revolution? In this stirring talk, Beth Noveck, the former deputy CTO at the White House, shares a vision of practical openness -- connecting bureaucracies to citizens, sharing data, creating a truly participatory democracy. Imagine the &quot;writable society&quot; ..." property="og:description" />
+<meta content="http://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1558?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='beth_noveck_demand_a_more_open_source_government'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1558?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1043" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6e908cc0a13e7eb1b3927f1e3a762f465cde1261_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:23</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Beth Noveck</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1558?language=en' lang='en'>
+Demand a more open-source government
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='795' id='t-795'>So when the White House was built</span>
+<span class='talk-transcript__fragment' data-time='2615' id='t-2615'>in the early 19th century, it was an open house.</span>
+<span class='talk-transcript__fragment' data-time='5608' id='t-5608'>Neighbors came and went. Under President Adams,</span>
+<span class='talk-transcript__fragment' data-time='8744' id='t-8744'>a local dentist happened by.</span>
+<span class='talk-transcript__fragment' data-time='10113' id='t-10113'>He wanted to shake the President's hand.</span>
+<span class='talk-transcript__fragment' data-time='12704' id='t-12704'>The President dismissed the Secretary of State,</span>
+<span class='talk-transcript__fragment' data-time='14854' id='t-14854'>whom he was conferring with, and asked the dentist</span>
+<span class='talk-transcript__fragment' data-time='16772' id='t-16772'>if he would remove a tooth.</span>
+<span class='talk-transcript__fragment' data-time='18582' id='t-18582'>Later, in the 1850s, under President Pierce,</span>
+<span class='talk-transcript__fragment' data-time='21640' id='t-21640'>he was known to have remarked</span>
+<span class='talk-transcript__fragment' data-time='23228' id='t-23228'>— probably the only thing he's known for —</span>
+<span class='talk-transcript__fragment' data-time='25797' id='t-25797'>when a neighbor passed by and said, &quot;I'd love to see</span>
+<span class='talk-transcript__fragment' data-time='28548' id='t-28548'>the beautiful house,&quot; and Pierce said to him,</span>
+<span class='talk-transcript__fragment' data-time='30813' id='t-30813'>&quot;Why my dear sir, of course you may come in.</span>
+<span class='talk-transcript__fragment' data-time='33428' id='t-33428'>This isn't my house. It is the people's house.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='37153' id='t-37153'>Well, when I got to the White House in the beginning</span>
+<span class='talk-transcript__fragment' data-time='39225' id='t-39225'>of 2009, at the start of the Obama Administration,</span>
+<span class='talk-transcript__fragment' data-time='42445' id='t-42445'>the White House was anything but open.</span>
+<span class='talk-transcript__fragment' data-time='45317' id='t-45317'>Bomb blast curtains covered my windows.</span>
+<span class='talk-transcript__fragment' data-time='47845' id='t-47845'>We were running Windows 2000.</span>
+<span class='talk-transcript__fragment' data-time='50024' id='t-50024'>Social media were blocked at the firewall.</span>
+<span class='talk-transcript__fragment' data-time='52207' id='t-52207'>We didn't have a blog, let alone a dozen twitter accounts</span>
+<span class='talk-transcript__fragment' data-time='54747' id='t-54747'>like we have today.</span>
+<span class='talk-transcript__fragment' data-time='56770' id='t-56770'>I came in to become the head of Open Government,</span>
+<span class='talk-transcript__fragment' data-time='59383' id='t-59383'>to take the values and the practices of transparency,</span>
+<span class='talk-transcript__fragment' data-time='62181' id='t-62181'>participation and collaboration, and instill them</span>
+<span class='talk-transcript__fragment' data-time='65594' id='t-65594'>into the way that we work, to open up government,</span>
+<span class='talk-transcript__fragment' data-time='68420' id='t-68420'>to work with people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='69940' id='t-69940'>Now one of the things that we know</span>
+<span class='talk-transcript__fragment' data-time='72634' id='t-72634'>is that companies are very good at getting people to work</span>
+<span class='talk-transcript__fragment' data-time='75650' id='t-75650'>together in teams and in networks to make</span>
+<span class='talk-transcript__fragment' data-time='77898' id='t-77898'>very complex products, like cars and computers,</span>
+<span class='talk-transcript__fragment' data-time='81540' id='t-81540'>and the more complex the products are a society creates,</span>
+<span class='talk-transcript__fragment' data-time='85228' id='t-85228'>the more successful the society is over time.</span>
+<span class='talk-transcript__fragment' data-time='88083' id='t-88083'>Companies make goods, but governments,</span>
+<span class='talk-transcript__fragment' data-time='90828' id='t-90828'>they make public goods. They work on the cure for cancer</span>
+<span class='talk-transcript__fragment' data-time='93948' id='t-93948'>and educating our children and making roads,</span>
+<span class='talk-transcript__fragment' data-time='96756' id='t-96756'>but we don't have institutions that are particularly good</span>
+<span class='talk-transcript__fragment' data-time='100397' id='t-100397'>at this kind of complexity. We don't have institutions</span>
+<span class='talk-transcript__fragment' data-time='102933' id='t-102933'>that are good at bringing our talents to bear,</span>
+<span class='talk-transcript__fragment' data-time='106050' id='t-106050'>at working with us in this kind of open and collaborative way.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='110512' id='t-110512'>So when we wanted to create our Open Government policy,</span>
+<span class='talk-transcript__fragment' data-time='112773' id='t-112773'>what did we do? We wanted, naturally, to ask public sector</span>
+<span class='talk-transcript__fragment' data-time='115349' id='t-115349'>employees how we should open up government.</span>
+<span class='talk-transcript__fragment' data-time='118293' id='t-118293'>Turns out that had never been done before.</span>
+<span class='talk-transcript__fragment' data-time='121525' id='t-121525'>We wanted to ask members of the public to help us</span>
+<span class='talk-transcript__fragment' data-time='124144' id='t-124144'>come up with a policy, not after the fact, commenting</span>
+<span class='talk-transcript__fragment' data-time='127422' id='t-127422'>on a rule after it's written, the way is typically the case,</span>
+<span class='talk-transcript__fragment' data-time='130805' id='t-130805'>but in advance. There was no legal precedent,</span>
+<span class='talk-transcript__fragment' data-time='134125' id='t-134125'>no cultural precedent, no technical way of doing this.</span>
+<span class='talk-transcript__fragment' data-time='137267' id='t-137267'>In fact, many people told us it was illegal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='140108' id='t-140108'>Here's the crux of the obstacle.</span>
+<span class='talk-transcript__fragment' data-time='143221' id='t-143221'>Governments exist to channel the flow of two things,</span>
+<span class='talk-transcript__fragment' data-time='145822' id='t-145822'>really, values and expertise to and from government</span>
+<span class='talk-transcript__fragment' data-time='149316' id='t-149316'>and to and from citizens to the end of making decisions.</span>
+<span class='talk-transcript__fragment' data-time='153165' id='t-153165'>But the way that our institutions are designed,</span>
+<span class='talk-transcript__fragment' data-time='155558' id='t-155558'>in our rather 18th-century, centralized model,</span>
+<span class='talk-transcript__fragment' data-time='158609' id='t-158609'>is to channel the flow of values through voting,</span>
+<span class='talk-transcript__fragment' data-time='162293' id='t-162293'>once every four years, once every two years, at best,</span>
+<span class='talk-transcript__fragment' data-time='164493' id='t-164493'>once a year. This is a rather anemic and thin way, in this</span>
+<span class='talk-transcript__fragment' data-time='168054' id='t-168054'>era of social media, for us to actually express our values.</span>
+<span class='talk-transcript__fragment' data-time='172059' id='t-172059'>Today we have technology that lets us express ourselves</span>
+<span class='talk-transcript__fragment' data-time='174671' id='t-174671'>a great deal, perhaps a little too much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='177675' id='t-177675'>Then in the 19th century, we layer on</span>
+<span class='talk-transcript__fragment' data-time='179949' id='t-179949'>the concept of bureaucracy and the administrative state</span>
+<span class='talk-transcript__fragment' data-time='182356' id='t-182356'>to help us govern complex and large societies.</span>
+<span class='talk-transcript__fragment' data-time='185499' id='t-185499'>But we've centralized these bureaucracies.</span>
+<span class='talk-transcript__fragment' data-time='188731' id='t-188731'>We've entrenched them. And we know that</span>
+<span class='talk-transcript__fragment' data-time='191176' id='t-191176'>the smartest person always works for someone else.</span>
+<span class='talk-transcript__fragment' data-time='193888' id='t-193888'>We need to only look around this room to know that</span>
+<span class='talk-transcript__fragment' data-time='196568' id='t-196568'>expertise and intelligence is widely distributed in society,</span>
+<span class='talk-transcript__fragment' data-time='200165' id='t-200165'>and not limited simply to our institutions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='204336' id='t-204336'>Scientists have been studying in recent years</span>
+<span class='talk-transcript__fragment' data-time='206602' id='t-206602'>the phenomenon that they often describe as flow,</span>
+<span class='talk-transcript__fragment' data-time='209136' id='t-209136'>that the design of our systems, whether natural or social,</span>
+<span class='talk-transcript__fragment' data-time='212400' id='t-212400'>channel the flow of whatever runs through them.</span>
+<span class='talk-transcript__fragment' data-time='215083' id='t-215083'>So a river is designed to channel the flow of water,</span>
+<span class='talk-transcript__fragment' data-time='218360' id='t-218360'>and the lightning bolt that comes out of a cloud channels</span>
+<span class='talk-transcript__fragment' data-time='220830' id='t-220830'>the flow of electricity, and a leaf is designed to channel</span>
+<span class='talk-transcript__fragment' data-time='224334' id='t-224334'>the flow of nutrients to the tree,</span>
+<span class='talk-transcript__fragment' data-time='226354' id='t-226354'>sometimes even having to route around an obstacle,</span>
+<span class='talk-transcript__fragment' data-time='229358' id='t-229358'>but to get that nutrition flowing.</span>
+<span class='talk-transcript__fragment' data-time='232078' id='t-232078'>The same can be said for our social systems, for our</span>
+<span class='talk-transcript__fragment' data-time='234415' id='t-234415'>systems of government, where, at the very least,</span>
+<span class='talk-transcript__fragment' data-time='236903' id='t-236903'>flow offers us a helpful metaphor for understanding</span>
+<span class='talk-transcript__fragment' data-time='239918' id='t-239918'>what the problem is, what's really broken,</span>
+<span class='talk-transcript__fragment' data-time='242574' id='t-242574'>and the urgent need that we have, that we all feel today,</span>
+<span class='talk-transcript__fragment' data-time='246259' id='t-246259'>to redesign the flow of our institutions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='249539' id='t-249539'>We live in a Cambrian era of big data, of social networks,</span>
+<span class='talk-transcript__fragment' data-time='254062' id='t-254062'>and we have this opportunity to redesign these institutions</span>
+<span class='talk-transcript__fragment' data-time='258331' id='t-258331'>that are actually quite recent.</span>
+<span class='talk-transcript__fragment' data-time='261216' id='t-261216'>Think about it: What other business do you know,</span>
+<span class='talk-transcript__fragment' data-time='264456' id='t-264456'>what other sector of the economy, and especially one</span>
+<span class='talk-transcript__fragment' data-time='266856' id='t-266856'>as big as the public sector, that doesn't seek to reinvent</span>
+<span class='talk-transcript__fragment' data-time='270643' id='t-270643'>its business model on a regular basis?</span>
+<span class='talk-transcript__fragment' data-time='273547' id='t-273547'>Sure, we invest plenty in innovation. We invest</span>
+<span class='talk-transcript__fragment' data-time='276638' id='t-276638'>in broadband and science education and science grants,</span>
+<span class='talk-transcript__fragment' data-time='280602' id='t-280602'>but we invest far too little in reinventing and redesigning</span>
+<span class='talk-transcript__fragment' data-time='283953' id='t-283953'>the institutions that we have.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='286553' id='t-286553'>Now, it's very easy to complain, of course, about</span>
+<span class='talk-transcript__fragment' data-time='288889' id='t-288889'>partisan politics and entrenched bureaucracy, and we love</span>
+<span class='talk-transcript__fragment' data-time='292353' id='t-292353'>to complain about government. It's a perennial pastime,</span>
+<span class='talk-transcript__fragment' data-time='295269' id='t-295269'>especially around election time, but</span>
+<span class='talk-transcript__fragment' data-time='297921' id='t-297921'>the world is complex. We soon will have 10 billion people,</span>
+<span class='talk-transcript__fragment' data-time='301307' id='t-301307'>many of whom will lack basic resources.</span>
+<span class='talk-transcript__fragment' data-time='304180' id='t-304180'>So complain as we might, what actually can replace</span>
+<span class='talk-transcript__fragment' data-time='307498' id='t-307498'>what we have today?</span>
+<span class='talk-transcript__fragment' data-time='309809' id='t-309809'>What comes the day after the Arab Spring?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='313916' id='t-313916'>Well, one attractive alternative that obviously presents itself</span>
+<span class='talk-transcript__fragment' data-time='317802' id='t-317802'>to us is that of networks. Right? Networks</span>
+<span class='talk-transcript__fragment' data-time='320562' id='t-320562'>like Facebook and Twitter. They're lean. They're mean.</span>
+<span class='talk-transcript__fragment' data-time='323274' id='t-323274'>You've got 3,000 employees at Facebook</span>
+<span class='talk-transcript__fragment' data-time='325778' id='t-325778'>governing 900 million inhabitants.</span>
+<span class='talk-transcript__fragment' data-time='328724' id='t-328724'>We might even call them citizens, because they've recently</span>
+<span class='talk-transcript__fragment' data-time='331467' id='t-331467'>risen up to fight against legislative incursion,</span>
+<span class='talk-transcript__fragment' data-time='334842' id='t-334842'>and the citizens of these networks work together</span>
+<span class='talk-transcript__fragment' data-time='337377' id='t-337377'>to serve each other in great ways.</span>
+<span class='talk-transcript__fragment' data-time='340618' id='t-340618'>But private communities, private, corporate,</span>
+<span class='talk-transcript__fragment' data-time='343410' id='t-343410'>privatizing communities, are not bottom-up democracies.</span>
+<span class='talk-transcript__fragment' data-time='346550' id='t-346550'>They cannot replace government.</span>
+<span class='talk-transcript__fragment' data-time='348560' id='t-348560'>Friending someone on Facebook is not complex enough</span>
+<span class='talk-transcript__fragment' data-time='351662' id='t-351662'>to do the hard work of you and I collaborating</span>
+<span class='talk-transcript__fragment' data-time='354315' id='t-354315'>with each other and doing the hard work of governance.</span>
+<span class='talk-transcript__fragment' data-time='358207' id='t-358207'>But social media do teach us something.</span>
+<span class='talk-transcript__fragment' data-time='361145' id='t-361145'>Why is Twitter so successful? Because it opens up its platform.</span>
+<span class='talk-transcript__fragment' data-time='365619' id='t-365619'>It opens up the API to allow hundreds of thousands</span>
+<span class='talk-transcript__fragment' data-time='368556' id='t-368556'>of new applications to be built on top of it, so that we can</span>
+<span class='talk-transcript__fragment' data-time='372027' id='t-372027'>read and process information in new and exciting ways.</span>
+<span class='talk-transcript__fragment' data-time='376361' id='t-376361'>We need to think about how to open up the API</span>
+<span class='talk-transcript__fragment' data-time='378698' id='t-378698'>of government, and the way that we're going to do that,</span>
+<span class='talk-transcript__fragment' data-time='382759' id='t-382759'>the next great superpower is going to be the one</span>
+<span class='talk-transcript__fragment' data-time='386007' id='t-386007'>who can successfully combine the hierarchy of institution --</span>
+<span class='talk-transcript__fragment' data-time='391990' id='t-391990'>because we have to maintain those public values,</span>
+<span class='talk-transcript__fragment' data-time='394343' id='t-394343'>we have to coordinate the flow -- but with the diversity</span>
+<span class='talk-transcript__fragment' data-time='397262' id='t-397262'>and the pulsating life and the chaos and the excitement</span>
+<span class='talk-transcript__fragment' data-time='399927' id='t-399927'>of networks, all of us working together to build</span>
+<span class='talk-transcript__fragment' data-time='403023' id='t-403023'>these new innovations on top of our institutions,</span>
+<span class='talk-transcript__fragment' data-time='406724' id='t-406724'>to engage in the practice of governance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='408942' id='t-408942'>We have a precedent for this. Good old Henry II here,</span>
+<span class='talk-transcript__fragment' data-time='412075' id='t-412075'>in the 12th century, invented the jury.</span>
+<span class='talk-transcript__fragment' data-time='415927' id='t-415927'>Powerful, practical, palpable model for handing power</span>
+<span class='talk-transcript__fragment' data-time='420152' id='t-420152'>from government to citizens.</span>
+<span class='talk-transcript__fragment' data-time='422853' id='t-422853'>Today we have the opportunity, and we have</span>
+<span class='talk-transcript__fragment' data-time='426241' id='t-426241'>the imperative, to create thousands of new ways</span>
+<span class='talk-transcript__fragment' data-time='429742' id='t-429742'>of interconnecting between networks and institutions,</span>
+<span class='talk-transcript__fragment' data-time='432981' id='t-432981'>thousands of new kinds of juries: the citizen jury,</span>
+<span class='talk-transcript__fragment' data-time='435645' id='t-435645'>the Carrotmob, the hackathon, we are just beginning</span>
+<span class='talk-transcript__fragment' data-time='439322' id='t-439322'>to invent the models by which we can cocreate</span>
+<span class='talk-transcript__fragment' data-time='442376' id='t-442376'>the process of governance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='444124' id='t-444124'>Now, we don't fully have a picture of what this will look like</span>
+<span class='talk-transcript__fragment' data-time='446739' id='t-446739'>yet, but we're seeing pockets of evolution</span>
+<span class='talk-transcript__fragment' data-time='449361' id='t-449361'>emerging all around us -- maybe not even evolution,</span>
+<span class='talk-transcript__fragment' data-time='452343' id='t-452343'>I'd even start to call it a revolution -- in the way that we govern.</span>
+<span class='talk-transcript__fragment' data-time='456152' id='t-456152'>Some of it's very high-tech,</span>
+<span class='talk-transcript__fragment' data-time='457636' id='t-457636'>and some of it is extremely low-tech,</span>
+<span class='talk-transcript__fragment' data-time='459690' id='t-459690'>such as the project that MKSS is running in Rajasthan,</span>
+<span class='talk-transcript__fragment' data-time='463060' id='t-463060'>India, where they take the spending data of the state</span>
+<span class='talk-transcript__fragment' data-time='466604' id='t-466604'>and paint it on 100,000 village walls,</span>
+<span class='talk-transcript__fragment' data-time='470047' id='t-470047'>and then invite the villagers to come and comment</span>
+<span class='talk-transcript__fragment' data-time='472342' id='t-472342'>who is on the government payroll, who's actually died,</span>
+<span class='talk-transcript__fragment' data-time='474830' id='t-474830'>what are the bridges that have been built to nowhere,</span>
+<span class='talk-transcript__fragment' data-time='477454' id='t-477454'>and to work together through civic engagement to save</span>
+<span class='talk-transcript__fragment' data-time='479798' id='t-479798'>real money and participate and have access to that budget.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='483561' id='t-483561'>But it's not just about policing government.</span>
+<span class='talk-transcript__fragment' data-time='485959' id='t-485959'>It's also about creating government.</span>
+<span class='talk-transcript__fragment' data-time='487686' id='t-487686'>Spacehive in the U.K. is engaging in crowd-funding,</span>
+<span class='talk-transcript__fragment' data-time='490804' id='t-490804'>getting you and me to raise the money to build</span>
+<span class='talk-transcript__fragment' data-time='493489' id='t-493489'>the goalposts and the park benches that will actually</span>
+<span class='talk-transcript__fragment' data-time='496147' id='t-496147'>allow us to deliver better services in our communities.</span>
+<span class='talk-transcript__fragment' data-time='499709' id='t-499709'>No one is better at this activity of actually getting us</span>
+<span class='talk-transcript__fragment' data-time='503347' id='t-503347'>to engage in delivering services,</span>
+<span class='talk-transcript__fragment' data-time='506587' id='t-506587'>sometimes where none exist, than Ushahidi.</span>
+<span class='talk-transcript__fragment' data-time='509738' id='t-509738'>Created after the post-election riots in Kenya in 2008,</span>
+<span class='talk-transcript__fragment' data-time='514091' id='t-514091'>this crisis-mapping website and community is actually able</span>
+<span class='talk-transcript__fragment' data-time='518027' id='t-518027'>to crowdsource and target the delivery of</span>
+<span class='talk-transcript__fragment' data-time='520672' id='t-520672'>better rescue services to people trapped under the rubble,</span>
+<span class='talk-transcript__fragment' data-time='523763' id='t-523763'>whether it's after the earthquakes in Haiti,</span>
+<span class='talk-transcript__fragment' data-time='526219' id='t-526219'>or more recently in Italy.</span>
+<span class='talk-transcript__fragment' data-time='528744' id='t-528744'>And the Red Cross too is training volunteers and Twitter</span>
+<span class='talk-transcript__fragment' data-time='531875' id='t-531875'>is certifying them, not simply to supplement existing</span>
+<span class='talk-transcript__fragment' data-time='534743' id='t-534743'>government institutions, but in many cases, to replace them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='538779' id='t-538779'>Now what we're seeing lots of examples of, obviously,</span>
+<span class='talk-transcript__fragment' data-time='541787' id='t-541787'>is the opening up of government data,</span>
+<span class='talk-transcript__fragment' data-time='543474' id='t-543474'>not enough examples of this yet, but we're starting</span>
+<span class='talk-transcript__fragment' data-time='546474' id='t-546474'>to see this practice of people creating and generating</span>
+<span class='talk-transcript__fragment' data-time='550003' id='t-550003'>innovative applications on top of government data.</span>
+<span class='talk-transcript__fragment' data-time='553472' id='t-553472'>There's so many examples I could have picked, and I</span>
+<span class='talk-transcript__fragment' data-time='555803' id='t-555803'>selected this one of Jon Bon Jovi. Some of you</span>
+<span class='talk-transcript__fragment' data-time='558969' id='t-558969'>may or may not know that he runs a soup kitchen</span>
+<span class='talk-transcript__fragment' data-time='561235' id='t-561235'>in New Jersey, where he caters to and serves the homeless</span>
+<span class='talk-transcript__fragment' data-time='563996' id='t-563996'>and particularly homeless veterans.</span>
+<span class='talk-transcript__fragment' data-time='565689' id='t-565689'>In February, he approached the White House, and said,</span>
+<span class='talk-transcript__fragment' data-time='568467' id='t-568467'>&quot;I would like to fund a prize to create scalable national</span>
+<span class='talk-transcript__fragment' data-time='572312' id='t-572312'>applications, apps, that will help not only the homeless</span>
+<span class='talk-transcript__fragment' data-time='575839' id='t-575839'>but those who deliver services [to] them to do so better.&quot;</span>
+<span class='talk-transcript__fragment' data-time='579274' id='t-579274'>February 2012 to June of 2012,</span>
+<span class='talk-transcript__fragment' data-time='582514' id='t-582514'>the finalists are announced in the competition.</span>
+<span class='talk-transcript__fragment' data-time='585502' id='t-585502'>Can you imagine, in the bureaucratic world of yesteryear,</span>
+<span class='talk-transcript__fragment' data-time='588491' id='t-588491'>getting anything done in a four-month period of time?</span>
+<span class='talk-transcript__fragment' data-time='591237' id='t-591237'>You can barely fill out the forms in that amount of time,</span>
+<span class='talk-transcript__fragment' data-time='593373' id='t-593373'>let alone generate real, palpable innovations</span>
+<span class='talk-transcript__fragment' data-time='596237' id='t-596237'>that improve people's lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='598128' id='t-598128'>And I want to be clear to mention that this open government</span>
+<span class='talk-transcript__fragment' data-time='601361' id='t-601361'>revolution is not about privatizing government,</span>
+<span class='talk-transcript__fragment' data-time='605138' id='t-605138'>because in many cases what it can do when we have</span>
+<span class='talk-transcript__fragment' data-time='608036' id='t-608036'>the will to do so is to deliver more progressive</span>
+<span class='talk-transcript__fragment' data-time='611132' id='t-611132'>and better policy than the regulations and the legislative</span>
+<span class='talk-transcript__fragment' data-time='615255' id='t-615255'>and litigation-oriented strategies</span>
+<span class='talk-transcript__fragment' data-time='618215' id='t-618215'>by which we make policy today.</span>
+<span class='talk-transcript__fragment' data-time='620815' id='t-620815'>In the State of Texas, they regulate 515 professions,</span>
+<span class='talk-transcript__fragment' data-time='624542' id='t-624542'>from well-driller to florist.</span>
+<span class='talk-transcript__fragment' data-time='626606' id='t-626606'>Now, you can carry a gun into a church in Dallas,</span>
+<span class='talk-transcript__fragment' data-time='629829' id='t-629829'>but do not make a flower arrangement without a license,</span>
+<span class='talk-transcript__fragment' data-time='632988' id='t-632988'>because that will land you in jail.</span>
+<span class='talk-transcript__fragment' data-time='635604' id='t-635604'>So what is Texas doing? They're asking you and me,</span>
+<span class='talk-transcript__fragment' data-time='639621' id='t-639621'>using online policy wikis, to help not simply get rid of</span>
+<span class='talk-transcript__fragment' data-time='643709' id='t-643709'>burdensome regulations that impede entrepreneurship,</span>
+<span class='talk-transcript__fragment' data-time='647270' id='t-647270'>but to replace those regulations with more innovative</span>
+<span class='talk-transcript__fragment' data-time='650269' id='t-650269'>alternatives, sometimes using transparency in the creation</span>
+<span class='talk-transcript__fragment' data-time='653133' id='t-653133'>of new iPhone apps that will allows us</span>
+<span class='talk-transcript__fragment' data-time='655115' id='t-655115'>both to protect consumers and the public</span>
+<span class='talk-transcript__fragment' data-time='657388' id='t-657388'>and to encourage economic development.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='660899' id='t-660899'>That is a nice sideline of open government.</span>
+<span class='talk-transcript__fragment' data-time='664053' id='t-664053'>It's not only the benefits that we've talked about with regard</span>
+<span class='talk-transcript__fragment' data-time='666764' id='t-666764'>to development. It's the economic benefits and the</span>
+<span class='talk-transcript__fragment' data-time='670221' id='t-670221'>job creation that's coming from this open innovation work.</span>
+<span class='talk-transcript__fragment' data-time='674847' id='t-674847'>Sberbank, the largest and oldest bank in Russia,</span>
+<span class='talk-transcript__fragment' data-time='677667' id='t-677667'>largely owned by the Russian government,</span>
+<span class='talk-transcript__fragment' data-time='679467' id='t-679467'>has started practicing crowdsourcing, engaging</span>
+<span class='talk-transcript__fragment' data-time='682467' id='t-682467'>its employees and citizens in the public in developing innovations.</span>
+<span class='talk-transcript__fragment' data-time='685819' id='t-685819'>Last year they saved a billion dollars, 30 billion rubles,</span>
+<span class='talk-transcript__fragment' data-time='690239' id='t-690239'>from open innovation, and they're pushing radically</span>
+<span class='talk-transcript__fragment' data-time='692996' id='t-692996'>the extension of crowdsourcing, not only from banking,</span>
+<span class='talk-transcript__fragment' data-time='695655' id='t-695655'>but into the public sector.</span>
+<span class='talk-transcript__fragment' data-time='697698' id='t-697698'>And we see lots of examples of these innovators using</span>
+<span class='talk-transcript__fragment' data-time='700439' id='t-700439'>open government data, not simply to make apps,</span>
+<span class='talk-transcript__fragment' data-time='703289' id='t-703289'>but then to make companies and to hire people</span>
+<span class='talk-transcript__fragment' data-time='705351' id='t-705351'>to build them working with the government.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='707652' id='t-707652'>So a lot of these innovations are local.</span>
+<span class='talk-transcript__fragment' data-time='709782' id='t-709782'>In San Ramon, California, they published an iPhone app</span>
+<span class='talk-transcript__fragment' data-time='712888' id='t-712888'>in which they allow you or me to say we are certified</span>
+<span class='talk-transcript__fragment' data-time='716445' id='t-716445'>CPR-trained, and then when someone has a heart attack,</span>
+<span class='talk-transcript__fragment' data-time='720012' id='t-720012'>a notification goes out so that you</span>
+<span class='talk-transcript__fragment' data-time='722252' id='t-722252'>can rush over to the person over here and deliver CPR.</span>
+<span class='talk-transcript__fragment' data-time='726208' id='t-726208'>The victim who receives bystander CPR</span>
+<span class='talk-transcript__fragment' data-time='728512' id='t-728512'>is more than twice as likely to survive.</span>
+<span class='talk-transcript__fragment' data-time='730977' id='t-730977'>&quot;There is a hero in all of us,&quot; is their slogan.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='734652' id='t-734652'>But it's not limited to the local.</span>
+<span class='talk-transcript__fragment' data-time='737195' id='t-737195'>British Columbia, Canada, is publishing a catalogue</span>
+<span class='talk-transcript__fragment' data-time='739856' id='t-739856'>of all the ways that its residents and citizens can engage</span>
+<span class='talk-transcript__fragment' data-time='742940' id='t-742940'>with the state in the cocreation of governance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='746658' id='t-746658'>Let me be very clear,</span>
+<span class='talk-transcript__fragment' data-time='749719' id='t-749719'>and perhaps controversial,</span>
+<span class='talk-transcript__fragment' data-time='751188' id='t-751188'>that open government is not</span>
+<span class='talk-transcript__fragment' data-time='753977' id='t-753977'>about transparent government.</span>
+<span class='talk-transcript__fragment' data-time='755950' id='t-755950'>Simply throwing data over the transom doesn't change</span>
+<span class='talk-transcript__fragment' data-time='758868' id='t-758868'>how government works.</span>
+<span class='talk-transcript__fragment' data-time='760280' id='t-760280'>It doesn't get anybody to do anything with that data</span>
+<span class='talk-transcript__fragment' data-time='762847' id='t-762847'>to change lives, to solve problems, and it doesn't change</span>
+<span class='talk-transcript__fragment' data-time='766556' id='t-766556'>government.</span>
+<span class='talk-transcript__fragment' data-time='767828' id='t-767828'>What it does is it creates an adversarial relationship</span>
+<span class='talk-transcript__fragment' data-time='770847' id='t-770847'>between civil society and government</span>
+<span class='talk-transcript__fragment' data-time='772575' id='t-772575'>over the control and ownership of information.</span>
+<span class='talk-transcript__fragment' data-time='775618' id='t-775618'>And transparency, by itself, is not reducing the flow</span>
+<span class='talk-transcript__fragment' data-time='778202' id='t-778202'>of money into politics, and arguably,</span>
+<span class='talk-transcript__fragment' data-time='780614' id='t-780614'>it's not even producing accountability as well as it might</span>
+<span class='talk-transcript__fragment' data-time='783347' id='t-783347'>if we took the next step of combining participation and</span>
+<span class='talk-transcript__fragment' data-time='786810' id='t-786810'>collaboration with transparency to transform how we work.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='790921' id='t-790921'>We're going to see this evolution really in two phases,</span>
+<span class='talk-transcript__fragment' data-time='793658' id='t-793658'>I think. The first phase of the open government revolution</span>
+<span class='talk-transcript__fragment' data-time='796947' id='t-796947'>is delivering better information from the crowd</span>
+<span class='talk-transcript__fragment' data-time='800723' id='t-800723'>into the center.</span>
+<span class='talk-transcript__fragment' data-time='802117' id='t-802117'>Starting in 2005, and this is how this open government</span>
+<span class='talk-transcript__fragment' data-time='805064' id='t-805064'>work in the U.S. really got started,</span>
+<span class='talk-transcript__fragment' data-time='807018' id='t-807018'>I was teaching a patent law class to my students and</span>
+<span class='talk-transcript__fragment' data-time='809274' id='t-809274'>explaining to them how a single person in the bureaucracy</span>
+<span class='talk-transcript__fragment' data-time='813045' id='t-813045'>has the power to make a decision</span>
+<span class='talk-transcript__fragment' data-time='815176' id='t-815176'>about which patent application becomes the next patent,</span>
+<span class='talk-transcript__fragment' data-time='819661' id='t-819661'>and therefore monopolizes for 20 years the rights</span>
+<span class='talk-transcript__fragment' data-time='822403' id='t-822403'>over an entire field of inventive activity.</span>
+<span class='talk-transcript__fragment' data-time='825410' id='t-825410'>Well, what did we do? We said, we can make a website,</span>
+<span class='talk-transcript__fragment' data-time='828322' id='t-828322'>we can make an expert network, a social network,</span>
+<span class='talk-transcript__fragment' data-time='830715' id='t-830715'>that would connect the network to the institution</span>
+<span class='talk-transcript__fragment' data-time='832987' id='t-832987'>to allow scientists and technologists to get</span>
+<span class='talk-transcript__fragment' data-time='835368' id='t-835368'>better information to the patent office</span>
+<span class='talk-transcript__fragment' data-time='838003' id='t-838003'>to aid in making those decisions.</span>
+<span class='talk-transcript__fragment' data-time='840466' id='t-840466'>We piloted the work in the U.S. and the U.K. and Japan</span>
+<span class='talk-transcript__fragment' data-time='843098' id='t-843098'>and Australia, and now I'm pleased to report</span>
+<span class='talk-transcript__fragment' data-time='845891' id='t-845891'>that the United States Patent Office will be rolling out</span>
+<span class='talk-transcript__fragment' data-time='848147' id='t-848147'>universal, complete, and total openness,</span>
+<span class='talk-transcript__fragment' data-time='852612' id='t-852612'>so that all patent applications will now be open</span>
+<span class='talk-transcript__fragment' data-time='855658' id='t-855658'>for citizen participation, beginning this year.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='859326' id='t-859326'>The second phase of this evolution — Yeah. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='862262' id='t-862262'>They deserve a hand. (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='865215' id='t-865215'>The first phase is in getting better information in.</span>
+<span class='talk-transcript__fragment' data-time='867750' id='t-867750'>The second phase is in getting decision-making power out.</span>
+<span class='talk-transcript__fragment' data-time='871607' id='t-871607'>Participatory budgeting has long been practiced</span>
+<span class='talk-transcript__fragment' data-time='874222' id='t-874222'>in Porto Alegre, Brazil.</span>
+<span class='talk-transcript__fragment' data-time='875641' id='t-875641'>They're just starting it in the 49th Ward in Chicago.</span>
+<span class='talk-transcript__fragment' data-time='878623' id='t-878623'>Russia is using wikis to get citizens writing law together,</span>
+<span class='talk-transcript__fragment' data-time='882159' id='t-882159'>as is Lithuania. When we start to see</span>
+<span class='talk-transcript__fragment' data-time='884511' id='t-884511'>power over the core functions of government</span>
+<span class='talk-transcript__fragment' data-time='886815' id='t-886815'>— spending, legislation, decision-making —</span>
+<span class='talk-transcript__fragment' data-time='890435' id='t-890435'>then we're well on our way to an open government revolution.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='894496' id='t-894496'>There are many things that we can do to get us there.</span>
+<span class='talk-transcript__fragment' data-time='898327' id='t-898327'>Obviously opening up the data is one,</span>
+<span class='talk-transcript__fragment' data-time='900990' id='t-900990'>but the important thing is to create lots more --</span>
+<span class='talk-transcript__fragment' data-time='903353' id='t-903353'>create and curate -- lots more participatory opportunities.</span>
+<span class='talk-transcript__fragment' data-time='907583' id='t-907583'>Hackathons and mashathons and working with data</span>
+<span class='talk-transcript__fragment' data-time='910281' id='t-910281'>to build apps is an intelligible way for people to engage</span>
+<span class='talk-transcript__fragment' data-time='913990' id='t-913990'>and participate, like the jury is,</span>
+<span class='talk-transcript__fragment' data-time='916490' id='t-916490'>but we're going to need lots more things like it.</span>
+<span class='talk-transcript__fragment' data-time='919514' id='t-919514'>And that's why we need to start with our youngest people.</span>
+<span class='talk-transcript__fragment' data-time='924165' id='t-924165'>We've heard talk here at TED about people</span>
+<span class='talk-transcript__fragment' data-time='926781' id='t-926781'>biohacking and hacking their plants with Arduino,</span>
+<span class='talk-transcript__fragment' data-time='930850' id='t-930850'>and Mozilla is doing work around the world in getting</span>
+<span class='talk-transcript__fragment' data-time='933894' id='t-933894'>young people to build websites and make videos.</span>
+<span class='talk-transcript__fragment' data-time='937253' id='t-937253'>When we start by teaching young people that we live,</span>
+<span class='talk-transcript__fragment' data-time='939989' id='t-939989'>not in a passive society, a read-only society,</span>
+<span class='talk-transcript__fragment' data-time='943507' id='t-943507'>but in a writable society, where we have the power</span>
+<span class='talk-transcript__fragment' data-time='946074' id='t-946074'>to change our communities, to change our institutions,</span>
+<span class='talk-transcript__fragment' data-time='949698' id='t-949698'>that's when we begin to really put ourselves on the pathway</span>
+<span class='talk-transcript__fragment' data-time='952834' id='t-952834'>towards this open government innovation,</span>
+<span class='talk-transcript__fragment' data-time='956045' id='t-956045'>towards this open government movement,</span>
+<span class='talk-transcript__fragment' data-time='957754' id='t-957754'>towards this open government revolution.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='960277' id='t-960277'>So let me close by saying that I think the important thing</span>
+<span class='talk-transcript__fragment' data-time='962523' id='t-962523'>for us to do is to talk about and demand this revolution.</span>
+<span class='talk-transcript__fragment' data-time='968382' id='t-968382'>We don't have words, really, to describe it yet.</span>
+<span class='talk-transcript__fragment' data-time='971677' id='t-971677'>Words like equality and fairness and the traditional</span>
+<span class='talk-transcript__fragment' data-time='973902' id='t-973902'>elections, democracy, these are not really great terms yet.</span>
+<span class='talk-transcript__fragment' data-time='978269' id='t-978269'>They're not fun enough. They're not exciting enough</span>
+<span class='talk-transcript__fragment' data-time='981017' id='t-981017'>to get us engaged in this tremendous opportunity</span>
+<span class='talk-transcript__fragment' data-time='984336' id='t-984336'>that awaits us. But I would argue that if we want to see</span>
+<span class='talk-transcript__fragment' data-time='987744' id='t-987744'>the kinds of innovations, the hopeful and exciting</span>
+<span class='talk-transcript__fragment' data-time='990447' id='t-990447'>innovations that we hear talked about here at TED,</span>
+<span class='talk-transcript__fragment' data-time='993111' id='t-993111'>in clean energy, in clean education,</span>
+<span class='talk-transcript__fragment' data-time='995288' id='t-995288'>in development, if we want to see those adopted</span>
+<span class='talk-transcript__fragment' data-time='997879' id='t-997879'>and we want to see those scaled,</span>
+<span class='talk-transcript__fragment' data-time='1000135' id='t-1000135'>we want to see them become the governance of tomorrow,</span>
+<span class='talk-transcript__fragment' data-time='1002927' id='t-1002927'>then we must all participate,</span>
+<span class='talk-transcript__fragment' data-time='1004632' id='t-1004632'>then we must get involved.</span>
+<span class='talk-transcript__fragment' data-time='1006130' id='t-1006130'>We must open up our institutions, and like the leaf,</span>
+<span class='talk-transcript__fragment' data-time='1009340' id='t-1009340'>we must let the nutrients flow throughout our body politic,</span>
+<span class='talk-transcript__fragment' data-time='1013534' id='t-1013534'>throughout our culture, to create open institutions</span>
+<span class='talk-transcript__fragment' data-time='1016734' id='t-1016734'>to create a stronger democracy, a better tomorrow.</span>
+<span class='talk-transcript__fragment' data-time='1019403' id='t-1019403'>Thank you. (Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

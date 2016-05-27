@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Rajiv Maheswaran: The math behind basketball&#39;s wildest moves | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Rajiv Maheswaran: The math behind basketball&#39;s wildest moves | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Basketball is a fast-moving game of improvisation, contact and, ahem, spatio-temporal pattern recognition. Rajiv Maheswaran and his colleagues are analyzing the movements behind the key plays of the game, to help coaches and players combine intuition with new data. Bonus: What they&#39;re learning could help us understand how humans move everywhere. " name="description" />
+<meta content="Rajiv Maheswaran" name="author" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=hi" hreflang="hi" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The math behind basketball&#39;s wildest moves&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8c6cef77bf64df600aaac31793780058965ad47a_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8c6cef77bf64df600aaac31793780058965ad47a_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Basketball is a fast-moving game of improvisation, contact and, ahem, spatio-temporal pattern recognition. Rajiv Maheswaran and his colleagues are analyzing the movements behind the key plays of the game, to help coaches and players combine intuition with new data. Bonus: What they&#39;re learning could help us understand how humans move everywhere. " property="og:description" />
+<meta content="http://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2294?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='he'>Hebrew</option>
+<option value='hi'>Hindi</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2294?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="728" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8c6cef77bf64df600aaac31793780058965ad47a_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:08</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Rajiv Maheswaran</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2294?language=en' lang='en'>
+The math behind basketball's wildest moves
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jul 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='954' id='t-954'>My colleagues and I are fascinated
+by the science of moving dots.</span>
+<span class='talk-transcript__fragment' data-time='4927' id='t-4927'>So what are these dots?</span>
+<span class='talk-transcript__fragment' data-time='6101' id='t-6101'>Well, it's all of us.</span>
+<span class='talk-transcript__fragment' data-time='7412' id='t-7412'>And we're moving in our homes,
+in our offices, as we shop and travel</span>
+<span class='talk-transcript__fragment' data-time='12521' id='t-12521'>throughout our cities
+and around the world.</span>
+<span class='talk-transcript__fragment' data-time='14958' id='t-14958'>And wouldn't it be great
+if we could understand all this movement?</span>
+<span class='talk-transcript__fragment' data-time='18918' id='t-18918'>If we could find patterns and meaning
+and insight in it.</span>
+<span class='talk-transcript__fragment' data-time='22259' id='t-22259'>And luckily for us, we live in a time</span>
+<span class='talk-transcript__fragment' data-time='24068' id='t-24068'>where we're incredibly good
+at capturing information about ourselves.</span>
+<span class='talk-transcript__fragment' data-time='28807' id='t-28807'>So whether it's through
+sensors or videos, or apps,</span>
+<span class='talk-transcript__fragment' data-time='32494' id='t-32494'>we can track our movement
+with incredibly fine detail.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='36092' id='t-36092'>So it turns out one of the places
+where we have the best data about movement</span>
+<span class='talk-transcript__fragment' data-time='41148' id='t-41148'>is sports.</span>
+<span class='talk-transcript__fragment' data-time='42682' id='t-42682'>So whether it's basketball or baseball,
+or football or the other football,</span>
+<span class='talk-transcript__fragment' data-time='48039' id='t-48039'>we're instrumenting our stadiums
+and our players to track their movements</span>
+<span class='talk-transcript__fragment' data-time='52465' id='t-52465'>every fraction of a second.</span>
+<span class='talk-transcript__fragment' data-time='53802' id='t-53802'>So what we're doing
+is turning our athletes into --</span>
+<span class='talk-transcript__fragment' data-time='58208' id='t-58208'>you probably guessed it --</span>
+<span class='talk-transcript__fragment' data-time='60191' id='t-60191'>moving dots.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='61946' id='t-61946'>So we've got mountains of moving dots
+and like most raw data,</span>
+<span class='talk-transcript__fragment' data-time='66904' id='t-66904'>it's hard to deal with
+and not that interesting.</span>
+<span class='talk-transcript__fragment' data-time='69430' id='t-69430'>But there are things that, for example,
+basketball coaches want to know.</span>
+<span class='talk-transcript__fragment' data-time='73223' id='t-73223'>And the problem is they can't know them
+because they'd have to watch every second</span>
+<span class='talk-transcript__fragment' data-time='77057' id='t-77057'>of every game, remember it and process it.</span>
+<span class='talk-transcript__fragment' data-time='79804' id='t-79804'>And a person can't do that,</span>
+<span class='talk-transcript__fragment' data-time='81758' id='t-81758'>but a machine can.</span>
+<span class='talk-transcript__fragment' data-time='83661' id='t-83661'>The problem is a machine can't see
+the game with the eye of a coach.</span>
+<span class='talk-transcript__fragment' data-time='87363' id='t-87363'>At least they couldn't until now.</span>
+<span class='talk-transcript__fragment' data-time='90228' id='t-90228'>So what have we taught the machine to see?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='93569' id='t-93569'>So, we started simply.</span>
+<span class='talk-transcript__fragment' data-time='95380' id='t-95380'>We taught it things like passes,
+shots and rebounds.</span>
+<span class='talk-transcript__fragment' data-time='99203' id='t-99203'>Things that most casual fans would know.</span>
+<span class='talk-transcript__fragment' data-time='101768' id='t-101768'>And then we moved on to things
+slightly more complicated.</span>
+<span class='talk-transcript__fragment' data-time='104624' id='t-104624'>Events like post-ups,
+and pick-and-rolls, and isolations.</span>
+<span class='talk-transcript__fragment' data-time='109377' id='t-109377'>And if you don't know them, that's okay.
+Most casual players probably do.</span>
+<span class='talk-transcript__fragment' data-time='113560' id='t-113560'>Now, we've gotten to a point where today,
+the machine understands complex events</span>
+<span class='talk-transcript__fragment' data-time='118924' id='t-118924'>like down screens and wide pins.</span>
+<span class='talk-transcript__fragment' data-time='122021' id='t-122021'>Basically things only professionals know.</span>
+<span class='talk-transcript__fragment' data-time='124771' id='t-124771'>So we have taught a machine to see
+with the eyes of a coach.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='130009' id='t-130009'>So how have we been able to do this?</span>
+<span class='talk-transcript__fragment' data-time='132511' id='t-132511'>If I asked a coach to describe
+something like a pick-and-roll,</span>
+<span class='talk-transcript__fragment' data-time='135653' id='t-135653'>they would give me a description,</span>
+<span class='talk-transcript__fragment' data-time='137317' id='t-137317'>and if I encoded that as an algorithm,
+it would be terrible.</span>
+<span class='talk-transcript__fragment' data-time='141026' id='t-141026'>The pick-and-roll happens to be this dance
+in basketball between four players,</span>
+<span class='talk-transcript__fragment' data-time='145328' id='t-145328'>two on offense and two on defense.</span>
+<span class='talk-transcript__fragment' data-time='147486' id='t-147486'>And here's kind of how it goes.</span>
+<span class='talk-transcript__fragment' data-time='149128' id='t-149128'>So there's the guy on offense
+without the ball</span>
+<span class='talk-transcript__fragment' data-time='151685' id='t-151685'>the ball and he goes next to the guy
+guarding the guy with the ball,</span>
+<span class='talk-transcript__fragment' data-time='154918' id='t-154918'>and he kind of stays there</span>
+<span class='talk-transcript__fragment' data-time='156199' id='t-156199'>and they both move and stuff happens,
+and ta-da, it's a pick-and-roll.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='159540' id='t-159540'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='161779' id='t-161779'>So that is also an example
+of a terrible algorithm.</span>
+<span class='talk-transcript__fragment' data-time='164913' id='t-164913'>So, if the player who's the interferer --
+he's called the screener --</span>
+<span class='talk-transcript__fragment' data-time='169278' id='t-169278'>goes close by, but he doesn't stop,</span>
+<span class='talk-transcript__fragment' data-time='172174' id='t-172174'>it's probably not a pick-and-roll.</span>
+<span class='talk-transcript__fragment' data-time='174560' id='t-174560'>Or if he does stop,
+but he doesn't stop close enough,</span>
+<span class='talk-transcript__fragment' data-time='178529' id='t-178529'>it's probably not a pick-and-roll.</span>
+<span class='talk-transcript__fragment' data-time='180642' id='t-180642'>Or, if he does go close by
+and he does stop</span>
+<span class='talk-transcript__fragment' data-time='183903' id='t-183903'>but they do it under the basket,
+it's probably not a pick-and-roll.</span>
+<span class='talk-transcript__fragment' data-time='187462' id='t-187462'>Or I could be wrong,
+they could all be pick-and-rolls.</span>
+<span class='talk-transcript__fragment' data-time='190010' id='t-190010'>It really depends on the exact timing,
+the distances, the locations,</span>
+<span class='talk-transcript__fragment' data-time='194602' id='t-194602'>and that's what makes it hard.</span>
+<span class='talk-transcript__fragment' data-time='196579' id='t-196579'>So, luckily, with machine learning,
+we can go beyond our own ability</span>
+<span class='talk-transcript__fragment' data-time='201547' id='t-201547'>to describe the things we know.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='203314' id='t-203314'>So how does this work?
+Well, it's by example.</span>
+<span class='talk-transcript__fragment' data-time='205759' id='t-205759'>So we go to the machine and say,
+&quot;Good morning, machine.</span>
+<span class='talk-transcript__fragment' data-time='209077' id='t-209077'>Here are some pick-and-rolls,
+and here are some things that are not.</span>
+<span class='talk-transcript__fragment' data-time='212720' id='t-212720'>Please find a way to tell the difference.&quot;</span>
+<span class='talk-transcript__fragment' data-time='215076' id='t-215076'>And the key to all of this is to find
+features that enable it to separate.</span>
+<span class='talk-transcript__fragment' data-time='218807' id='t-218807'>So if I was going
+to teach it the difference</span>
+<span class='talk-transcript__fragment' data-time='220940' id='t-220940'>between an apple and orange,</span>
+<span class='talk-transcript__fragment' data-time='222345' id='t-222345'>I might say, &quot;Why don't you
+use color or shape?&quot;</span>
+<span class='talk-transcript__fragment' data-time='224744' id='t-224744'>And the problem that we're solving is,
+what are those things?</span>
+<span class='talk-transcript__fragment' data-time='227711' id='t-227711'>What are the key features</span>
+<span class='talk-transcript__fragment' data-time='228982' id='t-228982'>that let a computer navigate
+the world of moving dots?</span>
+<span class='talk-transcript__fragment' data-time='232505' id='t-232505'>So figuring out all these relationships
+with relative and absolute location,</span>
+<span class='talk-transcript__fragment' data-time='237352' id='t-237352'>distance, timing, velocities --</span>
+<span class='talk-transcript__fragment' data-time='239440' id='t-239440'>that's really the key to the science
+of moving dots, or as we like to call it,</span>
+<span class='talk-transcript__fragment' data-time='244392' id='t-244392'>spatiotemporal pattern recognition,
+in academic vernacular.</span>
+<span class='talk-transcript__fragment' data-time='247925' id='t-247925'>Because the first thing is,
+you have to make it sound hard --</span>
+<span class='talk-transcript__fragment' data-time='250847' id='t-250847'>because it is.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='252410' id='t-252410'>The key thing is, for NBA coaches,
+it's not that they want to know</span>
+<span class='talk-transcript__fragment' data-time='255575' id='t-255575'>whether a pick-and-roll happened or not.</span>
+<span class='talk-transcript__fragment' data-time='257521' id='t-257521'>It's that they want to know
+how it happened.</span>
+<span class='talk-transcript__fragment' data-time='259621' id='t-259621'>And why is it so important to them?
+So here's a little insight.</span>
+<span class='talk-transcript__fragment' data-time='262631' id='t-262631'>It turns out in modern basketball,</span>
+<span class='talk-transcript__fragment' data-time='264426' id='t-264426'>this pick-and-roll is perhaps
+the most important play.</span>
+<span class='talk-transcript__fragment' data-time='267065' id='t-267065'>And knowing how to run it,
+and knowing how to defend it,</span>
+<span class='talk-transcript__fragment' data-time='269709' id='t-269709'>is basically a key to winning
+and losing most games.</span>
+<span class='talk-transcript__fragment' data-time='272403' id='t-272403'>So it turns out that this dance
+has a great many variations</span>
+<span class='talk-transcript__fragment' data-time='276228' id='t-276228'>and identifying the variations
+is really the thing that matters,</span>
+<span class='talk-transcript__fragment' data-time='279900' id='t-279900'>and that's why we need this
+to be really, really good.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='283228' id='t-283228'>So, here's an example.</span>
+<span class='talk-transcript__fragment' data-time='284428' id='t-284428'>There are two offensive
+and two defensive players,</span>
+<span class='talk-transcript__fragment' data-time='286831' id='t-286831'>getting ready to do
+the pick-and-roll dance.</span>
+<span class='talk-transcript__fragment' data-time='289007' id='t-289007'>So the guy with ball
+can either take, or he can reject.</span>
+<span class='talk-transcript__fragment' data-time='292086' id='t-292086'>His teammate can either roll or pop.</span>
+<span class='talk-transcript__fragment' data-time='295111' id='t-295111'>The guy guarding the ball
+can either go over or under.</span>
+<span class='talk-transcript__fragment' data-time='298121' id='t-298121'>His teammate can either show
+or play up to touch, or play soft</span>
+<span class='talk-transcript__fragment' data-time='302710' id='t-302710'>and together they can
+either switch or blitz</span>
+<span class='talk-transcript__fragment' data-time='305352' id='t-305352'>and I didn't know
+most of these things when I started</span>
+<span class='talk-transcript__fragment' data-time='308035' id='t-308035'>and it would be lovely if everybody moved
+according to those arrows.</span>
+<span class='talk-transcript__fragment' data-time='311979' id='t-311979'>It would make our lives a lot easier,
+but it turns out movement is very messy.</span>
+<span class='talk-transcript__fragment' data-time='316047' id='t-316047'>People wiggle a lot and getting
+these variations identified</span>
+<span class='talk-transcript__fragment' data-time='321555' id='t-321555'>with very high accuracy,</span>
+<span class='talk-transcript__fragment' data-time='322882' id='t-322882'>both in precision and recall, is tough</span>
+<span class='talk-transcript__fragment' data-time='324774' id='t-324774'>because that's what it takes to get
+a professional coach to believe in you.</span>
+<span class='talk-transcript__fragment' data-time='328416' id='t-328416'>And despite all the difficulties
+with the right spatiotemporal features</span>
+<span class='talk-transcript__fragment' data-time='331820' id='t-331820'>we have been able to do that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='333318' id='t-333318'>Coaches trust our ability of our machine
+to identify these variations.</span>
+<span class='talk-transcript__fragment' data-time='337478' id='t-337478'>We're at the point where
+almost every single contender</span>
+<span class='talk-transcript__fragment' data-time='341035' id='t-341035'>for an NBA championship this year</span>
+<span class='talk-transcript__fragment' data-time='342682' id='t-342682'>is using our software, which is built
+on a machine that understands</span>
+<span class='talk-transcript__fragment' data-time='347114' id='t-347114'>the moving dots of basketball.</span>
+<span class='talk-transcript__fragment' data-time='349872' id='t-349872'>So not only that, we have given advice
+that has changed strategies</span>
+<span class='talk-transcript__fragment' data-time='355049' id='t-355049'>that have helped teams win
+very important games,</span>
+<span class='talk-transcript__fragment' data-time='358425' id='t-358425'>and it's very exciting because you have
+coaches who've been in the league</span>
+<span class='talk-transcript__fragment' data-time='362181' id='t-362181'>for 30 years that are willing to take
+advice from a machine.</span>
+<span class='talk-transcript__fragment' data-time='365874' id='t-365874'>And it's very exciting,
+it's much more than the pick-and-roll.</span>
+<span class='talk-transcript__fragment' data-time='368804' id='t-368804'>Our computer started out
+with simple things</span>
+<span class='talk-transcript__fragment' data-time='370904' id='t-370904'>and learned more and more complex things</span>
+<span class='talk-transcript__fragment' data-time='372992' id='t-372992'>and now it knows so many things.</span>
+<span class='talk-transcript__fragment' data-time='374577' id='t-374577'>Frankly, I don't understand
+much of what it does,</span>
+<span class='talk-transcript__fragment' data-time='377436' id='t-377436'>and while it's not that special
+to be smarter than me,</span>
+<span class='talk-transcript__fragment' data-time='381175' id='t-381175'>we were wondering,
+can a machine know more than a coach?</span>
+<span class='talk-transcript__fragment' data-time='384843' id='t-384843'>Can it know more than person could know?</span>
+<span class='talk-transcript__fragment' data-time='386922' id='t-386922'>And it turns out the answer is yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='388691' id='t-388691'>The coaches want players
+to take good shots.</span>
+<span class='talk-transcript__fragment' data-time='391272' id='t-391272'>So if I'm standing near the basket</span>
+<span class='talk-transcript__fragment' data-time='392947' id='t-392947'>and there's nobody near me,
+it's a good shot.</span>
+<span class='talk-transcript__fragment' data-time='395137' id='t-395137'>If I'm standing far away surrounded
+by defenders, that's generally a bad shot.</span>
+<span class='talk-transcript__fragment' data-time='399101' id='t-399101'>But we never knew how good &quot;good&quot; was,
+or how bad &quot;bad&quot; was quantitatively.</span>
+<span class='talk-transcript__fragment' data-time='404209' id='t-404209'>Until now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='405771' id='t-405771'>So what we can do, again,
+using spatiotemporal features,</span>
+<span class='talk-transcript__fragment' data-time='408853' id='t-408853'>we looked at every shot.</span>
+<span class='talk-transcript__fragment' data-time='410251' id='t-410251'>We can see: Where is the shot?
+What's the angle to the basket?</span>
+<span class='talk-transcript__fragment' data-time='413280' id='t-413280'>Where are the defenders standing?
+What are their distances?</span>
+<span class='talk-transcript__fragment' data-time='416066' id='t-416066'>What are their angles?</span>
+<span class='talk-transcript__fragment' data-time='417421' id='t-417421'>For multiple defenders, we can look
+at how the player's moving</span>
+<span class='talk-transcript__fragment' data-time='420422' id='t-420422'>and predict the shot type.</span>
+<span class='talk-transcript__fragment' data-time='421879' id='t-421879'>We can look at all their velocities
+and we can build a model that predicts</span>
+<span class='talk-transcript__fragment' data-time='425977' id='t-425977'>what is the likelihood that this shot
+would go in under these circumstances?</span>
+<span class='talk-transcript__fragment' data-time='430188' id='t-430188'>So why is this important?</span>
+<span class='talk-transcript__fragment' data-time='432102' id='t-432102'>We can take something that was shooting,</span>
+<span class='talk-transcript__fragment' data-time='434929' id='t-434929'>which was one thing before,
+and turn it into two things:</span>
+<span class='talk-transcript__fragment' data-time='437633' id='t-437633'>the quality of the shot
+and the quality of the shooter.</span>
+<span class='talk-transcript__fragment' data-time='441680' id='t-441680'>So here's a bubble chart,
+because what's TED without a bubble chart?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='444966' id='t-444966'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='446004' id='t-446004'>Those are NBA players.</span>
+<span class='talk-transcript__fragment' data-time='447339' id='t-447339'>The size is the size of the player
+and the color is the position.</span>
+<span class='talk-transcript__fragment' data-time='450483' id='t-450483'>On the x-axis,
+we have the shot probability.</span>
+<span class='talk-transcript__fragment' data-time='452639' id='t-452639'>People on the left take difficult shots,</span>
+<span class='talk-transcript__fragment' data-time='454616' id='t-454616'>on the right, they take easy shots.</span>
+<span class='talk-transcript__fragment' data-time='457194' id='t-457194'>On the [y-axis] is their shooting ability.</span>
+<span class='talk-transcript__fragment' data-time='459275' id='t-459275'>People who are good are at the top,
+bad at the bottom.</span>
+<span class='talk-transcript__fragment' data-time='461861' id='t-461861'>So for example, if there was a player</span>
+<span class='talk-transcript__fragment' data-time='463621' id='t-463621'>who generally made
+47 percent of their shots,</span>
+<span class='talk-transcript__fragment' data-time='465718' id='t-465718'>that's all you knew before.</span>
+<span class='talk-transcript__fragment' data-time='467345' id='t-467345'>But today, I can tell you that player
+takes shots that an average NBA player</span>
+<span class='talk-transcript__fragment' data-time='472219' id='t-472219'>would make 49 percent of the time,</span>
+<span class='talk-transcript__fragment' data-time='474204' id='t-474204'>and they are two percent worse.</span>
+<span class='talk-transcript__fragment' data-time='476266' id='t-476266'>And the reason that's important
+is that there are lots of 47s out there.</span>
+<span class='talk-transcript__fragment' data-time='481714' id='t-481714'>And so it's really important to know</span>
+<span class='talk-transcript__fragment' data-time='484287' id='t-484287'>if the 47 that you're considering
+giving 100 million dollars to</span>
+<span class='talk-transcript__fragment' data-time='488267' id='t-488267'>is a good shooter who takes bad shots</span>
+<span class='talk-transcript__fragment' data-time='491346' id='t-491346'>or a bad shooter who takes good shots.</span>
+<span class='talk-transcript__fragment' data-time='495130' id='t-495130'>Machine understanding doesn't just change
+how we look at players,</span>
+<span class='talk-transcript__fragment' data-time='498487' id='t-498487'>it changes how we look at the game.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='500369' id='t-500369'>So there was this very exciting game
+a couple of years ago, in the NBA finals.</span>
+<span class='talk-transcript__fragment' data-time='504148' id='t-504148'>Miami was down by three,
+there was 20 seconds left.</span>
+<span class='talk-transcript__fragment' data-time='507379' id='t-507379'>They were about to lose the championship.</span>
+<span class='talk-transcript__fragment' data-time='509428' id='t-509428'>A gentleman named LeBron James
+came up and he took a three to tie.</span>
+<span class='talk-transcript__fragment' data-time='512793' id='t-512793'>He missed.</span>
+<span class='talk-transcript__fragment' data-time='514015' id='t-514015'>His teammate Chris Bosh got a rebound,</span>
+<span class='talk-transcript__fragment' data-time='515876' id='t-515876'>passed it to another teammate
+named Ray Allen.</span>
+<span class='talk-transcript__fragment' data-time='518059' id='t-518059'>He sank a three. It went into overtime.</span>
+<span class='talk-transcript__fragment' data-time='520002' id='t-520002'>They won the game.
+They won the championship.</span>
+<span class='talk-transcript__fragment' data-time='522122' id='t-522122'>It was one of the most exciting
+games in basketball.</span>
+<span class='talk-transcript__fragment' data-time='525438' id='t-525438'>And our ability to know
+the shot probability for every player</span>
+<span class='talk-transcript__fragment' data-time='528891' id='t-528891'>at every second,</span>
+<span class='talk-transcript__fragment' data-time='530103' id='t-530103'>and the likelihood of them getting
+a rebound at every second</span>
+<span class='talk-transcript__fragment' data-time='533083' id='t-533083'>can illuminate this moment in a way
+that we never could before.</span>
+<span class='talk-transcript__fragment' data-time='537618' id='t-537618'>Now unfortunately,
+I can't show you that video.</span>
+<span class='talk-transcript__fragment' data-time='540310' id='t-540310'>But for you, we recreated that moment</span>
+<span class='talk-transcript__fragment' data-time='544827' id='t-544827'>at our weekly basketball game
+about 3 weeks ago.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547279' id='t-547279'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='549573' id='t-549573'>And we recreated the tracking
+that led to the insights.</span>
+<span class='talk-transcript__fragment' data-time='553199' id='t-553199'>So, here is us.
+This is Chinatown in Los Angeles,</span>
+<span class='talk-transcript__fragment' data-time='557478' id='t-557478'>a park we play at every week,</span>
+<span class='talk-transcript__fragment' data-time='559066' id='t-559066'>and that's us recreating
+the Ray Allen moment</span>
+<span class='talk-transcript__fragment' data-time='561321' id='t-561321'>and all the tracking
+that's associated with it.</span>
+<span class='talk-transcript__fragment' data-time='564772' id='t-564772'>So, here's the shot.</span>
+<span class='talk-transcript__fragment' data-time='566313' id='t-566313'>I'm going to show you that moment</span>
+<span class='talk-transcript__fragment' data-time='568853' id='t-568853'>and all the insights of that moment.</span>
+<span class='talk-transcript__fragment' data-time='571464' id='t-571464'>The only difference is, instead
+of the professional players, it's us,</span>
+<span class='talk-transcript__fragment' data-time='575218' id='t-575218'>and instead of a professional
+announcer, it's me.</span>
+<span class='talk-transcript__fragment' data-time='577860' id='t-577860'>So, bear with me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='581153' id='t-581153'>Miami.</span>
+<span class='talk-transcript__fragment' data-time='582671' id='t-582671'>Down three.</span>
+<span class='talk-transcript__fragment' data-time='584107' id='t-584107'>Twenty seconds left.</span>
+<span class='talk-transcript__fragment' data-time='587385' id='t-587385'>Jeff brings up the ball.</span>
+<span class='talk-transcript__fragment' data-time='590656' id='t-590656'>Josh catches, puts up a three!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='592631' id='t-592631'>[Calculating shot probability]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='595278' id='t-595278'>[Shot quality]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='597048' id='t-597048'>[Rebound probability]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='600373' id='t-600373'>Won't go!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='601570' id='t-601570'>[Rebound probability]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='603777' id='t-603777'>Rebound, Noel.</span>
+<span class='talk-transcript__fragment' data-time='605057' id='t-605057'>Back to Daria.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='606509' id='t-606509'>[Shot quality]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='610676' id='t-610676'>Her three-pointer -- bang!</span>
+<span class='talk-transcript__fragment' data-time='612320' id='t-612320'>Tie game with five seconds left.</span>
+<span class='talk-transcript__fragment' data-time='614880' id='t-614880'>The crowd goes wild.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='616522' id='t-616522'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='618205' id='t-618205'>That's roughly how it happened.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='619776' id='t-619776'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='620951' id='t-620951'>Roughly.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='622150' id='t-622150'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='624121' id='t-624121'>That moment had about a nine percent
+chance of happening in the NBA</span>
+<span class='talk-transcript__fragment' data-time='629629' id='t-629629'>and we know that
+and a great many other things.</span>
+<span class='talk-transcript__fragment' data-time='631914' id='t-631914'>I'm not going to tell you how many times
+it took us to make that happen.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='635429' id='t-635429'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='637200' id='t-637200'>Okay, I will! It was four.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='639096' id='t-639096'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='640121' id='t-640121'>Way to go, Daria.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='641647' id='t-641647'>But the important thing about that video</span>
+<span class='talk-transcript__fragment' data-time='645934' id='t-645934'>and the insights we have for every second
+of every NBA game -- it's not that.</span>
+<span class='talk-transcript__fragment' data-time='650639' id='t-650639'>It's the fact you don't have to be
+a professional team to track movement.</span>
+<span class='talk-transcript__fragment' data-time='655083' id='t-655083'>You do not have to be a professional
+player to get insights about movement.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='658764' id='t-658764'>In fact, it doesn't even have to be about
+sports because we're moving everywhere.</span>
+<span class='talk-transcript__fragment' data-time='663654' id='t-663654'>We're moving in our homes,</span>
+<span class='talk-transcript__fragment' data-time='669428' id='t-669428'>in our offices,</span>
+<span class='talk-transcript__fragment' data-time='672238' id='t-672238'>as we shop and we travel</span>
+<span class='talk-transcript__fragment' data-time='677318' id='t-677318'>throughout our cities</span>
+<span class='talk-transcript__fragment' data-time='680065' id='t-680065'>and around our world.</span>
+<span class='talk-transcript__fragment' data-time='683270' id='t-683270'>What will we know? What will we learn?</span>
+<span class='talk-transcript__fragment' data-time='685589' id='t-685589'>Perhaps, instead of identifying
+pick-and-rolls,</span>
+<span class='talk-transcript__fragment' data-time='687918' id='t-687918'>a machine can identify
+the moment and let me know</span>
+<span class='talk-transcript__fragment' data-time='690952' id='t-690952'>when my daughter takes her first steps.</span>
+<span class='talk-transcript__fragment' data-time='693035' id='t-693035'>Which could literally be happening
+any second now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='696140' id='t-696140'>Perhaps we can learn to better use
+our buildings, better plan our cities.</span>
+<span class='talk-transcript__fragment' data-time='700362' id='t-700362'>I believe that with the development
+of the science of moving dots,</span>
+<span class='talk-transcript__fragment' data-time='704559' id='t-704559'>we will move better, we will move smarter,
+we will move forward.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='708607' id='t-708607'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='709820' id='t-709820'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

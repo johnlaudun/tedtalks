@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Eric Giler: A demo of wireless electricity | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Eric Giler: A demo of wireless electricity | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Eric Giler wants to untangle our wired lives with cable-free electric power. Here, he covers what this sci-fi tech offers, and demos MIT&#39;s breakthrough version, WiTricity -- a near-to-market invention that may soon recharge your cell phone, car, pacemaker." name="description" />
+<meta content="Eric Giler" name="author" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=bs" hreflang="bs" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=mk" hreflang="mk" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A demo of wireless electricity&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f9ba0b7f802ef506e9436f033e7880f817e2a266_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f9ba0b7f802ef506e9436f033e7880f817e2a266_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Eric Giler wants to untangle our wired lives with cable-free electric power. Here, he covers what this sci-fi tech offers, and demos MIT&#39;s breakthrough version, WiTricity -- a near-to-market invention that may soon recharge your cell phone, car, pacemaker." property="og:description" />
+<meta content="http://www.ted.com/talks/eric_giler_demos_wireless_electricity/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/619?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='eric_giler_demos_wireless_electricity'>
+<option value='ar'>Arabic</option>
+<option value='bs'>Bosnian</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='mk'>Macedonian</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/619?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="609" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f9ba0b7f802ef506e9436f033e7880f817e2a266_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:09</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Eric Giler</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/619?language=en' lang='en'>
+A demo of wireless electricity
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Aug 2009
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Early visions of wireless power</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>actually were thought of by Nikola Tesla</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>basically about 100 years ago.</span>
+<span class='talk-transcript__fragment' data-time='9000' id='t-9000'>The thought that</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>you wouldn't want to transfer electric power wirelessly,</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>no one ever thought of that.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>They thought, &quot;Who would use it if you didn't?&quot;</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>And so, in fact, he actually set about</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>doing a variety of things.</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>Built the Tesla coil. This tower was built</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>on Long Island back at the beginning of the 1900s.</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>And the idea was, it was supposed to be able to transfer power</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>anywhere on Earth.</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>We'll never know if this stuff worked. Actually, I think the</span>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>Federal Bureau of Investigation</span>
+<span class='talk-transcript__fragment' data-time='37000' id='t-37000'>took it down for security purposes,</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>sometime in the early 1900s.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>But the one thing that did come out of electricity</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>is that we love this stuff so much.</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>I mean, think about how much we love this.</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>If you just walk outside, there are trillions of dollars</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>that have been invested in infrastructure around the world,</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>putting up wires to get power from where it's created</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>to where it's used.</span>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>The other thing is, we love batteries.</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>And for those of us that have an environmental element to us,</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>there is something like 40 billion</span>
+<span class='talk-transcript__fragment' data-time='68000' id='t-68000'>disposable batteries built every year</span>
+<span class='talk-transcript__fragment' data-time='70000' id='t-70000'>for power that, generally speaking,</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>is used within a few inches or a few feet</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>of where there is very inexpensive power.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>So, before I got here,</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>I thought, &quot;You know, I am from North America.</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>We do have a little bit of a reputation in the United States.&quot;</span>
+<span class='talk-transcript__fragment' data-time='85000' id='t-85000'>So I thought I'd better look it up first.</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>So definition number six is the North American</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>definition of the word &quot;suck.&quot;</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>Wires suck, they really do.</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>Think about it. Whether that's you in that picture</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>or something under your desk.</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>The other thing is, batteries suck too.</span>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>And they really, really do.</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>Do you ever wonder what happens to this stuff?</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>40 billion of these things built.</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>This is what happens.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>They fall apart, they disintegrate,</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>and they end up here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>So when you talk about expensive power,</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>the cost per kilowatt-hour</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>to supply battery power to something</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>is on the order of two to three hundred pounds.</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>Think about that.</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>The most expensive grid power in the world</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>is thousandths of that.</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>So fortunately, one of the other definitions</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>of &quot;suck&quot; that was in there, it does create a vacuum.</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>And nature really does abhor a vacuum.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>What happened back a few years ago</span>
+<span class='talk-transcript__fragment' data-time='145000' id='t-145000'>was a group of theoretical physicists at MIT</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>actually came up with this concept of transferring power over distance.</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>Basically they were able to light a 60 watt light bulb</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>at a distance of about two meters.</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>It got about 50 percent of the efficiency --</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>by the way, that's still a couple thousand times</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>more efficient than a battery would be, to do the same thing.</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>But were able to light that,</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>and do it very successfully.</span>
+<span class='talk-transcript__fragment' data-time='171000' id='t-171000'>This was actually the experiment. So you can see</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>the coils were somewhat larger.</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>The light bulb was a fairly simple task, from their standpoint.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>This all came from a professor</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>waking up at night to the third night in a row</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>that his wife's cellphone was beeping</span>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>because it was running out of battery power.</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>And he was thinking, &quot;With all the electricity that's out there in the walls,</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>why couldn't some of that just come into the phone so I could get some sleep?&quot;</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>And he actually came up with this concept</span>
+<span class='talk-transcript__fragment' data-time='198000' id='t-198000'>of resonant energy transfer.</span>
+<span class='talk-transcript__fragment' data-time='200000' id='t-200000'>But inside a standard transformer are two coils of wire.</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>And those two coils of wire are really, really close to each other,</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>and actually do transfer power</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>magnetically and wirelessly, only over a very short distance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>What Dr. Soljacic figured out how to do</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>was separate the coils in a transformer</span>
+<span class='talk-transcript__fragment' data-time='220000' id='t-220000'>to a greater distance than the size of those transformers</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>using this technology, which is not dissimilar</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>from the way an opera singer shatters a glass on the other side of the room.</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>It's a resonant phenomenon</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>for which he actually received a MacArthur Fellowship Award,</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>which is nicknamed the Genius Award,</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>last September, for his discovery.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>So how does it work?</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>Imagine a coil. For those of you that are engineers,</span>
+<span class='talk-transcript__fragment' data-time='245000' id='t-245000'>there's a capacitor attached to it too.</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>And if you can cause that coil to resonate,</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>what will happen is it will pulse</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>at alternating current frequencies --</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>at a fairly high frequency, by the way.</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>And if you can bring another device</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>close enough to the source,</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>that will only work at exactly that frequency,</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>you can actually get them to do what's called strongly couple,</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>and transfer magnetic energy between them.</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>And then what you do is, you start out with electricity,</span>
+<span class='talk-transcript__fragment' data-time='276000' id='t-276000'>turn it into magnetic field, take that magnetic field,</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>turn it back into electricity,</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>and then you can use it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>Number one question I get asked.</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>I mean, people are worried about cellphones being safe.</span>
+<span class='talk-transcript__fragment' data-time='287000' id='t-287000'>You know. What about safety?</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>The first thing is this is not a &quot;radiative&quot; technology.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>It doesn't radiate.</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>There aren't electric fields here. It's a magnetic field.</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>It stays within either what we call the source,</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>or within the device.</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>And actually, the magnetic fields we're using</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>are basically about the same as the Earth's magnetic field.</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>We live in a magnetic field.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>And the other thing that's pretty cool about the technology is</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>that it only transfers energy to things that work at exactly the same frequency.</span>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>And it's virtually impossible in nature to make that happen.</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>Then finally we have governmental bodies everywhere</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>that will regulate everything we do.</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>They've pretty much set field exposure limits,</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>which all of the things in the stuff I'll show you today</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>sort of sit underneath those guidelines.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>Mobile electronics.</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>Home electronics.</span>
+<span class='talk-transcript__fragment' data-time='333000' id='t-333000'>Those cords under your desk, I bet everybody here</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>has something that looks like that or those batteries.</span>
+<span class='talk-transcript__fragment' data-time='338000' id='t-338000'>There are industrial applications.</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>And then finally, electric vehicles.</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>These electric cars are beautiful.</span>
+<span class='talk-transcript__fragment' data-time='344000' id='t-344000'>But who is going to want to plug them in?</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>Imagine driving into your garage -- we've built a system to do this --</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>you drive into your garage, and the car charges itself,</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>because there is a mat on the floor that's plugged into the wall.</span>
+<span class='talk-transcript__fragment' data-time='357000' id='t-357000'>And it actually causes your car to charge safely and efficiently.</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>Then there's all kinds of other applications. Implanted medical devices,</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>where people don't have to die of infections anymore</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>if you can seal the thing up.</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>Credit cards, robot vacuum cleaners.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>So what I'd like to do is take a couple minutes</span>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>and show you, actually, how it works.</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>And what I'm going to do is to show you pretty much what's here.</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>You've got a coil.</span>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>That coil is connected to an R.F. amplifier</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>that creates a high-frequency oscillating magnetic field.</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>We put one on the back of the television set.</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>By the way, I do make it look a little bit easier than it is.</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>There's lots of electronics and secret sauce</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>and all kinds of intellectual property that go into it.</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>But then what's going to happen is, it will create a field.</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>It will cause one to get created</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>on the other side.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>And if the demo gods are willing,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>in about 10 seconds or so we should see it.</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>The 10 seconds actually are because we --</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>I don't know if any of you have ever thought about plugging a T.V. in</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>when you use just a cord.</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>Generally, you have to go over and hit the button. So I thought</span>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>we put a little computer in it that has to wake up</span>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>to tell it to do that.</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>So, I'll plug that in.</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>It creates a magnetic field here.</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>It causes one to be created out here.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>And as I said, in sort of about 10 seconds</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>we should start to see ...</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>This is a commercially --</span>
+<span class='talk-transcript__fragment' data-time='450000' id='t-450000'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>available color television set.</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>Imagine, you get one of these things. You want to hang them on the wall.</span>
+<span class='talk-transcript__fragment' data-time='462000' id='t-462000'>How many people want to hang them on the wall?</span>
+<span class='talk-transcript__fragment' data-time='464000' id='t-464000'>Think about it. You don't want those ugly cords coming down.</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>Imagine if you can get rid of it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>The other thing I wanted to talk about was safety.</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>So, there is nothing going on. I'm okay.</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>And I'll do it again, just for safety's sake.</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>Almost immediately, though, people ask,</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>&quot;How small can you make this? Can you make this small enough?&quot;</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>Because remember Dr. Soljacic's original idea</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>was his wife's cellphone beeping.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>So, I wanted to show you something.</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>We're an equal opportunity designer of this sort of thing.</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>This a Google G1.</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>You know, it's the latest thing that's come out.</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>It runs the Android operating system.</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>I think I heard somebody talk about that before.</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>It's odd. It has a battery.</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>It also has coiled electronics</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>that WiTricity has put into the back of it.</span>
+<span class='talk-transcript__fragment' data-time='507000' id='t-507000'>And if I can get the camera --</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>okay, great --</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>you'll see, as I get sort of close...</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>you're looking at a cellphone powered completely wirelessly.</span>
+<span class='talk-transcript__fragment' data-time='522000' id='t-522000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>And I know some of you are Apple aficionados.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>So, you know they don't make it easy at Apple to get inside their phones.</span>
+<span class='talk-transcript__fragment' data-time='532000' id='t-532000'>So we put a little sleeve on the back,</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>but we should be able to get this guy to wake up too.</span>
+<span class='talk-transcript__fragment' data-time='537000' id='t-537000'>And those of you that have an iPhone recognize the green center.</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>And Nokia as well.</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>You'll see that what we did there is put a little thing in the back, to do that,</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>and it probably beeps, actually, as it goes on as well.</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>But they typically use it to light up the screen.</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>So, imagine these things could go ... they could go in your ceiling.</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>They could go in the floor. They could go, actually, underneath your desktop.</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>So that when you walk in or you come in from home,</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>if you carry a purse, it works in your purse.</span>
+<span class='talk-transcript__fragment' data-time='567000' id='t-567000'>You never have to worry about plugging these things in again.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>And think of what that would do for you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>So I think in closing,</span>
+<span class='talk-transcript__fragment' data-time='577000' id='t-577000'>sort of in the immortal visions of The New Yorker magazine,</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>I thought I'd put up one more slide.</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>And for those of you who can't read it, it says,</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>&quot;It does appear to be some kind of wireless technology.&quot;</span>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>So, thank you very much.</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

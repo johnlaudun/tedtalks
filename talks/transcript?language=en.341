@@ -1,0 +1,1384 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Philip Rosedale: Life in Second Life | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Philip Rosedale: Life in Second Life | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Why build a virtual world? Philip Rosedale talks about the virtual society he founded, Second Life, and its underpinnings in human creativity. It&#39;s a place so different that anything could happen." name="description" />
+<meta content="Philip Rosedale" name="author" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/the_inspiration_of_second_life/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;Life in Second Life&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_640x480.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_640x480.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Why build a virtual world? Philip Rosedale talks about the virtual society he founded, Second Life, and its underpinnings in human creativity. It&#39;s a place so different that anything could happen." property="og:description" />
+<meta content="http://www.ted.com/talks/the_inspiration_of_second_life/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/410?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='the_inspiration_of_second_life'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/410?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1711" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_640x480.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">28:31</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Philip Rosedale</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/410?language=en' lang='en'>
+Life in Second Life
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Dec 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>You know, we're going to do things a little differently.</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>I'm not going to show you a presentation. I'm going to talk to you.</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>And at the same time, we're going to look at just images</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>from a photo stream that is pretty close to live of things that --</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>snapshots from Second Life. So hopefully this will be fascinating.</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>You can -- I can compete for your attention with the strange pictures</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>that you see on screen that come from there.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>I thought I'd talk a little bit about some just big ideas about this,</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>and then get John back out here so we can talk interactively</span>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>a little bit more and think and ask questions.</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>You know, I guess the first question is,</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>why build a virtual world at all?</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>And I think the answer to that is always going to be</span>
+<span class='talk-transcript__fragment' data-time='51000' id='t-51000'>at least driven to a certain extent by the people</span>
+<span class='talk-transcript__fragment' data-time='53000' id='t-53000'>initially crazy enough to start the project, you know.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>So I can give you a little bit of first background just on me</span>
+<span class='talk-transcript__fragment' data-time='61000' id='t-61000'>and what moved me as a -- really going back as far as a teenager</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>and then an adult, to actually try and build this kind of thing.</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>I was a very creative kid who read a lot, and got into electronics first,</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>and then later, programming computers, when I was really young.</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>I was just always trying to make things.</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>I was just obsessed with taking things apart and building things,</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>and just anything I could do with my hands or with wood</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>or electronics or metal or anything else.</span>
+<span class='talk-transcript__fragment' data-time='97000' id='t-97000'>And so, for example -- and it's a great Second Life thing -- I had a bedroom.</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>And every kid, you know, as a teenager, has got his bedroom he retreats to --</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>but I wanted my door, I thought it would be cool if my door went up</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>rather than opened, like on Star Trek.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>I thought it would be neat to do that. And so I got up in the ceiling</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>and I cut through the ceiling joists, much to my parents' delight,</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>and put the door, you know, being pulled up through the ceiling.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>I built -- I put a garage-door opener up in the attic</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>that would pull this door up.</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>You can imagine the amount of time that it took me to do this to the house</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>and the displeasure of my parents.</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>The thing that was always striking to me was that we as people</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>could have so many really amazing ideas about things we'd like to do,</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>but are so often unable, in the real world, to actually do those things --</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>to actually cobble together the materials</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>and go through the actual execution phase of building something</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>that you imagine from a design perspective.</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>And so for me, I know that when the Internet came around</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>and I was doing computer programming and just, you know,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>just generally trying to run my own little company</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>and figure out what to do with the Internet and with computers,</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>I was just immediately struck by how the ultimate thing</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>that you would really want to do with the Internet and with computers</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>would be to use the Internet and connected computers</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>to simulate a world to sort of recreate the laws of physics</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>and the rules of how things went together --</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>the sort of -- the idea of atoms and how to make things,</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>and do that inside a computer so that we could all get in there and make stuff.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>And so for me that was the thing that was so enticing.</span>
+<span class='talk-transcript__fragment' data-time='206000' id='t-206000'>I just wanted this place where you could build things.</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>And so I think you see that in the genesis</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>of what has happened with Second Life, and I think it's important.</span>
+<span class='talk-transcript__fragment' data-time='216000' id='t-216000'>I also think that more generally, the use of the Internet and technology</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>as a kind of a space between us for creativity and design is a general trend.</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>It is a -- sort of a great human progress.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>Technology is just generally being used to allow us to create</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>in as shared and social a way as possible.</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>And I think that Second Life and virtual worlds more generally</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>represent the best we can do to achieve that right now.</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>You know, another way to look at that,</span>
+<span class='talk-transcript__fragment' data-time='249000' id='t-249000'>and related to the content and, you know, thinking about space,</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>is to connect sort of virtual worlds to space.</span>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>I thought that might be a fun thing to talk about for a second.</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>If you think about going into space, it's a fascinating thing.</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>So many movies, so many kids, we all sort of</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>dream about exploring space. Now, why is that?</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>Stop for a moment and ask, why that conceit?</span>
+<span class='talk-transcript__fragment' data-time='271000' id='t-271000'>Why do we as people want to do that?</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>I think there's a couple of things. It's what we see in the movies --</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>you know, it's this dream that we all share.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>One is that if you went into space you'd be able to begin again.</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>In some sense, you would become someone else in that journey,</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>because there wouldn't be -- you'd leave society and life as you know it, behind.</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>And so inevitably, you would transform yourself --</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>irreversibly, in all likelihood -- as you began this exploration.</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>And then the second thing is that there's this tangible sense</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>that if you travel far enough, you can find out there --</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>oh, yeah -- you have no idea what you're going to find</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>once you get there, into space.</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>It's going to be different than here.</span>
+<span class='talk-transcript__fragment' data-time='317000' id='t-317000'>And in fact, it's going to be so different than what we see here on earth</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>that anything is going to be possible.</span>
+<span class='talk-transcript__fragment' data-time='325000' id='t-325000'>So that's kind of the idea -- we as humans crave the idea of</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>creating a new identity and going into a place where anything is possible.</span>
+<span class='talk-transcript__fragment' data-time='333000' id='t-333000'>And I think that if you really sit and think about it,</span>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>virtual worlds, and where we're going</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>with more and more computing technology,</span>
+<span class='talk-transcript__fragment' data-time='344000' id='t-344000'>represent essentially the likely, really tactically possible</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>version of space exploration.</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>We are moved by the idea of virtual worlds because, like space,</span>
+<span class='talk-transcript__fragment' data-time='357000' id='t-357000'>they allow us to reinvent ourselves and they contain anything</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>and everything, and probably anything could happen there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>You know, to give you a size idea about scale, you know,</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>comparing space to Second Life, most people don't realize, kind of --</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>and then this is just like the Internet in the early '90s.</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>In fact, Second Life virtual worlds are a lot like the Internet in the early '90s today:</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>everybody's very excited,</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>there's a lot of hype and excitement about one idea or the next</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>from moment to moment, and then there's despair</span>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>and everybody thinks the whole thing's not going to work.</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>Everything that's happening with Second Life</span>
+<span class='talk-transcript__fragment' data-time='388000' id='t-388000'>and more broadly with virtual worlds, all happened in the early '90s.</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>We always play a game at the office where you can take any article</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>and find the same article where you just replace the words &quot;Second Life&quot;</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>with &quot;Web,&quot; and &quot;virtual reality&quot; with &quot;Internet.&quot;</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>You can find exactly the same articles</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>written about everything that people are observing.</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>To give you an idea of scale, Second Life is about 20,000 CPUs at this point.</span>
+<span class='talk-transcript__fragment' data-time='416000' id='t-416000'>It's about 20,000 computers connected together</span>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>in three facilities in the United States right now,</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>that are simulating this virtual space. And the virtual space itself --</span>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>there's about 250,000 people a day that are wandering around in there,</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>so the kind of, active population is something like a smallish city.</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>The space itself is about 10 times the size of San Francisco,</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>and it's about as densely built out.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>So it gives you an idea of scale. Now, it's expanding very rapidly --</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>about five percent a month or so right now, in terms of new servers being added.</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>And so of course, radically unlike the real world,</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>and like the Internet, the whole thing is expanding</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>very, very quickly, and historically exponentially.</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>So that sort of space exploration thing is matched up here</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>by the amount of content that's in there,</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>and I think that amount is critical.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>It was critical with the virtual world</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>that it be this space of truly infinite possibility.</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>We're very sensitive to that as humans.</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>You know, you know when you see it. You know when you can do anything in a space</span>
+<span class='talk-transcript__fragment' data-time='473000' id='t-473000'>and you know when you can't.</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>Second Life today is this 20,000 machines,</span>
+<span class='talk-transcript__fragment' data-time='477000' id='t-477000'>and it's about 100 million or so user-created objects where, you know,</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>an object would be something like this, possibly interactive.</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>Tens of millions of them are thinking all the time;</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>they have code attached to them.</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>So it's a really large world already, in terms of the amount of stuff that's there</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>and that's very important.</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>If anybody plays, like, World of Warcraft,</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>World of Warcraft comes on, like, four DVDs.</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>Second Life, by comparison, has about 100 terabytes</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>of user-created data, making it about 25,000 times larger.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='507000' id='t-507000'>So again, like the Internet compared to AOL,</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>and the sort of chat rooms and content on AOL at the time,</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>what's happening here is something very different,</span>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>because the sheer scale of what people can do</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>when they're enabled to do anything they want is pretty amazing.</span>
+<span class='talk-transcript__fragment' data-time='522000' id='t-522000'>The last big thought is that it is almost certainly true</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>that whatever this is going to evolve into</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>is going to be bigger in total usage than the Web itself.</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>And let me justify that with two statements.</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>Generically, what we use the Web for is to organize, exchange,</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>create and consume information.</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>It's kind of like Irene talking about Google being data-driven.</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>I'd say I kind of think about the world as being information.</span>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>Everything that we interact with, all the experiences that we have,</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>is kind of us flowing through a sea of information</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>and interacting with it in different ways.</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>The Web puts information in the form of text and images.</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>The topology, the geography of the Web is text-to-text links for the most part.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>That's one way of organizing information,</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>but there are two things about the way you access information in a virtual world</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>that I think are the important ways that they're very different</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>and much better than what we've been able to do to date with the Web.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>The first is that, as I said, the --</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>well, the first difference for virtual worlds is that</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>information is presented to you in the virtual world</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>using the most powerful iconic symbols</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>that you can possibly use with human beings.</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>So for example, C-H-A-I-R is the English word for that,</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>but a picture of this is a universal symbol.</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>Everybody knows what it means. There's no need to translate it.</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>It's also more memorable if I show you that picture,</span>
+<span class='talk-transcript__fragment' data-time='615000' id='t-615000'>and I show you C-H-A-I-R on a piece of paper.</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>You can do tests that show that you'll remember</span>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>that I was talking about a chair a couple of days later a lot better.</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>So when you organize information using the symbols of our memory,</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>using the most common symbols that we've been immersed in all our lives,</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>you maximally both excite, stimulate,</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>are able to remember, transfer and manipulate data.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>And so virtual worlds are the best way</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>for us to essentially organize and experience information.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='645000' id='t-645000'>And I think that's something that people have talked about for 20 years --</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>you know, that 3D, that lifelike environments</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>are really important in some magical way to us.</span>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>But the second thing -- and I think this one is less obvious --</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>is that the experience of creating, consuming, exploring that information</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>is in the virtual world implicitly and inherently social.</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>You are always there with other people.</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>And we as humans are social creatures and must, or are aided by,</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>or enjoy more, the consumption of information in the presence of others.</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>It's essential to us. You can't escape it.</span>
+<span class='talk-transcript__fragment' data-time='688000' id='t-688000'>When you're on Amazon.com and you're looking for digital cameras or whatever,</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>you're on there right now, when you're on the site, with like 5,000 other people,</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>but you can't talk to them.</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>You can't just turn to the people that are browsing digital cameras</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>on the same page as you, and ask them,</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>&quot;Hey, have you seen one of these before? Because I'm thinking about buying it.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='711000' id='t-711000'>That experience of like, shopping together, just as a simple example,</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>is an example of how as social creatures</span>
+<span class='talk-transcript__fragment' data-time='717000' id='t-717000'>we want to experience information in that way.</span>
+<span class='talk-transcript__fragment' data-time='719000' id='t-719000'>So that second point, that we inherently experience information together</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>or want to experience it together,</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>is critical to essentially, kind of,</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>this trend of where we're going to use technology to connect us.</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>And so I think, again, that it's likely that in the next decade or so</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>these virtual worlds are going to be the most common way as human beings</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>that we kind of use the electronics of the Internet, if you will,</span>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>to be together, to consume information.</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>You know, mapping in India -- that's such a great example.</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>Maybe the solution there involves talking to other people in real time.</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>Asking for advice, rather than any possible way</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>that you could just statically organize a map.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>So I think that's another big point.</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>I think that wherever this is all going,</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>whether it's Second Life or its descendants, or something broader</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>that happens all around the world at a lot of different points --</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>this is what we're going to see the Internet used for,</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>and total traffic and total unique users is going to invert,</span>
+<span class='talk-transcript__fragment' data-time='789000' id='t-789000'>so that the Web and its bibliographic set of text and graphical information</span>
+<span class='talk-transcript__fragment' data-time='794000' id='t-794000'>is going to become a tool or a part of that consumption pattern,</span>
+<span class='talk-transcript__fragment' data-time='797000' id='t-797000'>but the pattern itself is going to happen mostly in this type of an environment.</span>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>Big idea, but I think highly defensible.</span>
+<span class='talk-transcript__fragment' data-time='805000' id='t-805000'>So let me stop there and bring John back,</span>
+<span class='talk-transcript__fragment' data-time='808000' id='t-808000'>and maybe we can just have a longer conversation.</span>
+<span class='talk-transcript__fragment' data-time='811000' id='t-811000'>Thank you. John. That's great.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='813000' id='t-813000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='818000' id='t-818000'>John Hockenberry: Why is the creation, the impulse to create Second Life,</span>
+<span class='talk-transcript__fragment' data-time='822000' id='t-822000'>not a utopian impulse?</span>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>Like for example, in the 19th century,</span>
+<span class='talk-transcript__fragment' data-time='827000' id='t-827000'>any number of works of literature that imagined alternative worlds</span>
+<span class='talk-transcript__fragment' data-time='831000' id='t-831000'>were explicitly utopian.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>Philip Rosedale: I think that's great. That's such a deep question. Yeah.</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>Is a virtual world likely to be a utopia, would be one way I'd say it.</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>The answer is no, and I think the reason why is because</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>the Web itself as a good example is profoundly bottoms-up.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>That idea of infinite possibility, that magic of anything can happen,</span>
+<span class='talk-transcript__fragment' data-time='854000' id='t-854000'>only happens in an environment</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>where you really know that there's a fundamental freedom</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>at the level of the individual actor, at the level of the Lego blocks,</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>if you will, that make up the virtual world.</span>
+<span class='talk-transcript__fragment' data-time='865000' id='t-865000'>You have to have that level of freedom, and so I'm often asked that,</span>
+<span class='talk-transcript__fragment' data-time='868000' id='t-868000'>you know, is there a, kind of, utopian or,</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>is there a utopian tendency to Second Life and things like it,</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>that you would create a world that has a grand scheme to it?</span>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>Those top-down schemes are alienating to just about everybody,</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>even if you mean well when you build them.</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>And what's more, human society, when it's controlled,</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>when you set out a grand scheme of rules,</span>
+<span class='talk-transcript__fragment' data-time='889000' id='t-889000'>a new way of people interacting, or a new way of laying out a city, or whatever,</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>that stuff historically has never scaled much beyond,</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>you know -- I always laughingly say -- the Mall of America, you know,</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>which is like, the largest piece of centrally designed architecture</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>that, you know, has been built.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>JH: The Kremlin was pretty big.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>PR: The Kremlin, yeah. That's true. The whole complex.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>JH: Give me a story of a tool you created at the beginning</span>
+<span class='talk-transcript__fragment' data-time='913000' id='t-913000'>in Second Life that you were pretty sure people would want to use</span>
+<span class='talk-transcript__fragment' data-time='916000' id='t-916000'>in the creation of their avatars or in communicating</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>that people actually in practice said, no, I'm not interested in that at all,</span>
+<span class='talk-transcript__fragment' data-time='923000' id='t-923000'>and name something that you didn't come up with</span>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>that almost immediately people began to demand.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>PR: I'm sure I can think of multiple examples of both of those.</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>One of my favorites. I had this feature that I built into Second Life --</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>I was really passionate about it.</span>
+<span class='talk-transcript__fragment' data-time='939000' id='t-939000'>It was an ability to kind of walk up close to somebody</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>and have a more private conversation,</span>
+<span class='talk-transcript__fragment' data-time='944000' id='t-944000'>but it wasn't instant messaging because you had to sort of befriend somebody.</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>It was just this idea that you could kind of have a private chat.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>I just remember it was one of those examples of data-driven design.</span>
+<span class='talk-transcript__fragment' data-time='953000' id='t-953000'>I thought it was such a good idea from my perspective,</span>
+<span class='talk-transcript__fragment' data-time='955000' id='t-955000'>and it was just absolutely never used, and we ultimately --</span>
+<span class='talk-transcript__fragment' data-time='958000' id='t-958000'>I think we've now turned it off, if I remember.</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>We finally gave up, took it out of the code.</span>
+<span class='talk-transcript__fragment' data-time='963000' id='t-963000'>But more generally, you know, one other example I think about this,</span>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>which is great relative to the utopian idea.</span>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>Second Life originally had 16 simulators. It now has 20,000.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>So when it only had 16,</span>
+<span class='talk-transcript__fragment' data-time='977000' id='t-977000'>it was only about as big as this college campus.</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>And we had -- we zoned it, you know: we put a nightclub,</span>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>we put a disco where you could dance,</span>
+<span class='talk-transcript__fragment' data-time='986000' id='t-986000'>and then we had a place where you could fight with guns if you wanted to,</span>
+<span class='talk-transcript__fragment' data-time='990000' id='t-990000'>and we had another place that was like a boardwalk, kind of a Coney Island.</span>
+<span class='talk-transcript__fragment' data-time='994000' id='t-994000'>And we laid out the zoning, but of course,</span>
+<span class='talk-transcript__fragment' data-time='997000' id='t-997000'>people could build all around it however they wanted to.</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>And what was so amazing right from the start was that the idea</span>
+<span class='talk-transcript__fragment' data-time='1004000' id='t-1004000'>that we had put out in the zoning concept, basically,</span>
+<span class='talk-transcript__fragment' data-time='1008000' id='t-1008000'>was instantly and thoroughly ignored,</span>
+<span class='talk-transcript__fragment' data-time='1010000' id='t-1010000'>and like, two months into the whole thing,</span>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>-- which is really a small amount of time, even in Second Life time --</span>
+<span class='talk-transcript__fragment' data-time='1016000' id='t-1016000'>I remember the users, the people who were then using Second Life,</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>the residents came to me and said, we want to buy the disco --</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>because I had built it -- we want to buy that land and raze it</span>
+<span class='talk-transcript__fragment' data-time='1028000' id='t-1028000'>and put houses on it. And I sold it to them --</span>
+<span class='talk-transcript__fragment' data-time='1031000' id='t-1031000'>I mean, we transferred ownership and they had a big party</span>
+<span class='talk-transcript__fragment' data-time='1033000' id='t-1033000'>and blew up the entire building.</span>
+<span class='talk-transcript__fragment' data-time='1035000' id='t-1035000'>And I remember that that was just so telling, you know,</span>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>that you didn't know exactly what was going to happen.</span>
+<span class='talk-transcript__fragment' data-time='1041000' id='t-1041000'>When you think about stuff that people have built that's popular --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1044000' id='t-1044000'>JH: CBGB's has to close eventually, you know. That's the rule.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1047000' id='t-1047000'>PR: Exactly. And it -- but it closed on day one, basically, in Internet time.</span>
+<span class='talk-transcript__fragment' data-time='1053000' id='t-1053000'>You know, an example of something -- pregnancy.</span>
+<span class='talk-transcript__fragment' data-time='1056000' id='t-1056000'>You can have a baby in Second Life.</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>This is done entirely using, kind of, the tools that are built into Second Life,</span>
+<span class='talk-transcript__fragment' data-time='1065000' id='t-1065000'>so the innate concept of becoming pregnant and having a baby, of course --</span>
+<span class='talk-transcript__fragment' data-time='1069000' id='t-1069000'>Second Life is, at the platform level, at the level of the company -- at Linden Lab --</span>
+<span class='talk-transcript__fragment' data-time='1074000' id='t-1074000'>Second Life has no game properties to it whatsoever.</span>
+<span class='talk-transcript__fragment' data-time='1077000' id='t-1077000'>There is no attempt to structure the experience,</span>
+<span class='talk-transcript__fragment' data-time='1079000' id='t-1079000'>to make it utopian in that sense that we put into it.</span>
+<span class='talk-transcript__fragment' data-time='1082000' id='t-1082000'>So of course, we never would have put a mechanism for having babies or, you know,</span>
+<span class='talk-transcript__fragment' data-time='1085000' id='t-1085000'>taking two avatars and merging them, or something.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1088000' id='t-1088000'>But people built the ability to have babies and care for babies</span>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>as a purchasable experience that you can have in Second Life and so --</span>
+<span class='talk-transcript__fragment' data-time='1097000' id='t-1097000'>I mean, that's a pretty fascinating example of, you know,</span>
+<span class='talk-transcript__fragment' data-time='1100000' id='t-1100000'>what goes on in the overall economy.</span>
+<span class='talk-transcript__fragment' data-time='1102000' id='t-1102000'>And of course, the existence of an economy is another idea.</span>
+<span class='talk-transcript__fragment' data-time='1104000' id='t-1104000'>I didn't talk about it, but it's a critical feature.</span>
+<span class='talk-transcript__fragment' data-time='1107000' id='t-1107000'>When people are given the opportunity to create in the world,</span>
+<span class='talk-transcript__fragment' data-time='1110000' id='t-1110000'>there's really two things they want.</span>
+<span class='talk-transcript__fragment' data-time='1112000' id='t-1112000'>One is fair ownership of the things they create.</span>
+<span class='talk-transcript__fragment' data-time='1115000' id='t-1115000'>And then the second one is -- if they feel like it,</span>
+<span class='talk-transcript__fragment' data-time='1117000' id='t-1117000'>and they're not going to do it in every case, but in many they are --</span>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>they want to actually be able to sell that creation</span>
+<span class='talk-transcript__fragment' data-time='1123000' id='t-1123000'>as a way of providing for their own livelihood.</span>
+<span class='talk-transcript__fragment' data-time='1125000' id='t-1125000'>True on the Web -- also true in Second Life.</span>
+<span class='talk-transcript__fragment' data-time='1128000' id='t-1128000'>And so the existence of an economy is critical.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1130000' id='t-1130000'>JH: Questions for Philip Rosedale? Right here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1134000' id='t-1134000'>(Audience: Well, first an observation, which is that you look like a character.)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1137000' id='t-1137000'>JH: The observation is, Philip has been accused of looking like a character,</span>
+<span class='talk-transcript__fragment' data-time='1142000' id='t-1142000'>an avatar, in Second Life.</span>
+<span class='talk-transcript__fragment' data-time='1144000' id='t-1144000'>Respond, and then we'll get the rest of your question.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1146000' id='t-1146000'>PR: But I don't look like my avatar.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1148000' id='t-1148000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1150000' id='t-1150000'>How many people here know what my avatar looks like?</span>
+<span class='talk-transcript__fragment' data-time='1152000' id='t-1152000'>That's probably not very many.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1154000' id='t-1154000'>JH: Are you ripping off somebody else's avatar with that, sort of --</span>
+<span class='talk-transcript__fragment' data-time='1156000' id='t-1156000'>PR: No, no. I didn't. One of the other guys at work had a fantastic avatar --</span>
+<span class='talk-transcript__fragment' data-time='1159000' id='t-1159000'>a female avatar -- that I used to be once in a while.</span>
+<span class='talk-transcript__fragment' data-time='1162000' id='t-1162000'>But my avatar is a guy wearing chaps.</span>
+<span class='talk-transcript__fragment' data-time='1169000' id='t-1169000'>Spiky hair -- spikier than this. Kind of orange hair.</span>
+<span class='talk-transcript__fragment' data-time='1172000' id='t-1172000'>Handlebar mustache. Kind of a Village People sort of a character.</span>
+<span class='talk-transcript__fragment' data-time='1177000' id='t-1177000'>So, very cool.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1179000' id='t-1179000'>JH: And your question?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1181000' id='t-1181000'>(Audience: [Unclear].)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1184000' id='t-1184000'>JH: The question is, there appears to be a lack of cultural fine-tuning in Second Life.</span>
+<span class='talk-transcript__fragment' data-time='1190000' id='t-1190000'>It doesn't seem to have its own culture,</span>
+<span class='talk-transcript__fragment' data-time='1192000' id='t-1192000'>and the sort of differences that exist in the real world</span>
+<span class='talk-transcript__fragment' data-time='1194000' id='t-1194000'>aren't translated into the Second Life map.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1197000' id='t-1197000'>PR: Well, first of all, we're very early,</span>
+<span class='talk-transcript__fragment' data-time='1199000' id='t-1199000'>so this has only been going on for a few years.</span>
+<span class='talk-transcript__fragment' data-time='1202000' id='t-1202000'>And so part of what we see is the same evolution of human behavior</span>
+<span class='talk-transcript__fragment' data-time='1205000' id='t-1205000'>that you see in emerging societies.</span>
+<span class='talk-transcript__fragment' data-time='1207000' id='t-1207000'>So a fair criticism -- is what it is -- of Second Life today is that</span>
+<span class='talk-transcript__fragment' data-time='1211000' id='t-1211000'>it's more like the Wild West than it is like Rome, from a cultural standpoint.</span>
+<span class='talk-transcript__fragment' data-time='1216000' id='t-1216000'>That said, the evolution of, and the nuanced interaction that creates culture,</span>
+<span class='talk-transcript__fragment' data-time='1222000' id='t-1222000'>is happening at 10 times the speed of the real world,</span>
+<span class='talk-transcript__fragment' data-time='1225000' id='t-1225000'>and in an environment where, if you walk into a bar in Second Life,</span>
+<span class='talk-transcript__fragment' data-time='1230000' id='t-1230000'>65 percent of the people there are not in the United States,</span>
+<span class='talk-transcript__fragment' data-time='1233000' id='t-1233000'>and in fact are speaking their, you know, various and different languages.</span>
+<span class='talk-transcript__fragment' data-time='1238000' id='t-1238000'>In fact, one of the ways to make money in Second Life</span>
+<span class='talk-transcript__fragment' data-time='1240000' id='t-1240000'>is to make really cool translators that you drag onto your body</span>
+<span class='talk-transcript__fragment' data-time='1245000' id='t-1245000'>and they basically, kind of, pop up on your screen</span>
+<span class='talk-transcript__fragment' data-time='1247000' id='t-1247000'>and allow you to use Google or Babel Fish</span>
+<span class='talk-transcript__fragment' data-time='1250000' id='t-1250000'>or one of the other online text translators to on-the-fly</span>
+<span class='talk-transcript__fragment' data-time='1253000' id='t-1253000'>translate spoken -- I'm sorry -- typed text between individuals.</span>
+<span class='talk-transcript__fragment' data-time='1258000' id='t-1258000'>And so, the multicultural nature and the sort of cultural melting pot</span>
+<span class='talk-transcript__fragment' data-time='1262000' id='t-1262000'>that's happening inside Second Life is quite --</span>
+<span class='talk-transcript__fragment' data-time='1265000' id='t-1265000'>I think, quite remarkable relative to what in real human terms</span>
+<span class='talk-transcript__fragment' data-time='1270000' id='t-1270000'>in the real world we've ever been able to achieve.</span>
+<span class='talk-transcript__fragment' data-time='1272000' id='t-1272000'>So, I think that culture will fine-tune, it will emerge,</span>
+<span class='talk-transcript__fragment' data-time='1275000' id='t-1275000'>but we still have some years to wait while that happens,</span>
+<span class='talk-transcript__fragment' data-time='1279000' id='t-1279000'>as you would naturally expect.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1281000' id='t-1281000'>JH: Other questions? Right here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1284000' id='t-1284000'>(Audience: What's your demographic?)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1286000' id='t-1286000'>JH: What's your demographic?</span>
+<span class='talk-transcript__fragment' data-time='1288000' id='t-1288000'>PR: So, the question is, what's the demographic.</span>
+<span class='talk-transcript__fragment' data-time='1290000' id='t-1290000'>So, the average age of a person in Second Life is 32,</span>
+<span class='talk-transcript__fragment' data-time='1295000' id='t-1295000'>however, the use of Second Life increases dramatically</span>
+<span class='talk-transcript__fragment' data-time='1300000' id='t-1300000'>as your physical age increases. So as you go from age 30 to age 60 --</span>
+<span class='talk-transcript__fragment' data-time='1305000' id='t-1305000'>and there are many people in their sixties using Second Life --</span>
+<span class='talk-transcript__fragment' data-time='1307000' id='t-1307000'>this is also not a sharp curve -- it's very, very distributed --</span>
+<span class='talk-transcript__fragment' data-time='1312000' id='t-1312000'>usage goes up in terms of, like, hours per week by 40 percent</span>
+<span class='talk-transcript__fragment' data-time='1316000' id='t-1316000'>as you go from age 30 to age 60 in real life, so there's not --</span>
+<span class='talk-transcript__fragment' data-time='1320000' id='t-1320000'>many people make the mistake of believing that Second Life</span>
+<span class='talk-transcript__fragment' data-time='1322000' id='t-1322000'>is some kind of an online game. Actually it's generally unappealing --</span>
+<span class='talk-transcript__fragment' data-time='1327000' id='t-1327000'>I'm just speaking broadly and critically --</span>
+<span class='talk-transcript__fragment' data-time='1330000' id='t-1330000'>it's not very appealing to people that play online video games,</span>
+<span class='talk-transcript__fragment' data-time='1332000' id='t-1332000'>because the graphics are not yet equivalent to --</span>
+<span class='talk-transcript__fragment' data-time='1336000' id='t-1336000'>I mean, these are very nice pictures,</span>
+<span class='talk-transcript__fragment' data-time='1337000' id='t-1337000'>but in general the graphics are not quite equivalent</span>
+<span class='talk-transcript__fragment' data-time='1339000' id='t-1339000'>to the fine-tuned graphics that you see in a Grand Theft Auto 4.</span>
+<span class='talk-transcript__fragment' data-time='1343000' id='t-1343000'>So average age: 32. I mentioned</span>
+<span class='talk-transcript__fragment' data-time='1346000' id='t-1346000'>65 percent of the users are not in the United States.</span>
+<span class='talk-transcript__fragment' data-time='1348000' id='t-1348000'>The distribution amongst countries is extremely broad.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1351000' id='t-1351000'>There's users from, you know, virtually every country in the world now in Second Life.</span>
+<span class='talk-transcript__fragment' data-time='1354000' id='t-1354000'>The dominant ones are -- if you take the UK and Europe,</span>
+<span class='talk-transcript__fragment' data-time='1358000' id='t-1358000'>together they make up about 55 percent of the usage base in Second Life.</span>
+<span class='talk-transcript__fragment' data-time='1362000' id='t-1362000'>In terms of psychographic --</span>
+<span class='talk-transcript__fragment' data-time='1364000' id='t-1364000'>oh, men and women: men and women are almost equally matched in Second Life,</span>
+<span class='talk-transcript__fragment' data-time='1369000' id='t-1369000'>so about 45 percent of the people online right now on Second Life are women.</span>
+<span class='talk-transcript__fragment' data-time='1374000' id='t-1374000'>Women use Second Life, though,</span>
+<span class='talk-transcript__fragment' data-time='1376000' id='t-1376000'>about 30 to 40 percent more, on an hours basis, than men do,</span>
+<span class='talk-transcript__fragment' data-time='1379000' id='t-1379000'>meaning that more men sign up than women,</span>
+<span class='talk-transcript__fragment' data-time='1381000' id='t-1381000'>and more women stay and use it than men.</span>
+<span class='talk-transcript__fragment' data-time='1384000' id='t-1384000'>So that's another demographic fact.</span>
+<span class='talk-transcript__fragment' data-time='1386000' id='t-1386000'>In terms of psychographic, you know, the people in Second Life</span>
+<span class='talk-transcript__fragment' data-time='1391000' id='t-1391000'>are remarkably dissimilar relative to what you might think,</span>
+<span class='talk-transcript__fragment' data-time='1395000' id='t-1395000'>when you go in and talk to them and meet them, and I would, you know,</span>
+<span class='talk-transcript__fragment' data-time='1397000' id='t-1397000'>challenge you to just do this and find out.</span>
+<span class='talk-transcript__fragment' data-time='1399000' id='t-1399000'>But it's not a bunch of programmers.</span>
+<span class='talk-transcript__fragment' data-time='1402000' id='t-1402000'>It's not easy to describe as a demographic.</span>
+<span class='talk-transcript__fragment' data-time='1406000' id='t-1406000'>If I had to just sort of paint a broad picture, I'd say, remember the people</span>
+<span class='talk-transcript__fragment' data-time='1410000' id='t-1410000'>who were really getting into eBay in the first few years of eBay?</span>
+<span class='talk-transcript__fragment' data-time='1414000' id='t-1414000'>Maybe a little bit like that: in other words, people who are early adopters.</span>
+<span class='talk-transcript__fragment' data-time='1417000' id='t-1417000'>They tend to be creative. They tend to be entrepreneurial.</span>
+<span class='talk-transcript__fragment' data-time='1420000' id='t-1420000'>A lot of them -- about 55,000 people so far -- are cash-flow positive:</span>
+<span class='talk-transcript__fragment' data-time='1424000' id='t-1424000'>they're making money from what -- I mean, real-world money --</span>
+<span class='talk-transcript__fragment' data-time='1427000' id='t-1427000'>from what they're doing in Second Life, so it's a very build --</span>
+<span class='talk-transcript__fragment' data-time='1431000' id='t-1431000'>still a creative, building things, build-your-own-business</span>
+<span class='talk-transcript__fragment' data-time='1434000' id='t-1434000'>type of an orientation. So, that's it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1436000' id='t-1436000'>JH: You describe yourself, Philip, as someone who was really creative</span>
+<span class='talk-transcript__fragment' data-time='1438000' id='t-1438000'>when you were young and, you know, liked to make things.</span>
+<span class='talk-transcript__fragment' data-time='1442000' id='t-1442000'>I mean, it's not often that you hear somebody</span>
+<span class='talk-transcript__fragment' data-time='1445000' id='t-1445000'>describe themselves as really creative.</span>
+<span class='talk-transcript__fragment' data-time='1447000' id='t-1447000'>I suspect that's possibly a euphemism for C student</span>
+<span class='talk-transcript__fragment' data-time='1451000' id='t-1451000'>who spent a lot of time in his room? Is it possible?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1454000' id='t-1454000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1455000' id='t-1455000'>PR: I was a -- there were times I was a C student. You know, it's funny.</span>
+<span class='talk-transcript__fragment' data-time='1459000' id='t-1459000'>When I got to college -- I studied physics in college --</span>
+<span class='talk-transcript__fragment' data-time='1461000' id='t-1461000'>and I got really -- it was funny,</span>
+<span class='talk-transcript__fragment' data-time='1463000' id='t-1463000'>because I was definitely a more antisocial kid. I read all the time.</span>
+<span class='talk-transcript__fragment' data-time='1468000' id='t-1468000'>I was shy. I don't seem like it now, but I was very shy.</span>
+<span class='talk-transcript__fragment' data-time='1473000' id='t-1473000'>Moved around a bunch -- had that experience too.</span>
+<span class='talk-transcript__fragment' data-time='1475000' id='t-1475000'>So I did, kind of, I think, live in my own world,</span>
+<span class='talk-transcript__fragment' data-time='1478000' id='t-1478000'>and obviously that helps, you know, engage your real interest in something.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1481000' id='t-1481000'>JH: So you're on your fifth life at this point?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1484000' id='t-1484000'>PR: If you count, yeah, cities. So -- but I did --</span>
+<span class='talk-transcript__fragment' data-time='1490000' id='t-1490000'>and I didn't do -- I think I didn't do as well in school as I could have. I think you're right.</span>
+<span class='talk-transcript__fragment' data-time='1494000' id='t-1494000'>I wasn't, like, an obsessed -- you know, get A's kind of guy.</span>
+<span class='talk-transcript__fragment' data-time='1498000' id='t-1498000'>I was going to say, I had a great social experience</span>
+<span class='talk-transcript__fragment' data-time='1500000' id='t-1500000'>when I went to college that I hadn't had before,</span>
+<span class='talk-transcript__fragment' data-time='1502000' id='t-1502000'>a more fraternal experience, where I met six or seven other guys</span>
+<span class='talk-transcript__fragment' data-time='1505000' id='t-1505000'>who I studied physics with, and I was very competitive with them,</span>
+<span class='talk-transcript__fragment' data-time='1508000' id='t-1508000'>so then I started to get A's. But you're right: I wasn't an A student.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1512000' id='t-1512000'>JH: Last question. Right here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1514000' id='t-1514000'>(Audience: In the pamphlet, there's a statement -- )</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1517000' id='t-1517000'>JH: You want to paraphrase that?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1519000' id='t-1519000'>PR: Yeah, so let me restate that.</span>
+<span class='talk-transcript__fragment' data-time='1521000' id='t-1521000'>So, you're saying that in the pamphlet there's a statement</span>
+<span class='talk-transcript__fragment' data-time='1524000' id='t-1524000'>that we may come to prefer our digital selves to our real ones --</span>
+<span class='talk-transcript__fragment' data-time='1528000' id='t-1528000'>our more malleable or manageable digital identities to our real identities --</span>
+<span class='talk-transcript__fragment' data-time='1532000' id='t-1532000'>and that in fact, much of human life and human experience</span>
+<span class='talk-transcript__fragment' data-time='1535000' id='t-1535000'>may move into the digital realm.</span>
+<span class='talk-transcript__fragment' data-time='1538000' id='t-1538000'>And then that's kind of a horrifying thought, of course.</span>
+<span class='talk-transcript__fragment' data-time='1541000' id='t-1541000'>That's a frightening change, frightening disruption.</span>
+<span class='talk-transcript__fragment' data-time='1545000' id='t-1545000'>I guess, and you're asking, what do I think about that? How do I --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1548000' id='t-1548000'>JH: What's your response to the people who would say, that's horrifying?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+26:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1550000' id='t-1550000'>(Audience: If someone would say to you, I find that disturbing,</span>
+<span class='talk-transcript__fragment' data-time='1552000' id='t-1552000'>what would be your response?)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+26:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1554000' id='t-1554000'>PR: Well, I'd say a couple of things.</span>
+<span class='talk-transcript__fragment' data-time='1557000' id='t-1557000'>One is, it's disturbing like the Internet or electricity was.</span>
+<span class='talk-transcript__fragment' data-time='1560000' id='t-1560000'>That is to say, it's a big change, but it isn't avoidable.</span>
+<span class='talk-transcript__fragment' data-time='1564000' id='t-1564000'>So, no amount of backpedaling or intentional behavior</span>
+<span class='talk-transcript__fragment' data-time='1569000' id='t-1569000'>or political behavior is going to keep these technology changes</span>
+<span class='talk-transcript__fragment' data-time='1572000' id='t-1572000'>from connecting us together,</span>
+<span class='talk-transcript__fragment' data-time='1574000' id='t-1574000'>because the basic motive that people have --</span>
+<span class='talk-transcript__fragment' data-time='1576000' id='t-1576000'>to be creative and entrepreneurial -- is going to drive energy</span>
+<span class='talk-transcript__fragment' data-time='1580000' id='t-1580000'>into these virtual worlds in the same way that it has with the Web.</span>
+<span class='talk-transcript__fragment' data-time='1583000' id='t-1583000'>So this change, I believe, is a huge disruptive change.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+26:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1588000' id='t-1588000'>Obviously, I'm the optimist and a big believer in what's going on here,</span>
+<span class='talk-transcript__fragment' data-time='1592000' id='t-1592000'>but I think that as -- even a sober, you know, the most sober,</span>
+<span class='talk-transcript__fragment' data-time='1596000' id='t-1596000'>disconnected thinker about this, looking at it from the side,</span>
+<span class='talk-transcript__fragment' data-time='1599000' id='t-1599000'>has to conclude, based on the data,</span>
+<span class='talk-transcript__fragment' data-time='1601000' id='t-1601000'>that with those kinds of economic forces at play,</span>
+<span class='talk-transcript__fragment' data-time='1603000' id='t-1603000'>there is definitely going to be a sea change,</span>
+<span class='talk-transcript__fragment' data-time='1606000' id='t-1606000'>and that change is going to be intensely disruptive</span>
+<span class='talk-transcript__fragment' data-time='1609000' id='t-1609000'>relative to our concept of our very lives and being,</span>
+<span class='talk-transcript__fragment' data-time='1613000' id='t-1613000'>and our identities, as well.</span>
+<span class='talk-transcript__fragment' data-time='1615000' id='t-1615000'>I don't think we can get away from those changes.</span>
+<span class='talk-transcript__fragment' data-time='1617000' id='t-1617000'>I think generally, we were talking about this --</span>
+<span class='talk-transcript__fragment' data-time='1620000' id='t-1620000'>I think that generally being present in a virtual world and being challenged by it,</span>
+<span class='talk-transcript__fragment' data-time='1626000' id='t-1626000'>being -- surviving there, having a good life there, so to speak,</span>
+<span class='talk-transcript__fragment' data-time='1630000' id='t-1630000'>is a challenge because of the multiculturality of it,</span>
+<span class='talk-transcript__fragment' data-time='1633000' id='t-1633000'>because of the languages, because of the entrepreneurial richness of it,</span>
+<span class='talk-transcript__fragment' data-time='1638000' id='t-1638000'>the sort of flea market nature, if you will, of the virtual world today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+27:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1641000' id='t-1641000'>It puts challenges on us to rise to. We must be better than ourselves, in many ways.</span>
+<span class='talk-transcript__fragment' data-time='1647000' id='t-1647000'>We must learn things and, you know, be more tolerant,</span>
+<span class='talk-transcript__fragment' data-time='1650000' id='t-1650000'>and be smarter and learn faster and be more creative, perhaps,</span>
+<span class='talk-transcript__fragment' data-time='1656000' id='t-1656000'>than we are typically in our real lives.</span>
+<span class='talk-transcript__fragment' data-time='1658000' id='t-1658000'>And I think that if that is true of virtual worlds,</span>
+<span class='talk-transcript__fragment' data-time='1660000' id='t-1660000'>then these changes, though scary -- and, I say, inevitable --</span>
+<span class='talk-transcript__fragment' data-time='1664000' id='t-1664000'>are ultimately for the better,</span>
+<span class='talk-transcript__fragment' data-time='1666000' id='t-1666000'>and therefore something that we should ride out.</span>
+<span class='talk-transcript__fragment' data-time='1669000' id='t-1669000'>But I would say that -- and many other authors and speakers about this,</span>
+<span class='talk-transcript__fragment' data-time='1673000' id='t-1673000'>other than me, have said, you know, fasten your seat belts</span>
+<span class='talk-transcript__fragment' data-time='1676000' id='t-1676000'>because the change is coming. There are going to be big changes.</span>
+<span class='talk-transcript__fragment' data-time='1679000' id='t-1679000'>JH: Philip Rosedale, thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1681000' id='t-1681000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

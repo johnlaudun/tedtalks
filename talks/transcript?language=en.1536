@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Lian Pin Koh: A drone&#39;s-eye view of conservation | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Lian Pin Koh: A drone&#39;s-eye view of conservation | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Ecologist Lian Pin Koh makes a persuasive case for using drones to protect the world&#39;s forests and wildlife. These lightweight autonomous flying vehicles can track animals in their natural habitat, monitor the health of rainforests, even combat crime by detecting poachers via thermal imaging. Added bonus? They&#39;re also entirely affordable." name="description" />
+<meta content="Lian Pin Koh" name="author" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A drone&#39;s-eye view of conservation&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28a78879a36a4905f74535526fd11c0177d8ca61_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28a78879a36a4905f74535526fd11c0177d8ca61_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Ecologist Lian Pin Koh makes a persuasive case for using drones to protect the world&#39;s forests and wildlife. These lightweight autonomous flying vehicles can track animals in their natural habitat, monitor the health of rainforests, even combat crime by detecting poachers via thermal imaging. Added bonus? They&#39;re also entirely affordable." property="og:description" />
+<meta content="http://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1872?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='lian_pin_koh_a_drone_s_eye_view_of_conservation'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1872?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="810" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28a78879a36a4905f74535526fd11c0177d8ca61_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:30</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Lian Pin Koh</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1872?language=en' lang='en'>
+A drone's-eye view of conservation
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1360' id='t-1360'>When we think of Nepal,</span>
+<span class='talk-transcript__fragment' data-time='3292' id='t-3292'>we tend to think of the snow-capped mountains</span>
+<span class='talk-transcript__fragment' data-time='5747' id='t-5747'>of the Himalayas,</span>
+<span class='talk-transcript__fragment' data-time='7019' id='t-7019'>the crystal-clear still waters of its alpine lakes,</span>
+<span class='talk-transcript__fragment' data-time='10468' id='t-10468'>or the huge expanse of its grasslands.</span>
+<span class='talk-transcript__fragment' data-time='13514' id='t-13514'>What some of us may not realize</span>
+<span class='talk-transcript__fragment' data-time='15721' id='t-15721'>is that in the Himalayan foothills,</span>
+<span class='talk-transcript__fragment' data-time='18045' id='t-18045'>where the climate is much warmer</span>
+<span class='talk-transcript__fragment' data-time='20219' id='t-20219'>and the landscape much greener,</span>
+<span class='talk-transcript__fragment' data-time='22307' id='t-22307'>there lives a great diversity of wildlife,</span>
+<span class='talk-transcript__fragment' data-time='24733' id='t-24733'>including the one-horned rhinoceros,</span>
+<span class='talk-transcript__fragment' data-time='27469' id='t-27469'>the Asian elephant</span>
+<span class='talk-transcript__fragment' data-time='29143' id='t-29143'>and the Bengal tiger.</span>
+<span class='talk-transcript__fragment' data-time='31218' id='t-31218'>But unfortunately, these animals</span>
+<span class='talk-transcript__fragment' data-time='33070' id='t-33070'>are under constant threat from poachers</span>
+<span class='talk-transcript__fragment' data-time='35733' id='t-35733'>who hunt and kill them for their body parts.</span>
+<span class='talk-transcript__fragment' data-time='39045' id='t-39045'>To stop the killing of these animals,</span>
+<span class='talk-transcript__fragment' data-time='41254' id='t-41254'>battalions of soldiers and rangers</span>
+<span class='talk-transcript__fragment' data-time='43852' id='t-43852'>are sent to protect Nepal's national parks,</span>
+<span class='talk-transcript__fragment' data-time='47101' id='t-47101'>but that is not an easy task,</span>
+<span class='talk-transcript__fragment' data-time='48726' id='t-48726'>because these soldiers have to patrol</span>
+<span class='talk-transcript__fragment' data-time='51397' id='t-51397'>thousands of hectares of forests on foot</span>
+<span class='talk-transcript__fragment' data-time='54388' id='t-54388'>or elephant backs.</span>
+<span class='talk-transcript__fragment' data-time='56029' id='t-56029'>It is also risky for these soldiers</span>
+<span class='talk-transcript__fragment' data-time='58514' id='t-58514'>when they get into gunfights with poachers,</span>
+<span class='talk-transcript__fragment' data-time='60895' id='t-60895'>and therefore Nepal is always looking</span>
+<span class='talk-transcript__fragment' data-time='62911' id='t-62911'>for new ways to help with protecting the forests</span>
+<span class='talk-transcript__fragment' data-time='66207' id='t-66207'>and wildlife.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='68184' id='t-68184'>Well recently, Nepal acquired a new tool</span>
+<span class='talk-transcript__fragment' data-time='70693' id='t-70693'>in the fight against wildlife crime,</span>
+<span class='talk-transcript__fragment' data-time='73406' id='t-73406'>and these are drones,</span>
+<span class='talk-transcript__fragment' data-time='75112' id='t-75112'>or more specifically, conservation drones.</span>
+<span class='talk-transcript__fragment' data-time='78386' id='t-78386'>For about a year now, my colleagues and I</span>
+<span class='talk-transcript__fragment' data-time='80900' id='t-80900'>have been building drones for Nepal</span>
+<span class='talk-transcript__fragment' data-time='83160' id='t-83160'>and training the park protection personnel</span>
+<span class='talk-transcript__fragment' data-time='85658' id='t-85658'>on the use of these drones.</span>
+<span class='talk-transcript__fragment' data-time='87636' id='t-87636'>Not only does a drone give you</span>
+<span class='talk-transcript__fragment' data-time='89268' id='t-89268'>a bird's-eye view of the landscape,</span>
+<span class='talk-transcript__fragment' data-time='91742' id='t-91742'>but it also allows you to capture detailed,</span>
+<span class='talk-transcript__fragment' data-time='94777' id='t-94777'>high-resolution images of objects on the ground.</span>
+<span class='talk-transcript__fragment' data-time='98759' id='t-98759'>This, for example, is a pair of rhinoceros</span>
+<span class='talk-transcript__fragment' data-time='102268' id='t-102268'>taking a cooling bath on a hot summer day</span>
+<span class='talk-transcript__fragment' data-time='105205' id='t-105205'>in the lowlands of Nepal.</span>
+<span class='talk-transcript__fragment' data-time='107168' id='t-107168'>Now we believe that drones have</span>
+<span class='talk-transcript__fragment' data-time='109399' id='t-109399'>tremendous potential,</span>
+<span class='talk-transcript__fragment' data-time='111207' id='t-111207'>not only for combating wildlife crime,</span>
+<span class='talk-transcript__fragment' data-time='113985' id='t-113985'>but also for monitoring the health</span>
+<span class='talk-transcript__fragment' data-time='115948' id='t-115948'>of these wildlife populations.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='118487' id='t-118487'>So what is a drone?</span>
+<span class='talk-transcript__fragment' data-time='120337' id='t-120337'>Well, the kind of drone I'm talking about</span>
+<span class='talk-transcript__fragment' data-time='122846' id='t-122846'>is simply a model aircraft</span>
+<span class='talk-transcript__fragment' data-time='124947' id='t-124947'>fitted with an autopilot system,</span>
+<span class='talk-transcript__fragment' data-time='127392' id='t-127392'>and this autopilot unit contains a tiny computer,</span>
+<span class='talk-transcript__fragment' data-time='131661' id='t-131661'>a GPS, a compass, a barometric altimeter</span>
+<span class='talk-transcript__fragment' data-time='135715' id='t-135715'>and a few other sensors.</span>
+<span class='talk-transcript__fragment' data-time='137974' id='t-137974'>Now a drone like this</span>
+<span class='talk-transcript__fragment' data-time='139393' id='t-139393'>is meant to carry a useful payload,</span>
+<span class='talk-transcript__fragment' data-time='141599' id='t-141599'>such as a video camera</span>
+<span class='talk-transcript__fragment' data-time='143382' id='t-143382'>or a photographic camera.</span>
+<span class='talk-transcript__fragment' data-time='145370' id='t-145370'>It also requires a software that allows the user</span>
+<span class='talk-transcript__fragment' data-time='148719' id='t-148719'>to program a mission,</span>
+<span class='talk-transcript__fragment' data-time='150420' id='t-150420'>to tell the drone where to go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='152826' id='t-152826'>Now people I talk to are often surprised</span>
+<span class='talk-transcript__fragment' data-time='154903' id='t-154903'>when they hear that these are the only</span>
+<span class='talk-transcript__fragment' data-time='157234' id='t-157234'>four components that make a conservation drone,</span>
+<span class='talk-transcript__fragment' data-time='160341' id='t-160341'>but they are even more surprised</span>
+<span class='talk-transcript__fragment' data-time='161845' id='t-161845'>when I tell them how affordable
+these components are.</span>
+<span class='talk-transcript__fragment' data-time='165345' id='t-165345'>The facts is, a conservation drone</span>
+<span class='talk-transcript__fragment' data-time='167631' id='t-167631'>doesn't cost very much more than</span>
+<span class='talk-transcript__fragment' data-time='169890' id='t-169890'>a good laptop computer</span>
+<span class='talk-transcript__fragment' data-time='171867' id='t-171867'>or a decent pair of binoculars.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='175126' id='t-175126'>So now that you've built
+your own conservation drone,</span>
+<span class='talk-transcript__fragment' data-time='178098' id='t-178098'>you probably want to go fly it,</span>
+<span class='talk-transcript__fragment' data-time='180260' id='t-180260'>but how does one fly a drone?</span>
+<span class='talk-transcript__fragment' data-time='182193' id='t-182193'>Well, actually, you don't,</span>
+<span class='talk-transcript__fragment' data-time='183785' id='t-183785'>because the drone flies itself.</span>
+<span class='talk-transcript__fragment' data-time='186275' id='t-186275'>All you have to do is to program a mission</span>
+<span class='talk-transcript__fragment' data-time='189405' id='t-189405'>to tell the drone where to fly.</span>
+<span class='talk-transcript__fragment' data-time='191665' id='t-191665'>But you simply do that by clicking on</span>
+<span class='talk-transcript__fragment' data-time='193984' id='t-193984'>a few way points on the Google Maps interface</span>
+<span class='talk-transcript__fragment' data-time='197233' id='t-197233'>using the open-source software.</span>
+<span class='talk-transcript__fragment' data-time='199483' id='t-199483'>Those missions could be as simple</span>
+<span class='talk-transcript__fragment' data-time='201430' id='t-201430'>as just a few way points,</span>
+<span class='talk-transcript__fragment' data-time='203456' id='t-203456'>or they could be slightly longer
+and more complicated,</span>
+<span class='talk-transcript__fragment' data-time='206833' id='t-206833'>to fly along a river system.</span>
+<span class='talk-transcript__fragment' data-time='209254' id='t-209254'>Sometimes, we fly the drone
+in a lawnmower-type pattern</span>
+<span class='talk-transcript__fragment' data-time='213103' id='t-213103'>and take pictures of that area,</span>
+<span class='talk-transcript__fragment' data-time='215223' id='t-215223'>and those pictures can be processed</span>
+<span class='talk-transcript__fragment' data-time='217194' id='t-217194'>to produce a map of that forest.</span>
+<span class='talk-transcript__fragment' data-time='219933' id='t-219933'>Other researchers might want to fly the drone</span>
+<span class='talk-transcript__fragment' data-time='222536' id='t-222536'>along the boundaries of a forest</span>
+<span class='talk-transcript__fragment' data-time='224678' id='t-224678'>to watch out for poachers or people</span>
+<span class='talk-transcript__fragment' data-time='226849' id='t-226849'>who might be trying to enter the forest illegally.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='229767' id='t-229767'>Now whatever your mission is,</span>
+<span class='talk-transcript__fragment' data-time='231647' id='t-231647'>once you've programmed it,</span>
+<span class='talk-transcript__fragment' data-time='233120' id='t-233120'>you simply upload it to the autopilot system,</span>
+<span class='talk-transcript__fragment' data-time='236103' id='t-236103'>bring your drone to the field,</span>
+<span class='talk-transcript__fragment' data-time='237743' id='t-237743'>and launch it simply by tossing it in the air.</span>
+<span class='talk-transcript__fragment' data-time='240958' id='t-240958'>And often we'll go about this mission</span>
+<span class='talk-transcript__fragment' data-time='243300' id='t-243300'>taking pictures or videos along the way,</span>
+<span class='talk-transcript__fragment' data-time='246360' id='t-246360'>and usually at that point,</span>
+<span class='talk-transcript__fragment' data-time='248294' id='t-248294'>we will go grab ourselves a cup of coffee,</span>
+<span class='talk-transcript__fragment' data-time='250511' id='t-250511'>sit back, and relax for the next few minutes,</span>
+<span class='talk-transcript__fragment' data-time='253441' id='t-253441'>although some of us sit back
+and panic for the next few minutes</span>
+<span class='talk-transcript__fragment' data-time='256952' id='t-256952'>worrying that the drone will not return.</span>
+<span class='talk-transcript__fragment' data-time='259170' id='t-259170'>Usually it does, and when it does,</span>
+<span class='talk-transcript__fragment' data-time='261443' id='t-261443'>it even lands automatically.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='264849' id='t-264849'>So what can we do with a conservation drone?</span>
+<span class='talk-transcript__fragment' data-time='267756' id='t-267756'>Well, when we built our first prototype drone,</span>
+<span class='talk-transcript__fragment' data-time='271149' id='t-271149'>our main objective was to fly it over</span>
+<span class='talk-transcript__fragment' data-time='273667' id='t-273667'>a remote rainforest in North Sumatra, Indonesia,</span>
+<span class='talk-transcript__fragment' data-time='277556' id='t-277556'>to look for the nest of a species of great ape</span>
+<span class='talk-transcript__fragment' data-time='280605' id='t-280605'>known as the orangutan.</span>
+<span class='talk-transcript__fragment' data-time='282761' id='t-282761'>The reason we wanted to do that was because</span>
+<span class='talk-transcript__fragment' data-time='285417' id='t-285417'>we needed to know how many individuals</span>
+<span class='talk-transcript__fragment' data-time='287446' id='t-287446'>of this species are still left in that forest.</span>
+<span class='talk-transcript__fragment' data-time='290833' id='t-290833'>Now the traditional method of surveying</span>
+<span class='talk-transcript__fragment' data-time='293019' id='t-293019'>for orangutans is to walk the forest on foot</span>
+<span class='talk-transcript__fragment' data-time='296621' id='t-296621'>carrying heavy equipment</span>
+<span class='talk-transcript__fragment' data-time='298508' id='t-298508'>and to use a pair of binoculars
+to look up in the treetops</span>
+<span class='talk-transcript__fragment' data-time='302158' id='t-302158'>where you might find an orangutan or its nest.</span>
+<span class='talk-transcript__fragment' data-time='305576' id='t-305576'>Now as you can imagine,</span>
+<span class='talk-transcript__fragment' data-time='307302' id='t-307302'>that is a very time-consuming, labor-intensive,</span>
+<span class='talk-transcript__fragment' data-time='310272' id='t-310272'>and costly process,</span>
+<span class='talk-transcript__fragment' data-time='311990' id='t-311990'>so we were hoping that drones</span>
+<span class='talk-transcript__fragment' data-time='313786' id='t-313786'>could significantly reduce the cost of surveying</span>
+<span class='talk-transcript__fragment' data-time='317111' id='t-317111'>for orangutan populations in Indonesia</span>
+<span class='talk-transcript__fragment' data-time='319678' id='t-319678'>and elsewhere in Southeast Asia.</span>
+<span class='talk-transcript__fragment' data-time='322145' id='t-322145'>So we were very excited when we captured</span>
+<span class='talk-transcript__fragment' data-time='324500' id='t-324500'>our first pair of orangutan nests on camera.</span>
+<span class='talk-transcript__fragment' data-time='327670' id='t-327670'>And this is it; this is the first ever picture</span>
+<span class='talk-transcript__fragment' data-time='330834' id='t-330834'>of orangutan nests taken with a drone.</span>
+<span class='talk-transcript__fragment' data-time='333874' id='t-333874'>Since then we have taken pictures</span>
+<span class='talk-transcript__fragment' data-time='335898' id='t-335898'>of dozens of these nests</span>
+<span class='talk-transcript__fragment' data-time='337516' id='t-337516'>from around various parts of Southeast Asia,</span>
+<span class='talk-transcript__fragment' data-time='340285' id='t-340285'>and we're now working with computer scientists</span>
+<span class='talk-transcript__fragment' data-time='342528' id='t-342528'>to develop algorithms that can automatically count</span>
+<span class='talk-transcript__fragment' data-time='346447' id='t-346447'>the number of nests from the thousands</span>
+<span class='talk-transcript__fragment' data-time='348464' id='t-348464'>of photos we've collected so far.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='351583' id='t-351583'>But nests are not the only objects</span>
+<span class='talk-transcript__fragment' data-time='353541' id='t-353541'>these drones can detect.</span>
+<span class='talk-transcript__fragment' data-time='355331' id='t-355331'>This is a wild orangutan</span>
+<span class='talk-transcript__fragment' data-time='357640' id='t-357640'>happily feeding on top of a palm tree,</span>
+<span class='talk-transcript__fragment' data-time='360161' id='t-360161'>seemingly oblivious to our drone
+that was flying overhead,</span>
+<span class='talk-transcript__fragment' data-time='363713' id='t-363713'>not once but several times.</span>
+<span class='talk-transcript__fragment' data-time='366097' id='t-366097'>We've also taken pictures of other animals</span>
+<span class='talk-transcript__fragment' data-time='369115' id='t-369115'>including forest buffalos in Gabon,</span>
+<span class='talk-transcript__fragment' data-time='372236' id='t-372236'>elephants, and even turtle nests.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='375451' id='t-375451'>But besides taking pictures
+of just the animals themselves,</span>
+<span class='talk-transcript__fragment' data-time='378991' id='t-378991'>we also take pictures of the habitats
+these animals live in,</span>
+<span class='talk-transcript__fragment' data-time='382992' id='t-382992'>because we want to keep track</span>
+<span class='talk-transcript__fragment' data-time='384606' id='t-384606'>of the health of these habitats.</span>
+<span class='talk-transcript__fragment' data-time='387560' id='t-387560'>Sometimes, we zoom out a little</span>
+<span class='talk-transcript__fragment' data-time='389779' id='t-389779'>and look at other things that might be happening</span>
+<span class='talk-transcript__fragment' data-time='392032' id='t-392032'>in the landscape.</span>
+<span class='talk-transcript__fragment' data-time='393496' id='t-393496'>This is an oil palm plantation in Sumatra.</span>
+<span class='talk-transcript__fragment' data-time='396796' id='t-396796'>Now oil palm is a major driver of deforestation</span>
+<span class='talk-transcript__fragment' data-time='400038' id='t-400038'>in that part of the world,</span>
+<span class='talk-transcript__fragment' data-time='401560' id='t-401560'>so we wanted to use this new drone technology</span>
+<span class='talk-transcript__fragment' data-time='404617' id='t-404617'>to keep track of the spread of these plantations</span>
+<span class='talk-transcript__fragment' data-time='407732' id='t-407732'>in Southeast Asia.</span>
+<span class='talk-transcript__fragment' data-time='409742' id='t-409742'>But drones could also be used to keep track of</span>
+<span class='talk-transcript__fragment' data-time='412105' id='t-412105'>illegal logging activities.</span>
+<span class='talk-transcript__fragment' data-time='414589' id='t-414589'>This is a recently logged forest,</span>
+<span class='talk-transcript__fragment' data-time='417030' id='t-417030'>again in Sumatra.</span>
+<span class='talk-transcript__fragment' data-time='418385' id='t-418385'>You could even still see the processed</span>
+<span class='talk-transcript__fragment' data-time='420544' id='t-420544'>wooden planks left on the ground.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='424172' id='t-424172'>But perhaps the most exciting part</span>
+<span class='talk-transcript__fragment' data-time='426461' id='t-426461'>about taking pictures from the air is</span>
+<span class='talk-transcript__fragment' data-time='429027' id='t-429027'>we could later stitch these pictures together</span>
+<span class='talk-transcript__fragment' data-time='431453' id='t-431453'>using special software to create a map</span>
+<span class='talk-transcript__fragment' data-time='434316' id='t-434316'>of the entire landscape, and this map</span>
+<span class='talk-transcript__fragment' data-time='437083' id='t-437083'>gives us crucial information</span>
+<span class='talk-transcript__fragment' data-time='439098' id='t-439098'>for monitoring land use change,</span>
+<span class='talk-transcript__fragment' data-time='441366' id='t-441366'>to let us know where and when
+plantations might be expanding,</span>
+<span class='talk-transcript__fragment' data-time='445113' id='t-445113'>where forests might be contracting,</span>
+<span class='talk-transcript__fragment' data-time='447390' id='t-447390'>or where fires might be breaking out.</span>
+<span class='talk-transcript__fragment' data-time='450772' id='t-450772'>Aerial images could also be processed</span>
+<span class='talk-transcript__fragment' data-time='453004' id='t-453004'>to produce three-dimensional</span>
+<span class='talk-transcript__fragment' data-time='455313' id='t-455313'>computer models of forests.</span>
+<span class='talk-transcript__fragment' data-time='457310' id='t-457310'>Now these models are not just visually appealing,</span>
+<span class='talk-transcript__fragment' data-time='460263' id='t-460263'>but they are also geometrically accurate,</span>
+<span class='talk-transcript__fragment' data-time='462764' id='t-462764'>which means researchers can now measure</span>
+<span class='talk-transcript__fragment' data-time='465541' id='t-465541'>the distance between trees,</span>
+<span class='talk-transcript__fragment' data-time='467666' id='t-467666'>calculate surface area, the volume of vegetation,</span>
+<span class='talk-transcript__fragment' data-time='470961' id='t-470961'>and so on, all of which are important information</span>
+<span class='talk-transcript__fragment' data-time='474160' id='t-474160'>for monitoring the health of these forests.</span>
+<span class='talk-transcript__fragment' data-time='477473' id='t-477473'>Recently, we've also begun experimenting</span>
+<span class='talk-transcript__fragment' data-time='479926' id='t-479926'>with thermal imaging cameras.</span>
+<span class='talk-transcript__fragment' data-time='481990' id='t-481990'>Now these cameras can detect</span>
+<span class='talk-transcript__fragment' data-time='483879' id='t-483879'>heat-emitting objects from the ground,</span>
+<span class='talk-transcript__fragment' data-time='485864' id='t-485864'>and therefore they are very useful
+for detecting poachers or their campfires at night.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='493236' id='t-493236'>So I've told you quite a lot about</span>
+<span class='talk-transcript__fragment' data-time='495120' id='t-495120'>what conservation drones are,</span>
+<span class='talk-transcript__fragment' data-time='497336' id='t-497336'>how you might operate one of these drones,</span>
+<span class='talk-transcript__fragment' data-time='499653' id='t-499653'>and what a drone could do for you.</span>
+<span class='talk-transcript__fragment' data-time='501662' id='t-501662'>I will now tell you where conservation drones</span>
+<span class='talk-transcript__fragment' data-time='503898' id='t-503898'>are being used around the world.</span>
+<span class='talk-transcript__fragment' data-time='506353' id='t-506353'>We built our first prototype drones in Switzerland.</span>
+<span class='talk-transcript__fragment' data-time='509406' id='t-509406'>We brought a few of these to Indonesia</span>
+<span class='talk-transcript__fragment' data-time='511547' id='t-511547'>for the first few test flights.</span>
+<span class='talk-transcript__fragment' data-time='513690' id='t-513690'>Since then, we've been building drones</span>
+<span class='talk-transcript__fragment' data-time='515505' id='t-515505'>for our collaborators from around the world,</span>
+<span class='talk-transcript__fragment' data-time='518187' id='t-518187'>and these include fellow biologists</span>
+<span class='talk-transcript__fragment' data-time='520367' id='t-520367'>and partners from major conservation organizations.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='524295' id='t-524295'>Perhaps the best and most rewarding part</span>
+<span class='talk-transcript__fragment' data-time='526585' id='t-526585'>about working with these collaborators</span>
+<span class='talk-transcript__fragment' data-time='528711' id='t-528711'>is the feedback they give us</span>
+<span class='talk-transcript__fragment' data-time='530191' id='t-530191'>on how to improve our drones.</span>
+<span class='talk-transcript__fragment' data-time='532834' id='t-532834'>Building drones for us is</span>
+<span class='talk-transcript__fragment' data-time='534965' id='t-534965'>a constant work in progress.</span>
+<span class='talk-transcript__fragment' data-time='537129' id='t-537129'>We are constantly trying to improve them in terms of</span>
+<span class='talk-transcript__fragment' data-time='540206' id='t-540206'>their range, their ruggedness,</span>
+<span class='talk-transcript__fragment' data-time='542820' id='t-542820'>and the amount of payload they can carry.</span>
+<span class='talk-transcript__fragment' data-time='545498' id='t-545498'>We also work with collaborators</span>
+<span class='talk-transcript__fragment' data-time='547540' id='t-547540'>to discover new ways of using these drones.</span>
+<span class='talk-transcript__fragment' data-time='550827' id='t-550827'>For example, camera traps are a common tool</span>
+<span class='talk-transcript__fragment' data-time='554107' id='t-554107'>used by biologists to take pictures of shy animals</span>
+<span class='talk-transcript__fragment' data-time='558002' id='t-558002'>hiding in the forests,</span>
+<span class='talk-transcript__fragment' data-time='559563' id='t-559563'>but these are motion-activated cameras,</span>
+<span class='talk-transcript__fragment' data-time='561897' id='t-561897'>so they snap a picture every time an animal</span>
+<span class='talk-transcript__fragment' data-time='564538' id='t-564538'>crosses their path.</span>
+<span class='talk-transcript__fragment' data-time='566210' id='t-566210'>But the problem with camera traps</span>
+<span class='talk-transcript__fragment' data-time='567762' id='t-567762'>is that the researcher has to go back to the forest</span>
+<span class='talk-transcript__fragment' data-time='571505' id='t-571505'>every so often to retrieve those images,</span>
+<span class='talk-transcript__fragment' data-time='574958' id='t-574958'>and that takes a lot of time,</span>
+<span class='talk-transcript__fragment' data-time='576610' id='t-576610'>especially if there are dozens</span>
+<span class='talk-transcript__fragment' data-time='578444' id='t-578444'>or hundreds of these cameras placed in the forest.</span>
+<span class='talk-transcript__fragment' data-time='581572' id='t-581572'>Now a drone could be designed to perform the task</span>
+<span class='talk-transcript__fragment' data-time='584383' id='t-584383'>much more efficiently.</span>
+<span class='talk-transcript__fragment' data-time='586107' id='t-586107'>This drone, carrying a special sensor,</span>
+<span class='talk-transcript__fragment' data-time='588777' id='t-588777'>could be flown over the forest</span>
+<span class='talk-transcript__fragment' data-time='591118' id='t-591118'>and remotely download these images</span>
+<span class='talk-transcript__fragment' data-time='593865' id='t-593865'>from wi-fi–enabled cameras.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='598002' id='t-598002'>Radio collars are another tool</span>
+<span class='talk-transcript__fragment' data-time='600139' id='t-600139'>that's commonly used by biologists.</span>
+<span class='talk-transcript__fragment' data-time='602387' id='t-602387'>Now these collars are put onto animals.</span>
+<span class='talk-transcript__fragment' data-time='605054' id='t-605054'>They transmit a radio signal which allows</span>
+<span class='talk-transcript__fragment' data-time='607855' id='t-607855'>the researcher to track the movements
+of these animals across the landscape.</span>
+<span class='talk-transcript__fragment' data-time='613002' id='t-613002'>But the traditional way of tracking animals</span>
+<span class='talk-transcript__fragment' data-time='615659' id='t-615659'>is pretty ridiculous,</span>
+<span class='talk-transcript__fragment' data-time='617881' id='t-617881'>because it requires the researcher to be walking</span>
+<span class='talk-transcript__fragment' data-time='620825' id='t-620825'>on the ground carrying a huge
+and cumbersome radio antenna,</span>
+<span class='talk-transcript__fragment' data-time='624939' id='t-624939'>not unlike those old TV antennae we used to have</span>
+<span class='talk-transcript__fragment' data-time='627812' id='t-627812'>on our rooftops. Some of us still do.</span>
+<span class='talk-transcript__fragment' data-time='630780' id='t-630780'>A drone could be used to do the same job</span>
+<span class='talk-transcript__fragment' data-time='633045' id='t-633045'>much more efficiently.</span>
+<span class='talk-transcript__fragment' data-time='634704' id='t-634704'>Why not equip a drone</span>
+<span class='talk-transcript__fragment' data-time='636410' id='t-636410'>with a scanning radio receiver,</span>
+<span class='talk-transcript__fragment' data-time='638413' id='t-638413'>fly that over the forest canopy</span>
+<span class='talk-transcript__fragment' data-time='640407' id='t-640407'>in a certain pattern</span>
+<span class='talk-transcript__fragment' data-time='641945' id='t-641945'>which would allow the user or the operator</span>
+<span class='talk-transcript__fragment' data-time='644737' id='t-644737'>to triangulate the location</span>
+<span class='talk-transcript__fragment' data-time='647319' id='t-647319'>of these radio-collared animals remotely</span>
+<span class='talk-transcript__fragment' data-time='650306' id='t-650306'>without having to step foot in the forest.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='653279' id='t-653279'>A third and perhaps most exciting way</span>
+<span class='talk-transcript__fragment' data-time='655782' id='t-655782'>of using these drones</span>
+<span class='talk-transcript__fragment' data-time='657312' id='t-657312'>is to fly them to a really remote,</span>
+<span class='talk-transcript__fragment' data-time='660262' id='t-660262'>never-explored-before rainforest</span>
+<span class='talk-transcript__fragment' data-time='662538' id='t-662538'>somewhere hidden in the tropics,</span>
+<span class='talk-transcript__fragment' data-time='664362' id='t-664362'>and parachute down a tiny spy microphone</span>
+<span class='talk-transcript__fragment' data-time='668295' id='t-668295'>that would allow us to eavesdrop on the calls</span>
+<span class='talk-transcript__fragment' data-time='670741' id='t-670741'>of mammals, birds, amphibians,</span>
+<span class='talk-transcript__fragment' data-time='674063' id='t-674063'>the Yeti, the Sasquatch, Bigfoot, whatever.</span>
+<span class='talk-transcript__fragment' data-time='678340' id='t-678340'>That would give us biologists</span>
+<span class='talk-transcript__fragment' data-time='680079' id='t-680079'>a pretty good idea of what animals</span>
+<span class='talk-transcript__fragment' data-time='681965' id='t-681965'>might be living in those forests.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='684515' id='t-684515'>And finally, I would like to show you</span>
+<span class='talk-transcript__fragment' data-time='686564' id='t-686564'>the latest version of our conservation drone.</span>
+<span class='talk-transcript__fragment' data-time='689665' id='t-689665'>The MAJA drone has a wingspan</span>
+<span class='talk-transcript__fragment' data-time='691804' id='t-691804'>of about two meters.</span>
+<span class='talk-transcript__fragment' data-time='693478' id='t-693478'>It weighs only about two kilograms,</span>
+<span class='talk-transcript__fragment' data-time='695428' id='t-695428'>but it can carry half its weight.</span>
+<span class='talk-transcript__fragment' data-time='697889' id='t-697889'>It is a fully autonomous system.</span>
+<span class='talk-transcript__fragment' data-time='700484' id='t-700484'>During its mission, it can even transmit</span>
+<span class='talk-transcript__fragment' data-time='702871' id='t-702871'>a live video feed back to a ground station laptop,</span>
+<span class='talk-transcript__fragment' data-time='706834' id='t-706834'>which allows the user</span>
+<span class='talk-transcript__fragment' data-time='708377' id='t-708377'>to see what the drone is seeing in real time.</span>
+<span class='talk-transcript__fragment' data-time='711307' id='t-711307'>It carries a variety of sensors,</span>
+<span class='talk-transcript__fragment' data-time='713729' id='t-713729'>and the photo quality of some of these sensors</span>
+<span class='talk-transcript__fragment' data-time='716067' id='t-716067'>can be as high as one to two centimeters per pixel.</span>
+<span class='talk-transcript__fragment' data-time='720277' id='t-720277'>This drone can stay in the air for 40 to 60 minutes,</span>
+<span class='talk-transcript__fragment' data-time='723958' id='t-723958'>which gives it a range of up to 50 kilometers.</span>
+<span class='talk-transcript__fragment' data-time='727082' id='t-727082'>That is quite sufficient for most</span>
+<span class='talk-transcript__fragment' data-time='728997' id='t-728997'>of our conservation applications.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='731996' id='t-731996'>Now, conservation drones began as</span>
+<span class='talk-transcript__fragment' data-time='734066' id='t-734066'>a crazy idea from two biologists</span>
+<span class='talk-transcript__fragment' data-time='736257' id='t-736257'>who are just deeply passionate
+about this technology.</span>
+<span class='talk-transcript__fragment' data-time='739542' id='t-739542'>And we believe, strongly believe,</span>
+<span class='talk-transcript__fragment' data-time='741692' id='t-741692'>that drones can and will be a game changer</span>
+<span class='talk-transcript__fragment' data-time='745039' id='t-745039'>for conservation research and applications.</span>
+<span class='talk-transcript__fragment' data-time='748073' id='t-748073'>We've had our fair share of skeptics and critics</span>
+<span class='talk-transcript__fragment' data-time='751248' id='t-751248'>who thought that we were just
+fooling around with toy planes.</span>
+<span class='talk-transcript__fragment' data-time='754769' id='t-754769'>And in a way, they are right.</span>
+<span class='talk-transcript__fragment' data-time='756195' id='t-756195'>I mean, let's be honest,</span>
+<span class='talk-transcript__fragment' data-time='757824' id='t-757824'>drones are the ultimate toys for boys.</span>
+<span class='talk-transcript__fragment' data-time='761512' id='t-761512'>But at the same time, we've also gotten to know</span>
+<span class='talk-transcript__fragment' data-time='763918' id='t-763918'>many wonderful colleagues and collaborators</span>
+<span class='talk-transcript__fragment' data-time='766167' id='t-766167'>who share our vision</span>
+<span class='talk-transcript__fragment' data-time='767715' id='t-767715'>and see the potential of conservation drones.</span>
+<span class='talk-transcript__fragment' data-time='770571' id='t-770571'>To us, it is obvious that conservation biologists</span>
+<span class='talk-transcript__fragment' data-time='774170' id='t-774170'>and practitioners should make full use</span>
+<span class='talk-transcript__fragment' data-time='776428' id='t-776428'>of every available tool, including drones,</span>
+<span class='talk-transcript__fragment' data-time='779962' id='t-779962'>in our fight to save the last remaining forests</span>
+<span class='talk-transcript__fragment' data-time='782603' id='t-782603'>and wildlife of this planet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='784390' id='t-784390'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='786388' id='t-786388'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Joe Gebbia: How Airbnb designs for trust | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Joe Gebbia: How Airbnb designs for trust | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Joe Gebbia, the co-founder of Airbnb, bet his whole company on the belief that people can trust each other enough to stay in one another&#39;s homes. How did he overcome the stranger-danger bias? Through good design. Now, 123 million hosted nights (and counting) later, Gebbia sets out his dream for a culture of sharing in which design helps foster community and connection instead of isolation and separation." name="description" />
+<meta content="Joe Gebbia" name="author" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=zh" hreflang="zh" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;How Airbnb designs for trust&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2bae1cab04930bb1f8be07dbd63d7fc00739becc_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2bae1cab04930bb1f8be07dbd63d7fc00739becc_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Joe Gebbia, the co-founder of Airbnb, bet his whole company on the belief that people can trust each other enough to stay in one another&#39;s homes. How did he overcome the stranger-danger bias? Through good design. Now, 123 million hosted nights (and counting) later, Gebbia sets out his dream for a culture of sharing in which design helps foster community and connection instead of isolation and separation." property="og:description" />
+<meta content="http://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2447?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='joe_gebbia_how_airbnb_designs_for_trust'>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='zh'>Chinese, Yue</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2447?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="951" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2bae1cab04930bb1f8be07dbd63d7fc00739becc_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:51</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Joe Gebbia</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2447?language=en' lang='en'>
+How Airbnb designs for trust
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Mar 2016
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='781' id='t-781'>I want to tell you the story</span>
+<span class='talk-transcript__fragment' data-time='2362' id='t-2362'>about the time I almost got kidnapped</span>
+<span class='talk-transcript__fragment' data-time='6214' id='t-6214'>in the trunk of a red Mazda Miata.</span>
+<span class='talk-transcript__fragment' data-time='10157' id='t-10157'>It's the day after graduating
+from design school</span>
+<span class='talk-transcript__fragment' data-time='13129' id='t-13129'>and I'm having a yard sale.</span>
+<span class='talk-transcript__fragment' data-time='14638' id='t-14638'>And this guy pulls up in this red Mazda</span>
+<span class='talk-transcript__fragment' data-time='17356' id='t-17356'>and he starts looking through my stuff.</span>
+<span class='talk-transcript__fragment' data-time='19491' id='t-19491'>And he buys a piece of art that I made.</span>
+<span class='talk-transcript__fragment' data-time='22466' id='t-22466'>And it turns out he's alone
+in town for the night,</span>
+<span class='talk-transcript__fragment' data-time='26109' id='t-26109'>driving cross-country on a road trip</span>
+<span class='talk-transcript__fragment' data-time='28686' id='t-28686'>before he goes into the Peace Corps.</span>
+<span class='talk-transcript__fragment' data-time='30822' id='t-30822'>So I invite him out for a beer</span>
+<span class='talk-transcript__fragment' data-time='33202' id='t-33202'>and he tells me all about his passion</span>
+<span class='talk-transcript__fragment' data-time='35647' id='t-35647'>for making a difference in the world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='38647' id='t-38647'>Now it's starting to get late,</span>
+<span class='talk-transcript__fragment' data-time='40110' id='t-40110'>and I'm getting pretty tired.</span>
+<span class='talk-transcript__fragment' data-time='42757' id='t-42757'>As I motion for the tab,</span>
+<span class='talk-transcript__fragment' data-time='44428' id='t-44428'>I make the mistake of asking him,</span>
+<span class='talk-transcript__fragment' data-time='47493' id='t-47493'>&quot;So where are you staying tonight?&quot;</span>
+<span class='talk-transcript__fragment' data-time='49838' id='t-49838'>And he makes it worse by saying,</span>
+<span class='talk-transcript__fragment' data-time='52138' id='t-52138'>&quot;Actually, I don't have a place.&quot;</span>
+<span class='talk-transcript__fragment' data-time='55575' id='t-55575'>And I'm thinking, &quot;Oh, man!&quot;</span>
+<span class='talk-transcript__fragment' data-time='58662' id='t-58662'>What do you do?</span>
+<span class='talk-transcript__fragment' data-time='60751' id='t-60751'>We've all been there, right?</span>
+<span class='talk-transcript__fragment' data-time='63212' id='t-63212'>Do I offer to host this guy?</span>
+<span class='talk-transcript__fragment' data-time='65370' id='t-65370'>But, I just met him -- I mean,</span>
+<span class='talk-transcript__fragment' data-time='67507' id='t-67507'>he says he's going to the Peace Corps,</span>
+<span class='talk-transcript__fragment' data-time='69357' id='t-69357'>but I don't really know if he's going
+to the Peace Corps</span>
+<span class='talk-transcript__fragment' data-time='72016' id='t-72016'>and I don't want to end up kidnapped
+in the trunk of a Miata.</span>
+<span class='talk-transcript__fragment' data-time='74920' id='t-74920'>That's a small trunk!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78062' id='t-78062'>So then I hear myself saying,</span>
+<span class='talk-transcript__fragment' data-time='80179' id='t-80179'>&quot;Hey, I have an airbed you can stay on
+in my living room.&quot;</span>
+<span class='talk-transcript__fragment' data-time='84060' id='t-84060'>And the voice in my head goes,</span>
+<span class='talk-transcript__fragment' data-time='85571' id='t-85571'>&quot;Wait, what?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='88634' id='t-88634'>That night, I'm laying in bed,</span>
+<span class='talk-transcript__fragment' data-time='90539' id='t-90539'>I'm staring at the ceiling and thinking,</span>
+<span class='talk-transcript__fragment' data-time='93211' id='t-93211'>&quot;Oh my god, what have I done?</span>
+<span class='talk-transcript__fragment' data-time='96501' id='t-96501'>There's a complete stranger
+sleeping in my living room.</span>
+<span class='talk-transcript__fragment' data-time='100702' id='t-100702'>What if he's psychotic?&quot;</span>
+<span class='talk-transcript__fragment' data-time='103029' id='t-103029'>My anxiety grows so much,</span>
+<span class='talk-transcript__fragment' data-time='104353' id='t-104353'>I leap out of bed,</span>
+<span class='talk-transcript__fragment' data-time='106237' id='t-106237'>I sneak on my tiptoes to the door,</span>
+<span class='talk-transcript__fragment' data-time='108954' id='t-108954'>and I lock the bedroom door.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='112274' id='t-112274'>It turns out he was not psychotic.</span>
+<span class='talk-transcript__fragment' data-time='114898' id='t-114898'>We've kept in touch ever since.</span>
+<span class='talk-transcript__fragment' data-time='116447' id='t-116447'>And the piece of art
+he bought at the yard sale</span>
+<span class='talk-transcript__fragment' data-time='118761' id='t-118761'>is hanging in his classroom;
+he's a teacher now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='123025' id='t-123025'>This was my first hosting experience,</span>
+<span class='talk-transcript__fragment' data-time='124836' id='t-124836'>and it completely changed my perspective.</span>
+<span class='talk-transcript__fragment' data-time='129198' id='t-129198'>Maybe the people that my childhood
+taught me to label as strangers</span>
+<span class='talk-transcript__fragment' data-time='133984' id='t-133984'>were actually friends waiting
+to be discovered.</span>
+<span class='talk-transcript__fragment' data-time='137606' id='t-137606'>The idea of hosting people on airbeds
+gradually became natural to me</span>
+<span class='talk-transcript__fragment' data-time='141511' id='t-141511'>and when I moved to San Francisco,</span>
+<span class='talk-transcript__fragment' data-time='143194' id='t-143194'>I brought the airbed with me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='145185' id='t-145185'>So now it's two years later.</span>
+<span class='talk-transcript__fragment' data-time='147172' id='t-147172'>I'm unemployed, I'm almost broke,</span>
+<span class='talk-transcript__fragment' data-time='150075' id='t-150075'>my roommate moves out,
+and then the rent goes up.</span>
+<span class='talk-transcript__fragment' data-time='154248' id='t-154248'>And then I learn there's a design
+conference coming to town,</span>
+<span class='talk-transcript__fragment' data-time='157075' id='t-157075'>and all the hotels are sold out.</span>
+<span class='talk-transcript__fragment' data-time='158890' id='t-158890'>And I've always believed
+that turning fear into fun</span>
+<span class='talk-transcript__fragment' data-time='162394' id='t-162394'>is the gift of creativity.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='164749' id='t-164749'>So here's what I pitch my best friend
+and my new roommate Brian Chesky:</span>
+<span class='talk-transcript__fragment' data-time='170084' id='t-170084'>&quot;Brian, thought of a way
+to make a few bucks --</span>
+<span class='talk-transcript__fragment' data-time='172408' id='t-172408'>turning our place into 'designers
+bed and breakfast,'</span>
+<span class='talk-transcript__fragment' data-time='174915' id='t-174915'>offering young designers who come
+to town a place to crash,</span>
+<span class='talk-transcript__fragment' data-time='177718' id='t-177718'>complete with wireless Internet,
+a small desk space,</span>
+<span class='talk-transcript__fragment' data-time='180189' id='t-180189'>sleeping mat, and breakfast each morning.</span>
+<span class='talk-transcript__fragment' data-time='182229' id='t-182229'>Ha!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='184566' id='t-184566'>We built a basic website
+and Airbed and Breakfast was born.</span>
+<span class='talk-transcript__fragment' data-time='188780' id='t-188780'>Three lucky guests got to stay</span>
+<span class='talk-transcript__fragment' data-time='190969' id='t-190969'>on a 20-dollar airbed
+on the hardwood floor.</span>
+<span class='talk-transcript__fragment' data-time='194052' id='t-194052'>But they loved it, and so did we.</span>
+<span class='talk-transcript__fragment' data-time='197024' id='t-197024'>I swear, the ham
+and Swiss cheese omelets we made</span>
+<span class='talk-transcript__fragment' data-time='199430' id='t-199430'>tasted totally different
+because we made them for our guests.</span>
+<span class='talk-transcript__fragment' data-time='203618' id='t-203618'>We took them on adventures
+around the city,</span>
+<span class='talk-transcript__fragment' data-time='205824' id='t-205824'>and when we said goodbye
+to the last guest,</span>
+<span class='talk-transcript__fragment' data-time='208460' id='t-208460'>the door latch clicked,</span>
+<span class='talk-transcript__fragment' data-time='210927' id='t-210927'>Brian and I just stared at each other.</span>
+<span class='talk-transcript__fragment' data-time='213811' id='t-213811'>Did we just discover
+it was possible to make friends</span>
+<span class='talk-transcript__fragment' data-time='217294' id='t-217294'>while also making rent?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='220080' id='t-220080'>The wheels had started to turn.</span>
+<span class='talk-transcript__fragment' data-time='222023' id='t-222023'>My old roommate, Nate Blecharczyk,</span>
+<span class='talk-transcript__fragment' data-time='223698' id='t-223698'>joined as engineering co-founder.</span>
+<span class='talk-transcript__fragment' data-time='226930' id='t-226930'>And we buckled down to see</span>
+<span class='talk-transcript__fragment' data-time='228643' id='t-228643'>if we could turn this into a business.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='231956' id='t-231956'>Here's what we pitched investors:</span>
+<span class='talk-transcript__fragment' data-time='236507' id='t-236507'>&quot;We want to build a website</span>
+<span class='talk-transcript__fragment' data-time='237838' id='t-237838'>where people publicly post pictures
+of their most intimate spaces,</span>
+<span class='talk-transcript__fragment' data-time='241404' id='t-241404'>their bedrooms, the bathrooms --</span>
+<span class='talk-transcript__fragment' data-time='243285' id='t-243285'>the kinds of rooms you usually keep closed
+when people come over.</span>
+<span class='talk-transcript__fragment' data-time='246735' id='t-246735'>And then, over the Internet,</span>
+<span class='talk-transcript__fragment' data-time='248430' id='t-248430'>they're going to invite complete strangers
+to come sleep in their homes.</span>
+<span class='talk-transcript__fragment' data-time='251887' id='t-251887'>It's going to be huge!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='253316' id='t-253316'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='255506' id='t-255506'>We sat back, and we waited
+for the rocket ship to blast off.</span>
+<span class='talk-transcript__fragment' data-time='259240' id='t-259240'>It did not.</span>
+<span class='talk-transcript__fragment' data-time='262994' id='t-262994'>No one in their right minds
+would invest in a service</span>
+<span class='talk-transcript__fragment' data-time='265530' id='t-265530'>that allows strangers
+to sleep in people's homes.</span>
+<span class='talk-transcript__fragment' data-time='268126' id='t-268126'>Why?</span>
+<span class='talk-transcript__fragment' data-time='269629' id='t-269629'>Because we've all been taught
+as kids, strangers equal danger.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='274038' id='t-274038'>Now, when you're faced with a problem,
+you fall back on what you know,</span>
+<span class='talk-transcript__fragment' data-time='277609' id='t-277609'>and all we really knew was design.</span>
+<span class='talk-transcript__fragment' data-time='280751' id='t-280751'>In art school, you learn
+that design is much more</span>
+<span class='talk-transcript__fragment' data-time='283236' id='t-283236'>than the look and feel of something --
+it's the whole experience.</span>
+<span class='talk-transcript__fragment' data-time='286881' id='t-286881'>We learned to do that for objects,</span>
+<span class='talk-transcript__fragment' data-time='288556' id='t-288556'>but here, we were aiming
+to build Olympic trust</span>
+<span class='talk-transcript__fragment' data-time='292864' id='t-292864'>between people who had never met.</span>
+<span class='talk-transcript__fragment' data-time='296504' id='t-296504'>Could design make that happen?</span>
+<span class='talk-transcript__fragment' data-time='299350' id='t-299350'>Is it possible to design for trust?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='303801' id='t-303801'>I want to give you a sense
+of the flavor of trust</span>
+<span class='talk-transcript__fragment' data-time='306826' id='t-306826'>that we were aiming to achieve.</span>
+<span class='talk-transcript__fragment' data-time='309412' id='t-309412'>I've got a 30-second experiment</span>
+<span class='talk-transcript__fragment' data-time='311146' id='t-311146'>that will push you past your comfort zone.</span>
+<span class='talk-transcript__fragment' data-time='313618' id='t-313618'>If you're up for it, give me a thumbs-up.</span>
+<span class='talk-transcript__fragment' data-time='318429' id='t-318429'>OK, I need you to take out your phones.</span>
+<span class='talk-transcript__fragment' data-time='326773' id='t-326773'>Now that you have your phone out,</span>
+<span class='talk-transcript__fragment' data-time='328390' id='t-328390'>I'd like you to unlock your phone.</span>
+<span class='talk-transcript__fragment' data-time='333807' id='t-333807'>Now hand your unlocked phone
+to the person on your left.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='337648' id='t-337648'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='349734' id='t-349734'>That tiny sense of panic
+you're feeling right now --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='352571' id='t-352571'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='354270' id='t-354270'>is exactly how hosts feel the first time
+they open their home.</span>
+<span class='talk-transcript__fragment' data-time='358581' id='t-358581'>Because the only thing
+more personal than your phone</span>
+<span class='talk-transcript__fragment' data-time='361362' id='t-361362'>is your home.</span>
+<span class='talk-transcript__fragment' data-time='363171' id='t-363171'>People don't just see your messages,</span>
+<span class='talk-transcript__fragment' data-time='364914' id='t-364914'>they see your bedroom,</span>
+<span class='talk-transcript__fragment' data-time='366197' id='t-366197'>your kitchen, your toilet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='369401' id='t-369401'>Now, how does it feel holding
+someone's unlocked phone?</span>
+<span class='talk-transcript__fragment' data-time='374185' id='t-374185'>Most of us feel really responsible.</span>
+<span class='talk-transcript__fragment' data-time='377017' id='t-377017'>That's how most guests feel
+when they stay in a home.</span>
+<span class='talk-transcript__fragment' data-time='380842' id='t-380842'>And it's because of this
+that our company can even exist.</span>
+<span class='talk-transcript__fragment' data-time='384619' id='t-384619'>By the way, who's holding Al Gore's phone?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='387118' id='t-387118'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='390600' id='t-390600'>Would you tell Twitter
+he's running for President?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='393221' id='t-393221'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='395246' id='t-395246'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='403719' id='t-403719'>OK, you can hand your phones back now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='411589' id='t-411589'>So now that you've experienced
+the kind of trust challenge</span>
+<span class='talk-transcript__fragment' data-time='414864' id='t-414864'>we were facing,</span>
+<span class='talk-transcript__fragment' data-time='416128' id='t-416128'>I'd love to share a few discoveries
+we've made along the way.</span>
+<span class='talk-transcript__fragment' data-time='420011' id='t-420011'>What if we changed one small thing</span>
+<span class='talk-transcript__fragment' data-time='422294' id='t-422294'>about the design of that experiment?</span>
+<span class='talk-transcript__fragment' data-time='424362' id='t-424362'>What if your neighbor had introduced
+themselves first, with their name,</span>
+<span class='talk-transcript__fragment' data-time='428169' id='t-428169'>where they're from, the name
+of their kids or their dog?</span>
+<span class='talk-transcript__fragment' data-time='431685' id='t-431685'>Imagine that they had 150 reviews
+of people saying,</span>
+<span class='talk-transcript__fragment' data-time='435241' id='t-435241'>&quot;They're great at holding
+unlocked phones!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='437670' id='t-437670'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='442709' id='t-442709'>Now how would you feel
+about handing your phone over?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='447784' id='t-447784'>It turns out,</span>
+<span class='talk-transcript__fragment' data-time='448960' id='t-448960'>a well-designed reputation system
+is key for building trust.</span>
+<span class='talk-transcript__fragment' data-time='452951' id='t-452951'>And we didn't actually
+get it right the first time.</span>
+<span class='talk-transcript__fragment' data-time='455985' id='t-455985'>It's hard for people to leave bad reviews.</span>
+<span class='talk-transcript__fragment' data-time='459447' id='t-459447'>Eventually, we learned to wait
+until both guests and hosts</span>
+<span class='talk-transcript__fragment' data-time='463857' id='t-463857'>left the review before we reveal them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='467107' id='t-467107'>Now, here's a discovery
+we made just last week.</span>
+<span class='talk-transcript__fragment' data-time='470984' id='t-470984'>We did a joint study with Stanford,</span>
+<span class='talk-transcript__fragment' data-time='472912' id='t-472912'>where we looked at people's
+willingness to trust someone</span>
+<span class='talk-transcript__fragment' data-time='475930' id='t-475930'>based on how similar they are in age,
+location and geography.</span>
+<span class='talk-transcript__fragment' data-time='481467' id='t-481467'>The research showed, not surprisingly,</span>
+<span class='talk-transcript__fragment' data-time='484451' id='t-484451'>we prefer people who are like us.</span>
+<span class='talk-transcript__fragment' data-time='488094' id='t-488094'>The more different somebody is,</span>
+<span class='talk-transcript__fragment' data-time='490953' id='t-490953'>the less we trust them.</span>
+<span class='talk-transcript__fragment' data-time='493130' id='t-493130'>Now, that's a natural social bias.</span>
+<span class='talk-transcript__fragment' data-time='496532' id='t-496532'>But what's interesting is what happens</span>
+<span class='talk-transcript__fragment' data-time='498910' id='t-498910'>when you add reputation into the mix,</span>
+<span class='talk-transcript__fragment' data-time='500892' id='t-500892'>in this case, with reviews.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='503398' id='t-503398'>Now, if you've got
+less than three reviews,</span>
+<span class='talk-transcript__fragment' data-time='505439' id='t-505439'>nothing changes.</span>
+<span class='talk-transcript__fragment' data-time='507541' id='t-507541'>But if you've got more than 10,</span>
+<span class='talk-transcript__fragment' data-time='510527' id='t-510527'>everything changes.</span>
+<span class='talk-transcript__fragment' data-time='512467' id='t-512467'>High reputation beats high similarity.</span>
+<span class='talk-transcript__fragment' data-time='518299' id='t-518299'>The right design can actually
+help us overcome</span>
+<span class='talk-transcript__fragment' data-time='521053' id='t-521053'>one of our most deeply rooted biases.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='525247' id='t-525247'>Now we also learned that building
+the right amount of trust</span>
+<span class='talk-transcript__fragment' data-time='528379' id='t-528379'>takes the right amount of disclosure.</span>
+<span class='talk-transcript__fragment' data-time='531275' id='t-531275'>This is what happens when a guest
+first messages a host.</span>
+<span class='talk-transcript__fragment' data-time='535862' id='t-535862'>If you share too little, like, &quot;Yo,&quot;</span>
+<span class='talk-transcript__fragment' data-time='540886' id='t-540886'>acceptance rates go down.</span>
+<span class='talk-transcript__fragment' data-time='542507' id='t-542507'>And if you share too much, like,</span>
+<span class='talk-transcript__fragment' data-time='544648' id='t-544648'>&quot;I'm having issues with my mother,&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='546365' id='t-546365'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547539' id='t-547539'>acceptance rates also go down.</span>
+<span class='talk-transcript__fragment' data-time='550372' id='t-550372'>But there's a zone that's just right,</span>
+<span class='talk-transcript__fragment' data-time='552341' id='t-552341'>like, &quot;Love the artwork in your place.
+Coming for vacation with my family.&quot;</span>
+<span class='talk-transcript__fragment' data-time='556663' id='t-556663'>So how do we design for just
+the right amount of disclosure?</span>
+<span class='talk-transcript__fragment' data-time='561170' id='t-561170'>We use the size of the box
+to suggest the right length,</span>
+<span class='talk-transcript__fragment' data-time='564639' id='t-564639'>and we guide them with prompts
+to encourage sharing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='569200' id='t-569200'>We bet our whole company</span>
+<span class='talk-transcript__fragment' data-time='572145' id='t-572145'>on the hope that,</span>
+<span class='talk-transcript__fragment' data-time='573813' id='t-573813'>with the right design,</span>
+<span class='talk-transcript__fragment' data-time='575720' id='t-575720'>people would be willing to overcome
+the stranger-danger bias.</span>
+<span class='talk-transcript__fragment' data-time='579918' id='t-579918'>What we didn't realize</span>
+<span class='talk-transcript__fragment' data-time='581324' id='t-581324'>is just how many people</span>
+<span class='talk-transcript__fragment' data-time='583782' id='t-583782'>were ready and waiting
+to put the bias aside.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='587823' id='t-587823'>This is a graph that shows
+our rate of adoption.</span>
+<span class='talk-transcript__fragment' data-time='591630' id='t-591630'>There's three things happening here.</span>
+<span class='talk-transcript__fragment' data-time='594081' id='t-594081'>The first, an unbelievable amount of luck.</span>
+<span class='talk-transcript__fragment' data-time='598841' id='t-598841'>The second is the efforts of our team.</span>
+<span class='talk-transcript__fragment' data-time='601969' id='t-601969'>And third is the existence
+of a previously unsatisfied need.</span>
+<span class='talk-transcript__fragment' data-time='607099' id='t-607099'>Now, things have been going pretty well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='609500' id='t-609500'>Obviously, there are times
+when things don't work out.</span>
+<span class='talk-transcript__fragment' data-time='613647' id='t-613647'>Guests have thrown unauthorized parties</span>
+<span class='talk-transcript__fragment' data-time='615635' id='t-615635'>and trashed homes.</span>
+<span class='talk-transcript__fragment' data-time='617984' id='t-617984'>Hosts have left guests
+stranded in the rain.</span>
+<span class='talk-transcript__fragment' data-time='622355' id='t-622355'>In the early days, I was customer service,</span>
+<span class='talk-transcript__fragment' data-time='626213' id='t-626213'>and those calls came
+right to my cell phone.</span>
+<span class='talk-transcript__fragment' data-time='629071' id='t-629071'>I was at the front lines
+of trust breaking.</span>
+<span class='talk-transcript__fragment' data-time='633496' id='t-633496'>And there's nothing worse
+than those calls,</span>
+<span class='talk-transcript__fragment' data-time='636068' id='t-636068'>it hurts to even think about them.</span>
+<span class='talk-transcript__fragment' data-time='639113' id='t-639113'>And the disappointment
+in the sound of someone's voice</span>
+<span class='talk-transcript__fragment' data-time='641830' id='t-641830'>was and, I would say, still is</span>
+<span class='talk-transcript__fragment' data-time='644593' id='t-644593'>our single greatest motivator
+to keep improving.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='648073' id='t-648073'>Thankfully, out of the 123 million nights
+we've ever hosted,</span>
+<span class='talk-transcript__fragment' data-time='653932' id='t-653932'>less than a fraction of a percent
+have been problematic.</span>
+<span class='talk-transcript__fragment' data-time='658447' id='t-658447'>Turns out, people
+are justified in their trust.</span>
+<span class='talk-transcript__fragment' data-time='661705' id='t-661705'>And when trust works out right,</span>
+<span class='talk-transcript__fragment' data-time='663951' id='t-663951'>it can be absolutely magical.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='667417' id='t-667417'>We had a guest stay
+with a host in Uruguay,</span>
+<span class='talk-transcript__fragment' data-time='670111' id='t-670111'>and he suffered a heart attack.</span>
+<span class='talk-transcript__fragment' data-time='672274' id='t-672274'>The host rushed him to the hospital.</span>
+<span class='talk-transcript__fragment' data-time='675354' id='t-675354'>They donated their own blood
+for his operation.</span>
+<span class='talk-transcript__fragment' data-time='679342' id='t-679342'>Let me read you his review.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='681916' id='t-681916'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='689053' id='t-689053'>&quot;Excellent house for sedentary travelers</span>
+<span class='talk-transcript__fragment' data-time='691356' id='t-691356'>prone to myocardial infarctions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='693623' id='t-693623'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='696557' id='t-696557'>The area is beautiful and has
+direct access to the best hospitals.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='700528' id='t-700528'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='702036' id='t-702036'>Javier and Alejandra instantly
+become guardian angels</span>
+<span class='talk-transcript__fragment' data-time='705589' id='t-705589'>who will save your life
+without even knowing you.</span>
+<span class='talk-transcript__fragment' data-time='709470' id='t-709470'>They will rush you to the hospital
+in their own car while you're dying</span>
+<span class='talk-transcript__fragment' data-time='713106' id='t-713106'>and stay in the waiting room
+while the doctors give you a bypass.</span>
+<span class='talk-transcript__fragment' data-time='717268' id='t-717268'>They don't want you to feel lonely,
+they bring you books to read.</span>
+<span class='talk-transcript__fragment' data-time='720578' id='t-720578'>And they let you stay at their house
+extra nights without charging you.</span>
+<span class='talk-transcript__fragment' data-time='724629' id='t-724629'>Highly recommended!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='725883' id='t-725883'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='734342' id='t-734342'>Of course, not every stay is like that.</span>
+<span class='talk-transcript__fragment' data-time='737089' id='t-737089'>But this connection beyond the transaction</span>
+<span class='talk-transcript__fragment' data-time='739811' id='t-739811'>is exactly what the sharing
+economy is aiming for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='743740' id='t-743740'>Now, when I heard that term,</span>
+<span class='talk-transcript__fragment' data-time='745833' id='t-745833'>I have to admit, it tripped me up.</span>
+<span class='talk-transcript__fragment' data-time='748783' id='t-748783'>How do sharing
+and transactions go together?</span>
+<span class='talk-transcript__fragment' data-time='752059' id='t-752059'>So let's be clear; it is about commerce.</span>
+<span class='talk-transcript__fragment' data-time='755832' id='t-755832'>But if you just called it
+the rental economy,</span>
+<span class='talk-transcript__fragment' data-time='758180' id='t-758180'>it would be incomplete.</span>
+<span class='talk-transcript__fragment' data-time='760576' id='t-760576'>The sharing economy is commerce
+with the promise of human connection.</span>
+<span class='talk-transcript__fragment' data-time='765612' id='t-765612'>People share a part of themselves,</span>
+<span class='talk-transcript__fragment' data-time='768513' id='t-768513'>and that changes everything.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='771428' id='t-771428'>You know how most travel today is, like,</span>
+<span class='talk-transcript__fragment' data-time='773877' id='t-773877'>I think of it like fast food --</span>
+<span class='talk-transcript__fragment' data-time='775632' id='t-775632'>it's efficient and consistent,</span>
+<span class='talk-transcript__fragment' data-time='778833' id='t-778833'>at the cost of local and authentic.</span>
+<span class='talk-transcript__fragment' data-time='782932' id='t-782932'>What if travel were like
+a magnificent buffet</span>
+<span class='talk-transcript__fragment' data-time='785764' id='t-785764'>of local experiences?</span>
+<span class='talk-transcript__fragment' data-time='787437' id='t-787437'>What if anywhere you visited,</span>
+<span class='talk-transcript__fragment' data-time='790392' id='t-790392'>there was a central marketplace of locals</span>
+<span class='talk-transcript__fragment' data-time='792661' id='t-792661'>offering to get you thoroughly drunk</span>
+<span class='talk-transcript__fragment' data-time='795327' id='t-795327'>on a pub crawl in neighborhoods
+you didn't even know existed.</span>
+<span class='talk-transcript__fragment' data-time='800416' id='t-800416'>Or learning to cook from the chef
+of a five-star restaurant?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='805082' id='t-805082'>Today, homes are designed around
+the idea of privacy and separation.</span>
+<span class='talk-transcript__fragment' data-time='810246' id='t-810246'>What if homes were designed
+to be shared from the ground up?</span>
+<span class='talk-transcript__fragment' data-time='814433' id='t-814433'>What would that look like?</span>
+<span class='talk-transcript__fragment' data-time='817673' id='t-817673'>What if cities embraced
+a culture of sharing?</span>
+<span class='talk-transcript__fragment' data-time='821736' id='t-821736'>I see a future of shared cities
+that bring us community and connection</span>
+<span class='talk-transcript__fragment' data-time='826534' id='t-826534'>instead of isolation and separation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='829878' id='t-829878'>In South Korea, in the city of Seoul,</span>
+<span class='talk-transcript__fragment' data-time='831883' id='t-831883'>they've actually even started this.</span>
+<span class='talk-transcript__fragment' data-time='833590' id='t-833590'>They've repurposed hundreds
+of government parking spots</span>
+<span class='talk-transcript__fragment' data-time='836490' id='t-836490'>to be shared by residents.</span>
+<span class='talk-transcript__fragment' data-time='838866' id='t-838866'>They're connecting students
+who need a place to live</span>
+<span class='talk-transcript__fragment' data-time='841487' id='t-841487'>with empty-nesters who have extra rooms.</span>
+<span class='talk-transcript__fragment' data-time='844918' id='t-844918'>And they've started an incubator
+to help fund the next generation</span>
+<span class='talk-transcript__fragment' data-time='848606' id='t-848606'>of sharing economy start-ups.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='852960' id='t-852960'>Tonight, just on our service,</span>
+<span class='talk-transcript__fragment' data-time='857460' id='t-857460'>785,000 people</span>
+<span class='talk-transcript__fragment' data-time='861803' id='t-861803'>in 191 countries</span>
+<span class='talk-transcript__fragment' data-time='866976' id='t-866976'>will either stay in a stranger's home</span>
+<span class='talk-transcript__fragment' data-time='870154' id='t-870154'>or welcome one into theirs.</span>
+<span class='talk-transcript__fragment' data-time='874014' id='t-874014'>Clearly, it's not as crazy
+as we were taught.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='879169' id='t-879169'>We didn't invent anything new.</span>
+<span class='talk-transcript__fragment' data-time='881568' id='t-881568'>Hospitality has been around forever.</span>
+<span class='talk-transcript__fragment' data-time='886568' id='t-886568'>There's been many other
+websites like ours.</span>
+<span class='talk-transcript__fragment' data-time='890180' id='t-890180'>So, why did ours eventually take off?</span>
+<span class='talk-transcript__fragment' data-time='896513' id='t-896513'>Luck and timing aside,</span>
+<span class='talk-transcript__fragment' data-time='899311' id='t-899311'>I've learned that you can take
+the components of trust,</span>
+<span class='talk-transcript__fragment' data-time='901957' id='t-901957'>and you can design for that.</span>
+<span class='talk-transcript__fragment' data-time='907390' id='t-907390'>Design can overcome our most deeply rooted</span>
+<span class='talk-transcript__fragment' data-time='910395' id='t-910395'>stranger-danger bias.</span>
+<span class='talk-transcript__fragment' data-time='911998' id='t-911998'>And that's amazing to me.</span>
+<span class='talk-transcript__fragment' data-time='914304' id='t-914304'>It blows my mind.</span>
+<span class='talk-transcript__fragment' data-time='917184' id='t-917184'>I think about this every time
+I see a red Miata go by.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='921990' id='t-921990'>Now, we know design won't solve
+all the world's problems.</span>
+<span class='talk-transcript__fragment' data-time='928511' id='t-928511'>But if it can help out with this one,</span>
+<span class='talk-transcript__fragment' data-time='930318' id='t-930318'>if it can make a dent in this,</span>
+<span class='talk-transcript__fragment' data-time='932709' id='t-932709'>it makes me wonder,
+what else can we design for next?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='940341' id='t-940341'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='941516' id='t-941516'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

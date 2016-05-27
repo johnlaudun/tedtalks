@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Johnny Lee: Free or cheap Wii Remote hacks | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Johnny Lee: Free or cheap Wii Remote hacks | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Building sophisticated educational tools out of cheap parts, Johnny Lee demos his cool Wii Remote hacks, which turn the $40 video game controller into a digital whiteboard, a touchscreen and a head-mounted 3-D viewer." name="description" />
+<meta content="Johnny Lee" name="author" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=ky" hreflang="ky" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=lv" hreflang="lv" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=mk" hreflang="mk" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=nb" hreflang="nb" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=sl" hreflang="sl" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Free or cheap Wii Remote hacks&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a2028327d0f131b820d1e8b042bb482ddc66db1_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a2028327d0f131b820d1e8b042bb482ddc66db1_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Building sophisticated educational tools out of cheap parts, Johnny Lee demos his cool Wii Remote hacks, which turn the $40 video game controller into a digital whiteboard, a touchscreen and a head-mounted 3-D viewer." property="og:description" />
+<meta content="http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/245?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='johnny_lee_demos_wii_remote_hacks'>
+<option value='sq'>Albanian</option>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='ky'>Kyrgyz</option>
+<option value='lv'>Latvian</option>
+<option value='mk'>Macedonian</option>
+<option value='nb'>Norwegian Bokmal</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sk'>Slovak</option>
+<option value='sl'>Slovenian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/245?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="340" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a2028327d0f131b820d1e8b042bb482ddc66db1_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration"> 5:40</span></span>
+<span class='talk-link__image__message'>
+Under 6 minutes
+</span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Johnny Lee</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/245?language=en' lang='en'>
+Free or cheap Wii Remote hacks
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Apr 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Jaw-dropping
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1278' id='t-1278'>So, as researchers, something
+that we often do is use immense resources</span>
+<span class='talk-transcript__fragment' data-time='5523' id='t-5523'>to achieve certain capabilities,
+or achieve certain goals.</span>
+<span class='talk-transcript__fragment' data-time='8826' id='t-8826'>And this is essential
+to the progress of science,</span>
+<span class='talk-transcript__fragment' data-time='11385' id='t-11385'>or exploration of what is possible.</span>
+<span class='talk-transcript__fragment' data-time='13734' id='t-13734'>But it creates this unfortunate situation</span>
+<span class='talk-transcript__fragment' data-time='15766' id='t-15766'>where a tiny, tiny fraction of the world</span>
+<span class='talk-transcript__fragment' data-time='17806' id='t-17806'>can actually participate
+in this exploration</span>
+<span class='talk-transcript__fragment' data-time='19926' id='t-19926'>or can benefit from that technology.</span>
+<span class='talk-transcript__fragment' data-time='21771' id='t-21771'>Something that motivates me,</span>
+<span class='talk-transcript__fragment' data-time='23200' id='t-23200'>and gets me really excited
+about my research,</span>
+<span class='talk-transcript__fragment' data-time='25437' id='t-25437'>is when I see simple opportunities</span>
+<span class='talk-transcript__fragment' data-time='27167' id='t-27167'>to drastically change that distribution
+and make the technology accessible</span>
+<span class='talk-transcript__fragment' data-time='30991' id='t-30991'>to a much wider percentage
+of the population.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='33124' id='t-33124'>I'm going to show you two videos
+that have gotten a lot of attention</span>
+<span class='talk-transcript__fragment' data-time='36680' id='t-36680'>that I think embody this philosophy.</span>
+<span class='talk-transcript__fragment' data-time='38474' id='t-38474'>And they actually use
+the Nintendo Wii Remote.</span>
+<span class='talk-transcript__fragment' data-time='40931' id='t-40931'>For those of you who aren't
+familiar with this device,</span>
+<span class='talk-transcript__fragment' data-time='43496' id='t-43496'>it's a $40 video game controller.</span>
+<span class='talk-transcript__fragment' data-time='46217' id='t-46217'>And it's mostly advertised
+for its motion-sensing capabilities:</span>
+<span class='talk-transcript__fragment' data-time='49386' id='t-49386'>so you can swing a tennis racket,
+or hit a baseball bat.</span>
+<span class='talk-transcript__fragment' data-time='52052' id='t-52052'>But what actually interests me a lot more</span>
+<span class='talk-transcript__fragment' data-time='54434' id='t-54434'>is the fact that in the tip
+of each controller</span>
+<span class='talk-transcript__fragment' data-time='56616' id='t-56616'>is a relatively high-performing
+infrared camera.</span>
+<span class='talk-transcript__fragment' data-time='59430' id='t-59430'>And I'm going to show you
+two demos of why this is useful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='63913' id='t-63913'>So here, I have my computer
+set up with the projector,</span>
+<span class='talk-transcript__fragment' data-time='66841' id='t-66841'>and I have a Wii Remote
+sitting on top of it.</span>
+<span class='talk-transcript__fragment' data-time='69222' id='t-69222'>And, for example, if you're in a school
+that doesn't have a lot money,</span>
+<span class='talk-transcript__fragment' data-time='73104' id='t-73104'>probably a lot of schools,</span>
+<span class='talk-transcript__fragment' data-time='74555' id='t-74555'>or if you're in an office environment,
+and you want an interactive whiteboard,</span>
+<span class='talk-transcript__fragment' data-time='78261' id='t-78261'>normally these cost
+about two to three thousand dollars.</span>
+<span class='talk-transcript__fragment' data-time='80935' id='t-80935'>So I'm going to show you
+how to create one with a Wii Remote.</span>
+<span class='talk-transcript__fragment' data-time='85067' id='t-85067'>Now, this requires
+another piece of hardware,</span>
+<span class='talk-transcript__fragment' data-time='88675' id='t-88675'>which is this infrared pen.</span>
+<span class='talk-transcript__fragment' data-time='90267' id='t-90267'>You can probably make
+this yourself for about five dollars</span>
+<span class='talk-transcript__fragment' data-time='93101' id='t-93101'>with a quick trip to the Radio Shack.</span>
+<span class='talk-transcript__fragment' data-time='94957' id='t-94957'>It's got a battery,
+a button and an infrared LED --</span>
+<span class='talk-transcript__fragment' data-time='97539' id='t-97539'>you guys can't see it --</span>
+<span class='talk-transcript__fragment' data-time='98721' id='t-98721'>but it turns on
+whenever I push the button.</span>
+<span class='talk-transcript__fragment' data-time='100976' id='t-100976'>Now, what this means is
+that if I run this piece of software,</span>
+<span class='talk-transcript__fragment' data-time='105538' id='t-105538'>the camera sees the infrared dot,</span>
+<span class='talk-transcript__fragment' data-time='109975' id='t-109975'>and I can register the location
+of the camera pixels</span>
+<span class='talk-transcript__fragment' data-time='114184' id='t-114184'>to the projector pixels.</span>
+<span class='talk-transcript__fragment' data-time='115351' id='t-115351'>And now this is like
+an interactive whiteboard surface.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='118057' id='t-118057'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='119803' id='t-119803'>So for about $50 of hardware,
+you can have your own whiteboard.</span>
+<span class='talk-transcript__fragment' data-time='123716' id='t-123716'>This is Adobe Photoshop.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='125923' id='t-125923'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='131612' id='t-131612'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='132692' id='t-132692'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='134349' id='t-134349'>The software for this
+I've actually put on my website</span>
+<span class='talk-transcript__fragment' data-time='136984' id='t-136984'>and have let people download it for free.</span>
+<span class='talk-transcript__fragment' data-time='139015' id='t-139015'>In the three months
+this project has been public,</span>
+<span class='talk-transcript__fragment' data-time='141410' id='t-141410'>it's been downloaded
+over half a million times.</span>
+<span class='talk-transcript__fragment' data-time='143702' id='t-143702'>So teachers and students
+all around the world</span>
+<span class='talk-transcript__fragment' data-time='145967' id='t-145967'>are already using this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='147337' id='t-147337'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='152760' id='t-152760'>Although it does do it for 50 dollars,</span>
+<span class='talk-transcript__fragment' data-time='155077' id='t-155077'>there are some limitations
+of this approach.</span>
+<span class='talk-transcript__fragment' data-time='157158' id='t-157158'>You get about 80 percent of the way there,
+for one percent of the cost.</span>
+<span class='talk-transcript__fragment' data-time='160584' id='t-160584'>Another nice thing is that a camera
+can see multiple dots,</span>
+<span class='talk-transcript__fragment' data-time='163386' id='t-163386'>so this is actually a multi-touch,
+interactive whiteboard system as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='166873' id='t-166873'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='169095' id='t-169095'>For the second demo,</span>
+<span class='talk-transcript__fragment' data-time='170247' id='t-170247'>I have this Wii Remote
+that's actually next to the TV.</span>
+<span class='talk-transcript__fragment' data-time='172895' id='t-172895'>So it's pointing away from the display,
+rather than pointing at the display.</span>
+<span class='talk-transcript__fragment' data-time='177119' id='t-177119'>And why this is interesting</span>
+<span class='talk-transcript__fragment' data-time='179406' id='t-179406'>is that if you put on, say,
+a pair of safety glasses,</span>
+<span class='talk-transcript__fragment' data-time='183144' id='t-183144'>that have two infrared dots in them,</span>
+<span class='talk-transcript__fragment' data-time='184982' id='t-184982'>they are going to give the computer
+an approximation of your head location.</span>
+<span class='talk-transcript__fragment' data-time='190259' id='t-190259'>And why this is interesting</span>
+<span class='talk-transcript__fragment' data-time='191585' id='t-191585'>is I have this sort of application
+running on the computer monitor,</span>
+<span class='talk-transcript__fragment' data-time='194752' id='t-194752'>which has a 3D room,
+with some targets floating in it.</span>
+<span class='talk-transcript__fragment' data-time='197308' id='t-197308'>And you can see that it
+looks like a 3D room.</span>
+<span class='talk-transcript__fragment' data-time='199571' id='t-199571'>kind of like a video game,
+it sort of looks 3D,</span>
+<span class='talk-transcript__fragment' data-time='202942' id='t-202942'>but for the most part,
+the image looks pretty flat,</span>
+<span class='talk-transcript__fragment' data-time='205433' id='t-205433'>and bound to the surface of the screen.</span>
+<span class='talk-transcript__fragment' data-time='207315' id='t-207315'>But if we turn on head tracking --</span>
+<span class='talk-transcript__fragment' data-time='212720' id='t-212720'>the computer can change
+the image that's on the screen</span>
+<span class='talk-transcript__fragment' data-time='215529' id='t-215529'>and make it respond to the head movements.</span>
+<span class='talk-transcript__fragment' data-time='217569' id='t-217569'>So let's switch back to that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='218974' id='t-218974'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='232645' id='t-232645'>So this has actually
+been a little bit startling</span>
+<span class='talk-transcript__fragment' data-time='235888' id='t-235888'>to the game-development community.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='237546' id='t-237546'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='239392' id='t-239392'>Because this is about 10 dollars
+of additional hardware</span>
+<span class='talk-transcript__fragment' data-time='242272' id='t-242272'>if you already have a Nintendo Wii.</span>
+<span class='talk-transcript__fragment' data-time='244155' id='t-244155'>So I'm looking forward
+to seeing some games,</span>
+<span class='talk-transcript__fragment' data-time='246464' id='t-246464'>and actually Louis Castle,
+that's him down there,</span>
+<span class='talk-transcript__fragment' data-time='248983' id='t-248983'>last week announced that Electronic Arts,
+one of the largest game publishers,</span>
+<span class='talk-transcript__fragment' data-time='252646' id='t-252646'>is releasing a game in May
+that has a little Easter egg feature</span>
+<span class='talk-transcript__fragment' data-time='255671' id='t-255671'>for supporting this type of head tracking.</span>
+<span class='talk-transcript__fragment' data-time='257988' id='t-257988'>And that's from less than five months</span>
+<span class='talk-transcript__fragment' data-time='259938' id='t-259938'>from a prototype in my lab
+to a major commercial product.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='263088' id='t-263088'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='268605' id='t-268605'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='269858' id='t-269858'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='272121' id='t-272121'>But actually, to me,
+what's almost more interesting</span>
+<span class='talk-transcript__fragment' data-time='274544' id='t-274544'>than either of these two projects</span>
+<span class='talk-transcript__fragment' data-time='276140' id='t-276140'>is how people actually
+found out about them.</span>
+<span class='talk-transcript__fragment' data-time='278459' id='t-278459'>YouTube has really changed the way,
+or changed the speed,</span>
+<span class='talk-transcript__fragment' data-time='282023' id='t-282023'>in which a single individual</span>
+<span class='talk-transcript__fragment' data-time='283381' id='t-283381'>can actually spread
+an idea around the world.</span>
+<span class='talk-transcript__fragment' data-time='285632' id='t-285632'>I'm doing some research
+in my lab with a video camera,</span>
+<span class='talk-transcript__fragment' data-time='288656' id='t-288656'>and within the first week,
+a million people had seen this work,</span>
+<span class='talk-transcript__fragment' data-time='291633' id='t-291633'>and literally within days,
+engineers, teachers and students</span>
+<span class='talk-transcript__fragment' data-time='295248' id='t-295248'>from around the world were already
+posting their own YouTube videos</span>
+<span class='talk-transcript__fragment' data-time='298463' id='t-298463'>of them using my system
+or derivatives of this work.</span>
+<span class='talk-transcript__fragment' data-time='301847' id='t-301847'>So I hope to see more
+of that in the future,</span>
+<span class='talk-transcript__fragment' data-time='304411' id='t-304411'>and hope online video distribution
+to be embraced by the research community.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='308007' id='t-308007'>So thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='309284' id='t-309284'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

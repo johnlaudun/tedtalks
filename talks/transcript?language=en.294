@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Caleb Chung: Playtime with Pleo, your robotic dinosaur friend | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Caleb Chung: Playtime with Pleo, your robotic dinosaur friend | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Pleo the robot dinosaur acts like a living pet -- exploring, cuddling, playing, reacting and learning. Inventor Caleb Chung talks about Pleo and his wild toy career at EG07, on the week that Pleo shipped to stores for the first time." name="description" />
+<meta content="Caleb Chung" name="author" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;Playtime with Pleo, your robotic dinosaur friend&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67af888458ee73293dfb5c92d5624ae56db851db_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67af888458ee73293dfb5c92d5624ae56db851db_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Pleo the robot dinosaur acts like a living pet -- exploring, cuddling, playing, reacting and learning. Inventor Caleb Chung talks about Pleo and his wild toy career at EG07, on the week that Pleo shipped to stores for the first time." property="og:description" />
+<meta content="http://www.ted.com/talks/caleb_chung_plays_with_pleo/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/350?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='caleb_chung_plays_with_pleo'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/350?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1107" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67af888458ee73293dfb5c92d5624ae56db851db_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:27</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Caleb Chung</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/350?language=en' lang='en'>
+Playtime with Pleo, your robotic dinosaur friend
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I'm a, or was, or kind of am a toy designer.</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>And before I was a toy designer, oh, I was a mime, a street mime, actually.</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>And then I was an entertainer, I guess.</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>And before that, I was a silversmith, and before that, I was --</span>
+<span class='talk-transcript__fragment' data-time='15000' id='t-15000'>I was out of the house at about 15 and a half,</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>and I never wound up going into college.</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>I didn't really -- I didn't see the point at the time.</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>I do now, after learning about all the quantum stuff.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='27000' id='t-27000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='30000' id='t-30000'>It's really cool.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>Anyway, I wanted to show you a little bit about the world of toy design,</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>at least from my small aperture of the world.</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>This is a video I made when I first started doing toy design.</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>I'm in my garage, making weird stuff.</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>And then you go to these toy companies</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>and there's some guy across the table,</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>and he goes, &quot;Pass. Pass. Pass.&quot;</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>You know, you think it's so cool, but they --</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>anyway, I made this little tape that I'd always show when I go in.</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>This is the name of my company, Giving Toys.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>So I used to work at Mattel, actually.</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>And after I left Mattel, I started all these hamburger makers,</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>and then got the license to make the maker.</span>
+<span class='talk-transcript__fragment' data-time='68000' id='t-68000'>So this is a hamburger maker that</span>
+<span class='talk-transcript__fragment' data-time='70000' id='t-70000'>you take the peanut butter and stuff and you put it in there, and it makes --</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>and this is a French fry maker, little, tiny food you can eat.</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>I beat up the pasta maker to make that.</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>Then this is a McNugget maker, I think.</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>This, now that's the McNugget maker,</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>and this is a -- this is my oldest daughter making a McApple Pie.</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>And let's see, you can make the pie and cinnamon and sugar,</span>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>and then you eat, and you eat, and you eat, and you --</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>she's about 300 pounds now.</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>No, she's not, she's beautiful.</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>This is how they looked when they came out at the end.</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>These are a -- this is like a 15 million dollar line.</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>And it got me through some -- I didn't make any royalties on this, but it got me through.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>Next is a compilation of a bunch of stuff.</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>That was a missile foam launcher that didn't get sold.</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>This is a squishy head, for no apparent reason.</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>This is some effects that I did for &quot;Wig, Rattle and Roll.&quot;</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>That was a robot eye thing controlling it in the back.</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>That paid the rent for about a month.</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>This is a walking Barbie -- I said, &quot;Oh, this is it!&quot;</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>And they go, &quot;Oh, that's really nice,&quot; and out it goes.</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>So this is some fighting robots. I thought everyone would want these.</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>They fight, they get back up, you know? Wouldn't this be cool?</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>And they made it into a toy, and then they dropped it like a hot rock.</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>They're pretty cool.</span>
+<span class='talk-transcript__fragment' data-time='145000' id='t-145000'>This is a-- we're doing some flight-testing</span>
+<span class='talk-transcript__fragment' data-time='147000' id='t-147000'>on my little pug, seeing if this can really grab.</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>It does pretty good.</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>I'm using little phone connectors to make them so they can spin.</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>It's how they, see, have those album things -- kids don't know what they are.</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>This is a clay maker.</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>You know, I said -- I went to Play-Doh,</span>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>and said, &quot;Look, I can animate this.&quot;</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>They said, &quot;Don't talk to us about Play-Doh.&quot;</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>And then, I made a Lego animator.</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>I thought, this would be so great!</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>And you know, Lego -- don't take Legos to Lego.</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>That's the answer. They know everything about it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>Then I started doing animatronics.</span>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>I loved dinosaurs.</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>I used to be in the film business, kind of,</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>and actually, Nicholas Negroponte saw this when I was, like, 12,</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>and anyway, so then they said, &quot;No, you have to make two and they have to fight.&quot;</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>You know, how -- why would a kid want a dinosaur?</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>This is me using [unclear] or 3-D Studio, back in the '80s.</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>That's David Letterman.</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>You can see how old this stuff is.</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>That's my youngest cousin.</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>This is a segment called, &quot;Dangerous Toys You Won't See at Christmas.&quot;</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>We had my first saw blade launcher and we had a flamethrower chair.</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>My career basically peaked here.</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>And in the back are foam-core cutouts of the people who couldn't make it to the show.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>This is MEK going through a windshield wiper motor.</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>So this is a -- I used to kind of be an actor.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>And I'm really not very good at it.</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>But the -- this is a guy named Dr. Yatz,</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>who would take toys apart and show kids about engineering.</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>And you can see the massively parallel processing Nintendos there.</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>And over to the left is a view master of the CD-ROM.</span>
+<span class='talk-transcript__fragment' data-time='245000' id='t-245000'>And a guy named Stan Reznikov did this as a pilot.</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>This is a -- you can see the little window there.</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>You can actually see the Steadicam with a bubble on the bottom.</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>You see the keyboard strapped to my wrist.</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>Way ahead of my time here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>(Video) I'm getting dizzy ...</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>Narrator: I love toys!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>Caleb Chung: That's all I wanted to say there. I love toys.</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>OK, so, so that was a, that was the first kind of a --</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>that was the first batch of products.</span>
+<span class='talk-transcript__fragment' data-time='287000' id='t-287000'>Most of them did not go.</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>You get one out of 20, one out of 30 products.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>And every now and then, we do something like a,</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>you know, an automated hair wrap machine, you know,</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>that tangles your hair and pulls your scalp out, and --</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>and we'd make some money on that, you know. And we'd give it out.</span>
+<span class='talk-transcript__fragment' data-time='301000' id='t-301000'>But eventually, we left L.A., and we moved to Idaho,</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>where there was actually a lot of peace and quiet.</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>And I started working on this project</span>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>-- oh, I have to tell you about this real quick.</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>Throughout this whole thing, making toys,</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>I think there is a real correlation with innovation and art and science.</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>There's some kind of a blend that happens</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>that allows, you know, to find innovation.</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>And I tried to sum this up in some kind of symbol</span>
+<span class='talk-transcript__fragment' data-time='327000' id='t-327000'>that means something, to me anyway.</span>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>And so, art and science have a kind of dynamic balance,</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>that's where I think innovation happens.</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>And actually, this is, to me, how I can come up with great ideas.</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>But it's not how you actually get leverage.</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>Actually, you have to put a circle around that, and call it business.</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>And those three together, I think, give you leverage in the world.</span>
+<span class='talk-transcript__fragment' data-time='346000' id='t-346000'>But moving on.</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>So, this is a quick tale I'm going to tell. This is the Furby tale.</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>As he said, I was co-inventor of the Furby.</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>I did the body and creature -- well, you'll see.</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>So by way of showing you this, you can kind of</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>get an understanding of what it is to,</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>hopefully, try to create robotic life forms, or technology</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>that has an emotional connection with the user.</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>So this is my family.</span>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>This is my wife, Christi, and Abby, and Melissa,</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>and my 17-year-old now, Emily, who was just a pack of trouble.</span>
+<span class='talk-transcript__fragment' data-time='379000' id='t-379000'>All right, there's that robot again.</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>I came out of the movie business, as I said,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>and I said, let's make these animatronic robots.</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>Let's make these things.</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>And so I've always had a big interest in this.</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>This one actually didn't go anywhere,</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>but I got my feet wet doing this.</span>
+<span class='talk-transcript__fragment' data-time='392000' id='t-392000'>This is a smaller one, and I have a little moving torso on there.</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>A little, tiny guy walks along. More servo drives,</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>lots of servo hacking, lots of mechanical stuff.</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>There's another one.</span>
+<span class='talk-transcript__fragment' data-time='401000' id='t-401000'>He actually has skeletor legs, I think, he's wearing there.</span>
+<span class='talk-transcript__fragment' data-time='404000' id='t-404000'>Oh, this is a little pony, little pony -- very cute little thing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>The point of showing these is I've always been interested in little artificial life pieces.</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>So the challenge was -- I worked for Microsoft for a little bit,</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>working on the Microsoft Barney.</span>
+<span class='talk-transcript__fragment' data-time='416000' id='t-416000'>And this is a -- you know, the purple dinosaur with kind of bloat wear.</span>
+<span class='talk-transcript__fragment' data-time='421000' id='t-421000'>And, you know, they had lots, just lots of stuff in there that you didn't need, I thought.</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>And then Microsoft can just fill a, you know, a warehouse</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>full of this stuff and see if they sell.</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>So it's a really strange business model compared to coming from a toy company.</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>But anyway, a friend of mine and I, Dave Hampton,</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>decided to see if we could do like a single-cell organism.</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>What's the fewest pieces we could use to make a little life form?</span>
+<span class='talk-transcript__fragment' data-time='443000' id='t-443000'>And that's our little, thirty-cent Mabuchi motor.</span>
+<span class='talk-transcript__fragment' data-time='445000' id='t-445000'>And so, I have all these design books,</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>like I'm sure many of you have.</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>And throughout the books -- this is the first page on Furby --</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>I have kind of the art and science.</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>I have the why over here, and the how over there.</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>I try to do a lot of philosophy, a lot of thinking about all of these projects.</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>Because they're not just &quot;bing&quot; ideas;</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>you have to really dig deep in these things.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>So there's some real pseudo-code over here,</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>and getting the idea of different kind of drives, things like that.</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>And originally, Furby only had two eyes and some batteries on the bottom.</span>
+<span class='talk-transcript__fragment' data-time='471000' id='t-471000'>And then we said, well, you're going to feed him,</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>and he needs to talk, and it got more complicated.</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>And then I had to figure out how I'm going to use that one motor</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>to make the eyes move, and the ears move,</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>and the body to move, and the mouth to move.</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>And, you know, I want to make it blink</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>and do all that at the same time.</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>Well, I came up with this kind of linear</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>expression thing with these cams and feedback. And that worked pretty well.</span>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>Then I started to get a little more realistic</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>and I have to start drawing the stuff.</span>
+<span class='talk-transcript__fragment' data-time='492000' id='t-492000'>And there's my &quot;note to self&quot; at the top:</span>
+<span class='talk-transcript__fragment' data-time='494000' id='t-494000'>&quot;lots of engineering.&quot;</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>So that turned out to be a little more than true.</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>There's my first exploded view and all the little pieces</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>and the little worm drive and all that stuff.</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>And then I've got to start building it,</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>so this is the real thing.</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>I get up and start cutting my finger and gluing things together.</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>And that's my little workshop.</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>And there's the first little cam that drove Furby.</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>And there's Furby on the half shell.</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>You can see the little BB in the box is my tilt sensor.</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>I just basically gnawed all this stuff out of plastic.</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>So there's the back of his head with a billion holes in it.</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>And there I am. I'm done. There's my little Furby.</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>No, it's a little robot on heroin or something, I think.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>So right now, you see, I love little robots.</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>So my wife says, &quot;Well, you may like it, but nobody else will.&quot;</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>So she comes to the rescue.</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>This is my wife Christi, who is just, you know,</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>my muse and my partner for eternity here.</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>And she does drawings, right?</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>She's an actual, you know, artist.</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>And she starts doing all these different drawings</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>and does color patterns and coloring books.</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>And I like the guy with the cigar at the bottom there.</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>He didn't test so well, but I like him.</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>And then she started doing these other images.</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>At that time, Beanie Babies was a big hit,</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>and we thought, we'll do a bunch of different ones.</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>So here's a little pink one, a little pouf on his head.</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>And here's -- this didn't do so well in testing either, I don't know why.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>There's my favorite, Demon Furby.</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>That was a good one.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>Anyway, finally settled on kind of this kind of a look,</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>little poufy body, a little imaginary character.</span>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>And there he is, a little bush baby on -- caught in the headlights there.</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>I actually went to Toys&quot;R&quot;Us, got a little furry cat,</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>ripped it apart and made this.</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>And since then, every time I come home from Toys&quot;R&quot;Us</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>with dolls or something, they disappear from my desk</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>and they get hidden in the house.</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>I have three girls and they just, they --</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>it's like a rescue animal thing they're going there.</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>So, a little tether coming off,</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>it's just a control for the Fur's mouth and his eyes.</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>It's just a little server control and I made a little video going:</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>&quot;Hi, my name's Furby, and I'm good,&quot;</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>you know, and then I'd reach my hand.</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>He'd -- you can tickle him. When I put my hand up,</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>&quot;Ha, ha, ha, ha&quot; and that's how we sold him.</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>And Hasbro actually said, I meant Tiger Electronics at the time,</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>said, &quot;Yeah, we want to do this.</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>We have, you know, 13 weeks or something to Toy Fair,</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>and we're going to hire you guys to do this.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>And so Dave and I got working.</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>Mostly me, because it was all mechanics at this point.</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>So now I have to really figure out all kinds of stuff</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>I don't know how to do.</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>And I started working with Solid Works</span>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>and a whole other group to do that.</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>And we started --</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>this was way back before there was really much SLA going on,</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>not a lot of rapid prototyping.</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>We certainly didn't have the money to do this.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>They only paid me, like, a little bit of money to do this,</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>so I had to call a friend of a friend</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>who was running the GM prototype plant, SLA plant, that was down.</span>
+<span class='talk-transcript__fragment' data-time='645000' id='t-645000'>And they said, &quot;Yeah, well, we'll run them.&quot;</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>So they ran all the shells for us, which was nice of them.</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>And the cams I got cut at Hewlett Packard.</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>We snuck in on the weekend.</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>And so we just had a disc of the files.</span>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>But they have a closed system, so you couldn't print the things out on the machine.</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>So we actually printed them out on clear and taped them on the monitors.</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>And on the weekend we ran the parts for that.</span>
+<span class='talk-transcript__fragment' data-time='663000' id='t-663000'>So this is how they come out close to the end.</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>And then they looked like little Garfields there.</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>Eight months later -- you may remember this,</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>this was a -- total, total, total chaos.</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>For a while, they were making two million Furbys a month.</span>
+<span class='talk-transcript__fragment' data-time='675000' id='t-675000'>They actually wound up doing about 40 million Furbys.</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>I -- it's unbelievable how -- I don't know how that can be.</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>And Hasbro made about, you know, a billion and a half dollars.</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>And I just a little bit on each one.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='686000' id='t-686000'>So full circle -- why do I do this?</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>Why do you, you know, try to do this stuff?</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>And it's, of course, for your kids.</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>And there's my youngest daughter with her Furbys.</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>And she still actually has those.</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>So I kind of retired, and we're already living in paradise</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>up in Boise, on a river, you know. So</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>and then I started another company called Toy Innovation</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>and we did some projects with Mattel with</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>actually with a lady who's here, Ivy Ross,</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>and we did Miracle Moves Baby,</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>made it in Wired magazine, did a bunch of other stuff.</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>And then I started another company.</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>We did a little hand-held device for teens that could hook up to the Internet,</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>won &quot;Best Innovations&quot; at CES,</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>but really I kind of slowed down and said, OK,</span>
+<span class='talk-transcript__fragment' data-time='723000' id='t-723000'>I just ... After a while, I had this old tape of this dinosaur,</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>and I gave it to this guy, and this other guy saw it,</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>and then people started to want to do it.</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>And they said they'd spend all this time.</span>
+<span class='talk-transcript__fragment' data-time='733000' id='t-733000'>So I said, &quot;OK, let's try to do this dinosaur project.&quot;</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>The crazy idea is we're going to try to clone a dinosaur</span>
+<span class='talk-transcript__fragment' data-time='739000' id='t-739000'>as much as we can with today's technology.</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>And it's not really -- but as close as we can do.</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>And we're going to try to really pull this off,</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>intentfully try to make something that seems like it's alive.</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>Not a robot that kind of does, but let's really go for it.</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>So I picked a Camarasaurus,</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>because the Camarasaurus was the most abundant of the sauropods in North America.</span>
+<span class='talk-transcript__fragment' data-time='760000' id='t-760000'>And you could actually find full fossil evidence of these.</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>That's a juvenile.</span>
+<span class='talk-transcript__fragment' data-time='764000' id='t-764000'>And so we actually went in.</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>There's a book called &quot;Walking on Eggshells,&quot;</span>
+<span class='talk-transcript__fragment' data-time='767000' id='t-767000'>where they found actual sauropod skin in Patagonia.</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>And the picture from the book, so when I --</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>I told the sculptor to use this bump pattern, whatever you can to copy that.</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>Very, very obsessive.</span>
+<span class='talk-transcript__fragment' data-time='777000' id='t-777000'>There's a kind of truncated Camarasaurus skeleton,</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>but the geometry's correct.</span>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>And then I went in, and measured all the geometry</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>because I figured, hey, biomimicry.</span>
+<span class='talk-transcript__fragment' data-time='784000' id='t-784000'>If I do it kind of right, it might move kind of like the real thing.</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>So there's the motor.</span>
+<span class='talk-transcript__fragment' data-time='789000' id='t-789000'>And about this time, you know, all these other people are starting to help.</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>Here's an example of what we did with the skull.</span>
+<span class='talk-transcript__fragment' data-time='793000' id='t-793000'>There's the skull, there's my drawing of a skull.</span>
+<span class='talk-transcript__fragment' data-time='796000' id='t-796000'>There's kind of the skin version of the soft tissue.</span>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>There's the mechanism that would go in there,</span>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>kind of a Geneva drive.</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>There's some Solid Works versions of it.</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>Here's some SLA parts of the same thing.</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>And then, these are really crude pieces. We were just doing some tests here.</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>There's the skull, pretty much the same shape as the Camarasaurus.</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>There's a photorealistic eye behind a lens.</span>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>And there's kind of the first exploded view, or see-through view.</span>
+<span class='talk-transcript__fragment' data-time='818000' id='t-818000'>There's the first SLA version, and it already kind of has the feel,</span>
+<span class='talk-transcript__fragment' data-time='822000' id='t-822000'>it has kind of a cuteness already.</span>
+<span class='talk-transcript__fragment' data-time='824000' id='t-824000'>And the thing about blending science and art</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>in this multidisciplinary stuff is you can do a robot,</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>and then you go back and do the shape,</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>and then you go back and forth.</span>
+<span class='talk-transcript__fragment' data-time='831000' id='t-831000'>The servos in the front legs, we had to shape those like muscles.</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>They had to fit within the envelope.</span>
+<span class='talk-transcript__fragment' data-time='835000' id='t-835000'>There was a tremendous amount of work to get all that working right.</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>All the neck and the tail are cable,</span>
+<span class='talk-transcript__fragment' data-time='840000' id='t-840000'>so it moves smoothly and organically.</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>And then, of course, you're not done yet.</span>
+<span class='talk-transcript__fragment' data-time='843000' id='t-843000'>You have to get the look for the skin.</span>
+<span class='talk-transcript__fragment' data-time='845000' id='t-845000'>The skin's a whole another thing, probably the hardest part.</span>
+<span class='talk-transcript__fragment' data-time='848000' id='t-848000'>So you hire artists, and you try to get the look and feel</span>
+<span class='talk-transcript__fragment' data-time='850000' id='t-850000'>of the character.</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>Now, this is not -- we're character designers, right?</span>
+<span class='talk-transcript__fragment' data-time='853000' id='t-853000'>And we're still trying to keep with the real character.</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>So, now you go back and you cover the whole thing with clay.</span>
+<span class='talk-transcript__fragment' data-time='858000' id='t-858000'>Now you start doing the sculpture for this.</span>
+<span class='talk-transcript__fragment' data-time='861000' id='t-861000'>And you can see we got a guy from --</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>who's just a fanatic about dinosaurs</span>
+<span class='talk-transcript__fragment' data-time='865000' id='t-865000'>to do the sculpting for us,</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>down to the spoon-shaped teeth and everything.</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>And then more sculpting, and then more sculpting,</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>and then more sculpting, and then more sculpting.</span>
+<span class='talk-transcript__fragment' data-time='871000' id='t-871000'>And then, four years and 10 million dollars later,</span>
+<span class='talk-transcript__fragment' data-time='874000' id='t-874000'>we have a little Pleo.</span>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>John, do you want to bring him up?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='878000' id='t-878000'>John Sosoka is our CTO, and is really the man</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>that's done most of the work with our 40-person company.</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>I'd like to give John a hand. He never gets recognition. This is John Sosoka.</span>
+<span class='talk-transcript__fragment' data-time='886000' id='t-886000'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>So, thank you, John, thank you,</span>
+<span class='talk-transcript__fragment' data-time='892000' id='t-892000'>and get back to work, all right, man?</span>
+<span class='talk-transcript__fragment' data-time='894000' id='t-894000'>All right --</span>
+<span class='talk-transcript__fragment' data-time='895000' id='t-895000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>-- no, it's very painful, so --</span>
+<span class='talk-transcript__fragment' data-time='900000' id='t-900000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>-- these are little Pleos and you can probably see them.</span>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>This -- I on purpose -- they go through life stages.</span>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>So when you first get them, they're babies.</span>
+<span class='talk-transcript__fragment' data-time='911000' id='t-911000'>And you -- more you have them, kind of the older they get,</span>
+<span class='talk-transcript__fragment' data-time='913000' id='t-913000'>and they kind of learn through their behavior.</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>So this one, this one's actually asleep, and -- hang on.</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>Pleo, wake up. Pleo, come on.</span>
+<span class='talk-transcript__fragment' data-time='923000' id='t-923000'>So this guy's listening to my voice here.</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>But they have 40 sensors all over their body.</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>They have seven processors, they have 14 motors,</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>they have --</span>
+<span class='talk-transcript__fragment' data-time='933000' id='t-933000'>but you don't care, do you?</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>They're just cute, right? That's the idea, that's the idea.</span>
+<span class='talk-transcript__fragment' data-time='938000' id='t-938000'>So you see -- hey, come on. Hey, did you feel that?</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>There's something big and loud over here.</span>
+<span class='talk-transcript__fragment' data-time='943000' id='t-943000'>Hey.</span>
+<span class='talk-transcript__fragment' data-time='944000' id='t-944000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='948000' id='t-948000'>That's good, wake up, wake up, wake up.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>Yeah, they're like kids, you know.</span>
+<span class='talk-transcript__fragment' data-time='951000' id='t-951000'>You, yeah, yeah. Okay, he's hungry.</span>
+<span class='talk-transcript__fragment' data-time='953000' id='t-953000'>I'll show you what he's been doing for, for four years.</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>Here, here, here. Have some money, Pleo.</span>
+<span class='talk-transcript__fragment' data-time='958000' id='t-958000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='959000' id='t-959000'>There you go.</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>That's what the investors think, that it's just --</span>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='969000' id='t-969000'>-- right, right. So they're really sweet little guys.</span>
+<span class='talk-transcript__fragment' data-time='972000' id='t-972000'>And we're hoping that -- you know,</span>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>our belief is that humans need to feel empathy towards things</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>in order to be more human.</span>
+<span class='talk-transcript__fragment' data-time='981000' id='t-981000'>And we think we can help that out by having</span>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>little creatures that you can love.</span>
+<span class='talk-transcript__fragment' data-time='986000' id='t-986000'>Now these are not robots, they're kind of lovebots, you know.</span>
+<span class='talk-transcript__fragment' data-time='989000' id='t-989000'>They do change over time.</span>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>But mostly they evoke a feeling of caring.</span>
+<span class='talk-transcript__fragment' data-time='994000' id='t-994000'>And we have a -- I have a little something here.</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>Now I do want to say that, you know, Ugobe is not there yet.</span>
+<span class='talk-transcript__fragment' data-time='1005000' id='t-1005000'>We've just opened the door, and it's for all of you to step through it.</span>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>We did include some things that are hopefully useful.</span>
+<span class='talk-transcript__fragment' data-time='1011000' id='t-1011000'>Excuse me, Pleo.</span>
+<span class='talk-transcript__fragment' data-time='1012000' id='t-1012000'>They -- he has a USB and he has a SD card,</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>so it's completely open architecture.</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>So anyone can plug him -- (Applause) -- thank you.</span>
+<span class='talk-transcript__fragment' data-time='1018000' id='t-1018000'>This is John over here.</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>Anyone can take Pleo and they can totally redo his personality.</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>You can make him bipolar, or as someone said, a --</span>
+<span class='talk-transcript__fragment' data-time='1026000' id='t-1026000'>(Laughter) --</span>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>you can change his homeostatic drives, or whatever you want to call them.</span>
+<span class='talk-transcript__fragment' data-time='1034000' id='t-1034000'>Kids can just drag and drop, put in new sounds.</span>
+<span class='talk-transcript__fragment' data-time='1036000' id='t-1036000'>We -- actually, it's very hard to keep people from doing this.</span>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>We have one animator who's taken it and</span>
+<span class='talk-transcript__fragment' data-time='1042000' id='t-1042000'>he's done a take on the Budweiser beer commercial,</span>
+<span class='talk-transcript__fragment' data-time='1045000' id='t-1045000'>and they're going, &quot;Whassup,&quot; you know?</span>
+<span class='talk-transcript__fragment' data-time='1047000' id='t-1047000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='1049000' id='t-1049000'>You -- so it's -- yes, he likes that.</span>
+<span class='talk-transcript__fragment' data-time='1052000' id='t-1052000'>So they're a handful. We hope you get one.</span>
+<span class='talk-transcript__fragment' data-time='1055000' id='t-1055000'>I don't know what I'm missing to say,</span>
+<span class='talk-transcript__fragment' data-time='1057000' id='t-1057000'>but as a last thing, I'd like to say is that</span>
+<span class='talk-transcript__fragment' data-time='1061000' id='t-1061000'>if we continue along this path, we are designing our children's best friends.</span>
+<span class='talk-transcript__fragment' data-time='1066000' id='t-1066000'>And there's a lot of social responsibility in that.</span>
+<span class='talk-transcript__fragment' data-time='1068000' id='t-1068000'>That's why Pleo's soft and gentle and loving.</span>
+<span class='talk-transcript__fragment' data-time='1070000' id='t-1070000'>And so I just -- I hope we all dream well.</span>
+<span class='talk-transcript__fragment' data-time='1074000' id='t-1074000'>Thank you.</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

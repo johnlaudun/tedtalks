@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jay Bradner: Open-source cancer research | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Jay Bradner: Open-source cancer research | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: How does cancer know it&#39;s cancer? At Jay Bradner&#39;s lab, they found a molecule that might hold the answer, JQ1. But instead of patenting it and reaping the profits (as many other labs have done) -- they published their findings and mailed samples to 40 other labs to work on. An inspiring look at the open-source future of medical research." name="description" />
+<meta content="Jay Bradner" name="author" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=gl" hreflang="gl" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Open-source cancer research&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/250f797f6b7e4432cb076bbcbc0bf7c5f7c22ae6_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/250f797f6b7e4432cb076bbcbc0bf7c5f7c22ae6_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: How does cancer know it&#39;s cancer? At Jay Bradner&#39;s lab, they found a molecule that might hold the answer, JQ1. But instead of patenting it and reaping the profits (as many other labs have done) -- they published their findings and mailed samples to 40 other labs to work on. An inspiring look at the open-source future of medical research." property="og:description" />
+<meta content="http://www.ted.com/talks/jay_bradner_open_source_cancer_research/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1256?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='jay_bradner_open_source_cancer_research'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='gl'>Galician</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1256?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="767" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/250f797f6b7e4432cb076bbcbc0bf7c5f7c22ae6_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:47</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Jay Bradner</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1256?language=en' lang='en'>
+Open-source cancer research
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2011
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I moved to Boston 10 years ago, from Chicago,</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>with an interest in cancer and in chemistry.</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>You might know that chemistry is the science of making molecules --</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>or to my taste, new drugs for cancer.</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>And you might also know that, for science and medicine,</span>
+<span class='talk-transcript__fragment' data-time='17000' id='t-17000'>Boston is a bit of a candy store.</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>You can't roll a stop sign in Cambridge</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>without hitting a graduate student.</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>The bar is called the Miracle of Science.</span>
+<span class='talk-transcript__fragment' data-time='27000' id='t-27000'>The billboards say &quot;Lab Space Available.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>And it's fair to say that in these 10 years,</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>we've witnessed absolutely the start</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>of a scientific revolution -- that of genome medicine.</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>We know more about the patients that enter our clinic now</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>than ever before.</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>And we're able, finally, to answer the question</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>that's been so pressing for so many years:</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>why do I have cancer?</span>
+<span class='talk-transcript__fragment' data-time='51000' id='t-51000'>This information is also pretty staggering.</span>
+<span class='talk-transcript__fragment' data-time='53000' id='t-53000'>You might know that,</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>so far in just the dawn of this revolution,</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>we know that there are perhaps 40,000 unique mutations</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>affecting more than 10,000 genes,</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>and that there are 500 of these genes</span>
+<span class='talk-transcript__fragment' data-time='65000' id='t-65000'>that are bona-fide drivers,</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>causes of cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>Yet comparatively,</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>we have about a dozen targeted medications.</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>And this inadequacy of cancer medicine</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>really hit home when my father was diagnosed</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>with pancreatic cancer.</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>We didn't fly him to Boston.</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>We didn't sequence his genome.</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>It's been known for decades</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>what causes this malignancy.</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>It's three proteins --</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>Ras, Myc and P53.</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>This is old information we've known since about the 80s,</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>yet there's no medicine I can prescribe</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>to a patient with this</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>or any of the numerous solid tumors</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>caused by these three horsemen</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>of the apocalypse that is cancer.</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>There's no Ras, no Myc, no P53 drug.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='112000' id='t-112000'>And you might fairly ask: why is that?</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>And the very unsatisfying, yet scientific, answer</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>is it's too hard.</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>That for whatever reason,</span>
+<span class='talk-transcript__fragment' data-time='121000' id='t-121000'>these three proteins have entered a space in the language of our field</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>that's called the undruggable genome --</span>
+<span class='talk-transcript__fragment' data-time='126000' id='t-126000'>which is like calling a computer unsurfable</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>or the Moon unwalkable.</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>It's a horrible term of trade.</span>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>But what it means</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>is that we fail to identify a greasy pocket in these proteins,</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>into which we, like molecular locksmiths,</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>can fashion an active, small, organic molecule</span>
+<span class='talk-transcript__fragment' data-time='142000' id='t-142000'>or drug substance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>Now as I was training in clinical medicine</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>and hematology and oncology</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>and stem cell transplantation,</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>what we had instead,</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>cascading through the regulatory network at the FDA,</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>were these substances --</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>arsenic, thalidomide</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>and this chemical derivative</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>of nitrogen mustard gas.</span>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>And this is the 21st century.</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>And so, I guess you'd say, dissatisfied</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>with the performance and quality of these medicines,</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>I went back to school in chemistry</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>with the idea</span>
+<span class='talk-transcript__fragment' data-time='175000' id='t-175000'>that perhaps by learning the trade of discovery chemistry</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>and approaching it in the context of this brave new world</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>of the open-source,</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>the crowd-source,</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>the collaborative network that we have access to within academia,</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>that we might more quickly</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>bring powerful and targeted therapies</span>
+<span class='talk-transcript__fragment' data-time='192000' id='t-192000'>to our patients.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>And so please consider this a work in progress,</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>but I'd like to tell you today a story</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>about a very rare cancer</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>called midline carcinoma,</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>about the protein target,</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>the undruggable protein target that causes this cancer,</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>called BRD4,</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>and about a molecule</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>developed at my lab at Dana Farber Cancer Institute</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>called JQ1, which we affectionately named for Jun Qi,</span>
+<span class='talk-transcript__fragment' data-time='216000' id='t-216000'>the chemist that made this molecule.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>Now BRD4 is an interesting protein.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>You might ask yourself, with all the things cancer's trying to do to kill our patient,</span>
+<span class='talk-transcript__fragment' data-time='225000' id='t-225000'>how does it remember it's cancer?</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>When it winds up its genome,</span>
+<span class='talk-transcript__fragment' data-time='229000' id='t-229000'>divides into two cells and unwinds again,</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>why does it not turn into an eye, into a liver,</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>as it has all the genes necessary to do this?</span>
+<span class='talk-transcript__fragment' data-time='236000' id='t-236000'>It remembers that it's cancer.</span>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>And the reason is that cancer, like every cell in the body,</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>places little molecular bookmarks,</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>little Post-it notes,</span>
+<span class='talk-transcript__fragment' data-time='245000' id='t-245000'>that remind the cell &quot;I'm cancer; I should keep growing.&quot;</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>And those Post-it notes</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>involve this and other proteins of its class --</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>so-called bromodomains.</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>So we developed an idea, a rationale,</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>that perhaps, if we made a molecule</span>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>that prevented the Post-it note from sticking</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>by entering into the little pocket</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>at the base of this spinning protein,</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>then maybe we could convince cancer cells,</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>certainly those addicted to this BRD4 protein,</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>that they're not cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>And so we started to work on this problem.</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>We developed libraries of compounds</span>
+<span class='talk-transcript__fragment' data-time='276000' id='t-276000'>and eventually arrived at this and similar substances</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>called JQ1.</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>Now not being a drug company,</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>we could do certain things, we had certain flexibilities,</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>that I respect that a pharmaceutical industry doesn't have.</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>We just started mailing it to our friends.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>I have a small lab.</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>We thought we'd just send it to people and see how the molecule behaves.</span>
+<span class='talk-transcript__fragment' data-time='295000' id='t-295000'>And we sent it to Oxford, England</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>where a group of talented crystallographers provided this picture,</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>which helped us understand</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>exactly how this molecule is so potent for this protein target.</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>It's what we call a perfect fit</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>of shape complimentarity, or hand in glove.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>Now this is a very rare cancer,</span>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>this BRD4-addicted cancer.</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>And so we worked with samples of material</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>that were collected by young pathologists at Brigham Women's Hospital.</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>And as we treated these cells with this molecule,</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>we observed something really striking.</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>The cancer cells,</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>small, round and rapidly dividing,</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>grew these arms and extensions.</span>
+<span class='talk-transcript__fragment' data-time='330000' id='t-330000'>They were changing shape.</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>In effect, the cancer cell</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>was forgetting it was cancer</span>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>and becoming a normal cell.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>This got us very excited.</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>The next step would be to put this molecule into mice.</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>The only problem was there's no mouse model of this rare cancer.</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>And so at the time that we were doing this research,</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>I was caring for a 29 year-old firefighter from Connecticut</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>who was very much at the end of life</span>
+<span class='talk-transcript__fragment' data-time='357000' id='t-357000'>with this incurable cancer.</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>This BRD4-addicted cancer</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>was growing throughout his left lung,</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>and he had a chest tube in that was draining little bits of debris.</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>And every nursing shift</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>we would throw this material out.</span>
+<span class='talk-transcript__fragment' data-time='369000' id='t-369000'>And so we approached this patient</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>and asked if he would collaborate with us.</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>Could we take this precious and rare cancerous material</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>from this chest tube</span>
+<span class='talk-transcript__fragment' data-time='379000' id='t-379000'>and drive it across town and put it into mice</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>and try to do a clinical trial</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>and stage it with a prototype drug?</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>Well that would be impossible and, rightly, illegal to do in humans.</span>
+<span class='talk-transcript__fragment' data-time='388000' id='t-388000'>And he obliged us.</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>At the Lurie Family Center for Animal Imaging,</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>my colleague, Andrew Kung, grew this cancer successfully in mice</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>without ever touching plastic.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>And you can see this PET scan of a mouse -- what we call a pet PET.</span>
+<span class='talk-transcript__fragment' data-time='401000' id='t-401000'>The cancer is growing</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>as this red, huge mass in the hind limb of this animal.</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>And as we treat it with our compound,</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>this addiction to sugar,</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>this rapid growth, faded.</span>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>And on the animal on the right,</span>
+<span class='talk-transcript__fragment' data-time='414000' id='t-414000'>you see that the cancer was responding.</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>We've completed now clinical trials</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>in four mouse models of this disease.</span>
+<span class='talk-transcript__fragment' data-time='421000' id='t-421000'>And every time, we see the same thing.</span>
+<span class='talk-transcript__fragment' data-time='423000' id='t-423000'>The mice with this cancer that get the drug live,</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>and the ones that don't rapidly perish.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>So we started to wonder,</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>what would a drug company do at this point?</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>Well they probably would keep this a secret</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>until they turn a prototype drug</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>into an active pharmaceutical substance.</span>
+<span class='talk-transcript__fragment' data-time='440000' id='t-440000'>And so we did just the opposite.</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>We published a paper</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>that described this finding</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>at the earliest prototype stage.</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>We gave the world the chemical identity of this molecule,</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>typically a secret in our discipline.</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>We told people exactly how to make it.</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>We gave them our email address,</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>suggesting that, if they write us,</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>we'll send them a free molecule.</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>We basically tried to create</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>the most competitive environment for our lab as possible.</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>And this was, unfortunately, successful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>Because now when we've shared this molecule,</span>
+<span class='talk-transcript__fragment' data-time='471000' id='t-471000'>just since December of last year,</span>
+<span class='talk-transcript__fragment' data-time='473000' id='t-473000'>with 40 laboratories in the United States</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>and 30 more in Europe --</span>
+<span class='talk-transcript__fragment' data-time='477000' id='t-477000'>many of them pharmaceutical companies</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>seeking now to enter this space,</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>to target this rare cancer</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>that, thankfully right now,</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>is quite desirable to study in that industry.</span>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>But the science that's coming back from all of these laboratories</span>
+<span class='talk-transcript__fragment' data-time='492000' id='t-492000'>about the use of this molecule</span>
+<span class='talk-transcript__fragment' data-time='494000' id='t-494000'>has provided us insights</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>that we might not have had on our own.</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>Leukemia cells treated with this compound</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>turn into normal white blood cells.</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>Mice with multiple myeloma,</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>an incurable malignancy of the bone marrow,</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>respond dramatically</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>to the treatment with this drug.</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>You might know that fat has memory.</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>Nice to be able to demonstrate that for you.</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>And in fact, this molecule</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>prevents this adipocyte, this fat stem cell,</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>from remembering how to make fat</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>such that mice on a high fat diet,</span>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>like the folks in my hometown of Chicago,</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>fail to develop fatty liver,</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>which is a major medical problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>What this research taught us --</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>not just my lab, but our institute,</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>and Harvard Medical School more generally --</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>is that we have unique resources in academia</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>for drug discovery --</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>that our center</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>that has tested perhaps more cancer molecules in a scientific way</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>than any other,</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>never made one of its own.</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>For all the reasons you see listed here,</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>we think there's a great opportunity for academic centers</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>to participate in this earliest, conceptually-tricky</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>and creative discipline</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>of prototype drug discovery.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>So what next?</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>We have this molecule, but it's not a pill yet.</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>It's not orally available.</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>We need to fix it, so that we can deliver it to our patients.</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>And everyone in the lab,</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>especially following the interaction with these patients,</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>feels quite compelled</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>to deliver a drug substance based on this molecule.</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>It's here where I have to say</span>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>that we could use your help and your insights,</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>your collaborative participation.</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>Unlike a drug company,</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>we don't have a pipeline that we can deposit these molecules into.</span>
+<span class='talk-transcript__fragment' data-time='598000' id='t-598000'>We don't have a team of salespeople and marketeers</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>that can tell us how to position this drug against the other.</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>What we do have is the flexibility of an academic center</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>to work with competent, motivated,</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>enthusiastic, hopefully well-funded people</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>to carry these molecules forward into the clinic</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>while preserving our ability</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>to share the prototype drug worldwide.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='619000' id='t-619000'>This molecule will soon leave our benches</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>and go into a small startup company</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>called Tensha Therapeutics.</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>And really this is the fourth of these molecules</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>to kind of graduate from our little pipeline of drug discovery,</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>two of which -- a topical drug</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>for lymphoma of the skin,</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>an oral substance for the treatment of multiple myeloma --</span>
+<span class='talk-transcript__fragment' data-time='640000' id='t-640000'>will actually come to the bedside</span>
+<span class='talk-transcript__fragment' data-time='642000' id='t-642000'>for first clinical trial in July of this year.</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>For us, a major and exciting milestone.</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>I want to leave you with just two ideas.</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>The first is</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>if anything is unique about this research,</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>it's less the science than the strategy --</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>that this for us was a social experiment,</span>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>an experiment in what would happen</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>if we were as open and honest</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>at the earliest phase of discovery chemistry research</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>as we could be.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>This string of letters and numbers</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>and symbols and parentheses</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>that can be texted, I suppose,</span>
+<span class='talk-transcript__fragment' data-time='675000' id='t-675000'>or Twittered worldwide,</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>is the chemical identity of our pro compound.</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>It's the information that we most need</span>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>from pharmaceutical companies,</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>the information</span>
+<span class='talk-transcript__fragment' data-time='686000' id='t-686000'>on how these early prototype drugs might work.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>Yet this information is largely a secret.</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>And so we seek really</span>
+<span class='talk-transcript__fragment' data-time='694000' id='t-694000'>to download from the amazing successes</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>of the computer science industry two principles:</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>that of opensource and that of crowdsourcing</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>to quickly, responsibly</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>accelerate the delivery of targeted therapeutics</span>
+<span class='talk-transcript__fragment' data-time='709000' id='t-709000'>to patients with cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='711000' id='t-711000'>Now the business model involves all of you.</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>This research is funded by the public.</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>It's funded by foundations.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>And one thing I've learned in Boston</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>is that you people will do anything for cancer -- and I love that.</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>You bike across the state. You walk up and down the river.</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>I've never seen really anywhere</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>this unique support</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>for cancer research.</span>
+<span class='talk-transcript__fragment' data-time='733000' id='t-733000'>And so I want to thank you</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>for your participation, your collaboration</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>and most of all for your confidence in our ideas.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

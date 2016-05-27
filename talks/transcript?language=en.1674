@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Keren Elazari: Hackers: the Internet&#39;s immune system | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Keren Elazari: Hackers: the Internet&#39;s immune system | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: The beauty of hackers, says cybersecurity expert Keren Elazari, is that they force us to evolve and improve. Yes, some hackers are bad guys, but many are working to fight government corruption and advocate for our rights. By exposing vulnerabilities, they push the Internet to become stronger and healthier, wielding their power to create a better world." name="description" />
+<meta content="Keren Elazari" name="author" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=ta" hreflang="ta" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Hackers: the Internet&#39;s immune system&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7ffad9a704353886a479f2b9acadada4a48855c_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7ffad9a704353886a479f2b9acadada4a48855c_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: The beauty of hackers, says cybersecurity expert Keren Elazari, is that they force us to evolve and improve. Yes, some hackers are bad guys, but many are working to fight government corruption and advocate for our rights. By exposing vulnerabilities, they push the Internet to become stronger and healthier, wielding their power to create a better world." property="og:description" />
+<meta content="http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2019?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='keren_elazari_hackers_the_internet_s_immune_system'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='ta'>Tamil</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2019?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="999" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7ffad9a704353886a479f2b9acadada4a48855c_2400x1800.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:39</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Keren Elazari</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2019?language=en' lang='en'>
+Hackers: the Internet's immune system
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jun 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='869' id='t-869'>Four years ago,</span>
+<span class='talk-transcript__fragment' data-time='2620' id='t-2620'>a security researcher,</span>
+<span class='talk-transcript__fragment' data-time='4422' id='t-4422'>or, as most people would call it, a hacker,</span>
+<span class='talk-transcript__fragment' data-time='8671' id='t-8671'>found a way to literally</span>
+<span class='talk-transcript__fragment' data-time='10838' id='t-10838'>make ATMs throw money at him.</span>
+<span class='talk-transcript__fragment' data-time='14041' id='t-14041'>His name was Barnaby Jack,</span>
+<span class='talk-transcript__fragment' data-time='17382' id='t-17382'>and this technique was later called &quot;jackpotting&quot;</span>
+<span class='talk-transcript__fragment' data-time='21041' id='t-21041'>in his honor.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='22950' id='t-22950'>I'm here today because I think</span>
+<span class='talk-transcript__fragment' data-time='24799' id='t-24799'>we actually need hackers.</span>
+<span class='talk-transcript__fragment' data-time='27850' id='t-27850'>Barnaby Jack</span>
+<span class='talk-transcript__fragment' data-time='29712' id='t-29712'>could have easily turned</span>
+<span class='talk-transcript__fragment' data-time='31199' id='t-31199'>into a career criminal or James Bond villain</span>
+<span class='talk-transcript__fragment' data-time='35397' id='t-35397'>with his knowledge,</span>
+<span class='talk-transcript__fragment' data-time='36893' id='t-36893'>but he chose to show the world</span>
+<span class='talk-transcript__fragment' data-time='39381' id='t-39381'>his research instead.</span>
+<span class='talk-transcript__fragment' data-time='42070' id='t-42070'>He believed that sometimes</span>
+<span class='talk-transcript__fragment' data-time='43923' id='t-43923'>you have to demo a threat</span>
+<span class='talk-transcript__fragment' data-time='45963' id='t-45963'>to spark a solution.</span>
+<span class='talk-transcript__fragment' data-time='48880' id='t-48880'>And I feel the same way.</span>
+<span class='talk-transcript__fragment' data-time='50810' id='t-50810'>That's why I'm here today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='52660' id='t-52660'>We are often terrified and fascinated</span>
+<span class='talk-transcript__fragment' data-time='55938' id='t-55938'>by the power hackers now have.</span>
+<span class='talk-transcript__fragment' data-time='59399' id='t-59399'>They scare us.</span>
+<span class='talk-transcript__fragment' data-time='61131' id='t-61131'>But the choices they make</span>
+<span class='talk-transcript__fragment' data-time='63116' id='t-63116'>have dramatic outcomes</span>
+<span class='talk-transcript__fragment' data-time='65286' id='t-65286'>that influence us all.</span>
+<span class='talk-transcript__fragment' data-time='68274' id='t-68274'>So I am here today because I think we need hackers,</span>
+<span class='talk-transcript__fragment' data-time='71609' id='t-71609'>and in fact, they just might be</span>
+<span class='talk-transcript__fragment' data-time='75192' id='t-75192'>the immune system for the information age.</span>
+<span class='talk-transcript__fragment' data-time='79532' id='t-79532'>Sometimes they make us sick,</span>
+<span class='talk-transcript__fragment' data-time='81565' id='t-81565'>but they also find those hidden threats</span>
+<span class='talk-transcript__fragment' data-time='84920' id='t-84920'>in our world,</span>
+<span class='talk-transcript__fragment' data-time='86244' id='t-86244'>and they make us fix it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='89089' id='t-89089'>I knew that I might get hacked</span>
+<span class='talk-transcript__fragment' data-time='91447' id='t-91447'>for giving this talk,</span>
+<span class='talk-transcript__fragment' data-time='93855' id='t-93855'>so let me save you the effort.</span>
+<span class='talk-transcript__fragment' data-time='96328' id='t-96328'>In true TED fashion,</span>
+<span class='talk-transcript__fragment' data-time='98162' id='t-98162'>here is my most embarrassing picture.</span>
+<span class='talk-transcript__fragment' data-time='102135' id='t-102135'>But it would be difficult for you to find me in it,</span>
+<span class='talk-transcript__fragment' data-time='105005' id='t-105005'>because I'm the one who looks like a boy</span>
+<span class='talk-transcript__fragment' data-time='108743' id='t-108743'>standing to the side.</span>
+<span class='talk-transcript__fragment' data-time='110548' id='t-110548'>I was such a nerd back then</span>
+<span class='talk-transcript__fragment' data-time='112930' id='t-112930'>that even the boys on the
+Dungeons and Dragons team</span>
+<span class='talk-transcript__fragment' data-time='115532' id='t-115532'>wouldn't let me join.</span>
+<span class='talk-transcript__fragment' data-time='117729' id='t-117729'>This is who I was,</span>
+<span class='talk-transcript__fragment' data-time='119714' id='t-119714'>but this is who I wanted to be:</span>
+<span class='talk-transcript__fragment' data-time='123829' id='t-123829'>Angelina Jolie.</span>
+<span class='talk-transcript__fragment' data-time='125727' id='t-125727'>She portrayed Acid Burn</span>
+<span class='talk-transcript__fragment' data-time='127282' id='t-127282'>in the '95 film &quot;Hackers.&quot;</span>
+<span class='talk-transcript__fragment' data-time='129776' id='t-129776'>She was pretty and she could rollerblade,</span>
+<span class='talk-transcript__fragment' data-time='132954' id='t-132954'>but being a hacker, that made her powerful.</span>
+<span class='talk-transcript__fragment' data-time='137063' id='t-137063'>And I wanted to be just like her,</span>
+<span class='talk-transcript__fragment' data-time='139523' id='t-139523'>so I started spending a lot of time</span>
+<span class='talk-transcript__fragment' data-time='141889' id='t-141889'>on hacker chat rooms and online forums.</span>
+<span class='talk-transcript__fragment' data-time='144774' id='t-144774'>I remember one late night</span>
+<span class='talk-transcript__fragment' data-time='147107' id='t-147107'>I found a bit of PHP code.</span>
+<span class='talk-transcript__fragment' data-time='149368' id='t-149368'>I didn't really know what it did,</span>
+<span class='talk-transcript__fragment' data-time='150990' id='t-150990'>but I copy-pasted it</span>
+<span class='talk-transcript__fragment' data-time='152615' id='t-152615'>and used it anyway</span>
+<span class='talk-transcript__fragment' data-time='154329' id='t-154329'>to get into a password-protected site</span>
+<span class='talk-transcript__fragment' data-time='156802' id='t-156802'>like that.</span>
+<span class='talk-transcript__fragment' data-time='158606' id='t-158606'>Open Sesame.</span>
+<span class='talk-transcript__fragment' data-time='160009' id='t-160009'>It was a simple trick,</span>
+<span class='talk-transcript__fragment' data-time='161531' id='t-161531'>and I was just a script kiddie back then,</span>
+<span class='talk-transcript__fragment' data-time='164536' id='t-164536'>but to me, that trick,</span>
+<span class='talk-transcript__fragment' data-time='165974' id='t-165974'>it felt like this,</span>
+<span class='talk-transcript__fragment' data-time='168189' id='t-168189'>like I had discovered limitless potential</span>
+<span class='talk-transcript__fragment' data-time='170633' id='t-170633'>at my fingertips.</span>
+<span class='talk-transcript__fragment' data-time='172424' id='t-172424'>This is the rush of power that hackers feel.</span>
+<span class='talk-transcript__fragment' data-time='175733' id='t-175733'>It's geeks just like me</span>
+<span class='talk-transcript__fragment' data-time='178637' id='t-178637'>discovering they have access to superpower,</span>
+<span class='talk-transcript__fragment' data-time='181869' id='t-181869'>one that requires the skill and tenacity</span>
+<span class='talk-transcript__fragment' data-time='184496' id='t-184496'>of their intellect,</span>
+<span class='talk-transcript__fragment' data-time='186004' id='t-186004'>but thankfully no radioactive spiders.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='189565' id='t-189565'>But with great power</span>
+<span class='talk-transcript__fragment' data-time='191406' id='t-191406'>comes great responsibility,</span>
+<span class='talk-transcript__fragment' data-time='193710' id='t-193710'>and you all like to think that if we had such powers,</span>
+<span class='talk-transcript__fragment' data-time='197374' id='t-197374'>we would only use them for good.</span>
+<span class='talk-transcript__fragment' data-time='199653' id='t-199653'>But what if you could read your ex's emails,</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>or add a couple zeros to your bank account.</span>
+<span class='talk-transcript__fragment' data-time='206112' id='t-206112'>What would you do then?</span>
+<span class='talk-transcript__fragment' data-time='208132' id='t-208132'>Indeed, many hackers do not resist</span>
+<span class='talk-transcript__fragment' data-time='210369' id='t-210369'>those temptations,</span>
+<span class='talk-transcript__fragment' data-time='212357' id='t-212357'>and so they are responsible in one way or another</span>
+<span class='talk-transcript__fragment' data-time='215482' id='t-215482'>to billions of dollars lost each year</span>
+<span class='talk-transcript__fragment' data-time='217886' id='t-217886'>to fraud, malware or plain old identity theft,</span>
+<span class='talk-transcript__fragment' data-time='221147' id='t-221147'>which is a serious issue.</span>
+<span class='talk-transcript__fragment' data-time='223025' id='t-223025'>But there are other hackers,</span>
+<span class='talk-transcript__fragment' data-time='225010' id='t-225010'>hackers who just like to break things,</span>
+<span class='talk-transcript__fragment' data-time='227772' id='t-227772'>and it is precisely those hackers</span>
+<span class='talk-transcript__fragment' data-time='230480' id='t-230480'>that can find the weaker elements in our world</span>
+<span class='talk-transcript__fragment' data-time='233773' id='t-233773'>and make us fix it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='235450' id='t-235450'>This is what happened last year</span>
+<span class='talk-transcript__fragment' data-time='237370' id='t-237370'>when another security researcher</span>
+<span class='talk-transcript__fragment' data-time='239379' id='t-239379'>called Kyle Lovett</span>
+<span class='talk-transcript__fragment' data-time='240944' id='t-240944'>discovered a gaping hole</span>
+<span class='talk-transcript__fragment' data-time='242501' id='t-242501'>in the design of certain wireless routers</span>
+<span class='talk-transcript__fragment' data-time='245461' id='t-245461'>like you might have in your home or office.</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>He learned that anyone could remotely connect</span>
+<span class='talk-transcript__fragment' data-time='250645' id='t-250645'>to these devices over the Internet</span>
+<span class='talk-transcript__fragment' data-time='252967' id='t-252967'>and download documents from hard drives</span>
+<span class='talk-transcript__fragment' data-time='255728' id='t-255728'>attached to those routers,</span>
+<span class='talk-transcript__fragment' data-time='257903' id='t-257903'>no password needed.</span>
+<span class='talk-transcript__fragment' data-time='259750' id='t-259750'>He reported it to the company, of course,</span>
+<span class='talk-transcript__fragment' data-time='262087' id='t-262087'>but they ignored his report.</span>
+<span class='talk-transcript__fragment' data-time='264401' id='t-264401'>Perhaps they thought universal access</span>
+<span class='talk-transcript__fragment' data-time='266265' id='t-266265'>was a feature, not a bug,</span>
+<span class='talk-transcript__fragment' data-time='269250' id='t-269250'>until two months ago</span>
+<span class='talk-transcript__fragment' data-time='271105' id='t-271105'>when a group of hackers used it</span>
+<span class='talk-transcript__fragment' data-time='272538' id='t-272538'>to get into people's files.</span>
+<span class='talk-transcript__fragment' data-time='274992' id='t-274992'>But they didn't steal anything.</span>
+<span class='talk-transcript__fragment' data-time='277393' id='t-277393'>They left a note:</span>
+<span class='talk-transcript__fragment' data-time='279410' id='t-279410'>Your router and your documents</span>
+<span class='talk-transcript__fragment' data-time='281288' id='t-281288'>can be accessed by anyone in the world.</span>
+<span class='talk-transcript__fragment' data-time='283447' id='t-283447'>Here's what you should do to fix it.</span>
+<span class='talk-transcript__fragment' data-time='285715' id='t-285715'>We hope we helped.</span>
+<span class='talk-transcript__fragment' data-time='288093' id='t-288093'>By getting into people's files like that,</span>
+<span class='talk-transcript__fragment' data-time='290623' id='t-290623'>yeah, they broke the law,</span>
+<span class='talk-transcript__fragment' data-time='292083' id='t-292083'>but they also forced that company</span>
+<span class='talk-transcript__fragment' data-time='294551' id='t-294551'>to fix their product.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='296532' id='t-296532'>Making vulnerabilities known to the public</span>
+<span class='talk-transcript__fragment' data-time='298700' id='t-298700'>is a practice called full disclosure</span>
+<span class='talk-transcript__fragment' data-time='301445' id='t-301445'>in the hacker community,</span>
+<span class='talk-transcript__fragment' data-time='303047' id='t-303047'>and it is controversial,</span>
+<span class='talk-transcript__fragment' data-time='305081' id='t-305081'>but it does make me think of how hackers</span>
+<span class='talk-transcript__fragment' data-time='307613' id='t-307613'>have an evolving effect on technologies we use</span>
+<span class='talk-transcript__fragment' data-time='310599' id='t-310599'>every day.</span>
+<span class='talk-transcript__fragment' data-time='312095' id='t-312095'>This is what Khalil did.</span>
+<span class='talk-transcript__fragment' data-time='314373' id='t-314373'>Khalil is a Palestinian hacker from the West Bank,</span>
+<span class='talk-transcript__fragment' data-time='316988' id='t-316988'>and he found a serious privacy flaw on Facebook</span>
+<span class='talk-transcript__fragment' data-time='320997' id='t-320997'>which he attempted to report</span>
+<span class='talk-transcript__fragment' data-time='322847' id='t-322847'>through the company's bug bounty program.</span>
+<span class='talk-transcript__fragment' data-time='325837' id='t-325837'>These are usually great arrangements for companies</span>
+<span class='talk-transcript__fragment' data-time='328494' id='t-328494'>to reward hackers disclosing vulnerabilities</span>
+<span class='talk-transcript__fragment' data-time='331671' id='t-331671'>they find in their code.</span>
+<span class='talk-transcript__fragment' data-time='333360' id='t-333360'>Unfortunately, due to some miscommunications,</span>
+<span class='talk-transcript__fragment' data-time='336910' id='t-336910'>his report was not acknowledged.</span>
+<span class='talk-transcript__fragment' data-time='339946' id='t-339946'>Frustrated with the exchange,</span>
+<span class='talk-transcript__fragment' data-time='341791' id='t-341791'>he took to use his own discovery</span>
+<span class='talk-transcript__fragment' data-time='345068' id='t-345068'>to post on Mark Zuckerberg's wall.</span>
+<span class='talk-transcript__fragment' data-time='348203' id='t-348203'>This got their attention, all right,</span>
+<span class='talk-transcript__fragment' data-time='350970' id='t-350970'>and they fixed the bug,</span>
+<span class='talk-transcript__fragment' data-time='354265' id='t-354265'>but because he hadn't reported it properly,</span>
+<span class='talk-transcript__fragment' data-time='357120' id='t-357120'>he was denied the bounty usually paid out</span>
+<span class='talk-transcript__fragment' data-time='359345' id='t-359345'>for such discoveries.</span>
+<span class='talk-transcript__fragment' data-time='361349' id='t-361349'>Thankfully for Khalil,</span>
+<span class='talk-transcript__fragment' data-time='363338' id='t-363338'>a group of hackers were watching out for him.</span>
+<span class='talk-transcript__fragment' data-time='366224' id='t-366224'>In fact, they raised more than 13,000 dollars</span>
+<span class='talk-transcript__fragment' data-time='370033' id='t-370033'>to reward him for this discovery,</span>
+<span class='talk-transcript__fragment' data-time='372111' id='t-372111'>raising a vital discussion in the technology industry</span>
+<span class='talk-transcript__fragment' data-time='375311' id='t-375311'>about how we come up with incentives</span>
+<span class='talk-transcript__fragment' data-time='378370' id='t-378370'>for hackers to do the right thing.</span>
+<span class='talk-transcript__fragment' data-time='380960' id='t-380960'>But I think there's a greater story here still.</span>
+<span class='talk-transcript__fragment' data-time='383980' id='t-383980'>Even companies founded by hackers,</span>
+<span class='talk-transcript__fragment' data-time='386915' id='t-386915'>like Facebook was,</span>
+<span class='talk-transcript__fragment' data-time='389302' id='t-389302'>still have a complicated relationship</span>
+<span class='talk-transcript__fragment' data-time='391885' id='t-391885'>when it comes to hackers.</span>
+<span class='talk-transcript__fragment' data-time='393689' id='t-393689'>And so for more conservative organizations,</span>
+<span class='talk-transcript__fragment' data-time='396520' id='t-396520'>it is going to take time and adapting</span>
+<span class='talk-transcript__fragment' data-time='400038' id='t-400038'>in order to embrace hacker culture</span>
+<span class='talk-transcript__fragment' data-time='402620' id='t-402620'>and the creative chaos that it brings with it.</span>
+<span class='talk-transcript__fragment' data-time='405741' id='t-405741'>But I think it's worth the effort,</span>
+<span class='talk-transcript__fragment' data-time='408183' id='t-408183'>because the alternative,</span>
+<span class='talk-transcript__fragment' data-time='410163' id='t-410163'>to blindly fight all hackers,</span>
+<span class='talk-transcript__fragment' data-time='413993' id='t-413993'>is to go against the power you cannot control</span>
+<span class='talk-transcript__fragment' data-time='416581' id='t-416581'>at the cost of stifling innovation</span>
+<span class='talk-transcript__fragment' data-time='419882' id='t-419882'>and regulating knowledge.</span>
+<span class='talk-transcript__fragment' data-time='422076' id='t-422076'>These are things that will come back and bite you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='426370' id='t-426370'>It is even more true</span>
+<span class='talk-transcript__fragment' data-time='427848' id='t-427848'>if we go after hackers</span>
+<span class='talk-transcript__fragment' data-time='429927' id='t-429927'>that are willing to risk their own freedom</span>
+<span class='talk-transcript__fragment' data-time='432964' id='t-432964'>for ideals like the freedom of the web,</span>
+<span class='talk-transcript__fragment' data-time='435867' id='t-435867'>especially in times like this, like today even,</span>
+<span class='talk-transcript__fragment' data-time='439930' id='t-439930'>as governments and corporates</span>
+<span class='talk-transcript__fragment' data-time='442550' id='t-442550'>fight to control the Internet.</span>
+<span class='talk-transcript__fragment' data-time='445776' id='t-445776'>I find it astounding</span>
+<span class='talk-transcript__fragment' data-time='448100' id='t-448100'>that someone from the shadowy
+corners of cyberspace</span>
+<span class='talk-transcript__fragment' data-time='451113' id='t-451113'>can become its voice of opposition,</span>
+<span class='talk-transcript__fragment' data-time='453928' id='t-453928'>its last line of defense even,</span>
+<span class='talk-transcript__fragment' data-time='456570' id='t-456570'>perhaps someone like Anonymous,</span>
+<span class='talk-transcript__fragment' data-time='459987' id='t-459987'>the leading brand of global hacktivism.</span>
+<span class='talk-transcript__fragment' data-time='463840' id='t-463840'>This universal hacker movement</span>
+<span class='talk-transcript__fragment' data-time='466100' id='t-466100'>needs no introduction today,</span>
+<span class='talk-transcript__fragment' data-time='467706' id='t-467706'>but six years ago</span>
+<span class='talk-transcript__fragment' data-time='469809' id='t-469809'>they were not much more than an Internet subculture</span>
+<span class='talk-transcript__fragment' data-time='473238' id='t-473238'>dedicated to sharing silly pictures of funny cats</span>
+<span class='talk-transcript__fragment' data-time='476157' id='t-476157'>and Internet trolling campaigns.</span>
+<span class='talk-transcript__fragment' data-time='479587' id='t-479587'>Their moment of transformation was in early 2008</span>
+<span class='talk-transcript__fragment' data-time='484429' id='t-484429'>when the Church of Scientology</span>
+<span class='talk-transcript__fragment' data-time='486079' id='t-486079'>attempted to remove certain leaked videos</span>
+<span class='talk-transcript__fragment' data-time='489146' id='t-489146'>from appearing on certain websites.</span>
+<span class='talk-transcript__fragment' data-time='493549' id='t-493549'>This is when Anonymous was forged</span>
+<span class='talk-transcript__fragment' data-time='495989' id='t-495989'>out of the seemingly random collection</span>
+<span class='talk-transcript__fragment' data-time='498620' id='t-498620'>of Internet dwellers.</span>
+<span class='talk-transcript__fragment' data-time='500363' id='t-500363'>It turns out,</span>
+<span class='talk-transcript__fragment' data-time='502817' id='t-502817'>the Internet doesn't like it</span>
+<span class='talk-transcript__fragment' data-time='504146' id='t-504146'>when you try to remove things from it,</span>
+<span class='talk-transcript__fragment' data-time='506769' id='t-506769'>and it will react with cyberattacks</span>
+<span class='talk-transcript__fragment' data-time='509739' id='t-509739'>and elaborate pranks</span>
+<span class='talk-transcript__fragment' data-time='511840' id='t-511840'>and with a series of organized protests</span>
+<span class='talk-transcript__fragment' data-time='514489' id='t-514489'>all around the world,</span>
+<span class='talk-transcript__fragment' data-time='515834' id='t-515834'>from my hometown of Tel Aviv</span>
+<span class='talk-transcript__fragment' data-time='517822' id='t-517822'>to Adelaide, Australia.</span>
+<span class='talk-transcript__fragment' data-time='520066' id='t-520066'>This proved that Anonymous and this idea</span>
+<span class='talk-transcript__fragment' data-time='523196' id='t-523196'>can rally the masses from the keyboards</span>
+<span class='talk-transcript__fragment' data-time='526279' id='t-526279'>to the streets,</span>
+<span class='talk-transcript__fragment' data-time='527855' id='t-527855'>and it laid the foundations</span>
+<span class='talk-transcript__fragment' data-time='529802' id='t-529802'>for dozens of future operations</span>
+<span class='talk-transcript__fragment' data-time='532020' id='t-532020'>against perceived injustices</span>
+<span class='talk-transcript__fragment' data-time='533960' id='t-533960'>to their online and offline world.</span>
+<span class='talk-transcript__fragment' data-time='537316' id='t-537316'>Since then, they've gone after many targets.</span>
+<span class='talk-transcript__fragment' data-time='539341' id='t-539341'>They've uncovered corruption, abuse.</span>
+<span class='talk-transcript__fragment' data-time='542130' id='t-542130'>They've hacked popes and politicians,</span>
+<span class='talk-transcript__fragment' data-time='544950' id='t-544950'>and I think their effect is larger</span>
+<span class='talk-transcript__fragment' data-time='546627' id='t-546627'>than simple denial of service attacks</span>
+<span class='talk-transcript__fragment' data-time='549424' id='t-549424'>that take down websites</span>
+<span class='talk-transcript__fragment' data-time='550800' id='t-550800'>or even leak sensitive documents.</span>
+<span class='talk-transcript__fragment' data-time='554438' id='t-554438'>I think that, like Robin Hood,</span>
+<span class='talk-transcript__fragment' data-time='557480' id='t-557480'>they are in the business of redistribution,</span>
+<span class='talk-transcript__fragment' data-time='561380' id='t-561380'>but what they are after isn't your money.</span>
+<span class='talk-transcript__fragment' data-time='564112' id='t-564112'>It's not your documents. It's your attention.</span>
+<span class='talk-transcript__fragment' data-time='568842' id='t-568842'>They grab the spotlight for causes they support,</span>
+<span class='talk-transcript__fragment' data-time='573382' id='t-573382'>forcing us to take note,</span>
+<span class='talk-transcript__fragment' data-time='576013' id='t-576013'>acting as a global magnifying glass</span>
+<span class='talk-transcript__fragment' data-time='578478' id='t-578478'>for issues that we are not as aware of</span>
+<span class='talk-transcript__fragment' data-time='580622' id='t-580622'>but perhaps we should be.</span>
+<span class='talk-transcript__fragment' data-time='582731' id='t-582731'>They have been called many names</span>
+<span class='talk-transcript__fragment' data-time='584584' id='t-584584'>from criminals to terrorists,</span>
+<span class='talk-transcript__fragment' data-time='586355' id='t-586355'>and I cannot justify their illegal means,</span>
+<span class='talk-transcript__fragment' data-time='589801' id='t-589801'>but the ideas they fight for</span>
+<span class='talk-transcript__fragment' data-time='591942' id='t-591942'>are ones that matter to us all.</span>
+<span class='talk-transcript__fragment' data-time='595968' id='t-595968'>The reality is,</span>
+<span class='talk-transcript__fragment' data-time='597951' id='t-597951'>hackers can do a lot more than break things.</span>
+<span class='talk-transcript__fragment' data-time='600756' id='t-600756'>They can bring people together.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='603229' id='t-603229'>And if the Internet doesn't like it</span>
+<span class='talk-transcript__fragment' data-time='605552' id='t-605552'>when you try to remove things from it,</span>
+<span class='talk-transcript__fragment' data-time='608199' id='t-608199'>just watch what happens</span>
+<span class='talk-transcript__fragment' data-time='609100' id='t-609100'>when you try to shut the Internet down.</span>
+<span class='talk-transcript__fragment' data-time='611929' id='t-611929'>This took place in Egypt in January 2011,</span>
+<span class='talk-transcript__fragment' data-time='616521' id='t-616521'>and as President Hosni Mubarak</span>
+<span class='talk-transcript__fragment' data-time='619737' id='t-619737'>attempted a desperate move</span>
+<span class='talk-transcript__fragment' data-time='621791' id='t-621791'>to quash the rising revolution on the streets of Cairo,</span>
+<span class='talk-transcript__fragment' data-time='625633' id='t-625633'>he sent his personal troops</span>
+<span class='talk-transcript__fragment' data-time='627503' id='t-627503'>down to Egypt's Internet service providers</span>
+<span class='talk-transcript__fragment' data-time='631146' id='t-631146'>and had them physically kill the switch</span>
+<span class='talk-transcript__fragment' data-time='633617' id='t-633617'>on the country's connection to the world overnight.</span>
+<span class='talk-transcript__fragment' data-time='637862' id='t-637862'>For a government to do a thing like that</span>
+<span class='talk-transcript__fragment' data-time='639477' id='t-639477'>was unprecedented,</span>
+<span class='talk-transcript__fragment' data-time='641196' id='t-641196'>and for hackers, it made it personal.</span>
+<span class='talk-transcript__fragment' data-time='644660' id='t-644660'>Hackers like the Telecomix group</span>
+<span class='talk-transcript__fragment' data-time='646748' id='t-646748'>were already active on the ground,</span>
+<span class='talk-transcript__fragment' data-time='648621' id='t-648621'>helping Egyptians bypass censorship</span>
+<span class='talk-transcript__fragment' data-time='651439' id='t-651439'>using clever workarounds like Morse code</span>
+<span class='talk-transcript__fragment' data-time='653929' id='t-653929'>and ham radio.</span>
+<span class='talk-transcript__fragment' data-time='655957' id='t-655957'>It was high season for low tech,</span>
+<span class='talk-transcript__fragment' data-time='658086' id='t-658086'>which the government couldn't block,</span>
+<span class='talk-transcript__fragment' data-time='660650' id='t-660650'>but when the Net went completely down,</span>
+<span class='talk-transcript__fragment' data-time='663892' id='t-663892'>Telecomix brought in the big guns.</span>
+<span class='talk-transcript__fragment' data-time='666830' id='t-666830'>They found European service providers</span>
+<span class='talk-transcript__fragment' data-time='669001' id='t-669001'>that still had 20-year-old</span>
+<span class='talk-transcript__fragment' data-time='671310' id='t-671310'>analog dial-up access infrastructure.</span>
+<span class='talk-transcript__fragment' data-time='673890' id='t-673890'>They opened up 300 of those lines</span>
+<span class='talk-transcript__fragment' data-time='677292' id='t-677292'>for Egyptians to use,</span>
+<span class='talk-transcript__fragment' data-time='679766' id='t-679766'>serving slow but sweet Internet connection</span>
+<span class='talk-transcript__fragment' data-time='682603' id='t-682603'>for Egyptians.</span>
+<span class='talk-transcript__fragment' data-time='684004' id='t-684004'>This worked.</span>
+<span class='talk-transcript__fragment' data-time='685299' id='t-685299'>It worked so well, in fact,</span>
+<span class='talk-transcript__fragment' data-time='687092' id='t-687092'>one guy even used it to download an episode</span>
+<span class='talk-transcript__fragment' data-time='689372' id='t-689372'>of &quot;How I Met Your Mother.&quot;</span>
+<span class='talk-transcript__fragment' data-time='693710' id='t-693710'>But while Egypt's future is still uncertain,</span>
+<span class='talk-transcript__fragment' data-time='697631' id='t-697631'>when the same thing happened in Syria</span>
+<span class='talk-transcript__fragment' data-time='700284' id='t-700284'>just one year later,</span>
+<span class='talk-transcript__fragment' data-time='701804' id='t-701804'>Telecomix were prepared with those Internet lines,</span>
+<span class='talk-transcript__fragment' data-time='705539' id='t-705539'>and Anonymous,</span>
+<span class='talk-transcript__fragment' data-time='706708' id='t-706708'>they were perhaps the first international group</span>
+<span class='talk-transcript__fragment' data-time='708954' id='t-708954'>to officially denounce the actions</span>
+<span class='talk-transcript__fragment' data-time='710658' id='t-710658'>of the Syrian military</span>
+<span class='talk-transcript__fragment' data-time='712571' id='t-712571'>by defacing their website.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='715375' id='t-715375'>But with this sort of power,</span>
+<span class='talk-transcript__fragment' data-time='718867' id='t-718867'>it really depends on where you stand,</span>
+<span class='talk-transcript__fragment' data-time='721213' id='t-721213'>because one man's hero</span>
+<span class='talk-transcript__fragment' data-time='724722' id='t-724722'>can be another's villain,</span>
+<span class='talk-transcript__fragment' data-time='726969' id='t-726969'>and so the Syrian Electronic Army</span>
+<span class='talk-transcript__fragment' data-time='729367' id='t-729367'>is a pro-Assad group of hackers</span>
+<span class='talk-transcript__fragment' data-time='731838' id='t-731838'>who support his contentious regime.</span>
+<span class='talk-transcript__fragment' data-time='734503' id='t-734503'>They've taken down multiple high-profile targets</span>
+<span class='talk-transcript__fragment' data-time='737185' id='t-737185'>in the past few years,</span>
+<span class='talk-transcript__fragment' data-time='738820' id='t-738820'>including the Associated Press's Twitter account,</span>
+<span class='talk-transcript__fragment' data-time='742203' id='t-742203'>in which they posted a message</span>
+<span class='talk-transcript__fragment' data-time='745219' id='t-745219'>about an attack on the White House</span>
+<span class='talk-transcript__fragment' data-time='747375' id='t-747375'>injuring President Obama.</span>
+<span class='talk-transcript__fragment' data-time='750638' id='t-750638'>This tweet was fake, of course,</span>
+<span class='talk-transcript__fragment' data-time='752783' id='t-752783'>but the resulting drop in the Dow Jones index</span>
+<span class='talk-transcript__fragment' data-time='755722' id='t-755722'>that day was most certainly not,</span>
+<span class='talk-transcript__fragment' data-time='759099' id='t-759099'>and a lot of people lost a lot of money.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='762361' id='t-762361'>This sort of thing is happening
+all over the world right now.</span>
+<span class='talk-transcript__fragment' data-time='766267' id='t-766267'>In conflicts from the Crimean Peninsula</span>
+<span class='talk-transcript__fragment' data-time='769214' id='t-769214'>to Latin America,</span>
+<span class='talk-transcript__fragment' data-time='771576' id='t-771576'>from Europe to the United States,</span>
+<span class='talk-transcript__fragment' data-time='773880' id='t-773880'>hackers are a force for social,</span>
+<span class='talk-transcript__fragment' data-time='776937' id='t-776937'>political and military influence.</span>
+<span class='talk-transcript__fragment' data-time='780703' id='t-780703'>As individuals or in groups,</span>
+<span class='talk-transcript__fragment' data-time='782954' id='t-782954'>volunteers or military conflicts,</span>
+<span class='talk-transcript__fragment' data-time='785594' id='t-785594'>there are hackers everywhere.</span>
+<span class='talk-transcript__fragment' data-time='788235' id='t-788235'>They come from all walks of life,</span>
+<span class='talk-transcript__fragment' data-time='790330' id='t-790330'>ethnicities, ideologies and genders, I might add.</span>
+<span class='talk-transcript__fragment' data-time='795254' id='t-795254'>They are now shaping the world's stage.</span>
+<span class='talk-transcript__fragment' data-time='799053' id='t-799053'>Hackers represent an exceptional force for change</span>
+<span class='talk-transcript__fragment' data-time='801898' id='t-801898'>in the 21st century.</span>
+<span class='talk-transcript__fragment' data-time='804062' id='t-804062'>This is because access to information</span>
+<span class='talk-transcript__fragment' data-time='806599' id='t-806599'>is a critical currency of power,</span>
+<span class='talk-transcript__fragment' data-time='809912' id='t-809912'>one which governments would like to control,</span>
+<span class='talk-transcript__fragment' data-time='812878' id='t-812878'>a thing they attempt to do by setting up</span>
+<span class='talk-transcript__fragment' data-time='815339' id='t-815339'>all-you-can-eat surveillance programs,</span>
+<span class='talk-transcript__fragment' data-time='818999' id='t-818999'>a thing they need hackers for, by the way.</span>
+<span class='talk-transcript__fragment' data-time='821737' id='t-821737'>And so the establishment has long had</span>
+<span class='talk-transcript__fragment' data-time='824384' id='t-824384'>a love-hate relationship when it comes to hackers,</span>
+<span class='talk-transcript__fragment' data-time='828091' id='t-828091'>because the same people who demonize hacking</span>
+<span class='talk-transcript__fragment' data-time='830849' id='t-830849'>also utilize it at large.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='835931' id='t-835931'>Two years ago,</span>
+<span class='talk-transcript__fragment' data-time='837179' id='t-837179'>I saw General Keith Alexander.</span>
+<span class='talk-transcript__fragment' data-time='839952' id='t-839952'>He's the NSA director and U.S. cyber commander,</span>
+<span class='talk-transcript__fragment' data-time='844170' id='t-844170'>but instead of his four star general uniform,</span>
+<span class='talk-transcript__fragment' data-time='847878' id='t-847878'>he was wearing jeans and a t-shirt.</span>
+<span class='talk-transcript__fragment' data-time='850174' id='t-850174'>This was at DEF CON,</span>
+<span class='talk-transcript__fragment' data-time='851918' id='t-851918'>the world's largest hacker conference.</span>
+<span class='talk-transcript__fragment' data-time='855023' id='t-855023'>Perhaps like me, General Alexander</span>
+<span class='talk-transcript__fragment' data-time='856950' id='t-856950'>didn't see 12,000 criminals that day in Vegas.</span>
+<span class='talk-transcript__fragment' data-time='860770' id='t-860770'>I think he saw untapped potential.</span>
+<span class='talk-transcript__fragment' data-time='863881' id='t-863881'>In fact, he was there to give a hiring pitch.</span>
+<span class='talk-transcript__fragment' data-time='867254' id='t-867254'>&quot;In this room right here,&quot; he said,</span>
+<span class='talk-transcript__fragment' data-time='869894' id='t-869894'>&quot;is the talent our nation needs.&quot;</span>
+<span class='talk-transcript__fragment' data-time='872284' id='t-872284'>Well, hackers in the back row replied,</span>
+<span class='talk-transcript__fragment' data-time='875664' id='t-875664'>&quot;Then stop arresting us.&quot;</span>
+<span class='talk-transcript__fragment' data-time='877790' id='t-877790'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='881224' id='t-881224'>Indeed, for years,</span>
+<span class='talk-transcript__fragment' data-time='883803' id='t-883803'>hackers have been on the wrong side of the fence,</span>
+<span class='talk-transcript__fragment' data-time='886619' id='t-886619'>but in light of what we know now,</span>
+<span class='talk-transcript__fragment' data-time='889527' id='t-889527'>who is more watchful of our online world?</span>
+<span class='talk-transcript__fragment' data-time='893800' id='t-893800'>The rules of the game are not that clear anymore,</span>
+<span class='talk-transcript__fragment' data-time='896806' id='t-896806'>but hackers are perhaps the only ones</span>
+<span class='talk-transcript__fragment' data-time='900218' id='t-900218'>still capable of challenging
+overreaching governments</span>
+<span class='talk-transcript__fragment' data-time='904101' id='t-904101'>and data-hoarding corporates</span>
+<span class='talk-transcript__fragment' data-time='906316' id='t-906316'>on their own playing field.</span>
+<span class='talk-transcript__fragment' data-time='908794' id='t-908794'>To me, that represents hope.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='911914' id='t-911914'>For the past three decades,</span>
+<span class='talk-transcript__fragment' data-time='913238' id='t-913238'>hackers have done a lot of things,</span>
+<span class='talk-transcript__fragment' data-time='914789' id='t-914789'>but they have also impacted civil liberties,</span>
+<span class='talk-transcript__fragment' data-time='918006' id='t-918006'>innovation and Internet freedom,</span>
+<span class='talk-transcript__fragment' data-time='920376' id='t-920376'>so I think it's time we take a good look</span>
+<span class='talk-transcript__fragment' data-time='923305' id='t-923305'>at how we choose to portray them,</span>
+<span class='talk-transcript__fragment' data-time='925435' id='t-925435'>because if we keep expecting
+them to be the bad guys,</span>
+<span class='talk-transcript__fragment' data-time='929019' id='t-929019'>how can they be the heroes too?</span>
+<span class='talk-transcript__fragment' data-time='932489' id='t-932489'>My years in the hacker world</span>
+<span class='talk-transcript__fragment' data-time='934500' id='t-934500'>have made me realize</span>
+<span class='talk-transcript__fragment' data-time='936142' id='t-936142'>both the problem and the beauty about hackers:</span>
+<span class='talk-transcript__fragment' data-time='941875' id='t-941875'>They just can't see something broken in the world</span>
+<span class='talk-transcript__fragment' data-time='945033' id='t-945033'>and leave it be.</span>
+<span class='talk-transcript__fragment' data-time='946680' id='t-946680'>They are compelled</span>
+<span class='talk-transcript__fragment' data-time='948360' id='t-948360'>to either exploit it or try and change it,</span>
+<span class='talk-transcript__fragment' data-time='951890' id='t-951890'>and so they find the vulnerable aspects</span>
+<span class='talk-transcript__fragment' data-time='955806' id='t-955806'>in our rapidly changing world.</span>
+<span class='talk-transcript__fragment' data-time='957940' id='t-957940'>They make us, they force us to fix things</span>
+<span class='talk-transcript__fragment' data-time='962282' id='t-962282'>or demand something better,</span>
+<span class='talk-transcript__fragment' data-time='964001' id='t-964001'>and I think we need them</span>
+<span class='talk-transcript__fragment' data-time='965995' id='t-965995'>to do just that,</span>
+<span class='talk-transcript__fragment' data-time='968201' id='t-968201'>because after all, it is not information</span>
+<span class='talk-transcript__fragment' data-time='971470' id='t-971470'>that wants to be free, it's us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='974575' id='t-974575'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='977937' id='t-977937'>Thank you. (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='980295' id='t-980295'>Hack the planet!</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

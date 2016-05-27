@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Dan Meyer: Math class needs a makeover | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Dan Meyer: Math class needs a makeover | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Today&#39;s math curriculum is teaching students to expect -- and excel at -- paint-by-numbers classwork, robbing kids of a skill more important than solving problems: formulating them. Dan Meyer shows classroom-tested math exercises that prompt students to stop and think." name="description" />
+<meta content="Dan Meyer" name="author" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=hy" hreflang="hy" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=fr-ca" hreflang="fr-ca" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ka" hreflang="ka" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ku" hreflang="ku" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=lv" hreflang="lv" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Math class needs a makeover&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/170614_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/170614_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Today&#39;s math curriculum is teaching students to expect -- and excel at -- paint-by-numbers classwork, robbing kids of a skill more important than solving problems: formulating them. Dan Meyer shows classroom-tested math exercises that prompt students to stop and think." property="og:description" />
+<meta content="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/855?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='dan_meyer_math_curriculum_makeover'>
+<option value='ar'>Arabic</option>
+<option value='hy'>Armenian</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='fr-ca'>French (Canada)</option>
+<option value='ka'>Georgian</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='ku'>Kurdish</option>
+<option value='lv'>Latvian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/855?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="699" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/170614_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:39</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Dan Meyer</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/855?language=en' lang='en'>
+Math class needs a makeover
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+May 2010
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Can I ask you to please recall a time</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>when you really loved something --</span>
+<span class='talk-transcript__fragment' data-time='5000' id='t-5000'>a movie, an album, a song or a book --</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>and you recommended it wholeheartedly</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>to someone you also really liked,</span>
+<span class='talk-transcript__fragment' data-time='12000' id='t-12000'>and you anticipated that reaction, you waited for it,</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>and it came back, and the person hated it?</span>
+<span class='talk-transcript__fragment' data-time='17000' id='t-17000'>So, by way of introduction,</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>that is the exact same state</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>in which I spent every working day of the last six years. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>I teach high school math.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>I sell a product to a market</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>that doesn't want it, but is forced by law to buy it.</span>
+<span class='talk-transcript__fragment' data-time='32000' id='t-32000'>I mean, it's just a losing proposition.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>So there's a useful stereotype about students that I see,</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>a useful stereotype about you all.</span>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>I could give you guys</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>an algebra-two final exam,</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>and I would expect no higher</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>than a 25 percent pass rate.</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>And both of these facts say less about you or my students</span>
+<span class='talk-transcript__fragment' data-time='51000' id='t-51000'>than they do about what we call math education</span>
+<span class='talk-transcript__fragment' data-time='53000' id='t-53000'>in the U.S. today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>To start with, I'd like to break math down into two categories.</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>One is computation; this is the stuff you've forgotten.</span>
+<span class='talk-transcript__fragment' data-time='61000' id='t-61000'>For example, factoring quadratics with</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>leading coefficients greater than one.</span>
+<span class='talk-transcript__fragment' data-time='65000' id='t-65000'>This stuff is also really easy to relearn,</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>provided you have a really strong grounding</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>in reasoning. Math reasoning --</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>we'll call it the application</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>of math processes to the world around us --</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>this is hard to teach.</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>This is what we would love students to retain,</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>even if they don't go into mathematical fields.</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>This is also something that, the way we teach it in the U.S.</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>all but ensures they won't retain it.</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>So, I'd like to talk about why that is,</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>why that's such a calamity for society, what we can do about it</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>and, to close with, why this is an amazing time</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>to be a math teacher.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>So first, five symptoms</span>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>that you're doing math reasoning wrong</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>in your classroom.</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>One is a lack of initiative; your students don't self-start.</span>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>You finish your lecture block</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>and immediately you have five hands going up</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>asking you to re-explain the entire thing at their desks.</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>Students lack perseverance.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>They lack retention; you find yourself</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>re-explaining concepts three months later, wholesale.</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>There's an aversion to word problems,</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>which describes 99 percent of my students.</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>And then the other one percent</span>
+<span class='talk-transcript__fragment' data-time='121000' id='t-121000'>is eagerly looking for the formula</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>to apply in that situation.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>This is really destructive.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>David Milch, creator of &quot;Deadwood&quot; and other amazing TV shows,</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>has a really good description for this.</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>He swore off creating</span>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>contemporary drama,</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>shows set in the present day,</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>because he saw that when people fill their mind</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>with four hours a day of, for example, &quot;Two and a Half Men,&quot; no disrespect,</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>it shapes the neural pathways, he said,</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>in such a way that they expect simple problems.</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>He called it, &quot;an impatience with irresolution.&quot;</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>You're impatient with things that don't resolve quickly.</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>You expect sitcom-sized problems that wrap up in 22 minutes,</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>three commercial breaks and a laugh track.</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>And I'll put it to all of you,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>what you already know, that no problem worth solving is that simple.</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>I am very concerned about this</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>because I'm going to retire in a world that my students will run.</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>I'm doing bad things</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>to my own future and well-being</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>when I teach this way.</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>I'm here to tell you that the way our textbooks -- particularly</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>mass-adopted textbooks -- teach math reasoning</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>and patient problem solving,</span>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>it's functionally equivalent to turning on &quot;Two and a Half Men&quot; and calling it a day.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>In all seriousness. Here's an example from a physics textbook.</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>It applies equally to math.</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>Notice, first of all here,</span>
+<span class='talk-transcript__fragment' data-time='198000' id='t-198000'>that you have exactly three pieces of information there,</span>
+<span class='talk-transcript__fragment' data-time='200000' id='t-200000'>each of which will figure into a formula</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>somewhere, eventually,</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>which the student will then compute.</span>
+<span class='talk-transcript__fragment' data-time='206000' id='t-206000'>I believe in real life.</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>And ask yourself, what problem have you solved, ever,</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>that was worth solving</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>where you knew all of the given information in advance;</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>where you didn't have a surplus of information and you had to filter it out,</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>or you didn't have sufficient information</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>and had to go find some.</span>
+<span class='talk-transcript__fragment' data-time='221000' id='t-221000'>I'm sure we all agree that no problem worth solving is like that.</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>And the textbook, I think, knows how it's hamstringing students</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>because, watch this, this is the practice problem set.</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>When it comes time to do the actual problem set,</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>we have problems like this right here</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>where we're just swapping out numbers and tweaking the context a little bit.</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>And if the student still doesn't recognize the stamp this was molded from,</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>it helpfully explains to you</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>what sample problem you can return to to find the formula.</span>
+<span class='talk-transcript__fragment' data-time='245000' id='t-245000'>You could literally, I mean this,</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>pass this particular unit without knowing any physics,</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>just knowing how to decode a textbook. That's a shame.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='253000' id='t-253000'>So I can diagnose the problem a little more specifically in math.</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>Here's a really cool problem. I like this.</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>It's about defining steepness and slope</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>using a ski lift.</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>But what you have here is actually four separate layers,</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>and I'm curious which of you can see the four separate layers</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>and, particularly, how when they're compressed together</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>and presented to the student all at once,</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>how that creates this impatient problem solving.</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>I'll define them here: You have the visual.</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>You also have the mathematical structure,</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>talking about grids, measurements, labels,</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>points, axes, that sort of thing.</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>You have substeps, which all lead to what we really want to talk about:</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>which section is the steepest.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>So I hope you can see.</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>I really hope you can see how what we're doing here</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>is taking a compelling question, a compelling answer,</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>but we're paving a smooth, straight path</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>from one to the other</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>and congratulating our students for how well</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>they can step over the small cracks in the way.</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>That's all we're doing here.</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>So I want to put to you that if we can separate these in a different way</span>
+<span class='talk-transcript__fragment' data-time='306000' id='t-306000'>and build them up with students,</span>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>we can have everything we're looking for in terms of patient problem solving.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>So right here I start with the visual,</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>and I immediately ask the question:</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>Which section is the steepest?</span>
+<span class='talk-transcript__fragment' data-time='317000' id='t-317000'>And this starts conversation</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>because the visual is created in such a way where you can defend two answers.</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>So you get people arguing against each other,</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>friend versus friend,</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>in pairs, journaling, whatever.</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>And then eventually we realize</span>
+<span class='talk-transcript__fragment' data-time='330000' id='t-330000'>it's getting annoying to talk about</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>the skier in the lower left-hand side of the screen</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>or the skier just above the mid line.</span>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>And we realize how great would it be</span>
+<span class='talk-transcript__fragment' data-time='338000' id='t-338000'>if we just had some A, B, C and D labels</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>to talk about them more easily.</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>And then as we start to define what does steepness mean,</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>we realize it would be nice to have some measurements</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>to really narrow it down, specifically what that means.</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>And then and only then,</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>we throw down that mathematical structure.</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>The math serves the conversation,</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>the conversation doesn't serve the math.</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>And at that point, I'll put it to you that nine out of 10 classes</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>are good to go on the whole slope, steepness thing.</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>But if you need to,</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>your students can then develop those substeps together.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>Do you guys see how this, right here, compared to that --</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>which one creates that patient problem solving, that math reasoning?</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>It's been obvious in my practice, to me.</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>And I'll yield the floor here for a second to Einstein,</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>who, I believe, has paid his dues.</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>He talked about the formulation of a problem being so incredibly important,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>and yet in my practice, in the U.S. here,</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>we just give problems to students;</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>we don't involve them in the formulation of the problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>So 90 percent of what I do</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>with my five hours of prep time per week</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>is to take fairly compelling elements</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>of problems like this from my textbook</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>and rebuild them in a way that supports math reasoning and patient problem solving.</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>And here's how it works.</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>I like this question. It's about a water tank.</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>The question is: How long will it take you to fill it up?</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>First things first, we eliminate all the substeps.</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>Students have to develop those,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>they have to formulate those.</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>And then notice that all the information written on there is stuff you'll need.</span>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>None of it's a distractor, so we lose that.</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>Students need to decide, &quot;All right, well,</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>does the height matter? Does the side of it matter?</span>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>Does the color of the valve matter? What matters here?&quot;</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>Such an underrepresented question in math curriculum.</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>So now we have a water tank.</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>How long will it take you to fill it up? And that's it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>And because this is the 21st century</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>and we would love to talk about the real world on its own terms,</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>not in terms of line art or clip art</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>that you so often see in textbooks,</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>we go out and we take a picture of it.</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>So now we have the real deal.</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>How long will it take it to fill it up?</span>
+<span class='talk-transcript__fragment' data-time='450000' id='t-450000'>And then even better is we take a video,</span>
+<span class='talk-transcript__fragment' data-time='452000' id='t-452000'>a video of someone filling it up.</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>And it's filling up slowly, agonizingly slowly.</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>It's tedious.</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>Students are looking at their watches, rolling their eyes,</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>and they're all wondering at some point or another,</span>
+<span class='talk-transcript__fragment' data-time='464000' id='t-464000'>&quot;Man, how long is it going to take to fill up?&quot;</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>That's how you know you've baited the hook, right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>And that question, off this right here, is really fun for me</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>because, like the intro,</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>I teach kids -- because of my inexperience --</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>I teach the kids that are the most remedial, all right?</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>And I've got kids who will not join a conversation about math</span>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>because someone else has the formula;</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>someone else knows how to work the formula better than me,</span>
+<span class='talk-transcript__fragment' data-time='494000' id='t-494000'>so I won't talk about it.</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>But here, every student is on a level playing field of intuition.</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>Everyone's filled something up with water before,</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>so I get kids answering the question, &quot;How long will it take?&quot;</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>I've got kids who are mathematically and conversationally intimidated</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>joining the conversation.</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>We put names on the board, attach them to guesses,</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>and kids have bought in here.</span>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>And then we follow the process I've described.</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>And the best part here, or one of the better parts</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>is that we don't get our answer from the answer key</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>in the back of the teacher's edition.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>We, instead, just watch the end of the movie.</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>And that's terrifying,</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>because the theoretical models that always work out</span>
+<span class='talk-transcript__fragment' data-time='532000' id='t-532000'>in the answer key in the back of a teacher's edition,</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>that's great, but</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>it's scary to talk about sources of error</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>when the theoretical does not match up with the practical.</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>But those conversations have been so valuable,</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>among the most valuable.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>So I'm here to report some really fun games</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>with students who come pre-installed</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>with these viruses day one of the class.</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>These are the kids who now, one semester in,</span>
+<span class='talk-transcript__fragment' data-time='553000' id='t-553000'>I can put something on the board,</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>totally new, totally foreign,</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>and they'll have a conversation about it for three or four minutes more</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>than they would have at the start of the year,</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>which is just so fun.</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>We're no longer averse to word problems,</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>because we've redefined what a word problem is.</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>We're no longer intimidated by math,</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>because we're slowly redefining what math is.</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>This has been a lot of fun.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>I encourage math teachers I talk to to use multimedia,</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>because it brings the real world into your classroom</span>
+<span class='talk-transcript__fragment' data-time='580000' id='t-580000'>in high resolution and full color;</span>
+<span class='talk-transcript__fragment' data-time='582000' id='t-582000'>to encourage student intuition for that level playing field;</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>to ask the shortest question you possibly can</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>and let those more specific questions come out in conversation;</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>to let students build the problem,</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>because Einstein said so;</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>and to finally, in total, just be less helpful,</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>because the textbook is helping you in all the wrong ways:</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>It's buying you out of your obligation,</span>
+<span class='talk-transcript__fragment' data-time='602000' id='t-602000'>for patient problem solving and math reasoning, to be less helpful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>And why this is an amazing time to be a math teacher right now</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>is because we have the tools to create</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>this high-quality curriculum in our front pocket.</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>It's ubiquitous and fairly cheap,</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>and the tools to distribute it</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>freely under open licenses</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>has also never been cheaper or more ubiquitous.</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>I put a video series on my blog not so long ago</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>and it got 6,000 views in two weeks.</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>I get emails still from teachers in countries I've never visited</span>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>saying, &quot;Wow, yeah. We had a good conversation about that.</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>Oh, and by the way, here's how I made your stuff better,&quot;</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>which, wow.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>I put this problem on my blog recently:</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>In a grocery store, which line do you get into,</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>the one that has one cart and 19 items</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>or the line with four carts and three, five, two and one items.</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>And the linear modeling involved in that was some good stuff for my classroom,</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>but it eventually got me on &quot;Good Morning America&quot; a few weeks later,</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>which is just bizarre, right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>And from all of this, I can only conclude</span>
+<span class='talk-transcript__fragment' data-time='656000' id='t-656000'>that people, not just students,</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>are really hungry for this.</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>Math makes sense of the world.</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>Math is the vocabulary</span>
+<span class='talk-transcript__fragment' data-time='664000' id='t-664000'>for your own intuition.</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>So I just really encourage you, whatever your stake is in education --</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>whether you're a student, parent, teacher, policy maker, whatever --</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>insist on better math curriculum.</span>
+<span class='talk-transcript__fragment' data-time='675000' id='t-675000'>We need more patient problem solvers. Thank you. (Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

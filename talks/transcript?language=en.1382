@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Skylar Tibbits: The emergence of &quot;4D printing&quot; | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Skylar Tibbits: The emergence of &quot;4D printing&quot; | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 3D printing has grown in sophistication since the late 1970s; TED Fellow Skylar Tibbits is shaping the next development, which he calls 4D printing, where the fourth dimension is time. This emerging technology will allow us to print objects that then reshape themselves or self-assemble over time. Think: a printed cube that folds before your eyes, or a printed pipe able to sense the need to expand or contract. " name="description" />
+<meta content="Skylar Tibbits" name="author" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The emergence of &quot;4D printing&quot;&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5067e7078880030b41aea9eb2b6fbddbdedc7728_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5067e7078880030b41aea9eb2b6fbddbdedc7728_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 3D printing has grown in sophistication since the late 1970s; TED Fellow Skylar Tibbits is shaping the next development, which he calls 4D printing, where the fourth dimension is time. This emerging technology will allow us to print objects that then reshape themselves or self-assemble over time. Think: a printed cube that folds before your eyes, or a printed pipe able to sense the need to expand or contract. " property="og:description" />
+<meta content="http://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1707?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='skylar_tibbits_the_emergence_of_4d_printing'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/809235">Timothy Covell</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1707?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="502" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5067e7078880030b41aea9eb2b6fbddbdedc7728_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration"> 8:22</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Skylar Tibbits</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1707?language=en' lang='en'>
+The emergence of &quot;4D printing&quot;
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Apr 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='346' id='t-346'>This is me building a prototype</span>
+<span class='talk-transcript__fragment' data-time='3116' id='t-3116'>for six hours straight.</span>
+<span class='talk-transcript__fragment' data-time='6036' id='t-6036'>This is slave labor to my own project.</span>
+<span class='talk-transcript__fragment' data-time='9957' id='t-9957'>This is what the DIY and maker movements really look like.</span>
+<span class='talk-transcript__fragment' data-time='14947' id='t-14947'>And this is an analogy for today's construction and manufacturing world</span>
+<span class='talk-transcript__fragment' data-time='19713' id='t-19713'>with brute-force assembly techniques.</span>
+<span class='talk-transcript__fragment' data-time='22501' id='t-22501'>And this is exactly why I started studying</span>
+<span class='talk-transcript__fragment' data-time='25335' id='t-25335'>how to program physical materials to build themselves.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='29604' id='t-29604'>But there is another world.</span>
+<span class='talk-transcript__fragment' data-time='31364' id='t-31364'>Today at the micro- and nanoscales,</span>
+<span class='talk-transcript__fragment' data-time='33359' id='t-33359'>there's an unprecedented revolution happening.</span>
+<span class='talk-transcript__fragment' data-time='36110' id='t-36110'>And this is the ability to program physical and biological materials</span>
+<span class='talk-transcript__fragment' data-time='40242' id='t-40242'>to change shape, change properties</span>
+<span class='talk-transcript__fragment' data-time='42966' id='t-42966'>and even compute outside of silicon-based matter.</span>
+<span class='talk-transcript__fragment' data-time='45952' id='t-45952'>There's even a software called cadnano</span>
+<span class='talk-transcript__fragment' data-time='48459' id='t-48459'>that allows us to design three-dimensional shapes</span>
+<span class='talk-transcript__fragment' data-time='51242' id='t-51242'>like nano robots or drug delivery systems</span>
+<span class='talk-transcript__fragment' data-time='54326' id='t-54326'>and use DNA to self-assemble those functional structures.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='58629' id='t-58629'>But if we look at the human scale,</span>
+<span class='talk-transcript__fragment' data-time='60702' id='t-60702'>there's massive problems that aren't being addressed</span>
+<span class='talk-transcript__fragment' data-time='63758' id='t-63758'>by those nanoscale technologies.</span>
+<span class='talk-transcript__fragment' data-time='66126' id='t-66126'>If we look at construction and manufacturing,</span>
+<span class='talk-transcript__fragment' data-time='68225' id='t-68225'>there's major inefficiencies, energy consumption</span>
+<span class='talk-transcript__fragment' data-time='72418' id='t-72418'>and excessive labor techniques.</span>
+<span class='talk-transcript__fragment' data-time='74745' id='t-74745'>In infrastructure, let's just take one example.</span>
+<span class='talk-transcript__fragment' data-time='77250' id='t-77250'>Take piping.</span>
+<span class='talk-transcript__fragment' data-time='78733' id='t-78733'>In water pipes, we have fixed-capacity water pipes</span>
+<span class='talk-transcript__fragment' data-time='82458' id='t-82458'>that have fixed flow rates, except for expensive pumps and valves.</span>
+<span class='talk-transcript__fragment' data-time='86917' id='t-86917'>We bury them in the ground.</span>
+<span class='talk-transcript__fragment' data-time='88208' id='t-88208'>If anything changes -- if the environment changes,</span>
+<span class='talk-transcript__fragment' data-time='90829' id='t-90829'>the ground moves, or demand changes --</span>
+<span class='talk-transcript__fragment' data-time='93466' id='t-93466'>we have to start from scratch and take them out and replace them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='97716' id='t-97716'>So I'd like to propose that we can combine those two worlds,</span>
+<span class='talk-transcript__fragment' data-time='101084' id='t-101084'>that we can combine the world of the nanoscale programmable adaptive materials</span>
+<span class='talk-transcript__fragment' data-time='106255' id='t-106255'>and the built environment.</span>
+<span class='talk-transcript__fragment' data-time='107932' id='t-107932'>And I don't mean automated machines.</span>
+<span class='talk-transcript__fragment' data-time='110118' id='t-110118'>I don't just mean smart machines that replace humans.</span>
+<span class='talk-transcript__fragment' data-time='112577' id='t-112577'>But I mean programmable materials that build themselves.</span>
+<span class='talk-transcript__fragment' data-time='116461' id='t-116461'>And that's called self-assembly,</span>
+<span class='talk-transcript__fragment' data-time='118517' id='t-118517'>which is a process by which disordered parts build an ordered structure</span>
+<span class='talk-transcript__fragment' data-time='123034' id='t-123034'>through only local interaction.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='125527' id='t-125527'>So what do we need if we want to do this at the human scale?</span>
+<span class='talk-transcript__fragment' data-time='128702' id='t-128702'>We need a few simple ingredients.</span>
+<span class='talk-transcript__fragment' data-time='130677' id='t-130677'>The first ingredient is materials and geometry,</span>
+<span class='talk-transcript__fragment' data-time='133516' id='t-133516'>and that needs to be tightly coupled with the energy source.</span>
+<span class='talk-transcript__fragment' data-time='136985' id='t-136985'>And you can use passive energy --</span>
+<span class='talk-transcript__fragment' data-time='138643' id='t-138643'>so heat, shaking, pneumatics, gravity, magnetics.</span>
+<span class='talk-transcript__fragment' data-time='143327' id='t-143327'>And then you need smartly designed interactions.</span>
+<span class='talk-transcript__fragment' data-time='146402' id='t-146402'>And those interactions allow for error correction,</span>
+<span class='talk-transcript__fragment' data-time='148535' id='t-148535'>and they allow the shapes to go from one state to another state.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='152535' id='t-152535'>So now I'm going to show you a number of projects that we've built,</span>
+<span class='talk-transcript__fragment' data-time='155767' id='t-155767'>from one-dimensional, two-dimensional, three-dimensional</span>
+<span class='talk-transcript__fragment' data-time='159051' id='t-159051'>and even four-dimensional systems.</span>
+<span class='talk-transcript__fragment' data-time='162118' id='t-162118'>So in one-dimensional systems --</span>
+<span class='talk-transcript__fragment' data-time='164004' id='t-164004'>this is a project called the self-folding proteins.</span>
+<span class='talk-transcript__fragment' data-time='166911' id='t-166911'>And the idea is that you take the three-dimensional structure of a protein --</span>
+<span class='talk-transcript__fragment' data-time='171618' id='t-171618'>in this case it's the crambin protein --</span>
+<span class='talk-transcript__fragment' data-time='174299' id='t-174299'>you take the backbone -- so no cross-linking, no environmental interactions --</span>
+<span class='talk-transcript__fragment' data-time='177945' id='t-177945'>and you break that down into a series of components.</span>
+<span class='talk-transcript__fragment' data-time='181096' id='t-181096'>And then we embed elastic.</span>
+<span class='talk-transcript__fragment' data-time='183370' id='t-183370'>And when I throw this up into the air and catch it,</span>
+<span class='talk-transcript__fragment' data-time='185711' id='t-185711'>it has the full three-dimensional structure of the protein, all of the intricacies.</span>
+<span class='talk-transcript__fragment' data-time='190562' id='t-190562'>And this gives us a tangible model</span>
+<span class='talk-transcript__fragment' data-time='192662' id='t-192662'>of the three-dimensional protein and how it folds</span>
+<span class='talk-transcript__fragment' data-time='196396' id='t-196396'>and all of the intricacies of the geometry.</span>
+<span class='talk-transcript__fragment' data-time='198680' id='t-198680'>So we can study this as a physical, intuitive model.</span>
+<span class='talk-transcript__fragment' data-time='202128' id='t-202128'>And we're also translating that into two-dimensional systems --</span>
+<span class='talk-transcript__fragment' data-time='204930' id='t-204930'>so flat sheets that can self-fold into three-dimensional structures.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='209229' id='t-209229'>In three dimensions, we did a project last year at TEDGlobal</span>
+<span class='talk-transcript__fragment' data-time='213682' id='t-213682'>with Autodesk and Arthur Olson</span>
+<span class='talk-transcript__fragment' data-time='215646' id='t-215646'>where we looked at autonomous parts --</span>
+<span class='talk-transcript__fragment' data-time='217344' id='t-217344'>so individual parts not pre-connected that can come together on their own.</span>
+<span class='talk-transcript__fragment' data-time='221663' id='t-221663'>And we built 500 of these glass beakers.</span>
+<span class='talk-transcript__fragment' data-time='224429' id='t-224429'>They had different molecular structures inside</span>
+<span class='talk-transcript__fragment' data-time='226896' id='t-226896'>and different colors that could be mixed and matched.</span>
+<span class='talk-transcript__fragment' data-time='229120' id='t-229120'>And we gave them away to all the TEDsters.</span>
+<span class='talk-transcript__fragment' data-time='231369' id='t-231369'>And so these became intuitive models</span>
+<span class='talk-transcript__fragment' data-time='233870' id='t-233870'>to understand how molecular self-assembly works at the human scale.</span>
+<span class='talk-transcript__fragment' data-time='237362' id='t-237362'>This is the polio virus.</span>
+<span class='talk-transcript__fragment' data-time='239179' id='t-239179'>You shake it hard and it breaks apart.</span>
+<span class='talk-transcript__fragment' data-time='241111' id='t-241111'>And then you shake it randomly</span>
+<span class='talk-transcript__fragment' data-time='242557' id='t-242557'>and it starts to error correct and built the structure on its own.</span>
+<span class='talk-transcript__fragment' data-time='246061' id='t-246061'>And this is demonstrating that through random energy,</span>
+<span class='talk-transcript__fragment' data-time='249028' id='t-249028'>we can build non-random shapes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='253656' id='t-253656'>We even demonstrated that we can do this at a much larger scale.</span>
+<span class='talk-transcript__fragment' data-time='257180' id='t-257180'>Last year at TED Long Beach,</span>
+<span class='talk-transcript__fragment' data-time='259334' id='t-259334'>we built an installation that builds installations.</span>
+<span class='talk-transcript__fragment' data-time='262545' id='t-262545'>The idea was, could we self-assemble furniture-scale objects?</span>
+<span class='talk-transcript__fragment' data-time='266082' id='t-266082'>So we built a large rotating chamber,</span>
+<span class='talk-transcript__fragment' data-time='268583' id='t-268583'>and people would come up and spin the chamber faster or slower,</span>
+<span class='talk-transcript__fragment' data-time='271796' id='t-271796'>adding energy to the system</span>
+<span class='talk-transcript__fragment' data-time='273381' id='t-273381'>and getting an intuitive understanding of how self-assembly works</span>
+<span class='talk-transcript__fragment' data-time='276827' id='t-276827'>and how we could use this</span>
+<span class='talk-transcript__fragment' data-time='278206' id='t-278206'>as a macroscale construction or manufacturing technique for products.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='282952' id='t-282952'>So remember, I said 4D.</span>
+<span class='talk-transcript__fragment' data-time='284619' id='t-284619'>So today for the first time, we're unveiling a new project,</span>
+<span class='talk-transcript__fragment' data-time='288314' id='t-288314'>which is a collaboration with Stratasys,</span>
+<span class='talk-transcript__fragment' data-time='290200' id='t-290200'>and it's called 4D printing.</span>
+<span class='talk-transcript__fragment' data-time='292035' id='t-292035'>The idea behind 4D printing</span>
+<span class='talk-transcript__fragment' data-time='293995' id='t-293995'>is that you take multi-material 3D printing --</span>
+<span class='talk-transcript__fragment' data-time='296995' id='t-296995'>so you can deposit multiple materials --</span>
+<span class='talk-transcript__fragment' data-time='299184' id='t-299184'>and you add a new capability,</span>
+<span class='talk-transcript__fragment' data-time='301068' id='t-301068'>which is transformation,</span>
+<span class='talk-transcript__fragment' data-time='302934' id='t-302934'>that right off the bed,</span>
+<span class='talk-transcript__fragment' data-time='304251' id='t-304251'>the parts can transform from one shape to another shape directly on their own.</span>
+<span class='talk-transcript__fragment' data-time='308578' id='t-308578'>And this is like robotics without wires or motors.</span>
+<span class='talk-transcript__fragment' data-time='312078' id='t-312078'>So you completely print this part,</span>
+<span class='talk-transcript__fragment' data-time='313729' id='t-313729'>and it can transform into something else.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='316533' id='t-316533'>We also worked with Autodesk on a software they're developing called Project Cyborg.</span>
+<span class='talk-transcript__fragment' data-time='321494' id='t-321494'>And this allows us to simulate this self-assembly behavior</span>
+<span class='talk-transcript__fragment' data-time='324617' id='t-324617'>and try to optimize which parts are folding when.</span>
+<span class='talk-transcript__fragment' data-time='327819' id='t-327819'>But most importantly, we can use this same software</span>
+<span class='talk-transcript__fragment' data-time='330549' id='t-330549'>for the design of nanoscale self-assembly systems</span>
+<span class='talk-transcript__fragment' data-time='333457' id='t-333457'>and human scale self-assembly systems.</span>
+<span class='talk-transcript__fragment' data-time='336300' id='t-336300'>These are parts being printed with multi-material properties.</span>
+<span class='talk-transcript__fragment' data-time='339813' id='t-339813'>Here's the first demonstration.</span>
+<span class='talk-transcript__fragment' data-time='341530' id='t-341530'>A single strand dipped in water</span>
+<span class='talk-transcript__fragment' data-time='343434' id='t-343434'>that completely self-folds on its own</span>
+<span class='talk-transcript__fragment' data-time='345783' id='t-345783'>into the letters M I T.</span>
+<span class='talk-transcript__fragment' data-time='349701' id='t-349701'>I'm biased.</span>
+<span class='talk-transcript__fragment' data-time='351523' id='t-351523'>This is another part, single strand, dipped in a bigger tank</span>
+<span class='talk-transcript__fragment' data-time='354972' id='t-354972'>that self-folds into a cube, a three-dimensional structure, on its own.</span>
+<span class='talk-transcript__fragment' data-time='359595' id='t-359595'>So no human interaction.</span>
+<span class='talk-transcript__fragment' data-time='361446' id='t-361446'>And we think this is the first time</span>
+<span class='talk-transcript__fragment' data-time='363335' id='t-363335'>that a program and transformation</span>
+<span class='talk-transcript__fragment' data-time='365582' id='t-365582'>has been embedded directly into the materials themselves.</span>
+<span class='talk-transcript__fragment' data-time='368832' id='t-368832'>And it also might just be the manufacturing technique</span>
+<span class='talk-transcript__fragment' data-time='371562' id='t-371562'>that allows us to produce more adaptive infrastructure in the future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='375696' id='t-375696'>So I know you're probably thinking,</span>
+<span class='talk-transcript__fragment' data-time='376882' id='t-376882'>okay, that's cool, but how do we use any of this stuff for the built environment?</span>
+<span class='talk-transcript__fragment' data-time='381114' id='t-381114'>So I've started a lab at MIT,</span>
+<span class='talk-transcript__fragment' data-time='383369' id='t-383369'>and it's called the Self-Assembly Lab.</span>
+<span class='talk-transcript__fragment' data-time='385251' id='t-385251'>And we're dedicated to trying to develop programmable materials</span>
+<span class='talk-transcript__fragment' data-time='388395' id='t-388395'>for the built environment.</span>
+<span class='talk-transcript__fragment' data-time='389586' id='t-389586'>And we think there's a few key sectors</span>
+<span class='talk-transcript__fragment' data-time='391549' id='t-391549'>that have fairly near-term applications.</span>
+<span class='talk-transcript__fragment' data-time='393863' id='t-393863'>One of those is in extreme environments.</span>
+<span class='talk-transcript__fragment' data-time='395918' id='t-395918'>These are scenarios where it's difficult to build,</span>
+<span class='talk-transcript__fragment' data-time='398464' id='t-398464'>our current construction techniques don't work,</span>
+<span class='talk-transcript__fragment' data-time='400952' id='t-400952'>it's too large, it's too dangerous, it's expensive, too many parts.</span>
+<span class='talk-transcript__fragment' data-time='404512' id='t-404512'>And space is a great example of that.</span>
+<span class='talk-transcript__fragment' data-time='406879' id='t-406879'>We're trying to design new scenarios for space</span>
+<span class='talk-transcript__fragment' data-time='409245' id='t-409245'>that have fully reconfigurable and self-assembly structures</span>
+<span class='talk-transcript__fragment' data-time='412545' id='t-412545'>that can go from highly functional systems from one to another.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='416235' id='t-416235'>Let's go back to infrastructure.</span>
+<span class='talk-transcript__fragment' data-time='418346' id='t-418346'>In infrastructure, we're working with a company out of Boston called Geosyntec.</span>
+<span class='talk-transcript__fragment' data-time='422245' id='t-422245'>And we're developing a new paradigm for piping.</span>
+<span class='talk-transcript__fragment' data-time='425045' id='t-425045'>Imagine if water pipes could expand or contract</span>
+<span class='talk-transcript__fragment' data-time='428668' id='t-428668'>to change capacity or change flow rate,</span>
+<span class='talk-transcript__fragment' data-time='431418' id='t-431418'>or maybe even undulate like peristaltics to move the water themselves.</span>
+<span class='talk-transcript__fragment' data-time='435952' id='t-435952'>So this isn't expensive pumps or valves.</span>
+<span class='talk-transcript__fragment' data-time='438562' id='t-438562'>This is a completely programmable and adaptive pipe on its own.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='442845' id='t-442845'>So I want to remind you today</span>
+<span class='talk-transcript__fragment' data-time='444660' id='t-444660'>of the harsh realities of assembly in our world.</span>
+<span class='talk-transcript__fragment' data-time='448044' id='t-448044'>These are complex things built with complex parts</span>
+<span class='talk-transcript__fragment' data-time='451509' id='t-451509'>that come together in complex ways.</span>
+<span class='talk-transcript__fragment' data-time='454294' id='t-454294'>So I would like to invite you from whatever industry you're from</span>
+<span class='talk-transcript__fragment' data-time='457493' id='t-457493'>to join us in reinventing and reimagining the world,</span>
+<span class='talk-transcript__fragment' data-time='461546' id='t-461546'>how things come together from the nanoscale to the human scale,</span>
+<span class='talk-transcript__fragment' data-time='465245' id='t-465245'>so that we can go from a world like this</span>
+<span class='talk-transcript__fragment' data-time='468320' id='t-468320'>to a world that's more like this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='480632' id='t-480632'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='482542' id='t-482542'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

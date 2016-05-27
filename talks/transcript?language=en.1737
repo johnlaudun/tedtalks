@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Kenneth Cukier: Big data is better data | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Kenneth Cukier: Big data is better data | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Self-driving cars were just the start. What&#39;s the future of big data-driven technology and design? In a thrilling science talk, Kenneth Cukier looks at what&#39;s next for machine learning -- and human knowledge." name="description" />
+<meta content="Kenneth Cukier" name="author" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Big data is better data&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Self-driving cars were just the start. What&#39;s the future of big data-driven technology and design? In a thrilling science talk, Kenneth Cukier looks at what&#39;s next for machine learning -- and human knowledge." property="og:description" />
+<meta content="http://www.ted.com/talks/kenneth_cukier_big_data_is_better_data/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592557,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2094?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='kenneth_cukier_big_data_is_better_data'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='da'>Danish</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2094?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="951" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:51</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Kenneth Cukier</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2094?language=en' lang='en'>
+Big data is better data
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='787' id='t-787'>America's favorite pie is?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='4632' id='t-4632'>Audience: Apple.
+Kenneth Cukier: Apple. Of course it is.</span>
+<span class='talk-transcript__fragment' data-time='8138' id='t-8138'>How do we know it?</span>
+<span class='talk-transcript__fragment' data-time='9369' id='t-9369'>Because of data.</span>
+<span class='talk-transcript__fragment' data-time='12122' id='t-12122'>You look at supermarket sales.</span>
+<span class='talk-transcript__fragment' data-time='14188' id='t-14188'>You look at supermarket
+sales of 30-centimeter pies</span>
+<span class='talk-transcript__fragment' data-time='17054' id='t-17054'>that are frozen, and apple wins, no contest.</span>
+<span class='talk-transcript__fragment' data-time='21129' id='t-21129'>The majority of the sales are apple.</span>
+<span class='talk-transcript__fragment' data-time='26309' id='t-26309'>But then supermarkets started selling</span>
+<span class='talk-transcript__fragment' data-time='29273' id='t-29273'>smaller, 11-centimeter pies,</span>
+<span class='talk-transcript__fragment' data-time='31856' id='t-31856'>and suddenly, apple fell to fourth or fifth place.</span>
+<span class='talk-transcript__fragment' data-time='36030' id='t-36030'>Why? What happened?</span>
+<span class='talk-transcript__fragment' data-time='38905' id='t-38905'>Okay, think about it.</span>
+<span class='talk-transcript__fragment' data-time='41723' id='t-41723'>When you buy a 30-centimeter pie,</span>
+<span class='talk-transcript__fragment' data-time='45571' id='t-45571'>the whole family has to agree,</span>
+<span class='talk-transcript__fragment' data-time='47832' id='t-47832'>and apple is everyone's second favorite.</span>
+<span class='talk-transcript__fragment' data-time='51623' id='t-51623'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='53558' id='t-53558'>But when you buy an individual 11-centimeter pie,</span>
+<span class='talk-transcript__fragment' data-time='57173' id='t-57173'>you can buy the one that you want.</span>
+<span class='talk-transcript__fragment' data-time='60918' id='t-60918'>You can get your first choice.</span>
+<span class='talk-transcript__fragment' data-time='64933' id='t-64933'>You have more data.</span>
+<span class='talk-transcript__fragment' data-time='66574' id='t-66574'>You can see something</span>
+<span class='talk-transcript__fragment' data-time='68128' id='t-68128'>that you couldn't see</span>
+<span class='talk-transcript__fragment' data-time='69260' id='t-69260'>when you only had smaller amounts of it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='73213' id='t-73213'>Now, the point here is that more data</span>
+<span class='talk-transcript__fragment' data-time='75688' id='t-75688'>doesn't just let us see more,</span>
+<span class='talk-transcript__fragment' data-time='77971' id='t-77971'>more of the same thing we were looking at.</span>
+<span class='talk-transcript__fragment' data-time='79825' id='t-79825'>More data allows us to see new.</span>
+<span class='talk-transcript__fragment' data-time='83438' id='t-83438'>It allows us to see better.</span>
+<span class='talk-transcript__fragment' data-time='86532' id='t-86532'>It allows us to see different.</span>
+<span class='talk-transcript__fragment' data-time='90188' id='t-90188'>In this case, it allows us to see</span>
+<span class='talk-transcript__fragment' data-time='93361' id='t-93361'>what America's favorite pie is:</span>
+<span class='talk-transcript__fragment' data-time='96274' id='t-96274'>not apple.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='98816' id='t-98816'>Now, you probably all have heard the term big data.</span>
+<span class='talk-transcript__fragment' data-time='102430' id='t-102430'>In fact, you're probably sick of hearing the term</span>
+<span class='talk-transcript__fragment' data-time='104487' id='t-104487'>big data.</span>
+<span class='talk-transcript__fragment' data-time='106117' id='t-106117'>It is true that there is a lot of hype around the term,</span>
+<span class='talk-transcript__fragment' data-time='109447' id='t-109447'>and that is very unfortunate,</span>
+<span class='talk-transcript__fragment' data-time='111779' id='t-111779'>because big data is an extremely important tool</span>
+<span class='talk-transcript__fragment' data-time='114825' id='t-114825'>by which society is going to advance.</span>
+<span class='talk-transcript__fragment' data-time='118559' id='t-118559'>In the past, we used to look at small data</span>
+<span class='talk-transcript__fragment' data-time='122120' id='t-122120'>and think about what it would mean</span>
+<span class='talk-transcript__fragment' data-time='123824' id='t-123824'>to try to understand the world,</span>
+<span class='talk-transcript__fragment' data-time='125320' id='t-125320'>and now we have a lot more of it,</span>
+<span class='talk-transcript__fragment' data-time='127311' id='t-127311'>more than we ever could before.</span>
+<span class='talk-transcript__fragment' data-time='130033' id='t-130033'>What we find is that when we have</span>
+<span class='talk-transcript__fragment' data-time='131910' id='t-131910'>a large body of data, we can fundamentally do things</span>
+<span class='talk-transcript__fragment' data-time='134634' id='t-134634'>that we couldn't do when we
+only had smaller amounts.</span>
+<span class='talk-transcript__fragment' data-time='137910' id='t-137910'>Big data is important, and big data is new,</span>
+<span class='talk-transcript__fragment' data-time='140551' id='t-140551'>and when you think about it,</span>
+<span class='talk-transcript__fragment' data-time='142328' id='t-142328'>the only way this planet is going to deal</span>
+<span class='talk-transcript__fragment' data-time='144544' id='t-144544'>with its global challenges —</span>
+<span class='talk-transcript__fragment' data-time='146333' id='t-146333'>to feed people, supply them with medical care,</span>
+<span class='talk-transcript__fragment' data-time='149870' id='t-149870'>supply them with energy, electricity,</span>
+<span class='talk-transcript__fragment' data-time='152680' id='t-152680'>and to make sure they're not burnt to a crisp</span>
+<span class='talk-transcript__fragment' data-time='154469' id='t-154469'>because of global warming —</span>
+<span class='talk-transcript__fragment' data-time='155707' id='t-155707'>is because of the effective use of data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='159902' id='t-159902'>So what is new about big 
+data? What is the big deal?</span>
+<span class='talk-transcript__fragment' data-time='163772' id='t-163772'>Well, to answer that question, let's think about</span>
+<span class='talk-transcript__fragment' data-time='166289' id='t-166289'>what information looked like,</span>
+<span class='talk-transcript__fragment' data-time='168185' id='t-168185'>physically looked like in the past.</span>
+<span class='talk-transcript__fragment' data-time='171219' id='t-171219'>In 1908, on the island of Crete,</span>
+<span class='talk-transcript__fragment' data-time='174830' id='t-174830'>archaeologists discovered a clay disc.</span>
+<span class='talk-transcript__fragment' data-time='179565' id='t-179565'>They dated it from 2000 B.C., so it's 4,000 years old.</span>
+<span class='talk-transcript__fragment' data-time='183624' id='t-183624'>Now, there's inscriptions on this disc,</span>
+<span class='talk-transcript__fragment' data-time='185628' id='t-185628'>but we actually don't know what it means.</span>
+<span class='talk-transcript__fragment' data-time='186955' id='t-186955'>It's a complete mystery, but the point is that</span>
+<span class='talk-transcript__fragment' data-time='189053' id='t-189053'>this is what information used to look like</span>
+<span class='talk-transcript__fragment' data-time='190981' id='t-190981'>4,000 years ago.</span>
+<span class='talk-transcript__fragment' data-time='193070' id='t-193070'>This is how society stored</span>
+<span class='talk-transcript__fragment' data-time='195618' id='t-195618'>and transmitted information.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='199142' id='t-199142'>Now, society hasn't advanced all that much.</span>
+<span class='talk-transcript__fragment' data-time='203302' id='t-203302'>We still store information on discs,</span>
+<span class='talk-transcript__fragment' data-time='206776' id='t-206776'>but now we can store a lot more information,</span>
+<span class='talk-transcript__fragment' data-time='209960' id='t-209960'>more than ever before.</span>
+<span class='talk-transcript__fragment' data-time='211220' id='t-211220'>Searching it is easier. Copying it easier.</span>
+<span class='talk-transcript__fragment' data-time='214313' id='t-214313'>Sharing it is easier. Processing it is easier.</span>
+<span class='talk-transcript__fragment' data-time='217813' id='t-217813'>And what we can do is we can reuse this information</span>
+<span class='talk-transcript__fragment' data-time='220579' id='t-220579'>for uses that we never even imagined</span>
+<span class='talk-transcript__fragment' data-time='222413' id='t-222413'>when we first collected the data.</span>
+<span class='talk-transcript__fragment' data-time='225608' id='t-225608'>In this respect, the data has gone</span>
+<span class='talk-transcript__fragment' data-time='227860' id='t-227860'>from a stock to a flow,</span>
+<span class='talk-transcript__fragment' data-time='231392' id='t-231392'>from something that is stationary and static</span>
+<span class='talk-transcript__fragment' data-time='235330' id='t-235330'>to something that is fluid and dynamic.</span>
+<span class='talk-transcript__fragment' data-time='238939' id='t-238939'>There is, if you will, a liquidity to information.</span>
+<span class='talk-transcript__fragment' data-time='242962' id='t-242962'>The disc that was discovered off of Crete</span>
+<span class='talk-transcript__fragment' data-time='246436' id='t-246436'>that's 4,000 years old, is heavy,</span>
+<span class='talk-transcript__fragment' data-time='250200' id='t-250200'>it doesn't store a lot of information,</span>
+<span class='talk-transcript__fragment' data-time='252162' id='t-252162'>and that information is unchangeable.</span>
+<span class='talk-transcript__fragment' data-time='255278' id='t-255278'>By contrast, all of the files</span>
+<span class='talk-transcript__fragment' data-time='259289' id='t-259289'>that Edward Snowden took</span>
+<span class='talk-transcript__fragment' data-time='261150' id='t-261150'>from the National Security
+Agency in the United States</span>
+<span class='talk-transcript__fragment' data-time='263771' id='t-263771'>fits on a memory stick</span>
+<span class='talk-transcript__fragment' data-time='266190' id='t-266190'>the size of a fingernail,</span>
+<span class='talk-transcript__fragment' data-time='269200' id='t-269200'>and it can be shared at the speed of light.</span>
+<span class='talk-transcript__fragment' data-time='273945' id='t-273945'>More data. More.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='279200' id='t-279200'>Now, one reason why we have
+so much data in the world today</span>
+<span class='talk-transcript__fragment' data-time='281174' id='t-281174'>is we are collecting things</span>
+<span class='talk-transcript__fragment' data-time='282606' id='t-282606'>that we've always collected information on,</span>
+<span class='talk-transcript__fragment' data-time='285886' id='t-285886'>but another reason why is we're taking things</span>
+<span class='talk-transcript__fragment' data-time='288542' id='t-288542'>that have always been informational</span>
+<span class='talk-transcript__fragment' data-time='291354' id='t-291354'>but have never been rendered into a data format</span>
+<span class='talk-transcript__fragment' data-time='293840' id='t-293840'>and we are putting it into data.</span>
+<span class='talk-transcript__fragment' data-time='296259' id='t-296259'>Think, for example, the question of location.</span>
+<span class='talk-transcript__fragment' data-time='299567' id='t-299567'>Take, for example, Martin Luther.</span>
+<span class='talk-transcript__fragment' data-time='301816' id='t-301816'>If we wanted to know in the 1500s</span>
+<span class='talk-transcript__fragment' data-time='303413' id='t-303413'>where Martin Luther was,</span>
+<span class='talk-transcript__fragment' data-time='306080' id='t-306080'>we would have to follow him at all times,</span>
+<span class='talk-transcript__fragment' data-time='308172' id='t-308172'>maybe with a feathery quill and an inkwell,</span>
+<span class='talk-transcript__fragment' data-time='310309' id='t-310309'>and record it,</span>
+<span class='talk-transcript__fragment' data-time='311985' id='t-311985'>but now think about what it looks like today.</span>
+<span class='talk-transcript__fragment' data-time='314168' id='t-314168'>You know that somewhere,</span>
+<span class='talk-transcript__fragment' data-time='316290' id='t-316290'>probably in a telecommunications carrier's database,</span>
+<span class='talk-transcript__fragment' data-time='318736' id='t-318736'>there is a spreadsheet or at least a database entry</span>
+<span class='talk-transcript__fragment' data-time='321772' id='t-321772'>that records your information</span>
+<span class='talk-transcript__fragment' data-time='323860' id='t-323860'>of where you've been at all times.</span>
+<span class='talk-transcript__fragment' data-time='325923' id='t-325923'>If you have a cell phone,</span>
+<span class='talk-transcript__fragment' data-time='327283' id='t-327283'>and that cell phone has GPS,
+but even if it doesn't have GPS,</span>
+<span class='talk-transcript__fragment' data-time='330130' id='t-330130'>it can record your information.</span>
+<span class='talk-transcript__fragment' data-time='332515' id='t-332515'>In this respect, location has been datafied.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='336599' id='t-336599'>Now think, for example, of the issue of posture,</span>
+<span class='talk-transcript__fragment' data-time='341200' id='t-341200'>the way that you are all sitting right now,</span>
+<span class='talk-transcript__fragment' data-time='342485' id='t-342485'>the way that you sit,</span>
+<span class='talk-transcript__fragment' data-time='344515' id='t-344515'>the way that you sit, the way that you sit.</span>
+<span class='talk-transcript__fragment' data-time='347286' id='t-347286'>It's all different, and it's a function of your leg length</span>
+<span class='talk-transcript__fragment' data-time='349363' id='t-349363'>and your back and the contours of your back,</span>
+<span class='talk-transcript__fragment' data-time='351456' id='t-351456'>and if I were to put sensors, 
+maybe 100 sensors</span>
+<span class='talk-transcript__fragment' data-time='353987' id='t-353987'>into all of your chairs right now,</span>
+<span class='talk-transcript__fragment' data-time='355753' id='t-355753'>I could create an index that's fairly unique to you,</span>
+<span class='talk-transcript__fragment' data-time='359353' id='t-359353'>sort of like a fingerprint, but it's not your finger.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='363762' id='t-363762'>So what could we do with this?</span>
+<span class='talk-transcript__fragment' data-time='366731' id='t-366731'>Researchers in Tokyo are using it</span>
+<span class='talk-transcript__fragment' data-time='369128' id='t-369128'>as a potential anti-theft device in cars.</span>
+<span class='talk-transcript__fragment' data-time='373516' id='t-373516'>The idea is that the carjacker sits behind the wheel,</span>
+<span class='talk-transcript__fragment' data-time='376440' id='t-376440'>tries to stream off, but the car recognizes</span>
+<span class='talk-transcript__fragment' data-time='378544' id='t-378544'>that a non-approved driver is behind the wheel,</span>
+<span class='talk-transcript__fragment' data-time='380906' id='t-380906'>and maybe the engine just stops, unless you</span>
+<span class='talk-transcript__fragment' data-time='383070' id='t-383070'>type in a password into the dashboard</span>
+<span class='talk-transcript__fragment' data-time='386247' id='t-386247'>to say, &quot;Hey, I have authorization to drive.&quot; Great.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='390905' id='t-390905'>What if every single car in Europe</span>
+<span class='talk-transcript__fragment' data-time='393458' id='t-393458'>had this technology in it?</span>
+<span class='talk-transcript__fragment' data-time='394915' id='t-394915'>What could we do then?</span>
+<span class='talk-transcript__fragment' data-time='398080' id='t-398080'>Maybe, if we aggregated the data,</span>
+<span class='talk-transcript__fragment' data-time='400320' id='t-400320'>maybe we could identify telltale signs</span>
+<span class='talk-transcript__fragment' data-time='404134' id='t-404134'>that best predict that a car accident</span>
+<span class='talk-transcript__fragment' data-time='406843' id='t-406843'>is going to take place in the next five seconds.</span>
+<span class='talk-transcript__fragment' data-time='412736' id='t-412736'>And then what we will have datafied</span>
+<span class='talk-transcript__fragment' data-time='415293' id='t-415293'>is driver fatigue,</span>
+<span class='talk-transcript__fragment' data-time='417076' id='t-417076'>and the service would be when the car senses</span>
+<span class='talk-transcript__fragment' data-time='419410' id='t-419410'>that the person slumps into that position,</span>
+<span class='talk-transcript__fragment' data-time='422847' id='t-422847'>automatically knows, hey, set an internal alarm</span>
+<span class='talk-transcript__fragment' data-time='426841' id='t-426841'>that would vibrate the steering wheel, honk inside</span>
+<span class='talk-transcript__fragment' data-time='428866' id='t-428866'>to say, &quot;Hey, wake up,</span>
+<span class='talk-transcript__fragment' data-time='430587' id='t-430587'>pay more attention to the road.&quot;</span>
+<span class='talk-transcript__fragment' data-time='432491' id='t-432491'>These are the sorts of things we can do</span>
+<span class='talk-transcript__fragment' data-time='434344' id='t-434344'>when we datafy more aspects of our lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='437165' id='t-437165'>So what is the value of big data?</span>
+<span class='talk-transcript__fragment' data-time='440840' id='t-440840'>Well, think about it.</span>
+<span class='talk-transcript__fragment' data-time='443030' id='t-443030'>You have more information.</span>
+<span class='talk-transcript__fragment' data-time='445442' id='t-445442'>You can do things that you couldn't do before.</span>
+<span class='talk-transcript__fragment' data-time='448783' id='t-448783'>One of the most impressive areas</span>
+<span class='talk-transcript__fragment' data-time='450459' id='t-450459'>where this concept is taking place</span>
+<span class='talk-transcript__fragment' data-time='452188' id='t-452188'>is in the area of machine learning.</span>
+<span class='talk-transcript__fragment' data-time='455495' id='t-455495'>Machine learning is a branch of artificial intelligence,</span>
+<span class='talk-transcript__fragment' data-time='458572' id='t-458572'>which itself is a branch of computer science.</span>
+<span class='talk-transcript__fragment' data-time='461950' id='t-461950'>The general idea is that instead of</span>
+<span class='talk-transcript__fragment' data-time='463493' id='t-463493'>instructing a computer what do do,</span>
+<span class='talk-transcript__fragment' data-time='465610' id='t-465610'>we are going to simply throw data at the problem</span>
+<span class='talk-transcript__fragment' data-time='468230' id='t-468230'>and tell the computer to figure it out for itself.</span>
+<span class='talk-transcript__fragment' data-time='471436' id='t-471436'>And it will help you understand it</span>
+<span class='talk-transcript__fragment' data-time='473213' id='t-473213'>by seeing its origins.</span>
+<span class='talk-transcript__fragment' data-time='476765' id='t-476765'>In the 1950s, a computer scientist</span>
+<span class='talk-transcript__fragment' data-time='479153' id='t-479153'>at IBM named Arthur Samuel liked to play checkers,</span>
+<span class='talk-transcript__fragment' data-time='482745' id='t-482745'>so he wrote a computer program</span>
+<span class='talk-transcript__fragment' data-time='484147' id='t-484147'>so he could play against the computer.</span>
+<span class='talk-transcript__fragment' data-time='486960' id='t-486960'>He played. He won.</span>
+<span class='talk-transcript__fragment' data-time='489671' id='t-489671'>He played. He won.</span>
+<span class='talk-transcript__fragment' data-time='491774' id='t-491774'>He played. He won,</span>
+<span class='talk-transcript__fragment' data-time='494789' id='t-494789'>because the computer only knew</span>
+<span class='talk-transcript__fragment' data-time='496567' id='t-496567'>what a legal move was.</span>
+<span class='talk-transcript__fragment' data-time='498794' id='t-498794'>Arthur Samuel knew something else.</span>
+<span class='talk-transcript__fragment' data-time='500881' id='t-500881'>Arthur Samuel knew strategy.</span>
+<span class='talk-transcript__fragment' data-time='505510' id='t-505510'>So he wrote a small sub-program alongside it</span>
+<span class='talk-transcript__fragment' data-time='507906' id='t-507906'>operating in the background, and all it did</span>
+<span class='talk-transcript__fragment' data-time='509880' id='t-509880'>was score the probability</span>
+<span class='talk-transcript__fragment' data-time='511697' id='t-511697'>that a given board configuration would likely lead</span>
+<span class='talk-transcript__fragment' data-time='514260' id='t-514260'>to a winning board versus a losing board</span>
+<span class='talk-transcript__fragment' data-time='517170' id='t-517170'>after every move.</span>
+<span class='talk-transcript__fragment' data-time='519678' id='t-519678'>He plays the computer. He wins.</span>
+<span class='talk-transcript__fragment' data-time='522828' id='t-522828'>He plays the computer. He wins.</span>
+<span class='talk-transcript__fragment' data-time='525336' id='t-525336'>He plays the computer. He wins.</span>
+<span class='talk-transcript__fragment' data-time='529067' id='t-529067'>And then Arthur Samuel leaves the computer</span>
+<span class='talk-transcript__fragment' data-time='531344' id='t-531344'>to play itself.</span>
+<span class='talk-transcript__fragment' data-time='533571' id='t-533571'>It plays itself. It collects more data.</span>
+<span class='talk-transcript__fragment' data-time='537080' id='t-537080'>It collects more data. It increases
+the accuracy of its prediction.</span>
+<span class='talk-transcript__fragment' data-time='541389' id='t-541389'>And then Arthur Samuel goes back to the computer</span>
+<span class='talk-transcript__fragment' data-time='543493' id='t-543493'>and he plays it, and he loses,</span>
+<span class='talk-transcript__fragment' data-time='545811' id='t-545811'>and he plays it, and he loses,</span>
+<span class='talk-transcript__fragment' data-time='547880' id='t-547880'>and he plays it, and he loses,</span>
+<span class='talk-transcript__fragment' data-time='549927' id='t-549927'>and Arthur Samuel has created a machine</span>
+<span class='talk-transcript__fragment' data-time='552526' id='t-552526'>that surpasses his ability in a task that he taught it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='558814' id='t-558814'>And this idea of machine learning</span>
+<span class='talk-transcript__fragment' data-time='561312' id='t-561312'>is going everywhere.</span>
+<span class='talk-transcript__fragment' data-time='565239' id='t-565239'>How do you think we have self-driving cars?</span>
+<span class='talk-transcript__fragment' data-time='568388' id='t-568388'>Are we any better off as a society</span>
+<span class='talk-transcript__fragment' data-time='570525' id='t-570525'>enshrining all the rules of the road into software?</span>
+<span class='talk-transcript__fragment' data-time='573810' id='t-573810'>No. Memory is cheaper. No.</span>
+<span class='talk-transcript__fragment' data-time='576408' id='t-576408'>Algorithms are faster. No. Processors are better. No.</span>
+<span class='talk-transcript__fragment' data-time='580402' id='t-580402'>All of those things matter, but that's not why.</span>
+<span class='talk-transcript__fragment' data-time='583174' id='t-583174'>It's because we changed the nature of the problem.</span>
+<span class='talk-transcript__fragment' data-time='586315' id='t-586315'>We changed the nature of the problem from one</span>
+<span class='talk-transcript__fragment' data-time='587845' id='t-587845'>in which we tried to overtly and explicitly</span>
+<span class='talk-transcript__fragment' data-time='590090' id='t-590090'>explain to the computer how to drive</span>
+<span class='talk-transcript__fragment' data-time='592671' id='t-592671'>to one in which we say,</span>
+<span class='talk-transcript__fragment' data-time='593987' id='t-593987'>&quot;Here's a lot of data around the vehicle.</span>
+<span class='talk-transcript__fragment' data-time='595863' id='t-595863'>You figure it out.</span>
+<span class='talk-transcript__fragment' data-time='597396' id='t-597396'>You figure it out that that is a traffic light,</span>
+<span class='talk-transcript__fragment' data-time='599263' id='t-599263'>that that traffic light is red and not green,</span>
+<span class='talk-transcript__fragment' data-time='601344' id='t-601344'>that that means that you need to stop</span>
+<span class='talk-transcript__fragment' data-time='603358' id='t-603358'>and not go forward.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='606441' id='t-606441'>Machine learning is at the basis</span>
+<span class='talk-transcript__fragment' data-time='607959' id='t-607959'>of many of the things that we do online:</span>
+<span class='talk-transcript__fragment' data-time='609950' id='t-609950'>search engines,</span>
+<span class='talk-transcript__fragment' data-time='611807' id='t-611807'>Amazon's personalization algorithm,</span>
+<span class='talk-transcript__fragment' data-time='615608' id='t-615608'>computer translation,</span>
+<span class='talk-transcript__fragment' data-time='617820' id='t-617820'>voice recognition systems.</span>
+<span class='talk-transcript__fragment' data-time='622110' id='t-622110'>Researchers recently have looked at</span>
+<span class='talk-transcript__fragment' data-time='624945' id='t-624945'>the question of biopsies,</span>
+<span class='talk-transcript__fragment' data-time='628140' id='t-628140'>cancerous biopsies,</span>
+<span class='talk-transcript__fragment' data-time='630907' id='t-630907'>and they've asked the computer to identify</span>
+<span class='talk-transcript__fragment' data-time='633222' id='t-633222'>by looking at the data and survival rates</span>
+<span class='talk-transcript__fragment' data-time='635693' id='t-635693'>to determine whether cells are actually</span>
+<span class='talk-transcript__fragment' data-time='640360' id='t-640360'>cancerous or not,</span>
+<span class='talk-transcript__fragment' data-time='642904' id='t-642904'>and sure enough, when you throw the data at it,</span>
+<span class='talk-transcript__fragment' data-time='644682' id='t-644682'>through a machine-learning algorithm,</span>
+<span class='talk-transcript__fragment' data-time='646729' id='t-646729'>the machine was able to identify</span>
+<span class='talk-transcript__fragment' data-time='648606' id='t-648606'>the 12 telltale signs that best predict</span>
+<span class='talk-transcript__fragment' data-time='650868' id='t-650868'>that this biopsy of the breast cancer cells</span>
+<span class='talk-transcript__fragment' data-time='654167' id='t-654167'>are indeed cancerous.</span>
+<span class='talk-transcript__fragment' data-time='657385' id='t-657385'>The problem: The medical literature</span>
+<span class='talk-transcript__fragment' data-time='659883' id='t-659883'>only knew nine of them.</span>
+<span class='talk-transcript__fragment' data-time='662672' id='t-662672'>Three of the traits were ones</span>
+<span class='talk-transcript__fragment' data-time='664472' id='t-664472'>that people didn't need to look for,</span>
+<span class='talk-transcript__fragment' data-time='667447' id='t-667447'>but that the machine spotted.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='672978' id='t-672978'>Now, there are dark sides to big data as well.</span>
+<span class='talk-transcript__fragment' data-time='678903' id='t-678903'>It will improve our lives, but there are problems</span>
+<span class='talk-transcript__fragment' data-time='680977' id='t-680977'>that we need to be conscious of,</span>
+<span class='talk-transcript__fragment' data-time='683617' id='t-683617'>and the first one is the idea</span>
+<span class='talk-transcript__fragment' data-time='686240' id='t-686240'>that we may be punished for predictions,</span>
+<span class='talk-transcript__fragment' data-time='688926' id='t-688926'>that the police may use big data for their purposes,</span>
+<span class='talk-transcript__fragment' data-time='692796' id='t-692796'>a little bit like &quot;Minority Report.&quot;</span>
+<span class='talk-transcript__fragment' data-time='695147' id='t-695147'>Now, it's a term called predictive policing,</span>
+<span class='talk-transcript__fragment' data-time='697588' id='t-697588'>or algorithmic criminology,</span>
+<span class='talk-transcript__fragment' data-time='699951' id='t-699951'>and the idea is that if we take a lot of data,</span>
+<span class='talk-transcript__fragment' data-time='701987' id='t-701987'>for example where past crimes have been,</span>
+<span class='talk-transcript__fragment' data-time='704146' id='t-704146'>we know where to send the patrols.</span>
+<span class='talk-transcript__fragment' data-time='706689' id='t-706689'>That makes sense, but the problem, of course,</span>
+<span class='talk-transcript__fragment' data-time='708804' id='t-708804'>is that it's not simply going to stop on location data,</span>
+<span class='talk-transcript__fragment' data-time='713348' id='t-713348'>it's going to go down to the level of the individual.</span>
+<span class='talk-transcript__fragment' data-time='716307' id='t-716307'>Why don't we use data about the person's</span>
+<span class='talk-transcript__fragment' data-time='718557' id='t-718557'>high school transcript?</span>
+<span class='talk-transcript__fragment' data-time='720785' id='t-720785'>Maybe we should use the fact that</span>
+<span class='talk-transcript__fragment' data-time='722346' id='t-722346'>they're unemployed or not, their credit score,</span>
+<span class='talk-transcript__fragment' data-time='724374' id='t-724374'>their web-surfing behavior,</span>
+<span class='talk-transcript__fragment' data-time='725926' id='t-725926'>whether they're up late at night.</span>
+<span class='talk-transcript__fragment' data-time='727804' id='t-727804'>Their Fitbit, when it's able
+to identify biochemistries,</span>
+<span class='talk-transcript__fragment' data-time='730965' id='t-730965'>will show that they have aggressive thoughts.</span>
+<span class='talk-transcript__fragment' data-time='735201' id='t-735201'>We may have algorithms that are likely to predict</span>
+<span class='talk-transcript__fragment' data-time='737422' id='t-737422'>what we are about to do,</span>
+<span class='talk-transcript__fragment' data-time='739055' id='t-739055'>and we may be held accountable</span>
+<span class='talk-transcript__fragment' data-time='740299' id='t-740299'>before we've actually acted.</span>
+<span class='talk-transcript__fragment' data-time='742889' id='t-742889'>Privacy was the central challenge</span>
+<span class='talk-transcript__fragment' data-time='744621' id='t-744621'>in a small data era.</span>
+<span class='talk-transcript__fragment' data-time='747501' id='t-747501'>In the big data age,</span>
+<span class='talk-transcript__fragment' data-time='749650' id='t-749650'>the challenge will be safeguarding free will,</span>
+<span class='talk-transcript__fragment' data-time='754173' id='t-754173'>moral choice, human volition,</span>
+<span class='talk-transcript__fragment' data-time='757952' id='t-757952'>human agency.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='762540' id='t-762540'>There is another problem:</span>
+<span class='talk-transcript__fragment' data-time='764765' id='t-764765'>Big data is going to steal our jobs.</span>
+<span class='talk-transcript__fragment' data-time='768321' id='t-768321'>Big data and algorithms are going to challenge</span>
+<span class='talk-transcript__fragment' data-time='771833' id='t-771833'>white collar, professional knowledge work</span>
+<span class='talk-transcript__fragment' data-time='774894' id='t-774894'>in the 21st century</span>
+<span class='talk-transcript__fragment' data-time='776547' id='t-776547'>in the same way that factory automation</span>
+<span class='talk-transcript__fragment' data-time='778981' id='t-778981'>and the assembly line</span>
+<span class='talk-transcript__fragment' data-time='781170' id='t-781170'>challenged blue collar labor in the 20th century.</span>
+<span class='talk-transcript__fragment' data-time='784196' id='t-784196'>Think about a lab technician</span>
+<span class='talk-transcript__fragment' data-time='786288' id='t-786288'>who is looking through a microscope</span>
+<span class='talk-transcript__fragment' data-time='787697' id='t-787697'>at a cancer biopsy</span>
+<span class='talk-transcript__fragment' data-time='789321' id='t-789321'>and determining whether it's cancerous or not.</span>
+<span class='talk-transcript__fragment' data-time='791958' id='t-791958'>The person went to university.</span>
+<span class='talk-transcript__fragment' data-time='793930' id='t-793930'>The person buys property.</span>
+<span class='talk-transcript__fragment' data-time='795360' id='t-795360'>He or she votes.</span>
+<span class='talk-transcript__fragment' data-time='797101' id='t-797101'>He or she is a stakeholder in society.</span>
+<span class='talk-transcript__fragment' data-time='800767' id='t-800767'>And that person's job,</span>
+<span class='talk-transcript__fragment' data-time='802161' id='t-802161'>as well as an entire fleet</span>
+<span class='talk-transcript__fragment' data-time='803770' id='t-803770'>of professionals like that person,</span>
+<span class='talk-transcript__fragment' data-time='805739' id='t-805739'>is going to find that their jobs are radically changed</span>
+<span class='talk-transcript__fragment' data-time='808889' id='t-808889'>or actually completely eliminated.</span>
+<span class='talk-transcript__fragment' data-time='811246' id='t-811246'>Now, we like to think</span>
+<span class='talk-transcript__fragment' data-time='812530' id='t-812530'>that technology creates jobs over a period of time</span>
+<span class='talk-transcript__fragment' data-time='815717' id='t-815717'>after a short, temporary period of dislocation,</span>
+<span class='talk-transcript__fragment' data-time='819182' id='t-819182'>and that is true for the frame of reference</span>
+<span class='talk-transcript__fragment' data-time='821123' id='t-821123'>with which we all live, the Industrial Revolution,</span>
+<span class='talk-transcript__fragment' data-time='823265' id='t-823265'>because that's precisely what happened.</span>
+<span class='talk-transcript__fragment' data-time='825593' id='t-825593'>But we forget something in that analysis:</span>
+<span class='talk-transcript__fragment' data-time='827926' id='t-827926'>There are some categories of jobs</span>
+<span class='talk-transcript__fragment' data-time='829756' id='t-829756'>that simply get eliminated and never come back.</span>
+<span class='talk-transcript__fragment' data-time='833176' id='t-833176'>The Industrial Revolution wasn't very good</span>
+<span class='talk-transcript__fragment' data-time='835180' id='t-835180'>if you were a horse.</span>
+<span class='talk-transcript__fragment' data-time='839182' id='t-839182'>So we're going to need to be careful</span>
+<span class='talk-transcript__fragment' data-time='841237' id='t-841237'>and take big data and adjust it for our needs,</span>
+<span class='talk-transcript__fragment' data-time='844751' id='t-844751'>our very human needs.</span>
+<span class='talk-transcript__fragment' data-time='847936' id='t-847936'>We have to be the master of this technology,</span>
+<span class='talk-transcript__fragment' data-time='849890' id='t-849890'>not its servant.</span>
+<span class='talk-transcript__fragment' data-time='851546' id='t-851546'>We are just at the outset of the big data era,</span>
+<span class='talk-transcript__fragment' data-time='854504' id='t-854504'>and honestly, we are not very good</span>
+<span class='talk-transcript__fragment' data-time='857654' id='t-857654'>at handling all the data that we can now collect.</span>
+<span class='talk-transcript__fragment' data-time='861861' id='t-861861'>It's not just a problem for
+the National Security Agency.</span>
+<span class='talk-transcript__fragment' data-time='865191' id='t-865191'>Businesses collect lots of
+data, and they misuse it too,</span>
+<span class='talk-transcript__fragment' data-time='868229' id='t-868229'>and we need to get better at
+this, and this will take time.</span>
+<span class='talk-transcript__fragment' data-time='871896' id='t-871896'>It's a little bit like the challenge that was faced</span>
+<span class='talk-transcript__fragment' data-time='873718' id='t-873718'>by primitive man and fire.</span>
+<span class='talk-transcript__fragment' data-time='876125' id='t-876125'>This is a tool, but this is a tool that,</span>
+<span class='talk-transcript__fragment' data-time='878010' id='t-878010'>unless we're careful, will burn us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='884008' id='t-884008'>Big data is going to transform how we live,</span>
+<span class='talk-transcript__fragment' data-time='887128' id='t-887128'>how we work and how we think.</span>
+<span class='talk-transcript__fragment' data-time='889929' id='t-889929'>It is going to help us manage our careers</span>
+<span class='talk-transcript__fragment' data-time='891818' id='t-891818'>and lead lives of satisfaction and hope</span>
+<span class='talk-transcript__fragment' data-time='895452' id='t-895452'>and happiness and health,</span>
+<span class='talk-transcript__fragment' data-time='898444' id='t-898444'>but in the past, we've often
+looked at information technology</span>
+<span class='talk-transcript__fragment' data-time='901750' id='t-901750'>and our eyes have only seen the T,</span>
+<span class='talk-transcript__fragment' data-time='903958' id='t-903958'>the technology, the hardware,</span>
+<span class='talk-transcript__fragment' data-time='905644' id='t-905644'>because that's what was physical.</span>
+<span class='talk-transcript__fragment' data-time='907906' id='t-907906'>We now need to recast our gaze at the I,</span>
+<span class='talk-transcript__fragment' data-time='910830' id='t-910830'>the information,</span>
+<span class='talk-transcript__fragment' data-time='912210' id='t-912210'>which is less apparent,</span>
+<span class='talk-transcript__fragment' data-time='913583' id='t-913583'>but in some ways a lot more important.</span>
+<span class='talk-transcript__fragment' data-time='917692' id='t-917692'>Humanity can finally learn from the information</span>
+<span class='talk-transcript__fragment' data-time='921157' id='t-921157'>that it can collect,</span>
+<span class='talk-transcript__fragment' data-time='923575' id='t-923575'>as part of our timeless quest</span>
+<span class='talk-transcript__fragment' data-time='925690' id='t-925690'>to understand the world and our place in it,</span>
+<span class='talk-transcript__fragment' data-time='928849' id='t-928849'>and that's why big data is a big deal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='934480' id='t-934480'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

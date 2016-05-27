@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Wingham Rowan: A new kind of job market | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Wingham Rowan: A new kind of job market | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Plenty of people need jobs with very flexible hours -- but it&#39;s difficult for those people to connect with the employers who need them. Wingham Rowan is working on that. He explains how the same technology that powers modern financial markets can help employers book workers for slivers of time." name="description" />
+<meta content="Wingham Rowan" name="author" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=ca" hreflang="ca" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A new kind of job market&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d4520528293e225eb073235edc336474ad2bb72c_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d4520528293e225eb073235edc336474ad2bb72c_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Plenty of people need jobs with very flexible hours -- but it&#39;s difficult for those people to connect with the employers who need them. Wingham Rowan is working on that. He explains how the same technology that powers modern financial markets can help employers book workers for slivers of time." property="og:description" />
+<meta content="http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1656?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='wingham_rowan_a_new_kind_of_job_market'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='ca'>Catalan</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/809235">Timothy Covell</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1656?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="740" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d4520528293e225eb073235edc336474ad2bb72c_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:20</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Wingham Rowan</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1656?language=en' lang='en'>
+A new kind of job market
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jan 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='319' id='t-319'>This is about a hidden corner of the labor market.</span>
+<span class='talk-transcript__fragment' data-time='3902' id='t-3902'>It's the world of people who need to work ultra-flexibly,</span>
+<span class='talk-transcript__fragment' data-time='7535' id='t-7535'>if they're to work at all.</span>
+<span class='talk-transcript__fragment' data-time='8852' id='t-8852'>So think, for instance,</span>
+<span class='talk-transcript__fragment' data-time='10019' id='t-10019'>of someone who has a recurring but unpredictable medical condition,</span>
+<span class='talk-transcript__fragment' data-time='13637' id='t-13637'>or somebody who's caring for a dependent adult,</span>
+<span class='talk-transcript__fragment' data-time='16420' id='t-16420'>or a parent with complex child care needs.</span>
+<span class='talk-transcript__fragment' data-time='19267' id='t-19267'>Their availability for work can be such that it's,</span>
+<span class='talk-transcript__fragment' data-time='22425' id='t-22425'>&quot;A few hours today.</span>
+<span class='talk-transcript__fragment' data-time='24118' id='t-24118'>Maybe I can work tomorrow, but I don't know if and when yet.&quot;</span>
+<span class='talk-transcript__fragment' data-time='27718' id='t-27718'>And it's extraordinarily difficult for these people</span>
+<span class='talk-transcript__fragment' data-time='30237' id='t-30237'>to find the work that they so often need very badly.</span>
+<span class='talk-transcript__fragment' data-time='33266' id='t-33266'>Which is a tragedy because there are employers</span>
+<span class='talk-transcript__fragment' data-time='36085' id='t-36085'>who can use pools of very flexible local people</span>
+<span class='talk-transcript__fragment' data-time='39391' id='t-39391'>booked completely ad hoc around when that person wants to work.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='43290' id='t-43290'>Imagine that you run a cafe.</span>
+<span class='talk-transcript__fragment' data-time='45891' id='t-45891'>It's mid-morning, the place is filling up.</span>
+<span class='talk-transcript__fragment' data-time='47558' id='t-47558'>You're going to have a busy lunchtime rush.</span>
+<span class='talk-transcript__fragment' data-time='49141' id='t-49141'>If you could get two extra workers for 90 minutes</span>
+<span class='talk-transcript__fragment' data-time='52458' id='t-52458'>to start in an hour's time,</span>
+<span class='talk-transcript__fragment' data-time='55112' id='t-55112'>you'd do it, but they'd have to be reliable, inducted in how your cafe works.</span>
+<span class='talk-transcript__fragment' data-time='60070' id='t-60070'>They'd have to be available at very competitive rates.</span>
+<span class='talk-transcript__fragment' data-time='61946' id='t-61946'>They'd have to be bookable in about the next minute.</span>
+<span class='talk-transcript__fragment' data-time='65113' id='t-65113'>In reality, no recruitment agency wants to handle that sort of business,</span>
+<span class='talk-transcript__fragment' data-time='69045' id='t-69045'>so you are going to muddle by, understaffed.</span>
+<span class='talk-transcript__fragment' data-time='72428' id='t-72428'>And it's not just caterers, it's hoteliers, it's retailers,</span>
+<span class='talk-transcript__fragment' data-time='74746' id='t-74746'>it's anyone who provides services to the public or businesses.</span>
+<span class='talk-transcript__fragment' data-time='78045' id='t-78045'>There's all sorts of organizations that can use these pools of very flexible people,</span>
+<span class='talk-transcript__fragment' data-time='82578' id='t-82578'>possibly already once they've been inducted.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='85729' id='t-85729'>At this level of the labor market,</span>
+<span class='talk-transcript__fragment' data-time='87762' id='t-87762'>what you need is a marketplace for spare hours.</span>
+<span class='talk-transcript__fragment' data-time='91612' id='t-91612'>They do exist. Here's how they work.</span>
+<span class='talk-transcript__fragment' data-time='93729' id='t-93729'>So in this example, a distribution company has said,</span>
+<span class='talk-transcript__fragment' data-time='97196' id='t-97196'>we've got a rush order that we've got to get out of the warehouse tomorrow morning.</span>
+<span class='talk-transcript__fragment' data-time='100479' id='t-100479'>Show us everyone who's available.</span>
+<span class='talk-transcript__fragment' data-time='101879' id='t-101879'>It's found 31 workers.</span>
+<span class='talk-transcript__fragment' data-time='103530' id='t-103530'>Everybody on this screen is genuinely available at those specific hours tomorrow.</span>
+<span class='talk-transcript__fragment' data-time='107062' id='t-107062'>They're all contactable in time for this booking.</span>
+<span class='talk-transcript__fragment' data-time='109396' id='t-109396'>They've all defined the terms on which they will accept bookings.</span>
+<span class='talk-transcript__fragment' data-time='113397' id='t-113397'>And this booking is within all the parameters for each individual.</span>
+<span class='talk-transcript__fragment' data-time='116811' id='t-116811'>And they would all be legally compliant by doing this booking.</span>
+<span class='talk-transcript__fragment' data-time='119372' id='t-119372'>Of course, they're all trained to work in warehouses.</span>
+<span class='talk-transcript__fragment' data-time='121296' id='t-121296'>You can select as many of them as you want.</span>
+<span class='talk-transcript__fragment' data-time='123511' id='t-123511'>They're from multiple agencies.</span>
+<span class='talk-transcript__fragment' data-time='124963' id='t-124963'>It's calculated the charge rate for each person for this specific booking.</span>
+<span class='talk-transcript__fragment' data-time='128895' id='t-128895'>And it's monitoring their reliability.</span>
+<span class='talk-transcript__fragment' data-time='131229' id='t-131229'>The people on the top row are the provenly reliable ones.</span>
+<span class='talk-transcript__fragment' data-time='134229' id='t-134229'>They're likely to be more expensive.</span>
+<span class='talk-transcript__fragment' data-time='135978' id='t-135978'>In an alternative view of this pool of local, very flexible people,</span>
+<span class='talk-transcript__fragment' data-time='139179' id='t-139179'>here's a market research company,</span>
+<span class='talk-transcript__fragment' data-time='140862' id='t-140862'>and it's inducted maybe 25 local people in how to do street interviewing.</span>
+<span class='talk-transcript__fragment' data-time='144812' id='t-144812'>And they've got a new campaign. They want to run it next week.</span>
+<span class='talk-transcript__fragment' data-time='147497' id='t-147497'>And they're looking at how many of the people they've inducted</span>
+<span class='talk-transcript__fragment' data-time='150896' id='t-150896'>are available each hour next week.</span>
+<span class='talk-transcript__fragment' data-time='153178' id='t-153178'>And they'll then decide when to do their street interviews.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='155912' id='t-155912'>But is there more that could be done</span>
+<span class='talk-transcript__fragment' data-time='158529' id='t-158529'>for this corner of the labor market?</span>
+<span class='talk-transcript__fragment' data-time='160279' id='t-160279'>Because right now there are so many people</span>
+<span class='talk-transcript__fragment' data-time='162965' id='t-162965'>who need whatever economic opportunity they can get.</span>
+<span class='talk-transcript__fragment' data-time='166563' id='t-166563'>Let's make it personal.</span>
+<span class='talk-transcript__fragment' data-time='168613' id='t-168613'>Imagine that a young woman -- base of the economic pyramid,</span>
+<span class='talk-transcript__fragment' data-time='171396' id='t-171396'>very little prospect of getting a job --</span>
+<span class='talk-transcript__fragment' data-time='173596' id='t-173596'>what economic activity could she theoretically engage in?</span>
+<span class='talk-transcript__fragment' data-time='177312' id='t-177312'>Well, she might be willing to work odd hours</span>
+<span class='talk-transcript__fragment' data-time='179596' id='t-179596'>in a call center, in a reception area, in a mail room.</span>
+<span class='talk-transcript__fragment' data-time='182896' id='t-182896'>She may be interested in providing local services to her community:</span>
+<span class='talk-transcript__fragment' data-time='186228' id='t-186228'>babysitting, local deliveries, pet care.</span>
+<span class='talk-transcript__fragment' data-time='188779' id='t-188779'>She may have possessions that she would like to trade</span>
+<span class='talk-transcript__fragment' data-time='191916' id='t-191916'>at times she doesn't need them.</span>
+<span class='talk-transcript__fragment' data-time='193162' id='t-193162'>So she might have a sofa bed in her front room that she would like to let out.</span>
+<span class='talk-transcript__fragment' data-time='196761' id='t-196761'>She might have a bike, a video games console she only uses occasionally.</span>
+<span class='talk-transcript__fragment' data-time='200929' id='t-200929'>And you're probably thinking -- because you're all very web-aware --</span>
+<span class='talk-transcript__fragment' data-time='204330' id='t-204330'>yes, and we're in the era of collaborative consumption,</span>
+<span class='talk-transcript__fragment' data-time='206895' id='t-206895'>so she can go online and do all this.</span>
+<span class='talk-transcript__fragment' data-time='208655' id='t-208655'>She can go to Airbnb to list her sofa bed,</span>
+<span class='talk-transcript__fragment' data-time='211313' id='t-211313'>she can go to TaskRabbit.com and say, &quot;I want to do local deliveries,&quot; and so on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='215197' id='t-215197'>These are good sites, but I believe we can go a step further.</span>
+<span class='talk-transcript__fragment' data-time='220547' id='t-220547'>And the key to that is a philosophy that we call modern markets for all.</span>
+<span class='talk-transcript__fragment' data-time='227161' id='t-227161'>Markets have changed beyond recognition in the last 20 years,</span>
+<span class='talk-transcript__fragment' data-time='231712' id='t-231712'>but only for organizations at the top of the economy.</span>
+<span class='talk-transcript__fragment' data-time='235396' id='t-235396'>If you're a Wall Street trader, you now take it for granted</span>
+<span class='talk-transcript__fragment' data-time='238396' id='t-238396'>that you sell your financial assets in a system of markets</span>
+<span class='talk-transcript__fragment' data-time='241312' id='t-241312'>that identifies the most profitable opportunities for you in real time,</span>
+<span class='talk-transcript__fragment' data-time='244895' id='t-244895'>executes on that in microseconds within the boundaries you've set.</span>
+<span class='talk-transcript__fragment' data-time='248548' id='t-248548'>It analyzes supply and demand and pricing</span>
+<span class='talk-transcript__fragment' data-time='251980' id='t-251980'>and tells you where your next wave of opportunities are coming from.</span>
+<span class='talk-transcript__fragment' data-time='254073' id='t-254073'>It manages counterparty risk in incredibly sophisticated ways.</span>
+<span class='talk-transcript__fragment' data-time='257623' id='t-257623'>It's all extremely low overhead.</span>
+<span class='talk-transcript__fragment' data-time='260057' id='t-260057'>What have we gained at the bottom of the economy</span>
+<span class='talk-transcript__fragment' data-time='263058' id='t-263058'>in terms of markets in the last 20 years?</span>
+<span class='talk-transcript__fragment' data-time='267152' id='t-267152'>Basically classified adverts with a search facility.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='273311' id='t-273311'>So why do we have this disparity</span>
+<span class='talk-transcript__fragment' data-time='275324' id='t-275324'>between these incredibly sophisticated markets at the top of the economy</span>
+<span class='talk-transcript__fragment' data-time='278874' id='t-278874'>that are increasingly sucking more and more activity and resource</span>
+<span class='talk-transcript__fragment' data-time='282490' id='t-282490'>out of the main economy into this rarefied level of trading,</span>
+<span class='talk-transcript__fragment' data-time='285939' id='t-285939'>and what the rest of us have?</span>
+<span class='talk-transcript__fragment' data-time='288323' id='t-288323'>A modern market is more than a website;</span>
+<span class='talk-transcript__fragment' data-time='291389' id='t-291389'>it's a web of interoperable marketplaces,</span>
+<span class='talk-transcript__fragment' data-time='294008' id='t-294008'>back office mechanisms, regulatory regimes,</span>
+<span class='talk-transcript__fragment' data-time='296542' id='t-296542'>settlement mechanisms, liquidity sources and so on.</span>
+<span class='talk-transcript__fragment' data-time='301439' id='t-301439'>And when a Wall Street trader comes into work in the morning,</span>
+<span class='talk-transcript__fragment' data-time='304590' id='t-304590'>she does not write a listing for every financial derivative she wants to sell today</span>
+<span class='talk-transcript__fragment' data-time='309789' id='t-309789'>and then post that listing on multiple websites</span>
+<span class='talk-transcript__fragment' data-time='312405' id='t-312405'>and wait for potential buyers to get in touch</span>
+<span class='talk-transcript__fragment' data-time='314905' id='t-314905'>and start negotiating the terms on which she might trade.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='318622' id='t-318622'>In the early days of this modern markets technology,</span>
+<span class='talk-transcript__fragment' data-time='321521' id='t-321521'>the financial institutions worked out</span>
+<span class='talk-transcript__fragment' data-time='323589' id='t-323589'>how they could leverage their buying power, their back office processes,</span>
+<span class='talk-transcript__fragment' data-time='327221' id='t-327221'>their relationships, their networks</span>
+<span class='talk-transcript__fragment' data-time='329521' id='t-329521'>to shape these new markets that would create all this new activity.</span>
+<span class='talk-transcript__fragment' data-time='334111' id='t-334111'>They asked governments for supporting regulatory regimes,</span>
+<span class='talk-transcript__fragment' data-time='337200' id='t-337200'>and in a lot of cases they got it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='339834' id='t-339834'>But throughout the economy,</span>
+<span class='talk-transcript__fragment' data-time='341784' id='t-341784'>there are facilities that could likewise leverage</span>
+<span class='talk-transcript__fragment' data-time='344602' id='t-344602'>a new generation of markets</span>
+<span class='talk-transcript__fragment' data-time='346201' id='t-346201'>for the benefit of all of us.</span>
+<span class='talk-transcript__fragment' data-time='348934' id='t-348934'>And those facilities --</span>
+<span class='talk-transcript__fragment' data-time='350902' id='t-350902'>I'm talking about things like the mechanisms that prove our identity,</span>
+<span class='talk-transcript__fragment' data-time='354618' id='t-354618'>the licensing authorities</span>
+<span class='talk-transcript__fragment' data-time='356901' id='t-356901'>that know what each of us is allowed to do legally at any given time,</span>
+<span class='talk-transcript__fragment' data-time='360734' id='t-360734'>the processes by which we resolve disputes through official channels.</span>
+<span class='talk-transcript__fragment' data-time='364402' id='t-364402'>These mechanisms, these facilities</span>
+<span class='talk-transcript__fragment' data-time='367251' id='t-367251'>are not in the gift of Craigslist or Gumtree or Yahoo,</span>
+<span class='talk-transcript__fragment' data-time='370800' id='t-370800'>they're controlled by the state.</span>
+<span class='talk-transcript__fragment' data-time='373902' id='t-373902'>And the policymakers who sit on top of them</span>
+<span class='talk-transcript__fragment' data-time='376633' id='t-376633'>are, I suggest, simply not thinking about how those facilities could be used</span>
+<span class='talk-transcript__fragment' data-time='382851' id='t-382851'>to underpin a whole new era of markets.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='385634' id='t-385634'>Like everyone else, those policymakers are taking it for granted</span>
+<span class='talk-transcript__fragment' data-time='390351' id='t-390351'>that modern markets are the preserve</span>
+<span class='talk-transcript__fragment' data-time='392619' id='t-392619'>of organizations powerful enough to create them for themselves.</span>
+<span class='talk-transcript__fragment' data-time='400530' id='t-400530'>Suppose we stopped taking that for granted.</span>
+<span class='talk-transcript__fragment' data-time='403957' id='t-403957'>Suppose tomorrow morning the prime minister of Britain or the president of the U.S.,</span>
+<span class='talk-transcript__fragment' data-time='407123' id='t-407123'>or the leader of any other developed nation,</span>
+<span class='talk-transcript__fragment' data-time='409305' id='t-409305'>woke up and said, &quot;I'm never going to be able to create</span>
+<span class='talk-transcript__fragment' data-time='413156' id='t-413156'>all the jobs I need in the current climate.</span>
+<span class='talk-transcript__fragment' data-time='415322' id='t-415322'>I have got to focus on whatever economic opportunity I can get to my citizens.</span>
+<span class='talk-transcript__fragment' data-time='420656' id='t-420656'>And for that they have to be able to access state-of-the-art markets.</span>
+<span class='talk-transcript__fragment' data-time='424623' id='t-424623'>How do I make that happen?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='426991' id='t-426991'>And I think I can see a few eyes rolling.</span>
+<span class='talk-transcript__fragment' data-time='429740' id='t-429740'>Politicians in a big, complex, sophisticated I.T. project?</span>
+<span class='talk-transcript__fragment' data-time='433522' id='t-433522'>Oh, that's going to be a disaster waiting to happen.</span>
+<span class='talk-transcript__fragment' data-time='437052' id='t-437052'>Not necessarily.</span>
+<span class='talk-transcript__fragment' data-time='440057' id='t-440057'>There is a precedent for technology-enabled service</span>
+<span class='talk-transcript__fragment' data-time='442905' id='t-442905'>that has been initiated by politicians in multiple countries</span>
+<span class='talk-transcript__fragment' data-time='446607' id='t-446607'>and has been hugely successful:</span>
+<span class='talk-transcript__fragment' data-time='449423' id='t-449423'>national lotteries.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='451873' id='t-451873'>Let's take Britain as an example.</span>
+<span class='talk-transcript__fragment' data-time='453623' id='t-453623'>Our government didn't design the national lottery,</span>
+<span class='talk-transcript__fragment' data-time='456223' id='t-456223'>it didn't fund the national lottery, it doesn't operate the national lottery.</span>
+<span class='talk-transcript__fragment' data-time='459006' id='t-459006'>It simply passed the National Lottery Act and this is what followed.</span>
+<span class='talk-transcript__fragment' data-time='464157' id='t-464157'>This act defines what a national lottery will look like.</span>
+<span class='talk-transcript__fragment' data-time='467422' id='t-467422'>It specifies certain benefits</span>
+<span class='talk-transcript__fragment' data-time='469090' id='t-469090'>that the state can uniquely bestow on the operators.</span>
+<span class='talk-transcript__fragment' data-time='471773' id='t-471773'>And it puts some obligations on those operators.</span>
+<span class='talk-transcript__fragment' data-time='474472' id='t-474472'>In terms of spreading gambling activity to the masses,</span>
+<span class='talk-transcript__fragment' data-time='477822' id='t-477822'>this was an unqualified success.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='480856' id='t-480856'>But let's suppose that our aim</span>
+<span class='talk-transcript__fragment' data-time='482640' id='t-482640'>is to bring new economic activity to the base of the pyramid.</span>
+<span class='talk-transcript__fragment' data-time='486523' id='t-486523'>Could we use the same model?</span>
+<span class='talk-transcript__fragment' data-time='488673' id='t-488673'>I believe we could.</span>
+<span class='talk-transcript__fragment' data-time='490457' id='t-490457'>So imagine that policymakers outlined a facility.</span>
+<span class='talk-transcript__fragment' data-time='494573' id='t-494573'>Let's call it national e-markets, NEMs for short.</span>
+<span class='talk-transcript__fragment' data-time='498557' id='t-498557'>Think of it as a regulated public utility.</span>
+<span class='talk-transcript__fragment' data-time='500406' id='t-500406'>So it's on a par with the water supply or the road network.</span>
+<span class='talk-transcript__fragment' data-time='503290' id='t-503290'>And it's a series of markets for low-level trade</span>
+<span class='talk-transcript__fragment' data-time='507406' id='t-507406'>that can be fulfilled by a person or a small company.</span>
+<span class='talk-transcript__fragment' data-time='510223' id='t-510223'>And government has certain benefits</span>
+<span class='talk-transcript__fragment' data-time='512972' id='t-512972'>it can uniquely bestow on these markets.</span>
+<span class='talk-transcript__fragment' data-time='515522' id='t-515522'>It's about public spending going through these markets</span>
+<span class='talk-transcript__fragment' data-time='518306' id='t-518306'>to buy public services at the local level.</span>
+<span class='talk-transcript__fragment' data-time='520905' id='t-520905'>It's about interfacing these markets</span>
+<span class='talk-transcript__fragment' data-time='522640' id='t-522640'>direct into the highest official channels in the land.</span>
+<span class='talk-transcript__fragment' data-time='526290' id='t-526290'>It's about enshrining government's role as a publicist for these markets.</span>
+<span class='talk-transcript__fragment' data-time='529690' id='t-529690'>It's about deregulating some sectors</span>
+<span class='talk-transcript__fragment' data-time='532472' id='t-532472'>so that local people can enter them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='533905' id='t-533905'>So, taxi journeys might be one example.</span>
+<span class='talk-transcript__fragment' data-time='536157' id='t-536157'>And there are certain obligations that should go with those benefits</span>
+<span class='talk-transcript__fragment' data-time='540939' id='t-540939'>to be placed on the operators,</span>
+<span class='talk-transcript__fragment' data-time='542540' id='t-542540'>and the key one is, of course,</span>
+<span class='talk-transcript__fragment' data-time='544040' id='t-544040'>that the operators pay for everything,</span>
+<span class='talk-transcript__fragment' data-time='546906' id='t-546906'>including all the interfacing into the public sector.</span>
+<span class='talk-transcript__fragment' data-time='549907' id='t-549907'>So imagine that the operators make their return</span>
+<span class='talk-transcript__fragment' data-time='553473' id='t-553473'>by building a percentage markup into each transaction.</span>
+<span class='talk-transcript__fragment' data-time='556656' id='t-556656'>Imagine that there's a concession period</span>
+<span class='talk-transcript__fragment' data-time='559090' id='t-559090'>defined of maybe 15 years</span>
+<span class='talk-transcript__fragment' data-time='561523' id='t-561523'>in which they can take all these benefits and run with them.</span>
+<span class='talk-transcript__fragment' data-time='565989' id='t-565989'>And imagine that the consortia who bid to run it are told,</span>
+<span class='talk-transcript__fragment' data-time='569306' id='t-569306'>whoever comes in at the lowest percentage markup on each transaction</span>
+<span class='talk-transcript__fragment' data-time='572939' id='t-572939'>to fund the whole thing</span>
+<span class='talk-transcript__fragment' data-time='574431' id='t-574431'>will get the deal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='575806' id='t-575806'>So government then exits the frame.</span>
+<span class='talk-transcript__fragment' data-time='577606' id='t-577606'>This is now in the hands of the consortium.</span>
+<span class='talk-transcript__fragment' data-time='579239' id='t-579239'>Either they are going to unlock an awful lot of economic opportunity</span>
+<span class='talk-transcript__fragment' data-time='581790' id='t-581790'>and make a percentage on all of it</span>
+<span class='talk-transcript__fragment' data-time='583874' id='t-583874'>or it's all going to crash and burn,</span>
+<span class='talk-transcript__fragment' data-time='585473' id='t-585473'>which is tough on their shareholders.</span>
+<span class='talk-transcript__fragment' data-time='587090' id='t-587090'>It doesn't bother the taxpayer necessarily.</span>
+<span class='talk-transcript__fragment' data-time='589540' id='t-589540'>And there would be no constraints on alternative markets.</span>
+<span class='talk-transcript__fragment' data-time='594190' id='t-594190'>So this would just be one more choice</span>
+<span class='talk-transcript__fragment' data-time='596623' id='t-596623'>among millions of Internet forums.</span>
+<span class='talk-transcript__fragment' data-time='599439' id='t-599439'>But it could be very different,</span>
+<span class='talk-transcript__fragment' data-time='601989' id='t-601989'>because having access to those state-backed facilities</span>
+<span class='talk-transcript__fragment' data-time='605607' id='t-605607'>could incentivize this consortium</span>
+<span class='talk-transcript__fragment' data-time='607940' id='t-607940'>to seriously invest in the service.</span>
+<span class='talk-transcript__fragment' data-time='610057' id='t-610057'>Because they would have to get a lot of these small transactions going</span>
+<span class='talk-transcript__fragment' data-time='613124' id='t-613124'>to start making their return.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='614855' id='t-614855'>So we're talking about sectors like home hair care,</span>
+<span class='talk-transcript__fragment' data-time='619746' id='t-619746'>the hire of toys, farm work,</span>
+<span class='talk-transcript__fragment' data-time='623703' id='t-623703'>hire of clothes even, meals delivered to your door,</span>
+<span class='talk-transcript__fragment' data-time='627322' id='t-627322'>services for tourists, home care.</span>
+<span class='talk-transcript__fragment' data-time='629129' id='t-629129'>This would be a world of very small trades, but very well-informed,</span>
+<span class='talk-transcript__fragment' data-time='635912' id='t-635912'>because national e-markets will deliver data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='639779' id='t-639779'>So this is a local person</span>
+<span class='talk-transcript__fragment' data-time='642412' id='t-642412'>potentially deciding whether to enter the babysitting market.</span>
+<span class='talk-transcript__fragment' data-time='645412' id='t-645412'>And they might be aware that they would have to fund vetting and training</span>
+<span class='talk-transcript__fragment' data-time='648261' id='t-648261'>if they wanted to go into that market.</span>
+<span class='talk-transcript__fragment' data-time='649661' id='t-649661'>They'd have to do assessment interviews with local parents</span>
+<span class='talk-transcript__fragment' data-time='652279' id='t-652279'>who wanted a pool of babysitters.</span>
+<span class='talk-transcript__fragment' data-time='653779' id='t-653779'>Is it worth their while?</span>
+<span class='talk-transcript__fragment' data-time='655180' id='t-655180'>Should they be looking at other sectors?</span>
+<span class='talk-transcript__fragment' data-time='656880' id='t-656880'>Should they be moving to another part of the country</span>
+<span class='talk-transcript__fragment' data-time='658764' id='t-658764'>where there's a shortage of babysitters?</span>
+<span class='talk-transcript__fragment' data-time='661013' id='t-661013'>This kind of data can become routine.</span>
+<span class='talk-transcript__fragment' data-time='663363' id='t-663363'>And this data can be used by investors.</span>
+<span class='talk-transcript__fragment' data-time='665397' id='t-665397'>So if there's a problem with a shortage of babysitters in some parts of the country</span>
+<span class='talk-transcript__fragment' data-time='668563' id='t-668563'>and the problem is nobody can afford the vetting and training,</span>
+<span class='talk-transcript__fragment' data-time='671462' id='t-671462'>an investor can pay for it</span>
+<span class='talk-transcript__fragment' data-time='673046' id='t-673046'>and the system will tithe back the enhanced earnings of the individuals</span>
+<span class='talk-transcript__fragment' data-time='676730' id='t-676730'>for maybe the next two years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='678379' id='t-678379'>This is a world of atomized capitalism.</span>
+<span class='talk-transcript__fragment' data-time='681680' id='t-681680'>So it's small trades by small people,</span>
+<span class='talk-transcript__fragment' data-time='683712' id='t-683712'>but it's very informed, safe, convenient, low-overhead and immediate.</span>
+<span class='talk-transcript__fragment' data-time='690579' id='t-690579'>Some rough research suggests this could unlock</span>
+<span class='talk-transcript__fragment' data-time='693504' id='t-693504'>around 100 million pounds' worth a day of new economic activity</span>
+<span class='talk-transcript__fragment' data-time='697705' id='t-697705'>in a country the size of the U.K.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='699655' id='t-699655'>Does that sound improbable to you?</span>
+<span class='talk-transcript__fragment' data-time='702388' id='t-702388'>That's what a lot of people said about turbo trading</span>
+<span class='talk-transcript__fragment' data-time='706521' id='t-706521'>in financial exchanges 20 years ago.</span>
+<span class='talk-transcript__fragment' data-time='709573' id='t-709573'>Do not underestimate the transformative power</span>
+<span class='talk-transcript__fragment' data-time='712673' id='t-712673'>of truly modern markets.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='715829' id='t-715829'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='717455' id='t-717455'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

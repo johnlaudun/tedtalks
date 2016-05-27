@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Chris Urmson: How a driverless car sees the road | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Chris Urmson: How a driverless car sees the road | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Statistically, the least reliable part of the car is ... the driver. Chris Urmson heads up Google&#39;s driverless car program, one of several efforts to remove humans from the driver&#39;s seat. He talks about where his program is right now, and shares fascinating footage that shows how the car sees the road and makes autonomous decisions about what to do next." name="description" />
+<meta content="Chris Urmson" name="author" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;How a driverless car sees the road&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a1523f43703309c29b372a29981afc7c5f2977b_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a1523f43703309c29b372a29981afc7c5f2977b_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Statistically, the least reliable part of the car is ... the driver. Chris Urmson heads up Google&#39;s driverless car program, one of several efforts to remove humans from the driver&#39;s seat. He talks about where his program is right now, and shares fascinating footage that shows how the car sees the road and makes autonomous decisions about what to do next." property="og:description" />
+<meta content="http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2291?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='chris_urmson_how_a_driverless_car_sees_the_road'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2291?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="929" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a1523f43703309c29b372a29981afc7c5f2977b_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:29</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Chris Urmson</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2291?language=en' lang='en'>
+How a driverless car sees the road
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jun 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='528' id='t-528'>So in 1885, Karl Benz
+invented the automobile.</span>
+<span class='talk-transcript__fragment' data-time='4707' id='t-4707'>Later that year, he took it out
+for the first public test drive,</span>
+<span class='talk-transcript__fragment' data-time='8469' id='t-8469'>and -- true story --
+crashed into a wall.</span>
+<span class='talk-transcript__fragment' data-time='12184' id='t-12184'>For the last 130 years,</span>
+<span class='talk-transcript__fragment' data-time='14227' id='t-14227'>we've been working around that least
+reliable part of the car, the driver.</span>
+<span class='talk-transcript__fragment' data-time='18546' id='t-18546'>We've made the car stronger.</span>
+<span class='talk-transcript__fragment' data-time='20200' id='t-20200'>We've added seat belts,
+we've added air bags,</span>
+<span class='talk-transcript__fragment' data-time='22748' id='t-22748'>and in the last decade, we've actually
+started trying to make the car smarter</span>
+<span class='talk-transcript__fragment' data-time='26719' id='t-26719'>to fix that bug, the driver.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='29657' id='t-29657'>Now, today I'm going to talk to you
+a little bit about the difference</span>
+<span class='talk-transcript__fragment' data-time='32918' id='t-32918'>between patching around the problem
+with driver assistance systems</span>
+<span class='talk-transcript__fragment' data-time='36726' id='t-36726'>and actually having fully
+self-driving cars</span>
+<span class='talk-transcript__fragment' data-time='39290' id='t-39290'>and what they can do for the world.</span>
+<span class='talk-transcript__fragment' data-time='41170' id='t-41170'>I'm also going to talk to you
+a little bit about our car</span>
+<span class='talk-transcript__fragment' data-time='44165' id='t-44165'>and allow you to see how it sees the world
+and how it reacts and what it does,</span>
+<span class='talk-transcript__fragment' data-time='48164' id='t-48164'>but first I'm going to talk
+a little bit about the problem.</span>
+<span class='talk-transcript__fragment' data-time='51651' id='t-51651'>And it's a big problem:</span>
+<span class='talk-transcript__fragment' data-time='53299' id='t-53299'>1.2 million people are killed
+on the world's roads every year.</span>
+<span class='talk-transcript__fragment' data-time='56388' id='t-56388'>In America alone, 33,000 people
+are killed each year.</span>
+<span class='talk-transcript__fragment' data-time='60172' id='t-60172'>To put that in perspective,</span>
+<span class='talk-transcript__fragment' data-time='62200' id='t-62200'>that's the same as a 737
+falling out of the sky every working day.</span>
+<span class='talk-transcript__fragment' data-time='67342' id='t-67342'>It's kind of unbelievable.</span>
+<span class='talk-transcript__fragment' data-time='69548' id='t-69548'>Cars are sold to us like this,</span>
+<span class='talk-transcript__fragment' data-time='71846' id='t-71846'>but really, this is what driving's like.</span>
+<span class='talk-transcript__fragment' data-time='74563' id='t-74563'>Right? It's not sunny, it's rainy,</span>
+<span class='talk-transcript__fragment' data-time='76722' id='t-76722'>and you want to do anything
+other than drive.</span>
+<span class='talk-transcript__fragment' data-time='79210' id='t-79210'>And the reason why is this:</span>
+<span class='talk-transcript__fragment' data-time='80832' id='t-80832'>Traffic is getting worse.</span>
+<span class='talk-transcript__fragment' data-time='82690' id='t-82690'>In America, between 1990 and 2010,</span>
+<span class='talk-transcript__fragment' data-time='86196' id='t-86196'>the vehicle miles traveled
+increased by 38 percent.</span>
+<span class='talk-transcript__fragment' data-time='90213' id='t-90213'>We grew by six percent of roads,</span>
+<span class='talk-transcript__fragment' data-time='92962' id='t-92962'>so it's not in your brains.</span>
+<span class='talk-transcript__fragment' data-time='94564' id='t-94564'>Traffic really is substantially worse
+than it was not very long ago.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='98840' id='t-98840'>And all of this has a very human cost.</span>
+<span class='talk-transcript__fragment' data-time='101529' id='t-101529'>So if you take the average commute time
+in America, which is about 50 minutes,</span>
+<span class='talk-transcript__fragment' data-time='105477' id='t-105477'>you multiply that by the 120 million
+workers we have,</span>
+<span class='talk-transcript__fragment' data-time='109126' id='t-109126'>that turns out to be
+about six billion minutes</span>
+<span class='talk-transcript__fragment' data-time='111351' id='t-111351'>wasted in commuting every day.</span>
+<span class='talk-transcript__fragment' data-time='113377' id='t-113377'>Now, that's a big number,
+so let's put it in perspective.</span>
+<span class='talk-transcript__fragment' data-time='116204' id='t-116204'>You take that six billion minutes</span>
+<span class='talk-transcript__fragment' data-time='117978' id='t-117978'>and you divide it by the average
+life expectancy of a person,</span>
+<span class='talk-transcript__fragment' data-time='121762' id='t-121762'>that turns out to be 162 lifetimes</span>
+<span class='talk-transcript__fragment' data-time='124897' id='t-124897'>spent every day, wasted,</span>
+<span class='talk-transcript__fragment' data-time='127822' id='t-127822'>just getting from A to B.</span>
+<span class='talk-transcript__fragment' data-time='129866' id='t-129866'>It's unbelievable.</span>
+<span class='talk-transcript__fragment' data-time='131596' id='t-131596'>And then, there are those of us
+who don't have the privilege</span>
+<span class='talk-transcript__fragment' data-time='134440' id='t-134440'>of sitting in traffic.</span>
+<span class='talk-transcript__fragment' data-time='136112' id='t-136112'>So this is Steve.</span>
+<span class='talk-transcript__fragment' data-time='137690' id='t-137690'>He's an incredibly capable guy,</span>
+<span class='talk-transcript__fragment' data-time='139455' id='t-139455'>but he just happens to be blind,</span>
+<span class='talk-transcript__fragment' data-time='141971' id='t-141971'>and that means instead of a 30-minute
+drive to work in the morning,</span>
+<span class='talk-transcript__fragment' data-time='145188' id='t-145188'>it's a two-hour ordeal
+of piecing together bits of public transit</span>
+<span class='talk-transcript__fragment' data-time='149167' id='t-149167'>or asking friends and family for a ride.</span>
+<span class='talk-transcript__fragment' data-time='151552' id='t-151552'>He doesn't have that same freedom
+that you and I have to get around.</span>
+<span class='talk-transcript__fragment' data-time='155221' id='t-155221'>We should do something about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='157891' id='t-157891'>Now, conventional wisdom would say</span>
+<span class='talk-transcript__fragment' data-time='159648' id='t-159648'>that we'll just take
+these driver assistance systems</span>
+<span class='talk-transcript__fragment' data-time='162140' id='t-162140'>and we'll kind of push them
+and incrementally improve them,</span>
+<span class='talk-transcript__fragment' data-time='165890' id='t-165890'>and over time, they'll turn
+into self-driving cars.</span>
+<span class='talk-transcript__fragment' data-time='168432' id='t-168432'>Well, I'm here to tell you
+that's like me saying</span>
+<span class='talk-transcript__fragment' data-time='170841' id='t-170841'>that if I work really hard at jumping,
+one day I'll be able to fly.</span>
+<span class='talk-transcript__fragment' data-time='174898' id='t-174898'>We actually need to do
+something a little different.</span>
+<span class='talk-transcript__fragment' data-time='177626' id='t-177626'>And so I'm going to talk to you
+about three different ways</span>
+<span class='talk-transcript__fragment' data-time='180337' id='t-180337'>that self-driving systems are different
+than driver assistance systems.</span>
+<span class='talk-transcript__fragment' data-time='183683' id='t-183683'>And I'm going to start
+with some of our own experience.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186334' id='t-186334'>So back in 2013,</span>
+<span class='talk-transcript__fragment' data-time='188587' id='t-188587'>we had the first test
+of a self-driving car</span>
+<span class='talk-transcript__fragment' data-time='191250' id='t-191250'>where we let regular people use it.</span>
+<span class='talk-transcript__fragment' data-time='193277' id='t-193277'>Well, almost regular --
+they were 100 Googlers,</span>
+<span class='talk-transcript__fragment' data-time='195479' id='t-195479'>but they weren't working on the project.</span>
+<span class='talk-transcript__fragment' data-time='197482' id='t-197482'>And we gave them the car and we allowed
+them to use it in their daily lives.</span>
+<span class='talk-transcript__fragment' data-time='201103' id='t-201103'>But unlike a real self-driving car,
+this one had a big asterisk with it:</span>
+<span class='talk-transcript__fragment' data-time='204822' id='t-204822'>They had to pay attention,</span>
+<span class='talk-transcript__fragment' data-time='206326' id='t-206326'>because this was an experimental vehicle.</span>
+<span class='talk-transcript__fragment' data-time='208959' id='t-208959'>We tested it a lot,
+but it could still fail.</span>
+<span class='talk-transcript__fragment' data-time='212484' id='t-212484'>And so we gave them two hours of training,</span>
+<span class='talk-transcript__fragment' data-time='214543' id='t-214543'>we put them in the car,
+we let them use it,</span>
+<span class='talk-transcript__fragment' data-time='216635' id='t-216635'>and what we heard back
+was something awesome,</span>
+<span class='talk-transcript__fragment' data-time='218762' id='t-218762'>as someone trying
+to bring a product into the world.</span>
+<span class='talk-transcript__fragment' data-time='221286' id='t-221286'>Every one of them told us they loved it.</span>
+<span class='talk-transcript__fragment' data-time='223211' id='t-223211'>In fact, we had a Porsche driver
+who came in and told us on the first day,</span>
+<span class='talk-transcript__fragment' data-time='226777' id='t-226777'>&quot;This is completely stupid.
+What are we thinking?&quot;</span>
+<span class='talk-transcript__fragment' data-time='229850' id='t-229850'>But at the end of it, he said,
+&quot;Not only should I have it,</span>
+<span class='talk-transcript__fragment' data-time='232690' id='t-232690'>everyone else should have it,
+because people are terrible drivers.&quot;</span>
+<span class='talk-transcript__fragment' data-time='237135' id='t-237135'>So this was music to our ears,</span>
+<span class='talk-transcript__fragment' data-time='238870' id='t-238870'>but then we started to look at what
+the people inside the car were doing,</span>
+<span class='talk-transcript__fragment' data-time='242673' id='t-242673'>and this was eye-opening.</span>
+<span class='talk-transcript__fragment' data-time='244252' id='t-244252'>Now, my favorite story is this gentleman</span>
+<span class='talk-transcript__fragment' data-time='246690' id='t-246690'>who looks down at his phone
+and realizes the battery is low,</span>
+<span class='talk-transcript__fragment' data-time='250519' id='t-250519'>so he turns around like this in the car
+and digs around in his backpack,</span>
+<span class='talk-transcript__fragment' data-time='255067' id='t-255067'>pulls out his laptop,</span>
+<span class='talk-transcript__fragment' data-time='257220' id='t-257220'>puts it on the seat,</span>
+<span class='talk-transcript__fragment' data-time='258787' id='t-258787'>goes in the back again,</span>
+<span class='talk-transcript__fragment' data-time='260551' id='t-260551'>digs around, pulls out
+the charging cable for his phone,</span>
+<span class='talk-transcript__fragment' data-time='263918' id='t-263918'>futzes around, puts it into the laptop,
+puts it on the phone.</span>
+<span class='talk-transcript__fragment' data-time='267285' id='t-267285'>Sure enough, the phone is charging.</span>
+<span class='talk-transcript__fragment' data-time='269328' id='t-269328'>All the time he's been doing
+65 miles per hour down the freeway.</span>
+<span class='talk-transcript__fragment' data-time='273322' id='t-273322'>Right? Unbelievable.</span>
+<span class='talk-transcript__fragment' data-time='275806' id='t-275806'>So we thought about this and we said,
+it's kind of obvious, right?</span>
+<span class='talk-transcript__fragment' data-time='278927' id='t-278927'>The better the technology gets,</span>
+<span class='talk-transcript__fragment' data-time='281190' id='t-281190'>the less reliable
+the driver is going to get.</span>
+<span class='talk-transcript__fragment' data-time='283311' id='t-283311'>So by just making the cars
+incrementally smarter,</span>
+<span class='talk-transcript__fragment' data-time='285707' id='t-285707'>we're probably not going to see
+the wins we really need.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='288609' id='t-288609'>Let me talk about something
+a little technical for a moment here.</span>
+<span class='talk-transcript__fragment' data-time='292510' id='t-292510'>So we're looking at this graph,
+and along the bottom</span>
+<span class='talk-transcript__fragment' data-time='294948' id='t-294948'>is how often does the car
+apply the brakes when it shouldn't.</span>
+<span class='talk-transcript__fragment' data-time='297999' id='t-297999'>You can ignore most of that axis,</span>
+<span class='talk-transcript__fragment' data-time='299620' id='t-299620'>because if you're driving around town,
+and the car starts stopping randomly,</span>
+<span class='talk-transcript__fragment' data-time='303339' id='t-303339'>you're never going to buy that car.</span>
+<span class='talk-transcript__fragment' data-time='305040' id='t-305040'>And the vertical axis is how often
+the car is going to apply the brakes</span>
+<span class='talk-transcript__fragment' data-time='308415' id='t-308415'>when it's supposed to
+to help you avoid an accident.</span>
+<span class='talk-transcript__fragment' data-time='311464' id='t-311464'>Now, if we look at
+the bottom left corner here,</span>
+<span class='talk-transcript__fragment' data-time='313685' id='t-313685'>this is your classic car.</span>
+<span class='talk-transcript__fragment' data-time='315530' id='t-315530'>It doesn't apply the brakes for you,
+it doesn't do anything goofy,</span>
+<span class='talk-transcript__fragment' data-time='318663' id='t-318663'>but it also doesn't get you
+out of an accident.</span>
+<span class='talk-transcript__fragment' data-time='321442' id='t-321442'>Now, if we want to bring
+a driver assistance system into a car,</span>
+<span class='talk-transcript__fragment' data-time='324460' id='t-324460'>say with collision mitigation braking,</span>
+<span class='talk-transcript__fragment' data-time='326288' id='t-326288'>we're going to put some package
+of technology on there,</span>
+<span class='talk-transcript__fragment' data-time='328900' id='t-328900'>and that's this curve, and it's going
+to have some operating properties,</span>
+<span class='talk-transcript__fragment' data-time='332318' id='t-332318'>but it's never going to avoid
+all of the accidents,</span>
+<span class='talk-transcript__fragment' data-time='334808' id='t-334808'>because it doesn't have that capability.</span>
+<span class='talk-transcript__fragment' data-time='336867' id='t-336867'>But we'll pick some place
+along the curve here,</span>
+<span class='talk-transcript__fragment' data-time='339116' id='t-339116'>and maybe it avoids half of accidents
+that the human driver misses,</span>
+<span class='talk-transcript__fragment' data-time='342370' id='t-342370'>and that's amazing, right?</span>
+<span class='talk-transcript__fragment' data-time='343667' id='t-343667'>We just reduced accidents on our roads
+by a factor of two.</span>
+<span class='talk-transcript__fragment' data-time='346394' id='t-346394'>There are now 17,000 less people
+dying every year in America.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='350381' id='t-350381'>But if we want a self-driving car,</span>
+<span class='talk-transcript__fragment' data-time='352401' id='t-352401'>we need a technology curve
+that looks like this.</span>
+<span class='talk-transcript__fragment' data-time='354708' id='t-354708'>We're going to have to put
+more sensors in the vehicle,</span>
+<span class='talk-transcript__fragment' data-time='357307' id='t-357307'>and we'll pick some
+operating point up here</span>
+<span class='talk-transcript__fragment' data-time='359328' id='t-359328'>where it basically never
+gets into a crash.</span>
+<span class='talk-transcript__fragment' data-time='361347' id='t-361347'>They'll happen, but very low frequency.</span>
+<span class='talk-transcript__fragment' data-time='363790' id='t-363790'>Now you and I could look at this
+and we could argue</span>
+<span class='talk-transcript__fragment' data-time='366251' id='t-366251'>about whether it's incremental, and
+I could say something like &quot;80-20 rule,&quot;</span>
+<span class='talk-transcript__fragment' data-time='369856' id='t-369856'>and it's really hard to move up
+to that new curve.</span>
+<span class='talk-transcript__fragment' data-time='372424' id='t-372424'>But let's look at it
+from a different direction for a moment.</span>
+<span class='talk-transcript__fragment' data-time='375358' id='t-375358'>So let's look at how often
+the technology has to do the right thing.</span>
+<span class='talk-transcript__fragment' data-time='378870' id='t-378870'>And so this green dot up here
+is a driver assistance system.</span>
+<span class='talk-transcript__fragment' data-time='382376' id='t-382376'>It turns out that human drivers</span>
+<span class='talk-transcript__fragment' data-time='384861' id='t-384861'>make mistakes that lead
+to traffic accidents</span>
+<span class='talk-transcript__fragment' data-time='387508' id='t-387508'>about once every 100,000 miles in America.</span>
+<span class='talk-transcript__fragment' data-time='390680' id='t-390680'>In contrast, a self-driving system
+is probably making decisions</span>
+<span class='talk-transcript__fragment' data-time='393847' id='t-393847'>about 10 times per second,</span>
+<span class='talk-transcript__fragment' data-time='397510' id='t-397510'>so order of magnitude,</span>
+<span class='talk-transcript__fragment' data-time='398932' id='t-398932'>that's about 1,000 times per mile.</span>
+<span class='talk-transcript__fragment' data-time='401764' id='t-401764'>So if you compare the distance
+between these two,</span>
+<span class='talk-transcript__fragment' data-time='404249' id='t-404249'>it's about 10 to the eighth, right?</span>
+<span class='talk-transcript__fragment' data-time='406849' id='t-406849'>Eight orders of magnitude.</span>
+<span class='talk-transcript__fragment' data-time='408614' id='t-408614'>That's like comparing how fast I run</span>
+<span class='talk-transcript__fragment' data-time='411423' id='t-411423'>to the speed of light.</span>
+<span class='talk-transcript__fragment' data-time='413629' id='t-413629'>It doesn't matter how hard I train,
+I'm never actually going to get there.</span>
+<span class='talk-transcript__fragment' data-time='417414' id='t-417414'>So there's a pretty big gap there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='419852' id='t-419852'>And then finally, there's how
+the system can handle uncertainty.</span>
+<span class='talk-transcript__fragment' data-time='423581' id='t-423581'>So this pedestrian here might be
+stepping into the road, might not be.</span>
+<span class='talk-transcript__fragment' data-time='426904' id='t-426904'>I can't tell,
+nor can any of our algorithms,</span>
+<span class='talk-transcript__fragment' data-time='430310' id='t-430310'>but in the case of
+a driver assistance system,</span>
+<span class='talk-transcript__fragment' data-time='432594' id='t-432594'>that means it can't take action,
+because again,</span>
+<span class='talk-transcript__fragment' data-time='435400' id='t-435400'>if it presses the brakes unexpectedly,
+that's completely unacceptable.</span>
+<span class='talk-transcript__fragment' data-time='438739' id='t-438739'>Whereas a self-driving system
+can look at that pedestrian and say,</span>
+<span class='talk-transcript__fragment' data-time='441872' id='t-441872'>I don't know what they're about to do,</span>
+<span class='talk-transcript__fragment' data-time='443762' id='t-443762'>slow down, take a better look,
+and then react appropriately after that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='447524' id='t-447524'>So it can be much safer than
+a driver assistance system can ever be.</span>
+<span class='talk-transcript__fragment' data-time='451226' id='t-451226'>So that's enough about
+the differences between the two.</span>
+<span class='talk-transcript__fragment' data-time='453956' id='t-453956'>Let's spend some time talking about
+how the car sees the world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='457440' id='t-457440'>So this is our vehicle.</span>
+<span class='talk-transcript__fragment' data-time='458692' id='t-458692'>It starts by understanding
+where it is in the world,</span>
+<span class='talk-transcript__fragment' data-time='461130' id='t-461130'>by taking a map and its sensor data
+and aligning the two,</span>
+<span class='talk-transcript__fragment' data-time='463917' id='t-463917'>and then we layer on top of that
+what it sees in the moment.</span>
+<span class='talk-transcript__fragment' data-time='466865' id='t-466865'>So here, all the purple boxes you can see
+are other vehicles on the road,</span>
+<span class='talk-transcript__fragment' data-time='470520' id='t-470520'>and the red thing on the side
+over there is a cyclist,</span>
+<span class='talk-transcript__fragment' data-time='473048' id='t-473048'>and up in the distance,
+if you look really closely,</span>
+<span class='talk-transcript__fragment' data-time='475450' id='t-475450'>you can see some cones.</span>
+<span class='talk-transcript__fragment' data-time='477244' id='t-477244'>Then we know where the car
+is in the moment,</span>
+<span class='talk-transcript__fragment' data-time='480017' id='t-480017'>but we have to do better than that:
+we have to predict what's going to happen.</span>
+<span class='talk-transcript__fragment' data-time='483850' id='t-483850'>So here the pickup truck in top right
+is about to make a left lane change</span>
+<span class='talk-transcript__fragment' data-time='487338' id='t-487338'>because the road in front of it is closed,</span>
+<span class='talk-transcript__fragment' data-time='489561' id='t-489561'>so it needs to get out of the way.</span>
+<span class='talk-transcript__fragment' data-time='491292' id='t-491292'>Knowing that one pickup truck is great,</span>
+<span class='talk-transcript__fragment' data-time='493155' id='t-493155'>but we really need to know
+what everybody's thinking,</span>
+<span class='talk-transcript__fragment' data-time='495634' id='t-495634'>so it becomes quite a complicated problem.</span>
+<span class='talk-transcript__fragment' data-time='498141' id='t-498141'>And then given that, we can figure out
+how the car should respond in the moment,</span>
+<span class='talk-transcript__fragment' data-time='502890' id='t-502890'>so what trajectory it should follow, how
+quickly it should slow down or speed up.</span>
+<span class='talk-transcript__fragment' data-time='506756' id='t-506756'>And then that all turns into
+just following a path:</span>
+<span class='talk-transcript__fragment' data-time='509821' id='t-509821'>turning the steering wheel left or right,
+pressing the brake or gas.</span>
+<span class='talk-transcript__fragment' data-time='513018' id='t-513018'>It's really just two numbers
+at the end of the day.</span>
+<span class='talk-transcript__fragment' data-time='515482' id='t-515482'>So how hard can it really be?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='518433' id='t-518433'>Back when we started in 2009,</span>
+<span class='talk-transcript__fragment' data-time='520385' id='t-520385'>this is what our system looked like.</span>
+<span class='talk-transcript__fragment' data-time='522183' id='t-522183'>So you can see our car in the middle
+and the other boxes on the road,</span>
+<span class='talk-transcript__fragment' data-time='525574' id='t-525574'>driving down the highway.</span>
+<span class='talk-transcript__fragment' data-time='526845' id='t-526845'>The car needs to understand where it is
+and roughly where the other vehicles are.</span>
+<span class='talk-transcript__fragment' data-time='530663' id='t-530663'>It's really a geometric
+understanding of the world.</span>
+<span class='talk-transcript__fragment' data-time='533092' id='t-533092'>Once we started driving
+on neighborhood and city streets,</span>
+<span class='talk-transcript__fragment' data-time='536040' id='t-536040'>the problem becomes a whole
+new level of difficulty.</span>
+<span class='talk-transcript__fragment' data-time='538485' id='t-538485'>You see pedestrians crossing in front
+of us, cars crossing in front of us,</span>
+<span class='talk-transcript__fragment' data-time='541979' id='t-541979'>going every which way,</span>
+<span class='talk-transcript__fragment' data-time='543790' id='t-543790'>the traffic lights, crosswalks.</span>
+<span class='talk-transcript__fragment' data-time='545317' id='t-545317'>It's an incredibly complicated
+problem by comparison.</span>
+<span class='talk-transcript__fragment' data-time='548114' id='t-548114'>And then once you have
+that problem solved,</span>
+<span class='talk-transcript__fragment' data-time='550217' id='t-550217'>the vehicle has to be able
+to deal with construction.</span>
+<span class='talk-transcript__fragment' data-time='552729' id='t-552729'>So here are the cones on the left
+forcing it to drive to the right,</span>
+<span class='talk-transcript__fragment' data-time='555880' id='t-555880'>but not just construction
+in isolation, of course.</span>
+<span class='talk-transcript__fragment' data-time='558282' id='t-558282'>It has to deal with other people moving
+through that construction zone as well.</span>
+<span class='talk-transcript__fragment' data-time='562005' id='t-562005'>And of course, if anyone's
+breaking the rules, the police are there</span>
+<span class='talk-transcript__fragment' data-time='565268' id='t-565268'>and the car has to understand that
+that flashing light on the top of the car</span>
+<span class='talk-transcript__fragment' data-time='568890' id='t-568890'>means that it's not just a car,
+it's actually a police officer.</span>
+<span class='talk-transcript__fragment' data-time='571995' id='t-571995'>Similarly, the orange box
+on the side here,</span>
+<span class='talk-transcript__fragment' data-time='574027' id='t-574027'>it's a school bus,</span>
+<span class='talk-transcript__fragment' data-time='575136' id='t-575136'>and we have to treat that
+differently as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='578576' id='t-578576'>When we're out on the road,
+other people have expectations:</span>
+<span class='talk-transcript__fragment' data-time='581369' id='t-581369'>So, when a cyclist puts up their arm,</span>
+<span class='talk-transcript__fragment' data-time='583149' id='t-583149'>it means they're expecting the car
+to yield to them and make room for them</span>
+<span class='talk-transcript__fragment' data-time='586667' id='t-586667'>to make a lane change.</span>
+<span class='talk-transcript__fragment' data-time='589030' id='t-589030'>And when a police officer
+stood in the road,</span>
+<span class='talk-transcript__fragment' data-time='591203' id='t-591203'>our vehicle should understand
+that this means stop,</span>
+<span class='talk-transcript__fragment' data-time='593943' id='t-593943'>and when they signal to go,
+we should continue.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='597449' id='t-597449'>Now, the way we accomplish this
+is by sharing data between the vehicles.</span>
+<span class='talk-transcript__fragment' data-time='601210' id='t-601210'>The first, most crude model of this</span>
+<span class='talk-transcript__fragment' data-time='602906' id='t-602906'>is when one vehicle
+sees a construction zone,</span>
+<span class='talk-transcript__fragment' data-time='605019' id='t-605019'>having another know about it
+so it can be in the correct lane</span>
+<span class='talk-transcript__fragment' data-time='608081' id='t-608081'>to avoid some of the difficulty.</span>
+<span class='talk-transcript__fragment' data-time='609651' id='t-609651'>But we actually have a much
+deeper understanding of this.</span>
+<span class='talk-transcript__fragment' data-time='612315' id='t-612315'>We could take all of the data
+that the cars have seen over time,</span>
+<span class='talk-transcript__fragment' data-time='615324' id='t-615324'>the hundreds of thousands
+of pedestrians, cyclists,</span>
+<span class='talk-transcript__fragment' data-time='617700' id='t-617700'>and vehicles that have been out there</span>
+<span class='talk-transcript__fragment' data-time='619487' id='t-619487'>and understand what they look like</span>
+<span class='talk-transcript__fragment' data-time='621182' id='t-621182'>and use that to infer
+what other vehicles should look like</span>
+<span class='talk-transcript__fragment' data-time='624013' id='t-624013'>and other pedestrians should look like.</span>
+<span class='talk-transcript__fragment' data-time='625939' id='t-625939'>And then, even more importantly,
+we could take from that a model</span>
+<span class='talk-transcript__fragment' data-time='628960' id='t-628960'>of how we expect them
+to move through the world.</span>
+<span class='talk-transcript__fragment' data-time='631290' id='t-631290'>So here the yellow box is a pedestrian
+crossing in front of us.</span>
+<span class='talk-transcript__fragment' data-time='634253' id='t-634253'>Here the blue box is a cyclist
+and we anticipate</span>
+<span class='talk-transcript__fragment' data-time='636503' id='t-636503'>that they're going to nudge out
+and around the car to the right.</span>
+<span class='talk-transcript__fragment' data-time='640115' id='t-640115'>Here there's a cyclist
+coming down the road</span>
+<span class='talk-transcript__fragment' data-time='642207' id='t-642207'>and we know they're going to continue
+to drive down the shape of the road.</span>
+<span class='talk-transcript__fragment' data-time='645693' id='t-645693'>Here somebody makes a right turn,</span>
+<span class='talk-transcript__fragment' data-time='647560' id='t-647560'>and in a moment here, somebody's
+going to make a U-turn in front of us,</span>
+<span class='talk-transcript__fragment' data-time='650920' id='t-650920'>and we can anticipate that behavior
+and respond safely.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='653534' id='t-653534'>Now, that's all well and good
+for things that we've seen,</span>
+<span class='talk-transcript__fragment' data-time='656262' id='t-656262'>but of course, you encounter
+lots of things that you haven't</span>
+<span class='talk-transcript__fragment' data-time='659127' id='t-659127'>seen in the world before.</span>
+<span class='talk-transcript__fragment' data-time='660358' id='t-660358'>And so just a couple of months ago,</span>
+<span class='talk-transcript__fragment' data-time='662099' id='t-662099'>our vehicles were driving
+through Mountain View,</span>
+<span class='talk-transcript__fragment' data-time='664334' id='t-664334'>and this is what we encountered.</span>
+<span class='talk-transcript__fragment' data-time='665978' id='t-665978'>This is a woman in an electric wheelchair</span>
+<span class='talk-transcript__fragment' data-time='668060' id='t-668060'>chasing a duck in circles on the road.
+(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='670677' id='t-670677'>Now it turns out, there is nowhere
+in the DMV handbook</span>
+<span class='talk-transcript__fragment' data-time='673788' id='t-673788'>that tells you how to deal with that,</span>
+<span class='talk-transcript__fragment' data-time='676033' id='t-676033'>but our vehicles were able
+to encounter that,</span>
+<span class='talk-transcript__fragment' data-time='678176' id='t-678176'>slow down, and drive safely.</span>
+<span class='talk-transcript__fragment' data-time='680431' id='t-680431'>Now, we don't have to deal
+with just ducks.</span>
+<span class='talk-transcript__fragment' data-time='682472' id='t-682472'>Watch this bird fly across in front of us.
+The car reacts to that.</span>
+<span class='talk-transcript__fragment' data-time='686180' id='t-686180'>Here we're dealing with a cyclist</span>
+<span class='talk-transcript__fragment' data-time='687795' id='t-687795'>that you would never expect to see
+anywhere other than Mountain View.</span>
+<span class='talk-transcript__fragment' data-time='691085' id='t-691085'>And of course, we have
+to deal with drivers,</span>
+<span class='talk-transcript__fragment' data-time='693153' id='t-693153'>even the very small ones.</span>
+<span class='talk-transcript__fragment' data-time='696868' id='t-696868'>Watch to the right as someone
+jumps out of this truck at us.</span>
+<span class='talk-transcript__fragment' data-time='702460' id='t-702460'>And now, watch the left as the car
+with the green box decides</span>
+<span class='talk-transcript__fragment' data-time='705389' id='t-705389'>he needs to make a right turn
+at the last possible moment.</span>
+<span class='talk-transcript__fragment' data-time='708714' id='t-708714'>Here, as we make a lane change,
+the car to our left decides</span>
+<span class='talk-transcript__fragment' data-time='711565' id='t-711565'>it wants to as well.</span>
+<span class='talk-transcript__fragment' data-time='715118' id='t-715118'>And here, we watch a car
+blow through a red light</span>
+<span class='talk-transcript__fragment' data-time='717811' id='t-717811'>and yield to it.</span>
+<span class='talk-transcript__fragment' data-time='719901' id='t-719901'>And similarly, here, a cyclist
+blowing through that light as well.</span>
+<span class='talk-transcript__fragment' data-time='723755' id='t-723755'>And of course,
+the vehicle responds safely.</span>
+<span class='talk-transcript__fragment' data-time='726501' id='t-726501'>And of course, we have people
+who do I don't know what</span>
+<span class='talk-transcript__fragment' data-time='729102' id='t-729102'>sometimes on the road, like this guy
+pulling out between two self-driving cars.</span>
+<span class='talk-transcript__fragment' data-time='732925' id='t-732925'>You have to ask, &quot;What are you thinking?&quot;</span>
+<span class='talk-transcript__fragment' data-time='734970' id='t-734970'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='736182' id='t-736182'>Now, I just fire-hosed you
+with a lot of stuff there,</span>
+<span class='talk-transcript__fragment' data-time='738703' id='t-738703'>so I'm going to break one of these
+down pretty quickly.</span>
+<span class='talk-transcript__fragment' data-time='741353' id='t-741353'>So what we're looking at is the scene
+with the cyclist again,</span>
+<span class='talk-transcript__fragment' data-time='744293' id='t-744293'>and you might notice in the bottom,
+we can't actually see the cyclist yet,</span>
+<span class='talk-transcript__fragment' data-time='747784' id='t-747784'>but the car can: it's that little
+blue box up there,</span>
+<span class='talk-transcript__fragment' data-time='750288' id='t-750288'>and that comes from the laser data.</span>
+<span class='talk-transcript__fragment' data-time='752369' id='t-752369'>And that's not actually
+really easy to understand,</span>
+<span class='talk-transcript__fragment' data-time='754787' id='t-754787'>so what I'm going to do is I'm going
+to turn that laser data and look at it,</span>
+<span class='talk-transcript__fragment' data-time='758371' id='t-758371'>and if you're really good at looking
+at laser data, you can see</span>
+<span class='talk-transcript__fragment' data-time='761400' id='t-761400'>a few dots on the curve there,</span>
+<span class='talk-transcript__fragment' data-time='762887' id='t-762887'>right there, and that blue box
+is that cyclist.</span>
+<span class='talk-transcript__fragment' data-time='765259' id='t-765259'>Now as our light is red,</span>
+<span class='talk-transcript__fragment' data-time='766408' id='t-766408'>the cyclist's light
+has turned yellow already,</span>
+<span class='talk-transcript__fragment' data-time='768600' id='t-768600'>and if you squint, you can see that
+in the imagery.</span>
+<span class='talk-transcript__fragment' data-time='771038' id='t-771038'>But the cyclist, we see, is going
+to proceed through the intersection.</span>
+<span class='talk-transcript__fragment' data-time='774324' id='t-774324'>Our light has now turned green,
+his is solidly red,</span>
+<span class='talk-transcript__fragment' data-time='776718' id='t-776718'>and we now anticipate that this bike
+is going to come all the way across.</span>
+<span class='talk-transcript__fragment' data-time='781010' id='t-781010'>Unfortunately the other drivers next to us
+were not paying as much attention.</span>
+<span class='talk-transcript__fragment' data-time='784752' id='t-784752'>They started to pull forward,
+and fortunately for everyone,</span>
+<span class='talk-transcript__fragment' data-time='787909' id='t-787909'>this cyclists reacts, avoids,</span>
+<span class='talk-transcript__fragment' data-time='790920' id='t-790920'>and makes it through the intersection.</span>
+<span class='talk-transcript__fragment' data-time='793111' id='t-793111'>And off we go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='794679' id='t-794679'>Now, as you can see, we've made
+some pretty exciting progress,</span>
+<span class='talk-transcript__fragment' data-time='797627' id='t-797627'>and at this point we're pretty convinced</span>
+<span class='talk-transcript__fragment' data-time='799529' id='t-799529'>this technology is going
+to come to market.</span>
+<span class='talk-transcript__fragment' data-time='801539' id='t-801539'>We do three million miles of testing
+in our simulators every single day,</span>
+<span class='talk-transcript__fragment' data-time='806322' id='t-806322'>so you can imagine the experience
+that our vehicles have.</span>
+<span class='talk-transcript__fragment' data-time='809011' id='t-809011'>We are looking forward to having
+this technology on the road,</span>
+<span class='talk-transcript__fragment' data-time='811875' id='t-811875'>and we think the right path
+is to go through the self-driving</span>
+<span class='talk-transcript__fragment' data-time='814765' id='t-814765'>rather than driver assistance approach</span>
+<span class='talk-transcript__fragment' data-time='816609' id='t-816609'>because the urgency is so large.</span>
+<span class='talk-transcript__fragment' data-time='819230' id='t-819230'>In the time I have given this talk today,</span>
+<span class='talk-transcript__fragment' data-time='821623' id='t-821623'>34 people have died on America's roads.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='824758' id='t-824758'>How soon can we bring it out?</span>
+<span class='talk-transcript__fragment' data-time='827126' id='t-827126'>Well, it's hard to say because
+it's a really complicated problem,</span>
+<span class='talk-transcript__fragment' data-time='830958' id='t-830958'>but these are my two boys.</span>
+<span class='talk-transcript__fragment' data-time='833172' id='t-833172'>My oldest son is 11, and that means
+in four and a half years,</span>
+<span class='talk-transcript__fragment' data-time='836795' id='t-836795'>he's going to be able
+to get his driver's license.</span>
+<span class='talk-transcript__fragment' data-time='839372' id='t-839372'>My team and I are committed
+to making sure that doesn't happen.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='842576' id='t-842576'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='844480' id='t-844480'>(Laughter) (Applause)</span>
+<span class='talk-transcript__fragment' data-time='849110' id='t-849110'>Chris Anderson: Chris,
+I've got a question for you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='851678' id='t-851678'>Chris Urmson: Sure.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='854487' id='t-854487'>CA: So certainly, the mind of your cars
+is pretty mind-boggling.</span>
+<span class='talk-transcript__fragment' data-time='858411' id='t-858411'>On this debate between
+driver-assisted and fully driverless --</span>
+<span class='talk-transcript__fragment' data-time='862870' id='t-862870'>I mean, there's a real debate
+going on out there right now.</span>
+<span class='talk-transcript__fragment' data-time='865911' id='t-865911'>So some of the companies,
+for example, Tesla,</span>
+<span class='talk-transcript__fragment' data-time='868744' id='t-868744'>are going the driver-assisted route.</span>
+<span class='talk-transcript__fragment' data-time='870903' id='t-870903'>What you're saying is that
+that's kind of going to be a dead end</span>
+<span class='talk-transcript__fragment' data-time='876151' id='t-876151'>because you can't just keep improving
+that route and get to fully driverless</span>
+<span class='talk-transcript__fragment' data-time='881607' id='t-881607'>at some point, and then a driver
+is going to say, &quot;This feels safe,&quot;</span>
+<span class='talk-transcript__fragment' data-time='885137' id='t-885137'>and climb into the back,
+and something ugly will happen.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='887784' id='t-887784'>CU: Right. No, that's exactly right,
+and it's not to say</span>
+<span class='talk-transcript__fragment' data-time='890460' id='t-890460'>that the driver assistance systems
+aren't going to be incredibly valuable.</span>
+<span class='talk-transcript__fragment' data-time='893997' id='t-893997'>They can save a lot of lives
+in the interim,</span>
+<span class='talk-transcript__fragment' data-time='896055' id='t-896055'>but to see the transformative opportunity
+to help someone like Steve get around,</span>
+<span class='talk-transcript__fragment' data-time='899888' id='t-899888'>to really get to the end case in safety,</span>
+<span class='talk-transcript__fragment' data-time='901857' id='t-901857'>to have the opportunity
+to change our cities</span>
+<span class='talk-transcript__fragment' data-time='904336' id='t-904336'>and move parking out and get rid of
+these urban craters we call parking lots,</span>
+<span class='talk-transcript__fragment' data-time='908540' id='t-908540'>it's the only way to go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='909780' id='t-909780'>CA: We will be tracking your progress
+with huge interest.</span>
+<span class='talk-transcript__fragment' data-time='912498' id='t-912498'>Thanks so much, Chris.
+CU: Thank you. (Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Golan Levin: Art that looks back at you | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Golan Levin: Art that looks back at you | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Golan Levin, an artist and engineer, uses modern tools -- robotics, new software, cognitive research -- to make artworks that surprise and delight. Watch as sounds become shapes, bodies create paintings, and a curious eye looks back at the curious viewer." name="description" />
+<meta content="Golan Levin" name="author" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/golan_levin_ted2009/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Art that looks back at you&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e0d52d297cc0543e032da35e18440433d9f69f_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e0d52d297cc0543e032da35e18440433d9f69f_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Golan Levin, an artist and engineer, uses modern tools -- robotics, new software, cognitive research -- to make artworks that surprise and delight. Watch as sounds become shapes, bodies create paintings, and a curious eye looks back at the curious viewer." property="og:description" />
+<meta content="http://www.ted.com/talks/golan_levin_ted2009/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/606?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='golan_levin_ted2009'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/606?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="933" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e0d52d297cc0543e032da35e18440433d9f69f_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:33</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Golan Levin</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/606?language=en' lang='en'>
+Art that looks back at you
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jul 2009
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Funny, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Hello! My name is Golan Levin.</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>I'm an artist and an engineer,</span>
+<span class='talk-transcript__fragment' data-time='5000' id='t-5000'>which is, increasingly, a more common kind of hybrid.</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>But I still fall into this weird crack</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>where people don't seem to understand me.</span>
+<span class='talk-transcript__fragment' data-time='12000' id='t-12000'>And I was looking around and I found this wonderful picture.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>It's a letter from &quot;Artforum&quot; in 1967</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>saying &quot;We can't imagine ever doing a special issue</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>on electronics or computers in art.&quot; And they still haven't.</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>And lest you think that you all, as the digerati, are more enlightened,</span>
+<span class='talk-transcript__fragment' data-time='30000' id='t-30000'>I went to the Apple iPhone app store the other day.</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>Where's art? I got productivity. I got sports.</span>
+<span class='talk-transcript__fragment' data-time='37000' id='t-37000'>And somehow the idea that one would want to make art for the iPhone,</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>which my friends and I are doing now,</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>is still not reflected in our understanding</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>of what computers are for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>So, from both directions, there is kind of, I think, a lack of understanding</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>about what it could mean to be an artist who uses the materials</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>of his own day, or her own day,</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>which I think artists are obliged to do,</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>is to really explore the expressive potential of the new tools that we have.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>In my own case, I'm an artist,</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>and I'm really interested in</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>expanding the vocabulary of human action,</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>and basically empowering people through interactivity.</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>I want people to discover themselves as actors,</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>as creative actors, by having interactive experiences.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='76000' id='t-76000'>A lot of my work is about trying to get away from this.</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>This a photograph of the desktop of a student of mine.</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>And when I say desktop, I don't just mean</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>the actual desk where his mouse has worn away the surface of the desk.</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>If you look carefully, you can even see</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>a hint of the Apple menu, up here in the upper left,</span>
+<span class='talk-transcript__fragment' data-time='91000' id='t-91000'>where the virtual world has literally</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>punched through to the physical.</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>So this is, as Joy Mountford once said,</span>
+<span class='talk-transcript__fragment' data-time='99000' id='t-99000'>&quot;The mouse is probably the narrowest straw</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>you could try to suck all of human expression through.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>And the thing I'm really trying to do is enabling people to have more rich</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>kinds of interactive experiences.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>How can we get away from the mouse and use our full bodies</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>as a way of exploring aesthetic experiences,</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>not necessarily utilitarian ones.</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>So I write software. And that's how I do it.</span>
+<span class='talk-transcript__fragment' data-time='121000' id='t-121000'>And a lot of my experiences</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>resemble mirrors in some way.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>Because this is, in some sense, the first way,</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>that people discover their own potential as actors,</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>and discover their own agency.</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>By saying &quot;Who is that person in the mirror? Oh it's actually me.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>And so, to give an example,</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>this is a project from last year,</span>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>which is called the Interstitial Fragment Processor.</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>And it allows people to explore the negative shapes that they create</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>when they're just going about their everyday business.</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>So as people make shapes with their hands or their heads</span>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>and so forth, or with each other,</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>these shapes literally produce sounds and drop out of thin air --</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>basically taking what's often this, kind of, unseen space,</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>or this undetected space, and making it something real,</span>
+<span class='talk-transcript__fragment' data-time='175000' id='t-175000'>that people then can appreciate and become creative with.</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>So again, people discover their creative agency in this way.</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>And their own personalities come out</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>in totally unique ways.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>So in addition to using full-body input,</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>something that I've explored now, for a while,</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>has been the use of the voice,</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>which is an immensely expressive system for us, vocalizing.</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>Song is one of our oldest ways</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>of making ourselves heard and understood.</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>And I came across this fantastic research by Wolfgang Köhler,</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>the so-called father of gestalt psychology, from 1927,</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>who submitted to an audience like yourselves</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>the following two shapes.</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>And he said one of them is called Maluma.</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>And one of them is called Taketa. Which is which?</span>
+<span class='talk-transcript__fragment' data-time='216000' id='t-216000'>Anyone want to hazard a guess?</span>
+<span class='talk-transcript__fragment' data-time='220000' id='t-220000'>Maluma is on top. Yeah. So.</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>As he says here, most people answer without any hesitation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='225000' id='t-225000'>So what we're really seeing here is a phenomenon</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>called phonaesthesia,</span>
+<span class='talk-transcript__fragment' data-time='229000' id='t-229000'>which is a kind of synesthesia that all of you have.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>And so, whereas Dr. Oliver Sacks has talked about</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>how perhaps one person in a million</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>actually has true synesthesia,</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>where they hear colors or taste shapes, and things like this,</span>
+<span class='talk-transcript__fragment' data-time='239000' id='t-239000'>phonaesthesia is something we can all experience to some extent.</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>It's about mappings between different perceptual domains,</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>like hardness, sharpness, brightness and darkness,</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>and the phonemes that we're able to speak with.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='249000' id='t-249000'>So 70 years on, there's been some research where</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>cognitive psychologists have actually sussed out</span>
+<span class='talk-transcript__fragment' data-time='253000' id='t-253000'>the extent to which, you know,</span>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>L, M and B are more associated with shapes that look like this,</span>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>and P, T and K are perhaps more associated with shapes like this.</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>And here we suddenly begin to have a mapping between curvature</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>that we can exploit numerically,</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>a relative mapping between curvature and shape.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>So it occurred to me, what happens if we could run these backwards?</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>And thus was born the project called Remark,</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>which is a collaboration with Zachary Lieberman</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>and the Ars Electronica Futurelab.</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>And this is an interactive installation which presents</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>the fiction that speech casts visible shadows.</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>So the idea is you step into a kind of a magic light.</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>And as you do, you see the shadows of your own speech.</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>And they sort of fly away, out of your head.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>If a computer speech recognition system</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>is able to recognize what you're saying, then it spells it out.</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>And if it isn't then it produces a shape which is very phonaesthetically</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>tightly coupled to the sounds you made.</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>So let's bring up a video of that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>Thanks. So. And this project here,</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>I was working with the great abstract vocalist, Jaap Blonk.</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>And he is a world expert in performing &quot;The Ursonate,&quot;</span>
+<span class='talk-transcript__fragment' data-time='362000' id='t-362000'>which is a half-an-hour nonsense poem</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>by Kurt Schwitters, written in the 1920s,</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>which is half an hour of very highly patterned nonsense.</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>And it's almost impossible to perform.</span>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>But Jaap is one of the world experts in performing it.</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>And in this project we've developed</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>a form of intelligent real-time subtitles.</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>So these are our live subtitles,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>that are being produced by a computer that knows the text of &quot;The Ursonate&quot; --</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>fortunately Jaap does too, very well --</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>and it is delivering that text at the same time as Jaap is.</span>
+<span class='talk-transcript__fragment' data-time='401000' id='t-401000'>So all the text you're going to see</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>is real-time generated by the computer,</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>visualizing what he's doing with his voice.</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>Here you can see the set-up where there is a screen with the subtitles behind him.</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>Okay. So ...</span>
+<span class='talk-transcript__fragment' data-time='504000' id='t-504000'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>The full videos are online if you are interested.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>I got a split reaction to that during the live performance,</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>because there is some people who understand</span>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>live subtitles are a kind of an oxymoron,</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>because usually there is someone making them afterwards.</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>And then a bunch of people who were like, &quot;What's the big deal?</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>I see subtitles all the time on television.&quot;</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>You know? They don't imagine the person in the booth, typing it all.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>So in addition to the full body, and in addition to the voice,</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>another thing that I've been really interested in,</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>most recently, is the use of the eyes,</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>or the gaze, in terms of how people relate to each other.</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>It's a really profound amount of nonverbal information</span>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>that's communicated with the eyes.</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>And it's one of the most interesting technical challenges</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>that's very currently active in the computer sciences:</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>being able to have a camera that can understand,</span>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>from a fairly big distance away,</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>how these little tiny balls are actually pointing in one way or another</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>to reveal what you're interested in,</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>and where your attention is directed.</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>So there is a lot of emotional communication that happens there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>And so I've been beginning, with a variety of different projects,</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>to understand how people can relate to machines with their eyes.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>And basically to ask the questions:</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>What if art was aware that we were looking at it?</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>How could it respond, in a way,</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>to acknowledge or subvert the fact that we're looking at it?</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>And what could it do if it could look back at us?</span>
+<span class='talk-transcript__fragment' data-time='584000' id='t-584000'>And so those are the questions that are happening in the next projects.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='586000' id='t-586000'>In the first one which I'm going to show you, called Eyecode,</span>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>it's a piece of interactive software</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>in which, if we read this little circle,</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>&quot;the trace left by the looking of the previous observer</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>looks at the trace left by the looking of previous observer.&quot;</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>The idea is that it's an image wholly constructed</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>from its own history of being viewed</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>by different people in an installation.</span>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>So let me just switch over so we can do the live demo.</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>So let's run this and see if it works.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>Okay. Ah, there is lots of nice bright video.</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>There is just a little test screen that shows that it's working.</span>
+<span class='talk-transcript__fragment' data-time='619000' id='t-619000'>And what I'm just going to do is -- I'm going to hide that.</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>And you can see here that what it's doing</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>is it's recording my eyes every time I blink.</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>Hello? And I can ... hello ... okay.</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>And no matter where I am, what's really going on here</span>
+<span class='talk-transcript__fragment' data-time='638000' id='t-638000'>is that it's an eye-tracking system that tries to locate my eyes.</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>And if I get really far away I'm blurry.</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>You know, you're going to have these kind of blurry spots like this</span>
+<span class='talk-transcript__fragment' data-time='645000' id='t-645000'>that maybe only resemble eyes in a very very abstract way.</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>But if I come up really close and stare directly at the camera</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>on this laptop then you'll see these nice crisp eyes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>You can think of it as a way of, sort of, typing, with your eyes.</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>And what you're typing are recordings of your eyes</span>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>as you're looking at other peoples' eyes.</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>So each person is looking at the looking</span>
+<span class='talk-transcript__fragment' data-time='664000' id='t-664000'>of everyone else before them.</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>And this exists in larger installations</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>where there are thousands and thousands of eyes</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>that people could be staring at,</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>as you see who's looking at the people looking</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>at the people looking before them.</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>So I'll just add a couple more. Blink. Blink.</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>And you can see, just once again, how it's sort of finding my eyes</span>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>and doing its best to estimate when it's blinking.</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>Alright. Let's leave that.</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>So that's this kind of recursive observation system.</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='694000' id='t-694000'>The last couple pieces I'm going to show</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>are basically in the new realm of robotics -- for me, new for me.</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>It's called Opto-Isolator.</span>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>And I'm going to show a video of the older version of it,</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>which is just a minute long. Okay.</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>In this case, the Opto-Isolator is blinking</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>in response to one's own blinks.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>So it blinks one second after you do.</span>
+<span class='talk-transcript__fragment' data-time='721000' id='t-721000'>This is a device which is intended to reduce</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>the phenomenon of gaze down to the simplest possible materials.</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>Just one eye,</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>looking at you, and eliminating everything else about a face,</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>but just to consider gaze in an isolated way</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>as a kind of, as an element.</span>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>And at the same time, it attempts to engage in what you might call</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>familiar psycho-social gaze behaviors.</span>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>Like looking away if you look at it too long</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>because it gets shy,</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>or things like that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>Okay. So the last project I'm going to show</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>is this new one called Snout.</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='757000' id='t-757000'>It's an eight-foot snout,</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>with a googly eye.</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>And inside it's got an 800-pound robot arm</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>that I borrowed,</span>
+<span class='talk-transcript__fragment' data-time='767000' id='t-767000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>from a friend.</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>It helps to have good friends.</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>I'm at Carnegie Mellon; we've got a great Robotics Institute there.</span>
+<span class='talk-transcript__fragment' data-time='776000' id='t-776000'>I'd like to show you thing called Snout, which is --</span>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>The idea behind this project is to</span>
+<span class='talk-transcript__fragment' data-time='780000' id='t-780000'>make a robot that appears as if it's continually surprised to see you.</span>
+<span class='talk-transcript__fragment' data-time='784000' id='t-784000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>The idea is that basically --</span>
+<span class='talk-transcript__fragment' data-time='790000' id='t-790000'>if it's constantly like &quot;Huh? ... Huh?&quot;</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>That's why its other name is Doubletaker, Taker of Doubles.</span>
+<span class='talk-transcript__fragment' data-time='796000' id='t-796000'>It's always kind of doing a double take: &quot;What?&quot;</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>And the idea is basically, can it look at you</span>
+<span class='talk-transcript__fragment' data-time='800000' id='t-800000'>and make you feel as if like,</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>&quot;What? Is it my shoes?&quot;</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>&quot;Got something on my hair?&quot; Here we go. Alright.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='838000' id='t-838000'>Checking him out ...</span>
+<span class='talk-transcript__fragment' data-time='848000' id='t-848000'>For you nerds, here's a little behind-the-scenes.</span>
+<span class='talk-transcript__fragment' data-time='850000' id='t-850000'>It's got a computer vision system,</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>and it tries to look at the people who are moving around the most.</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>Those are its targets.</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>Up there is the skeleton,</span>
+<span class='talk-transcript__fragment' data-time='872000' id='t-872000'>which is actually what it's trying to do.</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>It's really about trying to create a novel body language for a new creature.</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>Hollywood does this all the time, of course.</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>But also have the body language communicate something</span>
+<span class='talk-transcript__fragment' data-time='889000' id='t-889000'>to the person who is looking at it.</span>
+<span class='talk-transcript__fragment' data-time='891000' id='t-891000'>This language is communicating that it is surprised to see you,</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>and it's interested in looking at you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='898000' id='t-898000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='907000' id='t-907000'>Thank you very much. That's all I've got for today.</span>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>And I'm really happy to be here. Thank you so much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

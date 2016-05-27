@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Stephen Wolfram: Computing a theory of all knowledge | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Stephen Wolfram: Computing a theory of all knowledge | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Stephen Wolfram, creator of Mathematica, talks about his quest to make all knowledge computational -- able to be searched, processed and manipulated. His new search engine, Wolfram Alpha, has no lesser goal than to model and explain the physics underlying the universe." name="description" />
+<meta content="Stephen Wolfram" name="author" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Computing a theory of all knowledge&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/166847_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/166847_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Stephen Wolfram, creator of Mathematica, talks about his quest to make all knowledge computational -- able to be searched, processed and manipulated. His new search engine, Wolfram Alpha, has no lesser goal than to model and explain the physics underlying the universe." property="og:description" />
+<meta content="http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/843?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='stephen_wolfram_computing_a_theory_of_everything'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/843?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1198" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/166847_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:58</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Stephen Wolfram</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/843?language=en' lang='en'>
+Computing a theory of all knowledge
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Apr 2010
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1000' id='t-1000'>So I want to talk today about an idea. It's a big idea.</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>Actually, I think it'll eventually</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>be seen as probably the single biggest idea</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>that's emerged in the past century.</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>It's the idea of computation.</span>
+<span class='talk-transcript__fragment' data-time='12000' id='t-12000'>Now, of course, that idea has brought us</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>all of the computer technology we have today and so on.</span>
+<span class='talk-transcript__fragment' data-time='17000' id='t-17000'>But there's actually a lot more to computation than that.</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>It's really a very deep, very powerful, very fundamental idea,</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>whose effects we've only just begun to see.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>Well, I myself have spent the past 30 years of my life</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>working on three large projects</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>that really try to take the idea of computation seriously.</span>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>So I started off at a young age as a physicist</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>using computers as tools.</span>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>Then, I started drilling down,</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>thinking about the computations I might want to do,</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>trying to figure out what primitives they could be built up from</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>and how they could be automated as much as possible.</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>Eventually, I created a whole structure</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>based on symbolic programming and so on</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>that let me build Mathematica.</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>And for the past 23 years, at an increasing rate,</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>we've been pouring more and more ideas</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>and capabilities and so on into Mathematica,</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>and I'm happy to say that that's led to many good things</span>
+<span class='talk-transcript__fragment' data-time='65000' id='t-65000'>in R &amp; D and education,</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>lots of other areas.</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>Well, I have to admit, actually,</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>that I also had a very selfish reason for building Mathematica:</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>I wanted to use it myself,</span>
+<span class='talk-transcript__fragment' data-time='76000' id='t-76000'>a bit like Galileo got to use his telescope</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>400 years ago.</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>But I wanted to look not at the astronomical universe,</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>but at the computational universe.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>So we normally think of programs as being</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>complicated things that we build</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>for very specific purposes.</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>But what about the space of all possible programs?</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>Here's a representation of a really simple program.</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>So, if we run this program,</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>this is what we get.</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>Very simple.</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>So let's try changing the rule</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>for this program a little bit.</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>Now we get another result,</span>
+<span class='talk-transcript__fragment' data-time='110000' id='t-110000'>still very simple.</span>
+<span class='talk-transcript__fragment' data-time='112000' id='t-112000'>Try changing it again.</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>You get something a little bit more complicated.</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>But if we keep running this for a while,</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>we find out that although the pattern we get is very intricate,</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>it has a very regular structure.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>So the question is: Can anything else happen?</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>Well, we can do a little experiment.</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>Let's just do a little mathematical experiment, try and find out.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>Let's just run all possible programs</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>of the particular type that we're looking at.</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>They're called cellular automata.</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>You can see a lot of diversity in the behavior here.</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>Most of them do very simple things,</span>
+<span class='talk-transcript__fragment' data-time='145000' id='t-145000'>but if you look along all these different pictures,</span>
+<span class='talk-transcript__fragment' data-time='147000' id='t-147000'>at rule number 30,</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>you start to see something interesting going on.</span>
+<span class='talk-transcript__fragment' data-time='151000' id='t-151000'>So let's take a closer look</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>at rule number 30 here.</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>So here it is.</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>We're just following this very simple rule at the bottom here,</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>but we're getting all this amazing stuff.</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>It's not at all what we're used to,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>and I must say that, when I first saw this,</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>it came as a huge shock to my intuition.</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>And, in fact, to understand it,</span>
+<span class='talk-transcript__fragment' data-time='171000' id='t-171000'>I eventually had to create</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>a whole new kind of science.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>This science is different, more general,</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>than the mathematics-based science that we've had</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>for the past 300 or so years.</span>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>You know, it's always seemed like a big mystery:</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>how nature, seemingly so effortlessly,</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>manages to produce so much</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>that seems to us so complex.</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>Well, I think we've found its secret:</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>It's just sampling what's out there in the computational universe</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>and quite often getting things like Rule 30</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>or like this.</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>And knowing that starts to explain</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>a lot of long-standing mysteries in science.</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>It also brings up new issues, though,</span>
+<span class='talk-transcript__fragment' data-time='216000' id='t-216000'>like computational irreducibility.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>I mean, we're used to having science let us predict things,</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>but something like this</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>is fundamentally irreducible.</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>The only way to find its outcome</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>is, effectively, just to watch it evolve.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>It's connected to, what I call,</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>the principle of computational equivalence,</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>which tells us that even incredibly simple systems</span>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>can do computations as sophisticated as anything.</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>It doesn't take lots of technology or biological evolution</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>to be able to do arbitrary computation;</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>just something that happens, naturally,</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>all over the place.</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>Things with rules as simple as these can do it.</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>Well, this has deep implications</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>about the limits of science,</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>about predictability and controllability</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>of things like biological processes or economies,</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>about intelligence in the universe,</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>about questions like free will</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>and about creating technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>You know, in working on this science for many years,</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>I kept wondering,</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>&quot;What will be its first killer app?&quot;</span>
+<span class='talk-transcript__fragment' data-time='276000' id='t-276000'>Well, ever since I was a kid,</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>I'd been thinking about systematizing knowledge</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>and somehow making it computable.</span>
+<span class='talk-transcript__fragment' data-time='282000' id='t-282000'>People like Leibniz had wondered about that too</span>
+<span class='talk-transcript__fragment' data-time='284000' id='t-284000'>300 years earlier.</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>But I'd always assumed that to make progress,</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>I'd essentially have to replicate a whole brain.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>Well, then I got to thinking:</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>This scientific paradigm of mine suggests something different --</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>and, by the way, I've now got</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>huge computation capabilities in Mathematica,</span>
+<span class='talk-transcript__fragment' data-time='301000' id='t-301000'>and I'm a CEO with some worldly resources</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>to do large, seemingly crazy, projects --</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>So I decided to just try to see</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>how much of the systematic knowledge that's out there in the world</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>we could make computable.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>So, it's been a big, very complex project,</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>which I was not sure was going to work at all.</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>But I'm happy to say it's actually going really well.</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>And last year we were able</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>to release the first website version</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>of Wolfram Alpha.</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>Its purpose is to be a serious knowledge engine</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>that computes answers to questions.</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>So let's give it a try.</span>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>Let's start off with something really easy.</span>
+<span class='talk-transcript__fragment' data-time='338000' id='t-338000'>Hope for the best.</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>Very good. Okay.</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>So far so good.</span>
+<span class='talk-transcript__fragment' data-time='344000' id='t-344000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>Let's try something a little bit harder.</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>Let's do</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>some mathy thing,</span>
+<span class='talk-transcript__fragment' data-time='355000' id='t-355000'>and with luck it'll work out the answer</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>and try and tell us some interesting things</span>
+<span class='talk-transcript__fragment' data-time='360000' id='t-360000'>things about related math.</span>
+<span class='talk-transcript__fragment' data-time='362000' id='t-362000'>We could ask it something about the real world.</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>Let's say -- I don't know --</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>what's the GDP of Spain?</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>And it should be able to tell us that.</span>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>Now we could compute something related to this,</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>let's say ... the GDP of Spain</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>divided by, I don't know,</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>the -- hmmm ...</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>let's say the revenue of Microsoft.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>The idea is that we can just type this in,</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>this kind of question in, however we think of it.</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>So let's try asking a question,</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>like a health related question.</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>So let's say we have a lab finding that ...</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>you know, we have an LDL level of 140</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>for a male aged 50.</span>
+<span class='talk-transcript__fragment' data-time='401000' id='t-401000'>So let's type that in, and now Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>will go and use available public health data</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>and try and figure out</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>what part of the population that corresponds to and so on.</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>Or let's try asking about, I don't know,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>the International Space Station.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>And what's happening here is that</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>Wolfram Alpha is not just looking up something;</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>it's computing, in real time,</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>where the International Space Station is right now at this moment,</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>how fast it's going, and so on.</span>
+<span class='talk-transcript__fragment' data-time='429000' id='t-429000'>So Wolfram Alpha knows about lots and lots of kinds of things.</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>It's got, by now,</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>pretty good coverage of everything you might find</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>in a standard reference library.</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>But the goal is to go much further</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>and, very broadly, to democratize</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>all of this knowledge,</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>and to try and be an authoritative</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>source in all areas.</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>To be able to compute answers to specific questions that people have,</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>not by searching what other people</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>may have written down before,</span>
+<span class='talk-transcript__fragment' data-time='458000' id='t-458000'>but by using built in knowledge</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>to compute fresh new answers to specific questions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>Now, of course, Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>is a monumentally huge, long-term project</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>with lots and lots of challenges.</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>For a start, one has to curate a zillion</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>different sources of facts and data,</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>and we built quite a pipeline of Mathematica automation</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>and human domain experts for doing this.</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>But that's just the beginning.</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>Given raw facts or data</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>to actually answer questions,</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>one has to compute:</span>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>one has to implement all those methods and models</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>and algorithms and so on</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>that science and other areas have built up over the centuries.</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>Well, even starting from Mathematica,</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>this is still a huge amount of work.</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>So far, there are about 8 million lines</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>of Mathematica code in Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>built by experts from many, many different fields.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>Well, a crucial idea of Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>is that you can just ask it questions</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>using ordinary human language,</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>which means that we've got to be able to take</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>all those strange utterances that people type into the input field</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>and understand them.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>And I must say that I thought that step</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>might just be plain impossible.</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>Two big things happened:</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>First, a bunch of new ideas about linguistics</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>that came from studying the computational universe;</span>
+<span class='talk-transcript__fragment' data-time='537000' id='t-537000'>and second, the realization that having actual computable knowledge</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>completely changes how one can</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>set about understanding language.</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>And, of course, now</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>with Wolfram Alpha actually out in the wild,</span>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>we can learn from its actual usage.</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>And, in fact, there's been</span>
+<span class='talk-transcript__fragment' data-time='553000' id='t-553000'>an interesting coevolution that's been going on</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>between Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>and its human users,</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>and it's really encouraging.</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>Right now, if we look at web queries,</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>more than 80 percent of them get handled successfully the first time.</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>And if you look at things like the iPhone app,</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>the fraction is considerably larger.</span>
+<span class='talk-transcript__fragment' data-time='570000' id='t-570000'>So, I'm pretty pleased with it all.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='572000' id='t-572000'>But, in many ways,</span>
+<span class='talk-transcript__fragment' data-time='574000' id='t-574000'>we're still at the very beginning with Wolfram Alpha.</span>
+<span class='talk-transcript__fragment' data-time='577000' id='t-577000'>I mean, everything is scaling up very nicely</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>and we're getting more confident.</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>You can expect to see Wolfram Alpha technology</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>showing up in more and more places,</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>working both with this kind of public data, like on the website,</span>
+<span class='talk-transcript__fragment' data-time='588000' id='t-588000'>and with private knowledge</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>for people and companies and so on.</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>You know, I've realized that Wolfram Alpha actually gives one</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>a whole new kind of computing</span>
+<span class='talk-transcript__fragment' data-time='598000' id='t-598000'>that one can call knowledge-based computing,</span>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>in which one's starting not just from raw computation,</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>but from a vast amount of built-in knowledge.</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>And when one does that, one really changes</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>the economics of delivering computational things,</span>
+<span class='talk-transcript__fragment' data-time='611000' id='t-611000'>whether it's on the web or elsewhere.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>You know, we have a fairly interesting situation right now.</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>On the one hand, we have Mathematica,</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>with its sort of precise, formal language</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>and a huge network</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>of carefully designed capabilities</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>able to get a lot done in just a few lines.</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>Let me show you a couple of examples here.</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>So here's a trivial piece of Mathematica programming.</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>Here's something where we're sort of</span>
+<span class='talk-transcript__fragment' data-time='638000' id='t-638000'>integrating a bunch of different capabilities here.</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>Here we'll just create, in this line,</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>a little user interface that allows us to</span>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>do something fun there.</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>If you go on, that's a slightly more complicated program</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>that's now doing all sorts of algorithmic things</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>and creating user interface and so on.</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>But it's something that is very precise stuff.</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>It's a precise specification with a precise formal language</span>
+<span class='talk-transcript__fragment' data-time='663000' id='t-663000'>that causes Mathematica to know what to do here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>Then on the other hand, we have Wolfram Alpha,</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>with all the messiness of the world</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>and human language and so on built into it.</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>So what happens when you put these things together?</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>I think it's actually rather wonderful.</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>With Wolfram Alpha inside Mathematica,</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>you can, for example, make precise programs</span>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>that call on real world data.</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>Here's a real simple example.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>You can also just sort of give vague input</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>and then try and have Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='694000' id='t-694000'>figure out what you're talking about.</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>Let's try this here.</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>But actually I think the most exciting thing about this</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>is that it really gives one the chance</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>to democratize programming.</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>I mean, anyone will be able to say what they want in plain language.</span>
+<span class='talk-transcript__fragment' data-time='709000' id='t-709000'>Then, the idea is that Wolfram Alpha will be able to figure out</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>what precise pieces of code</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>can do what they're asking for</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>and then show them examples that will let them pick what they need</span>
+<span class='talk-transcript__fragment' data-time='719000' id='t-719000'>to build up bigger and bigger, precise programs.</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>So, sometimes, Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>will be able to do the whole thing immediately</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>and just give back a whole big program that you can then compute with.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>Here's a big website</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>where we've been collecting lots of educational</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>and other demonstrations about lots of kinds of things.</span>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>I'll show you one example here.</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>This is just an example of one of these computable documents.</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>This is probably a fairly small</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>piece of Mathematica code</span>
+<span class='talk-transcript__fragment' data-time='748000' id='t-748000'>that's able to be run here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>Okay. Let's zoom out again.</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>So, given our new kind of science,</span>
+<span class='talk-transcript__fragment' data-time='757000' id='t-757000'>is there a general way to use it to make technology?</span>
+<span class='talk-transcript__fragment' data-time='760000' id='t-760000'>So, with physical materials,</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>we're used to going around the world</span>
+<span class='talk-transcript__fragment' data-time='764000' id='t-764000'>and discovering that particular materials</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>are useful for particular</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>technological purposes.</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>Well, it turns out we can do very much the same kind of thing</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>in the computational universe.</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>There's an inexhaustible supply of programs out there.</span>
+<span class='talk-transcript__fragment' data-time='777000' id='t-777000'>The challenge is to see how to</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>harness them for human purposes.</span>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>Something like Rule 30, for example,</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>turns out to be a really good randomness generator.</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>Other simple programs are good models</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>for processes in the natural or social world.</span>
+<span class='talk-transcript__fragment' data-time='790000' id='t-790000'>And, for example, Wolfram Alpha and Mathematica</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>are actually now full of algorithms</span>
+<span class='talk-transcript__fragment' data-time='794000' id='t-794000'>that we discovered by searching the computational universe.</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>And, for example, this -- if we go back here --</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>this has become surprisingly popular</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>among composers</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>finding musical forms by searching the computational universe.</span>
+<span class='talk-transcript__fragment' data-time='810000' id='t-810000'>In a sense, we can use the computational universe</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>to get mass customized creativity.</span>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>I'm hoping we can, for example,</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>use that even to get Wolfram Alpha</span>
+<span class='talk-transcript__fragment' data-time='819000' id='t-819000'>to routinely do invention and discovery on the fly,</span>
+<span class='talk-transcript__fragment' data-time='822000' id='t-822000'>and to find all sorts of wonderful stuff</span>
+<span class='talk-transcript__fragment' data-time='824000' id='t-824000'>that no engineer</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>and no process of incremental evolution would ever come up with.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>Well, so, that leads to kind of an ultimate question:</span>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>Could it be that someplace out there in the computational universe</span>
+<span class='talk-transcript__fragment' data-time='836000' id='t-836000'>we might find our physical universe?</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>Perhaps there's even some quite simple rule,</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>some simple program for our universe.</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>Well, the history of physics would have us believe</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>that the rule for the universe must be pretty complicated.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>But in the computational universe,</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>we've now seen how rules that are incredibly simple</span>
+<span class='talk-transcript__fragment' data-time='854000' id='t-854000'>can produce incredibly rich and complex behavior.</span>
+<span class='talk-transcript__fragment' data-time='857000' id='t-857000'>So could that be what's going on with our whole universe?</span>
+<span class='talk-transcript__fragment' data-time='861000' id='t-861000'>If the rules for the universe are simple,</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>it's kind of inevitable that they have to be</span>
+<span class='talk-transcript__fragment' data-time='865000' id='t-865000'>very abstract and very low level;</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>operating, for example, far below</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>the level of space or time,</span>
+<span class='talk-transcript__fragment' data-time='871000' id='t-871000'>which makes it hard to represent things.</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>But in at least a large class of cases,</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>one can think of the universe as being</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>like some kind of network,</span>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>which, when it gets big enough,</span>
+<span class='talk-transcript__fragment' data-time='881000' id='t-881000'>behaves like continuous space</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>in much the same way as having lots of molecules</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>can behave like a continuous fluid.</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>Well, then the universe has to evolve by applying</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>little rules that progressively update this network.</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>And each possible rule, in a sense,</span>
+<span class='talk-transcript__fragment' data-time='895000' id='t-895000'>corresponds to a candidate universe.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='897000' id='t-897000'>Actually, I haven't shown these before,</span>
+<span class='talk-transcript__fragment' data-time='901000' id='t-901000'>but here are a few of the candidate universes</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>that I've looked at.</span>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>Some of these are hopeless universes,</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>completely sterile,</span>
+<span class='talk-transcript__fragment' data-time='910000' id='t-910000'>with other kinds of pathologies like no notion of space,</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>no notion of time, no matter,</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>other problems like that.</span>
+<span class='talk-transcript__fragment' data-time='917000' id='t-917000'>But the exciting thing that I've found in the last few years</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>is that you actually don't have to go very far</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>in the computational universe</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>before you start finding candidate universes</span>
+<span class='talk-transcript__fragment' data-time='926000' id='t-926000'>that aren't obviously not our universe.</span>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>Here's the problem:</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>Any serious candidate for our universe</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>is inevitably full of computational irreducibility.</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>Which means that it is irreducibly difficult</span>
+<span class='talk-transcript__fragment' data-time='940000' id='t-940000'>to find out how it will really behave,</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>and whether it matches our physical universe.</span>
+<span class='talk-transcript__fragment' data-time='946000' id='t-946000'>A few years ago, I was pretty excited to discover</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>that there are candidate universes with incredibly simple rules</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>that successfully reproduce special relativity,</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>and even general relativity and gravitation,</span>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>and at least give hints of quantum mechanics.</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>So, will we find the whole of physics?</span>
+<span class='talk-transcript__fragment' data-time='962000' id='t-962000'>I don't know for sure,</span>
+<span class='talk-transcript__fragment' data-time='964000' id='t-964000'>but I think at this point it's sort of</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>almost embarrassing not to at least try.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='968000' id='t-968000'>Not an easy project.</span>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>One's got to build a lot of technology.</span>
+<span class='talk-transcript__fragment' data-time='972000' id='t-972000'>One's got to build a structure that's probably</span>
+<span class='talk-transcript__fragment' data-time='974000' id='t-974000'>at least as deep as existing physics.</span>
+<span class='talk-transcript__fragment' data-time='976000' id='t-976000'>And I'm not sure what the best way to organize the whole thing is.</span>
+<span class='talk-transcript__fragment' data-time='979000' id='t-979000'>Build a team, open it up, offer prizes and so on.</span>
+<span class='talk-transcript__fragment' data-time='982000' id='t-982000'>But I'll tell you, here today,</span>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>that I'm committed to seeing this project done,</span>
+<span class='talk-transcript__fragment' data-time='986000' id='t-986000'>to see if, within this decade,</span>
+<span class='talk-transcript__fragment' data-time='989000' id='t-989000'>we can finally hold in our hands</span>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>the rule for our universe</span>
+<span class='talk-transcript__fragment' data-time='993000' id='t-993000'>and know where our universe lies</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>in the space of all possible universes ...</span>
+<span class='talk-transcript__fragment' data-time='997000' id='t-997000'>and be able to type into Wolfram Alpha, &quot;the theory of the universe,&quot;</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>and have it tell us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1002000' id='t-1002000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1005000' id='t-1005000'>So I've been working on the idea of computation</span>
+<span class='talk-transcript__fragment' data-time='1007000' id='t-1007000'>now for more than 30 years,</span>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>building tools and methods and turning intellectual ideas</span>
+<span class='talk-transcript__fragment' data-time='1012000' id='t-1012000'>into millions of lines of code</span>
+<span class='talk-transcript__fragment' data-time='1014000' id='t-1014000'>and grist for server farms and so on.</span>
+<span class='talk-transcript__fragment' data-time='1016000' id='t-1016000'>With every passing year,</span>
+<span class='talk-transcript__fragment' data-time='1018000' id='t-1018000'>I realize how much more powerful</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>the idea of computation really is.</span>
+<span class='talk-transcript__fragment' data-time='1022000' id='t-1022000'>It's taken us a long way already,</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>but there's so much more to come.</span>
+<span class='talk-transcript__fragment' data-time='1026000' id='t-1026000'>From the foundations of science</span>
+<span class='talk-transcript__fragment' data-time='1028000' id='t-1028000'>to the limits of technology</span>
+<span class='talk-transcript__fragment' data-time='1030000' id='t-1030000'>to the very definition of the human condition,</span>
+<span class='talk-transcript__fragment' data-time='1032000' id='t-1032000'>I think computation is destined to be</span>
+<span class='talk-transcript__fragment' data-time='1034000' id='t-1034000'>the defining idea of our future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1036000' id='t-1036000'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1038000' id='t-1038000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1052000' id='t-1052000'>Chris Anderson: That was astonishing.</span>
+<span class='talk-transcript__fragment' data-time='1054000' id='t-1054000'>Stay here. I've got a question.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1056000' id='t-1056000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1062000' id='t-1062000'>So, that was, fair to say, an astonishing talk.</span>
+<span class='talk-transcript__fragment' data-time='1066000' id='t-1066000'>Are you able to say in a sentence or two</span>
+<span class='talk-transcript__fragment' data-time='1069000' id='t-1069000'>how this type of thinking</span>
+<span class='talk-transcript__fragment' data-time='1072000' id='t-1072000'>could integrate at some point</span>
+<span class='talk-transcript__fragment' data-time='1074000' id='t-1074000'>to things like string theory or the kind of things that people think of</span>
+<span class='talk-transcript__fragment' data-time='1076000' id='t-1076000'>as the fundamental explanations of the universe?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1079000' id='t-1079000'>Stephen Wolfram: Well, the parts of physics</span>
+<span class='talk-transcript__fragment' data-time='1081000' id='t-1081000'>that we kind of know to be true,</span>
+<span class='talk-transcript__fragment' data-time='1083000' id='t-1083000'>things like the standard model of physics:</span>
+<span class='talk-transcript__fragment' data-time='1085000' id='t-1085000'>what I'm trying to do better reproduce the standard model of physics</span>
+<span class='talk-transcript__fragment' data-time='1088000' id='t-1088000'>or it's simply wrong.</span>
+<span class='talk-transcript__fragment' data-time='1090000' id='t-1090000'>The things that people have tried to do in the last 25 years or so</span>
+<span class='talk-transcript__fragment' data-time='1092000' id='t-1092000'>with string theory and so on</span>
+<span class='talk-transcript__fragment' data-time='1094000' id='t-1094000'>have been an interesting exploration</span>
+<span class='talk-transcript__fragment' data-time='1096000' id='t-1096000'>that has tried to get back to the standard model,</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>but hasn't quite gotten there.</span>
+<span class='talk-transcript__fragment' data-time='1101000' id='t-1101000'>My guess is that some great simplifications of what I'm doing</span>
+<span class='talk-transcript__fragment' data-time='1104000' id='t-1104000'>may actually have considerable resonance</span>
+<span class='talk-transcript__fragment' data-time='1107000' id='t-1107000'>with what's been done in string theory,</span>
+<span class='talk-transcript__fragment' data-time='1109000' id='t-1109000'>but that's a complicated math thing</span>
+<span class='talk-transcript__fragment' data-time='1112000' id='t-1112000'>that I don't yet know how it's going to work out.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1115000' id='t-1115000'>CA: Benoit Mandelbrot is in the audience.</span>
+<span class='talk-transcript__fragment' data-time='1117000' id='t-1117000'>He also has shown how complexity</span>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>can arise out of a simple start.</span>
+<span class='talk-transcript__fragment' data-time='1121000' id='t-1121000'>Does your work relate to his?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1123000' id='t-1123000'>SW: I think so.</span>
+<span class='talk-transcript__fragment' data-time='1125000' id='t-1125000'>I view Benoit Mandelbrot's work</span>
+<span class='talk-transcript__fragment' data-time='1127000' id='t-1127000'>as one of the founding contributions</span>
+<span class='talk-transcript__fragment' data-time='1130000' id='t-1130000'>to this kind of area.</span>
+<span class='talk-transcript__fragment' data-time='1133000' id='t-1133000'>Benoit has been particularly interested</span>
+<span class='talk-transcript__fragment' data-time='1135000' id='t-1135000'>in nested patterns, in fractals and so on,</span>
+<span class='talk-transcript__fragment' data-time='1137000' id='t-1137000'>where the structure is something</span>
+<span class='talk-transcript__fragment' data-time='1139000' id='t-1139000'>that's kind of tree-like,</span>
+<span class='talk-transcript__fragment' data-time='1141000' id='t-1141000'>and where there's sort of a big branch that makes little branches</span>
+<span class='talk-transcript__fragment' data-time='1143000' id='t-1143000'>and even smaller branches and so on.</span>
+<span class='talk-transcript__fragment' data-time='1146000' id='t-1146000'>That's one of the ways</span>
+<span class='talk-transcript__fragment' data-time='1148000' id='t-1148000'>that you get towards true complexity.</span>
+<span class='talk-transcript__fragment' data-time='1151000' id='t-1151000'>I think things like the Rule 30 cellular automaton</span>
+<span class='talk-transcript__fragment' data-time='1154000' id='t-1154000'>get us to a different level.</span>
+<span class='talk-transcript__fragment' data-time='1156000' id='t-1156000'>In fact, in a very precise way, they get us to a different level</span>
+<span class='talk-transcript__fragment' data-time='1159000' id='t-1159000'>because they seem to be things that are</span>
+<span class='talk-transcript__fragment' data-time='1162000' id='t-1162000'>capable of complexity</span>
+<span class='talk-transcript__fragment' data-time='1165000' id='t-1165000'>that's sort of as great as complexity can ever get ...</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1169000' id='t-1169000'>I could go on about this at great length, but I won't. (Laughter) (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1172000' id='t-1172000'>CA: Stephen Wolfram, thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1174000' id='t-1174000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

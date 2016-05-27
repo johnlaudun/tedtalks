@@ -1,0 +1,1709 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jim Simons: A rare interview with the mathematician who cracked Wall Street | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Jim Simons: A rare interview with the mathematician who cracked Wall Street | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Jim Simons was a mathematician and cryptographer who realized: the complex math he used to break codes could help explain patterns in the world of finance. Billions later, he’s working to support the next generation of math teachers and scholars. TED’s Chris Anderson sits down with Simons to talk about his extraordinary life in numbers." name="description" />
+<meta content="Jim Simons" name="author" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A rare interview with the mathematician who cracked Wall Street&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4992208e156d7fa0de27c0affa357c6ada9dd230_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4992208e156d7fa0de27c0affa357c6ada9dd230_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Jim Simons was a mathematician and cryptographer who realized: the complex math he used to break codes could help explain patterns in the world of finance. Billions later, he’s working to support the next generation of math teachers and scholars. TED’s Chris Anderson sits down with Simons to talk about his extraordinary life in numbers." property="og:description" />
+<meta content="http://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2323?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2323?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1383" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4992208e156d7fa0de27c0affa357c6ada9dd230_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">23:03</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Jim Simons</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2323?language=en' lang='en'>
+A rare interview with the mathematician who cracked Wall Street
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='817' id='t-817'>Chris Anderson: You were something
+of a mathematical phenom.</span>
+<span class='talk-transcript__fragment' data-time='3675' id='t-3675'>You had already taught at Harvard
+and MIT at a young age.</span>
+<span class='talk-transcript__fragment' data-time='6763' id='t-6763'>And then the NSA came calling.</span>
+<span class='talk-transcript__fragment' data-time='9464' id='t-9464'>What was that about?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='11207' id='t-11207'>Jim Simons: Well the NSA --
+that's the National Security Agency --</span>
+<span class='talk-transcript__fragment' data-time='15154' id='t-15154'>they didn't exactly come calling.</span>
+<span class='talk-transcript__fragment' data-time='17465' id='t-17465'>They had an operation at Princeton,
+where they hired mathematicians</span>
+<span class='talk-transcript__fragment' data-time='21963' id='t-21963'>to attack secret codes
+and stuff like that.</span>
+<span class='talk-transcript__fragment' data-time='25294' id='t-25294'>And I knew that existed.</span>
+<span class='talk-transcript__fragment' data-time='27315' id='t-27315'>And they had a very good policy,</span>
+<span class='talk-transcript__fragment' data-time='29519' id='t-29519'>because you could do half your time
+at your own mathematics,</span>
+<span class='talk-transcript__fragment' data-time='33393' id='t-33393'>and at least half your time
+working on their stuff.</span>
+<span class='talk-transcript__fragment' data-time='37559' id='t-37559'>And they paid a lot.</span>
+<span class='talk-transcript__fragment' data-time='39057' id='t-39057'>So that was an irresistible pull.</span>
+<span class='talk-transcript__fragment' data-time='42132' id='t-42132'>So, I went there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='44068' id='t-44068'>CA: You were a code-cracker.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='45430' id='t-45430'>JS: I was.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='46620' id='t-46620'>CA: Until you got fired.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='47801' id='t-47801'>JS: Well, I did get fired. Yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='49408' id='t-49408'>CA: How come?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='51280' id='t-51280'>JS: Well, how come?</span>
+<span class='talk-transcript__fragment' data-time='53611' id='t-53611'>I got fired because,
+well, the Vietnam War was on,</span>
+<span class='talk-transcript__fragment' data-time='58591' id='t-58591'>and the boss of bosses in my organization
+was a big fan of the war</span>
+<span class='talk-transcript__fragment' data-time='64353' id='t-64353'>and wrote a New York Times article,
+a magazine section cover story,</span>
+<span class='talk-transcript__fragment' data-time='68772' id='t-68772'>about how we would win in Vietnam.</span>
+<span class='talk-transcript__fragment' data-time='70566' id='t-70566'>And I didn't like that war,
+I thought it was stupid.</span>
+<span class='talk-transcript__fragment' data-time='73719' id='t-73719'>And I wrote a letter to the Times,
+which they published,</span>
+<span class='talk-transcript__fragment' data-time='76408' id='t-76408'>saying not everyone
+who works for Maxwell Taylor,</span>
+<span class='talk-transcript__fragment' data-time='80446' id='t-80446'>if anyone remembers that name,
+agrees with his views.</span>
+<span class='talk-transcript__fragment' data-time='85553' id='t-85553'>And I gave my own views ...</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='87235' id='t-87235'>CA: Oh, OK. I can see that would --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='89423' id='t-89423'>JS: ... which were different
+from General Taylor's.</span>
+<span class='talk-transcript__fragment' data-time='92002' id='t-92002'>But in the end, nobody said anything.</span>
+<span class='talk-transcript__fragment' data-time='93932' id='t-93932'>But then, I was 29 years old at this time,
+and some kid came around</span>
+<span class='talk-transcript__fragment' data-time='97657' id='t-97657'>and said he was a stringer
+from Newsweek magazine</span>
+<span class='talk-transcript__fragment' data-time='100769' id='t-100769'>and he wanted to interview me
+and ask what I was doing about my views.</span>
+<span class='talk-transcript__fragment' data-time='106160' id='t-106160'>And I told him, &quot;I'm doing
+mostly mathematics now,</span>
+<span class='talk-transcript__fragment' data-time='110083' id='t-110083'>and when the war is over,
+then I'll do mostly their stuff.&quot;</span>
+<span class='talk-transcript__fragment' data-time='114123' id='t-114123'>Then I did the only
+intelligent thing I'd done that day --</span>
+<span class='talk-transcript__fragment' data-time='116972' id='t-116972'>I told my local boss
+that I gave that interview.</span>
+<span class='talk-transcript__fragment' data-time='121153' id='t-121153'>And he said, &quot;What'd you say?&quot;</span>
+<span class='talk-transcript__fragment' data-time='122636' id='t-122636'>And I told him what I said.</span>
+<span class='talk-transcript__fragment' data-time='124126' id='t-124126'>And then he said,
+&quot;I've got to call Taylor.&quot;</span>
+<span class='talk-transcript__fragment' data-time='126465' id='t-126465'>He called Taylor; that took 10 minutes.</span>
+<span class='talk-transcript__fragment' data-time='128866' id='t-128866'>I was fired five minutes after that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='131590' id='t-131590'>CA: OK.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='132836' id='t-132836'>JS: But it wasn't bad.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='134011' id='t-134011'>CA: It wasn't bad,
+because you went on to Stony Brook</span>
+<span class='talk-transcript__fragment' data-time='136528' id='t-136528'>and stepped up your mathematical career.</span>
+<span class='talk-transcript__fragment' data-time='139685' id='t-139685'>You started working with this man here.</span>
+<span class='talk-transcript__fragment' data-time='142161' id='t-142161'>Who is this?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='144352' id='t-144352'>JS: Oh, [Shiing-Shen] Chern.</span>
+<span class='talk-transcript__fragment' data-time='145788' id='t-145788'>Chern was one of the great
+mathematicians of the century.</span>
+<span class='talk-transcript__fragment' data-time='148916' id='t-148916'>I had known him when
+I was a graduate student at Berkeley.</span>
+<span class='talk-transcript__fragment' data-time='154173' id='t-154173'>And I had some ideas,</span>
+<span class='talk-transcript__fragment' data-time='156068' id='t-156068'>and I brought them to him
+and he liked them.</span>
+<span class='talk-transcript__fragment' data-time='158539' id='t-158539'>Together, we did this work
+which you can easily see up there.</span>
+<span class='talk-transcript__fragment' data-time='165189' id='t-165189'>There it is.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='167198' id='t-167198'>CA: It led to you publishing
+a famous paper together.</span>
+<span class='talk-transcript__fragment' data-time='170828' id='t-170828'>Can you explain at all what that work was?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='175028' id='t-175028'>JS: No.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='176210' id='t-176210'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='178966' id='t-178966'>JS: I mean, I could
+explain it to somebody.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='181054' id='t-181054'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='183153' id='t-183153'>CA: How about explaining this?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='185041' id='t-185041'>JS: But not many. Not many people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='189144' id='t-189144'>CA: I think you told me
+it had something to do with spheres,</span>
+<span class='talk-transcript__fragment' data-time='191982' id='t-191982'>so let's start here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='193868' id='t-193868'>JS: Well, it did,
+but I'll say about that work --</span>
+<span class='talk-transcript__fragment' data-time='197492' id='t-197492'>it did have something to do with that,
+but before we get to that --</span>
+<span class='talk-transcript__fragment' data-time='200716' id='t-200716'>that work was good mathematics.</span>
+<span class='talk-transcript__fragment' data-time='204280' id='t-204280'>I was very happy with it; so was Chern.</span>
+<span class='talk-transcript__fragment' data-time='207910' id='t-207910'>It even started a little sub-field
+that's now flourishing.</span>
+<span class='talk-transcript__fragment' data-time='212638' id='t-212638'>But, more interestingly,
+it happened to apply to physics,</span>
+<span class='talk-transcript__fragment' data-time='217956' id='t-217956'>something we knew nothing about --
+at least I knew nothing about physics,</span>
+<span class='talk-transcript__fragment' data-time='222275' id='t-222275'>and I don't think Chern
+knew a heck of a lot.</span>
+<span class='talk-transcript__fragment' data-time='224581' id='t-224581'>And about 10 years
+after the paper came out,</span>
+<span class='talk-transcript__fragment' data-time='228568' id='t-228568'>a guy named Ed Witten in Princeton
+started applying it to string theory</span>
+<span class='talk-transcript__fragment' data-time='233072' id='t-233072'>and people in Russia started applying it
+to what's called &quot;condensed matter.&quot;</span>
+<span class='talk-transcript__fragment' data-time='237948' id='t-237948'>Today, those things in there
+called Chern-Simons invariants</span>
+<span class='talk-transcript__fragment' data-time='242865' id='t-242865'>have spread through a lot of physics.</span>
+<span class='talk-transcript__fragment' data-time='244754' id='t-244754'>And it was amazing.</span>
+<span class='talk-transcript__fragment' data-time='245952' id='t-245952'>We didn't know any physics.</span>
+<span class='talk-transcript__fragment' data-time='247714' id='t-247714'>It never occurred to me
+that it would be applied to physics.</span>
+<span class='talk-transcript__fragment' data-time='250592' id='t-250592'>But that's the thing about mathematics --
+you never know where it's going to go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='254404' id='t-254404'>CA: This is so incredible.</span>
+<span class='talk-transcript__fragment' data-time='255920' id='t-255920'>So, we've been talking about
+how evolution shapes human minds</span>
+<span class='talk-transcript__fragment' data-time='260308' id='t-260308'>that may or may not perceive the truth.</span>
+<span class='talk-transcript__fragment' data-time='262840' id='t-262840'>Somehow, you come up
+with a mathematical theory,</span>
+<span class='talk-transcript__fragment' data-time='266177' id='t-266177'>not knowing any physics,</span>
+<span class='talk-transcript__fragment' data-time='268049' id='t-268049'>discover two decades later
+that it's being applied</span>
+<span class='talk-transcript__fragment' data-time='270571' id='t-270571'>to profoundly describe
+the actual physical world.</span>
+<span class='talk-transcript__fragment' data-time='273626' id='t-273626'>How can that happen?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='274803' id='t-274803'>JS: God knows.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='275984' id='t-275984'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='278849' id='t-278849'>But there's a famous physicist
+named [Eugene] Wigner,</span>
+<span class='talk-transcript__fragment' data-time='282023' id='t-282023'>and he wrote an essay on the unreasonable
+effectiveness of mathematics.</span>
+<span class='talk-transcript__fragment' data-time='287635' id='t-287635'>Somehow, this mathematics,
+which is rooted in the real world</span>
+<span class='talk-transcript__fragment' data-time='291611' id='t-291611'>in some sense -- we learn to count,
+measure, everyone would do that --</span>
+<span class='talk-transcript__fragment' data-time='296630' id='t-296630'>and then it flourishes on its own.</span>
+<span class='talk-transcript__fragment' data-time='298976' id='t-298976'>But so often it comes
+back to save the day.</span>
+<span class='talk-transcript__fragment' data-time='302293' id='t-302293'>General relativity is an example.</span>
+<span class='talk-transcript__fragment' data-time='304495' id='t-304495'>[Hermann] Minkowski had this geometry,
+and Einstein realized,</span>
+<span class='talk-transcript__fragment' data-time='307636' id='t-307636'>&quot;Hey! It's the very thing
+in which I can cast general relativity.&quot;</span>
+<span class='talk-transcript__fragment' data-time='311507' id='t-311507'>So, you never know. It is a mystery.</span>
+<span class='talk-transcript__fragment' data-time='315056' id='t-315056'>It is a mystery.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='316297' id='t-316297'>CA: So, here's a mathematical
+piece of ingenuity.</span>
+<span class='talk-transcript__fragment' data-time='319617' id='t-319617'>Tell us about this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='320983' id='t-320983'>JS: Well, that's a ball -- it's a sphere,
+and it has a lattice around it --</span>
+<span class='talk-transcript__fragment' data-time='326931' id='t-326931'>you know, those squares.</span>
+<span class='talk-transcript__fragment' data-time='330697' id='t-330697'>What I'm going to show here was
+originally observed by [Leonhard] Euler,</span>
+<span class='talk-transcript__fragment' data-time='335627' id='t-335627'>the great mathematician, in the 1700s.</span>
+<span class='talk-transcript__fragment' data-time='338223' id='t-338223'>And it gradually grew to be
+a very important field in mathematics:</span>
+<span class='talk-transcript__fragment' data-time='343428' id='t-343428'>algebraic topology, geometry.</span>
+<span class='talk-transcript__fragment' data-time='347039' id='t-347039'>That paper up there had its roots in this.</span>
+<span class='talk-transcript__fragment' data-time='351427' id='t-351427'>So, here's this thing:</span>
+<span class='talk-transcript__fragment' data-time='353285' id='t-353285'>it has eight vertices,
+12 edges, six faces.</span>
+<span class='talk-transcript__fragment' data-time='357761' id='t-357761'>And if you look at the difference --
+vertices minus edges plus faces --</span>
+<span class='talk-transcript__fragment' data-time='361615' id='t-361615'>you get two.</span>
+<span class='talk-transcript__fragment' data-time='362791' id='t-362791'>OK, well, two. That's a good number.</span>
+<span class='talk-transcript__fragment' data-time='365034' id='t-365034'>Here's a different way of doing it --
+these are triangles covering --</span>
+<span class='talk-transcript__fragment' data-time='369306' id='t-369306'>this has 12 vertices and 30 edges</span>
+<span class='talk-transcript__fragment' data-time='373907' id='t-373907'>and 20 faces, 20 tiles.</span>
+<span class='talk-transcript__fragment' data-time='378576' id='t-378576'>And vertices minus edges
+plus faces still equals two.</span>
+<span class='talk-transcript__fragment' data-time='383191' id='t-383191'>And in fact, you could do this
+any which way --</span>
+<span class='talk-transcript__fragment' data-time='386062' id='t-386062'>cover this thing with all kinds
+of polygons and triangles</span>
+<span class='talk-transcript__fragment' data-time='389484' id='t-389484'>and mix them up.</span>
+<span class='talk-transcript__fragment' data-time='390828' id='t-390828'>And you take vertices minus edges
+plus faces -- you'll get two.</span>
+<span class='talk-transcript__fragment' data-time='394131' id='t-394131'>Here's a different shape.</span>
+<span class='talk-transcript__fragment' data-time='396480' id='t-396480'>This is a torus, or the surface
+of a doughnut: 16 vertices</span>
+<span class='talk-transcript__fragment' data-time='401754' id='t-401754'>covered by these rectangles,
+32 edges, 16 faces.</span>
+<span class='talk-transcript__fragment' data-time='406530' id='t-406530'>Vertices minus edges comes out to be zero.</span>
+<span class='talk-transcript__fragment' data-time='409238' id='t-409238'>It'll always come out to zero.</span>
+<span class='talk-transcript__fragment' data-time='410737' id='t-410737'>Every time you cover a torus
+with squares or triangles</span>
+<span class='talk-transcript__fragment' data-time='415071' id='t-415071'>or anything like that,
+you're going to get zero.</span>
+<span class='talk-transcript__fragment' data-time='420514' id='t-420514'>So, this is called
+the Euler characteristic.</span>
+<span class='talk-transcript__fragment' data-time='422928' id='t-422928'>And it's what's called
+a topological invariant.</span>
+<span class='talk-transcript__fragment' data-time='426849' id='t-426849'>It's pretty amazing.</span>
+<span class='talk-transcript__fragment' data-time='428029' id='t-428029'>No matter how you do it,
+you're always get the same answer.</span>
+<span class='talk-transcript__fragment' data-time='430844' id='t-430844'>So that was the first sort of thrust,
+from the mid-1700s,</span>
+<span class='talk-transcript__fragment' data-time='437167' id='t-437167'>into a subject which is now called
+algebraic topology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='440960' id='t-440960'>CA: And your own work
+took an idea like this and moved it</span>
+<span class='talk-transcript__fragment' data-time='443967' id='t-443967'>into higher-dimensional theory,</span>
+<span class='talk-transcript__fragment' data-time='446440' id='t-446440'>higher-dimensional objects,
+and found new invariances?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='449552' id='t-449552'>JS: Yes. Well, there were already
+higher-dimensional invariants:</span>
+<span class='talk-transcript__fragment' data-time='454219' id='t-454219'>Pontryagin classes --
+actually, there were Chern classes.</span>
+<span class='talk-transcript__fragment' data-time='458700' id='t-458700'>There were a bunch
+of these types of invariants.</span>
+<span class='talk-transcript__fragment' data-time='462272' id='t-462272'>I was struggling to work on one of them</span>
+<span class='talk-transcript__fragment' data-time='466431' id='t-466431'>and model it sort of combinatorially,</span>
+<span class='talk-transcript__fragment' data-time='470658' id='t-470658'>instead of the way it was typically done,</span>
+<span class='talk-transcript__fragment' data-time='473704' id='t-473704'>and that led to this work
+and we uncovered some new things.</span>
+<span class='talk-transcript__fragment' data-time='478087' id='t-478087'>But if it wasn't for Mr. Euler --</span>
+<span class='talk-transcript__fragment' data-time='481612' id='t-481612'>who wrote almost 70 volumes of mathematics</span>
+<span class='talk-transcript__fragment' data-time='485617' id='t-485617'>and had 13 children,</span>
+<span class='talk-transcript__fragment' data-time='487372' id='t-487372'>who he apparently would dandle on his knee
+while he was writing --</span>
+<span class='talk-transcript__fragment' data-time='493838' id='t-493838'>if it wasn't for Mr. Euler, there wouldn't
+perhaps be these invariants.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='500157' id='t-500157'>CA: OK, so that's at least given us
+a flavor of that amazing mind in there.</span>
+<span class='talk-transcript__fragment' data-time='504804' id='t-504804'>Let's talk about Renaissance.</span>
+<span class='talk-transcript__fragment' data-time='506371' id='t-506371'>Because you took that amazing mind
+and having been a code-cracker at the NSA,</span>
+<span class='talk-transcript__fragment' data-time='512251' id='t-512251'>you started to become a code-cracker
+in the financial industry.</span>
+<span class='talk-transcript__fragment' data-time='515504' id='t-515504'>I think you probably didn't buy
+efficient market theory.</span>
+<span class='talk-transcript__fragment' data-time='518218' id='t-518218'>Somehow you found a way of creating
+astonishing returns over two decades.</span>
+<span class='talk-transcript__fragment' data-time='524629' id='t-524629'>The way it's been explained to me,</span>
+<span class='talk-transcript__fragment' data-time='526324' id='t-526324'>what's remarkable about what you did
+wasn't just the size of the returns,</span>
+<span class='talk-transcript__fragment' data-time='529847' id='t-529847'>it's that you took them
+with surprisingly low volatility and risk,</span>
+<span class='talk-transcript__fragment' data-time='533754' id='t-533754'>compared with other hedge funds.</span>
+<span class='talk-transcript__fragment' data-time='535602' id='t-535602'>So how on earth did you do this, Jim?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='538071' id='t-538071'>JS: I did it by assembling
+a wonderful group of people.</span>
+<span class='talk-transcript__fragment' data-time='542206' id='t-542206'>When I started doing trading, I had
+gotten a little tired of mathematics.</span>
+<span class='talk-transcript__fragment' data-time='546186' id='t-546186'>I was in my late 30s,
+I had a little money.</span>
+<span class='talk-transcript__fragment' data-time='550133' id='t-550133'>I started trading and it went very well.</span>
+<span class='talk-transcript__fragment' data-time='553063' id='t-553063'>I made quite a lot of money
+with pure luck.</span>
+<span class='talk-transcript__fragment' data-time='555835' id='t-555835'>I mean, I think it was pure luck.</span>
+<span class='talk-transcript__fragment' data-time='557525' id='t-557525'>It certainly wasn't mathematical modeling.</span>
+<span class='talk-transcript__fragment' data-time='559658' id='t-559658'>But in looking at the data,
+after a while I realized:</span>
+<span class='talk-transcript__fragment' data-time='563513' id='t-563513'>it looks like there's some structure here.</span>
+<span class='talk-transcript__fragment' data-time='566090' id='t-566090'>And I hired a few mathematicians,
+and we started making some models --</span>
+<span class='talk-transcript__fragment' data-time='569811' id='t-569811'>just the kind of thing we did back
+at IDA [Institute for Defense Analyses].</span>
+<span class='talk-transcript__fragment' data-time='574100' id='t-574100'>You design an algorithm,
+you test it out on a computer.</span>
+<span class='talk-transcript__fragment' data-time='576957' id='t-576957'>Does it work? Doesn't it work? And so on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='579443' id='t-579443'>CA: Can we take a look at this?</span>
+<span class='talk-transcript__fragment' data-time='580946' id='t-580946'>Because here's a typical graph
+of some commodity.</span>
+<span class='talk-transcript__fragment' data-time='586487' id='t-586487'>I look at that, and I say,
+&quot;That's just a random, up-and-down walk --</span>
+<span class='talk-transcript__fragment' data-time='590552' id='t-590552'>maybe a slight upward trend
+over that whole period of time.&quot;</span>
+<span class='talk-transcript__fragment' data-time='593438' id='t-593438'>How on earth could you trade
+looking at that,</span>
+<span class='talk-transcript__fragment' data-time='595575' id='t-595575'>and see something that wasn't just random?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='597925' id='t-597925'>JS: In the old days -- this is
+kind of a graph from the old days,</span>
+<span class='talk-transcript__fragment' data-time='601196' id='t-601196'>commodities or currencies
+had a tendency to trend.</span>
+<span class='talk-transcript__fragment' data-time='605504' id='t-605504'>Not necessarily the very light trend
+you see here, but trending in periods.</span>
+<span class='talk-transcript__fragment' data-time='611583' id='t-611583'>And if you decided, OK,
+I'm going to predict today,</span>
+<span class='talk-transcript__fragment' data-time='615663' id='t-615663'>by the average move in the past 20 days --</span>
+<span class='talk-transcript__fragment' data-time='620655' id='t-620655'>maybe that would be a good prediction,
+and I'd make some money.</span>
+<span class='talk-transcript__fragment' data-time='623786' id='t-623786'>And in fact, years ago,
+such a system would work --</span>
+<span class='talk-transcript__fragment' data-time='629418' id='t-629418'>not beautifully, but it would work.</span>
+<span class='talk-transcript__fragment' data-time='631833' id='t-631833'>You'd make money, you'd lose
+money, you'd make money.</span>
+<span class='talk-transcript__fragment' data-time='634366' id='t-634366'>But this is a year's worth of days,</span>
+<span class='talk-transcript__fragment' data-time='636588' id='t-636588'>and you'd make a little money
+during that period.</span>
+<span class='talk-transcript__fragment' data-time='641884' id='t-641884'>It's a very vestigial system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='644525' id='t-644525'>CA: So you would test
+a bunch of lengths of trends in time</span>
+<span class='talk-transcript__fragment' data-time='648078' id='t-648078'>and see whether, for example,</span>
+<span class='talk-transcript__fragment' data-time='650538' id='t-650538'>a 10-day trend or a 15-day trend
+was predictive of what happened next.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='654043' id='t-654043'>JS: Sure, you would try all those things
+and see what worked best.</span>
+<span class='talk-transcript__fragment' data-time='661515' id='t-661515'>Trend-following would
+have been great in the '60s,</span>
+<span class='talk-transcript__fragment' data-time='664889' id='t-664889'>and it was sort of OK in the '70s.</span>
+<span class='talk-transcript__fragment' data-time='667045' id='t-667045'>By the '80s, it wasn't.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='668942' id='t-668942'>CA: Because everyone could see that.</span>
+<span class='talk-transcript__fragment' data-time='671783' id='t-671783'>So, how did you stay ahead of the pack?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='675046' id='t-675046'>JS: We stayed ahead of the pack
+by finding other approaches --</span>
+<span class='talk-transcript__fragment' data-time='681202' id='t-681202'>shorter-term approaches to some extent.</span>
+<span class='talk-transcript__fragment' data-time='685107' id='t-685107'>The real thing was to gather
+a tremendous amount of data --</span>
+<span class='talk-transcript__fragment' data-time='688478' id='t-688478'>and we had to get it by hand
+in the early days.</span>
+<span class='talk-transcript__fragment' data-time='692080' id='t-692080'>We went down to the Federal Reserve
+and copied interest rate histories</span>
+<span class='talk-transcript__fragment' data-time='695570' id='t-695570'>and stuff like that,
+because it didn't exist on computers.</span>
+<span class='talk-transcript__fragment' data-time='698859' id='t-698859'>We got a lot of data.</span>
+<span class='talk-transcript__fragment' data-time='700526' id='t-700526'>And very smart people -- that was the key.</span>
+<span class='talk-transcript__fragment' data-time='705463' id='t-705463'>I didn't really know how to hire
+people to do fundamental trading.</span>
+<span class='talk-transcript__fragment' data-time='709749' id='t-709749'>I had hired a few -- some made money,
+some didn't make money.</span>
+<span class='talk-transcript__fragment' data-time='712722' id='t-712722'>I couldn't make a business out of that.</span>
+<span class='talk-transcript__fragment' data-time='714626' id='t-714626'>But I did know how to hire scientists,</span>
+<span class='talk-transcript__fragment' data-time='716692' id='t-716692'>because I have some taste
+in that department.</span>
+<span class='talk-transcript__fragment' data-time='720105' id='t-720105'>So, that's what we did.</span>
+<span class='talk-transcript__fragment' data-time='721967' id='t-721967'>And gradually these models
+got better and better,</span>
+<span class='talk-transcript__fragment' data-time='725222' id='t-725222'>and better and better.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='726581' id='t-726581'>CA: You're credited with doing
+something remarkable at Renaissance,</span>
+<span class='talk-transcript__fragment' data-time='729819' id='t-729819'>which is building this culture,
+this group of people,</span>
+<span class='talk-transcript__fragment' data-time='732444' id='t-732444'>who weren't just hired guns
+who could be lured away by money.</span>
+<span class='talk-transcript__fragment' data-time='735610' id='t-735610'>Their motivation was doing
+exciting mathematics and science.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='739860' id='t-739860'>JS: Well, I'd hoped that might be true.</span>
+<span class='talk-transcript__fragment' data-time='742283' id='t-742283'>But some of it was money.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='745887' id='t-745887'>CA: They made a lot of money.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='747304' id='t-747304'>JS: I can't say that no one came
+because of the money.</span>
+<span class='talk-transcript__fragment' data-time='749865' id='t-749865'>I think a lot of them
+came because of the money.</span>
+<span class='talk-transcript__fragment' data-time='752142' id='t-752142'>But they also came
+because it would be fun.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='754187' id='t-754187'>CA: What role did machine learning
+play in all this?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='756699' id='t-756699'>JS: In a certain sense,
+what we did was machine learning.</span>
+<span class='talk-transcript__fragment' data-time='760879' id='t-760879'>You look at a lot of data, and you try
+to simulate different predictive schemes,</span>
+<span class='talk-transcript__fragment' data-time='767194' id='t-767194'>until you get better and better at it.</span>
+<span class='talk-transcript__fragment' data-time='769400' id='t-769400'>It doesn't necessarily feed back on itself
+the way we did things.</span>
+<span class='talk-transcript__fragment' data-time='773191' id='t-773191'>But it worked.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='776150' id='t-776150'>CA: So these different predictive schemes
+can be really quite wild and unexpected.</span>
+<span class='talk-transcript__fragment' data-time='780233' id='t-780233'>I mean, you looked at everything, right?</span>
+<span class='talk-transcript__fragment' data-time='782171' id='t-782171'>You looked at the weather,
+length of dresses, political opinion.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='785512' id='t-785512'>JS: Yes, length of dresses we didn't try.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='788373' id='t-788373'>CA: What sort of things?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='790454' id='t-790454'>JS: Well, everything.</span>
+<span class='talk-transcript__fragment' data-time='791636' id='t-791636'>Everything is grist for the mill --
+except hem lengths.</span>
+<span class='talk-transcript__fragment' data-time='796852' id='t-796852'>Weather, annual reports,</span>
+<span class='talk-transcript__fragment' data-time='799176' id='t-799176'>quarterly reports, historic data itself,
+volumes, you name it.</span>
+<span class='talk-transcript__fragment' data-time='803932' id='t-803932'>Whatever there is.</span>
+<span class='talk-transcript__fragment' data-time='805107' id='t-805107'>We take in terabytes of data a day.</span>
+<span class='talk-transcript__fragment' data-time='807752' id='t-807752'>And store it away and massage it
+and get it ready for analysis.</span>
+<span class='talk-transcript__fragment' data-time='813446' id='t-813446'>You're looking for anomalies.</span>
+<span class='talk-transcript__fragment' data-time='814852' id='t-814852'>You're looking for -- like you said,</span>
+<span class='talk-transcript__fragment' data-time='817829' id='t-817829'>the efficient market
+hypothesis is not correct.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='820305' id='t-820305'>CA: But any one anomaly
+might be just a random thing.</span>
+<span class='talk-transcript__fragment' data-time='823796' id='t-823796'>So, is the secret here to just look
+at multiple strange anomalies,</span>
+<span class='talk-transcript__fragment' data-time='827478' id='t-827478'>and see when they align?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='829238' id='t-829238'>JS: Any one anomaly
+might be a random thing;</span>
+<span class='talk-transcript__fragment' data-time='832475' id='t-832475'>however, if you have enough data
+you can tell that it's not.</span>
+<span class='talk-transcript__fragment' data-time='835538' id='t-835538'>You can see an anomaly that's persistent
+for a sufficiently long time --</span>
+<span class='talk-transcript__fragment' data-time='840512' id='t-840512'>the probability of it being
+random is not high.</span>
+<span class='talk-transcript__fragment' data-time='845511' id='t-845511'>But these things fade after a while;
+anomalies can get washed out.</span>
+<span class='talk-transcript__fragment' data-time='850393' id='t-850393'>So you have to keep on top
+of the business.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='852837' id='t-852837'>CA: A lot of people look
+at the hedge fund industry now</span>
+<span class='talk-transcript__fragment' data-time='855533' id='t-855533'>and are sort of ... shocked by it,</span>
+<span class='talk-transcript__fragment' data-time='859955' id='t-859955'>by how much wealth is created there,</span>
+<span class='talk-transcript__fragment' data-time='862151' id='t-862151'>and how much talent is going into it.</span>
+<span class='talk-transcript__fragment' data-time='865523' id='t-865523'>Do you have any worries
+about that industry,</span>
+<span class='talk-transcript__fragment' data-time='869553' id='t-869553'>and perhaps the financial
+industry in general?</span>
+<span class='talk-transcript__fragment' data-time='871991' id='t-871991'>Kind of being on a runaway train that's --</span>
+<span class='talk-transcript__fragment' data-time='874719' id='t-874719'>I don't know --
+helping increase inequality?</span>
+<span class='talk-transcript__fragment' data-time='878773' id='t-878773'>How would you champion what's happening
+in the hedge fund industry?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='882628' id='t-882628'>JS: I think in the last
+three or four years,</span>
+<span class='talk-transcript__fragment' data-time='885260' id='t-885260'>hedge funds have not done especially well.</span>
+<span class='talk-transcript__fragment' data-time='887387' id='t-887387'>We've done dandy,</span>
+<span class='talk-transcript__fragment' data-time='888811' id='t-888811'>but the hedge fund industry as a whole
+has not done so wonderfully.</span>
+<span class='talk-transcript__fragment' data-time='892836' id='t-892836'>The stock market has been on a roll,
+going up as everybody knows,</span>
+<span class='talk-transcript__fragment' data-time='897762' id='t-897762'>and price-earnings ratios have grown.</span>
+<span class='talk-transcript__fragment' data-time='901231' id='t-901231'>So an awful lot of the wealth
+that's been created in the last --</span>
+<span class='talk-transcript__fragment' data-time='904318' id='t-904318'>let's say, five or six years --
+has not been created by hedge funds.</span>
+<span class='talk-transcript__fragment' data-time='908458' id='t-908458'>People would ask me,
+&quot;What's a hedge fund?&quot;</span>
+<span class='talk-transcript__fragment' data-time='911703' id='t-911703'>And I'd say, &quot;One and 20.&quot;</span>
+<span class='talk-transcript__fragment' data-time='913987' id='t-913987'>Which means -- now it's two and 20 --</span>
+<span class='talk-transcript__fragment' data-time='917577' id='t-917577'>it's two percent fixed fee
+and 20 percent of profits.</span>
+<span class='talk-transcript__fragment' data-time='920954' id='t-920954'>Hedge funds are all
+different kinds of creatures.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='923330' id='t-923330'>CA: Rumor has it you charge
+slightly higher fees than that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='927339' id='t-927339'>JS: We charged the highest fees
+in the world at one time.</span>
+<span class='talk-transcript__fragment' data-time='930444' id='t-930444'>Five and 44, that's what we charge.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='933694' id='t-933694'>CA: Five and 44.</span>
+<span class='talk-transcript__fragment' data-time='935116' id='t-935116'>So five percent flat,
+44 percent of upside.</span>
+<span class='talk-transcript__fragment' data-time='938374' id='t-938374'>You still made your investors
+spectacular amounts of money.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='941181' id='t-941181'>JS: We made good returns, yes.</span>
+<span class='talk-transcript__fragment' data-time='942657' id='t-942657'>People got very mad:
+&quot;How can you charge such high fees?&quot;</span>
+<span class='talk-transcript__fragment' data-time='945681' id='t-945681'>I said, &quot;OK, you can withdraw.&quot;</span>
+<span class='talk-transcript__fragment' data-time='947332' id='t-947332'>But &quot;How can I get more?&quot;
+was what people were --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='950174' id='t-950174'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='951702' id='t-951702'>But at a certain point,
+as I think I told you,</span>
+<span class='talk-transcript__fragment' data-time='954166' id='t-954166'>we bought out all the investors
+because there's a capacity to the fund.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='959365' id='t-959365'>CA: But should we worry
+about the hedge fund industry</span>
+<span class='talk-transcript__fragment' data-time='962093' id='t-962093'>attracting too much of the world's
+great mathematical and other talent</span>
+<span class='talk-transcript__fragment' data-time='967555' id='t-967555'>to work on that, as opposed
+to the many other problems in the world?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='970817' id='t-970817'>JS: Well, it's not just mathematical.</span>
+<span class='talk-transcript__fragment' data-time='972770' id='t-972770'>We hire astronomers and physicists
+and things like that.</span>
+<span class='talk-transcript__fragment' data-time='975833' id='t-975833'>I don't think we should worry
+about it too much.</span>
+<span class='talk-transcript__fragment' data-time='978288' id='t-978288'>It's still a pretty small industry.</span>
+<span class='talk-transcript__fragment' data-time='981454' id='t-981454'>And in fact, bringing science
+into the investing world</span>
+<span class='talk-transcript__fragment' data-time='987475' id='t-987475'>has improved that world.</span>
+<span class='talk-transcript__fragment' data-time='989658' id='t-989658'>It's reduced volatility.
+It's increased liquidity.</span>
+<span class='talk-transcript__fragment' data-time='993752' id='t-993752'>Spreads are narrower because
+people are trading that kind of stuff.</span>
+<span class='talk-transcript__fragment' data-time='996965' id='t-996965'>So I'm not too worried about Einstein
+going off and starting a hedge fund.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1002478' id='t-1002478'>CA: You're at a phase in your life now
+where you're actually investing, though,</span>
+<span class='talk-transcript__fragment' data-time='1006666' id='t-1006666'>at the other end of the supply chain --</span>
+<span class='talk-transcript__fragment' data-time='1010424' id='t-1010424'>you're actually boosting
+mathematics across America.</span>
+<span class='talk-transcript__fragment' data-time='1014552' id='t-1014552'>This is your wife, Marilyn.</span>
+<span class='talk-transcript__fragment' data-time='1016441' id='t-1016441'>You're working on
+philanthropic issues together.</span>
+<span class='talk-transcript__fragment' data-time='1021221' id='t-1021221'>Tell me about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1022408' id='t-1022408'>JS: Well, Marilyn started --</span>
+<span class='talk-transcript__fragment' data-time='1026081' id='t-1026081'>there she is up there,
+my beautiful wife --</span>
+<span class='talk-transcript__fragment' data-time='1029552' id='t-1029552'>she started the foundation
+about 20 years ago.</span>
+<span class='talk-transcript__fragment' data-time='1032548' id='t-1032548'>I think '94.</span>
+<span class='talk-transcript__fragment' data-time='1033723' id='t-1033723'>I claim it was '93, she says it was '94,</span>
+<span class='talk-transcript__fragment' data-time='1035842' id='t-1035842'>but it was one of those two years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1038437' id='t-1038437'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1040596' id='t-1040596'>We started the foundation,
+just as a convenient way to give charity.</span>
+<span class='talk-transcript__fragment' data-time='1048346' id='t-1048346'>She kept the books, and so on.</span>
+<span class='talk-transcript__fragment' data-time='1050877' id='t-1050877'>We did not have a vision at that time,
+but gradually a vision emerged --</span>
+<span class='talk-transcript__fragment' data-time='1057615' id='t-1057615'>which was to focus on math and science,
+to focus on basic research.</span>
+<span class='talk-transcript__fragment' data-time='1063569' id='t-1063569'>And that's what we've done.</span>
+<span class='talk-transcript__fragment' data-time='1066365' id='t-1066365'>Six years ago or so, I left Renaissance
+and went to work at the foundation.</span>
+<span class='talk-transcript__fragment' data-time='1072744' id='t-1072744'>So that's what we do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1074339' id='t-1074339'>CA: And so Math for America
+is basically investing</span>
+<span class='talk-transcript__fragment' data-time='1077272' id='t-1077272'>in math teachers around the country,</span>
+<span class='talk-transcript__fragment' data-time='1079934' id='t-1079934'>giving them some extra income,
+giving them support and coaching.</span>
+<span class='talk-transcript__fragment' data-time='1083760' id='t-1083760'>And really trying
+to make that more effective</span>
+<span class='talk-transcript__fragment' data-time='1086835' id='t-1086835'>and make that a calling
+to which teachers can aspire.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1089460' id='t-1089460'>JS: Yeah -- instead of beating up
+the bad teachers,</span>
+<span class='talk-transcript__fragment' data-time='1094274' id='t-1094274'>which has created morale problems
+all through the educational community,</span>
+<span class='talk-transcript__fragment' data-time='1099151' id='t-1099151'>in particular in math and science,</span>
+<span class='talk-transcript__fragment' data-time='1101616' id='t-1101616'>we focus on celebrating the good ones
+and giving them status.</span>
+<span class='talk-transcript__fragment' data-time='1107770' id='t-1107770'>Yeah, we give them extra money,
+15,000 dollars a year.</span>
+<span class='talk-transcript__fragment' data-time='1110725' id='t-1110725'>We have 800 math and science teachers
+in New York City in public schools today,</span>
+<span class='talk-transcript__fragment' data-time='1115216' id='t-1115216'>as part of a core.</span>
+<span class='talk-transcript__fragment' data-time='1117054' id='t-1117054'>There's a great morale among them.</span>
+<span class='talk-transcript__fragment' data-time='1120764' id='t-1120764'>They're staying in the field.</span>
+<span class='talk-transcript__fragment' data-time='1123294' id='t-1123294'>Next year, it'll be 1,000
+and that'll be 10 percent</span>
+<span class='talk-transcript__fragment' data-time='1126213' id='t-1126213'>of the math and science teachers
+in New York [City] public schools.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1129781' id='t-1129781'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1135710' id='t-1135710'>CA: Jim, here's another project
+that you've supported philanthropically:</span>
+<span class='talk-transcript__fragment' data-time='1139144' id='t-1139144'>Research into origins of life, I guess.</span>
+<span class='talk-transcript__fragment' data-time='1141565' id='t-1141565'>What are we looking at here?</span>
+<span class='talk-transcript__fragment' data-time='1143536' id='t-1143536'>JS: Well, I'll save that for a second.</span>
+<span class='talk-transcript__fragment' data-time='1145442' id='t-1145442'>And then I'll tell you
+what you're looking at.</span>
+<span class='talk-transcript__fragment' data-time='1147628' id='t-1147628'>Origins of life is a fascinating question.</span>
+<span class='talk-transcript__fragment' data-time='1150708' id='t-1150708'>How did we get here?</span>
+<span class='talk-transcript__fragment' data-time='1153170' id='t-1153170'>Well, there are two questions:</span>
+<span class='talk-transcript__fragment' data-time='1154965' id='t-1154965'>One is, what is the route
+from geology to biology --</span>
+<span class='talk-transcript__fragment' data-time='1160857' id='t-1160857'>how did we get here?</span>
+<span class='talk-transcript__fragment' data-time='1162262' id='t-1162262'>And the other question is,
+what did we start with?</span>
+<span class='talk-transcript__fragment' data-time='1164650' id='t-1164650'>What material, if any,
+did we have to work with on this route?</span>
+<span class='talk-transcript__fragment' data-time='1167776' id='t-1167776'>Those are two very,
+very interesting questions.</span>
+<span class='talk-transcript__fragment' data-time='1171773' id='t-1171773'>The first question is a tortuous path
+from geology up to RNA</span>
+<span class='talk-transcript__fragment' data-time='1177631' id='t-1177631'>or something like that --
+how did that all work?</span>
+<span class='talk-transcript__fragment' data-time='1179913' id='t-1179913'>And the other,
+what do we have to work with?</span>
+<span class='talk-transcript__fragment' data-time='1182325' id='t-1182325'>Well, more than we think.</span>
+<span class='talk-transcript__fragment' data-time='1184120' id='t-1184120'>So what's pictured there
+is a star in formation.</span>
+<span class='talk-transcript__fragment' data-time='1189836' id='t-1189836'>Now, every year in our Milky Way,
+which has 100 billion stars,</span>
+<span class='talk-transcript__fragment' data-time='1193285' id='t-1193285'>about two new stars are created.</span>
+<span class='talk-transcript__fragment' data-time='1195804' id='t-1195804'>Don't ask me how, but they're created.</span>
+<span class='talk-transcript__fragment' data-time='1198298' id='t-1198298'>And it takes them about a million
+years to settle out.</span>
+<span class='talk-transcript__fragment' data-time='1202132' id='t-1202132'>So, in steady state,</span>
+<span class='talk-transcript__fragment' data-time='1204332' id='t-1204332'>there are about two million stars
+in formation at any time.</span>
+<span class='talk-transcript__fragment' data-time='1208204' id='t-1208204'>That one is somewhere
+along this settling-down period.</span>
+<span class='talk-transcript__fragment' data-time='1212067' id='t-1212067'>And there's all this crap
+sort of circling around it,</span>
+<span class='talk-transcript__fragment' data-time='1215027' id='t-1215027'>dust and stuff.</span>
+<span class='talk-transcript__fragment' data-time='1217479' id='t-1217479'>And it'll form probably a solar system,
+or whatever it forms.</span>
+<span class='talk-transcript__fragment' data-time='1220526' id='t-1220526'>But here's the thing --</span>
+<span class='talk-transcript__fragment' data-time='1222726' id='t-1222726'>in this dust that surrounds a forming star</span>
+<span class='talk-transcript__fragment' data-time='1229098' id='t-1229098'>have been found, now,
+significant organic molecules.</span>
+<span class='talk-transcript__fragment' data-time='1235958' id='t-1235958'>Molecules not just like methane,
+but formaldehyde and cyanide --</span>
+<span class='talk-transcript__fragment' data-time='1242121' id='t-1242121'>things that are the building blocks --
+the seeds, if you will -- of life.</span>
+<span class='talk-transcript__fragment' data-time='1249136' id='t-1249136'>So, that may be typical.</span>
+<span class='talk-transcript__fragment' data-time='1252395' id='t-1252395'>And it may be typical
+that planets around the universe</span>
+<span class='talk-transcript__fragment' data-time='1259353' id='t-1259353'>start off with some of these
+basic building blocks.</span>
+<span class='talk-transcript__fragment' data-time='1263830' id='t-1263830'>Now does that mean
+there's going to be life all around?</span>
+<span class='talk-transcript__fragment' data-time='1266569' id='t-1266569'>Maybe.</span>
+<span class='talk-transcript__fragment' data-time='1267957' id='t-1267957'>But it's a question
+of how tortuous this path is</span>
+<span class='talk-transcript__fragment' data-time='1272108' id='t-1272108'>from those frail beginnings,
+those seeds, all the way to life.</span>
+<span class='talk-transcript__fragment' data-time='1276526' id='t-1276526'>And most of those seeds
+will fall on fallow planets.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1281742' id='t-1281742'>CA: So for you, personally,</span>
+<span class='talk-transcript__fragment' data-time='1283175' id='t-1283175'>finding an answer to this question
+of where we came from,</span>
+<span class='talk-transcript__fragment' data-time='1285921' id='t-1285921'>of how did this thing happen,
+that is something you would love to see.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1289603' id='t-1289603'>JS: Would love to see.</span>
+<span class='talk-transcript__fragment' data-time='1291413' id='t-1291413'>And like to know --</span>
+<span class='talk-transcript__fragment' data-time='1292927' id='t-1292927'>if that path is tortuous enough,
+and so improbable,</span>
+<span class='talk-transcript__fragment' data-time='1298121' id='t-1298121'>that no matter what you start with,
+we could be a singularity.</span>
+<span class='talk-transcript__fragment' data-time='1303336' id='t-1303336'>But on the other hand,</span>
+<span class='talk-transcript__fragment' data-time='1304512' id='t-1304512'>given all this organic dust
+that's floating around,</span>
+<span class='talk-transcript__fragment' data-time='1308014' id='t-1308014'>we could have lots of friends out there.</span>
+<span class='talk-transcript__fragment' data-time='1312947' id='t-1312947'>It'd be great to know.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1314132' id='t-1314132'>CA: Jim, a couple of years ago,
+I got the chance to speak with Elon Musk,</span>
+<span class='talk-transcript__fragment' data-time='1317636' id='t-1317636'>and I asked him the secret of his success,</span>
+<span class='talk-transcript__fragment' data-time='1320497' id='t-1320497'>and he said taking
+physics seriously was it.</span>
+<span class='talk-transcript__fragment' data-time='1324696' id='t-1324696'>Listening to you, what I hear you saying
+is taking math seriously,</span>
+<span class='talk-transcript__fragment' data-time='1328723' id='t-1328723'>that has infused your whole life.</span>
+<span class='talk-transcript__fragment' data-time='1332123' id='t-1332123'>It's made you an absolute fortune,
+and now it's allowing you to invest</span>
+<span class='talk-transcript__fragment' data-time='1336710' id='t-1336710'>in the futures of thousands and thousands
+of kids across America and elsewhere.</span>
+<span class='talk-transcript__fragment' data-time='1341567' id='t-1341567'>Could it be that science actually works?</span>
+<span class='talk-transcript__fragment' data-time='1344449' id='t-1344449'>That math actually works?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1347245' id='t-1347245'>JS: Well, math certainly works.
+Math certainly works.</span>
+<span class='talk-transcript__fragment' data-time='1351641' id='t-1351641'>But this has been fun.</span>
+<span class='talk-transcript__fragment' data-time='1352863' id='t-1352863'>Working with Marilyn and giving it away
+has been very enjoyable.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1357833' id='t-1357833'>CA: I just find it --
+it's an inspirational thought to me,</span>
+<span class='talk-transcript__fragment' data-time='1360793' id='t-1360793'>that by taking knowledge seriously,
+so much more can come from it.</span>
+<span class='talk-transcript__fragment' data-time='1364824' id='t-1364824'>So thank you for your amazing life,
+and for coming here to TED.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1367866' id='t-1367866'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1368651' id='t-1368651'>Jim Simons!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+23:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1369806' id='t-1369806'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

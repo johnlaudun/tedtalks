@@ -1,0 +1,1818 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Edward Snowden: Here&#39;s how we take back the Internet | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Edward Snowden: Here&#39;s how we take back the Internet | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Appearing by telepresence robot, Edward Snowden speaks at TED2014 about surveillance and Internet freedom. The right to data privacy, he suggests, is not a partisan issue, but requires a fundamental rethink of the role of the internet in our lives — and the laws that protect it. &quot;Your rights matter,” he says, &quot;because you never know when you&#39;re going to need them.&quot; Chris Anderson interviews, with special guest Tim Berners-Lee." name="description" />
+<meta content="Edward Snowden" name="author" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=ur" hreflang="ur" rel="alternate" />
+<link href="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Here&#39;s how we take back the Internet&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Appearing by telepresence robot, Edward Snowden speaks at TED2014 about surveillance and Internet freedom. The right to data privacy, he suggests, is not a partisan issue, but requires a fundamental rethink of the role of the internet in our lives — and the laws that protect it. &quot;Your rights matter,” he says, &quot;because you never know when you&#39;re going to need them.&quot; Chris Anderson interviews, with special guest Tim Berners-Lee." property="og:description" />
+<meta content="http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1950?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='edward_snowden_here_s_how_we_take_back_the_internet'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='ur'>Urdu</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1950?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="2102" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">35:02</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Edward Snowden</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1950?language=en' lang='en'>
+Here's how we take back the Internet
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Mar 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Courageous, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1072' id='t-1072'>Chris Anderson: The rights of citizens,</span>
+<span class='talk-transcript__fragment' data-time='3083' id='t-3083'>the future of the Internet.</span>
+<span class='talk-transcript__fragment' data-time='5169' id='t-5169'>So I would like to welcome to the TED stage</span>
+<span class='talk-transcript__fragment' data-time='8552' id='t-8552'>the man behind those revelations,</span>
+<span class='talk-transcript__fragment' data-time='11378' id='t-11378'>Ed Snowden.</span>
+<span class='talk-transcript__fragment' data-time='13754' id='t-13754'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='17321' id='t-17321'>Ed is in a remote location somewhere in Russia</span>
+<span class='talk-transcript__fragment' data-time='21574' id='t-21574'>controlling this bot from his laptop,</span>
+<span class='talk-transcript__fragment' data-time='24349' id='t-24349'>so he can see what the bot can see.</span>
+<span class='talk-transcript__fragment' data-time='28402' id='t-28402'>Ed, welcome to the TED stage.</span>
+<span class='talk-transcript__fragment' data-time='30350' id='t-30350'>What can you see, as a matter of fact?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='33961' id='t-33961'>Edward Snowden: Ha, I can see everyone.</span>
+<span class='talk-transcript__fragment' data-time='35699' id='t-35699'>This is amazing.</span>
+<span class='talk-transcript__fragment' data-time='37949' id='t-37949'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='41162' id='t-41162'>CA: Ed, some questions for you.</span>
+<span class='talk-transcript__fragment' data-time='44445' id='t-44445'>You've been called many things</span>
+<span class='talk-transcript__fragment' data-time='45738' id='t-45738'>in the last few months.</span>
+<span class='talk-transcript__fragment' data-time='47303' id='t-47303'>You've been called a whistleblower, a traitor,</span>
+<span class='talk-transcript__fragment' data-time='52228' id='t-52228'>a hero.</span>
+<span class='talk-transcript__fragment' data-time='53957' id='t-53957'>What words would you describe yourself with?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='57774' id='t-57774'>ES: You know, everybody who is involved</span>
+<span class='talk-transcript__fragment' data-time='60436' id='t-60436'>with this debate</span>
+<span class='talk-transcript__fragment' data-time='61932' id='t-61932'>has been struggling over me and my personality</span>
+<span class='talk-transcript__fragment' data-time='64674' id='t-64674'>and how to describe me.</span>
+<span class='talk-transcript__fragment' data-time='67723' id='t-67723'>But when I think about it,</span>
+<span class='talk-transcript__fragment' data-time='69412' id='t-69412'>this isn't the question that
+we should be struggling with.</span>
+<span class='talk-transcript__fragment' data-time='72841' id='t-72841'>Who I am really doesn't matter at all.</span>
+<span class='talk-transcript__fragment' data-time='76008' id='t-76008'>If I'm the worst person in the world,</span>
+<span class='talk-transcript__fragment' data-time='78720' id='t-78720'>you can hate me and move on.</span>
+<span class='talk-transcript__fragment' data-time='80677' id='t-80677'>What really matters here are the issues.</span>
+<span class='talk-transcript__fragment' data-time='83212' id='t-83212'>What really matters here is the
+kind of government we want,</span>
+<span class='talk-transcript__fragment' data-time='86047' id='t-86047'>the kind of Internet we want,</span>
+<span class='talk-transcript__fragment' data-time='87560' id='t-87560'>the kind of relationship between people</span>
+<span class='talk-transcript__fragment' data-time='90118' id='t-90118'>and societies.</span>
+<span class='talk-transcript__fragment' data-time='91458' id='t-91458'>And that's what I'm hoping
+the debate will move towards,</span>
+<span class='talk-transcript__fragment' data-time='94546' id='t-94546'>and we've seen that increasing over time.</span>
+<span class='talk-transcript__fragment' data-time='96918' id='t-96918'>If I had to describe myself,</span>
+<span class='talk-transcript__fragment' data-time='98828' id='t-98828'>I wouldn't use words like &quot;hero.&quot;</span>
+<span class='talk-transcript__fragment' data-time='100172' id='t-100172'>I wouldn't use &quot;patriot,&quot; and I wouldn't use &quot;traitor.&quot;</span>
+<span class='talk-transcript__fragment' data-time='102874' id='t-102874'>I'd say I'm an American and I'm a citizen,</span>
+<span class='talk-transcript__fragment' data-time='105068' id='t-105068'>just like everyone else.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='107632' id='t-107632'>CA: So just to give some context</span>
+<span class='talk-transcript__fragment' data-time='109505' id='t-109505'>for those who don't know the whole story --</span>
+<span class='talk-transcript__fragment' data-time='111701' id='t-111701'>(Applause) —</span>
+<span class='talk-transcript__fragment' data-time='115431' id='t-115431'>this time a year ago, you were stationed in Hawaii</span>
+<span class='talk-transcript__fragment' data-time='119994' id='t-119994'>working as a consultant to the NSA.</span>
+<span class='talk-transcript__fragment' data-time='122384' id='t-122384'>As a sysadmin, you had access</span>
+<span class='talk-transcript__fragment' data-time='124428' id='t-124428'>to their systems,</span>
+<span class='talk-transcript__fragment' data-time='126833' id='t-126833'>and you began revealing
+certain classified documents</span>
+<span class='talk-transcript__fragment' data-time='131087' id='t-131087'>to some handpicked journalists</span>
+<span class='talk-transcript__fragment' data-time='134287' id='t-134287'>leading the way to June's revelations.</span>
+<span class='talk-transcript__fragment' data-time='135878' id='t-135878'>Now, what propelled you to do this?</span>
+<span class='talk-transcript__fragment' data-time='141254' id='t-141254'>ES: You know,</span>
+<span class='talk-transcript__fragment' data-time='144040' id='t-144040'>when I was sitting in Hawaii,</span>
+<span class='talk-transcript__fragment' data-time='146220' id='t-146220'>and the years before, when I was
+working in the intelligence community,</span>
+<span class='talk-transcript__fragment' data-time='148878' id='t-148878'>I saw a lot of things that had disturbed me.</span>
+<span class='talk-transcript__fragment' data-time='152600' id='t-152600'>We do a lot of good things
+in the intelligence community,</span>
+<span class='talk-transcript__fragment' data-time='155877' id='t-155877'>things that need to be done,</span>
+<span class='talk-transcript__fragment' data-time='157070' id='t-157070'>and things that help everyone.</span>
+<span class='talk-transcript__fragment' data-time='159767' id='t-159767'>But there are also things that go too far.</span>
+<span class='talk-transcript__fragment' data-time='161724' id='t-161724'>There are things that shouldn't be done,</span>
+<span class='talk-transcript__fragment' data-time='163020' id='t-163020'>and decisions that were being made in secret</span>
+<span class='talk-transcript__fragment' data-time='166088' id='t-166088'>without the public's awareness,</span>
+<span class='talk-transcript__fragment' data-time='167336' id='t-167336'>without the public's consent,</span>
+<span class='talk-transcript__fragment' data-time='169848' id='t-169848'>and without even our representatives in government</span>
+<span class='talk-transcript__fragment' data-time='172700' id='t-172700'>having knowledge of these programs.</span>
+<span class='talk-transcript__fragment' data-time='176333' id='t-176333'>When I really came to struggle with these issues,</span>
+<span class='talk-transcript__fragment' data-time='180866' id='t-180866'>I thought to myself,</span>
+<span class='talk-transcript__fragment' data-time='182488' id='t-182488'>how can I do this in the most responsible way,</span>
+<span class='talk-transcript__fragment' data-time='185574' id='t-185574'>that maximizes the public benefit</span>
+<span class='talk-transcript__fragment' data-time='188582' id='t-188582'>while minimizing the risks?</span>
+<span class='talk-transcript__fragment' data-time='191293' id='t-191293'>And out of all the solutions that I could come up with,</span>
+<span class='talk-transcript__fragment' data-time='194381' id='t-194381'>out of going to Congress,</span>
+<span class='talk-transcript__fragment' data-time='196623' id='t-196623'>when there were no laws,</span>
+<span class='talk-transcript__fragment' data-time='197926' id='t-197926'>there were no legal protections</span>
+<span class='talk-transcript__fragment' data-time='199611' id='t-199611'>for a private employee,</span>
+<span class='talk-transcript__fragment' data-time='201378' id='t-201378'>a contractor in intelligence like myself,</span>
+<span class='talk-transcript__fragment' data-time='204711' id='t-204711'>there was a risk that I would be
+buried along with the information</span>
+<span class='talk-transcript__fragment' data-time='208358' id='t-208358'>and the public would never find out.</span>
+<span class='talk-transcript__fragment' data-time='210265' id='t-210265'>But the First Amendment of
+the United States Constitution</span>
+<span class='talk-transcript__fragment' data-time='213287' id='t-213287'>guarantees us a free press for a reason,</span>
+<span class='talk-transcript__fragment' data-time='216828' id='t-216828'>and that's to enable an adversarial press,</span>
+<span class='talk-transcript__fragment' data-time='220033' id='t-220033'>to challenge the government,</span>
+<span class='talk-transcript__fragment' data-time='221930' id='t-221930'>but also to work together with the government,</span>
+<span class='talk-transcript__fragment' data-time='224564' id='t-224564'>to have a dialogue and debate about how we can</span>
+<span class='talk-transcript__fragment' data-time='226882' id='t-226882'>inform the public about matters of vital importance</span>
+<span class='talk-transcript__fragment' data-time='232321' id='t-232321'>without putting our national security at risk.</span>
+<span class='talk-transcript__fragment' data-time='235451' id='t-235451'>And by working with journalists,</span>
+<span class='talk-transcript__fragment' data-time='237127' id='t-237127'>by giving all of my information</span>
+<span class='talk-transcript__fragment' data-time='239281' id='t-239281'>back to the American people,</span>
+<span class='talk-transcript__fragment' data-time='241558' id='t-241558'>rather than trusting myself to make</span>
+<span class='talk-transcript__fragment' data-time='243329' id='t-243329'>the decisions about publication,</span>
+<span class='talk-transcript__fragment' data-time='246063' id='t-246063'>we've had a robust debate</span>
+<span class='talk-transcript__fragment' data-time='248299' id='t-248299'>with a deep investment by the government</span>
+<span class='talk-transcript__fragment' data-time='251566' id='t-251566'>that I think has resulted in a benefit for everyone.</span>
+<span class='talk-transcript__fragment' data-time='256672' id='t-256672'>And the risks that have been threatened,</span>
+<span class='talk-transcript__fragment' data-time='260447' id='t-260447'>the risks that have been played up</span>
+<span class='talk-transcript__fragment' data-time='262580' id='t-262580'>by the government</span>
+<span class='talk-transcript__fragment' data-time='264132' id='t-264132'>have never materialized.</span>
+<span class='talk-transcript__fragment' data-time='265558' id='t-265558'>We've never seen any evidence</span>
+<span class='talk-transcript__fragment' data-time='267636' id='t-267636'>of even a single instance of specific harm,</span>
+<span class='talk-transcript__fragment' data-time='271192' id='t-271192'>and because of that,</span>
+<span class='talk-transcript__fragment' data-time='272661' id='t-272661'>I'm comfortable with the decisions that I made.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='274788' id='t-274788'>CA: So let me show the audience</span>
+<span class='talk-transcript__fragment' data-time='277001' id='t-277001'>a couple of examples of what you revealed.</span>
+<span class='talk-transcript__fragment' data-time='279470' id='t-279470'>If we could have a slide up, and Ed,</span>
+<span class='talk-transcript__fragment' data-time='281382' id='t-281382'>I don't know whether you can see,</span>
+<span class='talk-transcript__fragment' data-time='283137' id='t-283137'>the slides are here.</span>
+<span class='talk-transcript__fragment' data-time='284251' id='t-284251'>This is a slide of the PRISM program,</span>
+<span class='talk-transcript__fragment' data-time='286836' id='t-286836'>and maybe you could tell the audience</span>
+<span class='talk-transcript__fragment' data-time='289305' id='t-289305'>what that was that was revealed.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='291911' id='t-291911'>ES: The best way to understand PRISM,</span>
+<span class='talk-transcript__fragment' data-time='294123' id='t-294123'>because there's been a little bit of controversy,</span>
+<span class='talk-transcript__fragment' data-time='295584' id='t-295584'>is to first talk about what PRISM isn't.</span>
+<span class='talk-transcript__fragment' data-time='299335' id='t-299335'>Much of the debate in the U.S.
+has been about metadata.</span>
+<span class='talk-transcript__fragment' data-time='302090' id='t-302090'>They've said it's just metadata, it's just metadata,</span>
+<span class='talk-transcript__fragment' data-time='304981' id='t-304981'>and they're talking about a specific legal authority</span>
+<span class='talk-transcript__fragment' data-time='307722' id='t-307722'>called Section 215 of the Patriot Act.</span>
+<span class='talk-transcript__fragment' data-time='310427' id='t-310427'>That allows sort of a warrantless wiretapping,</span>
+<span class='talk-transcript__fragment' data-time='313496' id='t-313496'>mass surveillance of the entire country's</span>
+<span class='talk-transcript__fragment' data-time='315859' id='t-315859'>phone records, things like that --</span>
+<span class='talk-transcript__fragment' data-time='318016' id='t-318016'>who you're talking to,</span>
+<span class='talk-transcript__fragment' data-time='319378' id='t-319378'>when you're talking to them,</span>
+<span class='talk-transcript__fragment' data-time='321406' id='t-321406'>where you traveled.</span>
+<span class='talk-transcript__fragment' data-time='322702' id='t-322702'>These are all metadata events.</span>
+<span class='talk-transcript__fragment' data-time='325203' id='t-325203'>PRISM is about content.</span>
+<span class='talk-transcript__fragment' data-time='328549' id='t-328549'>It's a program through which the government could</span>
+<span class='talk-transcript__fragment' data-time='330689' id='t-330689'>compel corporate America,</span>
+<span class='talk-transcript__fragment' data-time='332733' id='t-332733'>it could deputize corporate America</span>
+<span class='talk-transcript__fragment' data-time='336126' id='t-336126'>to do its dirty work for the NSA.</span>
+<span class='talk-transcript__fragment' data-time='339990' id='t-339990'>And even though some of
+these companies did resist,</span>
+<span class='talk-transcript__fragment' data-time='342986' id='t-342986'>even though some of them --</span>
+<span class='talk-transcript__fragment' data-time='344409' id='t-344409'>I believe Yahoo was one of them —</span>
+<span class='talk-transcript__fragment' data-time='345655' id='t-345655'>challenged them in court, they all lost,</span>
+<span class='talk-transcript__fragment' data-time='348312' id='t-348312'>because it was never tried by an open court.</span>
+<span class='talk-transcript__fragment' data-time='351227' id='t-351227'>They were only tried by a secret court.</span>
+<span class='talk-transcript__fragment' data-time='354358' id='t-354358'>And something that we've seen,</span>
+<span class='talk-transcript__fragment' data-time='355725' id='t-355725'>something about the PRISM program
+that's very concerning to me is,</span>
+<span class='talk-transcript__fragment' data-time='358429' id='t-358429'>there's been a talking point in the U.S. government</span>
+<span class='talk-transcript__fragment' data-time='360408' id='t-360408'>where they've said 15 federal judges</span>
+<span class='talk-transcript__fragment' data-time='364159' id='t-364159'>have reviewed these programs
+and found them to be lawful,</span>
+<span class='talk-transcript__fragment' data-time='366857' id='t-366857'>but what they don't tell you</span>
+<span class='talk-transcript__fragment' data-time='369577' id='t-369577'>is those are secret judges</span>
+<span class='talk-transcript__fragment' data-time='372207' id='t-372207'>in a secret court</span>
+<span class='talk-transcript__fragment' data-time='374209' id='t-374209'>based on secret interpretations of law</span>
+<span class='talk-transcript__fragment' data-time='377283' id='t-377283'>that's considered 34,000 warrant requests</span>
+<span class='talk-transcript__fragment' data-time='381517' id='t-381517'>over 33 years,</span>
+<span class='talk-transcript__fragment' data-time='383976' id='t-383976'>and in 33 years only rejected</span>
+<span class='talk-transcript__fragment' data-time='386163' id='t-386163'>11 government requests.</span>
+<span class='talk-transcript__fragment' data-time='389046' id='t-389046'>These aren't the people that we want deciding</span>
+<span class='talk-transcript__fragment' data-time='391793' id='t-391793'>what the role of corporate America</span>
+<span class='talk-transcript__fragment' data-time='393939' id='t-393939'>in a free and open Internet should be.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='396395' id='t-396395'>CA: Now, this slide that we're showing here</span>
+<span class='talk-transcript__fragment' data-time='398506' id='t-398506'>shows the dates in which</span>
+<span class='talk-transcript__fragment' data-time='400718' id='t-400718'>different technology companies, Internet companies,</span>
+<span class='talk-transcript__fragment' data-time='403133' id='t-403133'>are alleged to have joined the program,</span>
+<span class='talk-transcript__fragment' data-time='405487' id='t-405487'>and where data collection began from them.</span>
+<span class='talk-transcript__fragment' data-time='408445' id='t-408445'>Now, they have denied collaborating with the NSA.</span>
+<span class='talk-transcript__fragment' data-time='413194' id='t-413194'>How was that data collected by the NSA?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='418298' id='t-418298'>ES: Right. So the NSA's own slides</span>
+<span class='talk-transcript__fragment' data-time='421477' id='t-421477'>refer to it as direct access.</span>
+<span class='talk-transcript__fragment' data-time='424277' id='t-424277'>What that means to an actual NSA analyst,</span>
+<span class='talk-transcript__fragment' data-time='427027' id='t-427027'>someone like me who was working
+as an intelligence analyst</span>
+<span class='talk-transcript__fragment' data-time='430135' id='t-430135'>targeting, Chinese cyber-hackers,</span>
+<span class='talk-transcript__fragment' data-time='432606' id='t-432606'>things like that, in Hawaii,</span>
+<span class='talk-transcript__fragment' data-time='434688' id='t-434688'>is the provenance of that data</span>
+<span class='talk-transcript__fragment' data-time='436657' id='t-436657'>is directly from their servers.</span>
+<span class='talk-transcript__fragment' data-time='438913' id='t-438913'>It doesn't mean</span>
+<span class='talk-transcript__fragment' data-time='440977' id='t-440977'>that there's a group of company representatives</span>
+<span class='talk-transcript__fragment' data-time='443783' id='t-443783'>sitting in a smoky room with the NSA</span>
+<span class='talk-transcript__fragment' data-time='446220' id='t-446220'>palling around and making back-room deals</span>
+<span class='talk-transcript__fragment' data-time='448010' id='t-448010'>about how they're going to give this stuff away.</span>
+<span class='talk-transcript__fragment' data-time='450553' id='t-450553'>Now each company handles it different ways.</span>
+<span class='talk-transcript__fragment' data-time='452946' id='t-452946'>Some are responsible.</span>
+<span class='talk-transcript__fragment' data-time='454122' id='t-454122'>Some are somewhat less responsible.</span>
+<span class='talk-transcript__fragment' data-time='456213' id='t-456213'>But the bottom line is, when we talk about</span>
+<span class='talk-transcript__fragment' data-time='457981' id='t-457981'>how this information is given,</span>
+<span class='talk-transcript__fragment' data-time='461360' id='t-461360'>it's coming from the companies themselves.</span>
+<span class='talk-transcript__fragment' data-time='463846' id='t-463846'>It's not stolen from the lines.</span>
+<span class='talk-transcript__fragment' data-time='466141' id='t-466141'>But there's an important thing to remember here:</span>
+<span class='talk-transcript__fragment' data-time='468073' id='t-468073'>even though companies pushed back,</span>
+<span class='talk-transcript__fragment' data-time='470004' id='t-470004'>even though companies demanded,</span>
+<span class='talk-transcript__fragment' data-time='472057' id='t-472057'>hey, let's do this through a warrant process,</span>
+<span class='talk-transcript__fragment' data-time='474603' id='t-474603'>let's do this</span>
+<span class='talk-transcript__fragment' data-time='476377' id='t-476377'>where we actually have some sort of legal review,</span>
+<span class='talk-transcript__fragment' data-time='479526' id='t-479526'>some sort of basis for handing over</span>
+<span class='talk-transcript__fragment' data-time='481357' id='t-481357'>these users' data,</span>
+<span class='talk-transcript__fragment' data-time='483297' id='t-483297'>we saw stories in the Washington Post last year</span>
+<span class='talk-transcript__fragment' data-time='485688' id='t-485688'>that weren't as well reported as the PRISM story</span>
+<span class='talk-transcript__fragment' data-time='488900' id='t-488900'>that said the NSA broke in</span>
+<span class='talk-transcript__fragment' data-time='491499' id='t-491499'>to the data center communications</span>
+<span class='talk-transcript__fragment' data-time='493300' id='t-493300'>between Google to itself</span>
+<span class='talk-transcript__fragment' data-time='495456' id='t-495456'>and Yahoo to itself.</span>
+<span class='talk-transcript__fragment' data-time='497034' id='t-497034'>So even these companies that are cooperating</span>
+<span class='talk-transcript__fragment' data-time='499866' id='t-499866'>in at least a compelled but hopefully lawful manner</span>
+<span class='talk-transcript__fragment' data-time='502737' id='t-502737'>with the NSA,</span>
+<span class='talk-transcript__fragment' data-time='504610' id='t-504610'>the NSA isn't satisfied with that,</span>
+<span class='talk-transcript__fragment' data-time='507906' id='t-507906'>and because of that, we need our companies</span>
+<span class='talk-transcript__fragment' data-time='509884' id='t-509884'>to work very hard</span>
+<span class='talk-transcript__fragment' data-time='512699' id='t-512699'>to guarantee that they're going to represent</span>
+<span class='talk-transcript__fragment' data-time='515171' id='t-515171'>the interests of the user, and also advocate</span>
+<span class='talk-transcript__fragment' data-time='517757' id='t-517757'>for the rights of the users.</span>
+<span class='talk-transcript__fragment' data-time='519673' id='t-519673'>And I think over the last year,</span>
+<span class='talk-transcript__fragment' data-time='520947' id='t-520947'>we've seen the companies that are named</span>
+<span class='talk-transcript__fragment' data-time='522530' id='t-522530'>on the PRISM slides</span>
+<span class='talk-transcript__fragment' data-time='523948' id='t-523948'>take great strides to do that,</span>
+<span class='talk-transcript__fragment' data-time='525757' id='t-525757'>and I encourage them to continue.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='528010' id='t-528010'>CA: What more should they do?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='530692' id='t-530692'>ES: The biggest thing that an Internet company</span>
+<span class='talk-transcript__fragment' data-time='534209' id='t-534209'>in America can do today, right now,</span>
+<span class='talk-transcript__fragment' data-time='537435' id='t-537435'>without consulting with lawyers,</span>
+<span class='talk-transcript__fragment' data-time='538877' id='t-538877'>to protect the rights of users worldwide,</span>
+<span class='talk-transcript__fragment' data-time='542416' id='t-542416'>is to enable SSL web encryption</span>
+<span class='talk-transcript__fragment' data-time='547799' id='t-547799'>on every page you visit.</span>
+<span class='talk-transcript__fragment' data-time='549804' id='t-549804'>The reason this matters is today,</span>
+<span class='talk-transcript__fragment' data-time='552746' id='t-552746'>if you go to look at a copy of &quot;1984&quot; on Amazon.com,</span>
+<span class='talk-transcript__fragment' data-time='557984' id='t-557984'>the NSA can see a record of that,</span>
+<span class='talk-transcript__fragment' data-time='560431' id='t-560431'>the Russian intelligence service
+can see a record of that,</span>
+<span class='talk-transcript__fragment' data-time='562650' id='t-562650'>the Chinese service can see a record of that,</span>
+<span class='talk-transcript__fragment' data-time='565107' id='t-565107'>the French service, the German service,</span>
+<span class='talk-transcript__fragment' data-time='567005' id='t-567005'>the services of Andorra.</span>
+<span class='talk-transcript__fragment' data-time='568327' id='t-568327'>They can all see it because it's unencrypted.</span>
+<span class='talk-transcript__fragment' data-time='571605' id='t-571605'>The world's library is Amazon.com,</span>
+<span class='talk-transcript__fragment' data-time='575205' id='t-575205'>but not only do they not
+support encryption by default,</span>
+<span class='talk-transcript__fragment' data-time='577860' id='t-577860'>you cannot choose to use encryption</span>
+<span class='talk-transcript__fragment' data-time='580026' id='t-580026'>when browsing through books.</span>
+<span class='talk-transcript__fragment' data-time='581753' id='t-581753'>This is something that we need to change,</span>
+<span class='talk-transcript__fragment' data-time='583462' id='t-583462'>not just for Amazon, I don't mean to single them out,</span>
+<span class='talk-transcript__fragment' data-time='585337' id='t-585337'>but they're a great example.</span>
+<span class='talk-transcript__fragment' data-time='586829' id='t-586829'>All companies need to move</span>
+<span class='talk-transcript__fragment' data-time='588497' id='t-588497'>to an encrypted browsing habit by default</span>
+<span class='talk-transcript__fragment' data-time='591890' id='t-591890'>for all users who haven't taken any action</span>
+<span class='talk-transcript__fragment' data-time='594374' id='t-594374'>or picked any special methods on their own.</span>
+<span class='talk-transcript__fragment' data-time='596635' id='t-596635'>That'll increase the privacy and the rights</span>
+<span class='talk-transcript__fragment' data-time='598946' id='t-598946'>that people enjoy worldwide.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='601711' id='t-601711'>CA: Ed, come with me to this part of the stage.</span>
+<span class='talk-transcript__fragment' data-time='604189' id='t-604189'>I want to show you the next slide here. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='607142' id='t-607142'>This is a program called Boundless Informant.</span>
+<span class='talk-transcript__fragment' data-time='609850' id='t-609850'>What is that?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='611526' id='t-611526'>ES: So, I've got to give credit to the NSA</span>
+<span class='talk-transcript__fragment' data-time='613706' id='t-613706'>for using appropriate names on this.</span>
+<span class='talk-transcript__fragment' data-time='616149' id='t-616149'>This is one of my favorite NSA cryptonyms.</span>
+<span class='talk-transcript__fragment' data-time='619994' id='t-619994'>Boundless Informant</span>
+<span class='talk-transcript__fragment' data-time='621464' id='t-621464'>is a program that the NSA hid from Congress.</span>
+<span class='talk-transcript__fragment' data-time='624314' id='t-624314'>The NSA was previously asked by Congress,</span>
+<span class='talk-transcript__fragment' data-time='626723' id='t-626723'>was there any ability that they had</span>
+<span class='talk-transcript__fragment' data-time='628936' id='t-628936'>to even give a rough ballpark estimate</span>
+<span class='talk-transcript__fragment' data-time='632694' id='t-632694'>of the amount of American communications</span>
+<span class='talk-transcript__fragment' data-time='634880' id='t-634880'>that were being intercepted.</span>
+<span class='talk-transcript__fragment' data-time='637014' id='t-637014'>They said no. They said, we don't track those stats,</span>
+<span class='talk-transcript__fragment' data-time='640045' id='t-640045'>and we can't track those stats.</span>
+<span class='talk-transcript__fragment' data-time='641594' id='t-641594'>We can't tell you how many communications</span>
+<span class='talk-transcript__fragment' data-time='644698' id='t-644698'>we're intercepting around the world,</span>
+<span class='talk-transcript__fragment' data-time='646161' id='t-646161'>because to tell you that would be</span>
+<span class='talk-transcript__fragment' data-time='647648' id='t-647648'>to invade your privacy.</span>
+<span class='talk-transcript__fragment' data-time='650955' id='t-650955'>Now, I really appreciate that sentiment from them,</span>
+<span class='talk-transcript__fragment' data-time='653170' id='t-653170'>but the reality, when you look at this slide is,</span>
+<span class='talk-transcript__fragment' data-time='655305' id='t-655305'>not only do they have the capability,</span>
+<span class='talk-transcript__fragment' data-time='656958' id='t-656958'>the capability already exists.</span>
+<span class='talk-transcript__fragment' data-time='659574' id='t-659574'>It's already in place.</span>
+<span class='talk-transcript__fragment' data-time='661248' id='t-661248'>The NSA has its own internal data format</span>
+<span class='talk-transcript__fragment' data-time='664396' id='t-664396'>that tracks both ends of a communication,</span>
+<span class='talk-transcript__fragment' data-time='668545' id='t-668545'>and if it says,</span>
+<span class='talk-transcript__fragment' data-time='669827' id='t-669827'>this communication came from America,</span>
+<span class='talk-transcript__fragment' data-time='671853' id='t-671853'>they can tell Congress how
+many of those communications</span>
+<span class='talk-transcript__fragment' data-time='674209' id='t-674209'>they have today, right now.</span>
+<span class='talk-transcript__fragment' data-time='676725' id='t-676725'>And what Boundless Informant tells us</span>
+<span class='talk-transcript__fragment' data-time='679696' id='t-679696'>is more communications are being intercepted</span>
+<span class='talk-transcript__fragment' data-time='682422' id='t-682422'>in America about Americans</span>
+<span class='talk-transcript__fragment' data-time='685395' id='t-685395'>than there are in Russia about Russians.</span>
+<span class='talk-transcript__fragment' data-time='688815' id='t-688815'>I'm not sure that's what an intelligence agency</span>
+<span class='talk-transcript__fragment' data-time='690680' id='t-690680'>should be aiming for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='692999' id='t-692999'>CA: Ed, there was a story broken
+in the Washington Post,</span>
+<span class='talk-transcript__fragment' data-time='695405' id='t-695405'>again from your data.</span>
+<span class='talk-transcript__fragment' data-time='697127' id='t-697127'>The headline says,</span>
+<span class='talk-transcript__fragment' data-time='698806' id='t-698806'>&quot;NSA broke privacy rules</span>
+<span class='talk-transcript__fragment' data-time='700303' id='t-700303'>thousands of times per year.&quot;</span>
+<span class='talk-transcript__fragment' data-time='702333' id='t-702333'>Tell us about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='703871' id='t-703871'>ES: We also heard in Congressional
+testimony last year,</span>
+<span class='talk-transcript__fragment' data-time='706464' id='t-706464'>it was an amazing thing for someone like me</span>
+<span class='talk-transcript__fragment' data-time='708401' id='t-708401'>who came from the NSA</span>
+<span class='talk-transcript__fragment' data-time='710105' id='t-710105'>and who's seen the actual internal documents,</span>
+<span class='talk-transcript__fragment' data-time='712677' id='t-712677'>knows what's in them,</span>
+<span class='talk-transcript__fragment' data-time='715268' id='t-715268'>to see officials testifying under oath</span>
+<span class='talk-transcript__fragment' data-time='717808' id='t-717808'>that there had been no abuses,</span>
+<span class='talk-transcript__fragment' data-time='719690' id='t-719690'>that there had been no violations of the NSA's rules,</span>
+<span class='talk-transcript__fragment' data-time='723323' id='t-723323'>when we knew this story was coming.</span>
+<span class='talk-transcript__fragment' data-time='726264' id='t-726264'>But what's especially interesting about this,</span>
+<span class='talk-transcript__fragment' data-time='728352' id='t-728352'>about the fact that the NSA has violated</span>
+<span class='talk-transcript__fragment' data-time='730400' id='t-730400'>their own rules, their own laws</span>
+<span class='talk-transcript__fragment' data-time='732768' id='t-732768'>thousands of times in a single year,</span>
+<span class='talk-transcript__fragment' data-time='735441' id='t-735441'>including one event by itself,</span>
+<span class='talk-transcript__fragment' data-time='738168' id='t-738168'>one event out of those 2,776,</span>
+<span class='talk-transcript__fragment' data-time='743144' id='t-743144'>that affected more than 3,000 people.</span>
+<span class='talk-transcript__fragment' data-time='745450' id='t-745450'>In another event, they intercepted</span>
+<span class='talk-transcript__fragment' data-time='747289' id='t-747289'>all the calls in Washington, D.C., by accident.</span>
+<span class='talk-transcript__fragment' data-time='751501' id='t-751501'>What's amazing about this,</span>
+<span class='talk-transcript__fragment' data-time='753738' id='t-753738'>this report, that didn't get that much attention,</span>
+<span class='talk-transcript__fragment' data-time='755946' id='t-755946'>is the fact that not only were there 2,776 abuses,</span>
+<span class='talk-transcript__fragment' data-time='760807' id='t-760807'>the chairman of the Senate Intelligence Committee,</span>
+<span class='talk-transcript__fragment' data-time='762948' id='t-762948'>Dianne Feinstein, had not seen this report</span>
+<span class='talk-transcript__fragment' data-time='766935' id='t-766935'>until the Washington Post contacted her</span>
+<span class='talk-transcript__fragment' data-time='770126' id='t-770126'>asking for comment on the report.</span>
+<span class='talk-transcript__fragment' data-time='772574' id='t-772574'>And she then requested a copy from the NSA</span>
+<span class='talk-transcript__fragment' data-time='774467' id='t-774467'>and received it,</span>
+<span class='talk-transcript__fragment' data-time='776168' id='t-776168'>but had never seen this before that.</span>
+<span class='talk-transcript__fragment' data-time='778195' id='t-778195'>What does that say about the state of oversight</span>
+<span class='talk-transcript__fragment' data-time='780882' id='t-780882'>in American intelligence</span>
+<span class='talk-transcript__fragment' data-time='782619' id='t-782619'>when the chairman of the
+Senate Intelligence Committee</span>
+<span class='talk-transcript__fragment' data-time='784407' id='t-784407'>has no idea that the rules are being broken</span>
+<span class='talk-transcript__fragment' data-time='787200' id='t-787200'>thousands of times every year?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='789360' id='t-789360'>CA: Ed, one response to this whole debate is this:</span>
+<span class='talk-transcript__fragment' data-time='792989' id='t-792989'>Why should we care about</span>
+<span class='talk-transcript__fragment' data-time='795654' id='t-795654'>all this surveillance, honestly?</span>
+<span class='talk-transcript__fragment' data-time='797122' id='t-797122'>I mean, look, if you've done nothing wrong,</span>
+<span class='talk-transcript__fragment' data-time='799274' id='t-799274'>you've got nothing to worry about.</span>
+<span class='talk-transcript__fragment' data-time='802058' id='t-802058'>What's wrong with that point of view?</span>
+<span class='talk-transcript__fragment' data-time='804350' id='t-804350'>ES: Well, so the first thing is,</span>
+<span class='talk-transcript__fragment' data-time='805998' id='t-805998'>you're giving up your rights.</span>
+<span class='talk-transcript__fragment' data-time='807711' id='t-807711'>You're saying hey, you know,</span>
+<span class='talk-transcript__fragment' data-time='809069' id='t-809069'>I don't think I'm going to need them,</span>
+<span class='talk-transcript__fragment' data-time='811441' id='t-811441'>so I'm just going to trust that, you know,</span>
+<span class='talk-transcript__fragment' data-time='813123' id='t-813123'>let's get rid of them, it doesn't really matter,</span>
+<span class='talk-transcript__fragment' data-time='816101' id='t-816101'>these guys are going to do the right thing.</span>
+<span class='talk-transcript__fragment' data-time='818075' id='t-818075'>Your rights matter</span>
+<span class='talk-transcript__fragment' data-time='819934' id='t-819934'>because you never know when
+you're going to need them.</span>
+<span class='talk-transcript__fragment' data-time='822776' id='t-822776'>Beyond that, it's a part of our cultural identity,</span>
+<span class='talk-transcript__fragment' data-time='825058' id='t-825058'>not just in America,</span>
+<span class='talk-transcript__fragment' data-time='827190' id='t-827190'>but in Western societies</span>
+<span class='talk-transcript__fragment' data-time='828781' id='t-828781'>and in democratic societies around the world.</span>
+<span class='talk-transcript__fragment' data-time='831743' id='t-831743'>People should be able to pick up the phone</span>
+<span class='talk-transcript__fragment' data-time='834147' id='t-834147'>and to call their family,</span>
+<span class='talk-transcript__fragment' data-time='835601' id='t-835601'>people should be able to send a text message</span>
+<span class='talk-transcript__fragment' data-time='837600' id='t-837600'>to their loved ones,</span>
+<span class='talk-transcript__fragment' data-time='838728' id='t-838728'>people should be able to buy a book online,</span>
+<span class='talk-transcript__fragment' data-time='841182' id='t-841182'>they should be able to travel by train,</span>
+<span class='talk-transcript__fragment' data-time='842972' id='t-842972'>they should be able to buy an airline ticket</span>
+<span class='talk-transcript__fragment' data-time='845189' id='t-845189'>without wondering about how these events</span>
+<span class='talk-transcript__fragment' data-time='846926' id='t-846926'>are going to look to an agent of the government,</span>
+<span class='talk-transcript__fragment' data-time='850611' id='t-850611'>possibly not even your government</span>
+<span class='talk-transcript__fragment' data-time='853201' id='t-853201'>years in the future,</span>
+<span class='talk-transcript__fragment' data-time='854956' id='t-854956'>how they're going to be misinterpreted</span>
+<span class='talk-transcript__fragment' data-time='856696' id='t-856696'>and what they're going to think your intentions were.</span>
+<span class='talk-transcript__fragment' data-time='859480' id='t-859480'>We have a right to privacy.</span>
+<span class='talk-transcript__fragment' data-time='861554' id='t-861554'>We require warrants to be based on probable cause</span>
+<span class='talk-transcript__fragment' data-time='865172' id='t-865172'>or some kind of individualized suspicion</span>
+<span class='talk-transcript__fragment' data-time='867636' id='t-867636'>because we recognize that trusting anybody,</span>
+<span class='talk-transcript__fragment' data-time='872163' id='t-872163'>any government authority,</span>
+<span class='talk-transcript__fragment' data-time='873757' id='t-873757'>with the entirety of human communications</span>
+<span class='talk-transcript__fragment' data-time='876841' id='t-876841'>in secret and without oversight</span>
+<span class='talk-transcript__fragment' data-time='879274' id='t-879274'>is simply too great a temptation to be ignored.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='884118' id='t-884118'>CA: Some people are furious at what you've done.</span>
+<span class='talk-transcript__fragment' data-time='886677' id='t-886677'>I heard a quote recently from Dick Cheney</span>
+<span class='talk-transcript__fragment' data-time='889516' id='t-889516'>who said that Julian Assange was a flea bite,</span>
+<span class='talk-transcript__fragment' data-time='895408' id='t-895408'>Edward Snowden is the lion
+that bit the head off the dog.</span>
+<span class='talk-transcript__fragment' data-time='898830' id='t-898830'>He thinks you've committed</span>
+<span class='talk-transcript__fragment' data-time='900383' id='t-900383'>one of the worst acts of betrayal</span>
+<span class='talk-transcript__fragment' data-time='902675' id='t-902675'>in American history.</span>
+<span class='talk-transcript__fragment' data-time='904781' id='t-904781'>What would you say to people who think that?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='910975' id='t-910975'>ES: Dick Cheney's really something else.</span>
+<span class='talk-transcript__fragment' data-time='913180' id='t-913180'>(Laughter) (Applause)</span>
+<span class='talk-transcript__fragment' data-time='920476' id='t-920476'>Thank you. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='925378' id='t-925378'>I think it's amazing, because at the time</span>
+<span class='talk-transcript__fragment' data-time='927854' id='t-927854'>Julian Assange was doing some of his greatest work,</span>
+<span class='talk-transcript__fragment' data-time='931629' id='t-931629'>Dick Cheney was saying</span>
+<span class='talk-transcript__fragment' data-time='933065' id='t-933065'>he was going to end governments worldwide,</span>
+<span class='talk-transcript__fragment' data-time='935495' id='t-935495'>the skies were going to ignite</span>
+<span class='talk-transcript__fragment' data-time='938400' id='t-938400'>and the seas were going to boil off,</span>
+<span class='talk-transcript__fragment' data-time='940536' id='t-940536'>and now he's saying it's a flea bite.</span>
+<span class='talk-transcript__fragment' data-time='942754' id='t-942754'>So we should be suspicious about the same sort of</span>
+<span class='talk-transcript__fragment' data-time='945267' id='t-945267'>overblown claims of damage to national security</span>
+<span class='talk-transcript__fragment' data-time='949460' id='t-949460'>from these kind of officials.</span>
+<span class='talk-transcript__fragment' data-time='951145' id='t-951145'>But let's assume that these
+people really believe this.</span>
+<span class='talk-transcript__fragment' data-time='957994' id='t-957994'>I would argue that they have kind of</span>
+<span class='talk-transcript__fragment' data-time='960224' id='t-960224'>a narrow conception of national security.</span>
+<span class='talk-transcript__fragment' data-time='964594' id='t-964594'>The prerogatives of people like Dick Cheney</span>
+<span class='talk-transcript__fragment' data-time='967841' id='t-967841'>do not keep the nation safe.</span>
+<span class='talk-transcript__fragment' data-time='970822' id='t-970822'>The public interest is not always the same</span>
+<span class='talk-transcript__fragment' data-time='974855' id='t-974855'>as the national interest.</span>
+<span class='talk-transcript__fragment' data-time='977290' id='t-977290'>Going to war with people who are not our enemy</span>
+<span class='talk-transcript__fragment' data-time='981184' id='t-981184'>in places that are not a threat</span>
+<span class='talk-transcript__fragment' data-time='983314' id='t-983314'>doesn't make us safe,</span>
+<span class='talk-transcript__fragment' data-time='985481' id='t-985481'>and that applies whether it's in Iraq</span>
+<span class='talk-transcript__fragment' data-time='987648' id='t-987648'>or on the Internet.</span>
+<span class='talk-transcript__fragment' data-time='989415' id='t-989415'>The Internet is not the enemy.</span>
+<span class='talk-transcript__fragment' data-time='990938' id='t-990938'>Our economy is not the enemy.</span>
+<span class='talk-transcript__fragment' data-time='992963' id='t-992963'>American businesses, Chinese businesses,</span>
+<span class='talk-transcript__fragment' data-time='995249' id='t-995249'>and any other company out there</span>
+<span class='talk-transcript__fragment' data-time='999820' id='t-999820'>is a part of our society.</span>
+<span class='talk-transcript__fragment' data-time='1002251' id='t-1002251'>It's a part of our interconnected world.</span>
+<span class='talk-transcript__fragment' data-time='1004465' id='t-1004465'>There are ties of fraternity that bond us together,</span>
+<span class='talk-transcript__fragment' data-time='1008910' id='t-1008910'>and if we destroy these bonds</span>
+<span class='talk-transcript__fragment' data-time='1011578' id='t-1011578'>by undermining the standards, the security,</span>
+<span class='talk-transcript__fragment' data-time='1014733' id='t-1014733'>the manner of behavior,</span>
+<span class='talk-transcript__fragment' data-time='1017590' id='t-1017590'>that nations and citizens all around the world</span>
+<span class='talk-transcript__fragment' data-time='1020541' id='t-1020541'>expect us to abide by.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1022918' id='t-1022918'>CA: But it's alleged that you've stolen</span>
+<span class='talk-transcript__fragment' data-time='1026620' id='t-1026620'>1.7 million documents.</span>
+<span class='talk-transcript__fragment' data-time='1028519' id='t-1028519'>It seems only a few hundred of them</span>
+<span class='talk-transcript__fragment' data-time='1030346' id='t-1030346'>have been shared with journalists so far.</span>
+<span class='talk-transcript__fragment' data-time='1033203' id='t-1033203'>Are there more revelations to come?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1036248' id='t-1036248'>ES: There are absolutely more revelations to come.</span>
+<span class='talk-transcript__fragment' data-time='1038690' id='t-1038690'>I don't think there's any question</span>
+<span class='talk-transcript__fragment' data-time='1041491' id='t-1041491'>that some of the most important reporting</span>
+<span class='talk-transcript__fragment' data-time='1045738' id='t-1045738'>to be done is yet to come.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1050478' id='t-1050478'>CA: Come here, because I want to ask you</span>
+<span class='talk-transcript__fragment' data-time='1052540' id='t-1052540'>about this particular revelation.</span>
+<span class='talk-transcript__fragment' data-time='1054067' id='t-1054067'>Come and take a look at this.</span>
+<span class='talk-transcript__fragment' data-time='1057089' id='t-1057089'>I mean, this is a story which I think
+for a lot of the techies in this room</span>
+<span class='talk-transcript__fragment' data-time='1060337' id='t-1060337'>is the single most shocking thing</span>
+<span class='talk-transcript__fragment' data-time='1062076' id='t-1062076'>that they have heard in the last few months.</span>
+<span class='talk-transcript__fragment' data-time='1064436' id='t-1064436'>It's about a program called &quot;Bullrun.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1067061' id='t-1067061'>Can you explain what that is?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1070837' id='t-1070837'>ES: So Bullrun, and this is again</span>
+<span class='talk-transcript__fragment' data-time='1072545' id='t-1072545'>where we've got to thank the NSA for their candor,</span>
+<span class='talk-transcript__fragment' data-time='1079642' id='t-1079642'>this is a program named after a Civil War battle.</span>
+<span class='talk-transcript__fragment' data-time='1084232' id='t-1084232'>The British counterpart is called Edgehill,</span>
+<span class='talk-transcript__fragment' data-time='1085845' id='t-1085845'>which is a U.K. civil war battle.</span>
+<span class='talk-transcript__fragment' data-time='1087320' id='t-1087320'>And the reason that I believe they're named this way</span>
+<span class='talk-transcript__fragment' data-time='1089527' id='t-1089527'>is because they target our own infrastructure.</span>
+<span class='talk-transcript__fragment' data-time='1093016' id='t-1093016'>They're programs through which the NSA</span>
+<span class='talk-transcript__fragment' data-time='1095707' id='t-1095707'>intentionally misleads corporate partners.</span>
+<span class='talk-transcript__fragment' data-time='1099922' id='t-1099922'>They tell corporate partners that these</span>
+<span class='talk-transcript__fragment' data-time='1101804' id='t-1101804'>are safe standards.</span>
+<span class='talk-transcript__fragment' data-time='1103479' id='t-1103479'>They say hey, we need to work with you</span>
+<span class='talk-transcript__fragment' data-time='1105498' id='t-1105498'>to secure your systems,</span>
+<span class='talk-transcript__fragment' data-time='1109151' id='t-1109151'>but in reality, they're giving bad advice</span>
+<span class='talk-transcript__fragment' data-time='1112344' id='t-1112344'>to these companies that makes them</span>
+<span class='talk-transcript__fragment' data-time='1113610' id='t-1113610'>degrade the security of their services.</span>
+<span class='talk-transcript__fragment' data-time='1115905' id='t-1115905'>They're building in backdoors that not only</span>
+<span class='talk-transcript__fragment' data-time='1118234' id='t-1118234'>the NSA can exploit,</span>
+<span class='talk-transcript__fragment' data-time='1120592' id='t-1120592'>but anyone else who has time and money</span>
+<span class='talk-transcript__fragment' data-time='1123113' id='t-1123113'>to research and find it</span>
+<span class='talk-transcript__fragment' data-time='1125233' id='t-1125233'>can then use to let themselves in</span>
+<span class='talk-transcript__fragment' data-time='1127367' id='t-1127367'>to the world's communications.</span>
+<span class='talk-transcript__fragment' data-time='1129237' id='t-1129237'>And this is really dangerous,</span>
+<span class='talk-transcript__fragment' data-time='1131007' id='t-1131007'>because if we lose a single standard,</span>
+<span class='talk-transcript__fragment' data-time='1135191' id='t-1135191'>if we lose the trust of something like SSL,</span>
+<span class='talk-transcript__fragment' data-time='1138250' id='t-1138250'>which was specifically targeted</span>
+<span class='talk-transcript__fragment' data-time='1139732' id='t-1139732'>by the Bullrun program,</span>
+<span class='talk-transcript__fragment' data-time='1141855' id='t-1141855'>we will live a less safe world overall.</span>
+<span class='talk-transcript__fragment' data-time='1144523' id='t-1144523'>We won't be able to access our banks</span>
+<span class='talk-transcript__fragment' data-time='1146630' id='t-1146630'>and we won't be able to access commerce</span>
+<span class='talk-transcript__fragment' data-time='1151883' id='t-1151883'>without worrying about people
+monitoring those communications</span>
+<span class='talk-transcript__fragment' data-time='1154706' id='t-1154706'>or subverting them for their own ends.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1156884' id='t-1156884'>CA: And do those same decisions also potentially</span>
+<span class='talk-transcript__fragment' data-time='1160953' id='t-1160953'>open America up to cyberattacks</span>
+<span class='talk-transcript__fragment' data-time='1163939' id='t-1163939'>from other sources?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1167855' id='t-1167855'>ES: Absolutely.</span>
+<span class='talk-transcript__fragment' data-time='1169320' id='t-1169320'>One of the problems,</span>
+<span class='talk-transcript__fragment' data-time='1171052' id='t-1171052'>one of the dangerous legacies</span>
+<span class='talk-transcript__fragment' data-time='1174502' id='t-1174502'>that we've seen in the post-9/11 era,</span>
+<span class='talk-transcript__fragment' data-time='1177994' id='t-1177994'>is that the NSA has traditionally worn two hats.</span>
+<span class='talk-transcript__fragment' data-time='1182231' id='t-1182231'>They've been in charge of offensive operations,</span>
+<span class='talk-transcript__fragment' data-time='1184157' id='t-1184157'>that is hacking,</span>
+<span class='talk-transcript__fragment' data-time='1185278' id='t-1185278'>but they've also been in
+charge of defensive operations,</span>
+<span class='talk-transcript__fragment' data-time='1187988' id='t-1187988'>and traditionally they've always prioritized</span>
+<span class='talk-transcript__fragment' data-time='1190351' id='t-1190351'>defense over offense</span>
+<span class='talk-transcript__fragment' data-time='1191738' id='t-1191738'>based on the principle</span>
+<span class='talk-transcript__fragment' data-time='1193128' id='t-1193128'>that American secrets are simply worth more.</span>
+<span class='talk-transcript__fragment' data-time='1195944' id='t-1195944'>If we hack a Chinese business</span>
+<span class='talk-transcript__fragment' data-time='1198054' id='t-1198054'>and steal their secrets,</span>
+<span class='talk-transcript__fragment' data-time='1199738' id='t-1199738'>if we hack a government office in Berlin</span>
+<span class='talk-transcript__fragment' data-time='1201821' id='t-1201821'>and steal their secrets,</span>
+<span class='talk-transcript__fragment' data-time='1203919' id='t-1203919'>that has less value to the American people</span>
+<span class='talk-transcript__fragment' data-time='1207526' id='t-1207526'>than making sure that the Chinese</span>
+<span class='talk-transcript__fragment' data-time='1209626' id='t-1209626'>can't get access to our secrets.</span>
+<span class='talk-transcript__fragment' data-time='1212132' id='t-1212132'>So by reducing the security of our communications,</span>
+<span class='talk-transcript__fragment' data-time='1216263' id='t-1216263'>they're not only putting the world at risk,</span>
+<span class='talk-transcript__fragment' data-time='1218291' id='t-1218291'>they're putting America at risk in a fundamental way,</span>
+<span class='talk-transcript__fragment' data-time='1220563' id='t-1220563'>because intellectual property is the basis,</span>
+<span class='talk-transcript__fragment' data-time='1223234' id='t-1223234'>the foundation of our economy,</span>
+<span class='talk-transcript__fragment' data-time='1225161' id='t-1225161'>and if we put that at risk through weak security,</span>
+<span class='talk-transcript__fragment' data-time='1227419' id='t-1227419'>we're going to be paying for it for years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1229048' id='t-1229048'>CA: But they've made a calculation</span>
+<span class='talk-transcript__fragment' data-time='1230595' id='t-1230595'>that it was worth doing this</span>
+<span class='talk-transcript__fragment' data-time='1232786' id='t-1232786'>as part of America's defense against terrorism.</span>
+<span class='talk-transcript__fragment' data-time='1236325' id='t-1236325'>Surely that makes it a price worth paying.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1239937' id='t-1239937'>ES: Well, when you look at the results</span>
+<span class='talk-transcript__fragment' data-time='1243824' id='t-1243824'>of these programs in stopping terrorism,</span>
+<span class='talk-transcript__fragment' data-time='1246131' id='t-1246131'>you will see that that's unfounded,</span>
+<span class='talk-transcript__fragment' data-time='1249881' id='t-1249881'>and you don't have to take my word for it,</span>
+<span class='talk-transcript__fragment' data-time='1251800' id='t-1251800'>because we've had the first open court,</span>
+<span class='talk-transcript__fragment' data-time='1255572' id='t-1255572'>the first federal court that's reviewed this,</span>
+<span class='talk-transcript__fragment' data-time='1257941' id='t-1257941'>outside the secrecy arrangement,</span>
+<span class='talk-transcript__fragment' data-time='1260737' id='t-1260737'>called these programs Orwellian</span>
+<span class='talk-transcript__fragment' data-time='1262724' id='t-1262724'>and likely unconstitutional.</span>
+<span class='talk-transcript__fragment' data-time='1264958' id='t-1264958'>Congress, who has access</span>
+<span class='talk-transcript__fragment' data-time='1267697' id='t-1267697'>to be briefed on these things,</span>
+<span class='talk-transcript__fragment' data-time='1269008' id='t-1269008'>and now has the desire to be,</span>
+<span class='talk-transcript__fragment' data-time='1271990' id='t-1271990'>has produced bills to reform it,</span>
+<span class='talk-transcript__fragment' data-time='1274397' id='t-1274397'>and two independent White House panels</span>
+<span class='talk-transcript__fragment' data-time='1277282' id='t-1277282'>who reviewed all of the classified evidence</span>
+<span class='talk-transcript__fragment' data-time='1279372' id='t-1279372'>said these programs have never stopped</span>
+<span class='talk-transcript__fragment' data-time='1282005' id='t-1282005'>a single terrorist attack</span>
+<span class='talk-transcript__fragment' data-time='1283766' id='t-1283766'>that was imminent in the United States.</span>
+<span class='talk-transcript__fragment' data-time='1287269' id='t-1287269'>So is it really terrorism that we're stopping?</span>
+<span class='talk-transcript__fragment' data-time='1290455' id='t-1290455'>Do these programs have any value at all?</span>
+<span class='talk-transcript__fragment' data-time='1292786' id='t-1292786'>I say no, and all three branches</span>
+<span class='talk-transcript__fragment' data-time='1295030' id='t-1295030'>of the American government say no as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1297462' id='t-1297462'>CA: I mean, do you think there's a deeper motivation</span>
+<span class='talk-transcript__fragment' data-time='1299275' id='t-1299275'>for them than the war against terrorism?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1302560' id='t-1302560'>ES: I'm sorry, I couldn't hear you, say again?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1304110' id='t-1304110'>CA: Sorry. Do you think there's a deeper motivation</span>
+<span class='talk-transcript__fragment' data-time='1307110' id='t-1307110'>for them other than the war against terrorism?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+22:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1310989' id='t-1310989'>ES: Yeah. The bottom line is that terrorism</span>
+<span class='talk-transcript__fragment' data-time='1313684' id='t-1313684'>has always been what we in the intelligence world</span>
+<span class='talk-transcript__fragment' data-time='1315885' id='t-1315885'>would call a cover for action.</span>
+<span class='talk-transcript__fragment' data-time='1319158' id='t-1319158'>Terrorism is something that provokes</span>
+<span class='talk-transcript__fragment' data-time='1321083' id='t-1321083'>an emotional response that allows people</span>
+<span class='talk-transcript__fragment' data-time='1323313' id='t-1323313'>to rationalize authorizing powers and programs</span>
+<span class='talk-transcript__fragment' data-time='1327670' id='t-1327670'>that they wouldn't give otherwise.</span>
+<span class='talk-transcript__fragment' data-time='1330114' id='t-1330114'>The Bullrun and Edgehill-type programs,</span>
+<span class='talk-transcript__fragment' data-time='1332600' id='t-1332600'>the NSA asked for these authorities</span>
+<span class='talk-transcript__fragment' data-time='1334317' id='t-1334317'>back in the 1990s.</span>
+<span class='talk-transcript__fragment' data-time='1336254' id='t-1336254'>They asked the FBI to go to
+Congress and make the case.</span>
+<span class='talk-transcript__fragment' data-time='1339244' id='t-1339244'>The FBI went to Congress and did make the case.</span>
+<span class='talk-transcript__fragment' data-time='1341418' id='t-1341418'>But Congress and the American people said no.</span>
+<span class='talk-transcript__fragment' data-time='1343983' id='t-1343983'>They said, it's not worth the risk to our economy.</span>
+<span class='talk-transcript__fragment' data-time='1346394' id='t-1346394'>They said it's worth too much damage</span>
+<span class='talk-transcript__fragment' data-time='1348313' id='t-1348313'>to our society to justify the gains.</span>
+<span class='talk-transcript__fragment' data-time='1351000' id='t-1351000'>But what we saw is, in the post-9/11 era,</span>
+<span class='talk-transcript__fragment' data-time='1355275' id='t-1355275'>they used secrecy and they
+used the justification of terrorism</span>
+<span class='talk-transcript__fragment' data-time='1358526' id='t-1358526'>to start these programs in secret</span>
+<span class='talk-transcript__fragment' data-time='1360460' id='t-1360460'>without asking Congress,</span>
+<span class='talk-transcript__fragment' data-time='1362272' id='t-1362272'>without asking the American people,</span>
+<span class='talk-transcript__fragment' data-time='1364452' id='t-1364452'>and it's that kind of government behind closed doors</span>
+<span class='talk-transcript__fragment' data-time='1367190' id='t-1367190'>that we need to guard ourselves against,</span>
+<span class='talk-transcript__fragment' data-time='1369749' id='t-1369749'>because it makes us less safe,</span>
+<span class='talk-transcript__fragment' data-time='1370999' id='t-1370999'>and it offers no value.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+23:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1372891' id='t-1372891'>CA: Okay, come with me here for a sec,</span>
+<span class='talk-transcript__fragment' data-time='1374757' id='t-1374757'>because I've got a more personal question for you.</span>
+<span class='talk-transcript__fragment' data-time='1376939' id='t-1376939'>Speaking of terror,</span>
+<span class='talk-transcript__fragment' data-time='1379863' id='t-1379863'>most people would find the
+situation you're in right now</span>
+<span class='talk-transcript__fragment' data-time='1383820' id='t-1383820'>in Russia pretty terrifying.</span>
+<span class='talk-transcript__fragment' data-time='1387116' id='t-1387116'>You obviously heard what happened,</span>
+<span class='talk-transcript__fragment' data-time='1390703' id='t-1390703'>what the treatment that Bradley Manning got,</span>
+<span class='talk-transcript__fragment' data-time='1392896' id='t-1392896'>Chelsea Manning as now is,</span>
+<span class='talk-transcript__fragment' data-time='1395177' id='t-1395177'>and there was a story in Buzzfeed saying that</span>
+<span class='talk-transcript__fragment' data-time='1397664' id='t-1397664'>there are people in the intelligence community</span>
+<span class='talk-transcript__fragment' data-time='1399322' id='t-1399322'>who want you dead.</span>
+<span class='talk-transcript__fragment' data-time='1401601' id='t-1401601'>How are you coping with this?</span>
+<span class='talk-transcript__fragment' data-time='1403541' id='t-1403541'>How are you coping with the fear?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+23:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1405490' id='t-1405490'>ES: It's no mystery</span>
+<span class='talk-transcript__fragment' data-time='1408494' id='t-1408494'>that there are governments out
+there that want to see me dead.</span>
+<span class='talk-transcript__fragment' data-time='1414142' id='t-1414142'>I've made clear again and again and again</span>
+<span class='talk-transcript__fragment' data-time='1417552' id='t-1417552'>that I go to sleep every morning</span>
+<span class='talk-transcript__fragment' data-time='1420918' id='t-1420918'>thinking about what I can
+do for the American people.</span>
+<span class='talk-transcript__fragment' data-time='1425478' id='t-1425478'>I don't want to harm my government.</span>
+<span class='talk-transcript__fragment' data-time='1428510' id='t-1428510'>I want to help my government,</span>
+<span class='talk-transcript__fragment' data-time='1431773' id='t-1431773'>but the fact that they are willing to</span>
+<span class='talk-transcript__fragment' data-time='1435581' id='t-1435581'>completely ignore due process,</span>
+<span class='talk-transcript__fragment' data-time='1437901' id='t-1437901'>they're willing to declare guilt</span>
+<span class='talk-transcript__fragment' data-time='1440609' id='t-1440609'>without ever seeing a trial,</span>
+<span class='talk-transcript__fragment' data-time='1443895' id='t-1443895'>these are things that we need to work against</span>
+<span class='talk-transcript__fragment' data-time='1446311' id='t-1446311'>as a society, and say hey, this is not appropriate.</span>
+<span class='talk-transcript__fragment' data-time='1449889' id='t-1449889'>We shouldn't be threatening dissidents.</span>
+<span class='talk-transcript__fragment' data-time='1451716' id='t-1451716'>We shouldn't be criminalizing journalism.</span>
+<span class='talk-transcript__fragment' data-time='1454730' id='t-1454730'>And whatever part I can do to see that end,</span>
+<span class='talk-transcript__fragment' data-time='1458049' id='t-1458049'>I'm happy to do despite the risks.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1461202' id='t-1461202'>CA: So I'd actually like to get some feedback</span>
+<span class='talk-transcript__fragment' data-time='1462726' id='t-1462726'>from the audience here,</span>
+<span class='talk-transcript__fragment' data-time='1463945' id='t-1463945'>because I know there's widely differing reactions</span>
+<span class='talk-transcript__fragment' data-time='1466049' id='t-1466049'>to Edward Snowden.</span>
+<span class='talk-transcript__fragment' data-time='1467990' id='t-1467990'>Suppose you had the following two choices, right?</span>
+<span class='talk-transcript__fragment' data-time='1470278' id='t-1470278'>You could view what he did</span>
+<span class='talk-transcript__fragment' data-time='1473084' id='t-1473084'>as fundamentally a reckless act</span>
+<span class='talk-transcript__fragment' data-time='1474978' id='t-1474978'>that has endangered America</span>
+<span class='talk-transcript__fragment' data-time='1478197' id='t-1478197'>or you could view it as fundamentally a heroic act</span>
+<span class='talk-transcript__fragment' data-time='1481760' id='t-1481760'>that will work towards America and the world's</span>
+<span class='talk-transcript__fragment' data-time='1485235' id='t-1485235'>long-term good?</span>
+<span class='talk-transcript__fragment' data-time='1486622' id='t-1486622'>Those are the two choices I'll give you.</span>
+<span class='talk-transcript__fragment' data-time='1489940' id='t-1489940'>I'm curious to see who's willing to vote with</span>
+<span class='talk-transcript__fragment' data-time='1492095' id='t-1492095'>the first of those,</span>
+<span class='talk-transcript__fragment' data-time='1493512' id='t-1493512'>that this was a reckless act?</span>
+<span class='talk-transcript__fragment' data-time='1496921' id='t-1496921'>There are some hands going up.</span>
+<span class='talk-transcript__fragment' data-time='1498576' id='t-1498576'>Some hands going up.</span>
+<span class='talk-transcript__fragment' data-time='1499960' id='t-1499960'>It's hard to put your hand up</span>
+<span class='talk-transcript__fragment' data-time='1501236' id='t-1501236'>when the man is standing right here,</span>
+<span class='talk-transcript__fragment' data-time='1503347' id='t-1503347'>but I see them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1504912' id='t-1504912'>ES: I can see you. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1507443' id='t-1507443'>CA: And who goes with the second choice,</span>
+<span class='talk-transcript__fragment' data-time='1509704' id='t-1509704'>the fundamentally heroic act?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1511587' id='t-1511587'>(Applause) (Cheers)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+25:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1514234' id='t-1514234'>And I think it's true to say that
+there are a lot of people</span>
+<span class='talk-transcript__fragment' data-time='1516808' id='t-1516808'>who didn't show a hand and I think</span>
+<span class='talk-transcript__fragment' data-time='1519033' id='t-1519033'>are still thinking this through,</span>
+<span class='talk-transcript__fragment' data-time='1520743' id='t-1520743'>because it seems to me that the debate around you</span>
+<span class='talk-transcript__fragment' data-time='1524201' id='t-1524201'>doesn't split along traditional political lines.</span>
+<span class='talk-transcript__fragment' data-time='1527310' id='t-1527310'>It's not left or right, it's not really about</span>
+<span class='talk-transcript__fragment' data-time='1529564' id='t-1529564'>pro-government, libertarian, or not just that.</span>
+<span class='talk-transcript__fragment' data-time='1533686' id='t-1533686'>Part of it is almost a generational issue.</span>
+<span class='talk-transcript__fragment' data-time='1536399' id='t-1536399'>You're part of a generation that grew up</span>
+<span class='talk-transcript__fragment' data-time='1538207' id='t-1538207'>with the Internet, and it seems as if</span>
+<span class='talk-transcript__fragment' data-time='1541133' id='t-1541133'>you become offended at almost a visceral level</span>
+<span class='talk-transcript__fragment' data-time='1544341' id='t-1544341'>when you see something done</span>
+<span class='talk-transcript__fragment' data-time='1545637' id='t-1545637'>that you think will harm the Internet.</span>
+<span class='talk-transcript__fragment' data-time='1547699' id='t-1547699'>Is there some truth to that?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+26:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1551272' id='t-1551272'>ES: It is. I think it's very true.</span>
+<span class='talk-transcript__fragment' data-time='1556320' id='t-1556320'>This is not a left or right issue.</span>
+<span class='talk-transcript__fragment' data-time='1559418' id='t-1559418'>Our basic freedoms, and when I say our,</span>
+<span class='talk-transcript__fragment' data-time='1561995' id='t-1561995'>I don't just mean Americans,</span>
+<span class='talk-transcript__fragment' data-time='1563542' id='t-1563542'>I mean people around the world,</span>
+<span class='talk-transcript__fragment' data-time='1565555' id='t-1565555'>it's not a partisan issue.</span>
+<span class='talk-transcript__fragment' data-time='1567901' id='t-1567901'>These are things that all people believe,</span>
+<span class='talk-transcript__fragment' data-time='1569940' id='t-1569940'>and it's up to all of us to protect them,</span>
+<span class='talk-transcript__fragment' data-time='1572465' id='t-1572465'>and to people who have seen and enjoyed</span>
+<span class='talk-transcript__fragment' data-time='1575297' id='t-1575297'>a free and open Internet,</span>
+<span class='talk-transcript__fragment' data-time='1576958' id='t-1576958'>it's up to us to preserve that liberty</span>
+<span class='talk-transcript__fragment' data-time='1580184' id='t-1580184'>for the next generation to enjoy,</span>
+<span class='talk-transcript__fragment' data-time='1582089' id='t-1582089'>and if we don't change things,</span>
+<span class='talk-transcript__fragment' data-time='1583954' id='t-1583954'>if we don't stand up to make the changes</span>
+<span class='talk-transcript__fragment' data-time='1587087' id='t-1587087'>we need to do to keep the Internet safe,</span>
+<span class='talk-transcript__fragment' data-time='1590294' id='t-1590294'>not just for us but for everyone,</span>
+<span class='talk-transcript__fragment' data-time='1593062' id='t-1593062'>we're going to lose that,</span>
+<span class='talk-transcript__fragment' data-time='1594527' id='t-1594527'>and that would be a tremendous loss,</span>
+<span class='talk-transcript__fragment' data-time='1595780' id='t-1595780'>not just for us, but for the world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+26:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1598127' id='t-1598127'>CA: Well, I have heard similar language recently</span>
+<span class='talk-transcript__fragment' data-time='1600200' id='t-1600200'>from the founder of the world wide web,</span>
+<span class='talk-transcript__fragment' data-time='1602048' id='t-1602048'>who I actually think is with us, Sir Tim Berners-Lee.</span>
+<span class='talk-transcript__fragment' data-time='1606565' id='t-1606565'>Tim, actually, would you like to come up and say,</span>
+<span class='talk-transcript__fragment' data-time='1609269' id='t-1609269'>do we have a microphone for Tim?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+27:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1611140' id='t-1611140'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+27:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1613507' id='t-1613507'>Tim, good to see you. Come up there.</span>
+<span class='talk-transcript__fragment' data-time='1620582' id='t-1620582'>Which camp are you in, by the way,</span>
+<span class='talk-transcript__fragment' data-time='1623019' id='t-1623019'>traitor, hero? I have a theory on this, but --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+27:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1626519' id='t-1626519'>Tim Berners-Lee: I've given much longer</span>
+<span class='talk-transcript__fragment' data-time='1629213' id='t-1629213'>answers to that question, but hero,</span>
+<span class='talk-transcript__fragment' data-time='1632268' id='t-1632268'>if I have to make the choice between the two.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+27:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1635670' id='t-1635670'>CA: And Ed, I think you've read</span>
+<span class='talk-transcript__fragment' data-time='1639003' id='t-1639003'>the proposal that Sir Tim has talked about</span>
+<span class='talk-transcript__fragment' data-time='1641087' id='t-1641087'>about a new Magna Carta to take back the Internet.</span>
+<span class='talk-transcript__fragment' data-time='1644055' id='t-1644055'>Is that something that makes sense?</span>
+<span class='talk-transcript__fragment' data-time='1646157' id='t-1646157'>ES: Absolutely. I mean, my generation, I grew up</span>
+<span class='talk-transcript__fragment' data-time='1649798' id='t-1649798'>not just thinking about the Internet,</span>
+<span class='talk-transcript__fragment' data-time='1651857' id='t-1651857'>but I grew up in the Internet,</span>
+<span class='talk-transcript__fragment' data-time='1654221' id='t-1654221'>and although I never expected to have the chance</span>
+<span class='talk-transcript__fragment' data-time='1658881' id='t-1658881'>to defend it in such a direct and practical manner</span>
+<span class='talk-transcript__fragment' data-time='1664428' id='t-1664428'>and to embody it in this unusual,</span>
+<span class='talk-transcript__fragment' data-time='1668224' id='t-1668224'>almost avatar manner,</span>
+<span class='talk-transcript__fragment' data-time='1670353' id='t-1670353'>I think there's something poetic about the fact that</span>
+<span class='talk-transcript__fragment' data-time='1673059' id='t-1673059'>one of the sons of the Internet</span>
+<span class='talk-transcript__fragment' data-time='1675041' id='t-1675041'>has actually become close to the Internet</span>
+<span class='talk-transcript__fragment' data-time='1678093' id='t-1678093'>as a result of their political expression.</span>
+<span class='talk-transcript__fragment' data-time='1680579' id='t-1680579'>And I believe that a Magna Carta for the Internet</span>
+<span class='talk-transcript__fragment' data-time='1684290' id='t-1684290'>is exactly what we need.</span>
+<span class='talk-transcript__fragment' data-time='1686252' id='t-1686252'>We need to encode our values</span>
+<span class='talk-transcript__fragment' data-time='1689760' id='t-1689760'>not just in writing but in the structure of the Internet,</span>
+<span class='talk-transcript__fragment' data-time='1693107' id='t-1693107'>and it's something that I hope,</span>
+<span class='talk-transcript__fragment' data-time='1695347' id='t-1695347'>I invite everyone in the audience,</span>
+<span class='talk-transcript__fragment' data-time='1697870' id='t-1697870'>not just here in Vancouver but around the world,</span>
+<span class='talk-transcript__fragment' data-time='1701120' id='t-1701120'>to join and participate in.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1703476' id='t-1703476'>CA: Do you have a question for Ed?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1705790' id='t-1705790'>TBL: Well, two questions,</span>
+<span class='talk-transcript__fragment' data-time='1707820' id='t-1707820'>a general question —</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1708944' id='t-1708944'>CA: Ed, can you still hear us?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1710739' id='t-1710739'>ES: Yes, I can hear you.
+CA: Oh, he's back.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1714255' id='t-1714255'>TBL: The wiretap on your line</span>
+<span class='talk-transcript__fragment' data-time='1715850' id='t-1715850'>got a little interfered with for a moment.</span>
+<span class='talk-transcript__fragment' data-time='1717756' id='t-1717756'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1719409' id='t-1719409'>ES: It's a little bit of an NSA problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+28:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1721611' id='t-1721611'>TBL: So, from the 25 years,</span>
+<span class='talk-transcript__fragment' data-time='1725418' id='t-1725418'>stepping back and thinking,</span>
+<span class='talk-transcript__fragment' data-time='1728355' id='t-1728355'>what would you think would be</span>
+<span class='talk-transcript__fragment' data-time='1730101' id='t-1730101'>the best that we could achieve</span>
+<span class='talk-transcript__fragment' data-time='1732708' id='t-1732708'>from all the discussions that we have</span>
+<span class='talk-transcript__fragment' data-time='1734568' id='t-1734568'>about the web we want?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+29:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1737461' id='t-1737461'>ES: When we think about</span>
+<span class='talk-transcript__fragment' data-time='1740833' id='t-1740833'>in terms of how far we can go,</span>
+<span class='talk-transcript__fragment' data-time='1743946' id='t-1743946'>I think that's a question that's really only limited</span>
+<span class='talk-transcript__fragment' data-time='1746099' id='t-1746099'>by what we're willing to put into it.</span>
+<span class='talk-transcript__fragment' data-time='1748636' id='t-1748636'>I think the Internet that we've enjoyed in the past</span>
+<span class='talk-transcript__fragment' data-time='1751593' id='t-1751593'>has been exactly what we as not just a nation</span>
+<span class='talk-transcript__fragment' data-time='1757151' id='t-1757151'>but as a people around the world need,</span>
+<span class='talk-transcript__fragment' data-time='1760490' id='t-1760490'>and by cooperating, by engaging not just</span>
+<span class='talk-transcript__fragment' data-time='1764716' id='t-1764716'>the technical parts of society,</span>
+<span class='talk-transcript__fragment' data-time='1766120' id='t-1766120'>but as you said, the users,</span>
+<span class='talk-transcript__fragment' data-time='1768962' id='t-1768962'>the people around the world who contribute</span>
+<span class='talk-transcript__fragment' data-time='1771026' id='t-1771026'>through the Internet, through social media,</span>
+<span class='talk-transcript__fragment' data-time='1773468' id='t-1773468'>who just check the weather,</span>
+<span class='talk-transcript__fragment' data-time='1775195' id='t-1775195'>who rely on it every day as a part of their life,</span>
+<span class='talk-transcript__fragment' data-time='1777748' id='t-1777748'>to champion that.</span>
+<span class='talk-transcript__fragment' data-time='1780688' id='t-1780688'>We'll get not just the Internet we've had,</span>
+<span class='talk-transcript__fragment' data-time='1783225' id='t-1783225'>but a better Internet, a better now,</span>
+<span class='talk-transcript__fragment' data-time='1786174' id='t-1786174'>something that we can use to build a future</span>
+<span class='talk-transcript__fragment' data-time='1790217' id='t-1790217'>that'll be better not just than what we hoped for</span>
+<span class='talk-transcript__fragment' data-time='1793185' id='t-1793185'>but anything that we could have imagined.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+30:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1795570' id='t-1795570'>CA: It's 30 years ago that TED was founded, 1984.</span>
+<span class='talk-transcript__fragment' data-time='1801032' id='t-1801032'>A lot of the conversation since then has been</span>
+<span class='talk-transcript__fragment' data-time='1803037' id='t-1803037'>along the lines that</span>
+<span class='talk-transcript__fragment' data-time='1805091' id='t-1805091'>actually George Orwell got it wrong.</span>
+<span class='talk-transcript__fragment' data-time='1806994' id='t-1806994'>It's not Big Brother watching us.</span>
+<span class='talk-transcript__fragment' data-time='1808713' id='t-1808713'>We, through the power of the web,</span>
+<span class='talk-transcript__fragment' data-time='1810327' id='t-1810327'>and transparency, are now watching Big Brother.</span>
+<span class='talk-transcript__fragment' data-time='1812691' id='t-1812691'>Your revelations kind of drove a stake</span>
+<span class='talk-transcript__fragment' data-time='1814952' id='t-1814952'>through the heart of that rather optimistic view,</span>
+<span class='talk-transcript__fragment' data-time='1818699' id='t-1818699'>but you still believe there's a way of doing something</span>
+<span class='talk-transcript__fragment' data-time='1822119' id='t-1822119'>about that.</span>
+<span class='talk-transcript__fragment' data-time='1823988' id='t-1823988'>And you do too.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+30:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1825728' id='t-1825728'>ES: Right, so there is an argument to be made</span>
+<span class='talk-transcript__fragment' data-time='1831896' id='t-1831896'>that the powers of Big Brother
+have increased enormously.</span>
+<span class='talk-transcript__fragment' data-time='1835493' id='t-1835493'>There was a recent legal article at Yale</span>
+<span class='talk-transcript__fragment' data-time='1839822' id='t-1839822'>that established something called
+the Bankston-Soltani Principle,</span>
+<span class='talk-transcript__fragment' data-time='1843553' id='t-1843553'>which is that our expectation of privacy is violated</span>
+<span class='talk-transcript__fragment' data-time='1848782' id='t-1848782'>when the capabilities of government surveillance</span>
+<span class='talk-transcript__fragment' data-time='1850651' id='t-1850651'>have become cheaper by an order of magnitude,</span>
+<span class='talk-transcript__fragment' data-time='1853846' id='t-1853846'>and each time that occurs, we need to revisit</span>
+<span class='talk-transcript__fragment' data-time='1856568' id='t-1856568'>and rebalance our privacy rights.</span>
+<span class='talk-transcript__fragment' data-time='1859621' id='t-1859621'>Now, that hasn't happened since</span>
+<span class='talk-transcript__fragment' data-time='1861611' id='t-1861611'>the government's surveillance powers</span>
+<span class='talk-transcript__fragment' data-time='1863709' id='t-1863709'>have increased by several orders of magnitude,</span>
+<span class='talk-transcript__fragment' data-time='1866489' id='t-1866489'>and that's why we're in the
+problem that we're in today,</span>
+<span class='talk-transcript__fragment' data-time='1869463' id='t-1869463'>but there is still hope,</span>
+<span class='talk-transcript__fragment' data-time='1873275' id='t-1873275'>because the power of individuals</span>
+<span class='talk-transcript__fragment' data-time='1875411' id='t-1875411'>have also been increased by technology.</span>
+<span class='talk-transcript__fragment' data-time='1878018' id='t-1878018'>I am living proof</span>
+<span class='talk-transcript__fragment' data-time='1880019' id='t-1880019'>that an individual can go head to head</span>
+<span class='talk-transcript__fragment' data-time='1882181' id='t-1882181'>against the most powerful adversaries</span>
+<span class='talk-transcript__fragment' data-time='1884499' id='t-1884499'>and the most powerful intelligence agencies</span>
+<span class='talk-transcript__fragment' data-time='1886820' id='t-1886820'>around the world and win,</span>
+<span class='talk-transcript__fragment' data-time='1890580' id='t-1890580'>and I think that's something</span>
+<span class='talk-transcript__fragment' data-time='1892240' id='t-1892240'>that we need to take hope from,</span>
+<span class='talk-transcript__fragment' data-time='1894663' id='t-1894663'>and we need to build on</span>
+<span class='talk-transcript__fragment' data-time='1895840' id='t-1895840'>to make it accessible not just to technical experts</span>
+<span class='talk-transcript__fragment' data-time='1898277' id='t-1898277'>but to ordinary citizens around the world.</span>
+<span class='talk-transcript__fragment' data-time='1900794' id='t-1900794'>Journalism is not a crime,</span>
+<span class='talk-transcript__fragment' data-time='1902461' id='t-1902461'>communication is not a crime,</span>
+<span class='talk-transcript__fragment' data-time='1904251' id='t-1904251'>and we should not be monitored
+in our everyday activities.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+31:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1907195' id='t-1907195'>CA: I'm not quite sure how
+you shake the hand of a bot,</span>
+<span class='talk-transcript__fragment' data-time='1909924' id='t-1909924'>but I imagine it's, this is the hand right here.
+TBL: That'll come very soon.</span>
+<span class='talk-transcript__fragment' data-time='1915814' id='t-1915814'>ES: Nice to meet you,</span>
+<span class='talk-transcript__fragment' data-time='1916937' id='t-1916937'>and I hope my beam looks as nice</span>
+<span class='talk-transcript__fragment' data-time='1918984' id='t-1918984'>as my view of you guys does.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+32:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1921328' id='t-1921328'>CA: Thank you, Tim.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+32:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1924048' id='t-1924048'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+32:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1929780' id='t-1929780'>I mean, The New York Times
+recently called for an amnesty for you.</span>
+<span class='talk-transcript__fragment' data-time='1933832' id='t-1933832'>Would you welcome the chance
+to come back to America?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+32:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1938058' id='t-1938058'>ES: Absolutely. There's really no question,</span>
+<span class='talk-transcript__fragment' data-time='1941943' id='t-1941943'>the principles that have been the foundation</span>
+<span class='talk-transcript__fragment' data-time='1944525' id='t-1944525'>of this project</span>
+<span class='talk-transcript__fragment' data-time='1946918' id='t-1946918'>have been the public interest</span>
+<span class='talk-transcript__fragment' data-time='1950998' id='t-1950998'>and the principles that underly</span>
+<span class='talk-transcript__fragment' data-time='1953941' id='t-1953941'>the journalistic establishment in the United States</span>
+<span class='talk-transcript__fragment' data-time='1957217' id='t-1957217'>and around the world,</span>
+<span class='talk-transcript__fragment' data-time='1959663' id='t-1959663'>and I think if the press is now saying,</span>
+<span class='talk-transcript__fragment' data-time='1964508' id='t-1964508'>we support this,</span>
+<span class='talk-transcript__fragment' data-time='1966590' id='t-1966590'>this is something that needed to happen,</span>
+<span class='talk-transcript__fragment' data-time='1968678' id='t-1968678'>that's a powerful argument,
+but it's not the final argument,</span>
+<span class='talk-transcript__fragment' data-time='1971322' id='t-1971322'>and I think that's something
+that public should decide.</span>
+<span class='talk-transcript__fragment' data-time='1974035' id='t-1974035'>But at the same time,</span>
+<span class='talk-transcript__fragment' data-time='1975877' id='t-1975877'>the government has hinted that they want</span>
+<span class='talk-transcript__fragment' data-time='1977423' id='t-1977423'>some kind of deal,</span>
+<span class='talk-transcript__fragment' data-time='1979267' id='t-1979267'>that they want me to compromise</span>
+<span class='talk-transcript__fragment' data-time='1981381' id='t-1981381'>the journalists with which I've been working,</span>
+<span class='talk-transcript__fragment' data-time='1983556' id='t-1983556'>to come back,</span>
+<span class='talk-transcript__fragment' data-time='1984989' id='t-1984989'>and I want to make it very clear</span>
+<span class='talk-transcript__fragment' data-time='1987542' id='t-1987542'>that I did not do this to be safe.</span>
+<span class='talk-transcript__fragment' data-time='1990268' id='t-1990268'>I did this to do what was right,</span>
+<span class='talk-transcript__fragment' data-time='1992536' id='t-1992536'>and I'm not going to stop my work</span>
+<span class='talk-transcript__fragment' data-time='1994763' id='t-1994763'>in the public interest</span>
+<span class='talk-transcript__fragment' data-time='1996137' id='t-1996137'>just to benefit myself.</span>
+<span class='talk-transcript__fragment' data-time='1998926' id='t-1998926'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+33:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2004704' id='t-2004704'>CA: In the meantime,</span>
+<span class='talk-transcript__fragment' data-time='2006623' id='t-2006623'>courtesy of the Internet and this technology,</span>
+<span class='talk-transcript__fragment' data-time='2010391' id='t-2010391'>you're here, back in North America,</span>
+<span class='talk-transcript__fragment' data-time='2012041' id='t-2012041'>not quite the U.S., Canada, in this form.</span>
+<span class='talk-transcript__fragment' data-time='2016057' id='t-2016057'>I'm curious, how does that feel?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+33:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2020951' id='t-2020951'>ES: Canada is different than what I expected.</span>
+<span class='talk-transcript__fragment' data-time='2023089' id='t-2023089'>It's a lot warmer.</span>
+<span class='talk-transcript__fragment' data-time='2025214' id='t-2025214'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+34:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2030921' id='t-2030921'>CA: At TED, the mission is &quot;ideas worth spreading.&quot;</span>
+<span class='talk-transcript__fragment' data-time='2034177' id='t-2034177'>If you could encapsulate it in a single idea,</span>
+<span class='talk-transcript__fragment' data-time='2036375' id='t-2036375'>what is your idea worth spreading</span>
+<span class='talk-transcript__fragment' data-time='2038590' id='t-2038590'>right now at this moment?</span>
+<span class='talk-transcript__fragment' data-time='2042665' id='t-2042665'>ES: I would say the last year has been a reminder</span>
+<span class='talk-transcript__fragment' data-time='2046315' id='t-2046315'>that democracy may die behind closed doors,</span>
+<span class='talk-transcript__fragment' data-time='2049918' id='t-2049918'>but we as individuals are born</span>
+<span class='talk-transcript__fragment' data-time='2051822' id='t-2051822'>behind those same closed doors,</span>
+<span class='talk-transcript__fragment' data-time='2054471' id='t-2054471'>and we don't have to give up</span>
+<span class='talk-transcript__fragment' data-time='2056836' id='t-2056836'>our privacy to have good government.</span>
+<span class='talk-transcript__fragment' data-time='2060069' id='t-2060069'>We don't have to give up our liberty</span>
+<span class='talk-transcript__fragment' data-time='2062159' id='t-2062159'>to have security.</span>
+<span class='talk-transcript__fragment' data-time='2063938' id='t-2063938'>And I think by working together</span>
+<span class='talk-transcript__fragment' data-time='2066726' id='t-2066726'>we can have both open government</span>
+<span class='talk-transcript__fragment' data-time='2069051' id='t-2069051'>and private lives,</span>
+<span class='talk-transcript__fragment' data-time='2070988' id='t-2070988'>and I look forward to working with everyone</span>
+<span class='talk-transcript__fragment' data-time='2072761' id='t-2072761'>around the world to see that happen.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+34:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2075300' id='t-2075300'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+34:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2076638' id='t-2076638'>CA: Ed, thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+34:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2078878' id='t-2078878'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

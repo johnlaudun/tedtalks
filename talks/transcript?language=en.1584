@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Alex Wissner-Gross: A new equation for intelligence | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Alex Wissner-Gross: A new equation for intelligence | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Is there an equation for intelligence? Yes. It’s F = T ∇ Sτ. In a fascinating and informative talk, physicist and computer scientist Alex Wissner-Gross explains what in the world that means. (Filmed at TEDxBeaconStreet.)" name="description" />
+<meta content="Alex Wissner-Gross" name="author" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A new equation for intelligence&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15af4df75aba589bfcd57c1e72b572e24067bc29_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15af4df75aba589bfcd57c1e72b572e24067bc29_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Is there an equation for intelligence? Yes. It’s F = T ∇ Sτ. In a fascinating and informative talk, physicist and computer scientist Alex Wissner-Gross explains what in the world that means. (Filmed at TEDxBeaconStreet.)" property="og:description" />
+<meta content="http://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1922?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='alex_wissner_gross_a_new_equation_for_intelligence'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='da'>Danish</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1922?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="708" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15af4df75aba589bfcd57c1e72b572e24067bc29_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:48</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Alex Wissner-Gross</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1922?language=en' lang='en'>
+A new equation for intelligence
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='899' id='t-899'>Intelligence -- what is it?</span>
+<span class='talk-transcript__fragment' data-time='4566' id='t-4566'>If we take a look back at the history</span>
+<span class='talk-transcript__fragment' data-time='6857' id='t-6857'>of how intelligence has been viewed,</span>
+<span class='talk-transcript__fragment' data-time='9481' id='t-9481'>one seminal example has been</span>
+<span class='talk-transcript__fragment' data-time='13099' id='t-13099'>Edsger Dijkstra's famous quote that</span>
+<span class='talk-transcript__fragment' data-time='16576' id='t-16576'>&quot;the question of whether a machine can think</span>
+<span class='talk-transcript__fragment' data-time='19687' id='t-19687'>is about as interesting</span>
+<span class='talk-transcript__fragment' data-time='20997' id='t-20997'>as the question of whether a submarine</span>
+<span class='talk-transcript__fragment' data-time='23968' id='t-23968'>can swim.&quot;</span>
+<span class='talk-transcript__fragment' data-time='25758' id='t-25758'>Now, Edsger Dijkstra, when he wrote this,</span>
+<span class='talk-transcript__fragment' data-time='29602' id='t-29602'>intended it as a criticism</span>
+<span class='talk-transcript__fragment' data-time='31656' id='t-31656'>of the early pioneers of computer science,</span>
+<span class='talk-transcript__fragment' data-time='34656' id='t-34656'>like Alan Turing.</span>
+<span class='talk-transcript__fragment' data-time='36403' id='t-36403'>However, if you take a look back</span>
+<span class='talk-transcript__fragment' data-time='38902' id='t-38902'>and think about what have been</span>
+<span class='talk-transcript__fragment' data-time='40867' id='t-40867'>the most empowering innovations</span>
+<span class='talk-transcript__fragment' data-time='42863' id='t-42863'>that enabled us to build</span>
+<span class='talk-transcript__fragment' data-time='44742' id='t-44742'>artificial machines that swim</span>
+<span class='talk-transcript__fragment' data-time='46976' id='t-46976'>and artificial machines that [fly],</span>
+<span class='talk-transcript__fragment' data-time='49549' id='t-49549'>you find that it was only through understanding</span>
+<span class='talk-transcript__fragment' data-time='53096' id='t-53096'>the underlying physical mechanisms</span>
+<span class='talk-transcript__fragment' data-time='55704' id='t-55704'>of swimming and flight</span>
+<span class='talk-transcript__fragment' data-time='58483' id='t-58483'>that we were able to build these machines.</span>
+<span class='talk-transcript__fragment' data-time='61655' id='t-61655'>And so, several years ago,</span>
+<span class='talk-transcript__fragment' data-time='63911' id='t-63911'>I undertook a program to try to understand</span>
+<span class='talk-transcript__fragment' data-time='67160' id='t-67160'>the fundamental physical mechanisms</span>
+<span class='talk-transcript__fragment' data-time='69794' id='t-69794'>underlying intelligence.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='72562' id='t-72562'>Let's take a step back.</span>
+<span class='talk-transcript__fragment' data-time='74422' id='t-74422'>Let's first begin with a thought experiment.</span>
+<span class='talk-transcript__fragment' data-time='77571' id='t-77571'>Pretend that you're an alien race</span>
+<span class='talk-transcript__fragment' data-time='80425' id='t-80425'>that doesn't know anything about Earth biology</span>
+<span class='talk-transcript__fragment' data-time='83466' id='t-83466'>or Earth neuroscience or Earth intelligence,</span>
+<span class='talk-transcript__fragment' data-time='86582' id='t-86582'>but you have amazing telescopes</span>
+<span class='talk-transcript__fragment' data-time='88774' id='t-88774'>and you're able to watch the Earth,</span>
+<span class='talk-transcript__fragment' data-time='91136' id='t-91136'>and you have amazingly long lives,</span>
+<span class='talk-transcript__fragment' data-time='93468' id='t-93468'>so you're able to watch the Earth</span>
+<span class='talk-transcript__fragment' data-time='94967' id='t-94967'>over millions, even billions of years.</span>
+<span class='talk-transcript__fragment' data-time='98409' id='t-98409'>And you observe a really strange effect.</span>
+<span class='talk-transcript__fragment' data-time='101424' id='t-101424'>You observe that, over the course of the millennia,</span>
+<span class='talk-transcript__fragment' data-time='105736' id='t-105736'>Earth is continually bombarded with asteroids</span>
+<span class='talk-transcript__fragment' data-time='110021' id='t-110021'>up until a point,</span>
+<span class='talk-transcript__fragment' data-time='112108' id='t-112108'>and that at some point,</span>
+<span class='talk-transcript__fragment' data-time='113639' id='t-113639'>corresponding roughly to our year, 2000 AD,</span>
+<span class='talk-transcript__fragment' data-time='117831' id='t-117831'>asteroids that are on</span>
+<span class='talk-transcript__fragment' data-time='119547' id='t-119547'>a collision course with the Earth</span>
+<span class='talk-transcript__fragment' data-time='121478' id='t-121478'>that otherwise would have collided</span>
+<span class='talk-transcript__fragment' data-time='123453' id='t-123453'>mysteriously get deflected</span>
+<span class='talk-transcript__fragment' data-time='125868' id='t-125868'>or they detonate before they can hit the Earth.</span>
+<span class='talk-transcript__fragment' data-time='128940' id='t-128940'>Now of course, as earthlings,</span>
+<span class='talk-transcript__fragment' data-time='131023' id='t-131023'>we know the reason would be</span>
+<span class='talk-transcript__fragment' data-time='132567' id='t-132567'>that we're trying to save ourselves.</span>
+<span class='talk-transcript__fragment' data-time='134323' id='t-134323'>We're trying to prevent an impact.</span>
+<span class='talk-transcript__fragment' data-time='137403' id='t-137403'>But if you're an alien race</span>
+<span class='talk-transcript__fragment' data-time='139114' id='t-139114'>who doesn't know any of this,</span>
+<span class='talk-transcript__fragment' data-time='140260' id='t-140260'>doesn't have any concept of Earth intelligence,</span>
+<span class='talk-transcript__fragment' data-time='142774' id='t-142774'>you'd be forced to put together</span>
+<span class='talk-transcript__fragment' data-time='144502' id='t-144502'>a physical theory that explains how,</span>
+<span class='talk-transcript__fragment' data-time='147420' id='t-147420'>up until a certain point in time,</span>
+<span class='talk-transcript__fragment' data-time='149958' id='t-149958'>asteroids that would demolish the surface of a planet</span>
+<span class='talk-transcript__fragment' data-time='154407' id='t-154407'>mysteriously stop doing that.</span>
+<span class='talk-transcript__fragment' data-time='157638' id='t-157638'>And so I claim that this is the same question</span>
+<span class='talk-transcript__fragment' data-time='161842' id='t-161842'>as understanding the physical nature of intelligence.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='165840' id='t-165840'>So in this program that I
+undertook several years ago,</span>
+<span class='talk-transcript__fragment' data-time='169722' id='t-169722'>I looked at a variety of different threads</span>
+<span class='talk-transcript__fragment' data-time='172487' id='t-172487'>across science, across a variety of disciplines,</span>
+<span class='talk-transcript__fragment' data-time='175649' id='t-175649'>that were pointing, I think,</span>
+<span class='talk-transcript__fragment' data-time='177541' id='t-177541'>towards a single, underlying mechanism</span>
+<span class='talk-transcript__fragment' data-time='180089' id='t-180089'>for intelligence.</span>
+<span class='talk-transcript__fragment' data-time='181670' id='t-181670'>In cosmology, for example,</span>
+<span class='talk-transcript__fragment' data-time='184216' id='t-184216'>there have been a variety of
+different threads of evidence</span>
+<span class='talk-transcript__fragment' data-time='186963' id='t-186963'>that our universe appears to be finely tuned</span>
+<span class='talk-transcript__fragment' data-time='190370' id='t-190370'>for the development of intelligence,</span>
+<span class='talk-transcript__fragment' data-time='192523' id='t-192523'>and, in particular, for the development</span>
+<span class='talk-transcript__fragment' data-time='194912' id='t-194912'>of universal states</span>
+<span class='talk-transcript__fragment' data-time='196798' id='t-196798'>that maximize the diversity of possible futures.</span>
+<span class='talk-transcript__fragment' data-time='200896' id='t-200896'>In game play, for example, in Go --</span>
+<span class='talk-transcript__fragment' data-time='203240' id='t-203240'>everyone remembers in 1997</span>
+<span class='talk-transcript__fragment' data-time='206265' id='t-206265'>when IBM's Deep Blue beat 
+Garry Kasparov at chess --</span>
+<span class='talk-transcript__fragment' data-time='210216' id='t-210216'>fewer people are aware</span>
+<span class='talk-transcript__fragment' data-time='211739' id='t-211739'>that in the past 10 years or so,</span>
+<span class='talk-transcript__fragment' data-time='213757' id='t-213757'>the game of Go,</span>
+<span class='talk-transcript__fragment' data-time='214955' id='t-214955'>arguably a much more challenging game</span>
+<span class='talk-transcript__fragment' data-time='216911' id='t-216911'>because it has a much higher branching factor,</span>
+<span class='talk-transcript__fragment' data-time='219336' id='t-219336'>has also started to succumb</span>
+<span class='talk-transcript__fragment' data-time='221038' id='t-221038'>to computer game players</span>
+<span class='talk-transcript__fragment' data-time='222903' id='t-222903'>for the same reason:</span>
+<span class='talk-transcript__fragment' data-time='224476' id='t-224476'>the best techniques right now
+for computers playing Go</span>
+<span class='talk-transcript__fragment' data-time='227276' id='t-227276'>are techniques that try to maximize future options</span>
+<span class='talk-transcript__fragment' data-time='230972' id='t-230972'>during game play.</span>
+<span class='talk-transcript__fragment' data-time='232986' id='t-232986'>Finally, in robotic motion planning,</span>
+<span class='talk-transcript__fragment' data-time='236567' id='t-236567'>there have been a variety of recent techniques</span>
+<span class='talk-transcript__fragment' data-time='238749' id='t-238749'>that have tried to take advantage</span>
+<span class='talk-transcript__fragment' data-time='240651' id='t-240651'>of abilities of robots to maximize</span>
+<span class='talk-transcript__fragment' data-time='243797' id='t-243797'>future freedom of action</span>
+<span class='talk-transcript__fragment' data-time='245303' id='t-245303'>in order to accomplish complex tasks.</span>
+<span class='talk-transcript__fragment' data-time='248400' id='t-248400'>And so, taking all of these different threads</span>
+<span class='talk-transcript__fragment' data-time='250755' id='t-250755'>and putting them together,</span>
+<span class='talk-transcript__fragment' data-time='252377' id='t-252377'>I asked, starting several years ago,</span>
+<span class='talk-transcript__fragment' data-time='255017' id='t-255017'>is there an underlying mechanism for intelligence</span>
+<span class='talk-transcript__fragment' data-time='257867' id='t-257867'>that we can factor out</span>
+<span class='talk-transcript__fragment' data-time='259540' id='t-259540'>of all of these different threads?</span>
+<span class='talk-transcript__fragment' data-time='261314' id='t-261314'>Is there a single equation for intelligence?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='265907' id='t-265907'>And the answer, I believe, is yes.
+[&quot;F = T ∇ Sτ&quot;]</span>
+<span class='talk-transcript__fragment' data-time='269278' id='t-269278'>What you're seeing is probably</span>
+<span class='talk-transcript__fragment' data-time='271191' id='t-271191'>the closest equivalent to an E = mc²</span>
+<span class='talk-transcript__fragment' data-time='274485' id='t-274485'>for intelligence that I've seen.</span>
+<span class='talk-transcript__fragment' data-time='277315' id='t-277315'>So what you're seeing here</span>
+<span class='talk-transcript__fragment' data-time='279017' id='t-279017'>is a statement of correspondence</span>
+<span class='talk-transcript__fragment' data-time='281686' id='t-281686'>that intelligence is a force, F,</span>
+<span class='talk-transcript__fragment' data-time='286121' id='t-286121'>that acts so as to maximize future freedom of action.</span>
+<span class='talk-transcript__fragment' data-time='290771' id='t-290771'>It acts to maximize future freedom of action,</span>
+<span class='talk-transcript__fragment' data-time='293146' id='t-293146'>or keep options open,</span>
+<span class='talk-transcript__fragment' data-time='294774' id='t-294774'>with some strength T,</span>
+<span class='talk-transcript__fragment' data-time='296999' id='t-296999'>with the diversity of possible accessible futures, S,</span>
+<span class='talk-transcript__fragment' data-time='301776' id='t-301776'>up to some future time horizon, tau.</span>
+<span class='talk-transcript__fragment' data-time='304326' id='t-304326'>In short, intelligence doesn't like to get trapped.</span>
+<span class='talk-transcript__fragment' data-time='307535' id='t-307535'>Intelligence tries to maximize
+future freedom of action</span>
+<span class='talk-transcript__fragment' data-time='310590' id='t-310590'>and keep options open.</span>
+<span class='talk-transcript__fragment' data-time='313263' id='t-313263'>And so, given this one equation,</span>
+<span class='talk-transcript__fragment' data-time='315696' id='t-315696'>it's natural to ask, so what can you do with this?</span>
+<span class='talk-transcript__fragment' data-time='318228' id='t-318228'>How predictive is it?</span>
+<span class='talk-transcript__fragment' data-time='319579' id='t-319579'>Does it predict human-level intelligence?</span>
+<span class='talk-transcript__fragment' data-time='321714' id='t-321714'>Does it predict artificial intelligence?</span>
+<span class='talk-transcript__fragment' data-time='324532' id='t-324532'>So I'm going to show you now a video</span>
+<span class='talk-transcript__fragment' data-time='326574' id='t-326574'>that will, I think, demonstrate</span>
+<span class='talk-transcript__fragment' data-time='329994' id='t-329994'>some of the amazing applications</span>
+<span class='talk-transcript__fragment' data-time='332282' id='t-332282'>of just this single equation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='334601' id='t-334601'>(Video) Narrator: Recent research in cosmology</span>
+<span class='talk-transcript__fragment' data-time='336580' id='t-336580'>has suggested that universes that produce</span>
+<span class='talk-transcript__fragment' data-time='338627' id='t-338627'>more disorder, or &quot;entropy,&quot; over their lifetimes</span>
+<span class='talk-transcript__fragment' data-time='342108' id='t-342108'>should tend to have more favorable conditions</span>
+<span class='talk-transcript__fragment' data-time='344586' id='t-344586'>for the existence of intelligent
+beings such as ourselves.</span>
+<span class='talk-transcript__fragment' data-time='347602' id='t-347602'>But what if that tentative cosmological connection</span>
+<span class='talk-transcript__fragment' data-time='350176' id='t-350176'>between entropy and intelligence</span>
+<span class='talk-transcript__fragment' data-time='352019' id='t-352019'>hints at a deeper relationship?</span>
+<span class='talk-transcript__fragment' data-time='353790' id='t-353790'>What if intelligent behavior doesn't just correlate</span>
+<span class='talk-transcript__fragment' data-time='356354' id='t-356354'>with the production of long-term entropy,</span>
+<span class='talk-transcript__fragment' data-time='358198' id='t-358198'>but actually emerges directly from it?</span>
+<span class='talk-transcript__fragment' data-time='360516' id='t-360516'>To find out, we developed a software engine</span>
+<span class='talk-transcript__fragment' data-time='362922' id='t-362922'>called Entropica, designed to maximize</span>
+<span class='talk-transcript__fragment' data-time='365425' id='t-365425'>the production of long-term entropy</span>
+<span class='talk-transcript__fragment' data-time='367193' id='t-367193'>of any system that it finds itself in.</span>
+<span class='talk-transcript__fragment' data-time='369769' id='t-369769'>Amazingly, Entropica was able to pass</span>
+<span class='talk-transcript__fragment' data-time='371924' id='t-371924'>multiple animal intelligence
+tests, play human games,</span>
+<span class='talk-transcript__fragment' data-time='375380' id='t-375380'>and even earn money trading stocks,</span>
+<span class='talk-transcript__fragment' data-time='377526' id='t-377526'>all without being instructed to do so.</span>
+<span class='talk-transcript__fragment' data-time='379637' id='t-379637'>Here are some examples of Entropica in action.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='382155' id='t-382155'>Just like a human standing
+upright without falling over,</span>
+<span class='talk-transcript__fragment' data-time='385360' id='t-385360'>here we see Entropica</span>
+<span class='talk-transcript__fragment' data-time='386590' id='t-386590'>automatically balancing a pole using a cart.</span>
+<span class='talk-transcript__fragment' data-time='389475' id='t-389475'>This behavior is remarkable in part</span>
+<span class='talk-transcript__fragment' data-time='391487' id='t-391487'>because we never gave Entropica a goal.</span>
+<span class='talk-transcript__fragment' data-time='393818' id='t-393818'>It simply decided on its own to balance the pole.</span>
+<span class='talk-transcript__fragment' data-time='396975' id='t-396975'>This balancing ability will have appliactions</span>
+<span class='talk-transcript__fragment' data-time='399107' id='t-399107'>for humanoid robotics</span>
+<span class='talk-transcript__fragment' data-time='400504' id='t-400504'>and human assistive technologies.</span>
+<span class='talk-transcript__fragment' data-time='403019' id='t-403019'>Just as some animals can use objects</span>
+<span class='talk-transcript__fragment' data-time='405020' id='t-405020'>in their environments as tools</span>
+<span class='talk-transcript__fragment' data-time='406462' id='t-406462'>to reach into narrow spaces,</span>
+<span class='talk-transcript__fragment' data-time='408449' id='t-408449'>here we see that Entropica,</span>
+<span class='talk-transcript__fragment' data-time='410331' id='t-410331'>again on its own initiative,</span>
+<span class='talk-transcript__fragment' data-time='412169' id='t-412169'>was able to move a large
+disk representing an animal</span>
+<span class='talk-transcript__fragment' data-time='415079' id='t-415079'>around so as to cause a small disk,</span>
+<span class='talk-transcript__fragment' data-time='417424' id='t-417424'>representing a tool, to reach into a confined space</span>
+<span class='talk-transcript__fragment' data-time='420195' id='t-420195'>holding a third disk</span>
+<span class='talk-transcript__fragment' data-time='421732' id='t-421732'>and release the third disk
+from its initially fixed position.</span>
+<span class='talk-transcript__fragment' data-time='424704' id='t-424704'>This tool use ability will have applications</span>
+<span class='talk-transcript__fragment' data-time='426893' id='t-426893'>for smart manufacturing and agriculture.</span>
+<span class='talk-transcript__fragment' data-time='429252' id='t-429252'>In addition, just as some other animals</span>
+<span class='talk-transcript__fragment' data-time='431196' id='t-431196'>are able to cooperate by pulling
+opposite ends of a rope</span>
+<span class='talk-transcript__fragment' data-time='433892' id='t-433892'>at the same time to release food,</span>
+<span class='talk-transcript__fragment' data-time='435945' id='t-435945'>here we see that Entropica is able to accomplish</span>
+<span class='talk-transcript__fragment' data-time='438240' id='t-438240'>a model version of that task.</span>
+<span class='talk-transcript__fragment' data-time='440228' id='t-440228'>This cooperative ability has interesting implications</span>
+<span class='talk-transcript__fragment' data-time='442750' id='t-442750'>for economic planning and a variety of other fields.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='446185' id='t-446185'>Entropica is broadly applicable</span>
+<span class='talk-transcript__fragment' data-time='448256' id='t-448256'>to a variety of domains.</span>
+<span class='talk-transcript__fragment' data-time='450199' id='t-450199'>For example, here we see it successfully</span>
+<span class='talk-transcript__fragment' data-time='452641' id='t-452641'>playing a game of pong against itself,</span>
+<span class='talk-transcript__fragment' data-time='455200' id='t-455200'>illustrating its potential for gaming.</span>
+<span class='talk-transcript__fragment' data-time='457543' id='t-457543'>Here we see Entropica orchestrating</span>
+<span class='talk-transcript__fragment' data-time='459462' id='t-459462'>new connections on a social network</span>
+<span class='talk-transcript__fragment' data-time='461301' id='t-461301'>where friends are constantly falling out of touch</span>
+<span class='talk-transcript__fragment' data-time='464061' id='t-464061'>and successfully keeping
+the network well connected.</span>
+<span class='talk-transcript__fragment' data-time='466917' id='t-466917'>This same network orchestration ability</span>
+<span class='talk-transcript__fragment' data-time='469215' id='t-469215'>also has applications in health care,</span>
+<span class='talk-transcript__fragment' data-time='471543' id='t-471543'>energy, and intelligence.</span>
+<span class='talk-transcript__fragment' data-time='474775' id='t-474775'>Here we see Entropica directing the paths</span>
+<span class='talk-transcript__fragment' data-time='476860' id='t-476860'>of a fleet of ships,</span>
+<span class='talk-transcript__fragment' data-time='478346' id='t-478346'>successfully discovering and
+utilizing the Panama Canal</span>
+<span class='talk-transcript__fragment' data-time='481521' id='t-481521'>to globally extend its reach from the Atlantic</span>
+<span class='talk-transcript__fragment' data-time='483979' id='t-483979'>to the Pacific.</span>
+<span class='talk-transcript__fragment' data-time='485508' id='t-485508'>By the same token, Entropica</span>
+<span class='talk-transcript__fragment' data-time='487235' id='t-487235'>is broadly applicable to problems</span>
+<span class='talk-transcript__fragment' data-time='488855' id='t-488855'>in autonomous defense, logistics and transportation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='494173' id='t-494173'>Finally, here we see Entropica</span>
+<span class='talk-transcript__fragment' data-time='496203' id='t-496203'>spontaneously discovering and executing</span>
+<span class='talk-transcript__fragment' data-time='498926' id='t-498926'>a buy-low, sell-high strategy</span>
+<span class='talk-transcript__fragment' data-time='500993' id='t-500993'>on a simulated range traded stock,</span>
+<span class='talk-transcript__fragment' data-time='503171' id='t-503171'>successfully growing assets under management</span>
+<span class='talk-transcript__fragment' data-time='505502' id='t-505502'>exponentially.</span>
+<span class='talk-transcript__fragment' data-time='506926' id='t-506926'>This risk management ability</span>
+<span class='talk-transcript__fragment' data-time='508234' id='t-508234'>will have broad applications in finance</span>
+<span class='talk-transcript__fragment' data-time='510721' id='t-510721'>and insurance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='514049' id='t-514049'>Alex Wissner-Gross: So what you've just seen</span>
+<span class='talk-transcript__fragment' data-time='516140' id='t-516140'>is that a variety of signature human intelligent</span>
+<span class='talk-transcript__fragment' data-time='520532' id='t-520532'>cognitive behaviors</span>
+<span class='talk-transcript__fragment' data-time='522289' id='t-522289'>such as tool use and walking upright</span>
+<span class='talk-transcript__fragment' data-time='525120' id='t-525120'>and social cooperation</span>
+<span class='talk-transcript__fragment' data-time='527149' id='t-527149'>all follow from a single equation,</span>
+<span class='talk-transcript__fragment' data-time='530121' id='t-530121'>which drives a system</span>
+<span class='talk-transcript__fragment' data-time='532053' id='t-532053'>to maximize its future freedom of action.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='535964' id='t-535964'>Now, there's a profound irony here.</span>
+<span class='talk-transcript__fragment' data-time='538971' id='t-538971'>Going back to the beginning</span>
+<span class='talk-transcript__fragment' data-time='540995' id='t-540995'>of the usage of the term robot,</span>
+<span class='talk-transcript__fragment' data-time='544268' id='t-544268'>the play &quot;RUR,&quot;</span>
+<span class='talk-transcript__fragment' data-time='547171' id='t-547171'>there was always a concept</span>
+<span class='talk-transcript__fragment' data-time='549406' id='t-549406'>that if we developed machine intelligence,</span>
+<span class='talk-transcript__fragment' data-time='552632' id='t-552632'>there would be a cybernetic revolt.</span>
+<span class='talk-transcript__fragment' data-time='555659' id='t-555659'>The machines would rise up against us.</span>
+<span class='talk-transcript__fragment' data-time='559210' id='t-559210'>One major consequence of this work</span>
+<span class='talk-transcript__fragment' data-time='561529' id='t-561529'>is that maybe all of these decades,</span>
+<span class='talk-transcript__fragment' data-time='564298' id='t-564298'>we've had the whole concept of cybernetic revolt</span>
+<span class='talk-transcript__fragment' data-time='567274' id='t-567274'>in reverse.</span>
+<span class='talk-transcript__fragment' data-time='569285' id='t-569285'>It's not that machines first become intelligent</span>
+<span class='talk-transcript__fragment' data-time='572564' id='t-572564'>and then megalomaniacal</span>
+<span class='talk-transcript__fragment' data-time='574579' id='t-574579'>and try to take over the world.</span>
+<span class='talk-transcript__fragment' data-time='576803' id='t-576803'>It's quite the opposite,</span>
+<span class='talk-transcript__fragment' data-time='578237' id='t-578237'>that the urge to take control</span>
+<span class='talk-transcript__fragment' data-time='581143' id='t-581143'>of all possible futures</span>
+<span class='talk-transcript__fragment' data-time='583404' id='t-583404'>is a more fundamental principle</span>
+<span class='talk-transcript__fragment' data-time='585522' id='t-585522'>than that of intelligence,</span>
+<span class='talk-transcript__fragment' data-time='586885' id='t-586885'>that general intelligence may in fact emerge</span>
+<span class='talk-transcript__fragment' data-time='590585' id='t-590585'>directly from this sort of control-grabbing,</span>
+<span class='talk-transcript__fragment' data-time='594144' id='t-594144'>rather than vice versa.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='598329' id='t-598329'>Another important consequence is goal seeking.</span>
+<span class='talk-transcript__fragment' data-time='602098' id='t-602098'>I'm often asked, how does the ability to seek goals</span>
+<span class='talk-transcript__fragment' data-time='606458' id='t-606458'>follow from this sort of framework?</span>
+<span class='talk-transcript__fragment' data-time='608078' id='t-608078'>And the answer is, the ability to seek goals</span>
+<span class='talk-transcript__fragment' data-time='611106' id='t-611106'>will follow directly from this</span>
+<span class='talk-transcript__fragment' data-time='612988' id='t-612988'>in the following sense:</span>
+<span class='talk-transcript__fragment' data-time='614822' id='t-614822'>just like you would travel through a tunnel,</span>
+<span class='talk-transcript__fragment' data-time='617687' id='t-617687'>a bottleneck in your future path space,</span>
+<span class='talk-transcript__fragment' data-time='620192' id='t-620192'>in order to achieve many other</span>
+<span class='talk-transcript__fragment' data-time='622063' id='t-622063'>diverse objectives later on,</span>
+<span class='talk-transcript__fragment' data-time='624084' id='t-624084'>or just like you would invest</span>
+<span class='talk-transcript__fragment' data-time='626456' id='t-626456'>in a financial security,</span>
+<span class='talk-transcript__fragment' data-time='628243' id='t-628243'>reducing your short-term liquidity</span>
+<span class='talk-transcript__fragment' data-time='630480' id='t-630480'>in order to increase your wealth over the long term,</span>
+<span class='talk-transcript__fragment' data-time='632880' id='t-632880'>goal seeking emerges directly</span>
+<span class='talk-transcript__fragment' data-time='635217' id='t-635217'>from a long-term drive</span>
+<span class='talk-transcript__fragment' data-time='636946' id='t-636946'>to increase future freedom of action.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='640983' id='t-640983'>Finally, Richard Feynman, famous physicist,</span>
+<span class='talk-transcript__fragment' data-time='644511' id='t-644511'>once wrote that if human civilization were destroyed</span>
+<span class='talk-transcript__fragment' data-time='648183' id='t-648183'>and you could pass only a single concept</span>
+<span class='talk-transcript__fragment' data-time='650076' id='t-650076'>on to our descendants</span>
+<span class='talk-transcript__fragment' data-time='651447' id='t-651447'>to help them rebuild civilization,</span>
+<span class='talk-transcript__fragment' data-time='653754' id='t-653754'>that concept should be</span>
+<span class='talk-transcript__fragment' data-time='655440' id='t-655440'>that all matter around us</span>
+<span class='talk-transcript__fragment' data-time='657292' id='t-657292'>is made out of tiny elements</span>
+<span class='talk-transcript__fragment' data-time='659615' id='t-659615'>that attract each other when they're far apart</span>
+<span class='talk-transcript__fragment' data-time='662123' id='t-662123'>but repel each other when they're close together.</span>
+<span class='talk-transcript__fragment' data-time='665453' id='t-665453'>My equivalent of that statement</span>
+<span class='talk-transcript__fragment' data-time='667234' id='t-667234'>to pass on to descendants</span>
+<span class='talk-transcript__fragment' data-time='668502' id='t-668502'>to help them build artificial intelligences</span>
+<span class='talk-transcript__fragment' data-time='671214' id='t-671214'>or to help them understand human intelligence,</span>
+<span class='talk-transcript__fragment' data-time='674163' id='t-674163'>is the following:</span>
+<span class='talk-transcript__fragment' data-time='675430' id='t-675430'>Intelligence should be viewed</span>
+<span class='talk-transcript__fragment' data-time='677483' id='t-677483'>as a physical process</span>
+<span class='talk-transcript__fragment' data-time='678896' id='t-678896'>that tries to maximize future freedom of action</span>
+<span class='talk-transcript__fragment' data-time='681861' id='t-681861'>and avoid constraints in its own future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='685477' id='t-685477'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='686835' id='t-686835'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Danny Hillis: The Internet could crash. We need a Plan B | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Danny Hillis: The Internet could crash. We need a Plan B | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: The Internet connects billions of people and machines; it&#39;s the backbone of modern life. But tech pioneer Danny Hillis thinks the Internet just wasn&#39;t designed to grow this big -- and he fears that one big cyber-attack or glitch could shut it down and take civilization with it. To head off a digital dark age, he sounds a clarion call to develop a Plan B: a parallel system to fall back on if -- or when -- the Internet crashes." name="description" />
+<meta content="Danny Hillis" name="author" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The Internet could crash. We need a Plan B&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc7b6c0a7974f84b6fd218a3409eb5248d214aad_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc7b6c0a7974f84b6fd218a3409eb5248d214aad_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: The Internet connects billions of people and machines; it&#39;s the backbone of modern life. But tech pioneer Danny Hillis thinks the Internet just wasn&#39;t designed to grow this big -- and he fears that one big cyber-attack or glitch could shut it down and take civilization with it. To head off a digital dark age, he sounds a clarion call to develop a Plan B: a parallel system to fall back on if -- or when -- the Internet crashes." property="og:description" />
+<meta content="http://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1693?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='danny_hillis_the_internet_could_crash_we_need_a_plan_b'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1693?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="751" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc7b6c0a7974f84b6fd218a3409eb5248d214aad_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:31</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Danny Hillis</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1693?language=en' lang='en'>
+The Internet could crash. We need a Plan B
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Mar 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='603' id='t-603'>So, this book that I have in my hand</span>
+<span class='talk-transcript__fragment' data-time='3669' id='t-3669'>is a directory of everybody who had an email address</span>
+<span class='talk-transcript__fragment' data-time='7603' id='t-7603'>in 1982. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='11122' id='t-11122'>Actually, it's deceptively large.</span>
+<span class='talk-transcript__fragment' data-time='14807' id='t-14807'>There's actually only about 20 people on each page,</span>
+<span class='talk-transcript__fragment' data-time='18244' id='t-18244'>because we have the name, address</span>
+<span class='talk-transcript__fragment' data-time='20134' id='t-20134'>and telephone number of every single person.</span>
+<span class='talk-transcript__fragment' data-time='23227' id='t-23227'>And, in fact, everybody's listed twice,</span>
+<span class='talk-transcript__fragment' data-time='25410' id='t-25410'>because it's sorted once by name and once by email address.</span>
+<span class='talk-transcript__fragment' data-time='29968' id='t-29968'>Obviously a very small community.</span>
+<span class='talk-transcript__fragment' data-time='32869' id='t-32869'>There were only two other Dannys on the Internet then.</span>
+<span class='talk-transcript__fragment' data-time='36300' id='t-36300'>I knew them both.</span>
+<span class='talk-transcript__fragment' data-time='37900' id='t-37900'>We didn't all know each other,</span>
+<span class='talk-transcript__fragment' data-time='39656' id='t-39656'>but we all kind of trusted each other,</span>
+<span class='talk-transcript__fragment' data-time='42769' id='t-42769'>and that basic feeling of trust</span>
+<span class='talk-transcript__fragment' data-time='46567' id='t-46567'>permeated the whole network,</span>
+<span class='talk-transcript__fragment' data-time='49154' id='t-49154'>and there was a real sense that</span>
+<span class='talk-transcript__fragment' data-time='51511' id='t-51511'>we could depend on each other to do things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='54517' id='t-54517'>So just to give you an idea of the level of trust in this community,</span>
+<span class='talk-transcript__fragment' data-time='58092' id='t-58092'>let me tell you what it was like</span>
+<span class='talk-transcript__fragment' data-time='59717' id='t-59717'>to register a domain name in the early days.</span>
+<span class='talk-transcript__fragment' data-time='63822' id='t-63822'>Now, it just so happened that I got to register</span>
+<span class='talk-transcript__fragment' data-time='66452' id='t-66452'>the third domain name on the Internet.</span>
+<span class='talk-transcript__fragment' data-time='68912' id='t-68912'>So I could have anything I wanted</span>
+<span class='talk-transcript__fragment' data-time='70560' id='t-70560'>other than bbn.com and symbolics.com.</span>
+<span class='talk-transcript__fragment' data-time='75005' id='t-75005'>So I picked think.com, but then I thought,</span>
+<span class='talk-transcript__fragment' data-time='78419' id='t-78419'>you know, there's a lot of really interesting names out there.</span>
+<span class='talk-transcript__fragment' data-time='81405' id='t-81405'>Maybe I should register a few extras just in case.</span>
+<span class='talk-transcript__fragment' data-time='85614' id='t-85614'>And then I thought, &quot;Nah, that wouldn't be very nice.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='88898' id='t-88898'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='94593' id='t-94593'>That attitude of only taking what you need</span>
+<span class='talk-transcript__fragment' data-time='98222' id='t-98222'>was really what everybody had on the network in those days,</span>
+<span class='talk-transcript__fragment' data-time='102266' id='t-102266'>and in fact, it wasn't just the people on the network,</span>
+<span class='talk-transcript__fragment' data-time='105563' id='t-105563'>but it was actually kind of built into the protocols</span>
+<span class='talk-transcript__fragment' data-time='108283' id='t-108283'>of the Internet itself.</span>
+<span class='talk-transcript__fragment' data-time='110227' id='t-110227'>So the basic idea of I.P., or Internet protocol,</span>
+<span class='talk-transcript__fragment' data-time='114086' id='t-114086'>and the way that the -- the routing algorithm that used it,</span>
+<span class='talk-transcript__fragment' data-time='117815' id='t-117815'>were fundamentally &quot;from each according to their ability,</span>
+<span class='talk-transcript__fragment' data-time='121944' id='t-121944'>to each according to their need.&quot;</span>
+<span class='talk-transcript__fragment' data-time='124062' id='t-124062'>And so, if you had some extra bandwidth,</span>
+<span class='talk-transcript__fragment' data-time='127075' id='t-127075'>you'd deliver a message for someone.</span>
+<span class='talk-transcript__fragment' data-time='128518' id='t-128518'>If they had some extra bandwidth, they would deliver a message for you.</span>
+<span class='talk-transcript__fragment' data-time='131511' id='t-131511'>You'd kind of depend on people to do that,</span>
+<span class='talk-transcript__fragment' data-time='133525' id='t-133525'>and that was the building block.</span>
+<span class='talk-transcript__fragment' data-time='136189' id='t-136189'>It was actually interesting that such a communist principle</span>
+<span class='talk-transcript__fragment' data-time='138816' id='t-138816'>was the basis of a system developed during the Cold War</span>
+<span class='talk-transcript__fragment' data-time='141252' id='t-141252'>by the Defense Department,</span>
+<span class='talk-transcript__fragment' data-time='143683' id='t-143683'>but it obviously worked really well,</span>
+<span class='talk-transcript__fragment' data-time='146753' id='t-146753'>and we all saw what happened with the Internet.</span>
+<span class='talk-transcript__fragment' data-time='150196' id='t-150196'>It was incredibly successful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='152468' id='t-152468'>In fact, it was so successful that there's no way</span>
+<span class='talk-transcript__fragment' data-time='155765' id='t-155765'>that these days you could make a book like this.</span>
+<span class='talk-transcript__fragment' data-time='159353' id='t-159353'>My rough calculation is it would be about 25 miles thick.</span>
+<span class='talk-transcript__fragment' data-time='165519' id='t-165519'>But, of course, you couldn't do it,</span>
+<span class='talk-transcript__fragment' data-time='166693' id='t-166693'>because we don't know the names of all the people</span>
+<span class='talk-transcript__fragment' data-time='168483' id='t-168483'>with Internet or email addresses,</span>
+<span class='talk-transcript__fragment' data-time='171557' id='t-171557'>and even if we did know their names,</span>
+<span class='talk-transcript__fragment' data-time='173089' id='t-173089'>I'm pretty sure that they would not want their name,</span>
+<span class='talk-transcript__fragment' data-time='175522' id='t-175522'>address and telephone number published to everyone.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='179818' id='t-179818'>So the fact is that there's a lot of bad guys on the Internet these days,</span>
+<span class='talk-transcript__fragment' data-time='183520' id='t-183520'>and so we dealt with that by making</span>
+<span class='talk-transcript__fragment' data-time='187691' id='t-187691'>walled communities,</span>
+<span class='talk-transcript__fragment' data-time='189590' id='t-189590'>secure subnetworks, VPNs,</span>
+<span class='talk-transcript__fragment' data-time='194327' id='t-194327'>little things that aren't really the Internet</span>
+<span class='talk-transcript__fragment' data-time='195923' id='t-195923'>but are made out of the same building blocks,</span>
+<span class='talk-transcript__fragment' data-time='197894' id='t-197894'>but we're still basically building it out of those</span>
+<span class='talk-transcript__fragment' data-time='200134' id='t-200134'>same building blocks with those same assumptions of trust.</span>
+<span class='talk-transcript__fragment' data-time='204401' id='t-204401'>And that means that it's vulnerable</span>
+<span class='talk-transcript__fragment' data-time='207123' id='t-207123'>to certain kinds of mistakes that can happen,</span>
+<span class='talk-transcript__fragment' data-time='209519' id='t-209519'>or certain kinds of deliberate attacks,</span>
+<span class='talk-transcript__fragment' data-time='211380' id='t-211380'>but even the mistakes can be bad.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='214485' id='t-214485'>So, for instance,</span>
+<span class='talk-transcript__fragment' data-time='217434' id='t-217434'>in all of Asia recently,</span>
+<span class='talk-transcript__fragment' data-time='219387' id='t-219387'>it was impossible to get YouTube for a little while</span>
+<span class='talk-transcript__fragment' data-time='222820' id='t-222820'>because Pakistan made some mistakes</span>
+<span class='talk-transcript__fragment' data-time='225100' id='t-225100'>in how it was censoring YouTube in its internal network.</span>
+<span class='talk-transcript__fragment' data-time='228835' id='t-228835'>They didn't intend to screw up Asia, but they did</span>
+<span class='talk-transcript__fragment' data-time='231929' id='t-231929'>because of the way that the protocols work.</span>
+<span class='talk-transcript__fragment' data-time='234833' id='t-234833'>Another example that may have affected many of you in this audience is,</span>
+<span class='talk-transcript__fragment' data-time='238057' id='t-238057'>you may remember a couple of years ago,</span>
+<span class='talk-transcript__fragment' data-time='240648' id='t-240648'>all the planes west of the Mississippi were grounded</span>
+<span class='talk-transcript__fragment' data-time='243461' id='t-243461'>because a single routing card in Salt Lake City</span>
+<span class='talk-transcript__fragment' data-time='246353' id='t-246353'>had a bug in it.</span>
+<span class='talk-transcript__fragment' data-time='248715' id='t-248715'>Now, you don't really think</span>
+<span class='talk-transcript__fragment' data-time='250988' id='t-250988'>that our airplane system depends on the Internet,</span>
+<span class='talk-transcript__fragment' data-time='254014' id='t-254014'>and in some sense it doesn't.</span>
+<span class='talk-transcript__fragment' data-time='255020' id='t-255020'>I'll come back to that later.</span>
+<span class='talk-transcript__fragment' data-time='256636' id='t-256636'>But the fact is that people couldn't take off</span>
+<span class='talk-transcript__fragment' data-time='258886' id='t-258886'>because something was going wrong on the Internet,</span>
+<span class='talk-transcript__fragment' data-time='261161' id='t-261161'>and the router card was down.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='263736' id='t-263736'>And so, there are many of those things that start to happen.</span>
+<span class='talk-transcript__fragment' data-time='267515' id='t-267515'>Now, there was an interesting thing that happened last April.</span>
+<span class='talk-transcript__fragment' data-time='270654' id='t-270654'>All of a sudden,</span>
+<span class='talk-transcript__fragment' data-time='272180' id='t-272180'>a very large percentage of the traffic on the whole Internet,</span>
+<span class='talk-transcript__fragment' data-time='275512' id='t-275512'>including a lot of the traffic between U.S. military installations,</span>
+<span class='talk-transcript__fragment' data-time='279643' id='t-279643'>started getting re-routed through China.</span>
+<span class='talk-transcript__fragment' data-time='282411' id='t-282411'>So for a few hours, it all passed through China.</span>
+<span class='talk-transcript__fragment' data-time='285133' id='t-285133'>Now, China Telecom says it was just an honest mistake,</span>
+<span class='talk-transcript__fragment' data-time='289707' id='t-289707'>and it is actually possible that it was, the way things work,</span>
+<span class='talk-transcript__fragment' data-time='293564' id='t-293564'>but certainly somebody could make</span>
+<span class='talk-transcript__fragment' data-time='295599' id='t-295599'>a dishonest mistake of that sort if they wanted to,</span>
+<span class='talk-transcript__fragment' data-time='298872' id='t-298872'>and it shows you how vulnerable the system is even to mistakes.</span>
+<span class='talk-transcript__fragment' data-time='302230' id='t-302230'>Imagine how vulnerable the system is to deliberate attacks.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='307151' id='t-307151'>So if somebody really wanted to attack the United States</span>
+<span class='talk-transcript__fragment' data-time='310549' id='t-310549'>or Western civilization these days,</span>
+<span class='talk-transcript__fragment' data-time='312641' id='t-312641'>they're not going to do it with tanks.</span>
+<span class='talk-transcript__fragment' data-time='314830' id='t-314830'>That will not succeed.</span>
+<span class='talk-transcript__fragment' data-time='317243' id='t-317243'>What they'll probably do is something</span>
+<span class='talk-transcript__fragment' data-time='319246' id='t-319246'>very much like the attack that happened</span>
+<span class='talk-transcript__fragment' data-time='322537' id='t-322537'>on the Iranian nuclear facility.</span>
+<span class='talk-transcript__fragment' data-time='325244' id='t-325244'>Nobody has claimed credit for that.</span>
+<span class='talk-transcript__fragment' data-time='327518' id='t-327518'>There was basically a factory of industrial machines.</span>
+<span class='talk-transcript__fragment' data-time='331025' id='t-331025'>It didn't think of itself as being on the Internet.</span>
+<span class='talk-transcript__fragment' data-time='333602' id='t-333602'>It thought of itself as being disconnected from the Internet,</span>
+<span class='talk-transcript__fragment' data-time='336189' id='t-336189'>but it was possible for somebody to smuggle</span>
+<span class='talk-transcript__fragment' data-time='338136' id='t-338136'>a USB drive in there, or something like that,</span>
+<span class='talk-transcript__fragment' data-time='340668' id='t-340668'>and software got in there that causes the centrifuges,</span>
+<span class='talk-transcript__fragment' data-time='344064' id='t-344064'>in that case, to actually destroy themselves.</span>
+<span class='talk-transcript__fragment' data-time='347057' id='t-347057'>Now that same kind of software could destroy an oil refinery</span>
+<span class='talk-transcript__fragment' data-time='349723' id='t-349723'>or a pharmaceutical factory or a semiconductor plant.</span>
+<span class='talk-transcript__fragment' data-time='354145' id='t-354145'>And so there's a lot of -- I'm sure you've read a lot in papers,</span>
+<span class='talk-transcript__fragment' data-time='357411' id='t-357411'>about worries about cyberattacks</span>
+<span class='talk-transcript__fragment' data-time='359602' id='t-359602'>and defenses against those.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='362212' id='t-362212'>But the fact is, people are mostly focused on</span>
+<span class='talk-transcript__fragment' data-time='364192' id='t-364192'>defending the computers on the Internet,</span>
+<span class='talk-transcript__fragment' data-time='366475' id='t-366475'>and there's been surprisingly little attention</span>
+<span class='talk-transcript__fragment' data-time='368861' id='t-368861'>to defending the Internet itself as a communications medium.</span>
+<span class='talk-transcript__fragment' data-time='373226' id='t-373226'>And I think we probably do need to pay</span>
+<span class='talk-transcript__fragment' data-time='375089' id='t-375089'>some more attention to that, because it's actually kind of fragile.</span>
+<span class='talk-transcript__fragment' data-time='378177' id='t-378177'>So actually, in the early days,</span>
+<span class='talk-transcript__fragment' data-time='381104' id='t-381104'>back when it was the ARPANET,</span>
+<span class='talk-transcript__fragment' data-time='382828' id='t-382828'>there were actually times -- there was a particular time it failed completely</span>
+<span class='talk-transcript__fragment' data-time='386417' id='t-386417'>because one single message processor</span>
+<span class='talk-transcript__fragment' data-time='389702' id='t-389702'>actually got a bug in it.</span>
+<span class='talk-transcript__fragment' data-time='392178' id='t-392178'>And the way the Internet works is</span>
+<span class='talk-transcript__fragment' data-time='394450' id='t-394450'>the routers are basically exchanging information</span>
+<span class='talk-transcript__fragment' data-time='398017' id='t-398017'>about how they can get messages to places,</span>
+<span class='talk-transcript__fragment' data-time='400607' id='t-400607'>and this one processor, because of a broken card,</span>
+<span class='talk-transcript__fragment' data-time='404505' id='t-404505'>decided it could actually get a message</span>
+<span class='talk-transcript__fragment' data-time='406514' id='t-406514'>to some place in negative time.</span>
+<span class='talk-transcript__fragment' data-time='409202' id='t-409202'>So, in other words, it claimed it could deliver a message before you sent it.</span>
+<span class='talk-transcript__fragment' data-time='413185' id='t-413185'>So of course, the fastest way to get a message anywhere</span>
+<span class='talk-transcript__fragment' data-time='416335' id='t-416335'>was to send it to this guy,</span>
+<span class='talk-transcript__fragment' data-time='418211' id='t-418211'>who would send it back in time and get it there super early,</span>
+<span class='talk-transcript__fragment' data-time='421758' id='t-421758'>so every message in the Internet</span>
+<span class='talk-transcript__fragment' data-time='424614' id='t-424614'>started getting switched through this one node,</span>
+<span class='talk-transcript__fragment' data-time='427856' id='t-427856'>and of course that clogged everything up.</span>
+<span class='talk-transcript__fragment' data-time='429372' id='t-429372'>Everything started breaking.</span>
+<span class='talk-transcript__fragment' data-time='431527' id='t-431527'>The interesting thing was, though,</span>
+<span class='talk-transcript__fragment' data-time='433567' id='t-433567'>that the sysadmins were able to fix it,</span>
+<span class='talk-transcript__fragment' data-time='435407' id='t-435407'>but they had to basically turn every single thing on the Internet off.</span>
+<span class='talk-transcript__fragment' data-time='440189' id='t-440189'>Now, of course you couldn't do that today.</span>
+<span class='talk-transcript__fragment' data-time='441587' id='t-441587'>I mean, everything off, it's like</span>
+<span class='talk-transcript__fragment' data-time='443981' id='t-443981'>the service call you get from the cable company,</span>
+<span class='talk-transcript__fragment' data-time='446213' id='t-446213'>except for the whole world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='449974' id='t-449974'>Now, in fact, they couldn't do it for a lot of reasons today.</span>
+<span class='talk-transcript__fragment' data-time='452033' id='t-452033'>One of the reasons is a lot of their telephones</span>
+<span class='talk-transcript__fragment' data-time='454655' id='t-454655'>use IP protocol and use things like Skype and so on</span>
+<span class='talk-transcript__fragment' data-time='457624' id='t-457624'>that go through the Internet right now,</span>
+<span class='talk-transcript__fragment' data-time='459693' id='t-459693'>and so in fact we're becoming dependent on it</span>
+<span class='talk-transcript__fragment' data-time='462975' id='t-462975'>for more and more different things,</span>
+<span class='talk-transcript__fragment' data-time='464767' id='t-464767'>like when you take off from LAX,</span>
+<span class='talk-transcript__fragment' data-time='467705' id='t-467705'>you're really not thinking you're using the Internet.</span>
+<span class='talk-transcript__fragment' data-time='469586' id='t-469586'>When you pump gas, you really don't think you're using the Internet.</span>
+<span class='talk-transcript__fragment' data-time='473702' id='t-473702'>What's happening increasingly, though, is these systems</span>
+<span class='talk-transcript__fragment' data-time='475827' id='t-475827'>are beginning to use the Internet.</span>
+<span class='talk-transcript__fragment' data-time='477694' id='t-477694'>Most of them aren't based on the Internet yet,</span>
+<span class='talk-transcript__fragment' data-time='480744' id='t-480744'>but they're starting to use the Internet for service functions,</span>
+<span class='talk-transcript__fragment' data-time='483280' id='t-483280'>for administrative functions,</span>
+<span class='talk-transcript__fragment' data-time='485185' id='t-485185'>and so if you take something like the cell phone system,</span>
+<span class='talk-transcript__fragment' data-time='488248' id='t-488248'>which is still relatively independent of the Internet for the most part,</span>
+<span class='talk-transcript__fragment' data-time='492568' id='t-492568'>Internet pieces are beginning to sneak into it</span>
+<span class='talk-transcript__fragment' data-time='495527' id='t-495527'>in terms of some of the control and administrative functions,</span>
+<span class='talk-transcript__fragment' data-time='499331' id='t-499331'>and it's so tempting to use these same building blocks</span>
+<span class='talk-transcript__fragment' data-time='501661' id='t-501661'>because they work so well, they're cheap,</span>
+<span class='talk-transcript__fragment' data-time='503925' id='t-503925'>they're repeated, and so on.</span>
+<span class='talk-transcript__fragment' data-time='505025' id='t-505025'>So all of our systems, more and more,</span>
+<span class='talk-transcript__fragment' data-time='507797' id='t-507797'>are starting to use the same technology</span>
+<span class='talk-transcript__fragment' data-time='509577' id='t-509577'>and starting to depend on this technology.</span>
+<span class='talk-transcript__fragment' data-time='511644' id='t-511644'>And so even a modern rocket ship these days</span>
+<span class='talk-transcript__fragment' data-time='514069' id='t-514069'>actually uses Internet protocol to talk</span>
+<span class='talk-transcript__fragment' data-time='516795' id='t-516795'>from one end of the rocket ship to the other.</span>
+<span class='talk-transcript__fragment' data-time='518611' id='t-518611'>That's crazy. It was never designed to do things like that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='521797' id='t-521797'>So we've built this system</span>
+<span class='talk-transcript__fragment' data-time='524914' id='t-524914'>where we understand all the parts of it,</span>
+<span class='talk-transcript__fragment' data-time='528024' id='t-528024'>but we're using it in a very, very different way than we expected to use it,</span>
+<span class='talk-transcript__fragment' data-time='531722' id='t-531722'>and it's gotten a very, very different scale</span>
+<span class='talk-transcript__fragment' data-time='534161' id='t-534161'>than it was designed for.</span>
+<span class='talk-transcript__fragment' data-time='536332' id='t-536332'>And in fact, nobody really exactly understands</span>
+<span class='talk-transcript__fragment' data-time='539008' id='t-539008'>all the things it's being used for right now.</span>
+<span class='talk-transcript__fragment' data-time='541271' id='t-541271'>It's turning into one of these big emergent systems</span>
+<span class='talk-transcript__fragment' data-time='543774' id='t-543774'>like the financial system, where we've designed all the parts</span>
+<span class='talk-transcript__fragment' data-time='547255' id='t-547255'>but nobody really exactly understands</span>
+<span class='talk-transcript__fragment' data-time='549861' id='t-549861'>how it operates and all the little details of it</span>
+<span class='talk-transcript__fragment' data-time='553088' id='t-553088'>and what kinds of emergent behaviors it can have.</span>
+<span class='talk-transcript__fragment' data-time='555807' id='t-555807'>And so if you hear an expert talking about the Internet</span>
+<span class='talk-transcript__fragment' data-time='558940' id='t-558940'>and saying it can do this, or it does do this, or it will do that,</span>
+<span class='talk-transcript__fragment' data-time='561635' id='t-561635'>you should treat it with the same skepticism</span>
+<span class='talk-transcript__fragment' data-time='564096' id='t-564096'>that you might treat the comments of an economist about the economy</span>
+<span class='talk-transcript__fragment' data-time='568511' id='t-568511'>or a weatherman about the weather, or something like that.</span>
+<span class='talk-transcript__fragment' data-time='570778' id='t-570778'>They have an informed opinion,</span>
+<span class='talk-transcript__fragment' data-time='573426' id='t-573426'>but it's changing so quickly that even the experts</span>
+<span class='talk-transcript__fragment' data-time='575967' id='t-575967'>don't know exactly what's going on.</span>
+<span class='talk-transcript__fragment' data-time='577785' id='t-577785'>So if you see one of these maps of the Internet,</span>
+<span class='talk-transcript__fragment' data-time='580477' id='t-580477'>it's just somebody's guess.</span>
+<span class='talk-transcript__fragment' data-time='582143' id='t-582143'>Nobody really knows what the Internet is right now</span>
+<span class='talk-transcript__fragment' data-time='584341' id='t-584341'>because it's different than it was an hour ago.</span>
+<span class='talk-transcript__fragment' data-time='587082' id='t-587082'>It's constantly changing. It's constantly reconfiguring.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='589883' id='t-589883'>And the problem with it is,</span>
+<span class='talk-transcript__fragment' data-time='591397' id='t-591397'>I think we are setting ourselves up for a kind of disaster</span>
+<span class='talk-transcript__fragment' data-time='594738' id='t-594738'>like the disaster we had in the financial system,</span>
+<span class='talk-transcript__fragment' data-time='597533' id='t-597533'>where we take a system that's basically built on trust,</span>
+<span class='talk-transcript__fragment' data-time='602877' id='t-602877'>was basically built for a smaller-scale system,</span>
+<span class='talk-transcript__fragment' data-time='605498' id='t-605498'>and we've kind of expanded it way beyond the limits</span>
+<span class='talk-transcript__fragment' data-time='608407' id='t-608407'>of how it was meant to operate.</span>
+<span class='talk-transcript__fragment' data-time='610403' id='t-610403'>And so right now, I think it's literally true</span>
+<span class='talk-transcript__fragment' data-time='613671' id='t-613671'>that we don't know what the consequences</span>
+<span class='talk-transcript__fragment' data-time='617176' id='t-617176'>of an effective denial-of-service attack</span>
+<span class='talk-transcript__fragment' data-time='619610' id='t-619610'>on the Internet would be,</span>
+<span class='talk-transcript__fragment' data-time='621383' id='t-621383'>and whatever it would be is going to be worse next year,</span>
+<span class='talk-transcript__fragment' data-time='623257' id='t-623257'>and worse next year, and so on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='624665' id='t-624665'>But so what we need is a plan B.</span>
+<span class='talk-transcript__fragment' data-time='627214' id='t-627214'>There is no plan B right now.</span>
+<span class='talk-transcript__fragment' data-time='628846' id='t-628846'>There's no clear backup system that we've very carefully kept</span>
+<span class='talk-transcript__fragment' data-time='632349' id='t-632349'>to be independent of the Internet,</span>
+<span class='talk-transcript__fragment' data-time='634295' id='t-634295'>made out of completely different sets of building blocks.</span>
+<span class='talk-transcript__fragment' data-time='637361' id='t-637361'>So what we need is something that doesn't necessarily</span>
+<span class='talk-transcript__fragment' data-time='640374' id='t-640374'>have to have the performance of the Internet,</span>
+<span class='talk-transcript__fragment' data-time='643108' id='t-643108'>but the police department has to be able</span>
+<span class='talk-transcript__fragment' data-time='644625' id='t-644625'>to call up the fire department even without the Internet,</span>
+<span class='talk-transcript__fragment' data-time='647148' id='t-647148'>or the hospitals have to order fuel oil.</span>
+<span class='talk-transcript__fragment' data-time='649713' id='t-649713'>This doesn't need to be a multi-billion-dollar government project.</span>
+<span class='talk-transcript__fragment' data-time='654327' id='t-654327'>It's actually relatively simple to do, technically,</span>
+<span class='talk-transcript__fragment' data-time='657075' id='t-657075'>because it can use existing fibers that are in the ground,</span>
+<span class='talk-transcript__fragment' data-time='660877' id='t-660877'>existing wireless infrastructure.</span>
+<span class='talk-transcript__fragment' data-time='662836' id='t-662836'>It's basically a matter of deciding to do it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='665601' id='t-665601'>But people won't decide to do it</span>
+<span class='talk-transcript__fragment' data-time='668085' id='t-668085'>until they recognize the need for it,</span>
+<span class='talk-transcript__fragment' data-time='670464' id='t-670464'>and that's the problem that we have right now.</span>
+<span class='talk-transcript__fragment' data-time='671962' id='t-671962'>So there's been plenty of people,</span>
+<span class='talk-transcript__fragment' data-time='674745' id='t-674745'>plenty of us have been quietly arguing</span>
+<span class='talk-transcript__fragment' data-time='677789' id='t-677789'>that we should have this independent system for years,</span>
+<span class='talk-transcript__fragment' data-time='680707' id='t-680707'>but it's very hard to get people focused on plan B</span>
+<span class='talk-transcript__fragment' data-time='683716' id='t-683716'>when plan A seems to be working so well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='687390' id='t-687390'>So I think that, if people understand</span>
+<span class='talk-transcript__fragment' data-time='690819' id='t-690819'>how much we're starting to depend on the Internet,</span>
+<span class='talk-transcript__fragment' data-time='693873' id='t-693873'>and how vulnerable it is,</span>
+<span class='talk-transcript__fragment' data-time='695850' id='t-695850'>we could get focused on</span>
+<span class='talk-transcript__fragment' data-time='697956' id='t-697956'>just wanting this other system to exist,</span>
+<span class='talk-transcript__fragment' data-time='700980' id='t-700980'>and I think if enough people say, &quot;Yeah, I would like to use it,</span>
+<span class='talk-transcript__fragment' data-time='704057' id='t-704057'>I'd like to have such a system,&quot; then it will get built.</span>
+<span class='talk-transcript__fragment' data-time='707067' id='t-707067'>It's not that hard a problem.</span>
+<span class='talk-transcript__fragment' data-time='708490' id='t-708490'>It could definitely be done by people in this room.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='711725' id='t-711725'>And so I think that this is actually,</span>
+<span class='talk-transcript__fragment' data-time='716084' id='t-716084'>of all the problems you're going to hear about at the conference,</span>
+<span class='talk-transcript__fragment' data-time='719263' id='t-719263'>this is probably one of the very easiest to fix.</span>
+<span class='talk-transcript__fragment' data-time='721941' id='t-721941'>So I'm happy to get a chance to tell you about it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='724708' id='t-724708'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='727319' id='t-727319'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

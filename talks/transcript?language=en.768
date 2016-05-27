@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Gero Miesenboeck: Re-engineering the brain | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Gero Miesenboeck: Re-engineering the brain | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: In the quest to map the brain, many scientists have attempted the incredibly daunting task of recording the activity of each neuron. Gero Miesenboeck works backward -- manipulating specific neurons to figure out exactly what they do, through a series of stunning experiments that reengineer the way fruit flies percieve light." name="description" />
+<meta content="Gero Miesenboeck" name="author" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/gero_miesenboeck/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Re-engineering the brain&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/51f652b9ff6854867d1d7abb2683caf1d8dd22fb_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/51f652b9ff6854867d1d7abb2683caf1d8dd22fb_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: In the quest to map the brain, many scientists have attempted the incredibly daunting task of recording the activity of each neuron. Gero Miesenboeck works backward -- manipulating specific neurons to figure out exactly what they do, through a series of stunning experiments that reengineer the way fruit flies percieve light." property="og:description" />
+<meta content="http://www.ted.com/talks/gero_miesenboeck/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1000?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='gero_miesenboeck'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1000?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1054" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/51f652b9ff6854867d1d7abb2683caf1d8dd22fb_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:34</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Gero Miesenboeck</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1000?language=en' lang='en'>
+Re-engineering the brain
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2010
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I have a doppelganger.</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>Dr. Gero is a brilliant</span>
+<span class='talk-transcript__fragment' data-time='9000' id='t-9000'>but slightly mad scientist</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>in the &quot;Dragonball Z: Android Saga.&quot;</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>If you look very carefully,</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>you see that his skull has been replaced</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>with a transparent Plexiglas dome</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>so that the workings of his brain can be observed</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>and also controlled with light.</span>
+<span class='talk-transcript__fragment' data-time='27000' id='t-27000'>That's exactly what I do --</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>optical mind control.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>But in contrast to my evil twin</span>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>who lusts after world domination,</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>my motives are not sinister.</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>I control the brain</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>in order to understand how it works.</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>Now wait a minute, you may say,</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>how can you go straight to controlling the brain</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>without understanding it first?</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>Isn't that putting the cart before the horse?</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>Many neuroscientists agree with this view</span>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>and think that understanding will come</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>from more detailed observation and analysis.</span>
+<span class='talk-transcript__fragment' data-time='65000' id='t-65000'>They say, &quot;If we could record the activity of our neurons,</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>we would understand the brain.&quot;</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>But think for a moment what that means.</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>Even if we could measure</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>what every cell is doing at all times,</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>we would still have to make sense</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>of the recorded activity patterns,</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>and that's so difficult,</span>
+<span class='talk-transcript__fragment' data-time='85000' id='t-85000'>chances are we'll understand these patterns</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>just as little as the brains that produce them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>Take a look at what brain activity might look like.</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>In this simulation, each black dot</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>is one nerve cell.</span>
+<span class='talk-transcript__fragment' data-time='97000' id='t-97000'>The dot is visible</span>
+<span class='talk-transcript__fragment' data-time='99000' id='t-99000'>whenever a cell fires an electrical impulse.</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>There's 10,000 neurons here.</span>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>So you're looking at roughly one percent</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>of the brain of a cockroach.</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>Your brains are about 100 million times</span>
+<span class='talk-transcript__fragment' data-time='112000' id='t-112000'>more complicated.</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>Somewhere, in a pattern like this,</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>is you,</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>your perceptions,</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>your emotions, your memories,</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>your plans for the future.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>But we don't know where,</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>since we don't know how to read the pattern.</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>We don't understand the code used by the brain.</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>To make progress,</span>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>we need to break the code.</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>But how?</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>An experienced code-breaker will tell you</span>
+<span class='talk-transcript__fragment' data-time='142000' id='t-142000'>that in order to figure out what the symbols in a code mean,</span>
+<span class='talk-transcript__fragment' data-time='145000' id='t-145000'>it's essential to be able to play with them,</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>to rearrange them at will.</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>So in this situation too,</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>to decode the information</span>
+<span class='talk-transcript__fragment' data-time='154000' id='t-154000'>contained in patterns like this,</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>watching alone won't do.</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>We need to rearrange the pattern.</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>In other words,</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>instead of recording the activity of neurons,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>we need to control it.</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>It's not essential that we can control</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>the activity of all neurons in the brain, just some.</span>
+<span class='talk-transcript__fragment' data-time='171000' id='t-171000'>The more targeted our interventions, the better.</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>And I'll show you in a moment</span>
+<span class='talk-transcript__fragment' data-time='175000' id='t-175000'>how we can achieve the necessary precision.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>And since I'm realistic, rather than grandiose,</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>I don't claim that the ability to control the function of the nervous system</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>will at once unravel all its mysteries.</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>But we'll certainly learn a lot.</span>
+<span class='talk-transcript__fragment' data-time='192000' id='t-192000'>Now, I'm by no means</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>the first person to realize</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>how powerful a tool intervention is.</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>The history of attempts</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>to tinker with the function of the nervous system</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>is long and illustrious.</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>It dates back at least 200 years,</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>to Galvani's famous experiments</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>in the late 18th century and beyond.</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>Galvani showed that a frog's legs twitched</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>when he connected the lumbar nerve</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>to a source of electrical current.</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>This experiment revealed the first, and perhaps most fundamental,</span>
+<span class='talk-transcript__fragment' data-time='225000' id='t-225000'>nugget of the neural code:</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>that information is written in the form</span>
+<span class='talk-transcript__fragment' data-time='229000' id='t-229000'>of electrical impulses.</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>Galvani's approach</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>of probing the nervous system with electrodes</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>has remained state-of-the-art until today,</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>despite a number of drawbacks.</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>Sticking wires into the brain is obviously rather crude.</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>It's hard to do in animals that run around,</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>and there is a physical limit</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>to the number of wires</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>that can be inserted simultaneously.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>So around the turn of the last century,</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>I started to think,</span>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>&quot;Wouldn't it be wonderful if one could take this logic</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>and turn it upside down?&quot;</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>So instead of inserting a wire</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>into one spot of the brain,</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>re-engineer the brain itself</span>
+<span class='talk-transcript__fragment' data-time='271000' id='t-271000'>so that some of its neural elements</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>become responsive to diffusely broadcast signals</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>such as a flash of light.</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>Such an approach would literally, in a flash of light,</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>overcome many of the obstacles to discovery.</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>First, it's clearly a non-invasive,</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>wireless form of communication.</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>And second, just as in a radio broadcast,</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>you can communicate with many receivers at once.</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>You don't need to know where these receivers are,</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>and it doesn't matter if these receivers move --</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>just think of the stereo in your car.</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>It gets even better,</span>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>for it turns out that we can fabricate the receivers</span>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>out of materials that are encoded in DNA.</span>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>So each nerve cell</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>with the right genetic makeup</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>will spontaneously produce a receiver</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>that allows us to control its function.</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>I hope you'll appreciate</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>the beautiful simplicity</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>of this concept.</span>
+<span class='talk-transcript__fragment' data-time='330000' id='t-330000'>There's no high-tech gizmos here,</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>just biology revealed through biology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>Now let's take a look at these miraculous receivers up close.</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>As we zoom in on one of these purple neurons,</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>we see that its outer membrane</span>
+<span class='talk-transcript__fragment' data-time='344000' id='t-344000'>is studded with microscopic pores.</span>
+<span class='talk-transcript__fragment' data-time='346000' id='t-346000'>Pores like these conduct electrical current</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>and are responsible</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>for all the communication in the nervous system.</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>But these pores here are special.</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>They are coupled to light receptors</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>similar to the ones in your eyes.</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>Whenever a flash of light hits the receptor,</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>the pore opens, an electrical current is switched on,</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>and the neuron fires electrical impulses.</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>Because the light-activated pore is encoded in DNA,</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>we can achieve incredible precision.</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>This is because,</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>although each cell in our bodies</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>contains the same set of genes,</span>
+<span class='talk-transcript__fragment' data-time='379000' id='t-379000'>different mixes of genes get turned on and off</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>in different cells.</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>You can exploit this to make sure</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>that only some neurons</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>contain our light-activated pore and others don't.</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>So in this cartoon, the bluish white cell</span>
+<span class='talk-transcript__fragment' data-time='392000' id='t-392000'>in the upper-left corner</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>does not respond to light</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>because it lacks the light-activated pore.</span>
+<span class='talk-transcript__fragment' data-time='399000' id='t-399000'>The approach works so well</span>
+<span class='talk-transcript__fragment' data-time='401000' id='t-401000'>that we can write purely artificial messages</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>directly to the brain.</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>In this example, each electrical impulse,</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>each deflection on the trace,</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>is caused by a brief pulse of light.</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>And the approach, of course, also works</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>in moving, behaving animals.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>This is the first ever such experiment,</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>sort of the optical equivalent of Galvani's.</span>
+<span class='talk-transcript__fragment' data-time='423000' id='t-423000'>It was done six or seven years ago</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>by my then graduate student, Susana Lima.</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>Susana had engineered the fruit fly on the left</span>
+<span class='talk-transcript__fragment' data-time='431000' id='t-431000'>so that just two out of the 200,000 cells in its brain</span>
+<span class='talk-transcript__fragment' data-time='435000' id='t-435000'>expressed the light-activated pore.</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>You're familiar with these cells</span>
+<span class='talk-transcript__fragment' data-time='440000' id='t-440000'>because they are the ones that frustrate you</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>when you try to swat the fly.</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>They trained the escape reflex that makes the fly jump into the air</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>and fly away whenever you move your hand in position.</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>And you can see here that the flash of light has exactly the same effect.</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>The animal jumps, it spreads its wings, it vibrates them,</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>but it can't actually take off</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>because the fly is sandwiched between two glass plates.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>Now to make sure that this was no reaction of the fly</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>to a flash it could see,</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>Susana did a simple</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>but brutally effective experiment.</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>She cut the heads off of her flies.</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>These headless bodies can live for about a day,</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>but they don't do much.</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>They just stand around</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>and groom excessively.</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>So it seems that the only trait that survives decapitation is vanity.</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>Anyway, as you'll see in a moment,</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>Susana was able to turn on the flight motor</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>of what's the equivalent of the spinal cord of these flies</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>and get some of the headless bodies</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>to actually take off and fly away.</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>They didn't get very far, obviously.</span>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>Since we took these first steps,</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>the field of optogenetics has exploded.</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>And there are now hundreds of labs</span>
+<span class='talk-transcript__fragment' data-time='522000' id='t-522000'>using these approaches.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='524000' id='t-524000'>And we've come a long way</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>since Galvani's and Susana's first successes</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>in making animals twitch or jump.</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>We can now actually interfere with their psychology</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>in rather profound ways,</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>as I'll show you in my last example,</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>which is directed at a familiar question.</span>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>Life is a string of choices</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>creating a constant pressure to decide what to do next.</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>We cope with this pressure by having brains,</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>and within our brains, decision-making centers</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>that I've called here the &quot;Actor.&quot;</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>The Actor implements a policy that takes into account</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>the state of the environment</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>and the context in which we operate.</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>Our actions change the environment, or context,</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>and these changes are then fed back into the decision loop.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>Now to put some neurobiological meat</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>on this abstract model,</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>we constructed a simple one-dimensional world</span>
+<span class='talk-transcript__fragment' data-time='580000' id='t-580000'>for our favorite subject, fruit flies.</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>Each chamber in these two vertical stacks</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>contains one fly.</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>The left and the right halves of the chamber</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>are filled with two different odors,</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>and a security camera watches</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>as the flies pace up and down between them.</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>Here's some such CCTV footage.</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>Whenever a fly reaches the midpoint of the chamber</span>
+<span class='talk-transcript__fragment' data-time='602000' id='t-602000'>where the two odor streams meet,</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>it has to make a decision.</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>It has to decide whether to turn around</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>and stay in the same odor,</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>or whether to cross the midline</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>and try something new.</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>These decisions are clearly a reflection</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>of the Actor's policy.</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>Now for an intelligent being like our fly,</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>this policy is not written in stone</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>but rather changes as the animal learns from experience.</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>We can incorporate such an element</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>of adaptive intelligence into our model</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>by assuming that the fly's brain</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>contains not only an Actor,</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>but a different group of cells,</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>a &quot;Critic,&quot; that provides a running commentary</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>on the Actor's choices.</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>You can think of this nagging inner voice</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>as sort of the brain's equivalent</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>of the Catholic Church,</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>if you're an Austrian like me,</span>
+<span class='talk-transcript__fragment' data-time='656000' id='t-656000'>or the super-ego, if you're Freudian,</span>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>or your mother, if you're Jewish.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>Now obviously,</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>the Critic is a key ingredient</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>in what makes us intelligent.</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>So we set out to identify</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>the cells in the fly's brain</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>that played the role of the Critic.</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>And the logic of our experiment was simple.</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>We thought if we could use our optical remote control</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>to activate the cells of the Critic,</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>we should be able, artificially, to nag the Actor</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>into changing its policy.</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>In other words,</span>
+<span class='talk-transcript__fragment' data-time='694000' id='t-694000'>the fly should learn from mistakes</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>that it thought it had made</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>but, in reality, it had not made.</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>So we bred flies</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>whose brains were more or less randomly peppered</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>with cells that were light addressable.</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>And then we took these flies</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>and allowed them to make choices.</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>And whenever they made one of the two choices,</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>chose one odor,</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>in this case the blue one over the orange one,</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>we switched on the lights.</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>If the Critic was among the optically activated cells,</span>
+<span class='talk-transcript__fragment' data-time='723000' id='t-723000'>the result of this intervention</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>should be a change in policy.</span>
+<span class='talk-transcript__fragment' data-time='728000' id='t-728000'>The fly should learn to avoid</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>the optically reinforced odor.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='732000' id='t-732000'>Here's what happened in two instances:</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>We're comparing two strains of flies,</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>each of them having</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>about 100 light-addressable cells in their brains,</span>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>shown here in green on the left and on the right.</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>What's common among these groups of cells</span>
+<span class='talk-transcript__fragment' data-time='748000' id='t-748000'>is that they all produce the neurotransmitter dopamine.</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>But the identities of the individual</span>
+<span class='talk-transcript__fragment' data-time='753000' id='t-753000'>dopamine-producing neurons</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>are clearly largely different on the left and on the right.</span>
+<span class='talk-transcript__fragment' data-time='758000' id='t-758000'>Optically activating</span>
+<span class='talk-transcript__fragment' data-time='760000' id='t-760000'>these hundred or so cells</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>into two strains of flies</span>
+<span class='talk-transcript__fragment' data-time='764000' id='t-764000'>has dramatically different consequences.</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>If you look first at the behavior</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>of the fly on the right,</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>you can see that whenever it reaches the midpoint of the chamber</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>where the two odors meet,</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>it marches straight through, as it did before.</span>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>Its behavior is completely unchanged.</span>
+<span class='talk-transcript__fragment' data-time='780000' id='t-780000'>But the behavior of the fly on the left is very different.</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>Whenever it comes up to the midpoint,</span>
+<span class='talk-transcript__fragment' data-time='786000' id='t-786000'>it pauses,</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>it carefully scans the odor interface</span>
+<span class='talk-transcript__fragment' data-time='790000' id='t-790000'>as if it was sniffing out its environment,</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>and then it turns around.</span>
+<span class='talk-transcript__fragment' data-time='794000' id='t-794000'>This means that the policy that the Actor implements</span>
+<span class='talk-transcript__fragment' data-time='797000' id='t-797000'>now includes an instruction to avoid the odor</span>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>that's in the right half of the chamber.</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>This means that the Critic</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>must have spoken in that animal,</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>and that the Critic must be contained</span>
+<span class='talk-transcript__fragment' data-time='808000' id='t-808000'>among the dopamine-producing neurons on the left,</span>
+<span class='talk-transcript__fragment' data-time='811000' id='t-811000'>but not among the dopamine producing neurons on the right.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='814000' id='t-814000'>Through many such experiments,</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>we were able to narrow down</span>
+<span class='talk-transcript__fragment' data-time='819000' id='t-819000'>the identity of the Critic</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>to just 12 cells.</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>These 12 cells, as shown here in green,</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>send the output to a brain structure</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>called the &quot;mushroom body,&quot;</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>which is shown here in gray.</span>
+<span class='talk-transcript__fragment' data-time='832000' id='t-832000'>We know from our formal model</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>that the brain structure</span>
+<span class='talk-transcript__fragment' data-time='836000' id='t-836000'>at the receiving end of the Critic's commentary is the Actor.</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>So this anatomy suggests</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>that the mushroom bodies have something to do</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>with action choice.</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>Based on everything we know about the mushroom bodies,</span>
+<span class='talk-transcript__fragment' data-time='848000' id='t-848000'>this makes perfect sense.</span>
+<span class='talk-transcript__fragment' data-time='850000' id='t-850000'>In fact, it makes so much sense</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>that we can construct an electronic toy circuit</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>that simulates the behavior of the fly.</span>
+<span class='talk-transcript__fragment' data-time='858000' id='t-858000'>In this electronic toy circuit,</span>
+<span class='talk-transcript__fragment' data-time='861000' id='t-861000'>the mushroom body neurons are symbolized</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>by the vertical bank of blue LEDs</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>in the center of the board.</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>These LED's are wired to sensors</span>
+<span class='talk-transcript__fragment' data-time='871000' id='t-871000'>that detect the presence of odorous molecules in the air.</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>Each odor activates a different combination of sensors,</span>
+<span class='talk-transcript__fragment' data-time='878000' id='t-878000'>which in turn activates</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>a different odor detector in the mushroom body.</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>So the pilot in the cockpit of the fly,</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>the Actor,</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>can tell which odor is present</span>
+<span class='talk-transcript__fragment' data-time='889000' id='t-889000'>simply by looking at which of the blue LEDs lights up.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='894000' id='t-894000'>What the Actor does with this information</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>depends on its policy,</span>
+<span class='talk-transcript__fragment' data-time='898000' id='t-898000'>which is stored in the strengths of the connection,</span>
+<span class='talk-transcript__fragment' data-time='900000' id='t-900000'>between the odor detectors</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>and the motors</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>that power the fly's evasive actions.</span>
+<span class='talk-transcript__fragment' data-time='907000' id='t-907000'>If the connection is weak, the motors will stay off</span>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>and the fly will continue straight on its course.</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>If the connection is strong, the motors will turn on</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>and the fly will initiate a turn.</span>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>Now consider a situation</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>in which the motors stay off,</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>the fly continues on its path</span>
+<span class='talk-transcript__fragment' data-time='925000' id='t-925000'>and it suffers some painful consequence</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>such as getting zapped.</span>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>In a situation like this,</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>we would expect the Critic to speak up</span>
+<span class='talk-transcript__fragment' data-time='933000' id='t-933000'>and to tell the Actor</span>
+<span class='talk-transcript__fragment' data-time='935000' id='t-935000'>to change its policy.</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>We have created such a situation, artificially,</span>
+<span class='talk-transcript__fragment' data-time='940000' id='t-940000'>by turning on the critic with a flash of light.</span>
+<span class='talk-transcript__fragment' data-time='943000' id='t-943000'>That caused a strengthening of the connections</span>
+<span class='talk-transcript__fragment' data-time='946000' id='t-946000'>between the currently active odor detector</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>and the motors.</span>
+<span class='talk-transcript__fragment' data-time='951000' id='t-951000'>So the next time</span>
+<span class='talk-transcript__fragment' data-time='953000' id='t-953000'>the fly finds itself facing the same odor again,</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>the connection is strong enough to turn on the motors</span>
+<span class='talk-transcript__fragment' data-time='959000' id='t-959000'>and to trigger an evasive maneuver.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='964000' id='t-964000'>I don't know about you,</span>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>but I find it exhilarating to see</span>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>how vague psychological notions</span>
+<span class='talk-transcript__fragment' data-time='973000' id='t-973000'>evaporate and give rise</span>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>to a physical, mechanistic understanding of the mind,</span>
+<span class='talk-transcript__fragment' data-time='978000' id='t-978000'>even if it's the mind of the fly.</span>
+<span class='talk-transcript__fragment' data-time='981000' id='t-981000'>This is one piece of good news.</span>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>The other piece of good news,</span>
+<span class='talk-transcript__fragment' data-time='986000' id='t-986000'>for a scientist at least,</span>
+<span class='talk-transcript__fragment' data-time='988000' id='t-988000'>is that much remains to be discovered.</span>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>In the experiments I told you about,</span>
+<span class='talk-transcript__fragment' data-time='993000' id='t-993000'>we have lifted the identity of the Critic,</span>
+<span class='talk-transcript__fragment' data-time='996000' id='t-996000'>but we still have no idea</span>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>how the Critic does its job.</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>Come to think of it, knowing when you're wrong</span>
+<span class='talk-transcript__fragment' data-time='1002000' id='t-1002000'>without a teacher, or your mother, telling you,</span>
+<span class='talk-transcript__fragment' data-time='1005000' id='t-1005000'>is a very hard problem.</span>
+<span class='talk-transcript__fragment' data-time='1007000' id='t-1007000'>There are some ideas in computer science</span>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>and in artificial intelligence</span>
+<span class='talk-transcript__fragment' data-time='1011000' id='t-1011000'>as to how this might be done,</span>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>but we still haven't solved</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>a single example</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>of how intelligent behavior</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>springs from the physical interactions</span>
+<span class='talk-transcript__fragment' data-time='1022000' id='t-1022000'>in living matter.</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>I think we'll get there in the not too distant future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1029000' id='t-1029000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

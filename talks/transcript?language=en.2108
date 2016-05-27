@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Uri Hasson: This is your brain on communication | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Uri Hasson: This is your brain on communication | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Neuroscientist Uri Hasson researches the basis of human communication, and experiments from his lab reveal that even across different languages, our brains show similar activity, or become &quot;aligned,&quot; when we hear the same idea or story. This amazing neural mechanism allows us to transmit brain patterns, sharing memories and knowledge. &quot;We can communicate because we have a common code that presents meaning,&quot; Hasson says." name="description" />
+<meta content="Uri Hasson" name="author" />
+<link href="http://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication/transcript?language=en" hreflang="en" rel="alternate" />
+<meta content="Transcript of &quot;This is your brain on communication&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/353545d58703d32d2bd05323faa35b2cfc389e42_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/353545d58703d32d2bd05323faa35b2cfc389e42_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Neuroscientist Uri Hasson researches the basis of human communication, and experiments from his lab reveal that even across different languages, our brains show similar activity, or become &quot;aligned,&quot; when we hear the same idea or story. This amazing neural mechanism allows us to transmit brain patterns, sharing memories and knowledge. &quot;We can communicate because we have a common code that presents meaning,&quot; Hasson says." property="og:description" />
+<meta content="http://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592557,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2495?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='uri_hasson_this_is_your_brain_on_communication'>
+<option selected value='en'>English</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2495?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="891" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/353545d58703d32d2bd05323faa35b2cfc389e42_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:51</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Uri Hasson</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2495?language=en' lang='en'>
+This is your brain on communication
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+May 2016
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='806' id='t-806'>Imagine that you invented a device</span>
+<span class='talk-transcript__fragment' data-time='2905' id='t-2905'>that can record my memories,</span>
+<span class='talk-transcript__fragment' data-time='4601' id='t-4601'>my dreams, my ideas,</span>
+<span class='talk-transcript__fragment' data-time='6662' id='t-6662'>and transmit them to your brain.</span>
+<span class='talk-transcript__fragment' data-time='8755' id='t-8755'>That would be a game-changing
+technology, right?</span>
+<span class='talk-transcript__fragment' data-time='11854' id='t-11854'>But in fact, we already
+possess this device,</span>
+<span class='talk-transcript__fragment' data-time='14916' id='t-14916'>and it's called human communication system</span>
+<span class='talk-transcript__fragment' data-time='17584' id='t-17584'>and effective storytelling.</span>
+<span class='talk-transcript__fragment' data-time='19874' id='t-19874'>To understand how this device works,</span>
+<span class='talk-transcript__fragment' data-time='22358' id='t-22358'>we have to look into our brains.</span>
+<span class='talk-transcript__fragment' data-time='24797' id='t-24797'>And we have to formulate the question
+in a slightly different manner.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='28407' id='t-28407'>Now we have to ask</span>
+<span class='talk-transcript__fragment' data-time='30309' id='t-30309'>how these neuron patterns in my brain</span>
+<span class='talk-transcript__fragment' data-time='32949' id='t-32949'>that are associated
+with my memories and ideas</span>
+<span class='talk-transcript__fragment' data-time='36175' id='t-36175'>are transmitted into your brains.</span>
+<span class='talk-transcript__fragment' data-time='39702' id='t-39702'>And we think there are two factors
+that enable us to communicate.</span>
+<span class='talk-transcript__fragment' data-time='43094' id='t-43094'>First, your brain is now
+physically coupled to the sound wave</span>
+<span class='talk-transcript__fragment' data-time='47173' id='t-47173'>that I'm transmitting to your brain.</span>
+<span class='talk-transcript__fragment' data-time='49672' id='t-49672'>And second, we developed
+a common neural protocol</span>
+<span class='talk-transcript__fragment' data-time='53074' id='t-53074'>that enabled us to communicate.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='55459' id='t-55459'>So how do we know that?</span>
+<span class='talk-transcript__fragment' data-time='57292' id='t-57292'>In my lab in Princeton,</span>
+<span class='talk-transcript__fragment' data-time='59209' id='t-59209'>we bring people to the fMRI scanner
+and we scan their brains</span>
+<span class='talk-transcript__fragment' data-time='62738' id='t-62738'>while they are either telling
+or listening to real-life stories.</span>
+<span class='talk-transcript__fragment' data-time='66662' id='t-66662'>And to give you a sense
+of the stimulus we are using,</span>
+<span class='talk-transcript__fragment' data-time='69310' id='t-69310'>let me play 20 seconds
+from a story that we used,</span>
+<span class='talk-transcript__fragment' data-time='73318' id='t-73318'>told by a very talented storyteller,</span>
+<span class='talk-transcript__fragment' data-time='75666' id='t-75666'>Jim O'Grady.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78244' id='t-78244'>(Audio) Jim O'Grady: So I'm banging out
+my story and I know it's good,</span>
+<span class='talk-transcript__fragment' data-time='81601' id='t-81601'>and then I start to make it better --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='83915' id='t-83915'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='86423' id='t-86423'>by adding an element of embellishment.</span>
+<span class='talk-transcript__fragment' data-time='89502' id='t-89502'>Reporters call this &quot;making shit up.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='92834' id='t-92834'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='95735' id='t-95735'>And they recommend
+against crossing that line.</span>
+<span class='talk-transcript__fragment' data-time='100208' id='t-100208'>But I had just seen the line crossed
+between a high-powered dean</span>
+<span class='talk-transcript__fragment' data-time='104836' id='t-104836'>and assault with a pastry.</span>
+<span class='talk-transcript__fragment' data-time='106286' id='t-106286'>And I kinda liked it.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='107802' id='t-107802'>Uri Hasson: OK, so now
+let's look into your brain</span>
+<span class='talk-transcript__fragment' data-time='110200' id='t-110200'>and see what's happening
+when you listen to these kinds of stories.</span>
+<span class='talk-transcript__fragment' data-time='113452' id='t-113452'>And let's start simple -- let's start
+with one listener and one brain area:</span>
+<span class='talk-transcript__fragment' data-time='117520' id='t-117520'>the auditory cortex that processes
+the sounds that come from the ear.</span>
+<span class='talk-transcript__fragment' data-time='121033' id='t-121033'>And as you can see,
+in this particular brain area,</span>
+<span class='talk-transcript__fragment' data-time='123501' id='t-123501'>the responses are going up and down
+as the story is unfolding.</span>
+<span class='talk-transcript__fragment' data-time='127017' id='t-127017'>Now we can take these responses</span>
+<span class='talk-transcript__fragment' data-time='128634' id='t-128634'>and compare them to the responses
+in other listeners</span>
+<span class='talk-transcript__fragment' data-time='131459' id='t-131459'>in the same brain area.</span>
+<span class='talk-transcript__fragment' data-time='132958' id='t-132958'>And we can ask:</span>
+<span class='talk-transcript__fragment' data-time='134149' id='t-134149'>How similar are the responses
+across all listeners?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='138018' id='t-138018'>So here you can see five listeners.</span>
+<span class='talk-transcript__fragment' data-time='140983' id='t-140983'>And we start to scan their brains
+before the story starts,</span>
+<span class='talk-transcript__fragment' data-time='144460' id='t-144460'>when they're simply lying in the dark
+and waiting for the story to begin.</span>
+<span class='talk-transcript__fragment' data-time='148023' id='t-148023'>As you can see,</span>
+<span class='talk-transcript__fragment' data-time='149201' id='t-149201'>the brain area is going up and down
+in each one of them,</span>
+<span class='talk-transcript__fragment' data-time='151983' id='t-151983'>but the responses are very different,</span>
+<span class='talk-transcript__fragment' data-time='153782' id='t-153782'>and not in sync.</span>
+<span class='talk-transcript__fragment' data-time='155473' id='t-155473'>However, immediately
+as the story is starting,</span>
+<span class='talk-transcript__fragment' data-time='158203' id='t-158203'>something amazing is happening.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='160857' id='t-160857'>(Audio) JO: So I'm banging out my story
+and I know it's good,</span>
+<span class='talk-transcript__fragment' data-time='163810' id='t-163810'>and then I start to make it --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='165362' id='t-165362'>UH: Suddenly, you can see
+that the responses in all of the subjects</span>
+<span class='talk-transcript__fragment' data-time='168683' id='t-168683'>lock to the story,</span>
+<span class='talk-transcript__fragment' data-time='169859' id='t-169859'>and now they are going up and down
+in a very similar way</span>
+<span class='talk-transcript__fragment' data-time='173312' id='t-173312'>across all listeners.</span>
+<span class='talk-transcript__fragment' data-time='174890' id='t-174890'>And in fact, this is exactly
+what is happening now in your brains</span>
+<span class='talk-transcript__fragment' data-time='177963' id='t-177963'>when you listen to my sound speaking.</span>
+<span class='talk-transcript__fragment' data-time='180860' id='t-180860'>We call this effect &quot;neural entrainment.&quot;</span>
+<span class='talk-transcript__fragment' data-time='184374' id='t-184374'>And to explain to you
+what is neural entrainment,</span>
+<span class='talk-transcript__fragment' data-time='186710' id='t-186710'>let me first explain
+what is physical entrainment.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='190076' id='t-190076'>So, we'll look and see five metronomes.</span>
+<span class='talk-transcript__fragment' data-time='192850' id='t-192850'>Think of these five metronomes
+as five brains.</span>
+<span class='talk-transcript__fragment' data-time='195870' id='t-195870'>And similar to the listeners
+before the story starts,</span>
+<span class='talk-transcript__fragment' data-time='198644' id='t-198644'>these metronomes are going to click,</span>
+<span class='talk-transcript__fragment' data-time='200481' id='t-200481'>but they're going to click out of phase.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='203059' id='t-203059'>(Clicking)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='207479' id='t-207479'>Now see what will happen
+when I connect them together</span>
+<span class='talk-transcript__fragment' data-time='210504' id='t-210504'>by placing them on these two cylinders.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='213880' id='t-213880'>(Clicking)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='217125' id='t-217125'>Now these two cylinders start to rotate.</span>
+<span class='talk-transcript__fragment' data-time='219761' id='t-219761'>This rotation vibration
+is going through the wood</span>
+<span class='talk-transcript__fragment' data-time='222914' id='t-222914'>and is going to couple
+all the metronomes together.</span>
+<span class='talk-transcript__fragment' data-time='225943' id='t-225943'>And now listen to the click.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='227579' id='t-227579'>(Synchronized clicking)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='237834' id='t-237834'>This is what you call
+physical entrainment.</span>
+<span class='talk-transcript__fragment' data-time='240482' id='t-240482'>Now let's go back to the brain and ask:</span>
+<span class='talk-transcript__fragment' data-time='242749' id='t-242749'>What's driving this neural entrainment?</span>
+<span class='talk-transcript__fragment' data-time='244917' id='t-244917'>Is it simply the sounds
+that the speaker is producing?</span>
+<span class='talk-transcript__fragment' data-time='247726' id='t-247726'>Or maybe it's the words.</span>
+<span class='talk-transcript__fragment' data-time='249073' id='t-249073'>Or maybe it's the meaning
+that the speaker is trying to convey.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='252743' id='t-252743'>So to test it, we did
+the following experiment.</span>
+<span class='talk-transcript__fragment' data-time='255527' id='t-255527'>First, we took the story
+and played it backwards.</span>
+<span class='talk-transcript__fragment' data-time='258752' id='t-258752'>And that preserved many
+of the original auditory features,</span>
+<span class='talk-transcript__fragment' data-time='261902' id='t-261902'>but removed the meaning.</span>
+<span class='talk-transcript__fragment' data-time='263939' id='t-263939'>And it sounds something like that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='265634' id='t-265634'>(Audio) JO: (Unintelligible)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='271296' id='t-271296'>And we flashed colors in the two brains</span>
+<span class='talk-transcript__fragment' data-time='273672' id='t-273672'>to indicate brain areas that respond
+very similarly across people.</span>
+<span class='talk-transcript__fragment' data-time='277608' id='t-277608'>And as you can see,</span>
+<span class='talk-transcript__fragment' data-time='278786' id='t-278786'>this incoming sound induced entrainment
+or alignment in all of the brains</span>
+<span class='talk-transcript__fragment' data-time='282578' id='t-282578'>in auditory cortices
+that process the sounds,</span>
+<span class='talk-transcript__fragment' data-time='285334' id='t-285334'>but it didn't spread
+deeper into the brain.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='288051' id='t-288051'>Now we can take these sounds
+and build words out of it.</span>
+<span class='talk-transcript__fragment' data-time='291479' id='t-291479'>So if we take Jim O'Grady
+and scramble the words,</span>
+<span class='talk-transcript__fragment' data-time='294159' id='t-294159'>we'll get a list of words.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='295423' id='t-295423'>(Audio) JO: ... an animal ...
+assorted facts ...</span>
+<span class='talk-transcript__fragment' data-time='297709' id='t-297709'>and right on ... pie man ...
+potentially ... my stories</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='300625' id='t-300625'>UH: And you can see that these words
+start to induce alignment</span>
+<span class='talk-transcript__fragment' data-time='303591' id='t-303591'>in early language areas,
+but not more than that.</span>
+<span class='talk-transcript__fragment' data-time='306220' id='t-306220'>Now we can take the words
+and start to build sentences out of them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='311561' id='t-311561'>(Audio) JO: And they recommend
+against crossing that line.</span>
+<span class='talk-transcript__fragment' data-time='316021' id='t-316021'>He says: &quot;Dear Jim,
+Good story. Nice details.</span>
+<span class='talk-transcript__fragment' data-time='320369' id='t-320369'>Didn't she only know
+about him through me?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='322545' id='t-322545'>UH: Now you can see that the responses
+in all the language areas</span>
+<span class='talk-transcript__fragment' data-time='325704' id='t-325704'>that process the incoming language</span>
+<span class='talk-transcript__fragment' data-time='327419' id='t-327419'>become aligned or similar
+across all listeners.</span>
+<span class='talk-transcript__fragment' data-time='330218' id='t-330218'>However, only when we use
+the full, engaging, coherent story</span>
+<span class='talk-transcript__fragment' data-time='334919' id='t-334919'>do the responses spread
+deeper into the brain</span>
+<span class='talk-transcript__fragment' data-time='337168' id='t-337168'>into higher-order areas,</span>
+<span class='talk-transcript__fragment' data-time='338723' id='t-338723'>which include the frontal cortex
+and the parietal cortex,</span>
+<span class='talk-transcript__fragment' data-time='341848' id='t-341848'>and make all of them
+respond very similarly.</span>
+<span class='talk-transcript__fragment' data-time='344460' id='t-344460'>And we believe that these responses
+in higher-order areas are induced</span>
+<span class='talk-transcript__fragment' data-time='347753' id='t-347753'>or become similar across listeners</span>
+<span class='talk-transcript__fragment' data-time='349903' id='t-349903'>because of the meaning
+conveyed by the speaker,</span>
+<span class='talk-transcript__fragment' data-time='352667' id='t-352667'>and not by words or sound.</span>
+<span class='talk-transcript__fragment' data-time='354635' id='t-354635'>And if we are right,
+there's a strong prediction over here</span>
+<span class='talk-transcript__fragment' data-time='357374' id='t-357374'>if I tell you the exact same ideas</span>
+<span class='talk-transcript__fragment' data-time='359760' id='t-359760'>using two very different sets of words,</span>
+<span class='talk-transcript__fragment' data-time='362428' id='t-362428'>your brain responses
+will still be similar.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='365499' id='t-365499'>And to test it, we did
+the following experiment in my lab.</span>
+<span class='talk-transcript__fragment' data-time='369142' id='t-369142'>We took the English story</span>
+<span class='talk-transcript__fragment' data-time='370974' id='t-370974'>and translated it to Russian.</span>
+<span class='talk-transcript__fragment' data-time='373134' id='t-373134'>Now you have two different sounds
+and linguistic systems</span>
+<span class='talk-transcript__fragment' data-time='377382' id='t-377382'>that convey the exact same meaning.</span>
+<span class='talk-transcript__fragment' data-time='379700' id='t-379700'>And you play the English story
+to the English listeners</span>
+<span class='talk-transcript__fragment' data-time='383372' id='t-383372'>and the Russian story
+to the Russian listeners,</span>
+<span class='talk-transcript__fragment' data-time='385748' id='t-385748'>and we can compare their responses
+across the groups.</span>
+<span class='talk-transcript__fragment' data-time='388817' id='t-388817'>And when we did that, we didn't see
+responses that are similar</span>
+<span class='talk-transcript__fragment' data-time='392412' id='t-392412'>in auditory cortices in language,</span>
+<span class='talk-transcript__fragment' data-time='394717' id='t-394717'>because the language
+and sound are very different.</span>
+<span class='talk-transcript__fragment' data-time='397119' id='t-397119'>However, you can see
+that the responses in high-order areas</span>
+<span class='talk-transcript__fragment' data-time='399921' id='t-399921'>were still similar
+across these two groups.</span>
+<span class='talk-transcript__fragment' data-time='403068' id='t-403068'>We believe this is because they understood
+the story in a very similar way,</span>
+<span class='talk-transcript__fragment' data-time='407184' id='t-407184'>as we confirmed, using a test
+after the story ended.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='412321' id='t-412321'>And we think that this alignment
+is necessary for communication.</span>
+<span class='talk-transcript__fragment' data-time='416032' id='t-416032'>For example, as you can tell,</span>
+<span class='talk-transcript__fragment' data-time='418682' id='t-418682'>I am not a native English speaker.</span>
+<span class='talk-transcript__fragment' data-time='420733' id='t-420733'>I grew up with another language,</span>
+<span class='talk-transcript__fragment' data-time='422638' id='t-422638'>and the same might be for many
+of you in the audience.</span>
+<span class='talk-transcript__fragment' data-time='425316' id='t-425316'>And still, we can communicate.</span>
+<span class='talk-transcript__fragment' data-time='427339' id='t-427339'>How come?</span>
+<span class='talk-transcript__fragment' data-time='428514' id='t-428514'>We think we can communicate
+because we have this common code</span>
+<span class='talk-transcript__fragment' data-time='431617' id='t-431617'>that presents meaning.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='433921' id='t-433921'>So far, I've only talked about
+what's happening in the listener's brain,</span>
+<span class='talk-transcript__fragment' data-time='437391' id='t-437391'>in your brain, when
+you're listening to talks.</span>
+<span class='talk-transcript__fragment' data-time='439662' id='t-439662'>But what's happening
+in the speaker's brain, in my brain,</span>
+<span class='talk-transcript__fragment' data-time='442385' id='t-442385'>when I'm speaking to you?</span>
+<span class='talk-transcript__fragment' data-time='444216' id='t-444216'>To look in the speaker's brain,</span>
+<span class='talk-transcript__fragment' data-time='446097' id='t-446097'>we asked the speaker
+to go into the scanner,</span>
+<span class='talk-transcript__fragment' data-time='449217' id='t-449217'>we scan his brain</span>
+<span class='talk-transcript__fragment' data-time='450843' id='t-450843'>and then compare his brain responses
+to the brain responses of the listeners</span>
+<span class='talk-transcript__fragment' data-time='454874' id='t-454874'>listening to the story.</span>
+<span class='talk-transcript__fragment' data-time='456700' id='t-456700'>You have to remember that producing speech
+and comprehending speech</span>
+<span class='talk-transcript__fragment' data-time='460934' id='t-460934'>are very different processes.</span>
+<span class='talk-transcript__fragment' data-time='462681' id='t-462681'>Here we're asking: How similar are they?</span>
+<span class='talk-transcript__fragment' data-time='466164' id='t-466164'>To our surprise,</span>
+<span class='talk-transcript__fragment' data-time='467595' id='t-467595'>we saw that all these complex
+patterns within the listeners</span>
+<span class='talk-transcript__fragment' data-time='472490' id='t-472490'>actually came from the speaker brain.</span>
+<span class='talk-transcript__fragment' data-time='475221' id='t-475221'>So production and comprehension
+rely on very similar processes.</span>
+<span class='talk-transcript__fragment' data-time='478930' id='t-478930'>And we also found</span>
+<span class='talk-transcript__fragment' data-time='480526' id='t-480526'>the stronger the similarity
+between the listener's brain</span>
+<span class='talk-transcript__fragment' data-time='484256' id='t-484256'>and the speaker's brain,</span>
+<span class='talk-transcript__fragment' data-time='485779' id='t-485779'>the better the communication.</span>
+<span class='talk-transcript__fragment' data-time='487708' id='t-487708'>So I know that if you
+are completely confused now,</span>
+<span class='talk-transcript__fragment' data-time='491697' id='t-491697'>and I do hope that this is not the case,</span>
+<span class='talk-transcript__fragment' data-time='493742' id='t-493742'>your brain responses
+are very different than mine.</span>
+<span class='talk-transcript__fragment' data-time='496159' id='t-496159'>But I also know that if you really
+understand me now,</span>
+<span class='talk-transcript__fragment' data-time='499290' id='t-499290'>then your brain ... and your brain
+... and your brain</span>
+<span class='talk-transcript__fragment' data-time='502205' id='t-502205'>are really similar to mine.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='505793' id='t-505793'>Now, let's take all
+this information together and ask:</span>
+<span class='talk-transcript__fragment' data-time='508912' id='t-508912'>How can we use it to transmit
+a memory that I have</span>
+<span class='talk-transcript__fragment' data-time='512273' id='t-512273'>from my brain to your brains?</span>
+<span class='talk-transcript__fragment' data-time='515037' id='t-515037'>So we did the following experiment.</span>
+<span class='talk-transcript__fragment' data-time='517648' id='t-517648'>We let people watch,
+for the first time in their life,</span>
+<span class='talk-transcript__fragment' data-time='520245' id='t-520245'>a TV episode from the BBC series
+&quot;Sherlock,&quot; while we scanned their brains.</span>
+<span class='talk-transcript__fragment' data-time='524403' id='t-524403'>And then we asked them
+to go back to the scanner</span>
+<span class='talk-transcript__fragment' data-time='527228' id='t-527228'>and tell the story to another person
+that never watched the movie.</span>
+<span class='talk-transcript__fragment' data-time='531151' id='t-531151'>So let's be specific.</span>
+<span class='talk-transcript__fragment' data-time='532835' id='t-532835'>Think about this exact scene,</span>
+<span class='talk-transcript__fragment' data-time='534906' id='t-534906'>when Sherlock is entering
+the cab in London</span>
+<span class='talk-transcript__fragment' data-time='537514' id='t-537514'>driven by the murderer he is looking for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='540398' id='t-540398'>With me, as a viewer,</span>
+<span class='talk-transcript__fragment' data-time='542918' id='t-542918'>there is a specific brain pattern
+in my brain when I watch it.</span>
+<span class='talk-transcript__fragment' data-time='547179' id='t-547179'>Now, the exact same pattern,
+I can reactivate in my brain again</span>
+<span class='talk-transcript__fragment' data-time='550975' id='t-550975'>by telling the world:
+Sherlock, London, murderer.</span>
+<span class='talk-transcript__fragment' data-time='555369' id='t-555369'>And when I'm transmitting
+these words to your brains now,</span>
+<span class='talk-transcript__fragment' data-time='558503' id='t-558503'>you have to reconstruct it in your mind.</span>
+<span class='talk-transcript__fragment' data-time='561012' id='t-561012'>In fact, we see that pattern
+emerging now in your brains.</span>
+<span class='talk-transcript__fragment' data-time='565585' id='t-565585'>And we were really surprised to see</span>
+<span class='talk-transcript__fragment' data-time='568124' id='t-568124'>that the pattern you have
+now in your brains</span>
+<span class='talk-transcript__fragment' data-time='570403' id='t-570403'>when I'm describing to you these scenes</span>
+<span class='talk-transcript__fragment' data-time='572339' id='t-572339'>would be very similar to the pattern
+I had when I watched this movie</span>
+<span class='talk-transcript__fragment' data-time='576185' id='t-576185'>a few months ago in the scanner.</span>
+<span class='talk-transcript__fragment' data-time='578347' id='t-578347'>This starts to tell you
+about the mechanism</span>
+<span class='talk-transcript__fragment' data-time='580475' id='t-580475'>by which we can tell stories
+and transmit information.</span>
+<span class='talk-transcript__fragment' data-time='583733' id='t-583733'>Because, for example,</span>
+<span class='talk-transcript__fragment' data-time='585633' id='t-585633'>now you're listening really hard
+and trying to understand what I'm saying.</span>
+<span class='talk-transcript__fragment' data-time='589169' id='t-589169'>And I know that it's not easy.</span>
+<span class='talk-transcript__fragment' data-time='590743' id='t-590743'>But I hope that at one point
+in the talk we clicked, and you got me.</span>
+<span class='talk-transcript__fragment' data-time='594803' id='t-594803'>And I think that in a few hours,
+a few days, a few months,</span>
+<span class='talk-transcript__fragment' data-time='598725' id='t-598725'>you're going to meet someone at a party,</span>
+<span class='talk-transcript__fragment' data-time='600893' id='t-600893'>and you're going to tell him
+about this lecture,</span>
+<span class='talk-transcript__fragment' data-time='604465' id='t-604465'>and suddenly it will be as if
+he is standing now here with us.</span>
+<span class='talk-transcript__fragment' data-time='608127' id='t-608127'>Now you can see
+how we can take this mechanism</span>
+<span class='talk-transcript__fragment' data-time='611001' id='t-611001'>and try to transmit memories
+and knowledge across people,</span>
+<span class='talk-transcript__fragment' data-time='614956' id='t-614956'>which is wonderful, right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='617027' id='t-617027'>But our ability to communicate
+relies on our ability</span>
+<span class='talk-transcript__fragment' data-time='620218' id='t-620218'>to have common ground.</span>
+<span class='talk-transcript__fragment' data-time='622808' id='t-622808'>Because, for example,</span>
+<span class='talk-transcript__fragment' data-time='624037' id='t-624037'>if I'm going to use the British synonym</span>
+<span class='talk-transcript__fragment' data-time='627828' id='t-627828'>&quot;hackney carriage&quot; instead of &quot;cab,&quot;</span>
+<span class='talk-transcript__fragment' data-time='630230' id='t-630230'>I know that I'm going to be misaligned
+with most of you in the audience.</span>
+<span class='talk-transcript__fragment' data-time='634720' id='t-634720'>This alignment depends
+not only on our ability</span>
+<span class='talk-transcript__fragment' data-time='636935' id='t-636935'>to understand the basic concept;</span>
+<span class='talk-transcript__fragment' data-time='638993' id='t-638993'>it also depends on our ability to develop
+common ground and understanding</span>
+<span class='talk-transcript__fragment' data-time='643812' id='t-643812'>and shared belief systems.</span>
+<span class='talk-transcript__fragment' data-time='645623' id='t-645623'>Because we know that in many cases,</span>
+<span class='talk-transcript__fragment' data-time='647481' id='t-647481'>people understand the exact
+same story in very different ways.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='652460' id='t-652460'>So to test it in the lab,
+we did the following experiment.</span>
+<span class='talk-transcript__fragment' data-time='656089' id='t-656089'>We took a story by J.D. Salinger,</span>
+<span class='talk-transcript__fragment' data-time='659044' id='t-659044'>in which a husband lost track
+of his wife in the middle of a party,</span>
+<span class='talk-transcript__fragment' data-time='663403' id='t-663403'>and he's calling his best friend, asking,
+&quot;Did you see my wife?&quot;</span>
+<span class='talk-transcript__fragment' data-time='667836' id='t-667836'>For half of the subjects,</span>
+<span class='talk-transcript__fragment' data-time='669067' id='t-669067'>we said that the wife was having
+an affair with the best friend.</span>
+<span class='talk-transcript__fragment' data-time='673232' id='t-673232'>For the other half,</span>
+<span class='talk-transcript__fragment' data-time='674407' id='t-674407'>we said that the wife is loyal
+and the husband is very jealous.</span>
+<span class='talk-transcript__fragment' data-time='680127' id='t-680127'>This one sentence before the story started</span>
+<span class='talk-transcript__fragment' data-time='682839' id='t-682839'>was enough to make the brain responses</span>
+<span class='talk-transcript__fragment' data-time='685164' id='t-685164'>of all the people that believed
+the wife was having an affair</span>
+<span class='talk-transcript__fragment' data-time='688232' id='t-688232'>be very similar in these high-order areas</span>
+<span class='talk-transcript__fragment' data-time='690693' id='t-690693'>and different than the other group.</span>
+<span class='talk-transcript__fragment' data-time='692939' id='t-692939'>And if one sentence is enough
+to make your brain similar</span>
+<span class='talk-transcript__fragment' data-time='696636' id='t-696636'>to people that think like you</span>
+<span class='talk-transcript__fragment' data-time='698263' id='t-698263'>and very different than people
+that think differently than you,</span>
+<span class='talk-transcript__fragment' data-time='701240' id='t-701240'>think how this effect is going
+to be amplified in real life,</span>
+<span class='talk-transcript__fragment' data-time='704741' id='t-704741'>when we are all listening
+to the exact same news item</span>
+<span class='talk-transcript__fragment' data-time='707657' id='t-707657'>after being exposed
+day after day after day</span>
+<span class='talk-transcript__fragment' data-time='711429' id='t-711429'>to different media channels,
+like Fox News or The New York Times,</span>
+<span class='talk-transcript__fragment' data-time='715265' id='t-715265'>that give us very different
+perspectives on reality.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='719556' id='t-719556'>So let me summarize.</span>
+<span class='talk-transcript__fragment' data-time='721529' id='t-721529'>If everything worked as planned tonight,</span>
+<span class='talk-transcript__fragment' data-time='723642' id='t-723642'>I used my ability to vocalize sound
+to be coupled to your brains.</span>
+<span class='talk-transcript__fragment' data-time='727965' id='t-727965'>And I used this coupling</span>
+<span class='talk-transcript__fragment' data-time='729492' id='t-729492'>to transmit my brain patterns associated
+with my memories and ideas</span>
+<span class='talk-transcript__fragment' data-time='733357' id='t-733357'>into your brains.</span>
+<span class='talk-transcript__fragment' data-time='735201' id='t-735201'>In this, I start to reveal
+the hidden neural mechanism</span>
+<span class='talk-transcript__fragment' data-time='739023' id='t-739023'>by which we communicate.</span>
+<span class='talk-transcript__fragment' data-time='740682' id='t-740682'>And we know that in the future
+it will enable us to improve</span>
+<span class='talk-transcript__fragment' data-time='743673' id='t-743673'>and facilitate communication.</span>
+<span class='talk-transcript__fragment' data-time='746111' id='t-746111'>But these studies also reveal</span>
+<span class='talk-transcript__fragment' data-time='748535' id='t-748535'>that communication relies
+on a common ground.</span>
+<span class='talk-transcript__fragment' data-time='751845' id='t-751845'>And we have to be
+really worried as a society</span>
+<span class='talk-transcript__fragment' data-time='754331' id='t-754331'>if we lose this common ground
+and our ability to speak with people</span>
+<span class='talk-transcript__fragment' data-time='758391' id='t-758391'>that are slightly different than us</span>
+<span class='talk-transcript__fragment' data-time='760532' id='t-760532'>because we let a few very strong
+media channels</span>
+<span class='talk-transcript__fragment' data-time='763944' id='t-763944'>take control of the mic,</span>
+<span class='talk-transcript__fragment' data-time='765509' id='t-765509'>and manipulate and control
+the way we all think.</span>
+<span class='talk-transcript__fragment' data-time='769308' id='t-769308'>And I'm not sure how to fix it
+because I'm only a scientist.</span>
+<span class='talk-transcript__fragment' data-time='772233' id='t-772233'>But maybe one way to do it</span>
+<span class='talk-transcript__fragment' data-time='774717' id='t-774717'>is to go back to the more
+natural way of communication,</span>
+<span class='talk-transcript__fragment' data-time='777388' id='t-777388'>which is a dialogue,</span>
+<span class='talk-transcript__fragment' data-time='779014' id='t-779014'>in which it's not only me
+speaking to you now,</span>
+<span class='talk-transcript__fragment' data-time='781994' id='t-781994'>but a more natural way of talking,</span>
+<span class='talk-transcript__fragment' data-time='784234' id='t-784234'>in which I am speaking and I am listening,</span>
+<span class='talk-transcript__fragment' data-time='787535' id='t-787535'>and together we are trying to come
+to a common ground and new ideas.</span>
+<span class='talk-transcript__fragment' data-time='792279' id='t-792279'>Because after all,</span>
+<span class='talk-transcript__fragment' data-time='793461' id='t-793461'>the people we are coupled to
+define who we are.</span>
+<span class='talk-transcript__fragment' data-time='797149' id='t-797149'>And our desire to be coupled
+to another brain</span>
+<span class='talk-transcript__fragment' data-time='799562' id='t-799562'>is something very basic
+that starts at a very early age.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='804103' id='t-804103'>So let me finish with an example
+from my own private life</span>
+<span class='talk-transcript__fragment' data-time='809044' id='t-809044'>that I think is a good example
+of how coupling to other people</span>
+<span class='talk-transcript__fragment' data-time='813379' id='t-813379'>is really going to define who we are.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='816294' id='t-816294'>This my son Jonathan at a very early age.</span>
+<span class='talk-transcript__fragment' data-time='819392' id='t-819392'>See how he developed
+a vocal game together with my wife,</span>
+<span class='talk-transcript__fragment' data-time='823566' id='t-823566'>only from the desire and pure joy
+of being coupled to another human being.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='829556' id='t-829556'>(Both vocalizing)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='842915' id='t-842915'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='845267' id='t-845267'>Now, think how the ability of my son</span>
+<span class='talk-transcript__fragment' data-time='849088' id='t-849088'>to be coupled to us
+and other people in his life</span>
+<span class='talk-transcript__fragment' data-time='851874' id='t-851874'>is going to shape the man
+he is going to become.</span>
+<span class='talk-transcript__fragment' data-time='854756' id='t-854756'>And think how you change on a daily basis</span>
+<span class='talk-transcript__fragment' data-time='857195' id='t-857195'>from the interaction and coupling
+to other people in your life.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='862562' id='t-862562'>So keep being coupled to other people.</span>
+<span class='talk-transcript__fragment' data-time='865157' id='t-865157'>Keep spreading your ideas,</span>
+<span class='talk-transcript__fragment' data-time='866730' id='t-866730'>because the sum of all of us
+together, coupled,</span>
+<span class='talk-transcript__fragment' data-time='869998' id='t-869998'>is greater than our parts.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='871616' id='t-871616'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='872806' id='t-872806'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Talithia Williams: Own your body&#39;s data | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Talithia Williams: Own your body&#39;s data | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: The new breed of high-tech self-monitors (measuring heartrate, sleep, steps per day) might seem targeted at competitive athletes. But Talithia Williams, a statistician, makes a compelling case that all of us should be measuring and recording simple data about our bodies every day — because our own data can reveal much more than even our doctors may know." name="description" />
+<meta content="Talithia Williams" name="author" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Own your body&#39;s data&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: The new breed of high-tech self-monitors (measuring heartrate, sleep, steps per day) might seem targeted at competitive athletes. But Talithia Williams, a statistician, makes a compelling case that all of us should be measuring and recording simple data about our bodies every day — because our own data can reveal much more than even our doctors may know." property="og:description" />
+<meta content="http://www.ted.com/talks/talithia_williams_own_your_body_s_data/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592557,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2056?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='talithia_williams_own_your_body_s_data'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2056?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1023" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:03</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Talithia Williams</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2056?language=en' lang='en'>
+Own your body's data
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Aug 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Funny
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='860' id='t-860'>As a kid I always loved information</span>
+<span class='talk-transcript__fragment' data-time='3739' id='t-3739'>that I could get from data</span>
+<span class='talk-transcript__fragment' data-time='5587' id='t-5587'>and the stories that could be told with numbers.</span>
+<span class='talk-transcript__fragment' data-time='8629' id='t-8629'>I remember, growing up, I'd be frustrated at</span>
+<span class='talk-transcript__fragment' data-time='10913' id='t-10913'>how my own parents would lie to me using numbers.</span>
+<span class='talk-transcript__fragment' data-time='16459' id='t-16459'>&quot;Talithia, if I've told you once 
+I've told you a thousand times.&quot;</span>
+<span class='talk-transcript__fragment' data-time='21443' id='t-21443'>No dad, you've only told me 17 times</span>
+<span class='talk-transcript__fragment' data-time='25335' id='t-25335'>and twice it wasn't my fault. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='28497' id='t-28497'>I think that is one of the reasons I got a Ph.D. in statistics.</span>
+<span class='talk-transcript__fragment' data-time='31661' id='t-31661'>I always wanted to know,</span>
+<span class='talk-transcript__fragment' data-time='32569' id='t-32569'>what are people trying to hide with numbers?</span>
+<span class='talk-transcript__fragment' data-time='35755' id='t-35755'>As a statistician,</span>
+<span class='talk-transcript__fragment' data-time='36938' id='t-36938'>I want people to show me the data</span>
+<span class='talk-transcript__fragment' data-time='40791' id='t-40791'>so I can decide for myself.</span>
+<span class='talk-transcript__fragment' data-time='43126' id='t-43126'>Donald and I were pregnant with our third child</span>
+<span class='talk-transcript__fragment' data-time='46175' id='t-46175'>and we were at about 41 and a half weeks,</span>
+<span class='talk-transcript__fragment' data-time='48909' id='t-48909'>what some of you may refer to as being overdue.</span>
+<span class='talk-transcript__fragment' data-time='52286' id='t-52286'>Statisticians, we call that</span>
+<span class='talk-transcript__fragment' data-time='54121' id='t-54121'>being within the 95 percent confidence interval.</span>
+<span class='talk-transcript__fragment' data-time='56807' id='t-56807'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='58673' id='t-58673'>And at this point in the process</span>
+<span class='talk-transcript__fragment' data-time='60951' id='t-60951'>we had to come in every couple of days</span>
+<span class='talk-transcript__fragment' data-time='63144' id='t-63144'>to do a stress test on the baby,</span>
+<span class='talk-transcript__fragment' data-time='64952' id='t-64952'>and this is just routine,</span>
+<span class='talk-transcript__fragment' data-time='66134' id='t-66134'>it tests whether or not the baby 
+is feeling any type of undue stress.</span>
+<span class='talk-transcript__fragment' data-time='70720' id='t-70720'>And you are rarely, if ever, seen by your actual doctor,</span>
+<span class='talk-transcript__fragment' data-time='74113' id='t-74113'>just whoever happens to be 
+working at the hospital that day.</span>
+<span class='talk-transcript__fragment' data-time='77280' id='t-77280'>So we go in for a stress test and after 20 minutes</span>
+<span class='talk-transcript__fragment' data-time='80026' id='t-80026'>the doctor comes out and he says,</span>
+<span class='talk-transcript__fragment' data-time='83524' id='t-83524'>&quot;Your baby is under stress, we need to induce you.&quot;</span>
+<span class='talk-transcript__fragment' data-time='89079' id='t-89079'>Now, as a statistician, what's my response?</span>
+<span class='talk-transcript__fragment' data-time='93698' id='t-93698'>Show me the data!</span>
+<span class='talk-transcript__fragment' data-time='97370' id='t-97370'>So then he proceeds to tell us</span>
+<span class='talk-transcript__fragment' data-time='100072' id='t-100072'>the baby's heart rate trace went from 18 minutes,</span>
+<span class='talk-transcript__fragment' data-time='102497' id='t-102497'>the baby's heart rate was in the normal zone</span>
+<span class='talk-transcript__fragment' data-time='104468' id='t-104468'>and for two minutes it was in what appeared to be</span>
+<span class='talk-transcript__fragment' data-time='107421' id='t-107421'>my heart rate zone and I said,</span>
+<span class='talk-transcript__fragment' data-time='111131' id='t-111131'>&quot;Is it possible that maybe this was my heart rate?</span>
+<span class='talk-transcript__fragment' data-time='113497' id='t-113497'>I was moving around a little bit,</span>
+<span class='talk-transcript__fragment' data-time='115492' id='t-115492'>it's hard to lay still on your back,</span>
+<span class='talk-transcript__fragment' data-time='117790' id='t-117790'>41 weeks pregnant for 20 minutes.</span>
+<span class='talk-transcript__fragment' data-time='120308' id='t-120308'>Maybe it was shifting around.&quot;</span>
+<span class='talk-transcript__fragment' data-time='122481' id='t-122481'>He said, &quot;Well, we don't want to take any chances.&quot;</span>
+<span class='talk-transcript__fragment' data-time='127457' id='t-127457'>I said okay.</span>
+<span class='talk-transcript__fragment' data-time='128717' id='t-128717'>I said, &quot;What if I was at 36 weeks</span>
+<span class='talk-transcript__fragment' data-time='130436' id='t-130436'>with this same data?</span>
+<span class='talk-transcript__fragment' data-time='132245' id='t-132245'>Would your decision be to induce?&quot;</span>
+<span class='talk-transcript__fragment' data-time='136124' id='t-136124'>&quot;Well, no, I would wait until you were at least</span>
+<span class='talk-transcript__fragment' data-time='139692' id='t-139692'>38 weeks, but you are almost 42,</span>
+<span class='talk-transcript__fragment' data-time='141702' id='t-141702'>there is no reason to leave that baby inside,</span>
+<span class='talk-transcript__fragment' data-time='143709' id='t-143709'>let's get you a room.&quot;</span>
+<span class='talk-transcript__fragment' data-time='145660' id='t-145660'>I said, &quot;Well, why don't we just do it again?</span>
+<span class='talk-transcript__fragment' data-time='152241' id='t-152241'>We can collect more data.</span>
+<span class='talk-transcript__fragment' data-time='153962' id='t-153962'>I can try to be really still for 20 minutes.</span>
+<span class='talk-transcript__fragment' data-time='156373' id='t-156373'>We can average the two and see</span>
+<span class='talk-transcript__fragment' data-time='159056' id='t-159056'>what that means. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='161738' id='t-161738'>And he goes,</span>
+<span class='talk-transcript__fragment' data-time='165385' id='t-165385'>&quot;Ma'am, I just don't want you to have a miscarriage.&quot;</span>
+<span class='talk-transcript__fragment' data-time='172434' id='t-172434'>That makes three of us.</span>
+<span class='talk-transcript__fragment' data-time='175566' id='t-175566'>And then he says,</span>
+<span class='talk-transcript__fragment' data-time='176720' id='t-176720'>&quot;Your chances of having a miscarriage double</span>
+<span class='talk-transcript__fragment' data-time='180838' id='t-180838'>when you go past your due date. Let's get you a room.&quot;</span>
+<span class='talk-transcript__fragment' data-time='184605' id='t-184605'>Wow. So now as a statistician, what's my response?</span>
+<span class='talk-transcript__fragment' data-time='190892' id='t-190892'>Show me the data!</span>
+<span class='talk-transcript__fragment' data-time='192240' id='t-192240'>Dude, you're talking chances,</span>
+<span class='talk-transcript__fragment' data-time='193445' id='t-193445'>I do chances all day long, tell me all about chances.</span>
+<span class='talk-transcript__fragment' data-time='195701' id='t-195701'>Let's talk chances. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='197523' id='t-197523'>Let's talk chances.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='199488' id='t-199488'>So I say, &quot;Okay, great.</span>
+<span class='talk-transcript__fragment' data-time='200689' id='t-200689'>Do I go from a 30-percent 
+chance to a 60-percent chance?</span>
+<span class='talk-transcript__fragment' data-time='204590' id='t-204590'>Where are we here with this miscarriage thing?</span>
+<span class='talk-transcript__fragment' data-time='207141' id='t-207141'>And he goes, &quot;Not quite, but it doubles,</span>
+<span class='talk-transcript__fragment' data-time='210437' id='t-210437'>and we really just want what's best for the baby.&quot;</span>
+<span class='talk-transcript__fragment' data-time='215419' id='t-215419'>Undaunted, I try a different angle.</span>
+<span class='talk-transcript__fragment' data-time='217582' id='t-217582'>I said, &quot;Okay, out of 1,000 full-term pregnant women,</span>
+<span class='talk-transcript__fragment' data-time='223089' id='t-223089'>how many of them are going to miscarry</span>
+<span class='talk-transcript__fragment' data-time='225616' id='t-225616'>just before their due date?</span>
+<span class='talk-transcript__fragment' data-time='227411' id='t-227411'>And then he looks at me and looks at Donald,</span>
+<span class='talk-transcript__fragment' data-time='230259' id='t-230259'>and he goes, about one in 1,000.</span>
+<span class='talk-transcript__fragment' data-time='234962' id='t-234962'>I said, &quot;Okay, so of those 1,000 women, how many</span>
+<span class='talk-transcript__fragment' data-time='237792' id='t-237792'>are going to miscarry just after their due date?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='242650' id='t-242650'>&quot;About two.&quot; (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='246222' id='t-246222'>I said, &quot;Okay, so you are telling me that my chances</span>
+<span class='talk-transcript__fragment' data-time='248266' id='t-248266'>go from a 0.1-percent chance</span>
+<span class='talk-transcript__fragment' data-time='252213' id='t-252213'>to a 0.2-percent chance.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='256459' id='t-256459'>Okay, so at this point the data is not convincing us</span>
+<span class='talk-transcript__fragment' data-time='258757' id='t-258757'>that we need to be induced,</span>
+<span class='talk-transcript__fragment' data-time='260385' id='t-260385'>and so then we proceed to have a conversation</span>
+<span class='talk-transcript__fragment' data-time='262334' id='t-262334'>about how inductions lead to a higher rate</span>
+<span class='talk-transcript__fragment' data-time='264982' id='t-264982'>of Cesarean sections, and if at all 
+possible we'd like to avoid that.</span>
+<span class='talk-transcript__fragment' data-time='268973' id='t-268973'>And then I said,</span>
+<span class='talk-transcript__fragment' data-time='270225' id='t-270225'>&quot;And I really don't think my due date is accurate.&quot;</span>
+<span class='talk-transcript__fragment' data-time='273105' id='t-273105'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='275705' id='t-275705'>And so this really stunned him</span>
+<span class='talk-transcript__fragment' data-time='278445' id='t-278445'>and he looked sort of puzzled</span>
+<span class='talk-transcript__fragment' data-time='280095' id='t-280095'>and I said, &quot;You may not know this,</span>
+<span class='talk-transcript__fragment' data-time='282227' id='t-282227'>but pregnancy due dates are calculated</span>
+<span class='talk-transcript__fragment' data-time='283808' id='t-283808'>assuming that you have a standard 28-day cycle,</span>
+<span class='talk-transcript__fragment' data-time='286346' id='t-286346'>and my cycle ranges —</span>
+<span class='talk-transcript__fragment' data-time='287748' id='t-287748'>sometimes it's 27, sometimes it's up to 38 —</span>
+<span class='talk-transcript__fragment' data-time='291295' id='t-291295'>and I have been collecting the data to prove it.</span>
+<span class='talk-transcript__fragment' data-time='294449' id='t-294449'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='298233' id='t-298233'>And so we ended up leaving the hospital 
+that day without being induced.</span>
+<span class='talk-transcript__fragment' data-time='304070' id='t-304070'>We actually had to sign a waiver 
+to walk out of the hospital.</span>
+<span class='talk-transcript__fragment' data-time='310263' id='t-310263'>And I'm not advocating that you not listen to your doctors,</span>
+<span class='talk-transcript__fragment' data-time='313951' id='t-313951'>because even with our first child,</span>
+<span class='talk-transcript__fragment' data-time='315869' id='t-315869'>we were induced at 38 weeks; cervical fluid was low.</span>
+<span class='talk-transcript__fragment' data-time='319511' id='t-319511'>I'm not anti-medical intervention.</span>
+<span class='talk-transcript__fragment' data-time='321969' id='t-321969'>But why were confident to leave that day?</span>
+<span class='talk-transcript__fragment' data-time='324833' id='t-324833'>Well, we had data that told a different story.</span>
+<span class='talk-transcript__fragment' data-time='328483' id='t-328483'>We had been collecting data for six years.</span>
+<span class='talk-transcript__fragment' data-time='333491' id='t-333491'>I had this temperature data,</span>
+<span class='talk-transcript__fragment' data-time='335789' id='t-335789'>and it told a different story.</span>
+<span class='talk-transcript__fragment' data-time='337064' id='t-337064'>In fact, we could probably pretty 
+accurately estimate conception.</span>
+<span class='talk-transcript__fragment' data-time='344477' id='t-344477'>Yeah, that's a story you want to tell</span>
+<span class='talk-transcript__fragment' data-time='346379' id='t-346379'>at your kid's wedding reception. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='349631' id='t-349631'>I remember like it was yesterday.</span>
+<span class='talk-transcript__fragment' data-time='353324' id='t-353324'>My temperature was a sizzling 97.8 degrees</span>
+<span class='talk-transcript__fragment' data-time='355965' id='t-355965'>as I stared into your father's eyes. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='360119' id='t-360119'>Oh, yeah. Twenty-two more years, we're telling that story.</span>
+<span class='talk-transcript__fragment' data-time='366931' id='t-366931'>But we were confident to leave 
+because we had been collecting data.</span>
+<span class='talk-transcript__fragment' data-time='369984' id='t-369984'>Now, what does that data look like?</span>
+<span class='talk-transcript__fragment' data-time='371590' id='t-371590'>Here's a standard chart</span>
+<span class='talk-transcript__fragment' data-time='374427' id='t-374427'>of a woman's waking body temperature</span>
+<span class='talk-transcript__fragment' data-time='377729' id='t-377729'>during the course of a cycle.</span>
+<span class='talk-transcript__fragment' data-time='379246' id='t-379246'>So from the beginning of the menstrual cycle</span>
+<span class='talk-transcript__fragment' data-time='380699' id='t-380699'>till the beginning of the next.</span>
+<span class='talk-transcript__fragment' data-time='382051' id='t-382051'>You'll see that the temperature is not random.</span>
+<span class='talk-transcript__fragment' data-time='384872' id='t-384872'>Clearly there is a low pattern</span>
+<span class='talk-transcript__fragment' data-time='386936' id='t-386936'>at the beginning of her cycle</span>
+<span class='talk-transcript__fragment' data-time='388935' id='t-388935'>and then you see this jump and then a higher</span>
+<span class='talk-transcript__fragment' data-time='391434' id='t-391434'>set of temperatures at the end of her cycle.</span>
+<span class='talk-transcript__fragment' data-time='393712' id='t-393712'>So what's happening here?</span>
+<span class='talk-transcript__fragment' data-time='395133' id='t-395133'>What is that data telling you?</span>
+<span class='talk-transcript__fragment' data-time='397739' id='t-397739'>Well, ladies, at the beginning of our cycle,</span>
+<span class='talk-transcript__fragment' data-time='400438' id='t-400438'>the hormone estrogen is dominant and that estrogen</span>
+<span class='talk-transcript__fragment' data-time='403780' id='t-403780'>causes a suppression of your body temperature.</span>
+<span class='talk-transcript__fragment' data-time='407589' id='t-407589'>And at ovulation, your body releases an egg</span>
+<span class='talk-transcript__fragment' data-time='411126' id='t-411126'>and progesterone takes over, pro-gestation.</span>
+<span class='talk-transcript__fragment' data-time='416141' id='t-416141'>And so your body heats up in anticipation</span>
+<span class='talk-transcript__fragment' data-time='418493' id='t-418493'>of housing this new little fertilized egg.</span>
+<span class='talk-transcript__fragment' data-time='422279' id='t-422279'>So why this temperature jump?</span>
+<span class='talk-transcript__fragment' data-time='425011' id='t-425011'>Well, think about when a bird sits on her eggs.</span>
+<span class='talk-transcript__fragment' data-time='428687' id='t-428687'>Why is she sitting on them?</span>
+<span class='talk-transcript__fragment' data-time='430153' id='t-430153'>She wants to keep them warm,</span>
+<span class='talk-transcript__fragment' data-time='432090' id='t-432090'>protect them and keep them warm.</span>
+<span class='talk-transcript__fragment' data-time='433594' id='t-433594'>Ladies, this is exactly what our bodies do every month,</span>
+<span class='talk-transcript__fragment' data-time='435865' id='t-435865'>they heat up in anticipation</span>
+<span class='talk-transcript__fragment' data-time='437956' id='t-437956'>of keeping a new little life warm.</span>
+<span class='talk-transcript__fragment' data-time='441092' id='t-441092'>And if nothing happens, if you are not pregnant,</span>
+<span class='talk-transcript__fragment' data-time='444022' id='t-444022'>then estrogen takes back over and 
+that cycle starts all over again.</span>
+<span class='talk-transcript__fragment' data-time='448564' id='t-448564'>But if you do get pregnant, sometimes you</span>
+<span class='talk-transcript__fragment' data-time='450511' id='t-450511'>actually see another shift in your temperatures</span>
+<span class='talk-transcript__fragment' data-time='453055' id='t-453055'>and it stays elevated for those whole nine months.</span>
+<span class='talk-transcript__fragment' data-time='456342' id='t-456342'>That's why you see those pregnant 
+women just sweating and hot,</span>
+<span class='talk-transcript__fragment' data-time='459667' id='t-459667'>because their temperatures are high.</span>
+<span class='talk-transcript__fragment' data-time='463045' id='t-463045'>Here's a chart that we had about three or four years ago.</span>
+<span class='talk-transcript__fragment' data-time='467414' id='t-467414'>We were really very excited about this chart.</span>
+<span class='talk-transcript__fragment' data-time='469434' id='t-469434'>You'll see the low temperature level</span>
+<span class='talk-transcript__fragment' data-time='471970' id='t-471970'>and then a shift and for about five days,</span>
+<span class='talk-transcript__fragment' data-time='475012' id='t-475012'>that's about the time it takes for the egg to travel</span>
+<span class='talk-transcript__fragment' data-time='477471' id='t-477471'>down the fallopian tube and implant,</span>
+<span class='talk-transcript__fragment' data-time='479918' id='t-479918'>and then you see those temperatures 
+start to go up a little bit.</span>
+<span class='talk-transcript__fragment' data-time='483559' id='t-483559'>And in fact, we had a second temperature shift,</span>
+<span class='talk-transcript__fragment' data-time='486772' id='t-486772'>confirmed with a pregnancy test 
+that were indeed pregnant</span>
+<span class='talk-transcript__fragment' data-time='490832' id='t-490832'>with our first child, very exciting.</span>
+<span class='talk-transcript__fragment' data-time='493913' id='t-493913'>Until a couple of days later</span>
+<span class='talk-transcript__fragment' data-time='495944' id='t-495944'>I saw some spotting and then I noticed heavy blood flow,</span>
+<span class='talk-transcript__fragment' data-time='500885' id='t-500885'>and we had in fact had an early stage miscarriage.</span>
+<span class='talk-transcript__fragment' data-time='505244' id='t-505244'>Had I not been taking my temperature</span>
+<span class='talk-transcript__fragment' data-time='509114' id='t-509114'>I really would have just thought 
+my period was late that month,</span>
+<span class='talk-transcript__fragment' data-time='513012' id='t-513012'>but we actually had data to show</span>
+<span class='talk-transcript__fragment' data-time='514820' id='t-514820'>that we had miscarried this baby,</span>
+<span class='talk-transcript__fragment' data-time='517447' id='t-517447'>and even though this data revealed a really</span>
+<span class='talk-transcript__fragment' data-time='519280' id='t-519280'>unfortunate event in our lives,</span>
+<span class='talk-transcript__fragment' data-time='521064' id='t-521064'>it was information that we could then take to our doctor.</span>
+<span class='talk-transcript__fragment' data-time='523531' id='t-523531'>So if there was a fertility issue or some problem,</span>
+<span class='talk-transcript__fragment' data-time='526159' id='t-526159'>I had data to show:</span>
+<span class='talk-transcript__fragment' data-time='527414' id='t-527414'>Look, we got pregnant, our temperature shifted,</span>
+<span class='talk-transcript__fragment' data-time='529761' id='t-529761'>we somehow lost this baby.</span>
+<span class='talk-transcript__fragment' data-time='531445' id='t-531445'>What is it that we can do to help prevent this problem?</span>
+<span class='talk-transcript__fragment' data-time='534805' id='t-534805'>And it's not just about temperatures</span>
+<span class='talk-transcript__fragment' data-time='538326' id='t-538326'>and it's not just about fertility;</span>
+<span class='talk-transcript__fragment' data-time='541067' id='t-541067'>we can use data about our bodies to tell us a lot of things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='544955' id='t-544955'>For instance, did you know that taking 
+your temperature can tell you a lot</span>
+<span class='talk-transcript__fragment' data-time='548785' id='t-548785'>about the condition of your thyroid?</span>
+<span class='talk-transcript__fragment' data-time='550924' id='t-550924'>So, your thyroid works a lot like 
+the thermostat in your house.</span>
+<span class='talk-transcript__fragment' data-time='554939' id='t-554939'>There is an optimal temperature 
+that you want in your house;</span>
+<span class='talk-transcript__fragment' data-time='557157' id='t-557157'>you set your thermostat.</span>
+<span class='talk-transcript__fragment' data-time='558681' id='t-558681'>When it gets too cold in the house,
+your thermostat kicks in</span>
+<span class='talk-transcript__fragment' data-time='561175' id='t-561175'>and says, &quot;Hey, we need to blow some heat around.&quot;</span>
+<span class='talk-transcript__fragment' data-time='564393' id='t-564393'>Or if it gets too hot, your thermostat</span>
+<span class='talk-transcript__fragment' data-time='566062' id='t-566062'>registers, &quot;Turn the A.C. on. Cool us off.&quot;</span>
+<span class='talk-transcript__fragment' data-time='569619' id='t-569619'>That's exactly how your thyroid works in your body.</span>
+<span class='talk-transcript__fragment' data-time='573416' id='t-573416'>Your thyroid tries to keep an optimal temperature</span>
+<span class='talk-transcript__fragment' data-time='576116' id='t-576116'>for your body.</span>
+<span class='talk-transcript__fragment' data-time='577144' id='t-577144'>If it gets too cold, your thyroid 
+says, &quot;Hey, we need to heat up.&quot;</span>
+<span class='talk-transcript__fragment' data-time='579626' id='t-579626'>If it gets too hot, your thyroid cools you down.</span>
+<span class='talk-transcript__fragment' data-time='582814' id='t-582814'>But what happens when your 
+thyroid is not functioning well?</span>
+<span class='talk-transcript__fragment' data-time='587220' id='t-587220'>When it doesn't function, then it shows up</span>
+<span class='talk-transcript__fragment' data-time='589587' id='t-589587'>in your body temperatures,</span>
+<span class='talk-transcript__fragment' data-time='590773' id='t-590773'>they tend to be lower than normal or very erratic.</span>
+<span class='talk-transcript__fragment' data-time='593428' id='t-593428'>And so by collecting this data</span>
+<span class='talk-transcript__fragment' data-time='594698' id='t-594698'>you can find out information about your thyroid.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='597685' id='t-597685'>Now, what is it, if you had a thyroid 
+problem and you went to the doctor,</span>
+<span class='talk-transcript__fragment' data-time='601249' id='t-601249'>your doctor would actually test the amount of</span>
+<span class='talk-transcript__fragment' data-time='603682' id='t-603682'>thyroid stimulating hormone in your blood.</span>
+<span class='talk-transcript__fragment' data-time='606620' id='t-606620'>Fine. But the problem with that test is</span>
+<span class='talk-transcript__fragment' data-time='610803' id='t-610803'>it doesn't tell you how active the hormone is in your body.</span>
+<span class='talk-transcript__fragment' data-time='613568' id='t-613568'>So you might have a lot of hormone present,</span>
+<span class='talk-transcript__fragment' data-time='615617' id='t-615617'>but it might not be actively working to regulate</span>
+<span class='talk-transcript__fragment' data-time='617365' id='t-617365'>your body temperature.</span>
+<span class='talk-transcript__fragment' data-time='618613' id='t-618613'>So just by collecting your temperature every day,</span>
+<span class='talk-transcript__fragment' data-time='620362' id='t-620362'>you get information about the condition of your thyroid.</span>
+<span class='talk-transcript__fragment' data-time='623982' id='t-623982'>So, what if you don't want to take 
+your temperature every day?</span>
+<span class='talk-transcript__fragment' data-time='626463' id='t-626463'>I advocate that you do,</span>
+<span class='talk-transcript__fragment' data-time='628021' id='t-628021'>but there are tons of other things you could take.</span>
+<span class='talk-transcript__fragment' data-time='629876' id='t-629876'>You could take your blood pressure, 
+you could take your weight —</span>
+<span class='talk-transcript__fragment' data-time='632681' id='t-632681'>yeah, who's excited about</span>
+<span class='talk-transcript__fragment' data-time='634271' id='t-634271'>taking their weight every day? (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='637808' id='t-637808'>Early on in our marriage, Donald had a stuffy nose</span>
+<span class='talk-transcript__fragment' data-time='642599' id='t-642599'>and he had been taking a slew of medications</span>
+<span class='talk-transcript__fragment' data-time='645719' id='t-645719'>to try to relieve his stuffy nose, to no avail.</span>
+<span class='talk-transcript__fragment' data-time='649718' id='t-649718'>And so, that night he comes and 
+he wakes me up and he says,</span>
+<span class='talk-transcript__fragment' data-time='653957' id='t-653957'>&quot;Honey, I can't breath out of my nose.&quot;</span>
+<span class='talk-transcript__fragment' data-time='657764' id='t-657764'>And I roll over and I look, and I said, 
+&quot;Well, can you breath out of your mouth?&quot;</span>
+<span class='talk-transcript__fragment' data-time='662582' id='t-662582'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='664060' id='t-664060'>And he goes, &quot;Yes, but I can't breath out of my nose!&quot;</span>
+<span class='talk-transcript__fragment' data-time='671140' id='t-671140'>And so like any good wife, I rush him</span>
+<span class='talk-transcript__fragment' data-time='674160' id='t-674160'>to the emergency room</span>
+<span class='talk-transcript__fragment' data-time='675995' id='t-675995'>at 2 o'clock in the morning.</span>
+<span class='talk-transcript__fragment' data-time='678427' id='t-678427'>And the whole time I'm driving and I'm thinking,</span>
+<span class='talk-transcript__fragment' data-time='681897' id='t-681897'>you can't die on me now.</span>
+<span class='talk-transcript__fragment' data-time='684746' id='t-684746'>We just got married,</span>
+<span class='talk-transcript__fragment' data-time='686916' id='t-686916'>people will think I killed you! (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='691374' id='t-691374'>And so, we get to the emergency 
+room, and the nurse sees us,</span>
+<span class='talk-transcript__fragment' data-time='695047' id='t-695047'>and he can't breath out of his nose, and so</span>
+<span class='talk-transcript__fragment' data-time='697668' id='t-697668'>she brings us to the back and the doctor says,</span>
+<span class='talk-transcript__fragment' data-time='699751' id='t-699751'>&quot;What seems to be the problem?&quot; and 
+he goes, &quot;I can't breath out of my nose.&quot;</span>
+<span class='talk-transcript__fragment' data-time='702940' id='t-702940'>And he said, &quot;You can't breath out of your nose?</span>
+<span class='talk-transcript__fragment' data-time='704989' id='t-704989'>No, but he can breath out of his mouth. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='710866' id='t-710866'>He takes a step back and he looks at both of us</span>
+<span class='talk-transcript__fragment' data-time='713508' id='t-713508'>and he says &quot;Sir, I think I know the problem.</span>
+<span class='talk-transcript__fragment' data-time='717374' id='t-717374'>You're having a heart attack.</span>
+<span class='talk-transcript__fragment' data-time='718810' id='t-718810'>I'm going to order an EKG and a CAT scan</span>
+<span class='talk-transcript__fragment' data-time='720861' id='t-720861'>for you immediately.&quot;</span>
+<span class='talk-transcript__fragment' data-time='724203' id='t-724203'>And we are thinking,</span>
+<span class='talk-transcript__fragment' data-time='725831' id='t-725831'>no, no, no. It's not a heart attack. He can breathe,</span>
+<span class='talk-transcript__fragment' data-time='728771' id='t-728771'>just out of his mouth. No, no, no, no, no.</span>
+<span class='talk-transcript__fragment' data-time='733768' id='t-733768'>And so we go back and forth with this doctor</span>
+<span class='talk-transcript__fragment' data-time='736031' id='t-736031'>because we think this is the incorrect diagnosis,</span>
+<span class='talk-transcript__fragment' data-time='738509' id='t-738509'>and he's like, &quot;No really, it'll be fine, just calm down.&quot;</span>
+<span class='talk-transcript__fragment' data-time='742461' id='t-742461'>And I'm thinking, how do you calm down? 
+But I don't think he's having a heart attack.</span>
+<span class='talk-transcript__fragment' data-time='746380' id='t-746380'>And so fortunately for us, this 
+doctor was at the end of the shift.</span>
+<span class='talk-transcript__fragment' data-time='749621' id='t-749621'>So this new doctor comes in, he sees us clearly</span>
+<span class='talk-transcript__fragment' data-time='752536' id='t-752536'>distraught, with a husband who can't breath</span>
+<span class='talk-transcript__fragment' data-time='755537' id='t-755537'>out of his nose. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='758639' id='t-758639'>And he starts asking us questions.</span>
+<span class='talk-transcript__fragment' data-time='761425' id='t-761425'>He says, &quot;Well, do you two exercise?&quot;</span>
+<span class='talk-transcript__fragment' data-time='766305' id='t-766305'>We ride our bikes, we go to the gym occasionally.</span>
+<span class='talk-transcript__fragment' data-time='773378' id='t-773378'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='775031' id='t-775031'>We move around.</span>
+<span class='talk-transcript__fragment' data-time='777896' id='t-777896'>And he says, &quot;What were you doing 
+just before you came here?&quot;</span>
+<span class='talk-transcript__fragment' data-time='780559' id='t-780559'>I'm thinking, I was sleeping, honestly.</span>
+<span class='talk-transcript__fragment' data-time='783271' id='t-783271'>But okay, what was Donald doing just before?</span>
+<span class='talk-transcript__fragment' data-time='786102' id='t-786102'>So Donald goes into this slew 
+of medications he was taking.</span>
+<span class='talk-transcript__fragment' data-time='789650' id='t-789650'>He lists, &quot;I took this decongestant 
+and then I took this nasal spray,&quot;</span>
+<span class='talk-transcript__fragment' data-time='792612' id='t-792612'>and then all of a sudden a lightbulb goes off and he says,</span>
+<span class='talk-transcript__fragment' data-time='794615' id='t-794615'>&quot;Oh! You should never mix this 
+decongestant with this nasal spray.</span>
+<span class='talk-transcript__fragment' data-time='798242' id='t-798242'>Clogs you up every time. Here, take this one instead.&quot;</span>
+<span class='talk-transcript__fragment' data-time='801059' id='t-801059'>He gives us a prescription.</span>
+<span class='talk-transcript__fragment' data-time='803325' id='t-803325'>We're looking at each other, and I looked at the doctor,</span>
+<span class='talk-transcript__fragment' data-time='805315' id='t-805315'>and I said, &quot;Why is it that it seems like you</span>
+<span class='talk-transcript__fragment' data-time='807541' id='t-807541'>were able to accurately diagnose his condition,</span>
+<span class='talk-transcript__fragment' data-time='809952' id='t-809952'>but this previous doctor wanted to order</span>
+<span class='talk-transcript__fragment' data-time='812168' id='t-812168'>an EKG and a CAT scan?&quot;</span>
+<span class='talk-transcript__fragment' data-time='814674' id='t-814674'>And he looks at us and says,</span>
+<span class='talk-transcript__fragment' data-time='817281' id='t-817281'>&quot;Well, when a 350-pound man walks in the 
+emergency room and says he can't breath,</span>
+<span class='talk-transcript__fragment' data-time='821499' id='t-821499'>you assume he's having a heart attack</span>
+<span class='talk-transcript__fragment' data-time='823263' id='t-823263'>and you ask questions later.&quot;</span>
+<span class='talk-transcript__fragment' data-time='827212' id='t-827212'>Now, emergency room doctors are 
+trained to make decisions quickly,</span>
+<span class='talk-transcript__fragment' data-time='832932' id='t-832932'>but not always accurately.</span>
+<span class='talk-transcript__fragment' data-time='835023' id='t-835023'>And so had we had some information</span>
+<span class='talk-transcript__fragment' data-time='836572' id='t-836572'>about our heart health to share with him,</span>
+<span class='talk-transcript__fragment' data-time='838966' id='t-838966'>maybe we would have gotten a 
+better diagnosis the first time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='842741' id='t-842741'>I want you to consider the following chart,</span>
+<span class='talk-transcript__fragment' data-time='844973' id='t-844973'>of systolic blood pressure measurements</span>
+<span class='talk-transcript__fragment' data-time='846927' id='t-846927'>from October 2010 to July 2012.</span>
+<span class='talk-transcript__fragment' data-time='850999' id='t-850999'>You'll see that these measurements start</span>
+<span class='talk-transcript__fragment' data-time='852692' id='t-852692'>in the prehypertension/hypertension zone,</span>
+<span class='talk-transcript__fragment' data-time='856360' id='t-856360'>but over about the course of a year and a half</span>
+<span class='talk-transcript__fragment' data-time='858946' id='t-858946'>they move into the normal zone.</span>
+<span class='talk-transcript__fragment' data-time='861591' id='t-861591'>This is about the heart rate of a healthy 16-year-old.</span>
+<span class='talk-transcript__fragment' data-time='865700' id='t-865700'>What story is this data telling you?</span>
+<span class='talk-transcript__fragment' data-time='869731' id='t-869731'>Obviously it's the data from someone</span>
+<span class='talk-transcript__fragment' data-time='872612' id='t-872612'>who's made a drastic transformation,</span>
+<span class='talk-transcript__fragment' data-time='875285' id='t-875285'>and fortunately for us, that person 
+happens to be here today.</span>
+<span class='talk-transcript__fragment' data-time='880443' id='t-880443'>So that 350-pound guy that walked 
+into the emergency room with me</span>
+<span class='talk-transcript__fragment' data-time='884697' id='t-884697'>is now an even sexier and healthier</span>
+<span class='talk-transcript__fragment' data-time='887669' id='t-887669'>225-pound guy, and that's his blood pressure trace.</span>
+<span class='talk-transcript__fragment' data-time='894357' id='t-894357'>So over the course of that year and a half</span>
+<span class='talk-transcript__fragment' data-time='897818' id='t-897818'>Donald's eating changed</span>
+<span class='talk-transcript__fragment' data-time='899387' id='t-899387'>and our exercise regimen changed,</span>
+<span class='talk-transcript__fragment' data-time='901378' id='t-901378'>and his heart rate responded,</span>
+<span class='talk-transcript__fragment' data-time='904168' id='t-904168'>his blood pressure responded to that change</span>
+<span class='talk-transcript__fragment' data-time='905670' id='t-905670'>that he made in his body.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='907969' id='t-907969'>So what's the take-home message</span>
+<span class='talk-transcript__fragment' data-time='909947' id='t-909947'>that I want you to leave with today?</span>
+<span class='talk-transcript__fragment' data-time='913661' id='t-913661'>By taking ownership of your data just like we've done,</span>
+<span class='talk-transcript__fragment' data-time='918035' id='t-918035'>just by taking this daily measurements about yourself,</span>
+<span class='talk-transcript__fragment' data-time='921982' id='t-921982'>you become the expert on your body.</span>
+<span class='talk-transcript__fragment' data-time='924491' id='t-924491'>You become the authority.</span>
+<span class='talk-transcript__fragment' data-time='926493' id='t-926493'>It's not hard to do.</span>
+<span class='talk-transcript__fragment' data-time='928916' id='t-928916'>You don't have to have a Ph.D. in statistics</span>
+<span class='talk-transcript__fragment' data-time='930836' id='t-930836'>to be an expert in yourself.</span>
+<span class='talk-transcript__fragment' data-time='932168' id='t-932168'>You don't have to have a medical degree</span>
+<span class='talk-transcript__fragment' data-time='933609' id='t-933609'>to be your body's expert.</span>
+<span class='talk-transcript__fragment' data-time='935735' id='t-935735'>Medical doctors, they're experts on the population,</span>
+<span class='talk-transcript__fragment' data-time='939154' id='t-939154'>but you are the expert on yourself.</span>
+<span class='talk-transcript__fragment' data-time='941432' id='t-941432'>And so when two of you come together,</span>
+<span class='talk-transcript__fragment' data-time='943342' id='t-943342'>when two experts come together,</span>
+<span class='talk-transcript__fragment' data-time='945312' id='t-945312'>the two of you are able to make a better decision</span>
+<span class='talk-transcript__fragment' data-time='948107' id='t-948107'>than just your doctor alone.</span>
+<span class='talk-transcript__fragment' data-time='950107' id='t-950107'>Now that you understand the power of information</span>
+<span class='talk-transcript__fragment' data-time='953874' id='t-953874'>that you can get through personal data collection,</span>
+<span class='talk-transcript__fragment' data-time='955745' id='t-955745'>I'd like you all to stand and raise your right hand.</span>
+<span class='talk-transcript__fragment' data-time='959414' id='t-959414'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='961973' id='t-961973'>Yes, get it up.</span>
+<span class='talk-transcript__fragment' data-time='966771' id='t-966771'>I challenge you to take ownership of your data.</span>
+<span class='talk-transcript__fragment' data-time='973679' id='t-973679'>And today, I hereby confer upon you</span>
+<span class='talk-transcript__fragment' data-time='977241' id='t-977241'>a TEDx associate's degree in elementary statistics</span>
+<span class='talk-transcript__fragment' data-time='981586' id='t-981586'>with a concentration in time-dependent data analysis</span>
+<span class='talk-transcript__fragment' data-time='986030' id='t-986030'>with all the rights and privileges appertaining thereto.</span>
+<span class='talk-transcript__fragment' data-time='989743' id='t-989743'>And so the next time you are in your doctor's office,</span>
+<span class='talk-transcript__fragment' data-time='993219' id='t-993219'>as newly inducted statisticians,</span>
+<span class='talk-transcript__fragment' data-time='996410' id='t-996410'>what should always be your response?</span>
+<span class='talk-transcript__fragment' data-time='998920' id='t-998920'>Audience: Show me the data! 
+Talithia Williams: I can't hear you!</span>
+<span class='talk-transcript__fragment' data-time='1000752' id='t-1000752'>Audience: Show me the data!</span>
+<span class='talk-transcript__fragment' data-time='1002520' id='t-1002520'>TW: One more time!</span>
+<span class='talk-transcript__fragment' data-time='1003828' id='t-1003828'>Audience: Show me the data!</span>
+<span class='talk-transcript__fragment' data-time='1005367' id='t-1005367'>TW: Show me the data.</span>
+<span class='talk-transcript__fragment' data-time='1006549' id='t-1006549'>Thank you.</span>
+<span class='talk-transcript__fragment' data-time='1009570' id='t-1009570'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

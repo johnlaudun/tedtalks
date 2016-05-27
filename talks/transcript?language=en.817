@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Thomas Goetz: It&#39;s time to redesign medical data | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Thomas Goetz: It&#39;s time to redesign medical data | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Your medical chart: it&#39;s hard to access, impossible to read -- and full of information that could make you healthier if you just knew how to use it. At TEDMED, Thomas Goetz looks at medical data, making a bold call to redesign it and get more insight from it." name="description" />
+<meta content="Thomas Goetz" name="author" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=zh" hreflang="zh" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=fr-ca" hreflang="fr-ca" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;It&#39;s time to redesign medical data&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/eb6802580f62a146f6c9d85a171908cac16a6753_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/eb6802580f62a146f6c9d85a171908cac16a6753_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Your medical chart: it&#39;s hard to access, impossible to read -- and full of information that could make you healthier if you just knew how to use it. At TEDMED, Thomas Goetz looks at medical data, making a bold call to redesign it and get more insight from it." property="og:description" />
+<meta content="http://www.ted.com/talks/thomas_goetz_it_s_time_to_redesign_medical_data/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1060?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='thomas_goetz_it_s_time_to_redesign_medical_data'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='zh'>Chinese, Yue</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='fr-ca'>French (Canada)</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1060?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="993" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/eb6802580f62a146f6c9d85a171908cac16a6753_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:33</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Thomas Goetz</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1060?language=en' lang='en'>
+It's time to redesign medical data
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jan 2011
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Persuasive, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I'm going to be talking to you</span>
+<span class='talk-transcript__fragment' data-time='2000' id='t-2000'>about how we can tap</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>a really underutilized resource in health care,</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>which is the patient,</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>or, as I like to use the scientific term,</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>people.</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>Because we are all patients, we are all people.</span>
+<span class='talk-transcript__fragment' data-time='15000' id='t-15000'>Even doctors are patients at some point.</span>
+<span class='talk-transcript__fragment' data-time='17000' id='t-17000'>So I want to talk about that</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>as an opportunity</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>that we really have failed to engage with very well in this country</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>and, in fact, worldwide.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>If you want to get at the big part --</span>
+<span class='talk-transcript__fragment' data-time='28000' id='t-28000'>I mean from a public health level, where my training is --</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>you're looking at behavioral issues.</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>You're looking at things where people are actually given information,</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>and they're not following through with it.</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>It's a problem that manifests itself in diabetes,</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>obesity, many forms of heart disease,</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>even some forms of cancer -- when you think of smoking.</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>Those are all behaviors where people know what they're supposed to do.</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>They know what they're supposed to be doing,</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>but they're not doing it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>Now behavior change is something</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>that is a long-standing problem in medicine.</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>It goes all the way back to Aristotle.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>And doctors hate it, right?</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>I mean, they complain about it all the time.</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>We talk about it in terms of engagement, or non-compliance.</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>When people don't take their pills,</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>when people don't follow doctors' orders --</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>these are behavior problems.</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>But for as much as clinical medicine</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>agonizes over behavior change,</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>there's not a lot of work done</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>in terms of trying to fix that problem.</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>So the crux of it</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>comes down to this notion of decision-making --</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>giving information to people in a form</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>that doesn't just educate them</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>or inform them,</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>but actually leads them to make better decisions,</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>better choices in their lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>One part of medicine, though,</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>has faced the problem of behavior change pretty well,</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>and that's dentistry.</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>Dentistry might seem -- and I think it is --</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>many dentists would have to acknowledge</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>it's somewhat of a mundane backwater of medicine.</span>
+<span class='talk-transcript__fragment' data-time='110000' id='t-110000'>Not a lot of cool, sexy stuff happening in dentistry.</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>But they have really taken this problem of behavior change</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>and solved it.</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>It's the one great preventive health success</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>we have in our health care system.</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>People brush and floss their teeth.</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>They don't do it as much as they should, but they do it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>So I'm going to talk about one experiment</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>that a few dentists in Connecticut</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>cooked up about 30 years ago.</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>So this is an old experiment, but it's a really good one,</span>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>because it was very simple,</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>so it's an easy story to tell.</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>So these Connecticut dentists decided</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>that they wanted to get people to brush their teeth and floss their teeth more often,</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>and they were going to use one variable:</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>they wanted to scare them.</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>They wanted to tell them how bad it would be</span>
+<span class='talk-transcript__fragment' data-time='151000' id='t-151000'>if they didn't brush and floss their teeth.</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>They had a big patient population.</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>They divided them up into two groups.</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>They had a low-fear population,</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>where they basically gave them a 13-minute presentation,</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>all based in science,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>but told them that, if you didn't brush and floss your teeth,</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>you could get gum disease. If you get gum disease, you will lose your teeth,</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>but you'll get dentures, and it won't be that bad.</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>So that was the low-fear group.</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>The high-fear group, they laid it on really thick.</span>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>They showed bloody gums.</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>They showed puss oozing out from between their teeth.</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>They told them that their teeth were going to fall out.</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>They said that they could have infections</span>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>that would spread from their jaws to other parts of their bodies,</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>and ultimately, yes, they would lose their teeth.</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>They would get dentures, and if you got dentures,</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>you weren't going to be able to eat corn-on-the-cob,</span>
+<span class='talk-transcript__fragment' data-time='195000' id='t-195000'>you weren't going to be able to eat apples,</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>you weren't going to be able to eat steak.</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>You'll eat mush for the rest of your life.</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>So go brush and floss your teeth.</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>That was the message. That was the experiment.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='206000' id='t-206000'>Now they measured one other variable.</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>They wanted to capture one other variable,</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>which was the patients' sense of efficacy.</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>This was the notion of whether the patients felt</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>that they actually would go ahead and brush and floss their teeth.</span>
+<span class='talk-transcript__fragment' data-time='218000' id='t-218000'>So they asked them at the beginning,</span>
+<span class='talk-transcript__fragment' data-time='220000' id='t-220000'>&quot;Do you think you'll actually be able to stick with this program?&quot;</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>And the people who said, &quot;Yeah, yeah. I'm pretty good about that,&quot;</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>they were characterized as high efficacy,</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>and the people who said,</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>&quot;Eh, I never get around to brushing and flossing as much as I should,&quot;</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>they were characterized as low efficacy.</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>So the upshot was this.</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>The upshot of this experiment</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>was that fear was not really a primary driver</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>of the behavior at all.</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>The people who brushed and flossed their teeth</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>were not necessarily the people</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>who were really scared about what would happen --</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>it's the people who simply felt that they had the capacity</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>to change their behavior.</span>
+<span class='talk-transcript__fragment' data-time='253000' id='t-253000'>So fear showed up as not really the driver.</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>It was the sense of efficacy.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>So I want to isolate this,</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>because it was a great observation --</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>30 years ago, right, 30 years ago --</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>and it's one that's laid fallow in research.</span>
+<span class='talk-transcript__fragment' data-time='268000' id='t-268000'>It was a notion that really came out</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>of Albert Bandura's work,</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>who studied whether</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>people could get a sense of empowerment.</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>The notion of efficacy basically boils down to one -- that</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>if somebody believes that they have the capacity to change their behavior.</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>In health care terms, you could characterize this</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>as whether or not somebody feels</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>that they see a path towards better health,</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>that they can actually see their way towards getting better health,</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>and that's a very important notion.</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>It's an amazing notion.</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>We don't really know how to manipulate it, though, that well.</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>Except, maybe we do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>So fear doesn't work, right? Fear doesn't work.</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>And this is a great example</span>
+<span class='talk-transcript__fragment' data-time='306000' id='t-306000'>of how we haven't learned that lesson at all.</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>This is a campaign from the American Diabetes Association.</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>This is still the way we're communicating messages about health.</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>I mean, I showed my three-year-old this slide last night,</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>and he's like, &quot;Papa, why is an ambulance in these people's homes?&quot;</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>And I had to explain, &quot;They're trying to scare people.&quot;</span>
+<span class='talk-transcript__fragment' data-time='325000' id='t-325000'>And I don't know if it works.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='327000' id='t-327000'>Now here's what does work:</span>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>personalized information works.</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>Again, Bandura recognized this</span>
+<span class='talk-transcript__fragment' data-time='333000' id='t-333000'>years ago, decades ago.</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>When you give people specific information</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>about their health, where they stand,</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>and where they want to get to, where they might get to,</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>that path, that notion of a path --</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>that tends to work for behavior change.</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>So let me just spool it out a little bit.</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>So you start with personalized data, personalized information</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>that comes from an individual,</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>and then you need to connect it to their lives.</span>
+<span class='talk-transcript__fragment' data-time='355000' id='t-355000'>You need to connect it to their lives,</span>
+<span class='talk-transcript__fragment' data-time='357000' id='t-357000'>hopefully not in a fear-based way, but one that they understand.</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>Okay, I know where I sit. I know where I'm situated.</span>
+<span class='talk-transcript__fragment' data-time='362000' id='t-362000'>And that doesn't just work for me in terms of abstract numbers --</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>this overload of health information</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>that we're inundated with.</span>
+<span class='talk-transcript__fragment' data-time='369000' id='t-369000'>But it actually hits home.</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>It's not just hitting us in our heads; it's hitting us in our hearts.</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>There's an emotional connection to information</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>because it's from us.</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>That information then needs to be connected to choices,</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>needs to be connected to a range of options,</span>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>directions that we might go to --</span>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>trade-offs, benefits.</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>Finally, we need to be presented with a clear point of action.</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>We need to connect the information</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>always with the action,</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>and then that action feeds back</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>into different information,</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>and it creates, of course, a feedback loop.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='399000' id='t-399000'>Now this is a very well-observed and well-established notion</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>for behavior change.</span>
+<span class='talk-transcript__fragment' data-time='404000' id='t-404000'>But the problem is that things -- in the upper-right corner there --</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>personalized data, it's been pretty hard to come by.</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>It's a difficult and expensive commodity,</span>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>until now.</span>
+<span class='talk-transcript__fragment' data-time='414000' id='t-414000'>So I'm going to give you an example, a very simple example of how this works.</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>So we've all seen these. These are the &quot;your speed limit&quot; signs.</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>You've seen them all around,</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>especially these days as radars are cheaper.</span>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>And here's how they work in the feedback loop.</span>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>So you start with the personalized data</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>where the speed limit on the road that you are at that point</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>is 25,</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>and, of course, you're going faster than that.</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>We always are. We're always going above the speed limit.</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>The choice in this case is pretty simple.</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>We either keep going fast, or we slow down.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>We should probably slow down,</span>
+<span class='talk-transcript__fragment' data-time='443000' id='t-443000'>and that point of action is probably now.</span>
+<span class='talk-transcript__fragment' data-time='445000' id='t-445000'>We should take our foot off the pedal right now,</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>and generally we do. These things are shown to be pretty effective</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>in terms of getting people to slow down.</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>They reduce speeds by about five to 10 percent.</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>They last for about five miles,</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>in which case we put our foot back on the pedal.</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>But it works, and it even has some health repercussions.</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>Your blood pressure might drop a little bit.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>Maybe there's fewer accidents, so there's public health benefits.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>But by and large, this is a feedback loop</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>that's so nifty and too rare.</span>
+<span class='talk-transcript__fragment' data-time='471000' id='t-471000'>Because in health care, most health care,</span>
+<span class='talk-transcript__fragment' data-time='473000' id='t-473000'>the data is very removed from the action.</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>It's very difficult to line things up so neatly.</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>But we have an opportunity.</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>So I want to talk about, I want to shift now to think about</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>how we deliver health information in this country,</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>how we actually get information.</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>This is a pharmaceutical ad.</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>Actually, it's a spoof. It's not a real pharmaceutical ad.</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>Nobody's had the brilliant idea</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>of calling their drug Havidol quite yet.</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>But it looks completely right.</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>So it's exactly the way we get</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>health information and pharmaceutical information,</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>and it just sounds perfect.</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>And then we turn the page of the magazine,</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>and we see this --</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>now this is the page the FDA requires pharmaceutical companies</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>to put into their ads, or to follow their ads,</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>and to me, this is one of the most 
+cynical exercises in medicine.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>Because we know.</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>Who among us would actually say that people read this?</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>And who among us would actually say</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>that people who do try to read this</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>actually get anything out of it?</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>This is a bankrupt effort</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>at communicating health information.</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>There is no good faith in this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>So this is a different approach.</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>This is an approach that has been developed</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>by a couple researchers at Dartmouth Medical School,</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>Lisa Schwartz and Steven Woloshin.</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>And they created this thing called the &quot;drug facts box.&quot;</span>
+<span class='talk-transcript__fragment' data-time='553000' id='t-553000'>They took inspiration from, of all things,</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>Cap'n Crunch.</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>They went to the nutritional information box</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>and saw that what works for cereal, works for our food,</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>actually helps people understand what's in their food.</span>
+<span class='talk-transcript__fragment' data-time='567000' id='t-567000'>God forbid we should use that same standard</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>that we make Cap'n Crunch live by</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>and bring it to drug companies.</span>
+<span class='talk-transcript__fragment' data-time='574000' id='t-574000'>So let me just walk through this quickly.</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>It says very clearly what the drug is for, specifically who it is good for,</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>so you can start to personalize your understanding</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>of whether the information is relevant to you</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>or whether the drug is relevant to you.</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>You can understand exactly what the benefits are.</span>
+<span class='talk-transcript__fragment' data-time='588000' id='t-588000'>It isn't this kind of vague promise that it's going to work no matter what,</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>but you get the statistics for how effective it is.</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>And finally, you understand what those choices are.</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>You can start to unpack the choices involved</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>because of the side effects.</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>Every time you take a drug, you're walking into a possible side effect.</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>So it spells those out in very clean terms,</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>and that works.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>So I love this. I love that drug facts box.</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>And so I was thinking about,</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>what's an opportunity that I could have</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>to help people understand information?</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>What's another latent body of information that's out there</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>that people are really not putting to use?</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>And so I came up with this: lab test results.</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>Blood test results are this great source of information.</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>They're packed with information.</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>They're just not for us. They're not for people. They're not for patients.</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>They go right to doctors.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>And God forbid -- I think many doctors, if you really asked them,</span>
+<span class='talk-transcript__fragment' data-time='640000' id='t-640000'>they don't really understand all this stuff either.</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>This is the worst presented information.</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>You ask Tufte, and he would say,</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>&quot;Yes, this is the absolute worst presentation of information possible.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>What we did at Wired</span>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>was we went, and I got our graphic design department</span>
+<span class='talk-transcript__fragment' data-time='656000' id='t-656000'>to re-imagine these lab reports.</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>So that's what I want to walk you through.</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>So this is the general blood work before,</span>
+<span class='talk-transcript__fragment' data-time='663000' id='t-663000'>and this is the after, this is what we came up with.</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>The after takes what was four pages --</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>that previous slide was actually</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>the first of four pages of data</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>that's just the general blood work.</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>It goes on and on and on, all these values, all these numbers you don't know.</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>This is our one-page summary.</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>We use the notion of color.</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>It's an amazing notion that color could be used.</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>So on the top-level you have your overall results,</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>the things that might jump out at you from the fine print.</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>Then you can drill down</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>and understand how actually we put your level in context,</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>and we use color to illustrate</span>
+<span class='talk-transcript__fragment' data-time='697000' id='t-697000'>exactly where your value falls.</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>In this case, this patient is slightly at risk of diabetes</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>because of their glucose level.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='704000' id='t-704000'>Likewise, you can go over your lipids</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>and, again, understand what your overall cholesterol level is</span>
+<span class='talk-transcript__fragment' data-time='709000' id='t-709000'>and then break down into the HDL and the LDL if you so choose.</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>But again, always using color</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>and personalized proximity</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>to that information.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>All those other values,</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>all those pages and pages of values that are full of nothing,</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>we summarize.</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>We tell you that you're okay, you're normal.</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>But you don't have to wade through it. You don't have to go through the junk.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>And then we do two other very important things</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>that kind of help fill in this feedback loop:</span>
+<span class='talk-transcript__fragment' data-time='733000' id='t-733000'>we help people understand in a little more detail</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>what these values are and what they might indicate.</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>And then we go a further step -- we tell them what they can do.</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>We give them some insight</span>
+<span class='talk-transcript__fragment' data-time='743000' id='t-743000'>into what choices they can make, what actions they can take.</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>So that's our general blood work test.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>Then we went to CRP test.</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>In this case, it's a sin of omission.</span>
+<span class='talk-transcript__fragment' data-time='753000' id='t-753000'>They have this huge amount of space,</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>and they don't use it for anything, so we do.</span>
+<span class='talk-transcript__fragment' data-time='757000' id='t-757000'>Now the CRP test is often done</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>following a cholesterol test,</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>or in conjunction with a cholesterol test.</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>So we take the bold step</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>of putting the cholesterol information on the same page,</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>which is the way the doctor is going to evaluate it.</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>So we thought the patient might actually want to know the context as well.</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>It's a protein that shows up</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>when your blood vessels might be inflamed,</span>
+<span class='talk-transcript__fragment' data-time='777000' id='t-777000'>which might be a risk for heart disease.</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>What you're actually measuring</span>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>is spelled out in clean language.</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>Then we use the information</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>that's already in the lab report.</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>We use the person's age and their gender</span>
+<span class='talk-transcript__fragment' data-time='789000' id='t-789000'>to start to fill in the personalized risks.</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>So we start to use the data we have</span>
+<span class='talk-transcript__fragment' data-time='794000' id='t-794000'>to run a very simple calculation</span>
+<span class='talk-transcript__fragment' data-time='796000' id='t-796000'>that's on all sorts of online calculators</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>to get a sense of what the actual risk is.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>The last one I'll show you is a PSA test.</span>
+<span class='talk-transcript__fragment' data-time='803000' id='t-803000'>Here's the before, and here's the after.</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>Now a lot of our effort on this one --</span>
+<span class='talk-transcript__fragment' data-time='808000' id='t-808000'>as many of you probably know,</span>
+<span class='talk-transcript__fragment' data-time='810000' id='t-810000'>a PSA test is a very controversial test.</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>It's used to test for prostate cancer,</span>
+<span class='talk-transcript__fragment' data-time='814000' id='t-814000'>but there are all sorts of reasons</span>
+<span class='talk-transcript__fragment' data-time='816000' id='t-816000'>why your prostate might be enlarged.</span>
+<span class='talk-transcript__fragment' data-time='818000' id='t-818000'>And so we spent a good deal of our time</span>
+<span class='talk-transcript__fragment' data-time='820000' id='t-820000'>indicating that.</span>
+<span class='talk-transcript__fragment' data-time='822000' id='t-822000'>We again personalized the risks.</span>
+<span class='talk-transcript__fragment' data-time='824000' id='t-824000'>So this patient is in their 50s,</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>so we can actually give them a very precise estimate</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>of what their risk for prostate cancer is.</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>In this case it's about 25 percent, based on that.</span>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>And then again, the follow-up actions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='836000' id='t-836000'>So our cost for this was less than 10,000 dollars, all right.</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>That's what Wired magazine spent on this.</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>Why is Wired magazine doing this?</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='847000' id='t-847000'>Quest Diagnostics and LabCorp,</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>the two largest lab testing companies --</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>last year, they made profits of over 700 million dollars</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>and over 500 million dollars respectively.</span>
+<span class='talk-transcript__fragment' data-time='858000' id='t-858000'>Now this is not a problem of resources;</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>this is a problem of incentives.</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>We need to recognize that the target of this information</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>should not be the doctor, should not be the insurance company.</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>It should be the patient.</span>
+<span class='talk-transcript__fragment' data-time='871000' id='t-871000'>It's the person who actually, in the end,</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>is going to be having to change their lives</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>and then start adopting new behaviors.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>This is information that is incredibly powerful.</span>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>It's an incredibly powerful catalyst to change.</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>But we're not using it. It's just sitting there.</span>
+<span class='talk-transcript__fragment' data-time='884000' id='t-884000'>It's being lost.</span>
+<span class='talk-transcript__fragment' data-time='886000' id='t-886000'>So I want to just offer four questions</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>that every patient should ask,</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>because I don't actually expect people</span>
+<span class='talk-transcript__fragment' data-time='892000' id='t-892000'>to start developing these lab test reports.</span>
+<span class='talk-transcript__fragment' data-time='894000' id='t-894000'>But you can create your own feedback loop.</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>Anybody can create their feedback loop by asking these simple questions:</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>Can I have my results?</span>
+<span class='talk-transcript__fragment' data-time='901000' id='t-901000'>And the only acceptable answer is --</span>
+<span class='talk-transcript__fragment' data-time='903000' id='t-903000'>(Audience: Yes.) -- yes.</span>
+<span class='talk-transcript__fragment' data-time='905000' id='t-905000'>What does this mean? Help me understand what the data is.</span>
+<span class='talk-transcript__fragment' data-time='907000' id='t-907000'>What are my options? What choices are now on the table?</span>
+<span class='talk-transcript__fragment' data-time='910000' id='t-910000'>And then, what's next?</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>How do I integrate this information</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>into the longer course of my life?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='917000' id='t-917000'>So I want to wind up by just showing</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>that people have the capacity to understand this information.</span>
+<span class='talk-transcript__fragment' data-time='921000' id='t-921000'>This is not beyond the grasp of ordinary people.</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>You do not need to have the education level of people in this room.</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>Ordinary people are capable of understanding this information,</span>
+<span class='talk-transcript__fragment' data-time='930000' id='t-930000'>if we only go to the effort of presenting it to them</span>
+<span class='talk-transcript__fragment' data-time='933000' id='t-933000'>in a form that they can engage with.</span>
+<span class='talk-transcript__fragment' data-time='935000' id='t-935000'>And engagement is essential here,</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>because it's not just giving them information;</span>
+<span class='talk-transcript__fragment' data-time='939000' id='t-939000'>it's giving them an opportunity to act.</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>That's what engagement is. It's different from compliance.</span>
+<span class='talk-transcript__fragment' data-time='943000' id='t-943000'>It works totally different from the way we talk about behavior</span>
+<span class='talk-transcript__fragment' data-time='946000' id='t-946000'>in medicine today.</span>
+<span class='talk-transcript__fragment' data-time='948000' id='t-948000'>And this information is out there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>I've been talking today about latent information,</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>all this information that exists in the system</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>that we're not putting to use.</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>But there are all sorts of other bodies of information</span>
+<span class='talk-transcript__fragment' data-time='958000' id='t-958000'>that are coming online,</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>and we need to recognize the capacity of this information</span>
+<span class='talk-transcript__fragment' data-time='963000' id='t-963000'>to engage people, to help people</span>
+<span class='talk-transcript__fragment' data-time='965000' id='t-965000'>and to change the course of their lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='969000' id='t-969000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

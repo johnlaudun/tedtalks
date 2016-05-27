@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Neri Oxman: Design at the intersection of technology and biology | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Neri Oxman: Design at the intersection of technology and biology | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Designer and architect Neri Oxman is leading the search for ways in which digital fabrication technologies can interact with the biological world. Working at the intersection of computational design, additive manufacturing, materials engineering and synthetic biology, her lab is pioneering a new age of symbiosis between microorganisms, our bodies, our products and even our buildings." name="description" />
+<meta content="Neri Oxman" name="author" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Design at the intersection of technology and biology&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4817b9887ab589f58ea7258b3e4cecbafa126c2_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4817b9887ab589f58ea7258b3e4cecbafa126c2_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Designer and architect Neri Oxman is leading the search for ways in which digital fabrication technologies can interact with the biological world. Working at the intersection of computational design, additive manufacturing, materials engineering and synthetic biology, her lab is pioneering a new age of symbiosis between microorganisms, our bodies, our products and even our buildings." property="og:description" />
+<meta content="http://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2344?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='neri_oxman_design_at_the_intersection_of_technology_and_biology'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2344?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1056" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4817b9887ab589f58ea7258b3e4cecbafa126c2_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:36</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Neri Oxman</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2344?language=en' lang='en'>
+Design at the intersection of technology and biology
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1037' id='t-1037'>Two twin domes,</span>
+<span class='talk-transcript__fragment' data-time='3708' id='t-3708'>two radically opposed design cultures.</span>
+<span class='talk-transcript__fragment' data-time='7709' id='t-7709'>One is made of thousands of steel parts,</span>
+<span class='talk-transcript__fragment' data-time='10773' id='t-10773'>the other of a single silk thread.</span>
+<span class='talk-transcript__fragment' data-time='14035' id='t-14035'>One is synthetic, the other organic.</span>
+<span class='talk-transcript__fragment' data-time='16936' id='t-16936'>One is imposed on the environment,</span>
+<span class='talk-transcript__fragment' data-time='19237' id='t-19237'>the other creates it.</span>
+<span class='talk-transcript__fragment' data-time='21666' id='t-21666'>One is designed for nature,
+the other is designed by her.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='26032' id='t-26032'>Michelangelo said that
+when he looked at raw marble,</span>
+<span class='talk-transcript__fragment' data-time='28949' id='t-28949'>he saw a figure struggling to be free.</span>
+<span class='talk-transcript__fragment' data-time='31425' id='t-31425'>The chisel was Michelangelo's only tool.</span>
+<span class='talk-transcript__fragment' data-time='37261' id='t-37261'>But living things are not chiseled.</span>
+<span class='talk-transcript__fragment' data-time='39999' id='t-39999'>They grow.</span>
+<span class='talk-transcript__fragment' data-time='41999' id='t-41999'>And in our smallest units of life,
+our cells, we carry all the information</span>
+<span class='talk-transcript__fragment' data-time='47489' id='t-47489'>that's required for every other cell
+to function and to replicate.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='54155' id='t-54155'>Tools also have consequences.</span>
+<span class='talk-transcript__fragment' data-time='56922' id='t-56922'>At least since the Industrial Revolution,
+the world of design has been dominated</span>
+<span class='talk-transcript__fragment' data-time='61556' id='t-61556'>by the rigors of manufacturing
+and mass production.</span>
+<span class='talk-transcript__fragment' data-time='64703' id='t-64703'>Assembly lines have dictated
+a world made of parts,</span>
+<span class='talk-transcript__fragment' data-time='67999' id='t-67999'>framing the imagination
+of designers and architects</span>
+<span class='talk-transcript__fragment' data-time='70615' id='t-70615'>who have been trained to think
+about their objects as assemblies</span>
+<span class='talk-transcript__fragment' data-time='73743' id='t-73743'>of discrete parts with distinct functions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78165' id='t-78165'>But you don't find homogenous
+material assemblies in nature.</span>
+<span class='talk-transcript__fragment' data-time='83434' id='t-83434'>Take human skin, for example.</span>
+<span class='talk-transcript__fragment' data-time='86054' id='t-86054'>Our facial skins are thin
+with large pores.</span>
+<span class='talk-transcript__fragment' data-time='89999' id='t-89999'>Our back skins are thicker,
+with small pores.</span>
+<span class='talk-transcript__fragment' data-time='93559' id='t-93559'>One acts mainly as filter,</span>
+<span class='talk-transcript__fragment' data-time='96201' id='t-96201'>the other mainly as barrier,</span>
+<span class='talk-transcript__fragment' data-time='97989' id='t-97989'>and yet it's the same skin:
+no parts, no assemblies.</span>
+<span class='talk-transcript__fragment' data-time='102281' id='t-102281'>It's a system that gradually
+varies its functionality</span>
+<span class='talk-transcript__fragment' data-time='105670' id='t-105670'>by varying elasticity.</span>
+<span class='talk-transcript__fragment' data-time='107835' id='t-107835'>So here this is a split screen
+to represent my split world view,</span>
+<span class='talk-transcript__fragment' data-time='111801' id='t-111801'>the split personality of every designer
+and architect operating today</span>
+<span class='talk-transcript__fragment' data-time='116229' id='t-116229'>between the chisel and the gene,</span>
+<span class='talk-transcript__fragment' data-time='118572' id='t-118572'>between machine and organism,
+between assembly and growth,</span>
+<span class='talk-transcript__fragment' data-time='123434' id='t-123434'>between Henry Ford and Charles Darwin.</span>
+<span class='talk-transcript__fragment' data-time='126734' id='t-126734'>These two worldviews,
+my left brain and right brain,</span>
+<span class='talk-transcript__fragment' data-time='129760' id='t-129760'>analysis and synthesis, will play out
+on the two screens behind me.</span>
+<span class='talk-transcript__fragment' data-time='137754' id='t-137754'>My work, at its simplest level,</span>
+<span class='talk-transcript__fragment' data-time='140224' id='t-140224'>is about uniting these two worldviews,</span>
+<span class='talk-transcript__fragment' data-time='142983' id='t-142983'>moving away from assembly</span>
+<span class='talk-transcript__fragment' data-time='145221' id='t-145221'>and closer into growth.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='149099' id='t-149099'>You're probably asking yourselves:</span>
+<span class='talk-transcript__fragment' data-time='151235' id='t-151235'>Why now?</span>
+<span class='talk-transcript__fragment' data-time='152766' id='t-152766'>Why was this not possible 10
+or even five years ago?</span>
+<span class='talk-transcript__fragment' data-time='158451' id='t-158451'>We live in a very special time in history,</span>
+<span class='talk-transcript__fragment' data-time='160603' id='t-160603'>a rare time,</span>
+<span class='talk-transcript__fragment' data-time='162699' id='t-162699'>a time when the confluence of four fields
+is giving designers access to tools</span>
+<span class='talk-transcript__fragment' data-time='167302' id='t-167302'>we've never had access to before.</span>
+<span class='talk-transcript__fragment' data-time='170205' id='t-170205'>These fields are computational design,</span>
+<span class='talk-transcript__fragment' data-time='173093' id='t-173093'>allowing us to design
+complex forms with simple code;</span>
+<span class='talk-transcript__fragment' data-time='178125' id='t-178125'>additive manufacturing,
+letting us produce parts</span>
+<span class='talk-transcript__fragment' data-time='182183' id='t-182183'>by adding material
+rather than carving it out;</span>
+<span class='talk-transcript__fragment' data-time='185833' id='t-185833'>materials engineering, which lets us
+design the behavior of materials</span>
+<span class='talk-transcript__fragment' data-time='189301' id='t-189301'>in high resolution;</span>
+<span class='talk-transcript__fragment' data-time='191042' id='t-191042'>and synthetic biology,</span>
+<span class='talk-transcript__fragment' data-time='192923' id='t-192923'>enabling us to design new biological
+functionality by editing DNA.</span>
+<span class='talk-transcript__fragment' data-time='197491' id='t-197491'>And at the intersection
+of these four fields,</span>
+<span class='talk-transcript__fragment' data-time='199755' id='t-199755'>my team and I create.</span>
+<span class='talk-transcript__fragment' data-time='201492' id='t-201492'>Please meet the minds and hands</span>
+<span class='talk-transcript__fragment' data-time='203921' id='t-203921'>of my students.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='207772' id='t-207772'>We design objects and products
+and structures and tools across scales,</span>
+<span class='talk-transcript__fragment' data-time='213457' id='t-213457'>from the large-scale,</span>
+<span class='talk-transcript__fragment' data-time='215252' id='t-215252'>like this robotic arm
+with an 80-foot diameter reach</span>
+<span class='talk-transcript__fragment' data-time='218792' id='t-218792'>with a vehicular base that will
+one day soon print entire buildings,</span>
+<span class='talk-transcript__fragment' data-time='222950' id='t-222950'>to nanoscale graphics made entirely
+of genetically engineered microorganisms</span>
+<span class='talk-transcript__fragment' data-time='227061' id='t-227061'>that glow in the dark.</span>
+<span class='talk-transcript__fragment' data-time='229261' id='t-229261'>Here we've reimagined the mashrabiya,</span>
+<span class='talk-transcript__fragment' data-time='231469' id='t-231469'>an archetype of ancient
+Arabic architecture,</span>
+<span class='talk-transcript__fragment' data-time='234866' id='t-234866'>and created a screen where
+every aperture is uniquely sized</span>
+<span class='talk-transcript__fragment' data-time='238454' id='t-238454'>to shape the form of light and heat
+moving through it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='242999' id='t-242999'>In our next project,</span>
+<span class='talk-transcript__fragment' data-time='244739' id='t-244739'>we explore the possibility
+of creating a cape and skirt --</span>
+<span class='talk-transcript__fragment' data-time='247973' id='t-247973'>this was for a Paris fashion show
+with Iris van Herpen --</span>
+<span class='talk-transcript__fragment' data-time='251187' id='t-251187'>like a second skin
+that are made of a single part,</span>
+<span class='talk-transcript__fragment' data-time='253999' id='t-253999'>stiff at the contours,
+flexible around the waist.</span>
+<span class='talk-transcript__fragment' data-time='257589' id='t-257589'>Together with my long-term
+3D printing collaborator Stratasys,</span>
+<span class='talk-transcript__fragment' data-time='261813' id='t-261813'>we 3D-printed this cape and skirt
+with no seams between the cells,</span>
+<span class='talk-transcript__fragment' data-time='266844' id='t-266844'>and I'll show more objects like it.</span>
+<span class='talk-transcript__fragment' data-time='269452' id='t-269452'>This helmet combines
+stiff and soft materials</span>
+<span class='talk-transcript__fragment' data-time='272889' id='t-272889'>in 20-micron resolution.</span>
+<span class='talk-transcript__fragment' data-time='276025' id='t-276025'>This is the resolution of a human hair.</span>
+<span class='talk-transcript__fragment' data-time='278437' id='t-278437'>It's also the resolution of a CT scanner.</span>
+<span class='talk-transcript__fragment' data-time='281531' id='t-281531'>That designers have access</span>
+<span class='talk-transcript__fragment' data-time='283096' id='t-283096'>to such high-resolution
+analytic and synthetic tools,</span>
+<span class='talk-transcript__fragment' data-time='287518' id='t-287518'>enables to design products that fit
+not only the shape of our bodies,</span>
+<span class='talk-transcript__fragment' data-time='292104' id='t-292104'>but also the physiological
+makeup of our tissues.</span>
+<span class='talk-transcript__fragment' data-time='296445' id='t-296445'>Next, we designed an acoustic chair,</span>
+<span class='talk-transcript__fragment' data-time='298477' id='t-298477'>a chair that would be at once
+structural, comfortable</span>
+<span class='talk-transcript__fragment' data-time='301713' id='t-301713'>and would also absorb sound.</span>
+<span class='talk-transcript__fragment' data-time='304529' id='t-304529'>Professor Carter, my collaborator, and I
+turned to nature for inspiration,</span>
+<span class='talk-transcript__fragment' data-time='308999' id='t-308999'>and by designing this irregular
+surface pattern,</span>
+<span class='talk-transcript__fragment' data-time='311708' id='t-311708'>it becomes sound-absorbent.</span>
+<span class='talk-transcript__fragment' data-time='314659' id='t-314659'>We printed its surface
+out of 44 different properties,</span>
+<span class='talk-transcript__fragment' data-time='318583' id='t-318583'>varying in rigidity, opacity and color,</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>corresponding to pressure points
+on the human body.</span>
+<span class='talk-transcript__fragment' data-time='326023' id='t-326023'>Its surface, as in nature,
+varies its functionality</span>
+<span class='talk-transcript__fragment' data-time='330039' id='t-330039'>not by adding another material
+or another assembly,</span>
+<span class='talk-transcript__fragment' data-time='333690' id='t-333690'>but by continuously and delicately
+varying material property.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='340496' id='t-340496'>But is nature ideal?</span>
+<span class='talk-transcript__fragment' data-time='344146' id='t-344146'>Are there no parts in nature?</span>
+<span class='talk-transcript__fragment' data-time='349185' id='t-349185'>I wasn't raised
+in a religious Jewish home,</span>
+<span class='talk-transcript__fragment' data-time='352480' id='t-352480'>but when I was young,</span>
+<span class='talk-transcript__fragment' data-time='353660' id='t-353660'>my grandmother used to tell me
+stories from the Hebrew Bible,</span>
+<span class='talk-transcript__fragment' data-time='357081' id='t-357081'>and one of them stuck with me and came
+to define much of what I care about.</span>
+<span class='talk-transcript__fragment' data-time='361110' id='t-361110'>As she recounts:</span>
+<span class='talk-transcript__fragment' data-time='363142' id='t-363142'>&quot;On the third day of Creation,
+God commands the Earth</span>
+<span class='talk-transcript__fragment' data-time='366109' id='t-366109'>to grow a fruit-bearing fruit tree.&quot;</span>
+<span class='talk-transcript__fragment' data-time='368649' id='t-368649'>For this first fruit tree,
+there was to be no differentiation</span>
+<span class='talk-transcript__fragment' data-time='371900' id='t-371900'>between trunk, branches,
+leaves and fruit.</span>
+<span class='talk-transcript__fragment' data-time='376294' id='t-376294'>The whole tree was a fruit.</span>
+<span class='talk-transcript__fragment' data-time='380229' id='t-380229'>Instead, the land grew trees
+that have bark and stems and flowers.</span>
+<span class='talk-transcript__fragment' data-time='386337' id='t-386337'>The land created a world made of parts.</span>
+<span class='talk-transcript__fragment' data-time='390514' id='t-390514'>I often ask myself,</span>
+<span class='talk-transcript__fragment' data-time='392396' id='t-392396'>&quot;What would design be like
+if objects were made of a single part?</span>
+<span class='talk-transcript__fragment' data-time='397412' id='t-397412'>Would we return to a better
+state of creation?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='402999' id='t-402999'>So we looked for that biblical material,</span>
+<span class='talk-transcript__fragment' data-time='404978' id='t-404978'>that fruit-bearing fruit tree
+kind of material, and we found it.</span>
+<span class='talk-transcript__fragment' data-time='411494' id='t-411494'>The second-most abundant biopolymer
+on the planet is called chitin,</span>
+<span class='talk-transcript__fragment' data-time='415274' id='t-415274'>and some 100 million tons of it
+are produced every year</span>
+<span class='talk-transcript__fragment' data-time='418999' id='t-418999'>by organisms such as shrimps,
+crabs, scorpions and butterflies.</span>
+<span class='talk-transcript__fragment' data-time='423259' id='t-423259'>We thought if we could tune
+its properties,</span>
+<span class='talk-transcript__fragment' data-time='425999' id='t-425999'>we could generate structures
+that are multifunctional</span>
+<span class='talk-transcript__fragment' data-time='428651' id='t-428651'>out of a single part.</span>
+<span class='talk-transcript__fragment' data-time='430235' id='t-430235'>So that's what we did.</span>
+<span class='talk-transcript__fragment' data-time='432999' id='t-432999'>We called Legal Seafood --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='435016' id='t-435016'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='436076' id='t-436076'>we ordered a bunch of shrimp shells,</span>
+<span class='talk-transcript__fragment' data-time='438957' id='t-438957'>we grinded them
+and we produced chitosan paste.</span>
+<span class='talk-transcript__fragment' data-time='442583' id='t-442583'>By varying chemical concentrations,</span>
+<span class='talk-transcript__fragment' data-time='444571' id='t-444571'>we were able to achieve
+a wide array of properties --</span>
+<span class='talk-transcript__fragment' data-time='447889' id='t-447889'>from dark, stiff and opaque,</span>
+<span class='talk-transcript__fragment' data-time='449690' id='t-449690'>to light, soft and transparent.</span>
+<span class='talk-transcript__fragment' data-time='452689' id='t-452689'>In order to print the structures
+in large scale,</span>
+<span class='talk-transcript__fragment' data-time='455653' id='t-455653'>we built a robotically controlled
+extrusion system with multiple nozzles.</span>
+<span class='talk-transcript__fragment' data-time='460390' id='t-460390'>The robot would vary
+material properties on the fly</span>
+<span class='talk-transcript__fragment' data-time='463572' id='t-463572'>and create these 12-foot-long structures
+made of a single material,</span>
+<span class='talk-transcript__fragment' data-time='468699' id='t-468699'>100 percent recyclable.</span>
+<span class='talk-transcript__fragment' data-time='471465' id='t-471465'>When the parts are ready,
+they're left to dry</span>
+<span class='talk-transcript__fragment' data-time='474163' id='t-474163'>and find a form naturally
+upon contact with air.</span>
+<span class='talk-transcript__fragment' data-time='478313' id='t-478313'>So why are we still
+designing with plastics?</span>
+<span class='talk-transcript__fragment' data-time='483999' id='t-483999'>The air bubbles that were a byproduct
+of the printing process</span>
+<span class='talk-transcript__fragment' data-time='487486' id='t-487486'>were used to contain
+photosynthetic microorganisms</span>
+<span class='talk-transcript__fragment' data-time='490386' id='t-490386'>that first appeared on our planet
+3.5 billion year ago,</span>
+<span class='talk-transcript__fragment' data-time='493283' id='t-493283'>as we learned yesterday.</span>
+<span class='talk-transcript__fragment' data-time='495999' id='t-495999'>Together with our collaborators
+at Harvard and MIT,</span>
+<span class='talk-transcript__fragment' data-time='498610' id='t-498610'>we embedded bacteria
+that were genetically engineered</span>
+<span class='talk-transcript__fragment' data-time='501387' id='t-501387'>to rapidly capture carbon
+from the atmosphere</span>
+<span class='talk-transcript__fragment' data-time='504553' id='t-504553'>and convert it into sugar.</span>
+<span class='talk-transcript__fragment' data-time='507449' id='t-507449'>For the first time,</span>
+<span class='talk-transcript__fragment' data-time='509260' id='t-509260'>we were able to generate structures
+that would seamlessly transition</span>
+<span class='talk-transcript__fragment' data-time='513250' id='t-513250'>from beam to mesh,</span>
+<span class='talk-transcript__fragment' data-time='516608' id='t-516608'>and if scaled even larger, to windows.</span>
+<span class='talk-transcript__fragment' data-time='520019' id='t-520019'>A fruit-bearing fruit tree.</span>
+<span class='talk-transcript__fragment' data-time='522626' id='t-522626'>Working with an ancient material,</span>
+<span class='talk-transcript__fragment' data-time='525336' id='t-525336'>one of the first lifeforms on the planet,</span>
+<span class='talk-transcript__fragment' data-time='527999' id='t-527999'>plenty of water and a little bit
+of synthetic biology,</span>
+<span class='talk-transcript__fragment' data-time='531999' id='t-531999'>we were able to transform a structure
+made of shrimp shells</span>
+<span class='talk-transcript__fragment' data-time='535530' id='t-535530'>into an architecture
+that behaves like a tree.</span>
+<span class='talk-transcript__fragment' data-time='539724' id='t-539724'>And here's the best part:</span>
+<span class='talk-transcript__fragment' data-time='542049' id='t-542049'>for objects designed to biodegrade,</span>
+<span class='talk-transcript__fragment' data-time='544020' id='t-544020'>put them in the sea,
+and they will nourish marine life;</span>
+<span class='talk-transcript__fragment' data-time='547740' id='t-547740'>place them in soil,
+and they will help grow a tree.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='552415' id='t-552415'>The setting for our next exploration
+using the same design principles</span>
+<span class='talk-transcript__fragment' data-time='556456' id='t-556456'>was the solar system.</span>
+<span class='talk-transcript__fragment' data-time='558693' id='t-558693'>We looked for the possibility
+of creating life-sustaining clothing</span>
+<span class='talk-transcript__fragment' data-time='562999' id='t-562999'>for interplanetary voyages.</span>
+<span class='talk-transcript__fragment' data-time='566707' id='t-566707'>To do that, we needed to contain bacteria
+and be able to control their flow.</span>
+<span class='talk-transcript__fragment' data-time='571769' id='t-571769'>So like the periodic table, we came up
+with our own table of the elements:</span>
+<span class='talk-transcript__fragment' data-time='576353' id='t-576353'>new lifeforms that
+were computationally grown,</span>
+<span class='talk-transcript__fragment' data-time='579766' id='t-579766'>additively manufactured</span>
+<span class='talk-transcript__fragment' data-time='581831' id='t-581831'>and biologically augmented.</span>
+<span class='talk-transcript__fragment' data-time='586096' id='t-586096'>I like to think of synthetic biology
+as liquid alchemy,</span>
+<span class='talk-transcript__fragment' data-time='589645' id='t-589645'>only instead of transmuting
+precious metals,</span>
+<span class='talk-transcript__fragment' data-time='592408' id='t-592408'>you're synthesizing new biological
+functionality inside very small channels.</span>
+<span class='talk-transcript__fragment' data-time='596171' id='t-596171'>It's called microfluidics.</span>
+<span class='talk-transcript__fragment' data-time='599067' id='t-599067'>We 3D-printed our own channels
+in order to control the flow</span>
+<span class='talk-transcript__fragment' data-time='603266' id='t-603266'>of these liquid bacterial cultures.</span>
+<span class='talk-transcript__fragment' data-time='607432' id='t-607432'>In our first piece of clothing,
+we combined two microorganisms.</span>
+<span class='talk-transcript__fragment' data-time='611457' id='t-611457'>The first is cyanobacteria.</span>
+<span class='talk-transcript__fragment' data-time='613392' id='t-613392'>It lives in our oceans
+and in freshwater ponds.</span>
+<span class='talk-transcript__fragment' data-time='616392' id='t-616392'>And the second, E. coli, the bacterium
+that inhabits the human gut.</span>
+<span class='talk-transcript__fragment' data-time='620862' id='t-620862'>One converts light into sugar,
+the other consumes that sugar</span>
+<span class='talk-transcript__fragment' data-time='624459' id='t-624459'>and produces biofuels
+useful for the built environment.</span>
+<span class='talk-transcript__fragment' data-time='627832' id='t-627832'>Now, these two microorganisms
+never interact in nature.</span>
+<span class='talk-transcript__fragment' data-time='632343' id='t-632343'>In fact, they never met each other.</span>
+<span class='talk-transcript__fragment' data-time='634225' id='t-634225'>They've been here,
+engineered for the first time,</span>
+<span class='talk-transcript__fragment' data-time='637428' id='t-637428'>to have a relationship
+inside a piece of clothing.</span>
+<span class='talk-transcript__fragment' data-time='641340' id='t-641340'>Think of it as evolution
+not by natural selection,</span>
+<span class='talk-transcript__fragment' data-time='644999' id='t-644999'>but evolution by design.</span>
+<span class='talk-transcript__fragment' data-time='647515' id='t-647515'>In order to contain these relationships,</span>
+<span class='talk-transcript__fragment' data-time='649738' id='t-649738'>we've created a single channel
+that resembles the digestive tract,</span>
+<span class='talk-transcript__fragment' data-time='653867' id='t-653867'>that will help flow these bacteria
+and alter their function along the way.</span>
+<span class='talk-transcript__fragment' data-time='658822' id='t-658822'>We then started growing
+these channels on the human body,</span>
+<span class='talk-transcript__fragment' data-time='662475' id='t-662475'>varying material properties
+according to the desired functionality.</span>
+<span class='talk-transcript__fragment' data-time='665828' id='t-665828'>Where we wanted more photosynthesis,
+we would design more transparent channels.</span>
+<span class='talk-transcript__fragment' data-time='671101' id='t-671101'>This wearable digestive system,
+when it's stretched end to end,</span>
+<span class='talk-transcript__fragment' data-time='676229' id='t-676229'>spans 60 meters.</span>
+<span class='talk-transcript__fragment' data-time='678317' id='t-678317'>This is half the length
+of a football field,</span>
+<span class='talk-transcript__fragment' data-time='680999' id='t-680999'>and 10 times as long
+as our small intestines.</span>
+<span class='talk-transcript__fragment' data-time='685612' id='t-685612'>And here it is for the first time
+unveiled at TED --</span>
+<span class='talk-transcript__fragment' data-time='688344' id='t-688344'>our first photosynthetic wearable,</span>
+<span class='talk-transcript__fragment' data-time='690471' id='t-690471'>liquid channels glowing with life
+inside a wearable clothing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='694694' id='t-694694'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='695846' id='t-695846'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='699871' id='t-699871'>Mary Shelley said, &quot;We are unfashioned
+creatures, but only half made up.&quot;</span>
+<span class='talk-transcript__fragment' data-time='703871' id='t-703871'>What if design could provide
+that other half?</span>
+<span class='talk-transcript__fragment' data-time='707776' id='t-707776'>What if we could create structures
+that would augment living matter?</span>
+<span class='talk-transcript__fragment' data-time='714035' id='t-714035'>What if we could create
+personal microbiomes</span>
+<span class='talk-transcript__fragment' data-time='717492' id='t-717492'>that would scan our skins,
+repair damaged tissue</span>
+<span class='talk-transcript__fragment' data-time='721391' id='t-721391'>and sustain our bodies?</span>
+<span class='talk-transcript__fragment' data-time='724062' id='t-724062'>Think of this as a form of edited biology.</span>
+<span class='talk-transcript__fragment' data-time='726999' id='t-726999'>This entire collection, Wanderers,
+that was named after planets,</span>
+<span class='talk-transcript__fragment' data-time='730999' id='t-730999'>was not to me really about fashion per se,</span>
+<span class='talk-transcript__fragment' data-time='733681' id='t-733681'>but it provided an opportunity
+to speculate about the future</span>
+<span class='talk-transcript__fragment' data-time='737064' id='t-737064'>of our race on our planet and beyond,</span>
+<span class='talk-transcript__fragment' data-time='739710' id='t-739710'>to combine scientific insight
+with lots of mystery</span>
+<span class='talk-transcript__fragment' data-time='743465' id='t-743465'>and to move away
+from the age of the machine</span>
+<span class='talk-transcript__fragment' data-time='746810' id='t-746810'>to a new age of symbiosis
+between our bodies,</span>
+<span class='talk-transcript__fragment' data-time='750310' id='t-750310'>the microorganisms that we inhabit,</span>
+<span class='talk-transcript__fragment' data-time='752773' id='t-752773'>our products and even our buildings.</span>
+<span class='talk-transcript__fragment' data-time='754725' id='t-754725'>I call this material ecology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='757591' id='t-757591'>To do this, we always need
+to return back to nature.</span>
+<span class='talk-transcript__fragment' data-time='762999' id='t-762999'>By now, you know that a 3D printer
+prints material in layers.</span>
+<span class='talk-transcript__fragment' data-time='767759' id='t-767759'>You also know that nature doesn't.</span>
+<span class='talk-transcript__fragment' data-time='770182' id='t-770182'>It grows. It adds with sophistication.</span>
+<span class='talk-transcript__fragment' data-time='774102' id='t-774102'>This silkworm cocoon, for example,</span>
+<span class='talk-transcript__fragment' data-time='776690' id='t-776690'>creates a highly
+sophisticated architecture,</span>
+<span class='talk-transcript__fragment' data-time='780034' id='t-780034'>a home inside which to metamorphisize.</span>
+<span class='talk-transcript__fragment' data-time='782859' id='t-782859'>No additive manufacturing today gets even
+close to this level of sophistication.</span>
+<span class='talk-transcript__fragment' data-time='788535' id='t-788535'>It does so by combining not two materials,</span>
+<span class='talk-transcript__fragment' data-time='791631' id='t-791631'>but two proteins
+in different concentrations.</span>
+<span class='talk-transcript__fragment' data-time='795487' id='t-795487'>One acts as the structure,
+the other is the glue, or the matrix,</span>
+<span class='talk-transcript__fragment' data-time='799507' id='t-799507'>holding those fibers together.</span>
+<span class='talk-transcript__fragment' data-time='801952' id='t-801952'>And this happens across scales.</span>
+<span class='talk-transcript__fragment' data-time='804717' id='t-804717'>The silkworm first attaches itself
+to the environment --</span>
+<span class='talk-transcript__fragment' data-time='807473' id='t-807473'>it creates a tensile structure --</span>
+<span class='talk-transcript__fragment' data-time='809513' id='t-809513'>and it then starts spinning
+a compressive cocoon.</span>
+<span class='talk-transcript__fragment' data-time='812999' id='t-812999'>Tension and compression,
+the two forces of life,</span>
+<span class='talk-transcript__fragment' data-time='816554' id='t-816554'>manifested in a single material.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='821337' id='t-821337'>In order to better understand
+how this complex process works,</span>
+<span class='talk-transcript__fragment' data-time='824572' id='t-824572'>we glued a tiny earth magnet</span>
+<span class='talk-transcript__fragment' data-time='826783' id='t-826783'>to the head of a silkworm,
+to the spinneret.</span>
+<span class='talk-transcript__fragment' data-time='829806' id='t-829806'>We placed it inside a box
+with magnetic sensors,</span>
+<span class='talk-transcript__fragment' data-time='832778' id='t-832778'>and that allowed us to create
+this 3-dimensional point cloud</span>
+<span class='talk-transcript__fragment' data-time='835889' id='t-835889'>and visualize the complex architecture
+of the silkworm cocoon.</span>
+<span class='talk-transcript__fragment' data-time='841736' id='t-841736'>However, when we placed
+the silkworm on a flat patch,</span>
+<span class='talk-transcript__fragment' data-time='845414' id='t-845414'>not inside a box,</span>
+<span class='talk-transcript__fragment' data-time='847176' id='t-847176'>we realized it would spin a flat cocoon</span>
+<span class='talk-transcript__fragment' data-time='850391' id='t-850391'>and it would still
+healthily metamorphisize.</span>
+<span class='talk-transcript__fragment' data-time='853781' id='t-853781'>So we started designing different
+environments, different scaffolds,</span>
+<span class='talk-transcript__fragment' data-time='857790' id='t-857790'>and we discovered that
+the shape, the composition,</span>
+<span class='talk-transcript__fragment' data-time='860549' id='t-860549'>the structure of the cocoon, was directly
+informed by the environment.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='864866' id='t-864866'>Silkworms are often boiled to death
+inside their cocoons,</span>
+<span class='talk-transcript__fragment' data-time='869243' id='t-869243'>their silk unraveled and used
+in the textile industry.</span>
+<span class='talk-transcript__fragment' data-time='872933' id='t-872933'>We realized that designing these templates
+allowed us to give shape to raw silk</span>
+<span class='talk-transcript__fragment' data-time='879416' id='t-879416'>without boiling a single cocoon.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='882950' id='t-882950'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='886217' id='t-886217'>They would healthily metamorphisize,</span>
+<span class='talk-transcript__fragment' data-time='888963' id='t-888963'>and we would be able
+to create these things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='891517' id='t-891517'>So we scaled this process up
+to architectural scale.</span>
+<span class='talk-transcript__fragment' data-time='895170' id='t-895170'>We had a robot spin
+the template out of silk,</span>
+<span class='talk-transcript__fragment' data-time='898325' id='t-898325'>and we placed it on our site.</span>
+<span class='talk-transcript__fragment' data-time='900489' id='t-900489'>We knew silkworms migrated
+toward darker and colder areas,</span>
+<span class='talk-transcript__fragment' data-time='905397' id='t-905397'>so we used a sun path diagram
+to reveal the distribution</span>
+<span class='talk-transcript__fragment' data-time='908741' id='t-908741'>of light and heat on our structure.</span>
+<span class='talk-transcript__fragment' data-time='911692' id='t-911692'>We then created holes, or apertures,</span>
+<span class='talk-transcript__fragment' data-time='914226' id='t-914226'>that would lock in the rays
+of light and heat,</span>
+<span class='talk-transcript__fragment' data-time='917999' id='t-917999'>distributing those silkworms
+on the structure.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='922777' id='t-922777'>We were ready to receive the caterpillars.</span>
+<span class='talk-transcript__fragment' data-time='925174' id='t-925174'>We ordered 6,500 silkworms
+from an online silk farm.</span>
+<span class='talk-transcript__fragment' data-time='930031' id='t-930031'>And after four weeks of feeding,
+they were ready to spin with us.</span>
+<span class='talk-transcript__fragment' data-time='933983' id='t-933983'>We placed them carefully
+at the bottom rim of the scaffold,</span>
+<span class='talk-transcript__fragment' data-time='937539' id='t-937539'>and as they spin they pupate,
+they mate, they lay eggs,</span>
+<span class='talk-transcript__fragment' data-time='941999' id='t-941999'>and life begins all over again --
+just like us but much, much shorter.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='948300' id='t-948300'>Bucky Fuller said that tension
+is the great integrity,</span>
+<span class='talk-transcript__fragment' data-time='953069' id='t-953069'>and he was right.</span>
+<span class='talk-transcript__fragment' data-time='954716' id='t-954716'>As they spin biological silk
+over robotically spun silk,</span>
+<span class='talk-transcript__fragment' data-time='958462' id='t-958462'>they give this entire
+pavilion its integrity.</span>
+<span class='talk-transcript__fragment' data-time='961150' id='t-961150'>And over two to three weeks,</span>
+<span class='talk-transcript__fragment' data-time='963024' id='t-963024'>6,500 silkworms spin 6,500 kilometers.</span>
+<span class='talk-transcript__fragment' data-time='967703' id='t-967703'>In a curious symmetry, this is also
+the length of the Silk Road.</span>
+<span class='talk-transcript__fragment' data-time='972837' id='t-972837'>The moths, after they hatch,
+produce 1.5 million eggs.</span>
+<span class='talk-transcript__fragment' data-time='976716' id='t-976716'>This could be used for 250
+additional pavilions for the future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='981639' id='t-981639'>So here they are, the two worldviews.</span>
+<span class='talk-transcript__fragment' data-time='984728' id='t-984728'>One spins silk out of a robotic arm,</span>
+<span class='talk-transcript__fragment' data-time='988519' id='t-988519'>the other fills in the gaps.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='992182' id='t-992182'>If the final frontier of design
+is to breathe life into the products</span>
+<span class='talk-transcript__fragment' data-time='995987' id='t-995987'>and the buildings around us,</span>
+<span class='talk-transcript__fragment' data-time='997805' id='t-997805'>to form a two-material ecology,</span>
+<span class='talk-transcript__fragment' data-time='999999' id='t-999999'>then designers must unite
+these two worldviews.</span>
+<span class='talk-transcript__fragment' data-time='1003627' id='t-1003627'>Which brings us back, of course,
+to the beginning.</span>
+<span class='talk-transcript__fragment' data-time='1008121' id='t-1008121'>Here's to a new age of design,
+a new age of creation,</span>
+<span class='talk-transcript__fragment' data-time='1011748' id='t-1011748'>that takes us from
+a nature-inspired design</span>
+<span class='talk-transcript__fragment' data-time='1015120' id='t-1015120'>to a design-inspired nature,</span>
+<span class='talk-transcript__fragment' data-time='1017999' id='t-1017999'>and that demands of us for the first time</span>
+<span class='talk-transcript__fragment' data-time='1021999' id='t-1021999'>that we mother nature.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1026793' id='t-1026793'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1027851' id='t-1027851'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1034871' id='t-1034871'>Thank you very much. Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1036999' id='t-1036999'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

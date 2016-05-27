@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Todd Kuiken: A prosthetic arm that &quot;feels&quot; | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Todd Kuiken: A prosthetic arm that &quot;feels&quot; | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Physiatrist and engineer Todd Kuiken is building a prosthetic arm that connects with the human nervous system -- improving motion, control and even feeling. Onstage, patient Amanda Kitts helps demonstrate this next-gen robotic arm." name="description" />
+<meta content="Todd Kuiken" name="author" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;A prosthetic arm that &quot;feels&quot;&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bc19fd6b99a64515a4ae0528e2080a72241ede6e_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bc19fd6b99a64515a4ae0528e2080a72241ede6e_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Physiatrist and engineer Todd Kuiken is building a prosthetic arm that connects with the human nervous system -- improving motion, control and even feeling. Onstage, patient Amanda Kitts helps demonstrate this next-gen robotic arm." property="og:description" />
+<meta content="http://www.ted.com/talks/todd_kuiken_a_prosthetic_arm_that_feels/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1251?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='todd_kuiken_a_prosthetic_arm_that_feels'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1251?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1131" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bc19fd6b99a64515a4ae0528e2080a72241ede6e_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:51</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Todd Kuiken</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1251?language=en' lang='en'>
+A prosthetic arm that &quot;feels&quot;
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2011
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>So today, I would like to talk with you</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>about bionics,</span>
+<span class='talk-transcript__fragment' data-time='5000' id='t-5000'>which is the popular term</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>for the science of replacing part of a living organism</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>with a mechatronic device, or a robot.</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>It is essentially</span>
+<span class='talk-transcript__fragment' data-time='15000' id='t-15000'>the stuff of life meets machine.</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>And specifically, I'd like to talk with you</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>about how bionics is evolving</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>for people with arm amputations.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>This is our motivation.</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>Arm amputation causes a huge disability.</span>
+<span class='talk-transcript__fragment' data-time='32000' id='t-32000'>I mean, the functional impairment is clear.</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>Our hands are amazing instruments.</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>And when you lose one, far less both,</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>it's a lot harder to do the things</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>we physically need to do.</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>There's also a huge emotional impact.</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>And actually, I spend as much of my time in clinic</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>dealing with the emotional adjustment of patients</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>as with the physical disability.</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>And finally, there's a profound social impact.</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>We talk with our hands.</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>We greet with our hands.</span>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>And we interact with the physical world with our hands.</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>And when they're missing,</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>it's a barrier.</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>Arm amputation is usually caused by trauma,</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>with things like industrial accidents,</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>motor vehicle collisions</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>or, very poignantly, war.</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>There are also some children who are born without arms,</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>called congenital limb deficiency.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>Unfortunately, we don't do great</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>with upper-limb prosthetics.</span>
+<span class='talk-transcript__fragment' data-time='85000' id='t-85000'>There are two general types.</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>They're called body-powered prostheses,</span>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>which were invented just after the Civil War,</span>
+<span class='talk-transcript__fragment' data-time='91000' id='t-91000'>refined in World War I and World War II.</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>Here you see a patent</span>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>for an arm in 1912.</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>It's not a lot different</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>than the one you see on my patient.</span>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>They work by harnessing shoulder power.</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>So when you squish your shoulders, they pull on a bicycle cable.</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>And that bicycle cable can open or close a hand or a hook</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>or bend an elbow.</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>And we still use them commonly,</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>because they're very robust</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>and relatively simple devices.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>The state of the art</span>
+<span class='talk-transcript__fragment' data-time='121000' id='t-121000'>is what we call myoelectric prostheses.</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>These are motorized devices</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>that are controlled</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>by little electrical signals from your muscle.</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>Every time you contract a muscle,</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>it emits a little electricity</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>that you can record with antennae or electrodes</span>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>and use that to operate the motorized prosthesis.</span>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>They work pretty well</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>for people who have just lost their hand,</span>
+<span class='talk-transcript__fragment' data-time='142000' id='t-142000'>because your hand muscles are still there.</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>You squeeze your hand, these muscles contract.</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>You open it, these muscles contract.</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>So it's intuitive, and it works pretty well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='151000' id='t-151000'>Well how about with higher levels of amputation?</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>Now you've lost your arm above the elbow.</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>You're missing not only these muscles,</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>but your hand and your elbow too.</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>What do you do?</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>Well our patients have to use</span>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>very code-y systems</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>of using just their arm muscles</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>to operate robotic limbs.</span>
+<span class='talk-transcript__fragment' data-time='171000' id='t-171000'>We have robotic limbs.</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>There are several available on the market, and here you see a few.</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>They contain just a hand that will open and close,</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>a wrist rotator and an elbow.</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>There's no other functions.</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>If they did, how would we tell them what to do?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>We built our own arm at the Rehab Institute of Chicago</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>where we've added some wrist flexion and shoulder joints</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>to get up to six motors, or six degrees of freedom.</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>And we've had the opportunity to work with some very advanced arms</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>that were funded by the U.S. military, using these prototypes,</span>
+<span class='talk-transcript__fragment' data-time='200000' id='t-200000'>that had up to 10 different degrees of freedom</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>including movable hands.</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>But at the end of the day,</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>how do we tell these robotic arms what to do?</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>How do we control them?</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>Well we need a neural interface,</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>a way to connect to our nervous system</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>or our thought processes</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>so that it's intuitive, it's natural,</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>like for you and I.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='223000' id='t-223000'>Well the body works by starting a motor command in your brain,</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>going down your spinal cord,</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>out the nerves and to your periphery.</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>And your sensation's the exact opposite.</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>You touch yourself, there's a stimulus</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>that comes up those very same nerves back up to your brain.</span>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>When you lose your arm, that nervous system still works.</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>Those nerves can put out command signals.</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>And if I tap the nerve ending</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>on a World War II vet,</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>he'll still feel his missing hand.</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>So you might say,</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>let's go to the brain</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>and put something in the brain to record signals,</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>or in the end of the peripheral nerve and record them there.</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>And these are very exciting research areas,</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>but it's really, really hard.</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>You have to put in</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>hundreds of microscopic wires</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>to record from little tiny individual neurons -- ordinary fibers</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>that put out tiny signals</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>that are microvolts.</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>And it's just too hard</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>to use now and for my patients today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>So we developed a different approach.</span>
+<span class='talk-transcript__fragment' data-time='284000' id='t-284000'>We're using a biological amplifier</span>
+<span class='talk-transcript__fragment' data-time='287000' id='t-287000'>to amplify these nerve signals -- muscles.</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>Muscles will amplify the nerve signals</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>about a thousand-fold,</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>so that we can record them from on top of the skin,</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>like you saw earlier.</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>So our approach is something we call targeted reinnervation.</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>Imagine, with somebody who's lost their whole arm,</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>we still have four major nerves</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>that go down your arm.</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>And we take the nerve away from your chest muscle</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>and let these nerves grow into it.</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>Now you think, &quot;Close hand,&quot; and a little section of your chest contracts.</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>You think, &quot;Bend elbow,&quot;</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>a different section contracts.</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>And we can use electrodes or antennae</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>to pick that up and tell the arm to move.</span>
+<span class='talk-transcript__fragment' data-time='327000' id='t-327000'>That's the idea.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>So this is the first man that we tried it on.</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>His name is Jesse Sullivan.</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>He's just a saint of a man --</span>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>54-year-old lineman who touched the wrong wire</span>
+<span class='talk-transcript__fragment' data-time='338000' id='t-338000'>and had both of his arms burnt so badly</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>they had to be amputated at the shoulder.</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>Jesse came to us at the RIC</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>to be fit with these state-of-the-art devices, and here you see them.</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>I'm still using that old technology</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>with a bicycle cable on his right side.</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>And he picks which joint he wants to move with those chin switches.</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>On the left side he's got a modern motorized prosthesis</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>with those three joints,</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>and he operates little pads in his shoulder</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>that he touches to make the arm go.</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>And Jesse's a good crane operator,</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>and he did okay by our standards.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>He also required a revision surgery on his chest.</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>And that gave us the opportunity</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>to do targeted reinnervation.</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>So my colleague, Dr. Greg Dumanian, did the surgery.</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>First, we cut away the nerve to his own muscle,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>then we took the arm nerves</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>and just kind of had them shift down onto his chest</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>and closed him up.</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>And after about three months,</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>the nerves grew in a little bit and we could get a twitch.</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>And after six months, the nerves grew in well,</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>and you could see strong contractions.</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>And this is what it looks like.</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>This is what happens when Jesse thinks</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>open and close his hand,</span>
+<span class='talk-transcript__fragment' data-time='404000' id='t-404000'>or bend or straighten your elbow.</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>You can see the movements on his chest,</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>and those little hash marks</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>are where we put our antennae, or electrodes.</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>And I challenge anybody in the room</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>to make their chest go like this.</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>His brain is thinking about his arm.</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>He has not learned how to do this with the chest.</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>There is not a learning process.</span>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>That's why it's intuitive.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>So here's Jesse in our first little test with him.</span>
+<span class='talk-transcript__fragment' data-time='429000' id='t-429000'>On the left-hand side, you see his original prosthesis,</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>and he's using those switches</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>to move little blocks from one box to the other.</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>He's had that arm for about 20 months, so he's pretty good with it.</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>On the right side,</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>two months after we fit him with his targeted reinnervation prosthesis --</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>which, by the way, is the same physical arm,</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>just programmed a little different --</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>you can see that he's much faster</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>and much smoother as he moves these little blocks.</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>And we're only able to use three of the signals at this time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>Then we had one of those little surprises in science.</span>
+<span class='talk-transcript__fragment' data-time='462000' id='t-462000'>So we're all motivated to get motor commands</span>
+<span class='talk-transcript__fragment' data-time='464000' id='t-464000'>to drive robotic arms.</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>And after a few months,</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>you touch Jesse on his chest,</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>and he felt his missing hand.</span>
+<span class='talk-transcript__fragment' data-time='473000' id='t-473000'>His hand sensation grew into his chest again</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>probably because we had also taken away a lot of fat,</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>so the skin was right down to the muscle</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>and deinnervated, if you would, his skin.</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>So you touch Jesse here, he feels his thumb;</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>you touch it here, he feels his pinky.</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>He feels light touch</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>down to one gram of force.</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>He feels hot, cold, sharp, dull,</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>all in his missing hand,</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>or both his hand and his chest,</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>but he can attend to either.</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>So this is really exciting for us,</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>because now we have a portal,</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>a portal, or a way to potentially give back sensation,</span>
+<span class='talk-transcript__fragment' data-time='507000' id='t-507000'>so that he might feel what he touches</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>with his prosthetic hand.</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>Imagine sensors in the hand</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>coming up and pressing on this new hand skin.</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>So it was very exciting.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>We've also gone on</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>with what was initially our primary population</span>
+<span class='talk-transcript__fragment' data-time='522000' id='t-522000'>of people with above-the-elbow amputations.</span>
+<span class='talk-transcript__fragment' data-time='524000' id='t-524000'>And here we deinnervate, or cut the nerve away,</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>just from little segments of muscle</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>and leave others alone</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>that give us our up-down signals</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>and two others that will give us a hand open and close signal.</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>This was one of our first patients, Chris.</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>You see him with his original device</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>on the left there after eight months of use,</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>and on the right, it is two months.</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>He's about four or five times as fast</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>with this simple little performance metric.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>All right.</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>So one of the best parts of my job</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>is working with really great patients</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>who are also our research collaborators.</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>And we're fortunate today</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>to have Amanda Kitts come and join us.</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>Please welcome Amanda Kitts.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='572000' id='t-572000'>So Amanda, would you please tell us how you lost your arm?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>Amanda Kitts: Sure. In 2006, I had a car accident.</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>And I was driving home from work,</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>and a truck was coming the opposite direction,</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>came over into my lane,</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>ran over the top of my car and his axle tore my arm off.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>Todd Kuiken: Okay, so after your amputation, you healed up.</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>And you've got one of these conventional arms.</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>Can you tell us how it worked?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>AK: Well, it was a little difficult,</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>because all I had to work with was a bicep and a tricep.</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>So for the simple little things like picking something up,</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>I would have to bend my elbow,</span>
+<span class='talk-transcript__fragment' data-time='607000' id='t-607000'>and then I would have to cocontract</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>to get it to change modes.</span>
+<span class='talk-transcript__fragment' data-time='611000' id='t-611000'>When I did that,</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>I had to use my bicep</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>to get the hand to close,</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>use my tricep to get it to open,</span>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>cocontract again</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>to get the elbow to work again.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>TK: So it was a little slow?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>AK: A little slow, and it was just hard to work.</span>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>You had to concentrate a whole lot.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>TK: Okay, so I think about nine months later</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>that you had the targeted reinnervation surgery,</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>took six more months to have all the reinnervation.</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>Then we fit her with a prosthesis.</span>
+<span class='talk-transcript__fragment' data-time='642000' id='t-642000'>And how did that work for you?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>AK: It works good.</span>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>I was able to use my elbow</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>and my hand simultaneously.</span>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>I could work them just by my thoughts.</span>
+<span class='talk-transcript__fragment' data-time='656000' id='t-656000'>So I didn't have to do any of the cocontracting and all that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>TK: A little faster?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>AK: A little faster. And much more easy, much more natural.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>TK: Okay, this was my goal.</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>For 20 years, my goal was to let somebody</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>[be] able to use their elbow and hand in an intuitive way</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>and at the same time.</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>And we now have over 50 patients around the world who have had this surgery,</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>including over a dozen of our wounded warriors</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>in the U.S. armed services.</span>
+<span class='talk-transcript__fragment' data-time='683000' id='t-683000'>The success rate of the nerve transfers is very high.</span>
+<span class='talk-transcript__fragment' data-time='686000' id='t-686000'>It's like 96 percent.</span>
+<span class='talk-transcript__fragment' data-time='688000' id='t-688000'>Because we're putting a big fat nerve onto a little piece of muscle.</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>And it provides intuitive control.</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>Our functional testing, those little tests,</span>
+<span class='talk-transcript__fragment' data-time='697000' id='t-697000'>all show that they're a lot quicker and a lot easier.</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>And the most important thing</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>is our patients have appreciated it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>So that was all very exciting.</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>But we want to do better.</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>There's a lot of information in those nerve signals,</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>and we wanted to get more.</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>You can move each finger. You can move your thumb, your wrist.</span>
+<span class='talk-transcript__fragment' data-time='717000' id='t-717000'>Can we get more out of it?</span>
+<span class='talk-transcript__fragment' data-time='719000' id='t-719000'>So we did some experiments</span>
+<span class='talk-transcript__fragment' data-time='721000' id='t-721000'>where we saturated our poor patients with zillions of electrodes</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>and then had them try to do two dozen different tasks --</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>from wiggling a finger to moving a whole arm</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>to reaching for something --</span>
+<span class='talk-transcript__fragment' data-time='732000' id='t-732000'>and recorded this data.</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>And then we used some algorithms</span>
+<span class='talk-transcript__fragment' data-time='736000' id='t-736000'>that are a lot like speech recognition algorithms,</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>called pattern recognition.</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>See.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>And here you can see, on Jesse's chest,</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>when he just tried to do three different things,</span>
+<span class='talk-transcript__fragment' data-time='748000' id='t-748000'>you can see three different patterns.</span>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>But I can't put in an electrode</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>and say, &quot;Go there.&quot;</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>So we collaborated with our colleagues in University of New Brunswick,</span>
+<span class='talk-transcript__fragment' data-time='757000' id='t-757000'>came up with this algorithm control,</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>which Amanda can now demonstrate.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>AK: So I have the elbow that goes up and down.</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>I have the wrist rotation</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>that goes -- and it can go all the way around.</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>And I have the wrist flexion and extension.</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>And I also have the hand closed and open.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>TK: Thank you, Amanda.</span>
+<span class='talk-transcript__fragment' data-time='780000' id='t-780000'>Now this is a research arm,</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>but it's made out of commercial components from here down</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>and a few that I've borrowed from around the world.</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>It's about seven pounds,</span>
+<span class='talk-transcript__fragment' data-time='791000' id='t-791000'>which is probably about what my arm would weigh</span>
+<span class='talk-transcript__fragment' data-time='793000' id='t-793000'>if I lost it right here.</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>Obviously, that's heavy for Amanda.</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>And in fact, it feels even heavier,</span>
+<span class='talk-transcript__fragment' data-time='800000' id='t-800000'>because it's not glued on the same.</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>She's carrying all the weight through harnesses.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>So the exciting part isn't so much the mechatronics,</span>
+<span class='talk-transcript__fragment' data-time='807000' id='t-807000'>but the control.</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>So we've developed a small microcomputer</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>that is blinking somewhere behind her back</span>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>and is operating this</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>all by the way she trains it</span>
+<span class='talk-transcript__fragment' data-time='819000' id='t-819000'>to use her individual muscle signals.</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>So Amanda, when you first started using this arm,</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>how long did it take to use it?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>AK: It took just about probably three to four hours</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>to get it to train.</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>I had to hook it up to a computer,</span>
+<span class='talk-transcript__fragment' data-time='832000' id='t-832000'>so I couldn't just train it anywhere.</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>So if it stopped working, I just had to take it off.</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>So now it's able to train</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>with just this little piece on the back.</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>I can wear it around.</span>
+<span class='talk-transcript__fragment' data-time='843000' id='t-843000'>If it stops working for some reason, I can retrain it.</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>Takes about a minute.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='848000' id='t-848000'>TK: So we're really excited,</span>
+<span class='talk-transcript__fragment' data-time='850000' id='t-850000'>because now we're getting to a clinically practical device.</span>
+<span class='talk-transcript__fragment' data-time='853000' id='t-853000'>And that's where our goal is --</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>to have something clinically pragmatic to wear.</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>We've also had Amanda able to use</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>some of our more advanced arms that I showed you earlier.</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>Here's Amanda using an arm made by DEKA Research Corporation.</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>And I believe Dean Kamen presented it at TED a few years ago.</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>So Amanda, you can see,</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>has really good control.</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>It's all the pattern recognition.</span>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>And it now has a hand that can do different grasps.</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>What we do is have the patient go all the way open</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>and think, &quot;What hand grasp pattern do I want?&quot;</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>It goes into that mode,</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>and then you can do up to five or six different hand grasps with this hand.</span>
+<span class='talk-transcript__fragment' data-time='892000' id='t-892000'>Amanda, how many were you able to do with the DEKA arm?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='895000' id='t-895000'>AK: I was able to get four.</span>
+<span class='talk-transcript__fragment' data-time='897000' id='t-897000'>I had the key grip, I had a chuck grip,</span>
+<span class='talk-transcript__fragment' data-time='900000' id='t-900000'>I had a power grasp</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>and I had a fine pinch.</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>But my favorite one was just when the hand was open,</span>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>because I work with kids,</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>and so all the time you're clapping and singing,</span>
+<span class='talk-transcript__fragment' data-time='911000' id='t-911000'>so I was able to do that again, which was really good.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>TK: That hand's not so good for clapping.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='916000' id='t-916000'>AK: Can't clap with this one.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>TK: All right. So that's exciting</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>on where we may go with the better mechatronics,</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>if we make them good enough</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>to put out on the market and use in a field trial.</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>I want you to watch closely.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>(Video) Claudia: Oooooh!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>TK: That's Claudia,</span>
+<span class='talk-transcript__fragment' data-time='933000' id='t-933000'>and that was the first time</span>
+<span class='talk-transcript__fragment' data-time='935000' id='t-935000'>she got to feel sensation through her prosthetic.</span>
+<span class='talk-transcript__fragment' data-time='938000' id='t-938000'>She had a little sensor at the end of her prosthesis</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>that then she rubbed over different surfaces,</span>
+<span class='talk-transcript__fragment' data-time='944000' id='t-944000'>and she could feel different textures</span>
+<span class='talk-transcript__fragment' data-time='946000' id='t-946000'>of sandpaper, different grits, ribbon cable,</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>as it pushed on her reinnervated hand skin.</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>She said that when she just ran it across the table,</span>
+<span class='talk-transcript__fragment' data-time='955000' id='t-955000'>it felt like her finger was rocking.</span>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>So that's an exciting laboratory experiment</span>
+<span class='talk-transcript__fragment' data-time='959000' id='t-959000'>on how to give back, potentially, some skin sensation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='962000' id='t-962000'>But here's another video that shows some of our challenges.</span>
+<span class='talk-transcript__fragment' data-time='965000' id='t-965000'>This is Jesse, and he's squeezing a foam toy.</span>
+<span class='talk-transcript__fragment' data-time='968000' id='t-968000'>And the harder he squeezes -- you see a little black thing in the middle</span>
+<span class='talk-transcript__fragment' data-time='971000' id='t-971000'>that's pushing on his skin proportional to how hard he squeezes.</span>
+<span class='talk-transcript__fragment' data-time='974000' id='t-974000'>But look at all the electrodes around it.</span>
+<span class='talk-transcript__fragment' data-time='976000' id='t-976000'>I've got a real estate problem.</span>
+<span class='talk-transcript__fragment' data-time='978000' id='t-978000'>You're supposed to put a bunch of these things on there,</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>but our little motor's making all kinds of noise</span>
+<span class='talk-transcript__fragment' data-time='983000' id='t-983000'>right next to my electrodes.</span>
+<span class='talk-transcript__fragment' data-time='985000' id='t-985000'>So we're really challenged on what we're doing there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='988000' id='t-988000'>The future is bright.</span>
+<span class='talk-transcript__fragment' data-time='990000' id='t-990000'>We're excited about where we are and a lot of things we want to do.</span>
+<span class='talk-transcript__fragment' data-time='993000' id='t-993000'>So for example,</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>one is to get rid of my real estate problem</span>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>and get better signals.</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>We want to develop these little tiny capsules</span>
+<span class='talk-transcript__fragment' data-time='1003000' id='t-1003000'>about the size of a piece of risotto</span>
+<span class='talk-transcript__fragment' data-time='1005000' id='t-1005000'>that we can put into the muscles</span>
+<span class='talk-transcript__fragment' data-time='1007000' id='t-1007000'>and telemeter out the EMG signals,</span>
+<span class='talk-transcript__fragment' data-time='1010000' id='t-1010000'>so that it's not worrying about electrode contact.</span>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>And we can have the real estate open</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>to try more sensation feedback.</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>We want to build a better arm.</span>
+<span class='talk-transcript__fragment' data-time='1019000' id='t-1019000'>This arm -- they're always made for the 50th percentile male --</span>
+<span class='talk-transcript__fragment' data-time='1023000' id='t-1023000'>which means they're too big for five-eighths of the world.</span>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>So rather than a super strong or super fast arm,</span>
+<span class='talk-transcript__fragment' data-time='1030000' id='t-1030000'>we're making an arm that is --</span>
+<span class='talk-transcript__fragment' data-time='1032000' id='t-1032000'>we're starting with,</span>
+<span class='talk-transcript__fragment' data-time='1034000' id='t-1034000'>the 25th percentile female --</span>
+<span class='talk-transcript__fragment' data-time='1037000' id='t-1037000'>that will have a hand that wraps around,</span>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>opens all the way,</span>
+<span class='talk-transcript__fragment' data-time='1041000' id='t-1041000'>two degrees of freedom in the wrist and an elbow.</span>
+<span class='talk-transcript__fragment' data-time='1044000' id='t-1044000'>So it'll be the smallest and lightest</span>
+<span class='talk-transcript__fragment' data-time='1046000' id='t-1046000'>and the smartest arm ever made.</span>
+<span class='talk-transcript__fragment' data-time='1048000' id='t-1048000'>Once we can do it that small,</span>
+<span class='talk-transcript__fragment' data-time='1050000' id='t-1050000'>it's a lot easier making them bigger.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1052000' id='t-1052000'>So those are just some of our goals.</span>
+<span class='talk-transcript__fragment' data-time='1055000' id='t-1055000'>And we really appreciate you all being here today.</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>I'd like to tell you a little bit about the dark side,</span>
+<span class='talk-transcript__fragment' data-time='1061000' id='t-1061000'>with yesterday's theme.</span>
+<span class='talk-transcript__fragment' data-time='1063000' id='t-1063000'>So Amanda came jet-lagged,</span>
+<span class='talk-transcript__fragment' data-time='1065000' id='t-1065000'>she's using the arm,</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>and everything goes wrong.</span>
+<span class='talk-transcript__fragment' data-time='1069000' id='t-1069000'>There was a computer spook,</span>
+<span class='talk-transcript__fragment' data-time='1071000' id='t-1071000'>a broken wire,</span>
+<span class='talk-transcript__fragment' data-time='1073000' id='t-1073000'>a converter that sparked.</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>We took out a whole circuit in the hotel</span>
+<span class='talk-transcript__fragment' data-time='1077000' id='t-1077000'>and just about put on the fire alarm.</span>
+<span class='talk-transcript__fragment' data-time='1079000' id='t-1079000'>And none of those problems could I have dealt with,</span>
+<span class='talk-transcript__fragment' data-time='1082000' id='t-1082000'>but I have a really bright research team.</span>
+<span class='talk-transcript__fragment' data-time='1084000' id='t-1084000'>And thankfully Dr. Annie Simon was with us</span>
+<span class='talk-transcript__fragment' data-time='1087000' id='t-1087000'>and worked really hard yesterday to fix it.</span>
+<span class='talk-transcript__fragment' data-time='1089000' id='t-1089000'>That's science.</span>
+<span class='talk-transcript__fragment' data-time='1091000' id='t-1091000'>And fortunately, it worked today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>So thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1095000' id='t-1095000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

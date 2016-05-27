@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Bill Joy: What I&#39;m worried about, what I&#39;m excited about | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Bill Joy: What I&#39;m worried about, what I&#39;m excited about | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Technologist and futurist Bill Joy talks about several big worries for humanity -- and several big hopes in the fields of health, education and future tech. " name="description" />
+<meta content="Bill Joy" name="author" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;What I&#39;m worried about, what I&#39;m excited about&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59820_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59820_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Technologist and futurist Bill Joy talks about several big worries for humanity -- and several big hopes in the fields of health, education and future tech. " property="og:description" />
+<meta content="http://www.ted.com/talks/bill_joy_muses_on_what_s_next/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/405?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='bill_joy_muses_on_what_s_next'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/405?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1142" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59820_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:02</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Bill Joy</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/405?language=en' lang='en'>
+What I'm worried about, what I'm excited about
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>What technology can we really apply to reducing global poverty?</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>And what I found was quite surprising.</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>We started looking at things like death rates in the 20th century,</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>and how they'd been improved, and very simple things turned out.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>You'd think maybe antibiotics made more difference than clean water,</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>but it's actually the opposite.</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>And so very simple things -- off-the-shelf technologies</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>that we could easily find on the then-early Web --</span>
+<span class='talk-transcript__fragment' data-time='30000' id='t-30000'>would clearly make a huge difference to that problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>But I also, in looking at more powerful technologies</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>and nanotechnology and genetic engineering and other new emerging</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>kind of digital technologies, became very concerned</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>about the potential for abuse.</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>If you think about it, in history, a long, long time ago</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>we dealt with the problem of an individual abusing another individual.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>We came up with something -- the Ten Commandments: Thou shalt not kill.</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>That's a, kind of a one-on-one thing.</span>
+<span class='talk-transcript__fragment' data-time='65000' id='t-65000'>We organized into cities. We had many people.</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>And to keep the many from tyrannizing the one,</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>we came up with concepts like individual liberty.</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>And then, to have to deal with large groups,</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>say, at the nation-state level,</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>and we had to have mutual non-aggression,</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>or through a series of conflicts, we eventually came to</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>a rough international bargain to largely keep the peace.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>But now we have a new situation, really what people call</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>an asymmetric situation, where technology is so powerful</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>that it extends beyond a nation-state.</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>It's not the nation-states that have potential access</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>to mass destruction, but individuals.</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>And this is a consequence of the fact that these new technologies tend to be digital.</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>We saw genome sequences.</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>You can download the gene sequences</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>of pathogens off the Internet if you want to,</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>and clearly someone recently -- I saw in a science magazine --</span>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>they said, well, the 1918 flu is too dangerous to FedEx around.</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>If people want to use it in their labs for working on research,</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>just reconstruct it yourself,</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>because, you know, it might break in FedEx.</span>
+<span class='talk-transcript__fragment' data-time='147000' id='t-147000'>So that this is possible to do this is not deniable.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>So individuals in small groups super-empowered by access to these</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>kinds of self-replicating technologies, whether it be biological</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>or other, are clearly a danger in our world.</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>And the danger is that they can cause roughly what's a pandemic.</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>And we really don't have experience with pandemics,</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>and we're also not very good as a society at acting</span>
+<span class='talk-transcript__fragment' data-time='175000' id='t-175000'>to things we don't have direct and sort of gut-level experience with.</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>So it's not in our nature to pre-act.</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>And in this case, piling on more technology doesn't solve the problem,</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>because it only super-empowers people more.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>So the solution has to be, as people like Russell and Einstein</span>
+<span class='talk-transcript__fragment' data-time='195000' id='t-195000'>and others imagine in a conversation that existed</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>in a much stronger form, I think, early in the 20th century,</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>that the solution had to be not just the head but the heart.</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>You know, public policy and moral progress.</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>The bargain that gives us civilization is a bargain to not use power.</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>We get our individual rights by society protecting us from others</span>
+<span class='talk-transcript__fragment' data-time='218000' id='t-218000'>not doing everything they can do but largely doing only what is legal.</span>
+<span class='talk-transcript__fragment' data-time='223000' id='t-223000'>And so to limit the danger of these new things, we have to limit,</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>ultimately, the ability of individuals</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>to have access, essentially, to pandemic power.</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>We also have to have sensible defense, because no limitation</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>is going to prevent a crazy person from doing something.</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>And you know, and the troubling thing is that</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>it's much easier to do something bad than to defend</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>against all possible bad things,</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>so the offensive uses really have an asymmetric advantage.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>So these are the kind of thoughts I was thinking in 1999 and 2000,</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>and my friends told me I was getting really depressed,</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>and they were really worried about me.</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>And then I signed a book contract to write more gloomy thoughts about this</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>and moved into a hotel room in New York</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>with one room full of books on the Plague,</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>and you know, nuclear bombs exploding in New York</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>where I would be within the circle, and so on.</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>And then I was there on September 11th,</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>and I stood in the streets with everyone.</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>And it was quite an experience to be there.</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>I got up the next morning and walked out of the city,</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>and all the sanitation trucks were parked on Houston Street</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>and ready to go down and start taking the rubble away.</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>And I walked down the middle, up to the train station,</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>and everything below 14th Street was closed.</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>It was quite a compelling experience, but not really, I suppose,</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>a surprise to someone who'd had his room full of the books.</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>It was always a surprise that it happened then and there,</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>but it wasn't a surprise that it happened at all.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>And everyone then started writing about this.</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>Thousands of people started writing about this.</span>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>And I eventually abandoned the book, and then Chris called me</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>to talk at the conference. I really don't talk about this anymore</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>because, you know, there's enough frustrating and depressing things going on.</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>But I agreed to come and say a few things about this.</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>And I would say that we can't give up the rule of law</span>
+<span class='talk-transcript__fragment' data-time='327000' id='t-327000'>to fight an asymmetric threat, which is what we seem to be doing</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>because of the present, the people that are in power,</span>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>because that's to give up the thing that makes civilization.</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>And we can't fight the threat in the kind of stupid way we're doing,</span>
+<span class='talk-transcript__fragment' data-time='344000' id='t-344000'>because a million-dollar act</span>
+<span class='talk-transcript__fragment' data-time='346000' id='t-346000'>causes a billion dollars of damage, causes a trillion dollar response</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>which is largely ineffective and arguably, probably almost certainly,</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>has made the problem worse.</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>So we can't fight the thing with a million-to-one cost,</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>one-to-a-million cost-benefit ratio.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>So after giving up on the book -- and I had the great honor</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>to be able to join Kleiner Perkins about a year ago,</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>and to work through venture capital on the innovative side,</span>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>and to try to find some innovations that could address what I saw as</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>some of these big problems.</span>
+<span class='talk-transcript__fragment' data-time='388000' id='t-388000'>Things where, you know, a factor of 10 difference</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>can make a factor of 1,000 difference in the outcome.</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>I've been amazed in the last year at the incredible quality</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>and excitement of the innovations that have come across my desk.</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>It's overwhelming at times. I'm very thankful for Google and Wikipedia</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>so I can understand at least a little of what people are talking about</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>who come through the doors.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>But I wanted to share with you three areas</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>that I'm particularly excited about and that relate to the problems</span>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>that I was talking about in the Wired article.</span>
+<span class='talk-transcript__fragment' data-time='423000' id='t-423000'>The first is this whole area of education,</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>and it really relates to what Nicholas was talking about with a $100 computer.</span>
+<span class='talk-transcript__fragment' data-time='429000' id='t-429000'>And that is to say that there's a lot of legs left in Moore's Law.</span>
+<span class='talk-transcript__fragment' data-time='433000' id='t-433000'>The most advanced transistors today are at 65 nanometers,</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>and we've seen, and I've had the pleasure to invest</span>
+<span class='talk-transcript__fragment' data-time='440000' id='t-440000'>in, companies that give me great confidence that we'll extend Moore's Law</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>all the way down to roughly the 10 nanometer scale.</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>Another factor of, say, six in dimensional reduction,</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>which should give us about another factor of 100 in raw improvement</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>in what the chips can do. And so, to put that in practical terms,</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>if something costs about 1,000 dollars today,</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>say, the best personal computer you can buy, that might be its cost,</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>I think we can have that in 2020 for 10 dollars. Okay?</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>Now, just imagine what that $100 computer will be in 2020</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>as a tool for education.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>I think the challenge for us is --</span>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>I'm very certain that that will happen, the challenge is,</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>will we develop the kind of educational tools and things with the net</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>to let us take advantage of that device?</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>I'd argue today that we have incredibly powerful computers,</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>but we don't have very good software for them.</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>And it's only in retrospect, after the better software comes along,</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>and you take it and you run it on a ten-year-old machine, you say,</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>God, the machine was that fast?</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>I remember when they took the Apple Mac interface</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>and they put it back on the Apple II.</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>The Apple II was perfectly capable of running that kind of interface,</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>we just didn't know how to do it at the time.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>So given that we know and should believe --</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>because Moore's Law's been, like, a constant,</span>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>I mean, it's just been very predictable progress</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>over the last 40 years or whatever.</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>We can know what the computers are going to be like in 2020.</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>It's great that we have initiatives to say,</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>let's go create the education and educate people in the world,</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>because that's a great force for peace.</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>And we can give everyone in the world a $100 computer</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>or a $10 computer in the next 15 years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='553000' id='t-553000'>The second area that I'm focusing on is the environmental problem,</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>because that's clearly going to put a lot of pressure on this world.</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>We'll hear a lot more about that from Al Gore very shortly.</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>The thing that we see as the kind of Moore's Law trend</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>that's driving improvement in our ability to address</span>
+<span class='talk-transcript__fragment' data-time='572000' id='t-572000'>the environmental problem is new materials.</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>We have a challenge, because the urban population is growing</span>
+<span class='talk-transcript__fragment' data-time='580000' id='t-580000'>in this century from two billion to six billion</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>in a very short amount of time. People are moving to the cities.</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>They all need clean water, they need energy, they need transportation,</span>
+<span class='talk-transcript__fragment' data-time='588000' id='t-588000'>and we want them to develop in a green way.</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>We're reasonably efficient in the industrial sectors.</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>We've made improvements in energy and resource efficiency,</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>but the consumer sector, especially in America, is very inefficient.</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>But these new materials bring such incredible innovations</span>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>that there's a strong basis for hope that these things</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>will be so profitable that they can be brought to the market.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='611000' id='t-611000'>And I want to give you a specific example of a new material</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>that was discovered 15 years ago.</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>If we take carbon nanotubes, you know, Iijima discovered them in 1991,</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>they just have incredible properties.</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>And these are the kinds of things we're going to discover</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>as we start to engineer at the nano scale.</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>Their strength: they're almost the strongest material,</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>tensile strength material known.</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>They're very, very stiff. They stretch very, very little.</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>In two dimensions, if you make, like, a fabric out of them,</span>
+<span class='talk-transcript__fragment' data-time='642000' id='t-642000'>they're 30 times stronger than Kevlar.</span>
+<span class='talk-transcript__fragment' data-time='645000' id='t-645000'>And if you make a three-dimensional structure, like a buckyball,</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>they have all sorts of incredible properties.</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>If you shoot a particle at them and knock a hole in them,</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>they repair themselves; they go zip and they repair the hole</span>
+<span class='talk-transcript__fragment' data-time='656000' id='t-656000'>in femtoseconds, which is not -- is really quick.</span>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>If you shine a light on them, they produce electricity.</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>In fact, if you flash them with a camera they catch on fire.</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>If you put electricity on them, they emit light.</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>If you run current through them, you can run 1,000 times more current</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>through one of these than through a piece of metal.</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>You can make both p- and n-type semiconductors,</span>
+<span class='talk-transcript__fragment' data-time='683000' id='t-683000'>which means you can make transistors out of them.</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>They conduct heat along their length but not across --</span>
+<span class='talk-transcript__fragment' data-time='688000' id='t-688000'>well, there is no width, but not in the other direction</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>if you stack them up; that's a property of carbon fiber also.</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>If you put particles in them, and they go shooting out the tip --</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>they're like miniature linear accelerators or electron guns.</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>The inside of the nanotubes is so small --</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>the smallest ones are 0.7 nanometers --</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>that it's basically a quantum world.</span>
+<span class='talk-transcript__fragment' data-time='709000' id='t-709000'>It's a strange place inside a nanotube.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>And so we begin to see, and we've seen business plans already,</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>where the kind of things Lisa Randall's talking about are in there.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>I had one business plan where I was trying to learn more about</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>Witten's cosmic dimension strings to try to understand</span>
+<span class='talk-transcript__fragment' data-time='723000' id='t-723000'>what the phenomenon was going on in this proposed nanomaterial.</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>So inside of a nanotube, we're really at the limit here.</span>
+<span class='talk-transcript__fragment' data-time='732000' id='t-732000'>So what we see is with these and other new materials</span>
+<span class='talk-transcript__fragment' data-time='736000' id='t-736000'>that we can do things with different properties -- lighter, stronger --</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>and apply these new materials to the environmental problems.</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>New materials that can make water,</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>new materials that can make fuel cells work better,</span>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>new materials that catalyze chemical reactions,</span>
+<span class='talk-transcript__fragment' data-time='753000' id='t-753000'>that cut pollution and so on.</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>Ethanol -- new ways of making ethanol.</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>New ways of making electric transportation.</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>The whole green dream -- because it can be profitable.</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>And we've dedicated -- we've just raised a new fund,</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>we dedicated 100 million dollars to these kinds of investments.</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>We believe that Genentech, the Compaq, the Lotus, the Sun,</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>the Netscape, the Amazon, the Google in these fields</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>are yet to be found, because this materials revolution</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>will drive these things forward.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='786000' id='t-786000'>The third area that we're working on,</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>and we just announced last week -- we were all in New York.</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>We raised 200 million dollars in a specialty fund</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>to work on a pandemic in biodefense.</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>And to give you an idea of the last fund that Kleiner raised</span>
+<span class='talk-transcript__fragment' data-time='805000' id='t-805000'>was a $400 million fund, so this for us is a very substantial fund.</span>
+<span class='talk-transcript__fragment' data-time='810000' id='t-810000'>And what we did, over the last few months -- well, a few months ago,</span>
+<span class='talk-transcript__fragment' data-time='814000' id='t-814000'>Ray Kurzweil and I wrote an op-ed in the New York Times</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>about how publishing the 1918 genome was very dangerous.</span>
+<span class='talk-transcript__fragment' data-time='820000' id='t-820000'>And John Doerr and Brook and others got concerned, [unclear],</span>
+<span class='talk-transcript__fragment' data-time='824000' id='t-824000'>and we started looking around at what the world was doing</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>about being prepared for a pandemic. And we saw a lot of gaps.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>And so we asked ourselves, you know, can we find innovative things</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>that will go fill these gaps? And Brooks told me in a break here,</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>he said he's found so much stuff he can't sleep,</span>
+<span class='talk-transcript__fragment' data-time='843000' id='t-843000'>because there's so many great technologies out there,</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>we're essentially buried. And we need them, you know.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>We have one antiviral that people are talking about stockpiling</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>that still works, roughly. That's Tamiflu.</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>But Tamiflu -- the virus is resistant. It is resistant to Tamiflu.</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>We've discovered with AIDS we need cocktails to work well</span>
+<span class='talk-transcript__fragment' data-time='864000' id='t-864000'>so that the viral resistance -- we need several anti-virals.</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>We need better surveillance.</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>We need networks that can find out what's going on.</span>
+<span class='talk-transcript__fragment' data-time='872000' id='t-872000'>We need rapid diagnostics so that we can tell if somebody has</span>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>a strain of flu which we have only identified very recently.</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>We've got to be able to make the rapid diagnostics quickly.</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>We need new anti-virals and cocktails. We need new kinds of vaccines.</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>Vaccines that are broad spectrum.</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>Vaccines that we can manufacture quickly.</span>
+<span class='talk-transcript__fragment' data-time='891000' id='t-891000'>Cocktails, more polyvalent vaccines.</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>You normally get a trivalent vaccine against three possible strains.</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>We need -- we don't know where this thing is going.</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>We believe that if we could fill these 10 gaps,</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>we have a chance to help really reduce the risk of a pandemic.</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>And the difference between a normal flu season and a pandemic</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>is about a factor of 1,000 in deaths</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>and certainly enormous economic impact.</span>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>So we're very excited because we think we can fund 10,</span>
+<span class='talk-transcript__fragment' data-time='921000' id='t-921000'>or speed up 10 projects and see them come to market</span>
+<span class='talk-transcript__fragment' data-time='925000' id='t-925000'>in the next couple years that will address this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>So if we can address, use technology, help address education,</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>help address the environment, help address the pandemic,</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>does that solve the larger problem that I was talking about</span>
+<span class='talk-transcript__fragment' data-time='938000' id='t-938000'>in the Wired article? And I'm afraid the answer is really no,</span>
+<span class='talk-transcript__fragment' data-time='943000' id='t-943000'>because you can't solve a problem with the management of technology</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>with more technology.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>If we let an unlimited amount of power loose, then we will --</span>
+<span class='talk-transcript__fragment' data-time='955000' id='t-955000'>a very small number of people will be able to abuse it.</span>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>We can't fight at a million-to-one disadvantage.</span>
+<span class='talk-transcript__fragment' data-time='961000' id='t-961000'>So what we need to do is, we need better policy.</span>
+<span class='talk-transcript__fragment' data-time='964000' id='t-964000'>And for example, some things we could do</span>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>that would be policy solutions which are not really in the political air right now</span>
+<span class='talk-transcript__fragment' data-time='971000' id='t-971000'>but perhaps with the change of administration would be -- use markets.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>Markets are a very strong force.</span>
+<span class='talk-transcript__fragment' data-time='977000' id='t-977000'>For example, rather than trying to regulate away problems,</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>which probably won't work, if we could price</span>
+<span class='talk-transcript__fragment' data-time='982000' id='t-982000'>into the cost of doing business, the cost of catastrophe,</span>
+<span class='talk-transcript__fragment' data-time='987000' id='t-987000'>so that people who are doing things that had a higher cost of catastrophe</span>
+<span class='talk-transcript__fragment' data-time='990000' id='t-990000'>would have to take insurance against that risk.</span>
+<span class='talk-transcript__fragment' data-time='993000' id='t-993000'>So if you wanted to put a drug on the market you could put it on.</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>But it wouldn't have to be approved by regulators;</span>
+<span class='talk-transcript__fragment' data-time='997000' id='t-997000'>you'd have to convince an actuary that it would be safe.</span>
+<span class='talk-transcript__fragment' data-time='1001000' id='t-1001000'>And if you apply the notion of insurance more broadly,</span>
+<span class='talk-transcript__fragment' data-time='1004000' id='t-1004000'>you can use a more powerful force, a market force,</span>
+<span class='talk-transcript__fragment' data-time='1007000' id='t-1007000'>to provide feedback.</span>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>How could you keep the law?</span>
+<span class='talk-transcript__fragment' data-time='1010000' id='t-1010000'>I think the law would be a really good thing to keep.</span>
+<span class='talk-transcript__fragment' data-time='1012000' id='t-1012000'>Well, you have to hold people accountable.</span>
+<span class='talk-transcript__fragment' data-time='1014000' id='t-1014000'>The law requires accountability.</span>
+<span class='talk-transcript__fragment' data-time='1016000' id='t-1016000'>Today scientists, technologists, businessmen, engineers</span>
+<span class='talk-transcript__fragment' data-time='1019000' id='t-1019000'>don't have any personal responsibility</span>
+<span class='talk-transcript__fragment' data-time='1021000' id='t-1021000'>for the consequences of their actions.</span>
+<span class='talk-transcript__fragment' data-time='1023000' id='t-1023000'>So if you tie that -- you have to tie that back with the law.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>And finally, I think we have to do something that's not really --</span>
+<span class='talk-transcript__fragment' data-time='1031000' id='t-1031000'>it's almost unacceptable to say this -- which,</span>
+<span class='talk-transcript__fragment' data-time='1032000' id='t-1032000'>we have to begin to design the future.</span>
+<span class='talk-transcript__fragment' data-time='1035000' id='t-1035000'>We can't pick the future, but we can steer the future.</span>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>Our investment in trying to prevent pandemic flu</span>
+<span class='talk-transcript__fragment' data-time='1041000' id='t-1041000'>is affecting the distribution of possible outcomes.</span>
+<span class='talk-transcript__fragment' data-time='1045000' id='t-1045000'>We may not be able to stop it, but the likelihood</span>
+<span class='talk-transcript__fragment' data-time='1047000' id='t-1047000'>that it will get past us is lower if we focus on that problem.</span>
+<span class='talk-transcript__fragment' data-time='1051000' id='t-1051000'>So we can design the future if we choose what kind of things</span>
+<span class='talk-transcript__fragment' data-time='1055000' id='t-1055000'>we want to have happen and not have happen,</span>
+<span class='talk-transcript__fragment' data-time='1058000' id='t-1058000'>and steer us to a lower-risk place.</span>
+<span class='talk-transcript__fragment' data-time='1061000' id='t-1061000'>Vice President Gore will talk about how we could steer the climate trajectory</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>into a lower probability of catastrophic risk.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1070000' id='t-1070000'>But above all, what we have to do is we have to help the good guys,</span>
+<span class='talk-transcript__fragment' data-time='1073000' id='t-1073000'>the people on the defensive side,</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>have an advantage over the people who want to abuse things.</span>
+<span class='talk-transcript__fragment' data-time='1079000' id='t-1079000'>And what we have to do to do that</span>
+<span class='talk-transcript__fragment' data-time='1081000' id='t-1081000'>is we have to limit access to certain information.</span>
+<span class='talk-transcript__fragment' data-time='1084000' id='t-1084000'>And growing up as we have, and holding very high</span>
+<span class='talk-transcript__fragment' data-time='1087000' id='t-1087000'>the value of free speech, this is a hard thing for us to accept --</span>
+<span class='talk-transcript__fragment' data-time='1091000' id='t-1091000'>for all of us to accept.</span>
+<span class='talk-transcript__fragment' data-time='1092000' id='t-1092000'>It's especially hard for the scientists to accept who still remember,</span>
+<span class='talk-transcript__fragment' data-time='1097000' id='t-1097000'>you know, Galileo essentially locked up,</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>and who are still fighting this battle against the church.</span>
+<span class='talk-transcript__fragment' data-time='1103000' id='t-1103000'>But that's the price of having a civilization.</span>
+<span class='talk-transcript__fragment' data-time='1108000' id='t-1108000'>The price of retaining the rule of law</span>
+<span class='talk-transcript__fragment' data-time='1110000' id='t-1110000'>is to limit the access to the great and kind of unbridled power.</span>
+<span class='talk-transcript__fragment' data-time='1115000' id='t-1115000'>Thank you.</span>
+<span class='talk-transcript__fragment' data-time='1116000' id='t-1116000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

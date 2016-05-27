@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Peter Donnelly: How juries are fooled by statistics | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Peter Donnelly: How juries are fooled by statistics | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Oxford mathematician Peter Donnelly reveals the common mistakes humans make in interpreting statistics -- and the devastating impact these errors can have on the outcome of criminal trials." name="description" />
+<meta content="Peter Donnelly" name="author" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript?language=es" hreflang="es" rel="alternate" />
+<meta content="Transcript of &quot;How juries are fooled by statistics&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/159_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/159_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Oxford mathematician Peter Donnelly reveals the common mistakes humans make in interpreting statistics -- and the devastating impact these errors can have on the outcome of criminal trials." property="og:description" />
+<meta content="http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/67?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='peter_donnelly_shows_how_stats_fool_juries'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/67?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1280" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/159_480x360.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">21:20</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Peter Donnelly</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/67?language=en' lang='en'>
+How juries are fooled by statistics
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2006
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>As other speakers have said, it's a rather daunting experience --</span>
+<span class='talk-transcript__fragment' data-time='2000' id='t-2000'>a particularly daunting experience -- to be speaking in front of this audience.</span>
+<span class='talk-transcript__fragment' data-time='5000' id='t-5000'>But unlike the other speakers, I'm not going to tell you about</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>the mysteries of the universe, or the wonders of evolution,</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>or the really clever, innovative ways people are attacking</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>the major inequalities in our world.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>Or even the challenges of nation-states in the modern global economy.</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>My brief, as you've just heard, is to tell you about statistics --</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>and, to be more precise, to tell you some exciting things about statistics.</span>
+<span class='talk-transcript__fragment' data-time='28000' id='t-28000'>And that's --</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='30000' id='t-30000'>-- that's rather more challenging</span>
+<span class='talk-transcript__fragment' data-time='32000' id='t-32000'>than all the speakers before me and all the ones coming after me.</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>One of my senior colleagues told me, when I was a youngster in this profession,</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>rather proudly, that statisticians were people who liked figures</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>but didn't have the personality skills to become accountants.</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>And there's another in-joke among statisticians, and that's,</span>
+<span class='talk-transcript__fragment' data-time='53000' id='t-53000'>&quot;How do you tell the introverted statistician from the extroverted statistician?&quot;</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>To which the answer is,</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>&quot;The extroverted statistician's the one who looks at the other person's shoes.&quot;</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>But I want to tell you something useful -- and here it is, so concentrate now.</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>This evening, there's a reception in the University's Museum of Natural History.</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>And it's a wonderful setting, as I hope you'll find,</span>
+<span class='talk-transcript__fragment' data-time='76000' id='t-76000'>and a great icon to the best of the Victorian tradition.</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>It's very unlikely -- in this special setting, and this collection of people --</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>but you might just find yourself talking to someone you'd rather wish that you weren't.</span>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>So here's what you do.</span>
+<span class='talk-transcript__fragment' data-time='91000' id='t-91000'>When they say to you, &quot;What do you do?&quot; -- you say, &quot;I'm a statistician.&quot;</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>Well, except they've been pre-warned now, and they'll know you're making it up.</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>And then one of two things will happen.</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>They'll either discover their long-lost cousin in the other corner of the room</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>and run over and talk to them.</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>Or they'll suddenly become parched and/or hungry -- and often both --</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>and sprint off for a drink and some food.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>And you'll be left in peace to talk to the person you really want to talk to.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>It's one of the challenges in our profession to try and explain what we do.</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>We're not top on people's lists for dinner party guests and conversations and so on.</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>And it's something I've never really found a good way of doing.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>But my wife -- who was then my girlfriend --</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>managed it much better than I've ever been able to.</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>Many years ago, when we first started going out, she was working for the BBC in Britain,</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>and I was, at that stage, working in America.</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>I was coming back to visit her.</span>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>She told this to one of her colleagues, who said, &quot;Well, what does your boyfriend do?&quot;</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>Sarah thought quite hard about the things I'd explained --</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>and she concentrated, in those days, on listening.</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>Don't tell her I said that.</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>And she was thinking about the work I did developing mathematical models</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>for understanding evolution and modern genetics.</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>So when her colleague said, &quot;What does he do?&quot;</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>She paused and said, &quot;He models things.&quot;</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>Well, her colleague suddenly got much more interested than I had any right to expect</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>and went on and said, &quot;What does he model?&quot;</span>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>Well, Sarah thought a little bit more about my work and said, &quot;Genes.&quot;</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>&quot;He models genes.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>That is my first love, and that's what I'll tell you a little bit about.</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>What I want to do more generally is to get you thinking about</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>the place of uncertainty and randomness and chance in our world,</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>and how we react to that, and how well we do or don't think about it.</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>So you've had a pretty easy time up till now --</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>a few laughs, and all that kind of thing -- in the talks to date.</span>
+<span class='talk-transcript__fragment' data-time='206000' id='t-206000'>You've got to think, and I'm going to ask you some questions.</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>So here's the scene for the first question I'm going to ask you.</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>Can you imagine tossing a coin successively?</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>And for some reason -- which shall remain rather vague --</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>we're interested in a particular pattern.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>Here's one -- a head, followed by a tail, followed by a tail.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>So suppose we toss a coin repeatedly.</span>
+<span class='talk-transcript__fragment' data-time='225000' id='t-225000'>Then the pattern, head-tail-tail, that we've suddenly become fixated with happens here.</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>And you can count: one, two, three, four, five, six, seven, eight, nine, 10 --</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>it happens after the 10th toss.</span>
+<span class='talk-transcript__fragment' data-time='236000' id='t-236000'>So you might think there are more interesting things to do, but humor me for the moment.</span>
+<span class='talk-transcript__fragment' data-time='239000' id='t-239000'>Imagine this half of the audience each get out coins, and they toss them</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>until they first see the pattern head-tail-tail.</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>The first time they do it, maybe it happens after the 10th toss, as here.</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>The second time, maybe it's after the fourth toss.</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>The next time, after the 15th toss.</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>So you do that lots and lots of times, and you average those numbers.</span>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>That's what I want this side to think about.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>The other half of the audience doesn't like head-tail-tail --</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>they think, for deep cultural reasons, that's boring --</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>and they're much more interested in a different pattern -- head-tail-head.</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>So, on this side, you get out your coins, and you toss and toss and toss.</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>And you count the number of times until the pattern head-tail-head appears</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>and you average them. OK?</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>So on this side, you've got a number --</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>you've done it lots of times, so you get it accurately --</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>which is the average number of tosses until head-tail-tail.</span>
+<span class='talk-transcript__fragment' data-time='282000' id='t-282000'>On this side, you've got a number -- the average number of tosses until head-tail-head.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>So here's a deep mathematical fact --</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>if you've got two numbers, one of three things must be true.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>Either they're the same, or this one's bigger than this one,</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>or this one's bigger than that one.</span>
+<span class='talk-transcript__fragment' data-time='295000' id='t-295000'>So what's going on here?</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>So you've all got to think about this, and you've all got to vote --</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>and we're not moving on.</span>
+<span class='talk-transcript__fragment' data-time='301000' id='t-301000'>And I don't want to end up in the two-minute silence</span>
+<span class='talk-transcript__fragment' data-time='303000' id='t-303000'>to give you more time to think about it, until everyone's expressed a view. OK.</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>So what you want to do is compare the average number of tosses until we first see</span>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>head-tail-head with the average number of tosses until we first see head-tail-tail.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>Who thinks that A is true --</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>that, on average, it'll take longer to see head-tail-head than head-tail-tail?</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>Who thinks that B is true -- that on average, they're the same?</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>Who thinks that C is true -- that, on average, it'll take less time</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>to see head-tail-head than head-tail-tail?</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>OK, who hasn't voted yet? Because that's really naughty -- I said you had to.</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>OK. So most people think B is true.</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>And you might be relieved to know even rather distinguished mathematicians think that.</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>It's not. A is true here.</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>It takes longer, on average.</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>In fact, the average number of tosses till head-tail-head is 10</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>and the average number of tosses until head-tail-tail is eight.</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>How could that be?</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>Anything different about the two patterns?</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>There is. Head-tail-head overlaps itself.</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>If you went head-tail-head-tail-head, you can cunningly get two occurrences</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>of the pattern in only five tosses.</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>You can't do that with head-tail-tail.</span>
+<span class='talk-transcript__fragment' data-time='379000' id='t-379000'>That turns out to be important.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>There are two ways of thinking about this.</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>I'll give you one of them.</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>So imagine -- let's suppose we're doing it.</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>On this side -- remember, you're excited about head-tail-tail;</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>you're excited about head-tail-head.</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>We start tossing a coin, and we get a head --</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>and you start sitting on the edge of your seat</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>because something great and wonderful, or awesome, might be about to happen.</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>The next toss is a tail -- you get really excited.</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>The champagne's on ice just next to you; you've got the glasses chilled to celebrate.</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>You're waiting with bated breath for the final toss.</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>And if it comes down a head, that's great.</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>You're done, and you celebrate.</span>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>If it's a tail -- well, rather disappointedly, you put the glasses away</span>
+<span class='talk-transcript__fragment' data-time='414000' id='t-414000'>and put the champagne back.</span>
+<span class='talk-transcript__fragment' data-time='416000' id='t-416000'>And you keep tossing, to wait for the next head, to get excited.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>On this side, there's a different experience.</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>It's the same for the first two parts of the sequence.</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>You're a little bit excited with the first head --</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>you get rather more excited with the next tail.</span>
+<span class='talk-transcript__fragment' data-time='429000' id='t-429000'>Then you toss the coin.</span>
+<span class='talk-transcript__fragment' data-time='431000' id='t-431000'>If it's a tail, you crack open the champagne.</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>If it's a head you're disappointed,</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>but you're still a third of the way to your pattern again.</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>And that's an informal way of presenting it -- that's why there's a difference.</span>
+<span class='talk-transcript__fragment' data-time='443000' id='t-443000'>Another way of thinking about it --</span>
+<span class='talk-transcript__fragment' data-time='445000' id='t-445000'>if we tossed a coin eight million times,</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>then we'd expect a million head-tail-heads</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>and a million head-tail-tails -- but the head-tail-heads could occur in clumps.</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>So if you want to put a million things down amongst eight million positions</span>
+<span class='talk-transcript__fragment' data-time='458000' id='t-458000'>and you can have some of them overlapping, the clumps will be further apart.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>It's another way of getting the intuition.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>What's the point I want to make?</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>It's a very, very simple example, an easily stated question in probability,</span>
+<span class='talk-transcript__fragment' data-time='471000' id='t-471000'>which every -- you're in good company -- everybody gets wrong.</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>This is my little diversion into my real passion, which is genetics.</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>There's a connection between head-tail-heads and head-tail-tails in genetics,</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>and it's the following.</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>When you toss a coin, you get a sequence of heads and tails.</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>When you look at DNA, there's a sequence of not two things -- heads and tails --</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>but four letters -- As, Gs, Cs and Ts.</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>And there are little chemical scissors, called restriction enzymes</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>which cut DNA whenever they see particular patterns.</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>And they're an enormously useful tool in modern molecular biology.</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>And instead of asking the question, &quot;How long until I see a head-tail-head?&quot; --</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>you can ask, &quot;How big will the chunks be when I use a restriction enzyme</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>which cuts whenever it sees G-A-A-G, for example?</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>How long will those chunks be?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>That's a rather trivial connection between probability and genetics.</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>There's a much deeper connection, which I don't have time to go into</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>and that is that modern genetics is a really exciting area of science.</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>And we'll hear some talks later in the conference specifically about that.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>But it turns out that unlocking the secrets in the information generated by modern</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>experimental technologies, a key part of that has to do with fairly sophisticated --</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>you'll be relieved to know that I do something useful in my day job,</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>rather more sophisticated than the head-tail-head story --</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>but quite sophisticated computer modelings and mathematical modelings</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>and modern statistical techniques.</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>And I will give you two little snippets -- two examples --</span>
+<span class='talk-transcript__fragment' data-time='553000' id='t-553000'>of projects we're involved in in my group in Oxford,</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>both of which I think are rather exciting.</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>You know about the Human Genome Project.</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>That was a project which aimed to read one copy of the human genome.</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>The natural thing to do after you've done that --</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>and that's what this project, the International HapMap Project,</span>
+<span class='talk-transcript__fragment' data-time='570000' id='t-570000'>which is a collaboration between labs in five or six different countries.</span>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>Think of the Human Genome Project as learning what we've got in common,</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>and the HapMap Project is trying to understand</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>where there are differences between different people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>Why do we care about that?</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>Well, there are lots of reasons.</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>The most pressing one is that we want to understand how some differences</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>make some people susceptible to one disease -- type-2 diabetes, for example --</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>and other differences make people more susceptible to heart disease,</span>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>or stroke, or autism and so on.</span>
+<span class='talk-transcript__fragment' data-time='602000' id='t-602000'>That's one big project.</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>There's a second big project,</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>recently funded by the Wellcome Trust in this country,</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>involving very large studies --</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>thousands of individuals, with each of eight different diseases,</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>common diseases like type-1 and type-2 diabetes, and coronary heart disease,</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>bipolar disease and so on -- to try and understand the genetics.</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>To try and understand what it is about genetic differences that causes the diseases.</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>Why do we want to do that?</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>Because we understand very little about most human diseases.</span>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>We don't know what causes them.</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>And if we can get in at the bottom and understand the genetics,</span>
+<span class='talk-transcript__fragment' data-time='633000' id='t-633000'>we'll have a window on the way the disease works,</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>and a whole new way about thinking about disease therapies</span>
+<span class='talk-transcript__fragment' data-time='638000' id='t-638000'>and preventative treatment and so on.</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>So that's, as I said, the little diversion on my main love.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>Back to some of the more mundane issues of thinking about uncertainty.</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>Here's another quiz for you --</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>now suppose we've got a test for a disease</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>which isn't infallible, but it's pretty good.</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>It gets it right 99 percent of the time.</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>And I take one of you, or I take someone off the street,</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>and I test them for the disease in question.</span>
+<span class='talk-transcript__fragment' data-time='663000' id='t-663000'>Let's suppose there's a test for HIV -- the virus that causes AIDS --</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>and the test says the person has the disease.</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>What's the chance that they do?</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>The test gets it right 99 percent of the time.</span>
+<span class='talk-transcript__fragment' data-time='675000' id='t-675000'>So a natural answer is 99 percent.</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>Who likes that answer?</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>Come on -- everyone's got to get involved.</span>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>Don't think you don't trust me anymore.</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>Well, you're right to be a bit skeptical, because that's not the answer.</span>
+<span class='talk-transcript__fragment' data-time='688000' id='t-688000'>That's what you might think.</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>It's not the answer, and it's not because it's only part of the story.</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>It actually depends on how common or how rare the disease is.</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>So let me try and illustrate that.</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>Here's a little caricature of a million individuals.</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>So let's think about a disease that affects --</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>it's pretty rare, it affects one person in 10,000.</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>Amongst these million individuals, most of them are healthy</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>and some of them will have the disease.</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>And in fact, if this is the prevalence of the disease,</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>about 100 will have the disease and the rest won't.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>So now suppose we test them all.</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>What happens?</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>Well, amongst the 100 who do have the disease,</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>the test will get it right 99 percent of the time, and 99 will test positive.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>Amongst all these other people who don't have the disease,</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>the test will get it right 99 percent of the time.</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>It'll only get it wrong one percent of the time.</span>
+<span class='talk-transcript__fragment' data-time='736000' id='t-736000'>But there are so many of them that there'll be an enormous number of false positives.</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>Put that another way --</span>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>of all of them who test positive -- so here they are, the individuals involved --</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>less than one in 100 actually have the disease.</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>So even though we think the test is accurate, the important part of the story is</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>there's another bit of information we need.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>Here's the key intuition.</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>What we have to do, once we know the test is positive,</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>is to weigh up the plausibility, or the likelihood, of two competing explanations.</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>Each of those explanations has a likely bit and an unlikely bit.</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>One explanation is that the person doesn't have the disease --</span>
+<span class='talk-transcript__fragment' data-time='777000' id='t-777000'>that's overwhelmingly likely, if you pick someone at random --</span>
+<span class='talk-transcript__fragment' data-time='780000' id='t-780000'>but the test gets it wrong, which is unlikely.</span>
+<span class='talk-transcript__fragment' data-time='784000' id='t-784000'>The other explanation is that the person does have the disease -- that's unlikely --</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>but the test gets it right, which is likely.</span>
+<span class='talk-transcript__fragment' data-time='790000' id='t-790000'>And the number we end up with --</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>that number which is a little bit less than one in 100 --</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>is to do with how likely one of those explanations is relative to the other.</span>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>Each of them taken together is unlikely.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>Here's a more topical example of exactly the same thing.</span>
+<span class='talk-transcript__fragment' data-time='807000' id='t-807000'>Those of you in Britain will know about what's become rather a celebrated case</span>
+<span class='talk-transcript__fragment' data-time='811000' id='t-811000'>of a woman called Sally Clark, who had two babies who died suddenly.</span>
+<span class='talk-transcript__fragment' data-time='816000' id='t-816000'>And initially, it was thought that they died of what's known informally as &quot;cot death,&quot;</span>
+<span class='talk-transcript__fragment' data-time='820000' id='t-820000'>and more formally as &quot;Sudden Infant Death Syndrome.&quot;</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>For various reasons, she was later charged with murder.</span>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>And at the trial, her trial, a very distinguished pediatrician gave evidence</span>
+<span class='talk-transcript__fragment' data-time='829000' id='t-829000'>that the chance of two cot deaths, innocent deaths, in a family like hers --</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>which was professional and non-smoking -- was one in 73 million.</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>To cut a long story short, she was convicted at the time.</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>Later, and fairly recently, acquitted on appeal -- in fact, on the second appeal.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>And just to set it in context, you can imagine how awful it is for someone</span>
+<span class='talk-transcript__fragment' data-time='853000' id='t-853000'>to have lost one child, and then two, if they're innocent,</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>to be convicted of murdering them.</span>
+<span class='talk-transcript__fragment' data-time='858000' id='t-858000'>To be put through the stress of the trial, convicted of murdering them --</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>and to spend time in a women's prison, where all the other prisoners</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>think you killed your children -- is a really awful thing to happen to someone.</span>
+<span class='talk-transcript__fragment' data-time='868000' id='t-868000'>And it happened in large part here because the expert got the statistics</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>horribly wrong, in two different ways.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>So where did he get the one in 73 million number?</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>He looked at some research, which said the chance of one cot death in a family</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>like Sally Clark's is about one in 8,500.</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>So he said, &quot;I'll assume that if you have one cot death in a family,</span>
+<span class='talk-transcript__fragment' data-time='892000' id='t-892000'>the chance of a second child dying from cot death aren't changed.&quot;</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>So that's what statisticians would call an assumption of independence.</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>It's like saying, &quot;If you toss a coin and get a head the first time,</span>
+<span class='talk-transcript__fragment' data-time='901000' id='t-901000'>that won't affect the chance of getting a head the second time.&quot;</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>So if you toss a coin twice, the chance of getting a head twice are a half --</span>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>that's the chance the first time -- times a half -- the chance a second time.</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>So he said, &quot;Here,</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>I'll assume that these events are independent.</span>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>When you multiply 8,500 together twice,</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>you get about 73 million.&quot;</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>And none of this was stated to the court as an assumption</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>or presented to the jury that way.</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>Unfortunately here -- and, really, regrettably --</span>
+<span class='talk-transcript__fragment' data-time='930000' id='t-930000'>first of all, in a situation like this you'd have to verify it empirically.</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>And secondly, it's palpably false.</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>There are lots and lots of things that we don't know about sudden infant deaths.</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>It might well be that there are environmental factors that we're not aware of,</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>and it's pretty likely to be the case that there are</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>genetic factors we're not aware of.</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>So if a family suffers from one cot death, you'd put them in a high-risk group.</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>They've probably got these environmental risk factors</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>and/or genetic risk factors we don't know about.</span>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>And to argue, then, that the chance of a second death is as if you didn't know</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>that information is really silly.</span>
+<span class='talk-transcript__fragment' data-time='963000' id='t-963000'>It's worse than silly -- it's really bad science.</span>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>Nonetheless, that's how it was presented, and at trial nobody even argued it.</span>
+<span class='talk-transcript__fragment' data-time='972000' id='t-972000'>That's the first problem.</span>
+<span class='talk-transcript__fragment' data-time='974000' id='t-974000'>The second problem is, what does the number of one in 73 million mean?</span>
+<span class='talk-transcript__fragment' data-time='978000' id='t-978000'>So after Sally Clark was convicted --</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>you can imagine, it made rather a splash in the press --</span>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>one of the journalists from one of Britain's more reputable newspapers wrote that</span>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>what the expert had said was,</span>
+<span class='talk-transcript__fragment' data-time='993000' id='t-993000'>&quot;The chance that she was innocent was one in 73 million.&quot;</span>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>Now, that's a logical error.</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>It's exactly the same logical error as the logical error of thinking that</span>
+<span class='talk-transcript__fragment' data-time='1003000' id='t-1003000'>after the disease test, which is 99 percent accurate,</span>
+<span class='talk-transcript__fragment' data-time='1005000' id='t-1005000'>the chance of having the disease is 99 percent.</span>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>In the disease example, we had to bear in mind two things,</span>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>one of which was the possibility that the test got it right or not.</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>And the other one was the chance, a priori, that the person had the disease or not.</span>
+<span class='talk-transcript__fragment' data-time='1021000' id='t-1021000'>It's exactly the same in this context.</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>There are two things involved -- two parts to the explanation.</span>
+<span class='talk-transcript__fragment' data-time='1028000' id='t-1028000'>We want to know how likely, or relatively how likely, two different explanations are.</span>
+<span class='talk-transcript__fragment' data-time='1032000' id='t-1032000'>One of them is that Sally Clark was innocent --</span>
+<span class='talk-transcript__fragment' data-time='1035000' id='t-1035000'>which is, a priori, overwhelmingly likely --</span>
+<span class='talk-transcript__fragment' data-time='1037000' id='t-1037000'>most mothers don't kill their children.</span>
+<span class='talk-transcript__fragment' data-time='1040000' id='t-1040000'>And the second part of the explanation</span>
+<span class='talk-transcript__fragment' data-time='1042000' id='t-1042000'>is that she suffered an incredibly unlikely event.</span>
+<span class='talk-transcript__fragment' data-time='1045000' id='t-1045000'>Not as unlikely as one in 73 million, but nonetheless rather unlikely.</span>
+<span class='talk-transcript__fragment' data-time='1049000' id='t-1049000'>The other explanation is that she was guilty.</span>
+<span class='talk-transcript__fragment' data-time='1051000' id='t-1051000'>Now, we probably think a priori that's unlikely.</span>
+<span class='talk-transcript__fragment' data-time='1053000' id='t-1053000'>And we certainly should think in the context of a criminal trial</span>
+<span class='talk-transcript__fragment' data-time='1056000' id='t-1056000'>that that's unlikely, because of the presumption of innocence.</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>And then if she were trying to kill the children, she succeeded.</span>
+<span class='talk-transcript__fragment' data-time='1063000' id='t-1063000'>So the chance that she's innocent isn't one in 73 million.</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>We don't know what it is.</span>
+<span class='talk-transcript__fragment' data-time='1069000' id='t-1069000'>It has to do with weighing up the strength of the other evidence against her</span>
+<span class='talk-transcript__fragment' data-time='1073000' id='t-1073000'>and the statistical evidence.</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>We know the children died.</span>
+<span class='talk-transcript__fragment' data-time='1077000' id='t-1077000'>What matters is how likely or unlikely, relative to each other,</span>
+<span class='talk-transcript__fragment' data-time='1081000' id='t-1081000'>the two explanations are.</span>
+<span class='talk-transcript__fragment' data-time='1083000' id='t-1083000'>And they're both implausible.</span>
+<span class='talk-transcript__fragment' data-time='1086000' id='t-1086000'>There's a situation where errors in statistics had really profound</span>
+<span class='talk-transcript__fragment' data-time='1090000' id='t-1090000'>and really unfortunate consequences.</span>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>In fact, there are two other women who were convicted on the basis of the</span>
+<span class='talk-transcript__fragment' data-time='1095000' id='t-1095000'>evidence of this pediatrician, who have subsequently been released on appeal.</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>Many cases were reviewed.</span>
+<span class='talk-transcript__fragment' data-time='1101000' id='t-1101000'>And it's particularly topical because he's currently facing a disrepute charge</span>
+<span class='talk-transcript__fragment' data-time='1105000' id='t-1105000'>at Britain's General Medical Council.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1108000' id='t-1108000'>So just to conclude -- what are the take-home messages from this?</span>
+<span class='talk-transcript__fragment' data-time='1112000' id='t-1112000'>Well, we know that randomness and uncertainty and chance</span>
+<span class='talk-transcript__fragment' data-time='1116000' id='t-1116000'>are very much a part of our everyday life.</span>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>It's also true -- and, although, you, as a collective, are very special in many ways,</span>
+<span class='talk-transcript__fragment' data-time='1124000' id='t-1124000'>you're completely typical in not getting the examples I gave right.</span>
+<span class='talk-transcript__fragment' data-time='1128000' id='t-1128000'>It's very well documented that people get things wrong.</span>
+<span class='talk-transcript__fragment' data-time='1131000' id='t-1131000'>They make errors of logic in reasoning with uncertainty.</span>
+<span class='talk-transcript__fragment' data-time='1135000' id='t-1135000'>We can cope with the subtleties of language brilliantly --</span>
+<span class='talk-transcript__fragment' data-time='1137000' id='t-1137000'>and there are interesting evolutionary questions about how we got here.</span>
+<span class='talk-transcript__fragment' data-time='1140000' id='t-1140000'>We are not good at reasoning with uncertainty.</span>
+<span class='talk-transcript__fragment' data-time='1143000' id='t-1143000'>That's an issue in our everyday lives.</span>
+<span class='talk-transcript__fragment' data-time='1145000' id='t-1145000'>As you've heard from many of the talks, statistics underpins an enormous amount</span>
+<span class='talk-transcript__fragment' data-time='1148000' id='t-1148000'>of research in science -- in social science, in medicine</span>
+<span class='talk-transcript__fragment' data-time='1151000' id='t-1151000'>and indeed, quite a lot of industry.</span>
+<span class='talk-transcript__fragment' data-time='1153000' id='t-1153000'>All of quality control, which has had a major impact on industrial processing,</span>
+<span class='talk-transcript__fragment' data-time='1157000' id='t-1157000'>is underpinned by statistics.</span>
+<span class='talk-transcript__fragment' data-time='1159000' id='t-1159000'>It's something we're bad at doing.</span>
+<span class='talk-transcript__fragment' data-time='1161000' id='t-1161000'>At the very least, we should recognize that, and we tend not to.</span>
+<span class='talk-transcript__fragment' data-time='1164000' id='t-1164000'>To go back to the legal context, at the Sally Clark trial</span>
+<span class='talk-transcript__fragment' data-time='1168000' id='t-1168000'>all of the lawyers just accepted what the expert said.</span>
+<span class='talk-transcript__fragment' data-time='1172000' id='t-1172000'>So if a pediatrician had come out and said to a jury,</span>
+<span class='talk-transcript__fragment' data-time='1174000' id='t-1174000'>&quot;I know how to build bridges. I've built one down the road.</span>
+<span class='talk-transcript__fragment' data-time='1177000' id='t-1177000'>Please drive your car home over it,&quot;</span>
+<span class='talk-transcript__fragment' data-time='1179000' id='t-1179000'>they would have said, &quot;Well, pediatricians don't know how to build bridges.</span>
+<span class='talk-transcript__fragment' data-time='1181000' id='t-1181000'>That's what engineers do.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1183000' id='t-1183000'>On the other hand, he came out and effectively said, or implied,</span>
+<span class='talk-transcript__fragment' data-time='1186000' id='t-1186000'>&quot;I know how to reason with uncertainty. I know how to do statistics.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1189000' id='t-1189000'>And everyone said, &quot;Well, that's fine. He's an expert.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1192000' id='t-1192000'>So we need to understand where our competence is and isn't.</span>
+<span class='talk-transcript__fragment' data-time='1195000' id='t-1195000'>Exactly the same kinds of issues arose in the early days of DNA profiling,</span>
+<span class='talk-transcript__fragment' data-time='1199000' id='t-1199000'>when scientists, and lawyers and in some cases judges,</span>
+<span class='talk-transcript__fragment' data-time='1203000' id='t-1203000'>routinely misrepresented evidence.</span>
+<span class='talk-transcript__fragment' data-time='1207000' id='t-1207000'>Usually -- one hopes -- innocently, but misrepresented evidence.</span>
+<span class='talk-transcript__fragment' data-time='1210000' id='t-1210000'>Forensic scientists said, &quot;The chance that this guy's innocent is one in three million.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1215000' id='t-1215000'>Even if you believe the number, just like the 73 million to one,</span>
+<span class='talk-transcript__fragment' data-time='1217000' id='t-1217000'>that's not what it meant.</span>
+<span class='talk-transcript__fragment' data-time='1219000' id='t-1219000'>And there have been celebrated appeal cases</span>
+<span class='talk-transcript__fragment' data-time='1221000' id='t-1221000'>in Britain and elsewhere because of that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1223000' id='t-1223000'>And just to finish in the context of the legal system.</span>
+<span class='talk-transcript__fragment' data-time='1226000' id='t-1226000'>It's all very well to say, &quot;Let's do our best to present the evidence.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1230000' id='t-1230000'>But more and more, in cases of DNA profiling -- this is another one --</span>
+<span class='talk-transcript__fragment' data-time='1233000' id='t-1233000'>we expect juries, who are ordinary people --</span>
+<span class='talk-transcript__fragment' data-time='1236000' id='t-1236000'>and it's documented they're very bad at this --</span>
+<span class='talk-transcript__fragment' data-time='1238000' id='t-1238000'>we expect juries to be able to cope with the sorts of reasoning that goes on.</span>
+<span class='talk-transcript__fragment' data-time='1242000' id='t-1242000'>In other spheres of life, if people argued -- well, except possibly for politics --</span>
+<span class='talk-transcript__fragment' data-time='1247000' id='t-1247000'>but in other spheres of life, if people argued illogically,</span>
+<span class='talk-transcript__fragment' data-time='1249000' id='t-1249000'>we'd say that's not a good thing.</span>
+<span class='talk-transcript__fragment' data-time='1251000' id='t-1251000'>We sort of expect it of politicians and don't hope for much more.</span>
+<span class='talk-transcript__fragment' data-time='1255000' id='t-1255000'>In the case of uncertainty, we get it wrong all the time --</span>
+<span class='talk-transcript__fragment' data-time='1258000' id='t-1258000'>and at the very least, we should be aware of that,</span>
+<span class='talk-transcript__fragment' data-time='1260000' id='t-1260000'>and ideally, we might try and do something about it.</span>
+<span class='talk-transcript__fragment' data-time='1262000' id='t-1262000'>Thanks very much.</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

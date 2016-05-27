@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>David MacKay: A reality check on renewables | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="David MacKay: A reality check on renewables | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: How much land mass would renewables need to power a nation like the UK? An entire country&#39;s worth. In this pragmatic talk, David MacKay tours the basic mathematics that show worrying limitations on our sustainable energy options and explains why we should pursue them anyway. (Filmed at TEDxWarwick.)
+" name="description" />
+<meta content="David MacKay" name="author" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A reality check on renewables&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7715f73ce8bc059a37ecd7c7f40577f24e589d95_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7715f73ce8bc059a37ecd7c7f40577f24e589d95_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: How much land mass would renewables need to power a nation like the UK? An entire country&#39;s worth. In this pragmatic talk, David MacKay tours the basic mathematics that show worrying limitations on our sustainable energy options and explains why we should pursue them anyway. (Filmed at TEDxWarwick.)
+" property="og:description" />
+<meta content="http://www.ted.com/talks/david_mackay_a_reality_check_on_renewables/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1460?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='david_mackay_a_reality_check_on_renewables'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1460?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1115" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7715f73ce8bc059a37ecd7c7f40577f24e589d95_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:35</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>David MacKay</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1460?language=en' lang='en'>
+A reality check on renewables
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+May 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='493' id='t-493'>When the Industrial Revolution started,</span>
+<span class='talk-transcript__fragment' data-time='2797' id='t-2797'>the amount of carbon sitting underneath</span>
+<span class='talk-transcript__fragment' data-time='4845' id='t-4845'>Britain in the form of coal was as big as the amount</span>
+<span class='talk-transcript__fragment' data-time='8663' id='t-8663'>of carbon sitting under Saudi Arabia in the form of oil,</span>
+<span class='talk-transcript__fragment' data-time='13144' id='t-13144'>and this carbon powered the Industrial Revolution,</span>
+<span class='talk-transcript__fragment' data-time='15990' id='t-15990'>it put the &quot;Great&quot; in Great Britain,</span>
+<span class='talk-transcript__fragment' data-time='17564' id='t-17564'>and led to Britain's temporary world domination.</span>
+<span class='talk-transcript__fragment' data-time='21885' id='t-21885'>And then, in 1918, coal production in Britain peaked,</span>
+<span class='talk-transcript__fragment' data-time='26435' id='t-26435'>and has declined ever since.</span>
+<span class='talk-transcript__fragment' data-time='28495' id='t-28495'>In due course, Britain started using oil and gas</span>
+<span class='talk-transcript__fragment' data-time='31111' id='t-31111'>from the North Sea, and in the year 2000,</span>
+<span class='talk-transcript__fragment' data-time='34501' id='t-34501'>oil and gas production from the North Sea</span>
+<span class='talk-transcript__fragment' data-time='36861' id='t-36861'>also peaked, and they're now on the decline.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='42029' id='t-42029'>These observations about the finiteness of</span>
+<span class='talk-transcript__fragment' data-time='44740' id='t-44740'>easily accessible, local, secure fossil fuels,</span>
+<span class='talk-transcript__fragment' data-time='48455' id='t-48455'>this is a motivation for saying, &quot;Well, what's next?</span>
+<span class='talk-transcript__fragment' data-time='52337' id='t-52337'>What is life after fossil fuels going to be like?</span>
+<span class='talk-transcript__fragment' data-time='54978' id='t-54978'>Shouldn't we be thinking hard about</span>
+<span class='talk-transcript__fragment' data-time='56740' id='t-56740'>how to get off fossil fuels?&quot;</span>
+<span class='talk-transcript__fragment' data-time='58562' id='t-58562'>Another motivation, of course, is climate change.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='62466' id='t-62466'>And when people talk about life after fossil fuels</span>
+<span class='talk-transcript__fragment' data-time='64533' id='t-64533'>and climate change action, I think there's a lot of</span>
+<span class='talk-transcript__fragment' data-time='67929' id='t-67929'>fluff, a lot of greenwash, a lot of misleading advertising,</span>
+<span class='talk-transcript__fragment' data-time='72043' id='t-72043'>and I feel a duty as a physicist to try to</span>
+<span class='talk-transcript__fragment' data-time='74975' id='t-74975'>guide people around the claptrap and help people</span>
+<span class='talk-transcript__fragment' data-time='77195' id='t-77195'>understand the actions that really make a difference</span>
+<span class='talk-transcript__fragment' data-time='79836' id='t-79836'>and to focus on ideas that do add up.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='85081' id='t-85081'>Let me illustrate this with what physicists call</span>
+<span class='talk-transcript__fragment' data-time='87863' id='t-87863'>a back-of-envelope calculation.</span>
+<span class='talk-transcript__fragment' data-time='90269' id='t-90269'>We love back-of-envelope calculations.</span>
+<span class='talk-transcript__fragment' data-time='91632' id='t-91632'>You ask a question, you write down some numbers,</span>
+<span class='talk-transcript__fragment' data-time='93512' id='t-93512'>and you get yourself an answer.</span>
+<span class='talk-transcript__fragment' data-time='94915' id='t-94915'>It may not be very accurate, but it may make you say,</span>
+<span class='talk-transcript__fragment' data-time='97767' id='t-97767'>&quot;Hmm.&quot;</span>
+<span class='talk-transcript__fragment' data-time='98472' id='t-98472'>So here's a question: Imagine if</span>
+<span class='talk-transcript__fragment' data-time='100963' id='t-100963'>we said, &quot;Oh yes, we can get off fossil fuels.</span>
+<span class='talk-transcript__fragment' data-time='103105' id='t-103105'>We'll use biofuels. Problem solved.</span>
+<span class='talk-transcript__fragment' data-time='104633' id='t-104633'>Transport, we don't need oil anymore.&quot;</span>
+<span class='talk-transcript__fragment' data-time='107048' id='t-107048'>Well, what if we grew the biofuels for a road</span>
+<span class='talk-transcript__fragment' data-time='113234' id='t-113234'>on the grass verge at the edge of the road?</span>
+<span class='talk-transcript__fragment' data-time='117274' id='t-117274'>How wide would the verge have to be for that to work out?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='121492' id='t-121492'>Okay, so let's put in some numbers.</span>
+<span class='talk-transcript__fragment' data-time='123062' id='t-123062'>Let's have our cars go at 60 miles per hour.</span>
+<span class='talk-transcript__fragment' data-time='125917' id='t-125917'>Let's say they do 30 miles per gallon.</span>
+<span class='talk-transcript__fragment' data-time='127524' id='t-127524'>That's the European average for new cars.</span>
+<span class='talk-transcript__fragment' data-time='130504' id='t-130504'>Let's say the productivity of biofuel plantations</span>
+<span class='talk-transcript__fragment' data-time='133072' id='t-133072'>is 1,200 litres of biofuel per hectare per year.</span>
+<span class='talk-transcript__fragment' data-time='136411' id='t-136411'>That's true of European biofuels.</span>
+<span class='talk-transcript__fragment' data-time='138922' id='t-138922'>And let's imagine the cars are spaced 80 meters</span>
+<span class='talk-transcript__fragment' data-time='141620' id='t-141620'>apart from each other, and they're just perpetually going</span>
+<span class='talk-transcript__fragment' data-time='143923' id='t-143923'>along this road.</span>
+<span class='talk-transcript__fragment' data-time='144781' id='t-144781'>The length of the road doesn't matter, because the longer</span>
+<span class='talk-transcript__fragment' data-time='146691' id='t-146691'>the road, the more biofuel plantation we've got.</span>
+<span class='talk-transcript__fragment' data-time='149634' id='t-149634'>What do we do with these numbers?</span>
+<span class='talk-transcript__fragment' data-time='150589' id='t-150589'>Well, you take the first number, and you divide by</span>
+<span class='talk-transcript__fragment' data-time='152729' id='t-152729'>the other three, and you get eight kilometers.</span>
+<span class='talk-transcript__fragment' data-time='154851' id='t-154851'>And that's the answer.</span>
+<span class='talk-transcript__fragment' data-time='155922' id='t-155922'>That's how wide the plantation would have to be,</span>
+<span class='talk-transcript__fragment' data-time='158619' id='t-158619'>given these assumptions.</span>
+<span class='talk-transcript__fragment' data-time='160838' id='t-160838'>And maybe that makes you say, &quot;Hmm.</span>
+<span class='talk-transcript__fragment' data-time='163703' id='t-163703'>Maybe this isn't going to be quite so easy.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='167975' id='t-167975'>And it might make you think, perhaps there's an issue</span>
+<span class='talk-transcript__fragment' data-time='171486' id='t-171486'>to do with areas, and in this talk,</span>
+<span class='talk-transcript__fragment' data-time='174052' id='t-174052'>I'd like to talk about land areas, and ask,</span>
+<span class='talk-transcript__fragment' data-time='176598' id='t-176598'>is there an issue about areas? The answer is going to be</span>
+<span class='talk-transcript__fragment' data-time='180251' id='t-180251'>yes but it depends which country you are in.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='183046' id='t-183046'>So let's start in the United Kingdom,</span>
+<span class='talk-transcript__fragment' data-time='185116' id='t-185116'>since that's where we are today.</span>
+<span class='talk-transcript__fragment' data-time='187431' id='t-187431'>The energy consumption of the United Kingdom,</span>
+<span class='talk-transcript__fragment' data-time='189811' id='t-189811'>the total energy consumption, not just transport, but everything,</span>
+<span class='talk-transcript__fragment' data-time='193861' id='t-193861'>I like to quantify it in light bulbs.</span>
+<span class='talk-transcript__fragment' data-time='195934' id='t-195934'>It's as if we've all got 125 light bulbs on all the time,</span>
+<span class='talk-transcript__fragment' data-time='199894' id='t-199894'>125 kilowatt-hours per day per person</span>
+<span class='talk-transcript__fragment' data-time='203280' id='t-203280'>is the energy consumption of the U.K.</span>
+<span class='talk-transcript__fragment' data-time='206595' id='t-206595'>So there's 40 light bulbs' worth for transport,</span>
+<span class='talk-transcript__fragment' data-time='209148' id='t-209148'>40 light bulbs' worth for heating,</span>
+<span class='talk-transcript__fragment' data-time='210676' id='t-210676'>and 40 light bulbs' worth for making electricity,</span>
+<span class='talk-transcript__fragment' data-time='213705' id='t-213705'>and other things are relatively small</span>
+<span class='talk-transcript__fragment' data-time='215175' id='t-215175'>compared to those three big fish.</span>
+<span class='talk-transcript__fragment' data-time='218230' id='t-218230'>It's actually a bigger footprint if we take into account</span>
+<span class='talk-transcript__fragment' data-time='220785' id='t-220785'>the embodied energy in the stuff we import</span>
+<span class='talk-transcript__fragment' data-time='222717' id='t-222717'>into our country as well, and 90 percent of this energy today</span>
+<span class='talk-transcript__fragment' data-time='227288' id='t-227288'>still comes from fossil fuels, and 10 percent only</span>
+<span class='talk-transcript__fragment' data-time='230603' id='t-230603'>from other, greener -- possibly greener -- sources</span>
+<span class='talk-transcript__fragment' data-time='232527' id='t-232527'>like nuclear power and renewables.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='235731' id='t-235731'>So,</span>
+<span class='talk-transcript__fragment' data-time='237436' id='t-237436'>that's the U.K., and the population density of the U.K.</span>
+<span class='talk-transcript__fragment' data-time='240666' id='t-240666'>is 250 people per square kilometer,</span>
+<span class='talk-transcript__fragment' data-time='243944' id='t-243944'>and I'm now going to show you other countries</span>
+<span class='talk-transcript__fragment' data-time='245609' id='t-245609'>by these same two measures.</span>
+<span class='talk-transcript__fragment' data-time='246667' id='t-246667'>On the vertical axis, I'm going to show you</span>
+<span class='talk-transcript__fragment' data-time='249081' id='t-249081'>how much light bulbs -- what our energy consumption</span>
+<span class='talk-transcript__fragment' data-time='251605' id='t-251605'>per person is, and we're at 125 light bulbs per person,</span>
+<span class='talk-transcript__fragment' data-time='254790' id='t-254790'>and that little blue dot there is showing you the land area</span>
+<span class='talk-transcript__fragment' data-time='258092' id='t-258092'>of the United Kingdom,</span>
+<span class='talk-transcript__fragment' data-time='260172' id='t-260172'>and the population density is on the horizontal axis,</span>
+<span class='talk-transcript__fragment' data-time='262939' id='t-262939'>and we're 250 people per square kilometer.</span>
+<span class='talk-transcript__fragment' data-time='265604' id='t-265604'>Let's add European countries in blue,</span>
+<span class='talk-transcript__fragment' data-time='268258' id='t-268258'>and you can see there's quite a variety.</span>
+<span class='talk-transcript__fragment' data-time='271044' id='t-271044'>I should emphasize, both of these axes</span>
+<span class='talk-transcript__fragment' data-time='273191' id='t-273191'>are logarithmic. As you go from one gray bar</span>
+<span class='talk-transcript__fragment' data-time='275282' id='t-275282'>to the next gray bar you're going up a factor of 10.</span>
+<span class='talk-transcript__fragment' data-time='279065' id='t-279065'>Next, let's add Asia in red,</span>
+<span class='talk-transcript__fragment' data-time='281738' id='t-281738'>the Middle East and North Africa in green,</span>
+<span class='talk-transcript__fragment' data-time='285413' id='t-285413'>sub-Saharan Africa in blue,</span>
+<span class='talk-transcript__fragment' data-time='288601' id='t-288601'>black is South America,</span>
+<span class='talk-transcript__fragment' data-time='291845' id='t-291845'>purple is Central America,</span>
+<span class='talk-transcript__fragment' data-time='294757' id='t-294757'>and then in pukey-yellow, we have North America,</span>
+<span class='talk-transcript__fragment' data-time='297812' id='t-297812'>Australia and New Zealand.</span>
+<span class='talk-transcript__fragment' data-time='300380' id='t-300380'>And you can see the great diversity of population densities</span>
+<span class='talk-transcript__fragment' data-time='302984' id='t-302984'>and of per capita consumptions.</span>
+<span class='talk-transcript__fragment' data-time='306397' id='t-306397'>Countries are different from each other.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='308399' id='t-308399'>Top left, we have Canada and Australia, with enormous</span>
+<span class='talk-transcript__fragment' data-time='310984' id='t-310984'>land areas, very high per capita consumption,</span>
+<span class='talk-transcript__fragment' data-time='313727' id='t-313727'>200 or 300 light bulbs per person,</span>
+<span class='talk-transcript__fragment' data-time='316310' id='t-316310'>and very low population densities.</span>
+<span class='talk-transcript__fragment' data-time='320104' id='t-320104'>Top right, Bahrain has the same energy consumption</span>
+<span class='talk-transcript__fragment' data-time='322957' id='t-322957'>per person, roughly, as Canada,</span>
+<span class='talk-transcript__fragment' data-time='325205' id='t-325205'>over 300 light bulbs per person,</span>
+<span class='talk-transcript__fragment' data-time='327540' id='t-327540'>but their population density is a factor of 300 times greater,</span>
+<span class='talk-transcript__fragment' data-time='330712' id='t-330712'>1,000 people per square kilometer.</span>
+<span class='talk-transcript__fragment' data-time='332406' id='t-332406'>Bottom right, Bangladesh has the same population density</span>
+<span class='talk-transcript__fragment' data-time='335951' id='t-335951'>as Bahrain but consumes 100 times less per person.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='340761' id='t-340761'>Bottom left, well, there's no one.</span>
+<span class='talk-transcript__fragment' data-time='343686' id='t-343686'>But there used to be a whole load of people.</span>
+<span class='talk-transcript__fragment' data-time='345735' id='t-345735'>Here's another message from this diagram.</span>
+<span class='talk-transcript__fragment' data-time='347487' id='t-347487'>I've added on little blue tails behind Sudan, Libya,</span>
+<span class='talk-transcript__fragment' data-time='351173' id='t-351173'>China, India, Bangladesh.</span>
+<span class='talk-transcript__fragment' data-time='352476' id='t-352476'>That's 15 years of progress.</span>
+<span class='talk-transcript__fragment' data-time='354623' id='t-354623'>Where were they 15 years ago, and where are they now?</span>
+<span class='talk-transcript__fragment' data-time='357242' id='t-357242'>And the message is, most countries are going to the right,</span>
+<span class='talk-transcript__fragment' data-time='360054' id='t-360054'>and they're going up,</span>
+<span class='talk-transcript__fragment' data-time='360836' id='t-360836'>up and to the right -- bigger population density</span>
+<span class='talk-transcript__fragment' data-time='363179' id='t-363179'>and higher per capita consumption.</span>
+<span class='talk-transcript__fragment' data-time='365496' id='t-365496'>So, we may be off in the top right-hand corner,</span>
+<span class='talk-transcript__fragment' data-time='367951' id='t-367951'>slightly unusual, the United Kingdom accompanied by</span>
+<span class='talk-transcript__fragment' data-time='370922' id='t-370922'>Germany, Japan, South Korea, the Netherlands,</span>
+<span class='talk-transcript__fragment' data-time='373704' id='t-373704'>and a bunch of other slightly odd countries,</span>
+<span class='talk-transcript__fragment' data-time='375919' id='t-375919'>but many other countries are coming up</span>
+<span class='talk-transcript__fragment' data-time='378487' id='t-378487'>and to the right to come and join us,</span>
+<span class='talk-transcript__fragment' data-time='380403' id='t-380403'>so we're a picture, if you like, of what the future energy</span>
+<span class='talk-transcript__fragment' data-time='384056' id='t-384056'>consumption might be looking like in other countries too.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='388315' id='t-388315'>And I've also added in this diagram now some pink lines</span>
+<span class='talk-transcript__fragment' data-time='391843' id='t-391843'>that go down and to the right.</span>
+<span class='talk-transcript__fragment' data-time='393829' id='t-393829'>Those are lines of equal power consumption</span>
+<span class='talk-transcript__fragment' data-time='395997' id='t-395997'>per unit area, which I measure in watts per square meter.</span>
+<span class='talk-transcript__fragment' data-time='399789' id='t-399789'>So, for example, the middle line there,</span>
+<span class='talk-transcript__fragment' data-time='401238' id='t-401238'>0.1 watts per square meter, is the energy consumption</span>
+<span class='talk-transcript__fragment' data-time='404598' id='t-404598'>per unit area of Saudi Arabia, Norway, Mexico in purple,</span>
+<span class='talk-transcript__fragment' data-time='409261' id='t-409261'>and Bangladesh 15 years ago,</span>
+<span class='talk-transcript__fragment' data-time='412868' id='t-412868'>and half of the world's population lives in countries</span>
+<span class='talk-transcript__fragment' data-time='415635' id='t-415635'>that are already above that line.</span>
+<span class='talk-transcript__fragment' data-time='419518' id='t-419518'>The United Kingdom is consuming 1.25</span>
+<span class='talk-transcript__fragment' data-time='422903' id='t-422903'>watts per square meter.</span>
+<span class='talk-transcript__fragment' data-time='424713' id='t-424713'>So's Germany, and Japan is consuming a bit more.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='429258' id='t-429258'>So, let's now</span>
+<span class='talk-transcript__fragment' data-time='431558' id='t-431558'>say why this is relevant. Why is it relevant?</span>
+<span class='talk-transcript__fragment' data-time='434294' id='t-434294'>Well, we can measure renewables in the same units</span>
+<span class='talk-transcript__fragment' data-time='437513' id='t-437513'>and other forms of power production in the same units,</span>
+<span class='talk-transcript__fragment' data-time='440342' id='t-440342'>and renewables is one of the leading ideas for</span>
+<span class='talk-transcript__fragment' data-time='443261' id='t-443261'>how we could get off our 90 percent fossil fuel habit.</span>
+<span class='talk-transcript__fragment' data-time='447678' id='t-447678'>So here come some renewables.</span>
+<span class='talk-transcript__fragment' data-time='449052' id='t-449052'>Energy crops deliver half a watt per square meter</span>
+<span class='talk-transcript__fragment' data-time='451812' id='t-451812'>in European climates.</span>
+<span class='talk-transcript__fragment' data-time='454258' id='t-454258'>What does that mean? And you might have anticipated</span>
+<span class='talk-transcript__fragment' data-time='456531' id='t-456531'>that result, given what I told you about the biofuel plantation</span>
+<span class='talk-transcript__fragment' data-time='459348' id='t-459348'>a moment ago.</span>
+<span class='talk-transcript__fragment' data-time='460765' id='t-460765'>Well, we consume 1.25 watts per square meter.</span>
+<span class='talk-transcript__fragment' data-time='464026' id='t-464026'>What this means is, even if you covered</span>
+<span class='talk-transcript__fragment' data-time='465347' id='t-465347'>the whole of the United Kingdom with energy crops,</span>
+<span class='talk-transcript__fragment' data-time='468179' id='t-468179'>you couldn't match today's energy consumption.</span>
+<span class='talk-transcript__fragment' data-time='472227' id='t-472227'>Wind power produces a bit more,</span>
+<span class='talk-transcript__fragment' data-time='474224' id='t-474224'>2.5 watts per square meter, but that's only twice as big</span>
+<span class='talk-transcript__fragment' data-time='477481' id='t-477481'>as 1.25 watts per square meter,</span>
+<span class='talk-transcript__fragment' data-time='480704' id='t-480704'>so that means if you wanted literally to produce total</span>
+<span class='talk-transcript__fragment' data-time='484174' id='t-484174'>energy consumption in all forms on average from</span>
+<span class='talk-transcript__fragment' data-time='486495' id='t-486495'>wind farms, you need wind farms half the area of the U.K.</span>
+<span class='talk-transcript__fragment' data-time='491405' id='t-491405'>I've got data to back up all these assertions, by the way.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='495172' id='t-495172'>Next, let's look at solar power.</span>
+<span class='talk-transcript__fragment' data-time='497668' id='t-497668'>Solar panels, when you put them on a roof,</span>
+<span class='talk-transcript__fragment' data-time='500161' id='t-500161'>deliver about 20 watts per square meter in England.</span>
+<span class='talk-transcript__fragment' data-time='505530' id='t-505530'>If you really want to get a lot from solar panels,</span>
+<span class='talk-transcript__fragment' data-time='507554' id='t-507554'>you need to adopt the traditional Bavarian farming method</span>
+<span class='talk-transcript__fragment' data-time='510560' id='t-510560'>where you leap off the roof and coat the countryside</span>
+<span class='talk-transcript__fragment' data-time='513248' id='t-513248'>with solar panels too.</span>
+<span class='talk-transcript__fragment' data-time='515304' id='t-515304'>Solar parks, because of the gaps between the panels,</span>
+<span class='talk-transcript__fragment' data-time='517200' id='t-517200'>deliver less. They deliver about 5 watts</span>
+<span class='talk-transcript__fragment' data-time='519161' id='t-519161'>per square meter of land area.</span>
+<span class='talk-transcript__fragment' data-time='521688' id='t-521688'>And here's a solar park in Vermont with real data</span>
+<span class='talk-transcript__fragment' data-time='524200' id='t-524200'>delivering 4.2 watts per square meter.</span>
+<span class='talk-transcript__fragment' data-time='528061' id='t-528061'>Remember where we are, 1.25 watts per square meter,</span>
+<span class='talk-transcript__fragment' data-time='530511' id='t-530511'>wind farms 2.5, solar parks about five.</span>
+<span class='talk-transcript__fragment' data-time='534897' id='t-534897'>So, whatever, whichever of those renewables you pick,</span>
+<span class='talk-transcript__fragment' data-time='538248' id='t-538248'>the message is, whatever mix of those renewables</span>
+<span class='talk-transcript__fragment' data-time='540825' id='t-540825'>you're using, if you want to power the U.K. on them,</span>
+<span class='talk-transcript__fragment' data-time='543840' id='t-543840'>you're going to need to cover something like</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>20 percent or 25 percent of the country</span>
+<span class='talk-transcript__fragment' data-time='548640' id='t-548640'>with those renewables.</span>
+<span class='talk-transcript__fragment' data-time='550863' id='t-550863'>And I'm not saying that's a bad idea.</span>
+<span class='talk-transcript__fragment' data-time='552459' id='t-552459'>We just need to understand the numbers.</span>
+<span class='talk-transcript__fragment' data-time='553735' id='t-553735'>I'm absolutely not anti-renewables. I love renewables.</span>
+<span class='talk-transcript__fragment' data-time='556461' id='t-556461'>But I'm also pro-arithmetic. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='560671' id='t-560671'>Concentrating solar power in deserts delivers</span>
+<span class='talk-transcript__fragment' data-time='563340' id='t-563340'>larger powers per unit area, because you don't have</span>
+<span class='talk-transcript__fragment' data-time='565146' id='t-565146'>the problem of clouds,</span>
+<span class='talk-transcript__fragment' data-time='566784' id='t-566784'>and so this facility delivers 14 watts per square meter,</span>
+<span class='talk-transcript__fragment' data-time='570073' id='t-570073'>this one 10 watts per square meter,</span>
+<span class='talk-transcript__fragment' data-time='572091' id='t-572091'>and this one in Spain 5 watts per square meter.</span>
+<span class='talk-transcript__fragment' data-time='574784' id='t-574784'>Being generous to concentrating solar power,</span>
+<span class='talk-transcript__fragment' data-time='576919' id='t-576919'>I think it's perfect credible it could deliver 20 watts</span>
+<span class='talk-transcript__fragment' data-time='579913' id='t-579913'>per square meter. So that's nice.</span>
+<span class='talk-transcript__fragment' data-time='581793' id='t-581793'>Of course, Britain doesn't have any deserts.</span>
+<span class='talk-transcript__fragment' data-time='584946' id='t-584946'>Yet. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='587575' id='t-587575'>So here's a summary so far.</span>
+<span class='talk-transcript__fragment' data-time='590901' id='t-590901'>All renewables, much as I love them, are diffuse.</span>
+<span class='talk-transcript__fragment' data-time='593619' id='t-593619'>They all have a small power per unit area,</span>
+<span class='talk-transcript__fragment' data-time='595519' id='t-595519'>and we have to live with that fact.</span>
+<span class='talk-transcript__fragment' data-time='597977' id='t-597977'>And that means, if you do want renewables</span>
+<span class='talk-transcript__fragment' data-time='601561' id='t-601561'>to make a substantial difference for a country like</span>
+<span class='talk-transcript__fragment' data-time='604078' id='t-604078'>the United Kingdom on the scale of today's consumption,</span>
+<span class='talk-transcript__fragment' data-time='607286' id='t-607286'>you need to be imagining renewable facilities</span>
+<span class='talk-transcript__fragment' data-time='609585' id='t-609585'>that are country-sized, not the entire country</span>
+<span class='talk-transcript__fragment' data-time='612830' id='t-612830'>but a fraction of the country, a substantial fraction.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='617164' id='t-617164'>There are other options for generating power as well</span>
+<span class='talk-transcript__fragment' data-time='619936' id='t-619936'>which don't involve fossil fuels.</span>
+<span class='talk-transcript__fragment' data-time='621775' id='t-621775'>So there's nuclear power, and on this Ordnance</span>
+<span class='talk-transcript__fragment' data-time='624583' id='t-624583'>Survey map, you can see there's a Sizewell B</span>
+<span class='talk-transcript__fragment' data-time='626478' id='t-626478'>inside a blue square kilometer.</span>
+<span class='talk-transcript__fragment' data-time='628608' id='t-628608'>That's one gigawatt in a square kilometer,</span>
+<span class='talk-transcript__fragment' data-time='630791' id='t-630791'>which works out to 1,000 watts per square meter.</span>
+<span class='talk-transcript__fragment' data-time='633239' id='t-633239'>So by this particular metric, nuclear power</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>isn't as intrusive as renewables.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='641193' id='t-641193'>Of course, other metrics matter too, and nuclear power</span>
+<span class='talk-transcript__fragment' data-time='643769' id='t-643769'>has all sorts of popularity problems.</span>
+<span class='talk-transcript__fragment' data-time='646279' id='t-646279'>But the same goes for renewables as well.</span>
+<span class='talk-transcript__fragment' data-time='648490' id='t-648490'>Here's a photograph of a consultation exercise in full swing</span>
+<span class='talk-transcript__fragment' data-time='650991' id='t-650991'>in the little town of Penicuik just outside Edinburgh,</span>
+<span class='talk-transcript__fragment' data-time='654244' id='t-654244'>and you can see the children of Penicuik celebrating</span>
+<span class='talk-transcript__fragment' data-time='656308' id='t-656308'>the burning of the effigy of the windmill.</span>
+<span class='talk-transcript__fragment' data-time='659044' id='t-659044'>So people are anti-everything, and we've got to keep</span>
+<span class='talk-transcript__fragment' data-time='663742' id='t-663742'>all the options on the table.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='666176' id='t-666176'>What can a country like the U.K. do on the supply side?</span>
+<span class='talk-transcript__fragment' data-time='669991' id='t-669991'>Well, the options are, I'd say, these three:</span>
+<span class='talk-transcript__fragment' data-time='672934' id='t-672934'>power renewables, and recognizing that they need to be</span>
+<span class='talk-transcript__fragment' data-time='675743' id='t-675743'>close to country-sized; other people's renewables,</span>
+<span class='talk-transcript__fragment' data-time='678907' id='t-678907'>so we could go back and talk very politely to the people</span>
+<span class='talk-transcript__fragment' data-time='681551' id='t-681551'>in the top left-hand side of the diagram and say,</span>
+<span class='talk-transcript__fragment' data-time='683774' id='t-683774'>&quot;Uh, we don't want renewables in our backyard,</span>
+<span class='talk-transcript__fragment' data-time='685880' id='t-685880'>but, um, please could we put them in yours instead?&quot;</span>
+<span class='talk-transcript__fragment' data-time='689139' id='t-689139'>And that's a serious option.</span>
+<span class='talk-transcript__fragment' data-time='690850' id='t-690850'>It's a way for the world to handle this issue.</span>
+<span class='talk-transcript__fragment' data-time='694379' id='t-694379'>So countries like Australia, Russia, Libya, Kazakhstan,</span>
+<span class='talk-transcript__fragment' data-time='698687' id='t-698687'>could be our best friends for renewable production.</span>
+<span class='talk-transcript__fragment' data-time='703356' id='t-703356'>And a third option is nuclear power.</span>
+<span class='talk-transcript__fragment' data-time='705416' id='t-705416'>So that's some supply side options.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='707656' id='t-707656'>In addition to the supply levers that we can push,</span>
+<span class='talk-transcript__fragment' data-time='710972' id='t-710972'>and remember, we need large amounts,</span>
+<span class='talk-transcript__fragment' data-time='713031' id='t-713031'>because at the moment,</span>
+<span class='talk-transcript__fragment' data-time='713745' id='t-713745'>we get 90 percent of our energy from fossil fuels.</span>
+<span class='talk-transcript__fragment' data-time='716200' id='t-716200'>In addition to those levers, we could talk about other ways</span>
+<span class='talk-transcript__fragment' data-time='719024' id='t-719024'>of solving this issue, namely, we could reduce demand,</span>
+<span class='talk-transcript__fragment' data-time='722081' id='t-722081'>and that means reducing population</span>
+<span class='talk-transcript__fragment' data-time='724086' id='t-724086'>— I'm not sure how to do that —</span>
+<span class='talk-transcript__fragment' data-time='725845' id='t-725845'>or reducing per capita consumption.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='729136' id='t-729136'>So let's talk about three more big levers</span>
+<span class='talk-transcript__fragment' data-time='731623' id='t-731623'>that could really help on the consumption side.</span>
+<span class='talk-transcript__fragment' data-time='733973' id='t-733973'>First, transport. Here are the physics principles that tell you</span>
+<span class='talk-transcript__fragment' data-time='736314' id='t-736314'>how to reduce the energy consumption of transport,</span>
+<span class='talk-transcript__fragment' data-time='739303' id='t-739303'>and people often say, &quot;Oh, yes, technology can answer everything.</span>
+<span class='talk-transcript__fragment' data-time='741631' id='t-741631'>We can make vehicles that are a hundred times more</span>
+<span class='talk-transcript__fragment' data-time='743631' id='t-743631'>efficient.&quot; And that's almost true. Let me show you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='746400' id='t-746400'>The energy consumption of this typical tank here</span>
+<span class='talk-transcript__fragment' data-time='749128' id='t-749128'>is 80 kilowatt-hours per hundred person kilometers.</span>
+<span class='talk-transcript__fragment' data-time='752784' id='t-752784'>That's the average European car.</span>
+<span class='talk-transcript__fragment' data-time='757115' id='t-757115'>Eighty kilowatt-hours. Can we make something a hundred times</span>
+<span class='talk-transcript__fragment' data-time='759318' id='t-759318'>better by applying those physics principles I just listed?</span>
+<span class='talk-transcript__fragment' data-time='762081' id='t-762081'>Yes. Here it is. It's the bicycle. It's 80 times better in energy</span>
+<span class='talk-transcript__fragment' data-time='766761' id='t-766761'>consumption, and it's powered by biofuel, by Weetabix.</span>
+<span class='talk-transcript__fragment' data-time='769809' id='t-769809'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='771840' id='t-771840'>And there are other options in between, because maybe</span>
+<span class='talk-transcript__fragment' data-time='773904' id='t-773904'>the lady in the tank would say, &quot;No, no, no,</span>
+<span class='talk-transcript__fragment' data-time='775289' id='t-775289'>that's a lifestyle change. Don't change my lifestyle, please.&quot;</span>
+<span class='talk-transcript__fragment' data-time='777704' id='t-777704'>So, well, we could persuade her to get into a train,</span>
+<span class='talk-transcript__fragment' data-time='780520' id='t-780520'>and that's still a lot more efficient than a car,</span>
+<span class='talk-transcript__fragment' data-time='782568' id='t-782568'>but that might be a lifestyle change,</span>
+<span class='talk-transcript__fragment' data-time='783749' id='t-783749'>or there's the eco-car, top-left.</span>
+<span class='talk-transcript__fragment' data-time='785483' id='t-785483'>It comfortably accommodates one teenager</span>
+<span class='talk-transcript__fragment' data-time='787477' id='t-787477'>and it's shorter than a traffic cone,</span>
+<span class='talk-transcript__fragment' data-time='789086' id='t-789086'>and it's almost as efficient as a bicycle</span>
+<span class='talk-transcript__fragment' data-time='791112' id='t-791112'>as long as you drive it at 15 miles per hour.</span>
+<span class='talk-transcript__fragment' data-time='794606' id='t-794606'>In between, perhaps some more realistic options</span>
+<span class='talk-transcript__fragment' data-time='796896' id='t-796896'>on this lever, transport lever, are electric vehicles,</span>
+<span class='talk-transcript__fragment' data-time='799670' id='t-799670'>so electric bikes and electric cars in the middle,</span>
+<span class='talk-transcript__fragment' data-time='802628' id='t-802628'>perhaps four times as energy efficient</span>
+<span class='talk-transcript__fragment' data-time='804752' id='t-804752'>as the standard petrol-powered tank.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='808539' id='t-808539'>Next, there's the heating lever.</span>
+<span class='talk-transcript__fragment' data-time='810700' id='t-810700'>Heating is a third of our energy consumption in Britain,</span>
+<span class='talk-transcript__fragment' data-time='814116' id='t-814116'>and quite a lot of that is going into homes</span>
+<span class='talk-transcript__fragment' data-time='815979' id='t-815979'>and other buildings doing space heating and water heating.</span>
+<span class='talk-transcript__fragment' data-time='819380' id='t-819380'>So here's a typical crappy British house.</span>
+<span class='talk-transcript__fragment' data-time='821802' id='t-821802'>It's my house, with the Ferrari out front.</span>
+<span class='talk-transcript__fragment' data-time='825860' id='t-825860'>What can we do to it?</span>
+<span class='talk-transcript__fragment' data-time='827002' id='t-827002'>Well, the laws of physics are written up there,</span>
+<span class='talk-transcript__fragment' data-time='830027' id='t-830027'>which describe what -- how the power consumption</span>
+<span class='talk-transcript__fragment' data-time='835410' id='t-835410'>for heating is driven by the things you can control.</span>
+<span class='talk-transcript__fragment' data-time='837832' id='t-837832'>The things you can control are the temperature difference</span>
+<span class='talk-transcript__fragment' data-time='840410' id='t-840410'>between the inside and the outside, and there's this</span>
+<span class='talk-transcript__fragment' data-time='842434' id='t-842434'>remarkable technology called a thermostat.</span>
+<span class='talk-transcript__fragment' data-time='844402' id='t-844402'>You grasp it, you rotate it to the left,</span>
+<span class='talk-transcript__fragment' data-time='846320' id='t-846320'>and your energy consumption in the home will decrease.</span>
+<span class='talk-transcript__fragment' data-time='848649' id='t-848649'>I've tried it. It works. Some people call it a lifestyle change.</span>
+<span class='talk-transcript__fragment' data-time='852721' id='t-852721'>You can also get the fluff men in to reduce the leakiness</span>
+<span class='talk-transcript__fragment' data-time='857001' id='t-857001'>of your building -- put fluff in the walls, fluff in the roof,</span>
+<span class='talk-transcript__fragment' data-time='858921' id='t-858921'>and a new front door and so forth,</span>
+<span class='talk-transcript__fragment' data-time='862178' id='t-862178'>and the sad truth is, this will save you money.</span>
+<span class='talk-transcript__fragment' data-time='865539' id='t-865539'>That's not sad, that's good, but the sad truth is, it'll only</span>
+<span class='talk-transcript__fragment' data-time='868459' id='t-868459'>get about 25 percent of the leakiness of your building,</span>
+<span class='talk-transcript__fragment' data-time='871722' id='t-871722'>if you do these things, which are good ideas.</span>
+<span class='talk-transcript__fragment' data-time='873819' id='t-873819'>If you really want to get a bit closer to Swedish</span>
+<span class='talk-transcript__fragment' data-time='876664' id='t-876664'>building standards with a crappy house like this,</span>
+<span class='talk-transcript__fragment' data-time='879118' id='t-879118'>you need to be putting external insulation on the building</span>
+<span class='talk-transcript__fragment' data-time='882831' id='t-882831'>as shown by this block of flats in London.</span>
+<span class='talk-transcript__fragment' data-time='886652' id='t-886652'>You can also deliver heat more efficiently using heat pumps</span>
+<span class='talk-transcript__fragment' data-time='889605' id='t-889605'>which use a smaller bit of high grade energy like electricity</span>
+<span class='talk-transcript__fragment' data-time='892843' id='t-892843'>to move heat from your garden into your house.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='896226' id='t-896226'>The third demand side option I want to talk about,</span>
+<span class='talk-transcript__fragment' data-time='898714' id='t-898714'>the third way to reduce energy consumption is,</span>
+<span class='talk-transcript__fragment' data-time='900466' id='t-900466'>read your meters.</span>
+<span class='talk-transcript__fragment' data-time='902115' id='t-902115'>And people talk a lot about smart meters,</span>
+<span class='talk-transcript__fragment' data-time='903607' id='t-903607'>but you can do it yourself.</span>
+<span class='talk-transcript__fragment' data-time='904579' id='t-904579'>Use your own eyes and be smart, read your meter,</span>
+<span class='talk-transcript__fragment' data-time='908129' id='t-908129'>and if you're anything like me, it'll change your life.</span>
+<span class='talk-transcript__fragment' data-time='910634' id='t-910634'>Here's a graph I made.</span>
+<span class='talk-transcript__fragment' data-time='912191' id='t-912191'>I was writing a book about sustainable energy,</span>
+<span class='talk-transcript__fragment' data-time='914725' id='t-914725'>and a friend asked me, &quot;Well how much energy do you use</span>
+<span class='talk-transcript__fragment' data-time='917164' id='t-917164'>at home?&quot; And I was embarrassed. I didn't actually know.</span>
+<span class='talk-transcript__fragment' data-time='919404' id='t-919404'>And so I started reading the meter every week,</span>
+<span class='talk-transcript__fragment' data-time='921555' id='t-921555'>and the old meter readings are shown</span>
+<span class='talk-transcript__fragment' data-time='924063' id='t-924063'>in the top half of the graph, and then 2007</span>
+<span class='talk-transcript__fragment' data-time='926209' id='t-926209'>is shown in green at the bottom, and that was when</span>
+<span class='talk-transcript__fragment' data-time='928425' id='t-928425'>I was reading the meter every week, and my life changed,</span>
+<span class='talk-transcript__fragment' data-time='930635' id='t-930635'>because I started doing experiments and seeing</span>
+<span class='talk-transcript__fragment' data-time='933699' id='t-933699'>what made a difference, and my gas consumption</span>
+<span class='talk-transcript__fragment' data-time='935779' id='t-935779'>plummeted because I started tinkering</span>
+<span class='talk-transcript__fragment' data-time='936916' id='t-936916'>with the thermostat and the timing on the heating system,</span>
+<span class='talk-transcript__fragment' data-time='939250' id='t-939250'>and I knocked more than a half off my gas bills.</span>
+<span class='talk-transcript__fragment' data-time='941550' id='t-941550'>There's a similar story for my electricity consumption,</span>
+<span class='talk-transcript__fragment' data-time='944941' id='t-944941'>where switching off the DVD players, the stereos,</span>
+<span class='talk-transcript__fragment' data-time='949001' id='t-949001'>the computer peripherals that were on all the time,</span>
+<span class='talk-transcript__fragment' data-time='951803' id='t-951803'>and just switching them on when I needed them,</span>
+<span class='talk-transcript__fragment' data-time='953627' id='t-953627'>knocked another third off my electricity bills too.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='957868' id='t-957868'>So we need a plan that adds up, and I've described for you</span>
+<span class='talk-transcript__fragment' data-time='960611' id='t-960611'>six big levers, and we need big action because we get</span>
+<span class='talk-transcript__fragment' data-time='963576' id='t-963576'>90 percent of our energy from fossil fuels,</span>
+<span class='talk-transcript__fragment' data-time='966226' id='t-966226'>and so you need to push hard on most if not all of these levers.</span>
+<span class='talk-transcript__fragment' data-time='970776' id='t-970776'>And most of these levers have popularity problems,</span>
+<span class='talk-transcript__fragment' data-time='973505' id='t-973505'>and if there is a lever you don't like the use of,</span>
+<span class='talk-transcript__fragment' data-time='977095' id='t-977095'>well please do bear in mind that means you need</span>
+<span class='talk-transcript__fragment' data-time='979226' id='t-979226'>even stronger effort on the other levers.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='983124' id='t-983124'>So I'm a strong advocate of having grown-up conversations</span>
+<span class='talk-transcript__fragment' data-time='986168' id='t-986168'>that are based on numbers and facts, and I want to close</span>
+<span class='talk-transcript__fragment' data-time='989729' id='t-989729'>with this map that just visualizes for you</span>
+<span class='talk-transcript__fragment' data-time='992438' id='t-992438'>the requirement of land and so forth in order to get</span>
+<span class='talk-transcript__fragment' data-time='996764' id='t-996764'>just 16 light bulbs per person</span>
+<span class='talk-transcript__fragment' data-time='998680' id='t-998680'>from four of the big possible sources.</span>
+<span class='talk-transcript__fragment' data-time='1002271' id='t-1002271'>So, if you wanted to get 16 light bulbs, remember,</span>
+<span class='talk-transcript__fragment' data-time='1005758' id='t-1005758'>today our total energy consumption is 125 light bulbs' worth.</span>
+<span class='talk-transcript__fragment' data-time='1009791' id='t-1009791'>If you wanted 16 from wind, this map visualizes a solution</span>
+<span class='talk-transcript__fragment' data-time='1014070' id='t-1014070'>for the U.K. It's got 160 wind farms,</span>
+<span class='talk-transcript__fragment' data-time='1016279' id='t-1016279'>each 100 square kilometers in size,</span>
+<span class='talk-transcript__fragment' data-time='1019282' id='t-1019282'>and that would be a twentyfold increase</span>
+<span class='talk-transcript__fragment' data-time='1020724' id='t-1020724'>over today's amount of wind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1023190' id='t-1023190'>Nuclear power, to get 16 light bulbs per person, you'd need</span>
+<span class='talk-transcript__fragment' data-time='1026122' id='t-1026122'>two gigawatts at each of the purple dots on the map.</span>
+<span class='talk-transcript__fragment' data-time='1028874' id='t-1028874'>That's a fourfold increase</span>
+<span class='talk-transcript__fragment' data-time='1030584' id='t-1030584'>over today's levels of nuclear power.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1033776' id='t-1033776'>Biomass, to get 16 light bulbs per person, you'd need</span>
+<span class='talk-transcript__fragment' data-time='1036911' id='t-1036911'>a land area something like three and a half Wales' worth,</span>
+<span class='talk-transcript__fragment' data-time='1040696' id='t-1040696'>either in our country, or in someone else's country,</span>
+<span class='talk-transcript__fragment' data-time='1044216' id='t-1044216'>possibly Ireland, possibly somewhere else. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1047247' id='t-1047247'>And a fourth supply side option, concentrating solar power</span>
+<span class='talk-transcript__fragment' data-time='1050464' id='t-1050464'>in other people's deserts,</span>
+<span class='talk-transcript__fragment' data-time='1052155' id='t-1052155'>if you wanted to get 16 light bulbs' worth,</span>
+<span class='talk-transcript__fragment' data-time='1054597' id='t-1054597'>then we're talking about these eight hexagons</span>
+<span class='talk-transcript__fragment' data-time='1058056' id='t-1058056'>down at the bottom right.</span>
+<span class='talk-transcript__fragment' data-time='1058982' id='t-1058982'>The total area of those hexagons</span>
+<span class='talk-transcript__fragment' data-time='1061153' id='t-1061153'>is two Greater London's worth of someone else's Sahara,</span>
+<span class='talk-transcript__fragment' data-time='1065753' id='t-1065753'>and you'll need power lines all the way across Spain</span>
+<span class='talk-transcript__fragment' data-time='1067480' id='t-1067480'>and France to bring the power from the Sahara to Surrey.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1073050' id='t-1073050'>We need a plan that adds up.</span>
+<span class='talk-transcript__fragment' data-time='1076295' id='t-1076295'>We need to stop shouting and start talking,</span>
+<span class='talk-transcript__fragment' data-time='1080164' id='t-1080164'>and if we can have a grown-up conversation,</span>
+<span class='talk-transcript__fragment' data-time='1084051' id='t-1084051'>make a plan that adds up and get building,</span>
+<span class='talk-transcript__fragment' data-time='1086726' id='t-1086726'>maybe this low-carbon revolution</span>
+<span class='talk-transcript__fragment' data-time='1088234' id='t-1088234'>will actually be fun. Thank you very much for listening.</span>
+<span class='talk-transcript__fragment' data-time='1090572' id='t-1090572'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

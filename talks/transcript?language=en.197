@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Nicholas Negroponte: 5 predictions, from 1984 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Nicholas Negroponte: 5 predictions, from 1984 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: With surprising accuracy, Nicholas Negroponte predicts what will happen with CD-ROMs, web interfaces, service kiosks, the touchscreen interface of the iPhone and his own One Laptop per Child project." name="description" />
+<meta content="Nicholas Negroponte" name="author" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;5 predictions, from 1984&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2583565b4f57ec8e3993de89d6cb656ac1683fd8_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2583565b4f57ec8e3993de89d6cb656ac1683fd8_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: With surprising accuracy, Nicholas Negroponte predicts what will happen with CD-ROMs, web interfaces, service kiosks, the touchscreen interface of the iPhone and his own One Laptop per Child project." property="og:description" />
+<meta content="http://www.ted.com/talks/nicholas_negroponte_in_1984_makes_5_predictions/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/230?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='nicholas_negroponte_in_1984_makes_5_predictions'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/230?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1523" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2583565b4f57ec8e3993de89d6cb656ac1683fd8_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">25:23</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Nicholas Negroponte</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/230?language=en' lang='en'>
+5 predictions, from 1984
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Mar 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>In this rather long sort of marathon presentation,</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>I've tried to break it up into three parts:</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>the first being a whole lot of examples on how it can be</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>a little bit more pleasurable to deal with a computer</span>
+<span class='talk-transcript__fragment' data-time='15000' id='t-15000'>and really address the qualities of the human interface.</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>And these will be some simple design qualities</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>and they will also be some qualities of, if you will,</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>the intelligence of interaction.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>Then the second part will really just be examples of new technologies --</span>
+<span class='talk-transcript__fragment' data-time='30000' id='t-30000'>new media falling very much into that mold.</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>Again, I will go through them as fast as possible.</span>
+<span class='talk-transcript__fragment' data-time='37000' id='t-37000'>And then the last one will be some examples</span>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>I've been able to collect, which I think</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>illustrate this at least as best I can, in the world of entertainment.</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>People have this belief -- and I share most of it --</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>that we will be using the TV screens or their equivalents</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>for electronic books of the future. But then you think,</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>&quot;My God! What a terrible image you get when you look at still pictures on TV.&quot;</span>
+<span class='talk-transcript__fragment' data-time='68000' id='t-68000'>Well, it doesn't have to be terrible.</span>
+<span class='talk-transcript__fragment' data-time='70000' id='t-70000'>And that is a slide taken from a TV set</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>and it was pre-processed to be very sympathetic to the TV medium,</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>and it absolutely looks beautiful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>Well, what's happened? How did people get into this mess?</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>Where you are now, all of a sudden,</span>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>sitting in front of personal computers</span>
+<span class='talk-transcript__fragment' data-time='91000' id='t-91000'>and video text -- teletext systems,</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>and somewhat horrified by what you see on the screen?</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>Well, you have to remember that TV was designed</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>to be looked at eight times the distance of the diagonal.</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>So you get a 13-inch, 19-inch, whatever, TV,</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>and then you should multiply that by eight</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>and that's the distance you should sit away from the TV set.</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>Now we've put people 18 inches in front of a TV,</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>and all the artifacts that none of the original designers expected to be seen,</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>all of a sudden, are staring you in the face:</span>
+<span class='talk-transcript__fragment' data-time='126000' id='t-126000'>the shadow mask, the scan lines, all of that.</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>And they can be treated very easily;</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>there are actually ways of getting rid of them,</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>there are actually ways of just making absolutely beautiful pictures.</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>I'm talking here a little bit about display technologies.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>Let me talk about how you might input information.</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>And my favorite example is always fingers.</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>I'm very interested in touch-sensitive displays.</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>High-tech, high-touch. Isn't that what some of you said?</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>It's certainly a very important medium for input,</span>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>and a lot of people think that fingers are a very low-resolution</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>sort of stylus for inputting to a display.</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>In fact, they're not: it's really a very, very high-resolution input medium --</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>you have to just do it twice, you have to touch the screen</span>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>and then rotate your finger slightly --</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>and you can move a cursor with great accuracy.</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>And so when you see on the market these systems</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>that have just a few light emitting diodes on the side and are very low resolution,</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>it's nice that they exist because it still is better than nothing.</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>But it, in some sense, misses the point:</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>namely, that fingers are a very, very high-resolution input medium.</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>Now, what are some of the other advantages?</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>Well, the one advantage is that you don't have to pick them up,</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>and people don't realize how important that is --</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>not having to pick up your fingers to use them. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>When you think for a second of the mouse on Macintosh --</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>and I will not criticize the mouse too much --</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>when you're typing -- what you have -- you want to now put something --</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>first of all, you've got to find the mouse.</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>You have to probably stop. Maybe not come to a grinding halt,</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>but you've got to sort of find that mouse. Then you find the mouse,</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>and you're going to have to wiggle it a little bit</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>to see where the cursor is on the screen.</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>And then when you finally see where it is,</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>then you've got to move it to get the cursor over there,</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>and then -- &quot;Bang&quot; -- you've got to hit a button or do whatever.</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>That's four separate steps versus typing and then touching</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>and typing and just doing it all in one motion --</span>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>or one-and-a-half, depending on how you want to count.</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>Again, what I'm trying to do is just illustrate</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>the kinds of problems that I think face the designers</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>of new computer systems and entertainment systems</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>and educational systems</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>from the perspective of the quality of that interface.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>And another advantage, of course, of using fingers is you have 10 of them.</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>And we have never known how to do this technically,</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>so this slide is a fake slide.</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>We never succeeded in using ten fingers,</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>but there are certain things you can do, obviously,</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>with more than one-finger input, which is rather fascinating.</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>What we did stumble across was something ...</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>Again, which is typical of the computer field,</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>is when you have a bug that you can't get rid of you turn it into a feature.</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>And maybe ... (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>maybe a mouse is a new kind of bug.</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>But the bug in our case was in touch-sensitive displays:</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>we wanted to be able to draw -- you know, rub your finger</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>across the screen to input continuous points --</span>
+<span class='talk-transcript__fragment' data-time='327000' id='t-327000'>and there was just too much friction</span>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>created between your finger and the glass --</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>if glass was the substrate, which it usually is.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>So we found that that actually was a feature</span>
+<span class='talk-transcript__fragment' data-time='338000' id='t-338000'>in the sense you could build a pressure-sensitive display.</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>And when you touch it with your finger,</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>you can actually, then, introduce all the forces on the face of that screen,</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>and that actually has a certain amount of value.</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>Let me see if I can load another disc</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>and show you, quickly, an example.</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>Now, imagine a screen, which is not only touch-sensitive now,</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>it's pressure-sensitive.</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>And it's pressure-sensitive to the forces both in the plane of the screen --</span>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>X, Y, and Z at least in one direction;</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>we couldn't figure out how to come in the other direction.</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>But let me get rid of the slide,</span>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>and let's see if this comes on.</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>OK. So there is the pressure-sensitive display in operation.</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>The person's just, if you will, pushing on the screen to make a curve.</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>But this is the interesting part.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>I want to stop it for a second</span>
+<span class='talk-transcript__fragment' data-time='404000' id='t-404000'>because the movie is very badly made.</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>And the particular display was built about six years ago,</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>and when we moved from one room to another room,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>a rather large person sat on it and it got destroyed.</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>So all we have is this record. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>But imagine that screen having lots of objects on it</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>and the person has touched an object --</span>
+<span class='talk-transcript__fragment' data-time='431000' id='t-431000'>one of N -- like he did there, and then pushed on it.</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>Now, imagine a program</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>where some of those objects are physically heavy and some are light:</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>one is an anvil on a fuzzy rug</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>and the other one is a ping-pong ball on a sheet of glass.</span>
+<span class='talk-transcript__fragment' data-time='450000' id='t-450000'>And when you touch it, you have to really push very hard</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>to move that anvil across the screen,</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>and yet you touch the ping-pong ball very lightly</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>and it just scoots across the screen.</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>And what you can do -- oops, I didn't mean to do that --</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>what you can do is actually feed back to the user</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>the feeling of the physical properties.</span>
+<span class='talk-transcript__fragment' data-time='473000' id='t-473000'>So again, they don't have to be weight;</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>they could be a general trying to move troops,</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>and he's got to move an aircraft carrier versus a little boat.</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>In fact, they funded it for that very reason.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>The whole notion, then, is one that at the interface</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>there are physical properties in that transducer --</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>in this case it's pressure and touches --</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>that allow you to present things to the user that you could never present before.</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>So it's not simply looking at the quality or, if you will, the luxury of that interface,</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>but it's actually looking at the idea</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>of presenting things that previously couldn't be presented before.</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>I want to move on to another example,</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>which is one of a different sort, where we're trying to use computer</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>and video disc technology now to come up with a new kind of book.</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>Here, the idea is that you're going to take this book,</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>if you will, and it's going to come alive.</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>You're going to sort of breathe life into it.</span>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>We are so used to doing monologues.</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>Filmmakers, for example, are the experts in monologue making:</span>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>you make a film and it has a well-formed beginning, middle and end,</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>and in some sense the art of it is that.</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>And you then say, &quot;There's an opportunity</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>for making conversational movies.&quot; Well, what does that mean?</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>And it sort of nibbles at the core of the whole profession</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>and all the assumptions of that medium.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>So, book writing is the same thing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='574000' id='t-574000'>What I'll show you very quickly is a new kind of book</span>
+<span class='talk-transcript__fragment' data-time='577000' id='t-577000'>where it is mixed now with ... all sorts of things live in there,</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>but you have to keep a few things in mind.</span>
+<span class='talk-transcript__fragment' data-time='584000' id='t-584000'>One is that this book knows about itself.</span>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>Each frame of the movie has information about itself.</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>So it knows, or at least there is computer-readable information</span>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>in the medium itself. It's just not a static movie frame.</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>That's one thing. The other is that you have to realize</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>that it is a random access medium,</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>and you can, in fact, branch and expand and elaborate and shrink.</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>And here -- again, my favorite example -- is the cookbook,</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>the &quot;Larousse Gastronomique.&quot;</span>
+<span class='talk-transcript__fragment' data-time='619000' id='t-619000'>And I think I use the example all too often,</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>but it's a great one because there is a classic ending in that little</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>encyclopedia-style cookbook that tells you how to do something like penguin,</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>and you get to the end of the recipe and it says, &quot;Cook until done.&quot;</span>
+<span class='talk-transcript__fragment' data-time='638000' id='t-638000'>Now, that would be, if you will, the top green track,</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>which doesn't mean too much. But you might have to elaborate for me</span>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>or for somebody who isn't an expert, and say,</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>&quot;Cook at 380 degrees for 45 minutes.&quot;</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>And then for a real beginner, you would go down even further</span>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>and elaborate more -- say, &quot;Open the oven, preheat, wait for the light to go out,</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>open the door, don't leave it open too long,</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>put the penguin in and shut the door ...&quot; (Laughter) whatever.</span>
+<span class='talk-transcript__fragment' data-time='664000' id='t-664000'>And that's a much more elaborate one than you dribble back.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>That's one kind of use of random access.</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>And the other is where you want to explain the same thing in different ways.</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>If you're in a classroom situation and somebody asks a question,</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>the last thing you do is repeat what you just said.</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>You try and think of a different way of saying the same thing,</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>or if you know the particular student and that student's cognitive style,</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>then you might say it in a way that you think</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>would have a good impedance match with that student.</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>There are all sorts of techniques you will use --</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>and again, this is a different kind of branching.</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>So, what I will show you is ... it's a rather boring book,</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>but I'm afraid sometimes you have to do boring books</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>because your sponsors aren't necessarily interested in fiction</span>
+<span class='talk-transcript__fragment' data-time='721000' id='t-721000'>and entertainment. And this is a book on how to repair a transmission.</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>Now, I don't even know what vintage the transmission is,</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>but let me just show you very quickly some of it, and we'll move on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>(Video) Narrator: And continue to get descriptions for each of these chapters.</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>Nicholas Negroponte: Now, this is his table of contents.</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>Just a picture of the transmission, and as you rub your finger across the transmission</span>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>it highlights the various parts.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='753000' id='t-753000'>Narrator: When I find a chapter that I want to see,</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>I just touch the text and the system will format pages for me to read.</span>
+<span class='talk-transcript__fragment' data-time='767000' id='t-767000'>The words or phrases that are lit up in red are glossary words,</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>so I can get a different definition by just touching the word,</span>
+<span class='talk-transcript__fragment' data-time='776000' id='t-776000'>and the definition appears, superimposed over the illustration.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>NN: This is about the oil pan, or the oil filter and all that.</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>This is relatively important because it sets the page ...</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='816000' id='t-816000'>Narrator: This is another example of a page with glossary words</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>highlighted in red.</span>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>I can get a definition of these words just by touching them,</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>and the definition will appear in the illustration corner.</span>
+<span class='talk-transcript__fragment' data-time='836000' id='t-836000'>I can get back to the illustration, but in this case it's not a single frame,</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>but it's actually a movie of someone coming into the frame and doing the repair</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>that's described in the text.</span>
+<span class='talk-transcript__fragment' data-time='847000' id='t-847000'>The two-headed slider is a speed control that allows me to watch the movie</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>at various speeds, in forward or reverse.</span>
+<span class='talk-transcript__fragment' data-time='854000' id='t-854000'>And the movie is displayed as a full frame movie.</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>I can go back to the beginning ... and play the movie at full speed.</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>Here's another step-by-step procedure, only in this case --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>NN: Okay, this movie is ... Everybody's heard of sound-sync movies --</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>this is text-sync movies, so as the movie plays, the text gets highlighted.</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>We highlight the text as we go through the movie.</span>
+<span class='talk-transcript__fragment' data-time='892000' id='t-892000'>Repairman: ... Not too far out. Front poles, preferably.</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>Don't loosen them too far. If you loosen them too far, you'll have a big mess.</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>NN: I suspect that some of you might not even understand that language.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='911000' id='t-911000'>OK. I'm at the third and last part of this,</span>
+<span class='talk-transcript__fragment' data-time='916000' id='t-916000'>which I said I would make an attempt to at least give you some examples</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>that may be more directly related to the world of entertainment.</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>And of course, good education has got to be good entertainment,</span>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>so my first example will be drawn from a very recent experiment</span>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>that we've been doing -- in this case, in Senegal --</span>
+<span class='talk-transcript__fragment' data-time='939000' id='t-939000'>where we have tried to use personal computers</span>
+<span class='talk-transcript__fragment' data-time='944000' id='t-944000'>as a pedagogical medium. But not as teaching machines at all;</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>the whole notion is to use this as an instrument</span>
+<span class='talk-transcript__fragment' data-time='953000' id='t-953000'>where there is a complete reversal of roles --</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>the child is, if you will, the teacher and the machine is the student --</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>and the art of computer programming is a vehicle that sort of</span>
+<span class='talk-transcript__fragment' data-time='962000' id='t-962000'>approximates thinking about thinking.</span>
+<span class='talk-transcript__fragment' data-time='965000' id='t-965000'>But teaching kids programming per se is utterly irrelevant.</span>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>And there are just a few slides I want to go through,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='973000' id='t-973000'>but there's a story I'd like to tell. And that was when,</span>
+<span class='talk-transcript__fragment' data-time='979000' id='t-979000'>before we did this in any developing countries --</span>
+<span class='talk-transcript__fragment' data-time='981000' id='t-981000'>we're doing it, in fact, in three developing countries right now:</span>
+<span class='talk-transcript__fragment' data-time='983000' id='t-983000'>Pakistan, Colombia and Senegal --</span>
+<span class='talk-transcript__fragment' data-time='985000' id='t-985000'>we did it in some pretty rough areas of New York City.</span>
+<span class='talk-transcript__fragment' data-time='990000' id='t-990000'>And one child, whose name I've forgotten, was about seven or eight years old,</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>absolutely considered mentally handicapped --</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>couldn't read, didn't even make it in the lowest section of the school's classes --</span>
+<span class='talk-transcript__fragment' data-time='1008000' id='t-1008000'>and was pretty much not in school, though physically there.</span>
+<span class='talk-transcript__fragment' data-time='1011000' id='t-1011000'>But did hang around the, quote, &quot;computer room,&quot;</span>
+<span class='talk-transcript__fragment' data-time='1014000' id='t-1014000'>where there were quite a few computers,</span>
+<span class='talk-transcript__fragment' data-time='1016000' id='t-1016000'>and learned this particular language called Logo --</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>and learned it with great ease and found it a lot of fun,</span>
+<span class='talk-transcript__fragment' data-time='1023000' id='t-1023000'>it was very interesting. And one day, by chance,</span>
+<span class='talk-transcript__fragment' data-time='1028000' id='t-1028000'>some visitors from the NIE came by in their double-breasted suits</span>
+<span class='talk-transcript__fragment' data-time='1034000' id='t-1034000'>looking at this setup, and none of the children who were normally there,</span>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>except for this one child, were there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1043000' id='t-1043000'>He was, and he said, &quot;Let me show you how this works,&quot;</span>
+<span class='talk-transcript__fragment' data-time='1046000' id='t-1046000'>and they got an absolutely ingenuous, wonderful description of Logo.</span>
+<span class='talk-transcript__fragment' data-time='1051000' id='t-1051000'>And the child was just zipping right through it, showing them all sorts of things</span>
+<span class='talk-transcript__fragment' data-time='1055000' id='t-1055000'>until they asked him how to do something which he couldn't explain</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>and so he flipped through the manual, found the explanation</span>
+<span class='talk-transcript__fragment' data-time='1062000' id='t-1062000'>and typed the command and got it to do what they asked.</span>
+<span class='talk-transcript__fragment' data-time='1064000' id='t-1064000'>They were delighted, and by the time it was time to go see the principal,</span>
+<span class='talk-transcript__fragment' data-time='1068000' id='t-1068000'>whom they'd actually come to see -- not the computer room --</span>
+<span class='talk-transcript__fragment' data-time='1071000' id='t-1071000'>they went upstairs and they said,</span>
+<span class='talk-transcript__fragment' data-time='1072000' id='t-1072000'>&quot;This is absolutely remarkable!</span>
+<span class='talk-transcript__fragment' data-time='1074000' id='t-1074000'>That child was very articulate and showed us</span>
+<span class='talk-transcript__fragment' data-time='1078000' id='t-1078000'>and even dealt with the things he couldn't do automatically</span>
+<span class='talk-transcript__fragment' data-time='1082000' id='t-1082000'>with that manual. It was just absolutely fantastic.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1086000' id='t-1086000'>The principal said, &quot;There's a dreadful mistake,</span>
+<span class='talk-transcript__fragment' data-time='1089000' id='t-1089000'>because that child can't read.</span>
+<span class='talk-transcript__fragment' data-time='1091000' id='t-1091000'>And you obviously have been hoodwinked</span>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>or you've talked about somebody else.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1096000' id='t-1096000'>And they all got up and they all went downstairs</span>
+<span class='talk-transcript__fragment' data-time='1098000' id='t-1098000'>and the child was still there. And they did something very intelligent:</span>
+<span class='talk-transcript__fragment' data-time='1102000' id='t-1102000'>they asked the child, &quot;Can you read?&quot;</span>
+<span class='talk-transcript__fragment' data-time='1106000' id='t-1106000'>And the child said, &quot;No, I can't.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1109000' id='t-1109000'>And then they said, &quot;But wait a minute. You</span>
+<span class='talk-transcript__fragment' data-time='1111000' id='t-1111000'>just looked through that manual and you found ... &quot;</span>
+<span class='talk-transcript__fragment' data-time='1114000' id='t-1114000'>and he said, &quot;Oh, but that's not reading.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1117000' id='t-1117000'>And so they said, &quot;Well, what's reading then?&quot;</span>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>He says, &quot;Well, reading is this junk they give me in little books to read.</span>
+<span class='talk-transcript__fragment' data-time='1123000' id='t-1123000'>It's absolutely irrelevant, (Laughter) and I get nothing for it.</span>
+<span class='talk-transcript__fragment' data-time='1130000' id='t-1130000'>But here, with a little bit of effort I get a lot of return.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1134000' id='t-1134000'>And it really meant something to the child.</span>
+<span class='talk-transcript__fragment' data-time='1136000' id='t-1136000'>The child read beautifully, it turned out,</span>
+<span class='talk-transcript__fragment' data-time='1138000' id='t-1138000'>and was really very competent. So it actually meant something.</span>
+<span class='talk-transcript__fragment' data-time='1142000' id='t-1142000'>And that story has many other anecdotes that are similar,</span>
+<span class='talk-transcript__fragment' data-time='1147000' id='t-1147000'>but wow. The key to the future of computers in education is right there,</span>
+<span class='talk-transcript__fragment' data-time='1154000' id='t-1154000'>and it is: when does it mean something to a child?</span>
+<span class='talk-transcript__fragment' data-time='1157000' id='t-1157000'>There is a myth, and it truly is a myth:</span>
+<span class='talk-transcript__fragment' data-time='1160000' id='t-1160000'>we believe -- and I'm sure a lot of you believe in this room --</span>
+<span class='talk-transcript__fragment' data-time='1163000' id='t-1163000'>that it is harder to read and write than it is to learn how to speak.</span>
+<span class='talk-transcript__fragment' data-time='1168000' id='t-1168000'>And it's not, but we think speech -- &quot;My God, little children pick it up somehow,</span>
+<span class='talk-transcript__fragment' data-time='1174000' id='t-1174000'>and by the age of two they're doing a mediocre job,</span>
+<span class='talk-transcript__fragment' data-time='1176000' id='t-1176000'>and by three and four they're speaking reasonably well.</span>
+<span class='talk-transcript__fragment' data-time='1179000' id='t-1179000'>And yet you've got to go to school to learn how to read,</span>
+<span class='talk-transcript__fragment' data-time='1181000' id='t-1181000'>and you have to sit in a classroom and somebody has to teach you.</span>
+<span class='talk-transcript__fragment' data-time='1184000' id='t-1184000'>Hence, it must be harder.&quot; Well, it's not harder.</span>
+<span class='talk-transcript__fragment' data-time='1187000' id='t-1187000'>What the truth is is that speaking has great value to a child;</span>
+<span class='talk-transcript__fragment' data-time='1194000' id='t-1194000'>the child can get a great deal by talking to you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1197000' id='t-1197000'>Reading and writing is utterly useless.</span>
+<span class='talk-transcript__fragment' data-time='1199000' id='t-1199000'>There is no reason for a child to read and write except blind faith,</span>
+<span class='talk-transcript__fragment' data-time='1204000' id='t-1204000'>and that it's going to help you. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='1207000' id='t-1207000'>So what happens is you go to school and people say,</span>
+<span class='talk-transcript__fragment' data-time='1210000' id='t-1210000'>&quot;Just believe me, you're going to like it.</span>
+<span class='talk-transcript__fragment' data-time='1213000' id='t-1213000'>You're going to like reading,&quot; and just read and read.</span>
+<span class='talk-transcript__fragment' data-time='1216000' id='t-1216000'>On the other hand, you give a kid -- a three-year-old kid -- a computer</span>
+<span class='talk-transcript__fragment' data-time='1220000' id='t-1220000'>and they type a little command and -- Poof! -- something happens.</span>
+<span class='talk-transcript__fragment' data-time='1223000' id='t-1223000'>And all of a sudden ... You may not call that reading and writing,</span>
+<span class='talk-transcript__fragment' data-time='1226000' id='t-1226000'>but a certain bit of typing and reading stuff on the screen</span>
+<span class='talk-transcript__fragment' data-time='1229000' id='t-1229000'>has a huge payoff, and it's a lot of fun.</span>
+<span class='talk-transcript__fragment' data-time='1232000' id='t-1232000'>And in fact, it's a powerful educational instrument.</span>
+<span class='talk-transcript__fragment' data-time='1236000' id='t-1236000'>Well, in Senegal we found that this was the traditional classroom:</span>
+<span class='talk-transcript__fragment' data-time='1241000' id='t-1241000'>120 kids -- three per desk -- one teacher, a little bit of chalk.</span>
+<span class='talk-transcript__fragment' data-time='1246000' id='t-1246000'>This student was one of our first students,</span>
+<span class='talk-transcript__fragment' data-time='1249000' id='t-1249000'>and it's the girl on the left leaning with her chalkboard,</span>
+<span class='talk-transcript__fragment' data-time='1253000' id='t-1253000'>and she came ... within two days --</span>
+<span class='talk-transcript__fragment' data-time='1256000' id='t-1256000'>I want to show you the program she wrote,</span>
+<span class='talk-transcript__fragment' data-time='1258000' id='t-1258000'>and remember her hairstyle. And that is the program she made.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1264000' id='t-1264000'>That's what meant something to her, is doing the hair pattern,</span>
+<span class='talk-transcript__fragment' data-time='1268000' id='t-1268000'>and actually did it within two days -- an hour each day --</span>
+<span class='talk-transcript__fragment' data-time='1273000' id='t-1273000'>and found it was, to her,</span>
+<span class='talk-transcript__fragment' data-time='1275000' id='t-1275000'>absolutely the most meaningful piece ...</span>
+<span class='talk-transcript__fragment' data-time='1278000' id='t-1278000'>But rooted in that, little did she know how much knowledge</span>
+<span class='talk-transcript__fragment' data-time='1282000' id='t-1282000'>she was acquiring about geometry</span>
+<span class='talk-transcript__fragment' data-time='1284000' id='t-1284000'>and just math and logic and all the rest.</span>
+<span class='talk-transcript__fragment' data-time='1287000' id='t-1287000'>And again, I could talk for three hours about this subject.</span>
+<span class='talk-transcript__fragment' data-time='1290000' id='t-1290000'>I will come to my last example and then quit.</span>
+<span class='talk-transcript__fragment' data-time='1298000' id='t-1298000'>And my last example -- as some of my former colleagues,</span>
+<span class='talk-transcript__fragment' data-time='1304000' id='t-1304000'>whom I see in the room, can imagine what it will be.</span>
+<span class='talk-transcript__fragment' data-time='1307000' id='t-1307000'>Yes, it is. It's our work -- that was a while ago,</span>
+<span class='talk-transcript__fragment' data-time='1310000' id='t-1310000'>and it still is my favorite project -- of teleconferencing.</span>
+<span class='talk-transcript__fragment' data-time='1314000' id='t-1314000'>And the reason it remains a favorite project</span>
+<span class='talk-transcript__fragment' data-time='1316000' id='t-1316000'>is that we were asked to do a teleconferencing system</span>
+<span class='talk-transcript__fragment' data-time='1323000' id='t-1323000'>where you had the following situation:</span>
+<span class='talk-transcript__fragment' data-time='1325000' id='t-1325000'>you had five people at five different sites -- they were known people --</span>
+<span class='talk-transcript__fragment' data-time='1330000' id='t-1330000'>and you had to have these people in teleconference,</span>
+<span class='talk-transcript__fragment' data-time='1335000' id='t-1335000'>such that each one was utterly convinced</span>
+<span class='talk-transcript__fragment' data-time='1338000' id='t-1338000'>that the other four were physically present.</span>
+<span class='talk-transcript__fragment' data-time='1342000' id='t-1342000'>Now, that is sufficiently</span>
+<span class='talk-transcript__fragment' data-time='1346000' id='t-1346000'>zany that we would, obviously, jump to the bait, and we did.</span>
+<span class='talk-transcript__fragment' data-time='1351000' id='t-1351000'>And the fact that we knew the people --</span>
+<span class='talk-transcript__fragment' data-time='1354000' id='t-1354000'>we had to take a page out of the history of Walt Disney --</span>
+<span class='talk-transcript__fragment' data-time='1357000' id='t-1357000'>we actually went so far as to build CRTs</span>
+<span class='talk-transcript__fragment' data-time='1360000' id='t-1360000'>in the shapes of the people's faces.</span>
+<span class='talk-transcript__fragment' data-time='1363000' id='t-1363000'>So if I wanted to call my friend Peter Sprague on the phone,</span>
+<span class='talk-transcript__fragment' data-time='1368000' id='t-1368000'>my secretary would get his head out and bring it and set it on the desk,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+23:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1371000' id='t-1371000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+23:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1372000' id='t-1372000'>and that would be the TV used for the occasion.</span>
+<span class='talk-transcript__fragment' data-time='1377000' id='t-1377000'>And it's uncanny: there's no way I can explain to you</span>
+<span class='talk-transcript__fragment' data-time='1380000' id='t-1380000'>the amount of eye contact you get with that physical face</span>
+<span class='talk-transcript__fragment' data-time='1384000' id='t-1384000'>projected on a 3D CRT of that sort.</span>
+<span class='talk-transcript__fragment' data-time='1388000' id='t-1388000'>The next thing that we had to do is to persuade them</span>
+<span class='talk-transcript__fragment' data-time='1391000' id='t-1391000'>that there needed to be spatial correspondence, which is straightforward,</span>
+<span class='talk-transcript__fragment' data-time='1395000' id='t-1395000'>but again, it's something that didn't fall naturally</span>
+<span class='talk-transcript__fragment' data-time='1397000' id='t-1397000'>out of a telecommunications or computing style of thinking;</span>
+<span class='talk-transcript__fragment' data-time='1400000' id='t-1400000'>it was a very, if you will, architectural or spatial concept.</span>
+<span class='talk-transcript__fragment' data-time='1404000' id='t-1404000'>And that was to recognize that when you sit around the table,</span>
+<span class='talk-transcript__fragment' data-time='1407000' id='t-1407000'>the actual location of the people becomes rather important.</span>
+<span class='talk-transcript__fragment' data-time='1412000' id='t-1412000'>And when somebody gets up, in fact, to go answer a phone</span>
+<span class='talk-transcript__fragment' data-time='1415000' id='t-1415000'>or use a bathroom or something, the empty seat becomes,</span>
+<span class='talk-transcript__fragment' data-time='1418000' id='t-1418000'>if you will, that person. And you point frequently to the empty seat</span>
+<span class='talk-transcript__fragment' data-time='1421000' id='t-1421000'>and you say, &quot;He or she wouldn't agree,&quot;</span>
+<span class='talk-transcript__fragment' data-time='1424000' id='t-1424000'>and the empty chair is that person and the spatiality is crucial.</span>
+<span class='talk-transcript__fragment' data-time='1430000' id='t-1430000'>So we said, &quot;Well, these will be on round tables</span>
+<span class='talk-transcript__fragment' data-time='1433000' id='t-1433000'>and the order around the table had to be the same,</span>
+<span class='talk-transcript__fragment' data-time='1436000' id='t-1436000'>so that at my site, I would be, if you will, real</span>
+<span class='talk-transcript__fragment' data-time='1439000' id='t-1439000'>and then at each other's site you'd have these plastic heads.</span>
+<span class='talk-transcript__fragment' data-time='1444000' id='t-1444000'>And the plastic heads, sometimes you want to project them.</span>
+<span class='talk-transcript__fragment' data-time='1448000' id='t-1448000'>And there are a number of schemes, which I don't want to dwell on,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+24:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1451000' id='t-1451000'>but this is the one that we finally used</span>
+<span class='talk-transcript__fragment' data-time='1453000' id='t-1453000'>where we projected onto rear screen material</span>
+<span class='talk-transcript__fragment' data-time='1457000' id='t-1457000'>that was molded in the face -- literally in the face of the person.</span>
+<span class='talk-transcript__fragment' data-time='1461000' id='t-1461000'>And I'll show you one more slide, where this is actually made</span>
+<span class='talk-transcript__fragment' data-time='1465000' id='t-1465000'>from something called a solid photograph and is the screen.</span>
+<span class='talk-transcript__fragment' data-time='1469000' id='t-1469000'>Now, we track, on the person's head, the head motions --</span>
+<span class='talk-transcript__fragment' data-time='1472000' id='t-1472000'>so we transmit with a video the head positions --</span>
+<span class='talk-transcript__fragment' data-time='1476000' id='t-1476000'>and so this head moves in about two axes.</span>
+<span class='talk-transcript__fragment' data-time='1483000' id='t-1483000'>So if I, all of a sudden, turn to the person to my left</span>
+<span class='talk-transcript__fragment' data-time='1488000' id='t-1488000'>and start talking to that person, then at the person to my right's site,</span>
+<span class='talk-transcript__fragment' data-time='1493000' id='t-1493000'>he'll see these two plastic heads talking to each other.</span>
+<span class='talk-transcript__fragment' data-time='1496000' id='t-1496000'>And then if that person interrupts, then those two heads may turn.</span>
+<span class='talk-transcript__fragment' data-time='1501000' id='t-1501000'>And it really is reconstructing, quite accurately, teleconferencing.</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,1827 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Linus Torvalds: The mind behind Linux | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Linus Torvalds: The mind behind Linux | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Linus Torvalds transformed technology twice -- first with the Linux kernel, which helps power the Internet, and again with Git, the source code management system used by developers worldwide. In a rare interview with TED Curator Chris Anderson, Torvalds discusses with remarkable openness the personality traits that prompted his unique philosophy of work, engineering and life. &quot;I am not a visionary, I&#39;m an engineer,&quot; Torvalds says. &quot;I&#39;m perfectly happy with all the people who are walking around and just staring at the clouds ... but I&#39;m looking at the ground, and I want to fix the pothole that&#39;s right in front of me before I fall in.&quot;" name="description" />
+<meta content="Linus Torvalds" name="author" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript?language=sv" hreflang="sv" rel="alternate" />
+<meta content="Transcript of &quot;The mind behind Linux&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d560e7d7d695293217875d2db6fbb35b31fc1991_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d560e7d7d695293217875d2db6fbb35b31fc1991_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Linus Torvalds transformed technology twice -- first with the Linux kernel, which helps power the Internet, and again with Git, the source code management system used by developers worldwide. In a rare interview with TED Curator Chris Anderson, Torvalds discusses with remarkable openness the personality traits that prompted his unique philosophy of work, engineering and life. &quot;I am not a visionary, I&#39;m an engineer,&quot; Torvalds says. &quot;I&#39;m perfectly happy with all the people who are walking around and just staring at the clouds ... but I&#39;m looking at the ground, and I want to fix the pothole that&#39;s right in front of me before I fall in.&quot;" property="og:description" />
+<meta content="http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2464?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='linus_torvalds_the_mind_behind_linux'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='ja'>Japanese</option>
+<option value='pt'>Portuguese</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sv'>Swedish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2464?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1290" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d560e7d7d695293217875d2db6fbb35b31fc1991_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">21:30</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Linus Torvalds</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2464?language=en' lang='en'>
+The mind behind Linux
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Apr 2016
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1460' id='t-1460'>Chris Anderson: This is such
+a strange thing.</span>
+<span class='talk-transcript__fragment' data-time='3659' id='t-3659'>Your software, Linux,
+is in millions of computers,</span>
+<span class='talk-transcript__fragment' data-time='6841' id='t-6841'>it probably powers much of the Internet.</span>
+<span class='talk-transcript__fragment' data-time='10412' id='t-10412'>And I think that there are, like,</span>
+<span class='talk-transcript__fragment' data-time='12199' id='t-12199'>a billion and a half active
+Android devices out there.</span>
+<span class='talk-transcript__fragment' data-time='15568' id='t-15568'>Your software is in every
+single one of them.</span>
+<span class='talk-transcript__fragment' data-time='18808' id='t-18808'>It's kind of amazing.</span>
+<span class='talk-transcript__fragment' data-time='19982' id='t-19982'>You must have some amazing
+software headquarters driving all this.</span>
+<span class='talk-transcript__fragment' data-time='25041' id='t-25041'>That's what I thought -- and I was shocked
+when I saw a picture of it.</span>
+<span class='talk-transcript__fragment' data-time='28371' id='t-28371'>I mean, this is --</span>
+<span class='talk-transcript__fragment' data-time='29595' id='t-29595'>this is the Linux world headquarters.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='31869' id='t-31869'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='33883' id='t-33883'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='37913' id='t-37913'>Linus Torvalds: It really
+doesn't look like much.</span>
+<span class='talk-transcript__fragment' data-time='40223' id='t-40223'>And I have to say,</span>
+<span class='talk-transcript__fragment' data-time='41923' id='t-41923'>the most interesting part in this picture,</span>
+<span class='talk-transcript__fragment' data-time='45767' id='t-45767'>that people mostly react to,</span>
+<span class='talk-transcript__fragment' data-time='47494' id='t-47494'>is the walking desk.</span>
+<span class='talk-transcript__fragment' data-time='48961' id='t-48961'>It is the most interesting
+part in my office</span>
+<span class='talk-transcript__fragment' data-time='51684' id='t-51684'>and I'm not actually using it anymore.</span>
+<span class='talk-transcript__fragment' data-time='53668' id='t-53668'>And I think the two things are related.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='57206' id='t-57206'>The way I work is ...</span>
+<span class='talk-transcript__fragment' data-time='61245' id='t-61245'>I want to not have external stimulation.</span>
+<span class='talk-transcript__fragment' data-time='66170' id='t-66170'>You can kind of see,
+on the walls are this light green.</span>
+<span class='talk-transcript__fragment' data-time='71461' id='t-71461'>I'm told that at mental institutions
+they use that on the walls.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='75949' id='t-75949'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='77020' id='t-77020'>It's like a calming color,</span>
+<span class='talk-transcript__fragment' data-time='78829' id='t-78829'>it's not something
+that really stimulates you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='83064' id='t-83064'>What you can't see is the computer here,
+you only see the screen,</span>
+<span class='talk-transcript__fragment' data-time='87513' id='t-87513'>but the main thing I worry
+about in my computer is --</span>
+<span class='talk-transcript__fragment' data-time='90918' id='t-90918'>it doesn't have to be big
+and powerful, although I like that --</span>
+<span class='talk-transcript__fragment' data-time='94277' id='t-94277'>it really has to be completely silent.</span>
+<span class='talk-transcript__fragment' data-time='97975' id='t-97975'>I know people who work for Google</span>
+<span class='talk-transcript__fragment' data-time='100010' id='t-100010'>and they have their own
+small data center at home,</span>
+<span class='talk-transcript__fragment' data-time='103241' id='t-103241'>and I don't do that.</span>
+<span class='talk-transcript__fragment' data-time='104417' id='t-104417'>My office is the most
+boring office you'll ever see.</span>
+<span class='talk-transcript__fragment' data-time='108146' id='t-108146'>And I sit there alone in the quiet.</span>
+<span class='talk-transcript__fragment' data-time='112136' id='t-112136'>If the cat comes up,</span>
+<span class='talk-transcript__fragment' data-time='114197' id='t-114197'>it sits in my lap.</span>
+<span class='talk-transcript__fragment' data-time='116058' id='t-116058'>And I want to hear the cat purring,</span>
+<span class='talk-transcript__fragment' data-time='118272' id='t-118272'>not the sound of the fans in the computer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='121470' id='t-121470'>CA: So this is astonishing,</span>
+<span class='talk-transcript__fragment' data-time='122803' id='t-122803'>because working this way,</span>
+<span class='talk-transcript__fragment' data-time='125505' id='t-125505'>you're able to run this vast
+technology empire --</span>
+<span class='talk-transcript__fragment' data-time='128517' id='t-128517'>it is an empire --</span>
+<span class='talk-transcript__fragment' data-time='129762' id='t-129762'>so that's an amazing testament
+to the power of open source.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='133486' id='t-133486'>Tell us how you got
+to understand open source</span>
+<span class='talk-transcript__fragment' data-time='137686' id='t-137686'>and how it lead
+to the development of Linux.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='141546' id='t-141546'>LT: I mean, I still work alone.</span>
+<span class='talk-transcript__fragment' data-time='143075' id='t-143075'>Really -- I work alone in my house,</span>
+<span class='talk-transcript__fragment' data-time='146666' id='t-146666'>often in my bathrobe.</span>
+<span class='talk-transcript__fragment' data-time='148080' id='t-148080'>When a photographer shows up, I dress up,</span>
+<span class='talk-transcript__fragment' data-time='150665' id='t-150665'>so I have clothes on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='151975' id='t-151975'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='153236' id='t-153236'>And that's how I've always worked.</span>
+<span class='talk-transcript__fragment' data-time='155332' id='t-155332'>I mean, this was how I started Linux, too.</span>
+<span class='talk-transcript__fragment' data-time='157364' id='t-157364'>I did not start Linux
+as a collaborative project.</span>
+<span class='talk-transcript__fragment' data-time='161037' id='t-161037'>I started it as one
+in a series of many projects</span>
+<span class='talk-transcript__fragment' data-time='165939' id='t-165939'>I had done at the time for myself,</span>
+<span class='talk-transcript__fragment' data-time='169920' id='t-169920'>partly because I needed the end result,</span>
+<span class='talk-transcript__fragment' data-time='171846' id='t-171846'>but even more because I just
+enjoyed programming.</span>
+<span class='talk-transcript__fragment' data-time='174172' id='t-174172'>So it was about the end of the journey,</span>
+<span class='talk-transcript__fragment' data-time='178570' id='t-178570'>which, 25 years later,
+we still have not reached.</span>
+<span class='talk-transcript__fragment' data-time='181940' id='t-181940'>But it was really about the fact
+that I was looking for a project on my own</span>
+<span class='talk-transcript__fragment' data-time='185681' id='t-185681'>and there was no open source,
+really, on my radar at all.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='189988' id='t-189988'>And what happened is ...</span>
+<span class='talk-transcript__fragment' data-time='192668' id='t-192668'>the project grows and becomes something
+you want to show off to people.</span>
+<span class='talk-transcript__fragment' data-time='198552' id='t-198552'>Really, this is more of a, &quot;Wow,
+look at what I did!&quot;</span>
+<span class='talk-transcript__fragment' data-time='202693' id='t-202693'>And trust me -- it was not
+that great back then.</span>
+<span class='talk-transcript__fragment' data-time='206128' id='t-206128'>I made it publicly available,</span>
+<span class='talk-transcript__fragment' data-time='208026' id='t-208026'>and it wasn't even
+open source at that point.</span>
+<span class='talk-transcript__fragment' data-time='210156' id='t-210156'>At that point it was source that was open,
+but there was no intention</span>
+<span class='talk-transcript__fragment' data-time='215349' id='t-215349'>behind using the kind of open-source
+methodology that we think of today</span>
+<span class='talk-transcript__fragment' data-time='220487' id='t-220487'>to improve it.</span>
+<span class='talk-transcript__fragment' data-time='221662' id='t-221662'>It was more like,</span>
+<span class='talk-transcript__fragment' data-time='222837' id='t-222837'>&quot;Look, I've been working
+on this for half a year,</span>
+<span class='talk-transcript__fragment' data-time='226459' id='t-226459'>I'd love to have comments.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='228717' id='t-228717'>And other people approached me.</span>
+<span class='talk-transcript__fragment' data-time='231217' id='t-231217'>At the University of Helsinki,</span>
+<span class='talk-transcript__fragment' data-time='232893' id='t-232893'>I had a friend who was one
+of the open source --</span>
+<span class='talk-transcript__fragment' data-time='236632' id='t-236632'>it was called mainly
+&quot;free software&quot; back then --</span>
+<span class='talk-transcript__fragment' data-time='240312' id='t-240312'>and he actually introduced me
+to the notion that, hey,</span>
+<span class='talk-transcript__fragment' data-time='244610' id='t-244610'>you can use these open-source
+licenses that had been around.</span>
+<span class='talk-transcript__fragment' data-time='252114' id='t-252114'>And I thought about it for a while.</span>
+<span class='talk-transcript__fragment' data-time='254179' id='t-254179'>I was actually worried about the whole
+commercial interests coming in.</span>
+<span class='talk-transcript__fragment' data-time='257694' id='t-257694'>I mean, that's one of the worries
+I think most people who start out have,</span>
+<span class='talk-transcript__fragment' data-time='262192' id='t-262192'>is that they worry about somebody
+taking advantage of their work, right?</span>
+<span class='talk-transcript__fragment' data-time='267603' id='t-267603'>And I decided, &quot;What the hell?&quot;</span>
+<span class='talk-transcript__fragment' data-time='271740' id='t-271740'>And --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='272914' id='t-272914'>CA: And then at some point,</span>
+<span class='talk-transcript__fragment' data-time='274233' id='t-274233'>someone contributed
+some code that you thought,</span>
+<span class='talk-transcript__fragment' data-time='276717' id='t-276717'>&quot;Wow, that really is interesting,
+I would not have thought of that.</span>
+<span class='talk-transcript__fragment' data-time='279912' id='t-279912'>This could actually improve this.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='281587' id='t-281587'>LT: It didn't even start
+by people contributing code,</span>
+<span class='talk-transcript__fragment' data-time='284136' id='t-284136'>it was more that people
+started contributing ideas.</span>
+<span class='talk-transcript__fragment' data-time='287748' id='t-287748'>And just the fact that somebody else
+takes a look at your project --</span>
+<span class='talk-transcript__fragment' data-time='291018' id='t-291018'>and I'm sure it's true
+of other things, too,</span>
+<span class='talk-transcript__fragment' data-time='293590' id='t-293590'>but it's definitely true in code --</span>
+<span class='talk-transcript__fragment' data-time='295451' id='t-295451'>is that somebody else
+takes an interest in your code,</span>
+<span class='talk-transcript__fragment' data-time='298974' id='t-298974'>looks at it enough to actually
+give you feedback</span>
+<span class='talk-transcript__fragment' data-time='301520' id='t-301520'>and give you ideas.</span>
+<span class='talk-transcript__fragment' data-time='303433' id='t-303433'>That was a huge thing for me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='305158' id='t-305158'>I was 21 at the time, so I was young,</span>
+<span class='talk-transcript__fragment' data-time='308374' id='t-308374'>but I had already programmed
+for half my life, basically.</span>
+<span class='talk-transcript__fragment' data-time='312372' id='t-312372'>And every project before that
+had been completely personal</span>
+<span class='talk-transcript__fragment' data-time='316368' id='t-316368'>and it was a revelation when people
+just started commenting,</span>
+<span class='talk-transcript__fragment' data-time='319499' id='t-319499'>started giving feedback on your code.</span>
+<span class='talk-transcript__fragment' data-time='322824' id='t-322824'>And even before they started
+giving code back,</span>
+<span class='talk-transcript__fragment' data-time='326620' id='t-326620'>that was, I think, one of the big
+moments where I said,</span>
+<span class='talk-transcript__fragment' data-time='329385' id='t-329385'>&quot;I love other people!&quot;</span>
+<span class='talk-transcript__fragment' data-time='331282' id='t-331282'>Don't get me wrong --</span>
+<span class='talk-transcript__fragment' data-time='332463' id='t-332463'>I'm actually not a people person.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='334111' id='t-334111'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='337500' id='t-337500'>I don't really love other people --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='340076' id='t-340076'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='341120' id='t-341120'>But I love computers,</span>
+<span class='talk-transcript__fragment' data-time='342770' id='t-342770'>I love interacting with other
+people on email,</span>
+<span class='talk-transcript__fragment' data-time='345009' id='t-345009'>because it kind of gives you that buffer.</span>
+<span class='talk-transcript__fragment' data-time='348365' id='t-348365'>But I do love other people who comment
+and get involved in my project.</span>
+<span class='talk-transcript__fragment' data-time='354890' id='t-354890'>And it made it so much more.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='357273' id='t-357273'>CA: So was there a moment
+when you saw what was being built</span>
+<span class='talk-transcript__fragment' data-time='360131' id='t-360131'>and it suddenly started taking off,</span>
+<span class='talk-transcript__fragment' data-time='362362' id='t-362362'>and you thought, &quot;Wait a sec,
+this actually could be something huge,</span>
+<span class='talk-transcript__fragment' data-time='365676' id='t-365676'>not just a personal project
+that I'm getting nice feedback on,</span>
+<span class='talk-transcript__fragment' data-time='368612' id='t-368612'>but a kind of explosive development
+in the whole technology world&quot;?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='373821' id='t-373821'>LT: Not really.</span>
+<span class='talk-transcript__fragment' data-time='375004' id='t-375004'>I mean, the big point for me, really,
+was not when it was becoming huge,</span>
+<span class='talk-transcript__fragment' data-time='378600' id='t-378600'>it was when it was becoming little.</span>
+<span class='talk-transcript__fragment' data-time='381709' id='t-381709'>The big point for me was not being alone</span>
+<span class='talk-transcript__fragment' data-time='385250' id='t-385250'>and having 10, maybe 100
+people being involved --</span>
+<span class='talk-transcript__fragment' data-time='388991' id='t-388991'>that was a big point.</span>
+<span class='talk-transcript__fragment' data-time='390494' id='t-390494'>Then everything else was very gradual.</span>
+<span class='talk-transcript__fragment' data-time='393557' id='t-393557'>Going from 100 people to a million people
+is not a big deal -- to me.</span>
+<span class='talk-transcript__fragment' data-time='397840' id='t-397840'>Well, I mean, maybe it is if you're --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='399697' id='t-399697'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='400722' id='t-400722'>If you want to sell your result
+then it's a huge deal --</span>
+<span class='talk-transcript__fragment' data-time='403464' id='t-403464'>don't get me wrong.</span>
+<span class='talk-transcript__fragment' data-time='404639' id='t-404639'>But if you're interested in the technology</span>
+<span class='talk-transcript__fragment' data-time='406790' id='t-406790'>and you're interested in the project,</span>
+<span class='talk-transcript__fragment' data-time='408669' id='t-408669'>the big part was getting the community.</span>
+<span class='talk-transcript__fragment' data-time='410574' id='t-410574'>Then the community grew gradually.</span>
+<span class='talk-transcript__fragment' data-time='412222' id='t-412222'>And there's actually not
+a single point where I went like,</span>
+<span class='talk-transcript__fragment' data-time='416166' id='t-416166'>&quot;Wow, that just took off!&quot; because it --</span>
+<span class='talk-transcript__fragment' data-time='418366' id='t-418366'>I mean -- it took a long time, relatively.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='421714' id='t-421714'>CA: So all the technologists
+that I talk to really credit you</span>
+<span class='talk-transcript__fragment' data-time='424714' id='t-424714'>with massively changing their work.</span>
+<span class='talk-transcript__fragment' data-time='427612' id='t-427612'>And it's not just Linux,</span>
+<span class='talk-transcript__fragment' data-time='429259' id='t-429259'>it's this thing called Git,</span>
+<span class='talk-transcript__fragment' data-time='430729' id='t-430729'>which is this management system
+for software development.</span>
+<span class='talk-transcript__fragment' data-time='434765' id='t-434765'>Tell us briefly about that
+and your role in that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='438481' id='t-438481'>LT: So one of the issues we had,</span>
+<span class='talk-transcript__fragment' data-time='440294' id='t-440294'>and this took a while to start to appear,</span>
+<span class='talk-transcript__fragment' data-time='443370' id='t-443370'>is when you ...</span>
+<span class='talk-transcript__fragment' data-time='445708' id='t-445708'>When you grow from having 10 people
+or 100 people working on a project</span>
+<span class='talk-transcript__fragment' data-time='451064' id='t-451064'>to having 10,000 people, which --</span>
+<span class='talk-transcript__fragment' data-time='453476' id='t-453476'>I mean, right now we're in the situation
+where just on the kernel,</span>
+<span class='talk-transcript__fragment' data-time='456966' id='t-456966'>we have 1,000 people involved
+in every single release</span>
+<span class='talk-transcript__fragment' data-time='460164' id='t-460164'>and that's every two months,
+roughly two or three months.</span>
+<span class='talk-transcript__fragment' data-time='464336' id='t-464336'>Some of those people don't do a lot.</span>
+<span class='talk-transcript__fragment' data-time='466781' id='t-466781'>There's a lot of people
+who make small, small changes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='469388' id='t-469388'>But to maintain this,</span>
+<span class='talk-transcript__fragment' data-time='471658' id='t-471658'>the scale changes how
+you have to maintain it.</span>
+<span class='talk-transcript__fragment' data-time='474571' id='t-474571'>And we went through a lot of pain.</span>
+<span class='talk-transcript__fragment' data-time='478713' id='t-478713'>And there are whole projects
+that do only source-code maintenance.</span>
+<span class='talk-transcript__fragment' data-time='485266' id='t-485266'>CVS is the one that used to be
+the most commonly used,</span>
+<span class='talk-transcript__fragment' data-time='488582' id='t-488582'>and I hated CVS with a passion
+and refused to touch it</span>
+<span class='talk-transcript__fragment' data-time='492503' id='t-492503'>and tried something else
+that was radical and interesting</span>
+<span class='talk-transcript__fragment' data-time='495590' id='t-495590'>and everybody else hated.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='499004' id='t-499004'>CA: (Laughs)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='500402' id='t-500402'>LT: And we were in this bad spot,</span>
+<span class='talk-transcript__fragment' data-time='502514' id='t-502514'>where we had thousands of people
+who wanted to participate,</span>
+<span class='talk-transcript__fragment' data-time='505355' id='t-505355'>but in many ways,
+I was the kind of break point,</span>
+<span class='talk-transcript__fragment' data-time='510420' id='t-510420'>where I could not scale to the point</span>
+<span class='talk-transcript__fragment' data-time='512968' id='t-512968'>where I could work
+with thousands of people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='515792' id='t-515792'>So Git is my second big project,</span>
+<span class='talk-transcript__fragment' data-time='518268' id='t-518268'>which was only created for me
+to maintain my first big project.</span>
+<span class='talk-transcript__fragment' data-time='523433' id='t-523433'>And this is literally how I work.</span>
+<span class='talk-transcript__fragment' data-time='525704' id='t-525704'>I don't code for --</span>
+<span class='talk-transcript__fragment' data-time='528233' id='t-528233'>well, I do code for fun --</span>
+<span class='talk-transcript__fragment' data-time='529979' id='t-529979'>but I want to code
+for something meaningful</span>
+<span class='talk-transcript__fragment' data-time='532384' id='t-532384'>so every single project I've ever done
+has been something I needed</span>
+<span class='talk-transcript__fragment' data-time='536455' id='t-536455'>and --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='537855' id='t-537855'>CA: So really, both Linux
+and Git kind of arose</span>
+<span class='talk-transcript__fragment' data-time='541312' id='t-541312'>almost as an unintended consequence</span>
+<span class='talk-transcript__fragment' data-time='543672' id='t-543672'>of your desire not to have
+to work with too many people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='546367' id='t-546367'>LT: Absolutely. Yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547542' id='t-547542'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='548646' id='t-548646'>CA: That's amazing.
+LT: Yeah.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='550320' id='t-550320'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='551836' id='t-551836'>And yet, you're the man
+who's transformed technology</span>
+<span class='talk-transcript__fragment' data-time='555251' id='t-555251'>not just once but twice,</span>
+<span class='talk-transcript__fragment' data-time='556592' id='t-556592'>and we have to try
+and understand why it is.</span>
+<span class='talk-transcript__fragment' data-time='559199' id='t-559199'>You've given us some clues, but ...</span>
+<span class='talk-transcript__fragment' data-time='560907' id='t-560907'>Here's a picture of you as a kid,
+with a Rubik's Cube.</span>
+<span class='talk-transcript__fragment' data-time='565572' id='t-565572'>You mentioned that you've been
+programming since you were like 10 or 11,</span>
+<span class='talk-transcript__fragment' data-time='569716' id='t-569716'>half your life.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='571105' id='t-571105'>Were you this sort of computer
+genius, you know, übernerd,</span>
+<span class='talk-transcript__fragment' data-time='574945' id='t-574945'>were you the star at school
+who could do everything?</span>
+<span class='talk-transcript__fragment' data-time='577454' id='t-577454'>What were you like as a kid?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='580130' id='t-580130'>LT: Yeah, I think I was
+the prototypical nerd.</span>
+<span class='talk-transcript__fragment' data-time='582647' id='t-582647'>I mean, I was ...</span>
+<span class='talk-transcript__fragment' data-time='585130' id='t-585130'>I was not a people person back then.</span>
+<span class='talk-transcript__fragment' data-time='587116' id='t-587116'>That's my younger brother.</span>
+<span class='talk-transcript__fragment' data-time='589720' id='t-589720'>I was clearly more interested
+in the Rubik's Cube</span>
+<span class='talk-transcript__fragment' data-time='592531' id='t-592531'>than my younger brother.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='594080' id='t-594080'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='595191' id='t-595191'>My younger sister,
+who's not in the picture,</span>
+<span class='talk-transcript__fragment' data-time='598335' id='t-598335'>when we had family meetings --</span>
+<span class='talk-transcript__fragment' data-time='600773' id='t-600773'>and it's not a huge family, but I have,
+like, a couple of cousins --</span>
+<span class='talk-transcript__fragment' data-time='604589' id='t-604589'>she would prep me beforehand.</span>
+<span class='talk-transcript__fragment' data-time='607477' id='t-607477'>Like, before I stepped
+into the room she would say,</span>
+<span class='talk-transcript__fragment' data-time='610067' id='t-610067'>&quot;OK. That's so-and-so ...&quot;</span>
+<span class='talk-transcript__fragment' data-time='613925' id='t-613925'>Because I was not --</span>
+<span class='talk-transcript__fragment' data-time='616278' id='t-616278'>I was a geek.</span>
+<span class='talk-transcript__fragment' data-time='617517' id='t-617517'>I was into computers,</span>
+<span class='talk-transcript__fragment' data-time='618707' id='t-618707'>I was into math,</span>
+<span class='talk-transcript__fragment' data-time='619890' id='t-619890'>I was into physics.</span>
+<span class='talk-transcript__fragment' data-time='621065' id='t-621065'>I was good at that.</span>
+<span class='talk-transcript__fragment' data-time='622240' id='t-622240'>I don't think I was
+particularly exceptional.</span>
+<span class='talk-transcript__fragment' data-time='625554' id='t-625554'>Apparently, my sister said</span>
+<span class='talk-transcript__fragment' data-time='627969' id='t-627969'>that my biggest exceptional quality
+was that I would not let go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='635618' id='t-635618'>CA: OK, so let's go there,
+because that's interesting.</span>
+<span class='talk-transcript__fragment' data-time='638199' id='t-638199'>You would not let go.</span>
+<span class='talk-transcript__fragment' data-time='639397' id='t-639397'>So that's not about being
+a geek and being smart,</span>
+<span class='talk-transcript__fragment' data-time='642286' id='t-642286'>that's about being ... stubborn?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='645415' id='t-645415'>LT: That's about being stubborn.</span>
+<span class='talk-transcript__fragment' data-time='646966' id='t-646966'>That's about, like,</span>
+<span class='talk-transcript__fragment' data-time='649093' id='t-649093'>just starting something</span>
+<span class='talk-transcript__fragment' data-time='651317' id='t-651317'>and not saying, &quot;OK, I'm done,
+let's do something else --</span>
+<span class='talk-transcript__fragment' data-time='656791' id='t-656791'>Look: shiny!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='658954' id='t-658954'>And I notice that in many
+other parts in my life, too.</span>
+<span class='talk-transcript__fragment' data-time='663470' id='t-663470'>I lived in Silicon Valley for seven years.</span>
+<span class='talk-transcript__fragment' data-time='666744' id='t-666744'>And I worked for the same
+company, in Silicon Valley,</span>
+<span class='talk-transcript__fragment' data-time='670880' id='t-670880'>for the whole time.</span>
+<span class='talk-transcript__fragment' data-time='672618' id='t-672618'>That is unheard of.</span>
+<span class='talk-transcript__fragment' data-time='675204' id='t-675204'>That's not how Silicon Valley works.</span>
+<span class='talk-transcript__fragment' data-time='676995' id='t-676995'>The whole point of Silicon Valley
+is that people jump between jobs</span>
+<span class='talk-transcript__fragment' data-time='680598' id='t-680598'>to kind of mix up the pot.</span>
+<span class='talk-transcript__fragment' data-time='683249' id='t-683249'>And that's not the kind of person I am.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='685153' id='t-685153'>CA: But during the actual
+development of Linux itself,</span>
+<span class='talk-transcript__fragment' data-time='687748' id='t-687748'>that stubbornness sometimes brought
+you in conflict with other people.</span>
+<span class='talk-transcript__fragment' data-time='692445' id='t-692445'>Talk about that a bit.</span>
+<span class='talk-transcript__fragment' data-time='694123' id='t-694123'>Was that essential to sort of maintain
+the quality of what was being built?</span>
+<span class='talk-transcript__fragment' data-time='699691' id='t-699691'>How would you describe what happened?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='702392' id='t-702392'>LT: I don't know if it's essential.</span>
+<span class='talk-transcript__fragment' data-time='705239' id='t-705239'>Going back to the &quot;I'm not
+a people person,&quot; --</span>
+<span class='talk-transcript__fragment' data-time='708408' id='t-708408'>sometimes I'm also ...</span>
+<span class='talk-transcript__fragment' data-time='712100' id='t-712100'>shall we say,</span>
+<span class='talk-transcript__fragment' data-time='713657' id='t-713657'>&quot;myopic&quot; when it comes
+to other people's feelings,</span>
+<span class='talk-transcript__fragment' data-time='717667' id='t-717667'>and that sometimes makes you
+say things that hurt other people.</span>
+<span class='talk-transcript__fragment' data-time='722969' id='t-722969'>And I'm not proud of that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='726761' id='t-726761'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='727899' id='t-727899'>But, at the same time, it's --</span>
+<span class='talk-transcript__fragment' data-time='730978' id='t-730978'>I get people who tell me
+that I should be nice.</span>
+<span class='talk-transcript__fragment' data-time='734796' id='t-734796'>And then when I try to explain to them
+that maybe you're nice,</span>
+<span class='talk-transcript__fragment' data-time='740488' id='t-740488'>maybe you should be more aggressive,</span>
+<span class='talk-transcript__fragment' data-time='742766' id='t-742766'>they see that as me being not nice.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='746332' id='t-746332'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='748466' id='t-748466'>What I'm trying to say
+is we are different.</span>
+<span class='talk-transcript__fragment' data-time='750658' id='t-750658'>I'm not a people person;</span>
+<span class='talk-transcript__fragment' data-time='752492' id='t-752492'>it's not something
+I'm particularly proud of,</span>
+<span class='talk-transcript__fragment' data-time='754622' id='t-754622'>but it's part of me.</span>
+<span class='talk-transcript__fragment' data-time='756186' id='t-756186'>And one of the things
+I really like about open source</span>
+<span class='talk-transcript__fragment' data-time='758915' id='t-758915'>is it really allows different
+people to work together.</span>
+<span class='talk-transcript__fragment' data-time='764731' id='t-764731'>We don't have to like each other --</span>
+<span class='talk-transcript__fragment' data-time='766479' id='t-766479'>and sometimes we really
+don't like each other.</span>
+<span class='talk-transcript__fragment' data-time='768706' id='t-768706'>Really -- I mean, there are very,
+very heated arguments.</span>
+<span class='talk-transcript__fragment' data-time='772217' id='t-772217'>But you can, actually,
+you can find things that --</span>
+<span class='talk-transcript__fragment' data-time='776327' id='t-776327'>you don't even agree to disagree,</span>
+<span class='talk-transcript__fragment' data-time='778578' id='t-778578'>it's just that you're interested
+in really different things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='781648' id='t-781648'>And coming back to the point
+where I said earlier</span>
+<span class='talk-transcript__fragment' data-time='784575' id='t-784575'>that I was afraid of commercial people
+taking advantage of your work,</span>
+<span class='talk-transcript__fragment' data-time='788892' id='t-788892'>it turned out, and very
+quickly turned out,</span>
+<span class='talk-transcript__fragment' data-time='791515' id='t-791515'>that those commercial people
+were lovely, lovely people.</span>
+<span class='talk-transcript__fragment' data-time='794505' id='t-794505'>And they did all the things that I was not
+at all interested in doing,</span>
+<span class='talk-transcript__fragment' data-time='798235' id='t-798235'>and they had completely different goals.</span>
+<span class='talk-transcript__fragment' data-time='800316' id='t-800316'>And they used open source in ways
+that I just did not want to go.</span>
+<span class='talk-transcript__fragment' data-time='805663' id='t-805663'>But because it was open
+source they could do it,</span>
+<span class='talk-transcript__fragment' data-time='807949' id='t-807949'>and it actually works
+really beautifully together.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='810325' id='t-810325'>And I actually think
+it works the same way.</span>
+<span class='talk-transcript__fragment' data-time='812373' id='t-812373'>You need to have the people-people,
+the communicators,</span>
+<span class='talk-transcript__fragment' data-time='815602' id='t-815602'>the warm and friendly people</span>
+<span class='talk-transcript__fragment' data-time='817053' id='t-817053'>who like --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='818799' id='t-818799'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='820265' id='t-820265'>really want to hug you
+and get you into the community.</span>
+<span class='talk-transcript__fragment' data-time='823339' id='t-823339'>But that's not everybody.</span>
+<span class='talk-transcript__fragment' data-time='824934' id='t-824934'>And that's not me.</span>
+<span class='talk-transcript__fragment' data-time='826390' id='t-826390'>I care about the technology.</span>
+<span class='talk-transcript__fragment' data-time='827871' id='t-827871'>There are people who care about the UI.</span>
+<span class='talk-transcript__fragment' data-time='829776' id='t-829776'>I can't do UI to save my life.</span>
+<span class='talk-transcript__fragment' data-time='832870' id='t-832870'>I mean, if I was stranded on an island</span>
+<span class='talk-transcript__fragment' data-time='835915' id='t-835915'>and the only way to get off that island
+was the make a pretty UI,</span>
+<span class='talk-transcript__fragment' data-time='839339' id='t-839339'>I'd die there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='840526' id='t-840526'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='841701' id='t-841701'>So there's different kinds of people,</span>
+<span class='talk-transcript__fragment' data-time='843864' id='t-843864'>and I'm not making excuses,
+I'm trying to explain.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='846753' id='t-846753'>CA: Now, when we talked last week,</span>
+<span class='talk-transcript__fragment' data-time='848443' id='t-848443'>you talked about some
+other trait that you have,</span>
+<span class='talk-transcript__fragment' data-time='850952' id='t-850952'>which I found really interesting.</span>
+<span class='talk-transcript__fragment' data-time='852567' id='t-852567'>It's this idea called taste.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='853974' id='t-853974'>And I've just got a couple of images here.</span>
+<span class='talk-transcript__fragment' data-time='856354' id='t-856354'>I think this is an example of not
+particularly good taste in code,</span>
+<span class='talk-transcript__fragment' data-time='860381' id='t-860381'>and this one is better taste,</span>
+<span class='talk-transcript__fragment' data-time='863396' id='t-863396'>which one can immediately see.</span>
+<span class='talk-transcript__fragment' data-time='865483' id='t-865483'>What is the difference between these two?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='868639' id='t-868639'>LT: So this is --</span>
+<span class='talk-transcript__fragment' data-time='869845' id='t-869845'>How many people here actually have coded?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='873671' id='t-873671'>CA: Oh my goodness.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='875215' id='t-875215'>LT: So I guarantee you,</span>
+<span class='talk-transcript__fragment' data-time='876394' id='t-876394'>everybody who raised their hand,</span>
+<span class='talk-transcript__fragment' data-time='877963' id='t-877963'>they have done what's called
+a singly-linked list.</span>
+<span class='talk-transcript__fragment' data-time='880608' id='t-880608'>And it's taught --</span>
+<span class='talk-transcript__fragment' data-time='883115' id='t-883115'>This, the first not very
+good taste approach,</span>
+<span class='talk-transcript__fragment' data-time='886730' id='t-886730'>is basically how it's taught to be done
+when you start out coding.</span>
+<span class='talk-transcript__fragment' data-time='890821' id='t-890821'>And you don't have to understand the code.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='892889' id='t-892889'>The most interesting part to me</span>
+<span class='talk-transcript__fragment' data-time='894969' id='t-894969'>is the last if statement.</span>
+<span class='talk-transcript__fragment' data-time='898933' id='t-898933'>Because what happens
+in a singly-linked list --</span>
+<span class='talk-transcript__fragment' data-time='901217' id='t-901217'>this is trying to remove
+an existing entry from a list --</span>
+<span class='talk-transcript__fragment' data-time='904891' id='t-904891'>and there's a difference
+between if it's the first entry</span>
+<span class='talk-transcript__fragment' data-time='908757' id='t-908757'>or whether it's an entry in the middle.</span>
+<span class='talk-transcript__fragment' data-time='910780' id='t-910780'>Because if it's the first entry,</span>
+<span class='talk-transcript__fragment' data-time='912409' id='t-912409'>you have to change
+the pointer to the first entry.</span>
+<span class='talk-transcript__fragment' data-time='915449' id='t-915449'>If it's in the middle,</span>
+<span class='talk-transcript__fragment' data-time='916671' id='t-916671'>you have to change the pointer
+of a previous entry.</span>
+<span class='talk-transcript__fragment' data-time='919116' id='t-919116'>So they're two completely different cases.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='921164' id='t-921164'>CA: And that's better.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='922340' id='t-922340'>LT: And this is better.</span>
+<span class='talk-transcript__fragment' data-time='923940' id='t-923940'>It does not have the if statement.</span>
+<span class='talk-transcript__fragment' data-time='926637' id='t-926637'>And it doesn't really matter --</span>
+<span class='talk-transcript__fragment' data-time='928874' id='t-928874'>I don't want you understand
+why it doesn't have the if statement,</span>
+<span class='talk-transcript__fragment' data-time='932099' id='t-932099'>but I want you to understand</span>
+<span class='talk-transcript__fragment' data-time='933465' id='t-933465'>that sometimes you can see
+a problem in a different way</span>
+<span class='talk-transcript__fragment' data-time='936114' id='t-936114'>and rewrite it so that
+a special case goes away</span>
+<span class='talk-transcript__fragment' data-time='939492' id='t-939492'>and becomes the normal case.</span>
+<span class='talk-transcript__fragment' data-time='941393' id='t-941393'>And that's good code.</span>
+<span class='talk-transcript__fragment' data-time='943328' id='t-943328'>But this is simple code.</span>
+<span class='talk-transcript__fragment' data-time='944902' id='t-944902'>This is CS 101.</span>
+<span class='talk-transcript__fragment' data-time='946275' id='t-946275'>This is not important --
+although, details are important.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='949798' id='t-949798'>To me, the sign of people
+I really want to work with</span>
+<span class='talk-transcript__fragment' data-time='953900' id='t-953900'>is that they have good taste,
+which is how ...</span>
+<span class='talk-transcript__fragment' data-time='957295' id='t-957295'>I sent you this stupid example</span>
+<span class='talk-transcript__fragment' data-time='958916' id='t-958916'>that is not relevant
+because it's too small.</span>
+<span class='talk-transcript__fragment' data-time='961743' id='t-961743'>Good taste is much bigger than this.</span>
+<span class='talk-transcript__fragment' data-time='963909' id='t-963909'>Good taste is about really
+seeing the big patterns</span>
+<span class='talk-transcript__fragment' data-time='967954' id='t-967954'>and kind of instinctively knowing
+what's the right way to do things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='972436' id='t-972436'>CA: OK, so we're putting
+the pieces together here now.</span>
+<span class='talk-transcript__fragment' data-time='975736' id='t-975736'>You have taste,</span>
+<span class='talk-transcript__fragment' data-time='978057' id='t-978057'>in a way that's meaningful
+to software people.</span>
+<span class='talk-transcript__fragment' data-time='980418' id='t-980418'>You're --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='981593' id='t-981593'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='983433' id='t-983433'>LT: I think it was meaningful
+to some people here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='987967' id='t-987967'>CA: You're a very smart computer coder,</span>
+<span class='talk-transcript__fragment' data-time='990908' id='t-990908'>and you're hellish stubborn.</span>
+<span class='talk-transcript__fragment' data-time='993622' id='t-993622'>But there must be something else.</span>
+<span class='talk-transcript__fragment' data-time='995232' id='t-995232'>I mean, you've changed the future.</span>
+<span class='talk-transcript__fragment' data-time='996879' id='t-996879'>You must have the ability
+of these grand visions of the future.</span>
+<span class='talk-transcript__fragment' data-time='999866' id='t-999866'>You're a visionary, right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1001151' id='t-1001151'>LT: I've actually felt slightly
+uncomfortable at TED</span>
+<span class='talk-transcript__fragment' data-time='1003766' id='t-1003766'>for the last two days,</span>
+<span class='talk-transcript__fragment' data-time='1005950' id='t-1005950'>because there's a lot
+of vision going on, right?</span>
+<span class='talk-transcript__fragment' data-time='1008569' id='t-1008569'>And I am not a visionary.</span>
+<span class='talk-transcript__fragment' data-time='1010290' id='t-1010290'>I do not have a five-year plan.</span>
+<span class='talk-transcript__fragment' data-time='1012543' id='t-1012543'>I'm an engineer.</span>
+<span class='talk-transcript__fragment' data-time='1013925' id='t-1013925'>And I think it's really --</span>
+<span class='talk-transcript__fragment' data-time='1015209' id='t-1015209'>I mean -- I'm perfectly
+happy with all the people</span>
+<span class='talk-transcript__fragment' data-time='1017552' id='t-1017552'>who are walking around
+and just staring at the clouds</span>
+<span class='talk-transcript__fragment' data-time='1020327' id='t-1020327'>and looking at the stars
+and saying, &quot;I want to go there.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1023202' id='t-1023202'>But I'm looking at the ground,</span>
+<span class='talk-transcript__fragment' data-time='1024678' id='t-1024678'>and I want to fix the pothole
+that's right in front of me</span>
+<span class='talk-transcript__fragment' data-time='1027557' id='t-1027557'>before I fall in.</span>
+<span class='talk-transcript__fragment' data-time='1028941' id='t-1028941'>This is the kind of person I am.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1030584' id='t-1030584'>(Cheers)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1031719' id='t-1031719'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1033055' id='t-1033055'>CA: So you spoke to me last week
+about these two guys.</span>
+<span class='talk-transcript__fragment' data-time='1037358' id='t-1037358'>Who are they and how
+do you relate to them?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1040239' id='t-1040239'>LT: Well, so this is kind
+of cliché in technology,</span>
+<span class='talk-transcript__fragment' data-time='1043865' id='t-1043865'>the whole Tesla versus Edison,</span>
+<span class='talk-transcript__fragment' data-time='1045896' id='t-1045896'>where Tesla is seen as the visionary
+scientist and crazy idea man.</span>
+<span class='talk-transcript__fragment' data-time='1050861' id='t-1050861'>And people love Tesla.</span>
+<span class='talk-transcript__fragment' data-time='1053667' id='t-1053667'>I mean, there are people who name
+their companies after him.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1056678' id='t-1056678'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1059365' id='t-1059365'>The other person there is Edison,</span>
+<span class='talk-transcript__fragment' data-time='1062001' id='t-1062001'>who is actually often vilified
+for being kind of pedestrian</span>
+<span class='talk-transcript__fragment' data-time='1065532' id='t-1065532'>and is --</span>
+<span class='talk-transcript__fragment' data-time='1067477' id='t-1067477'>I mean, his most famous quote is,</span>
+<span class='talk-transcript__fragment' data-time='1070223' id='t-1070223'>&quot;Genius is one percent inspiration
+and 99 percent perspiration.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1075394' id='t-1075394'>And I'm in the Edison camp,</span>
+<span class='talk-transcript__fragment' data-time='1076871' id='t-1076871'>even if people don't always like him.</span>
+<span class='talk-transcript__fragment' data-time='1079079' id='t-1079079'>Because if you actually compare the two,</span>
+<span class='talk-transcript__fragment' data-time='1082122' id='t-1082122'>Tesla has kind of this mind
+grab these days,</span>
+<span class='talk-transcript__fragment' data-time='1086679' id='t-1086679'>but who actually changed the world?</span>
+<span class='talk-transcript__fragment' data-time='1089853' id='t-1089853'>Edison may not have been a nice person,</span>
+<span class='talk-transcript__fragment' data-time='1093259' id='t-1093259'>he did a lot of things --</span>
+<span class='talk-transcript__fragment' data-time='1096415' id='t-1096415'>he was maybe not so intellectual,</span>
+<span class='talk-transcript__fragment' data-time='1098868' id='t-1098868'>not so visionary.</span>
+<span class='talk-transcript__fragment' data-time='1101119' id='t-1101119'>But I think I'm more
+of an Edison than a Tesla.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1105669' id='t-1105669'>CA: So our theme at TED
+this week is dreams --</span>
+<span class='talk-transcript__fragment' data-time='1108131' id='t-1108131'>big, bold, audacious dreams.</span>
+<span class='talk-transcript__fragment' data-time='1109502' id='t-1109502'>You're really the antidote to that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1111328' id='t-1111328'>LT: I'm trying to dial it down a bit, yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1113461' id='t-1113461'>CA: That's good.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1114636' id='t-1114636'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='1115740' id='t-1115740'>We embrace you, we embrace you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1119046' id='t-1119046'>Companies like Google and many
+others have made, arguably,</span>
+<span class='talk-transcript__fragment' data-time='1121819' id='t-1121819'>like, billions of dollars
+out of your software.</span>
+<span class='talk-transcript__fragment' data-time='1124049' id='t-1124049'>Does that piss you off?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1125224' id='t-1125224'>LT: No.</span>
+<span class='talk-transcript__fragment' data-time='1126399' id='t-1126399'>No, it doesn't piss me off
+for several reasons.</span>
+<span class='talk-transcript__fragment' data-time='1129057' id='t-1129057'>And one of them is, I'm doing fine.</span>
+<span class='talk-transcript__fragment' data-time='1131091' id='t-1131091'>I'm really doing fine.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1132942' id='t-1132942'>But the other reason is --</span>
+<span class='talk-transcript__fragment' data-time='1134550' id='t-1134550'>I mean, without doing the whole
+open source and really letting go thing,</span>
+<span class='talk-transcript__fragment' data-time='1139901' id='t-1139901'>Linux would never have been what it is.</span>
+<span class='talk-transcript__fragment' data-time='1142151' id='t-1142151'>And it's brought experiences
+I don't really enjoy, public talking,</span>
+<span class='talk-transcript__fragment' data-time='1147271' id='t-1147271'>but at the same time,
+this is an experience.</span>
+<span class='talk-transcript__fragment' data-time='1149446' id='t-1149446'>Trust me.</span>
+<span class='talk-transcript__fragment' data-time='1151238' id='t-1151238'>So there's a lot of things going on
+that make me a very happy man</span>
+<span class='talk-transcript__fragment' data-time='1156405' id='t-1156405'>and thinking I did the right choices.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1158958' id='t-1158958'>CA: Is the open source idea --</span>
+<span class='talk-transcript__fragment' data-time='1160894' id='t-1160894'>this is, I think we'll end here --</span>
+<span class='talk-transcript__fragment' data-time='1162554' id='t-1162554'>is the open source idea
+fully realized now in the world,</span>
+<span class='talk-transcript__fragment' data-time='1166632' id='t-1166632'>or is there more that it could go,</span>
+<span class='talk-transcript__fragment' data-time='1169674' id='t-1169674'>are there more things that it could do?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1172738' id='t-1172738'>LT: So, I'm of two minds there.</span>
+<span class='talk-transcript__fragment' data-time='1174996' id='t-1174996'>I think one reason open source
+works so well in code</span>
+<span class='talk-transcript__fragment' data-time='1179506' id='t-1179506'>is that at the end of the day,</span>
+<span class='talk-transcript__fragment' data-time='1181939' id='t-1181939'>code tends to be somewhat black and white.</span>
+<span class='talk-transcript__fragment' data-time='1185209' id='t-1185209'>There's often a fairly good way to decide,</span>
+<span class='talk-transcript__fragment' data-time='1189390' id='t-1189390'>this is done correctly
+and this is not done well.</span>
+<span class='talk-transcript__fragment' data-time='1193360' id='t-1193360'>Code either works or it doesn't,</span>
+<span class='talk-transcript__fragment' data-time='1195762' id='t-1195762'>which means that there's less
+room for arguments.</span>
+<span class='talk-transcript__fragment' data-time='1200394' id='t-1200394'>And we have arguments despite this, right?</span>
+<span class='talk-transcript__fragment' data-time='1204049' id='t-1204049'>In many other areas --</span>
+<span class='talk-transcript__fragment' data-time='1205988' id='t-1205988'>I mean, people have talked about
+open politics and things like that --</span>
+<span class='talk-transcript__fragment' data-time='1209753' id='t-1209753'>and it's really hard sometimes to say</span>
+<span class='talk-transcript__fragment' data-time='1212726' id='t-1212726'>that, yes, you can apply the same
+principles in some other areas</span>
+<span class='talk-transcript__fragment' data-time='1216507' id='t-1216507'>just because the black and white
+turns into not just gray,</span>
+<span class='talk-transcript__fragment' data-time='1221970' id='t-1221970'>but different colors.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1224339' id='t-1224339'>So, obviously open source in science
+is making a comeback.</span>
+<span class='talk-transcript__fragment' data-time='1228729' id='t-1228729'>Science was there first.</span>
+<span class='talk-transcript__fragment' data-time='1230387' id='t-1230387'>But then science ended up
+being pretty closed,</span>
+<span class='talk-transcript__fragment' data-time='1233078' id='t-1233078'>with very expensive journals
+and some of that going on.</span>
+<span class='talk-transcript__fragment' data-time='1236726' id='t-1236726'>And open source is making
+a comeback in science,</span>
+<span class='talk-transcript__fragment' data-time='1240586' id='t-1240586'>with things like arXiv and open journals.</span>
+<span class='talk-transcript__fragment' data-time='1247262' id='t-1247262'>Wikipedia changed the world, too.</span>
+<span class='talk-transcript__fragment' data-time='1249239' id='t-1249239'>So there are other examples,</span>
+<span class='talk-transcript__fragment' data-time='1250717' id='t-1250717'>I'm sure there are more to come.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1253660' id='t-1253660'>CA: But you're not a visionary,</span>
+<span class='talk-transcript__fragment' data-time='1255251' id='t-1255251'>and so it's not up to you to name them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1257228' id='t-1257228'>LT: No.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1258411' id='t-1258411'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1259483' id='t-1259483'>It's up to you guys to make them, right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1261471' id='t-1261471'>CA: Exactly.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1262758' id='t-1262758'>Linus Torvalds,</span>
+<span class='talk-transcript__fragment' data-time='1263940' id='t-1263940'>thank you for Linux,
+thank you for the Internet,</span>
+<span class='talk-transcript__fragment' data-time='1266209' id='t-1266209'>thank you for all those Android phones.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1268098' id='t-1268098'>Thank you for coming here to TED
+and revealing so much of yourself.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1271319' id='t-1271319'>LT: Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1272495' id='t-1272495'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

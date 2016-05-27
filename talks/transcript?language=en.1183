@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Peter Norvig: The 100,000-student classroom | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Peter Norvig: The 100,000-student classroom | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: In the fall of 2011 Peter Norvig taught a class with Sebastian Thrun on artificial intelligence at Stanford attended by 175 students in situ -- and over 100,000 via an interactive webcast. He shares what he learned about teaching to a global classroom." name="description" />
+<meta content="Peter Norvig" name="author" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=lv" hreflang="lv" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=ms" hreflang="ms" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=mn" hreflang="mn" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=sl" hreflang="sl" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The 100,000-student classroom&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a018b6b3ef70c28e54e7ed31190fa37d19a6842a_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a018b6b3ef70c28e54e7ed31190fa37d19a6842a_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: In the fall of 2011 Peter Norvig taught a class with Sebastian Thrun on artificial intelligence at Stanford attended by 175 students in situ -- and over 100,000 via an interactive webcast. He shares what he learned about teaching to a global classroom." property="og:description" />
+<meta content="http://www.ted.com/talks/peter_norvig_the_100_000_student_classroom/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1487?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='peter_norvig_the_100_000_student_classroom'>
+<option value='sq'>Albanian</option>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lv'>Latvian</option>
+<option value='lt'>Lithuanian</option>
+<option value='ms'>Malay</option>
+<option value='mn'>Mongolian</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='sl'>Slovenian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1487?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="371" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a018b6b3ef70c28e54e7ed31190fa37d19a6842a_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration"> 6:11</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Peter Norvig</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1487?language=en' lang='en'>
+The 100,000-student classroom
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jun 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1135' id='t-1135'>Everyone is both a learner</span>
+<span class='talk-transcript__fragment' data-time='3111' id='t-3111'>and a teacher.</span>
+<span class='talk-transcript__fragment' data-time='4623' id='t-4623'>This is me being inspired</span>
+<span class='talk-transcript__fragment' data-time='7079' id='t-7079'>by my first tutor,</span>
+<span class='talk-transcript__fragment' data-time='8270' id='t-8270'>my mom,</span>
+<span class='talk-transcript__fragment' data-time='9215' id='t-9215'>and this is me teaching</span>
+<span class='talk-transcript__fragment' data-time='11838' id='t-11838'>Introduction to Artificial Intelligence</span>
+<span class='talk-transcript__fragment' data-time='13791' id='t-13791'>to 200 students</span>
+<span class='talk-transcript__fragment' data-time='15031' id='t-15031'>at Stanford University.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='16303' id='t-16303'>Now the students and I</span>
+<span class='talk-transcript__fragment' data-time='17759' id='t-17759'>enjoyed the class,</span>
+<span class='talk-transcript__fragment' data-time='18935' id='t-18935'>but it occurred to me</span>
+<span class='talk-transcript__fragment' data-time='20351' id='t-20351'>that while the subject matter</span>
+<span class='talk-transcript__fragment' data-time='22062' id='t-22062'>of the class is advanced</span>
+<span class='talk-transcript__fragment' data-time='23351' id='t-23351'>and modern,</span>
+<span class='talk-transcript__fragment' data-time='24039' id='t-24039'>the teaching technology isn't.</span>
+<span class='talk-transcript__fragment' data-time='26358' id='t-26358'>In fact, I use basically</span>
+<span class='talk-transcript__fragment' data-time='28694' id='t-28694'>the same technology as</span>
+<span class='talk-transcript__fragment' data-time='31064' id='t-31064'>this 14th-century classroom.</span>
+<span class='talk-transcript__fragment' data-time='33694' id='t-33694'>Note the textbook,</span>
+<span class='talk-transcript__fragment' data-time='36494' id='t-36494'>the sage on the stage,</span>
+<span class='talk-transcript__fragment' data-time='39438' id='t-39438'>and the sleeping guy</span>
+<span class='talk-transcript__fragment' data-time='41337' id='t-41337'>in the back. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='42238' id='t-42238'>Just like today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='45175' id='t-45175'>So my co-teacher,</span>
+<span class='talk-transcript__fragment' data-time='48286' id='t-48286'>Sebastian Thrun, and I thought,</span>
+<span class='talk-transcript__fragment' data-time='49926' id='t-49926'>there must be a better way.</span>
+<span class='talk-transcript__fragment' data-time='51700' id='t-51700'>We challenged ourselves</span>
+<span class='talk-transcript__fragment' data-time='53354' id='t-53354'>to create an online class</span>
+<span class='talk-transcript__fragment' data-time='54645' id='t-54645'>that would be equal or better</span>
+<span class='talk-transcript__fragment' data-time='56276' id='t-56276'>in quality to our Stanford class,</span>
+<span class='talk-transcript__fragment' data-time='58612' id='t-58612'>but to bring it to anyone</span>
+<span class='talk-transcript__fragment' data-time='60822' id='t-60822'>in the world for free.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='62452' id='t-62452'>We announced the class on July 29th,</span>
+<span class='talk-transcript__fragment' data-time='65020' id='t-65020'>and within two weeks, 50,000 people</span>
+<span class='talk-transcript__fragment' data-time='68229' id='t-68229'>had signed up for it.</span>
+<span class='talk-transcript__fragment' data-time='69636' id='t-69636'>And that grew to 160,000 students</span>
+<span class='talk-transcript__fragment' data-time='72741' id='t-72741'>from 209 countries.</span>
+<span class='talk-transcript__fragment' data-time='74805' id='t-74805'>We were thrilled to have</span>
+<span class='talk-transcript__fragment' data-time='76613' id='t-76613'>that kind of audience,</span>
+<span class='talk-transcript__fragment' data-time='77734' id='t-77734'>and just a bit terrified that we</span>
+<span class='talk-transcript__fragment' data-time='80373' id='t-80373'>hadn't finished preparing the class yet. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='82684' id='t-82684'>So we got to work.</span>
+<span class='talk-transcript__fragment' data-time='84296' id='t-84296'>We studied what others had done,</span>
+<span class='talk-transcript__fragment' data-time='85932' id='t-85932'>what we could copy and what we could change.</span>
+<span class='talk-transcript__fragment' data-time='88255' id='t-88255'>Benjamin Bloom had showed</span>
+<span class='talk-transcript__fragment' data-time='90916' id='t-90916'>that one-on-one tutoring works best,</span>
+<span class='talk-transcript__fragment' data-time='92725' id='t-92725'>so that's what we tried to emulate,</span>
+<span class='talk-transcript__fragment' data-time='94853' id='t-94853'>like with me and my mom,</span>
+<span class='talk-transcript__fragment' data-time='96293' id='t-96293'>even though we knew</span>
+<span class='talk-transcript__fragment' data-time='97798' id='t-97798'>it would be one-on-thousands.</span>
+<span class='talk-transcript__fragment' data-time='99716' id='t-99716'>Here, an overhead video camera</span>
+<span class='talk-transcript__fragment' data-time='101917' id='t-101917'>is recording me as I'm talking</span>
+<span class='talk-transcript__fragment' data-time='103749' id='t-103749'>and drawing on a piece of paper.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='105428' id='t-105428'>A student said, &quot;This class felt</span>
+<span class='talk-transcript__fragment' data-time='107837' id='t-107837'>like sitting in a bar</span>
+<span class='talk-transcript__fragment' data-time='108989' id='t-108989'>with a really smart friend</span>
+<span class='talk-transcript__fragment' data-time='110468' id='t-110468'>who's explaining something</span>
+<span class='talk-transcript__fragment' data-time='111672' id='t-111672'>you haven't grasped, but are about to.&quot;</span>
+<span class='talk-transcript__fragment' data-time='113973' id='t-113973'>And that's exactly what we were aiming for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='116089' id='t-116089'>Now, from Khan Academy, we saw</span>
+<span class='talk-transcript__fragment' data-time='118877' id='t-118877'>that short 10-minute videos</span>
+<span class='talk-transcript__fragment' data-time='120701' id='t-120701'>worked much better than trying</span>
+<span class='talk-transcript__fragment' data-time='122477' id='t-122477'>to record an hour-long lecture</span>
+<span class='talk-transcript__fragment' data-time='124548' id='t-124548'>and put it on the small-format screen.</span>
+<span class='talk-transcript__fragment' data-time='126965' id='t-126965'>We decided to go even shorter</span>
+<span class='talk-transcript__fragment' data-time='129157' id='t-129157'>and more interactive.</span>
+<span class='talk-transcript__fragment' data-time='130805' id='t-130805'>Our typical video is two minutes,</span>
+<span class='talk-transcript__fragment' data-time='133052' id='t-133052'>sometimes shorter, never more</span>
+<span class='talk-transcript__fragment' data-time='134804' id='t-134804'>than six, and then we pause for</span>
+<span class='talk-transcript__fragment' data-time='137493' id='t-137493'>a quiz question, to make it</span>
+<span class='talk-transcript__fragment' data-time='138860' id='t-138860'>feel like one-on-one tutoring.</span>
+<span class='talk-transcript__fragment' data-time='140738' id='t-140738'>Here, I'm explaining how a computer uses</span>
+<span class='talk-transcript__fragment' data-time='143140' id='t-143140'>the grammar of English</span>
+<span class='talk-transcript__fragment' data-time='144388' id='t-144388'>to parse sentences, and here,</span>
+<span class='talk-transcript__fragment' data-time='146565' id='t-146565'>there's a pause and the student</span>
+<span class='talk-transcript__fragment' data-time='148629' id='t-148629'>has to reflect, understand what's going on</span>
+<span class='talk-transcript__fragment' data-time='150866' id='t-150866'>and check the right boxes</span>
+<span class='talk-transcript__fragment' data-time='152506' id='t-152506'>before they can continue.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='153923' id='t-153923'>Students learn best when</span>
+<span class='talk-transcript__fragment' data-time='156371' id='t-156371'>they're actively practicing.</span>
+<span class='talk-transcript__fragment' data-time='157619' id='t-157619'>We wanted to engage them, to have them grapple</span>
+<span class='talk-transcript__fragment' data-time='159915' id='t-159915'>with ambiguity and guide them to synthesize</span>
+<span class='talk-transcript__fragment' data-time='162883' id='t-162883'>the key ideas themselves.</span>
+<span class='talk-transcript__fragment' data-time='164548' id='t-164548'>We mostly avoid questions</span>
+<span class='talk-transcript__fragment' data-time='166260' id='t-166260'>like, &quot;Here's a formula, now</span>
+<span class='talk-transcript__fragment' data-time='167971' id='t-167971'>tell me the value of Y</span>
+<span class='talk-transcript__fragment' data-time='169046' id='t-169046'>when X is equal to two.&quot;</span>
+<span class='talk-transcript__fragment' data-time='170258' id='t-170258'>We preferred open-ended questions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='172075' id='t-172075'>One student wrote, &quot;Now I'm seeing</span>
+<span class='talk-transcript__fragment' data-time='175253' id='t-175253'>Bayes networks and examples of</span>
+<span class='talk-transcript__fragment' data-time='177115' id='t-177115'>game theory everywhere I look.&quot;</span>
+<span class='talk-transcript__fragment' data-time='178683' id='t-178683'>And I like that kind of response.</span>
+<span class='talk-transcript__fragment' data-time='180421' id='t-180421'>That's just what we were going for.</span>
+<span class='talk-transcript__fragment' data-time='182227' id='t-182227'>We didn't want students to memorize the formulas;</span>
+<span class='talk-transcript__fragment' data-time='184421' id='t-184421'>we wanted to change the way</span>
+<span class='talk-transcript__fragment' data-time='185611' id='t-185611'>they looked at the world.</span>
+<span class='talk-transcript__fragment' data-time='186701' id='t-186701'>And we succeeded.</span>
+<span class='talk-transcript__fragment' data-time='188027' id='t-188027'>Or, I should say, the students succeeded.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='190427' id='t-190427'>And it's a little bit ironic</span>
+<span class='talk-transcript__fragment' data-time='192346' id='t-192346'>that we set about to disrupt traditional education,</span>
+<span class='talk-transcript__fragment' data-time='195259' id='t-195259'>and in doing so, we ended up</span>
+<span class='talk-transcript__fragment' data-time='197275' id='t-197275'>making our online class</span>
+<span class='talk-transcript__fragment' data-time='198859' id='t-198859'>much more like a traditional college class</span>
+<span class='talk-transcript__fragment' data-time='201186' id='t-201186'>than other online classes.</span>
+<span class='talk-transcript__fragment' data-time='203027' id='t-203027'>Most online classes, the videos are always available.</span>
+<span class='talk-transcript__fragment' data-time='206242' id='t-206242'>You can watch them any time you want.</span>
+<span class='talk-transcript__fragment' data-time='208059' id='t-208059'>But if you can do it any time,</span>
+<span class='talk-transcript__fragment' data-time='210346' id='t-210346'>that means you can do it tomorrow,</span>
+<span class='talk-transcript__fragment' data-time='211851' id='t-211851'>and if you can do it tomorrow,</span>
+<span class='talk-transcript__fragment' data-time='213259' id='t-213259'>well, you may not ever</span>
+<span class='talk-transcript__fragment' data-time='215421' id='t-215421'>get around to it. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='217179' id='t-217179'>So we brought back the innovation</span>
+<span class='talk-transcript__fragment' data-time='219371' id='t-219371'>of having due dates. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='221458' id='t-221458'>You could watch the videos</span>
+<span class='talk-transcript__fragment' data-time='222770' id='t-222770'>any time you wanted during the week,</span>
+<span class='talk-transcript__fragment' data-time='224682' id='t-224682'>but at the end of the week,</span>
+<span class='talk-transcript__fragment' data-time='225837' id='t-225837'>you had to get the homework done.</span>
+<span class='talk-transcript__fragment' data-time='227554' id='t-227554'>This motivated the students to keep going, and it also</span>
+<span class='talk-transcript__fragment' data-time='229467' id='t-229467'>meant that everybody was working</span>
+<span class='talk-transcript__fragment' data-time='232323' id='t-232323'>on the same thing at the same time,</span>
+<span class='talk-transcript__fragment' data-time='233841' id='t-233841'>so if you went into a discussion forum,</span>
+<span class='talk-transcript__fragment' data-time='235338' id='t-235338'>you could get an answer from a peer within minutes.</span>
+<span class='talk-transcript__fragment' data-time='238042' id='t-238042'>Now, I'll show you some of the forums, most of which</span>
+<span class='talk-transcript__fragment' data-time='240981' id='t-240981'>were self-organized by the students themselves.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='243747' id='t-243747'>From Daphne Koller and Andrew Ng, we learned</span>
+<span class='talk-transcript__fragment' data-time='246971' id='t-246971'>the concept of &quot;flipping&quot; the classroom.</span>
+<span class='talk-transcript__fragment' data-time='248967' id='t-248967'>Students watched the videos</span>
+<span class='talk-transcript__fragment' data-time='250262' id='t-250262'>on their own, and then they</span>
+<span class='talk-transcript__fragment' data-time='251850' id='t-251850'>come together to discuss them.</span>
+<span class='talk-transcript__fragment' data-time='253560' id='t-253560'>From Eric Mazur, I learned about peer instruction,</span>
+<span class='talk-transcript__fragment' data-time='256717' id='t-256717'>that peers can be the best teachers,</span>
+<span class='talk-transcript__fragment' data-time='259341' id='t-259341'>because they're the ones</span>
+<span class='talk-transcript__fragment' data-time='260773' id='t-260773'>that remember what it's like to not understand.</span>
+<span class='talk-transcript__fragment' data-time='263621' id='t-263621'>Sebastian and I have forgotten some of that.</span>
+<span class='talk-transcript__fragment' data-time='266302' id='t-266302'>Of course, we couldn't have</span>
+<span class='talk-transcript__fragment' data-time='268701' id='t-268701'>a classroom discussion with</span>
+<span class='talk-transcript__fragment' data-time='270333' id='t-270333'>tens of thousands of students,</span>
+<span class='talk-transcript__fragment' data-time='271879' id='t-271879'>so we encouraged and nurtured these online forums.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='275365' id='t-275365'>And finally, from Teach For America,</span>
+<span class='talk-transcript__fragment' data-time='278413' id='t-278413'>I learned that a class is not</span>
+<span class='talk-transcript__fragment' data-time='279894' id='t-279894'>primarily about information.</span>
+<span class='talk-transcript__fragment' data-time='281390' id='t-281390'>More important is motivation and determination.</span>
+<span class='talk-transcript__fragment' data-time='284221' id='t-284221'>It was crucial that the students see</span>
+<span class='talk-transcript__fragment' data-time='286061' id='t-286061'>that we're working hard for them and</span>
+<span class='talk-transcript__fragment' data-time='287861' id='t-287861'>they're all supporting each other.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='289270' id='t-289270'>Now, the class ran 10 weeks,</span>
+<span class='talk-transcript__fragment' data-time='292238' id='t-292238'>and in the end, about half of the 160,000 students watched</span>
+<span class='talk-transcript__fragment' data-time='296149' id='t-296149'>at least one video each week,</span>
+<span class='talk-transcript__fragment' data-time='297712' id='t-297712'>and over 20,000 finished all the homework,</span>
+<span class='talk-transcript__fragment' data-time='300405' id='t-300405'>putting in 50 to 100 hours.</span>
+<span class='talk-transcript__fragment' data-time='302069' id='t-302069'>They got this statement of accomplishment.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='303622' id='t-303622'>So what have we learned?</span>
+<span class='talk-transcript__fragment' data-time='305741' id='t-305741'>Well, we tried some old ideas</span>
+<span class='talk-transcript__fragment' data-time='308557' id='t-308557'>and some new and put them together,</span>
+<span class='talk-transcript__fragment' data-time='310214' id='t-310214'>but there are more ideas to try.</span>
+<span class='talk-transcript__fragment' data-time='312296' id='t-312296'>Sebastian's teaching another class now.</span>
+<span class='talk-transcript__fragment' data-time='314110' id='t-314110'>I'll do one in the fall.</span>
+<span class='talk-transcript__fragment' data-time='315478' id='t-315478'>Stanford Coursera, Udacity, MITx</span>
+<span class='talk-transcript__fragment' data-time='319238' id='t-319238'>and others have more classes coming.</span>
+<span class='talk-transcript__fragment' data-time='321509' id='t-321509'>It's a really exciting time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='322997' id='t-322997'>But to me, the most exciting</span>
+<span class='talk-transcript__fragment' data-time='324469' id='t-324469'>part of it is the data that we're gathering.</span>
+<span class='talk-transcript__fragment' data-time='327445' id='t-327445'>We're gathering thousands</span>
+<span class='talk-transcript__fragment' data-time='330141' id='t-330141'>of interactions per student per class,</span>
+<span class='talk-transcript__fragment' data-time='331797' id='t-331797'>billions of interactions altogether,</span>
+<span class='talk-transcript__fragment' data-time='334005' id='t-334005'>and now we can start analyzing that,</span>
+<span class='talk-transcript__fragment' data-time='336509' id='t-336509'>and when we learn from that,</span>
+<span class='talk-transcript__fragment' data-time='337973' id='t-337973'>do experimentations,</span>
+<span class='talk-transcript__fragment' data-time='339214' id='t-339214'>that's when the real revolution will come.</span>
+<span class='talk-transcript__fragment' data-time='341454' id='t-341454'>And you'll be able to see the results from</span>
+<span class='talk-transcript__fragment' data-time='344230' id='t-344230'>a new generation of amazing students.</span>
+<span class='talk-transcript__fragment' data-time='346493' id='t-346493'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

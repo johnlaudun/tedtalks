@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jonathan Eisen: Meet your microbes | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Jonathan Eisen: Meet your microbes | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Our bodies are covered in a sea of microbes -- both the pathogens that make us sick and the &quot;good&quot; microbes, about which we know less, that might be keeping us healthy. At TEDMED, microbiologist Jonathan Eisen shares what we know, including some surprising ways to put those good microbes to work." name="description" />
+<meta content="Jonathan Eisen" name="author" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript?language=es" hreflang="es" rel="alternate" />
+<meta content="Transcript of &quot;Meet your microbes&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bacc4a95f1d6ba6afdc7d8dc7cd1b787efa483f7_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bacc4a95f1d6ba6afdc7d8dc7cd1b787efa483f7_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Our bodies are covered in a sea of microbes -- both the pathogens that make us sick and the &quot;good&quot; microbes, about which we know less, that might be keeping us healthy. At TEDMED, microbiologist Jonathan Eisen shares what we know, including some surprising ways to put those good microbes to work." property="og:description" />
+<meta content="http://www.ted.com/talks/jonathan_eisen_meet_your_microbes/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1503?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='jonathan_eisen_meet_your_microbes'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1020352">Thu-Huong Ha</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1503?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="863" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bacc4a95f1d6ba6afdc7d8dc7cd1b787efa483f7_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:23</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Jonathan Eisen</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1503?language=en' lang='en'>
+Meet your microbes
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jul 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='637' id='t-637'>I'm going to start with a little story.</span>
+<span class='talk-transcript__fragment' data-time='2092' id='t-2092'>So, I grew up in this neighborhood. When I was 15 years old,</span>
+<span class='talk-transcript__fragment' data-time='5204' id='t-5204'>I went from being what I think was a strapping young athlete,</span>
+<span class='talk-transcript__fragment' data-time='9755' id='t-9755'>over four months, slowly wasting away until</span>
+<span class='talk-transcript__fragment' data-time='13716' id='t-13716'>I was basically a famine victim</span>
+<span class='talk-transcript__fragment' data-time='15604' id='t-15604'>with an unquenchable thirst.</span>
+<span class='talk-transcript__fragment' data-time='17628' id='t-17628'>I had basically digested away my body.</span>
+<span class='talk-transcript__fragment' data-time='21237' id='t-21237'>And this all came to a head when I was on a backpacking trip,</span>
+<span class='talk-transcript__fragment' data-time='25531' id='t-25531'>my first one ever actually, on Old Rag Mountain</span>
+<span class='talk-transcript__fragment' data-time='27576' id='t-27576'>in West Virginia, and was putting my face into puddles</span>
+<span class='talk-transcript__fragment' data-time='31560' id='t-31560'>of water and drinking like a dog.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='33816' id='t-33816'>That night, I was taken into the emergency room</span>
+<span class='talk-transcript__fragment' data-time='38328' id='t-38328'>and diagnosed as a type 1 diabetic in full-blown ketoacidosis.</span>
+<span class='talk-transcript__fragment' data-time='42209' id='t-42209'>And I recovered, thanks to the miracles of modern medicine,</span>
+<span class='talk-transcript__fragment' data-time='48144' id='t-48144'>insulin and other things, and gained all my weight back and more.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='53600' id='t-53600'>And something festered inside me after this happened.</span>
+<span class='talk-transcript__fragment' data-time='59111' id='t-59111'>What I thought about was, what caused the diabetes?</span>
+<span class='talk-transcript__fragment' data-time='62624' id='t-62624'>You see, diabetes is an autoimmune disease</span>
+<span class='talk-transcript__fragment' data-time='64477' id='t-64477'>where your body fights itself, and at the time people thought</span>
+<span class='talk-transcript__fragment' data-time='67852' id='t-67852'>that somehow maybe exposure to a pathogen</span>
+<span class='talk-transcript__fragment' data-time='70893' id='t-70893'>had triggered my immune system to fight the pathogen</span>
+<span class='talk-transcript__fragment' data-time='75365' id='t-75365'>and then kill the cells that make insulin.</span>
+<span class='talk-transcript__fragment' data-time='77423' id='t-77423'>And this is what I thought for a long period of time,</span>
+<span class='talk-transcript__fragment' data-time='79733' id='t-79733'>and that's in fact what medicine and people have focused on quite a bit,</span>
+<span class='talk-transcript__fragment' data-time='83781' id='t-83781'>the microbes that do bad things.</span>
+<span class='talk-transcript__fragment' data-time='86703' id='t-86703'>And that's where I need my assistant here now.</span>
+<span class='talk-transcript__fragment' data-time='89771' id='t-89771'>You may recognize her.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='92209' id='t-92209'>So, I went yesterday, I apologize, I skipped a few of the talks,</span>
+<span class='talk-transcript__fragment' data-time='97889' id='t-97889'>and I went over to the National Academy of Sciences building,</span>
+<span class='talk-transcript__fragment' data-time='100130' id='t-100130'>and they sell toys, giant microbes.</span>
+<span class='talk-transcript__fragment' data-time='105577' id='t-105577'>And here we go!</span>
+<span class='talk-transcript__fragment' data-time='108962' id='t-108962'>So you have caught flesh-eating disease if you caught that one.</span>
+<span class='talk-transcript__fragment' data-time='113717' id='t-113717'>I gotta get back out my baseball ability here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='118145' id='t-118145'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='121852' id='t-121852'>So, unfortunately or not surprisingly, most of the microbes</span>
+<span class='talk-transcript__fragment' data-time='128233' id='t-128233'>they sell at the National Academy building are pathogens.</span>
+<span class='talk-transcript__fragment' data-time='131576' id='t-131576'>Everybody focuses on the things that kill us,</span>
+<span class='talk-transcript__fragment' data-time='134545' id='t-134545'>and that's what I was focusing on.</span>
+<span class='talk-transcript__fragment' data-time='136192' id='t-136192'>And it turns out that we are covered in a cloud of microbes,</span>
+<span class='talk-transcript__fragment' data-time='140753' id='t-140753'>and those microbes actually do us good much of the time,</span>
+<span class='talk-transcript__fragment' data-time='145273' id='t-145273'>rather than killing us.</span>
+<span class='talk-transcript__fragment' data-time='146393' id='t-146393'>And so, we've known about this for some period of time.</span>
+<span class='talk-transcript__fragment' data-time='149584' id='t-149584'>People have used microscopes to look at the microbes that cover us,</span>
+<span class='talk-transcript__fragment' data-time='153161' id='t-153161'>I know you're not paying attention to me, but ...</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='154953' id='t-154953'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='157051' id='t-157051'>The microbes that cover us.</span>
+<span class='talk-transcript__fragment' data-time='158993' id='t-158993'>And if you look at them in the microscope,</span>
+<span class='talk-transcript__fragment' data-time='162153' id='t-162153'>you can see that we actually have 10 times as many cells</span>
+<span class='talk-transcript__fragment' data-time='165557' id='t-165557'>of microbes on us as we have human cells.</span>
+<span class='talk-transcript__fragment' data-time='169025' id='t-169025'>There's more mass in the microbes than the mass of our brain.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='173776' id='t-173776'>We are literally a teeming ecosystem of microorganisms.</span>
+<span class='talk-transcript__fragment' data-time='178097' id='t-178097'>And unfortunately, if you want to learn about the microorganisms,</span>
+<span class='talk-transcript__fragment' data-time='182697' id='t-182697'>just looking at them in a microscope is not sufficient.</span>
+<span class='talk-transcript__fragment' data-time='184977' id='t-184977'>And so we just heard about the DNA sequencing.</span>
+<span class='talk-transcript__fragment' data-time='187557' id='t-187557'>It turns out that one of the best ways to look at microbes</span>
+<span class='talk-transcript__fragment' data-time='190085' id='t-190085'>and to understand them is to look at their DNA.</span>
+<span class='talk-transcript__fragment' data-time='192621' id='t-192621'>And that's what I've been doing for 20 years,</span>
+<span class='talk-transcript__fragment' data-time='194763' id='t-194763'>using DNA sequencing, collecting samples from various places,</span>
+<span class='talk-transcript__fragment' data-time='198645' id='t-198645'>including the human body, reading the DNA sequence</span>
+<span class='talk-transcript__fragment' data-time='201549' id='t-201549'>and then using that DNA sequencing to tell us about</span>
+<span class='talk-transcript__fragment' data-time='204169' id='t-204169'>the microbes that are in a particular place.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='206335' id='t-206335'>And what's amazing, when you use this technology,</span>
+<span class='talk-transcript__fragment' data-time='209198' id='t-209198'>for example, looking at humans, we're not just covered</span>
+<span class='talk-transcript__fragment' data-time='212358' id='t-212358'>in a sea of microbes.</span>
+<span class='talk-transcript__fragment' data-time='213494' id='t-213494'>There are thousands upon thousands of different kinds of microbes on us.</span>
+<span class='talk-transcript__fragment' data-time='218605' id='t-218605'>We have millions of genes of microbes in our human</span>
+<span class='talk-transcript__fragment' data-time='223958' id='t-223958'>microbiome covering us.</span>
+<span class='talk-transcript__fragment' data-time='225605' id='t-225605'>And so this microbial diversity differs between people,</span>
+<span class='talk-transcript__fragment' data-time='229110' id='t-229110'>and what people have been thinking about in the last 10,</span>
+<span class='talk-transcript__fragment' data-time='232246' id='t-232246'>maybe 15 years is, maybe these microbes,</span>
+<span class='talk-transcript__fragment' data-time='235366' id='t-235366'>this microbial cloud in and on us,</span>
+<span class='talk-transcript__fragment' data-time='237414' id='t-237414'>and the variation between us, may be responsible</span>
+<span class='talk-transcript__fragment' data-time='241294' id='t-241294'>for some of the health and illness differences between us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='244864' id='t-244864'>And that comes back to the diabetes story I was telling you.</span>
+<span class='talk-transcript__fragment' data-time='247987' id='t-247987'>It turns out that people now think that one of the triggers</span>
+<span class='talk-transcript__fragment' data-time='251393' id='t-251393'>for type 1 diabetes is not fighting a pathogen,</span>
+<span class='talk-transcript__fragment' data-time='253774' id='t-253774'>but is in fact trying to -- miscommunicating with the microbes</span>
+<span class='talk-transcript__fragment' data-time='258165' id='t-258165'>that live in and on you.</span>
+<span class='talk-transcript__fragment' data-time='259662' id='t-259662'>And somehow maybe the microbial community that's</span>
+<span class='talk-transcript__fragment' data-time='262366' id='t-262366'>in and on me got off, and then this triggered some sort</span>
+<span class='talk-transcript__fragment' data-time='266399' id='t-266399'>of immune response and led to me killing the cells</span>
+<span class='talk-transcript__fragment' data-time='268638' id='t-268638'>that make insulin in my body.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='270859' id='t-270859'>And so what I want to tell you about for a few minutes is,</span>
+<span class='talk-transcript__fragment' data-time='273955' id='t-273955'>what people have learned using DNA sequencing techniques</span>
+<span class='talk-transcript__fragment' data-time='277747' id='t-277747'>in particular, to study the microbial cloud</span>
+<span class='talk-transcript__fragment' data-time='281406' id='t-281406'>that lives in and on us.</span>
+<span class='talk-transcript__fragment' data-time='282980' id='t-282980'>And I want to tell you a story about a personal project.</span>
+<span class='talk-transcript__fragment' data-time='285444' id='t-285444'>My first personal experience with studying the microbes</span>
+<span class='talk-transcript__fragment' data-time='288238' id='t-288238'>on the human body actually came from a talk that I gave,</span>
+<span class='talk-transcript__fragment' data-time='292388' id='t-292388'>right around the corner from here at Georgetown.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='294188' id='t-294188'>I gave a talk, and a family friend who happened to be</span>
+<span class='talk-transcript__fragment' data-time='297205' id='t-297205'>the Dean of Georgetown Medical School was at the talk,</span>
+<span class='talk-transcript__fragment' data-time='299748' id='t-299748'>and came up to me afterwards saying, they were doing</span>
+<span class='talk-transcript__fragment' data-time='302238' id='t-302238'>a study of ileal transplants in people.</span>
+<span class='talk-transcript__fragment' data-time='305588' id='t-305588'>And they wanted to look at the microbes after the transplants.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='309564' id='t-309564'>And so I started a collaboration with this person,</span>
+<span class='talk-transcript__fragment' data-time='312628' id='t-312628'>Michael Zasloff and Thomas Fishbein, to look at the microbes</span>
+<span class='talk-transcript__fragment' data-time='315901' id='t-315901'>that colonized these ilea after they were transplanted into a recipient.</span>
+<span class='talk-transcript__fragment' data-time='320374' id='t-320374'>And I can tell you all the details about the microbial study</span>
+<span class='talk-transcript__fragment' data-time='323516' id='t-323516'>that we did there, but the reason I want to tell you this story</span>
+<span class='talk-transcript__fragment' data-time='325766' id='t-325766'>is something really striking that they did at the beginning</span>
+<span class='talk-transcript__fragment' data-time='328990' id='t-328990'>of this project.</span>
+<span class='talk-transcript__fragment' data-time='330013' id='t-330013'>They take the donor ileum, which is filled with microbes from a donor</span>
+<span class='talk-transcript__fragment' data-time='334378' id='t-334378'>and they have a recipient who might have a problem</span>
+<span class='talk-transcript__fragment' data-time='336661' id='t-336661'>with their microbial community, say Crohn's disease,</span>
+<span class='talk-transcript__fragment' data-time='339286' id='t-339286'>and they sterilized the donor ileum.</span>
+<span class='talk-transcript__fragment' data-time='342846' id='t-342846'>Cleaned out all the microbes, and then put it in the recipient.</span>
+<span class='talk-transcript__fragment' data-time='347141' id='t-347141'>They did this because this was common practice</span>
+<span class='talk-transcript__fragment' data-time='349805' id='t-349805'>in medicine, even though it was obvious</span>
+<span class='talk-transcript__fragment' data-time='352934' id='t-352934'>that this was not a good idea.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='355072' id='t-355072'>And fortunately, in the course of this project,</span>
+<span class='talk-transcript__fragment' data-time='358077' id='t-358077'>the transplant surgeons and the other people</span>
+<span class='talk-transcript__fragment' data-time='360640' id='t-360640'>decided, forget common practice. We have to switch.</span>
+<span class='talk-transcript__fragment' data-time='365061' id='t-365061'>So they actually switched to leaving some of the microbial</span>
+<span class='talk-transcript__fragment' data-time='369206' id='t-369206'>community in the ileum. They leave the microbes with the donor,</span>
+<span class='talk-transcript__fragment' data-time='373206' id='t-373206'>and theoretically that might help the people who are</span>
+<span class='talk-transcript__fragment' data-time='376782' id='t-376782'>receiving this ileal transplant.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='378871' id='t-378871'>And so, people -- this is a study that I did now.</span>
+<span class='talk-transcript__fragment' data-time='382173' id='t-382173'>In the last few years there's been a great expansion</span>
+<span class='talk-transcript__fragment' data-time='384478' id='t-384478'>in using DNA technology to study the microbes in and on people.</span>
+<span class='talk-transcript__fragment' data-time='388656' id='t-388656'>There's something called the Human Microbiome Project</span>
+<span class='talk-transcript__fragment' data-time='390464' id='t-390464'>that's going on in the United States,</span>
+<span class='talk-transcript__fragment' data-time='392320' id='t-392320'>and MetaHIT going on in Europe, and a lot of other projects.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='394854' id='t-394854'>And when people have done a variety of studies,</span>
+<span class='talk-transcript__fragment' data-time='398043' id='t-398043'>they have learned things such as, when a baby is</span>
+<span class='talk-transcript__fragment' data-time='401675' id='t-401675'>born, during vaginal delivery you get colonized by the</span>
+<span class='talk-transcript__fragment' data-time='404659' id='t-404659'>microbes from your mother.</span>
+<span class='talk-transcript__fragment' data-time='405851' id='t-405851'>There are risk factors associated with cesarean sections,</span>
+<span class='talk-transcript__fragment' data-time='408907' id='t-408907'>some of those risk factors may be due to mis-colonization</span>
+<span class='talk-transcript__fragment' data-time='412938' id='t-412938'>when you carve a baby out of its mother</span>
+<span class='talk-transcript__fragment' data-time='415330' id='t-415330'>rather than being delivered through the birth canal.</span>
+<span class='talk-transcript__fragment' data-time='418155' id='t-418155'>And a variety of other studies have shown that the</span>
+<span class='talk-transcript__fragment' data-time='421604' id='t-421604'>microbial community that lives in and on us</span>
+<span class='talk-transcript__fragment' data-time='423411' id='t-423411'>helps in development of the immune system,</span>
+<span class='talk-transcript__fragment' data-time='425674' id='t-425674'>helps in fighting off pathogens, helps in our metabolism,</span>
+<span class='talk-transcript__fragment' data-time='430619' id='t-430619'>and determining our metabolic rate, probably</span>
+<span class='talk-transcript__fragment' data-time='433699' id='t-433699'>determines our odor, and may even shape our behavior</span>
+<span class='talk-transcript__fragment' data-time='436874' id='t-436874'>in a variety of ways.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='438810' id='t-438810'>And so, these studies have documented or suggested</span>
+<span class='talk-transcript__fragment' data-time='441866' id='t-441866'>out of a variety of important functions for the microbial community,</span>
+<span class='talk-transcript__fragment' data-time='446153' id='t-446153'>this cloud, the non-pathogens that live in and on us.</span>
+<span class='talk-transcript__fragment' data-time='450690' id='t-450690'>And one area that I think is very interesting,</span>
+<span class='talk-transcript__fragment' data-time='454274' id='t-454274'>which many of you may have now that we've thrown</span>
+<span class='talk-transcript__fragment' data-time='456940' id='t-456940'>microbes into the crowd, is something that I would call &quot;germophobia.&quot;</span>
+<span class='talk-transcript__fragment' data-time='460870' id='t-460870'>So people are really into cleanliness, right?</span>
+<span class='talk-transcript__fragment' data-time='463829' id='t-463829'>We have antibiotics in our kitchen counters,</span>
+<span class='talk-transcript__fragment' data-time='465808' id='t-465808'>people are washing every part of them all of the time,</span>
+<span class='talk-transcript__fragment' data-time='468904' id='t-468904'>we pump antibiotics into our food, into our communities,</span>
+<span class='talk-transcript__fragment' data-time='473930' id='t-473930'>we take antibiotics excessively.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='476371' id='t-476371'>And killing pathogens is a good thing if you're sick,</span>
+<span class='talk-transcript__fragment' data-time='480210' id='t-480210'>but we should understand that when we pump chemicals</span>
+<span class='talk-transcript__fragment' data-time='483474' id='t-483474'>and antibiotics into our world, that we're also killing</span>
+<span class='talk-transcript__fragment' data-time='486371' id='t-486371'>the cloud of microbes that live in and on us.</span>
+<span class='talk-transcript__fragment' data-time='488666' id='t-488666'>And excessive use of antibiotics, in particular in children,</span>
+<span class='talk-transcript__fragment' data-time='491666' id='t-491666'>has been shown to be associated with, again, risk factors</span>
+<span class='talk-transcript__fragment' data-time='494895' id='t-494895'>for obesity, for autoimmune diseases, for a variety</span>
+<span class='talk-transcript__fragment' data-time='499151' id='t-499151'>of problems that are probably due to disruption</span>
+<span class='talk-transcript__fragment' data-time='501055' id='t-501055'>of the microbial community.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='504159' id='t-504159'>So the microbial community can go wrong</span>
+<span class='talk-transcript__fragment' data-time='507511' id='t-507511'>whether we want it to or not,</span>
+<span class='talk-transcript__fragment' data-time='509223' id='t-509223'>or we can kill it with antibiotics,</span>
+<span class='talk-transcript__fragment' data-time='511471' id='t-511471'>but what can we do to restore it?</span>
+<span class='talk-transcript__fragment' data-time='513567' id='t-513567'>I'm sure many people here have heard about probiotics.</span>
+<span class='talk-transcript__fragment' data-time='516679' id='t-516679'>Probiotics are one thing that you can try and do to restore</span>
+<span class='talk-transcript__fragment' data-time='519687' id='t-519687'>the microbial community that is in and on you.</span>
+<span class='talk-transcript__fragment' data-time='522111' id='t-522111'>And they definitely have been shown to be effective in some cases.</span>
+<span class='talk-transcript__fragment' data-time='525583' id='t-525583'>There's a project going on at UC Davis where people are using</span>
+<span class='talk-transcript__fragment' data-time='528680' id='t-528680'>probiotics to try and treat, prevent,</span>
+<span class='talk-transcript__fragment' data-time='531575' id='t-531575'>necrotizing enterocolitis in premature infants.</span>
+<span class='talk-transcript__fragment' data-time='534087' id='t-534087'>Premature infants have real problems with their microbial community.</span>
+<span class='talk-transcript__fragment' data-time='537495' id='t-537495'>And it may be that probiotics can help prevent</span>
+<span class='talk-transcript__fragment' data-time='540015' id='t-540015'>the development of this horrible necrotizing enterocolitis</span>
+<span class='talk-transcript__fragment' data-time='543151' id='t-543151'>in these premature infants.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='544816' id='t-544816'>But probiotics are sort of a very, very simple solution.</span>
+<span class='talk-transcript__fragment' data-time='548807' id='t-548807'>Most of the pills that you can take or the yogurts that you can eat</span>
+<span class='talk-transcript__fragment' data-time='552162' id='t-552162'>have one or two species in them, maybe five species in them,</span>
+<span class='talk-transcript__fragment' data-time='556949' id='t-556949'>and the human community is thousands upon thousands of species.</span>
+<span class='talk-transcript__fragment' data-time='560615' id='t-560615'>So what can we do to restore our microbial community</span>
+<span class='talk-transcript__fragment' data-time='564543' id='t-564543'>when we have thousands and thousands of species on us?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='567742' id='t-567742'>Well, one thing that animals seem to do is,</span>
+<span class='talk-transcript__fragment' data-time='570448' id='t-570448'>they eat poo -- coprophagia.</span>
+<span class='talk-transcript__fragment' data-time='574462' id='t-574462'>And it turns out that many veterinarians,</span>
+<span class='talk-transcript__fragment' data-time='579071' id='t-579071'>old school veterinarians in particular,</span>
+<span class='talk-transcript__fragment' data-time='581080' id='t-581080'>have been doing something called &quot;poo tea,&quot;</span>
+<span class='talk-transcript__fragment' data-time='583796' id='t-583796'>not booty, but poo tea, to treat colic and other</span>
+<span class='talk-transcript__fragment' data-time='589601' id='t-589601'>ailments in horses and cows and things like that,</span>
+<span class='talk-transcript__fragment' data-time='593224' id='t-593224'>where you make tea from the poo from a healthy</span>
+<span class='talk-transcript__fragment' data-time='597172' id='t-597172'>individual animal and you feed it to a sick animal.</span>
+<span class='talk-transcript__fragment' data-time='600321' id='t-600321'>Although, unless you have a fistulated cow with a big hole in its side,</span>
+<span class='talk-transcript__fragment' data-time='604761' id='t-604761'>and you can put your hand into its rumen,</span>
+<span class='talk-transcript__fragment' data-time='607300' id='t-607300'>it's hard to imagine that the delivery of microbes</span>
+<span class='talk-transcript__fragment' data-time='610708' id='t-610708'>directly into the mouth and through the entire</span>
+<span class='talk-transcript__fragment' data-time='613637' id='t-613637'>top of the digestive tract is the best delivery system,</span>
+<span class='talk-transcript__fragment' data-time='617285' id='t-617285'>so you may have heard in people they are now doing</span>
+<span class='talk-transcript__fragment' data-time='621405' id='t-621405'>fecal transplants, where rather than delivering</span>
+<span class='talk-transcript__fragment' data-time='626055' id='t-626055'>a couple of probiotic microbes through the mouth,</span>
+<span class='talk-transcript__fragment' data-time='628487' id='t-628487'>they are delivering a community of probiotics,</span>
+<span class='talk-transcript__fragment' data-time='631940' id='t-631940'>a community of microbes from a healthy donor,</span>
+<span class='talk-transcript__fragment' data-time='634420' id='t-634420'>through the other end.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='636557' id='t-636557'>And this has turned out to be very effective in fighting</span>
+<span class='talk-transcript__fragment' data-time='639887' id='t-639887'>certain intransigent infectious diseases</span>
+<span class='talk-transcript__fragment' data-time='642253' id='t-642253'>like Clostridium difficile infections that can stay</span>
+<span class='talk-transcript__fragment' data-time='646092' id='t-646092'>with people for years and years and years.</span>
+<span class='talk-transcript__fragment' data-time='648189' id='t-648189'>Transplants of the feces, of the microbes from the feces,</span>
+<span class='talk-transcript__fragment' data-time='653052' id='t-653052'>from a healthy donor has actually been shown to cure</span>
+<span class='talk-transcript__fragment' data-time='655917' id='t-655917'>systemic C. dif infections in some people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='658778' id='t-658778'>Now what these transplants, these fecal transplants, or</span>
+<span class='talk-transcript__fragment' data-time='664620' id='t-664620'>the poo tea suggest to me, and many other people</span>
+<span class='talk-transcript__fragment' data-time='669079' id='t-669079'>have come up with this same idea, is that</span>
+<span class='talk-transcript__fragment' data-time='670823' id='t-670823'>the microbial community in and on us, it's an organ.</span>
+<span class='talk-transcript__fragment' data-time='674711' id='t-674711'>We should view it as a functioning organ, part of ourselves.</span>
+<span class='talk-transcript__fragment' data-time='679718' id='t-679718'>We should treat it carefully and with respect,</span>
+<span class='talk-transcript__fragment' data-time='683709' id='t-683709'>and we do not want to mess with it, say by C-sections</span>
+<span class='talk-transcript__fragment' data-time='687689' id='t-687689'>or by antibiotics or excessive cleanliness,</span>
+<span class='talk-transcript__fragment' data-time='692597' id='t-692597'>without some real good justification.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='695814' id='t-695814'>And what the DNA sequencing technologies are allowing people to do now</span>
+<span class='talk-transcript__fragment' data-time='699454' id='t-699454'>is do detailed studies of, say, 100 patients who have Crohn's disease</span>
+<span class='talk-transcript__fragment' data-time='706406' id='t-706406'>and 100 people who don't have Crohn's disease.</span>
+<span class='talk-transcript__fragment' data-time='708941' id='t-708941'>Or 100 people who took antibiotics when they were little,</span>
+<span class='talk-transcript__fragment' data-time='712774' id='t-712774'>and 100 people who did not take antibiotics.</span>
+<span class='talk-transcript__fragment' data-time='715198' id='t-715198'>And we can now start to compare the community of microbes</span>
+<span class='talk-transcript__fragment' data-time='719278' id='t-719278'>and their genes and see if there are differences.</span>
+<span class='talk-transcript__fragment' data-time='722581' id='t-722581'>And eventually we may be able to understand if they're not</span>
+<span class='talk-transcript__fragment' data-time='725983' id='t-725983'>just correlative differences, but causative.</span>
+<span class='talk-transcript__fragment' data-time='728607' id='t-728607'>Studies in model systems like mouse and other animals</span>
+<span class='talk-transcript__fragment' data-time='732077' id='t-732077'>are also helping do this, but people are now using</span>
+<span class='talk-transcript__fragment' data-time='735286' id='t-735286'>these technologies because they've gotten very cheap,</span>
+<span class='talk-transcript__fragment' data-time='737590' id='t-737590'>to study the microbes in and on a variety of people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='741504' id='t-741504'>So, in wrapping up, what I want to tell you about is,</span>
+<span class='talk-transcript__fragment' data-time='746094' id='t-746094'>I didn't tell you a part of the story of coming down with diabetes.</span>
+<span class='talk-transcript__fragment' data-time='749301' id='t-749301'>It turns out that my father was an M.D.,</span>
+<span class='talk-transcript__fragment' data-time='752065' id='t-752065'>actually studied hormones. I told him many times</span>
+<span class='talk-transcript__fragment' data-time='756537' id='t-756537'>that I was tired, thirsty, not feeling very good.</span>
+<span class='talk-transcript__fragment' data-time='761327' id='t-761327'>And he shrugged it off, I think he either thought</span>
+<span class='talk-transcript__fragment' data-time='764206' id='t-764206'>I was just complaining a lot, or it was the typical</span>
+<span class='talk-transcript__fragment' data-time='767485' id='t-767485'>M.D. &quot;nothing can be wrong with my children.&quot;</span>
+<span class='talk-transcript__fragment' data-time='770104' id='t-770104'>We even went to the International Society of Endocrinology</span>
+<span class='talk-transcript__fragment' data-time='773325' id='t-773325'>meeting as family in Quebec.</span>
+<span class='talk-transcript__fragment' data-time='775455' id='t-775455'>And I was getting up every five minutes to pee,</span>
+<span class='talk-transcript__fragment' data-time='780949' id='t-780949'>and drinking everybody's water at the table,</span>
+<span class='talk-transcript__fragment' data-time='783384' id='t-783384'>and I think they all thought I was a druggie.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='786318' id='t-786318'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='788038' id='t-788038'>But the reason I'm telling you this is that</span>
+<span class='talk-transcript__fragment' data-time='790014' id='t-790014'>the medical community, my father as an example,</span>
+<span class='talk-transcript__fragment' data-time='793014' id='t-793014'>sometimes doesn't see what's right in front of their eyes.</span>
+<span class='talk-transcript__fragment' data-time='796581' id='t-796581'>The microbial cloud, it is right in front of us.</span>
+<span class='talk-transcript__fragment' data-time='800566' id='t-800566'>We can't see it most of the time. It's invisible.</span>
+<span class='talk-transcript__fragment' data-time='803366' id='t-803366'>They're microbes. They're tiny.</span>
+<span class='talk-transcript__fragment' data-time='804837' id='t-804837'>But we can see them through their DNA,</span>
+<span class='talk-transcript__fragment' data-time='807789' id='t-807789'>we can see them through the effects that they have on people.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='811038' id='t-811038'>And what we need now</span>
+<span class='talk-transcript__fragment' data-time='812656' id='t-812656'>is to start thinking about this microbial community in the context</span>
+<span class='talk-transcript__fragment' data-time='816325' id='t-816325'>of everything in human medicine.</span>
+<span class='talk-transcript__fragment' data-time='818838' id='t-818838'>It doesn't mean that it affects every part of us,</span>
+<span class='talk-transcript__fragment' data-time='821905' id='t-821905'>but it might.</span>
+<span class='talk-transcript__fragment' data-time='823304' id='t-823304'>What we need is a full field guide to the microbes</span>
+<span class='talk-transcript__fragment' data-time='827229' id='t-827229'>that live in and on people, so that we can understand</span>
+<span class='talk-transcript__fragment' data-time='830622' id='t-830622'>what they're doing to our lives.</span>
+<span class='talk-transcript__fragment' data-time='833894' id='t-833894'>We are them. They are us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='836965' id='t-836965'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='838293' id='t-838293'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

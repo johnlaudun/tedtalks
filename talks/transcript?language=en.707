@@ -1,0 +1,1162 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>John Delaney: Wiring an interactive ocean | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="John Delaney: Wiring an interactive ocean | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Oceanographer John Delaney is leading the team that is building an underwater network of high-def cameras and sensors that will turn our ocean into a global interactive lab -- sparking an explosion of rich data about the world below." name="description" />
+<meta content="John Delaney" name="author" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;Wiring an interactive ocean&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187176_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187176_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Oceanographer John Delaney is leading the team that is building an underwater network of high-def cameras and sensors that will turn our ocean into a global interactive lab -- sparking an explosion of rich data about the world below." property="og:description" />
+<meta content="http://www.ted.com/talks/john_delaney_wiring_an_interactive_ocean/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/926?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='john_delaney_wiring_an_interactive_ocean'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/926?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1250" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187176_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">20:50</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>John Delaney</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/926?language=en' lang='en'>
+Wiring an interactive ocean
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jul 2010
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1000' id='t-1000'>For a moment, what I need to do</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>is project something on the screen of your imagination.</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>We're in 17th century Japan</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>on the west coast,</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>and a little, wizened monk</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>is hurrying along, near midnight,</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>to the crest of a small hill.</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>He arrives on the small hill,</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>dripping with water.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>He stands there,</span>
+<span class='talk-transcript__fragment' data-time='28000' id='t-28000'>and he looks across at the island, Sado.</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>And he scans across the ocean, and he looks at the sky.</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>Then he says to himself, very quietly,</span>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>&quot;[Turbulent the sea,]</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>[Stretching across to Sado]</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>[The Milky Way].&quot;</span>
+<span class='talk-transcript__fragment' data-time='49000' id='t-49000'>Basho was a brilliant man.</span>
+<span class='talk-transcript__fragment' data-time='53000' id='t-53000'>He said more with less</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>than any human</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>that I have ever read or talked to.</span>
+<span class='talk-transcript__fragment' data-time='61000' id='t-61000'>Basho, in 17 syllables,</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>juxtaposed</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>a turbulent ocean</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>driven by a storm now past,</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>and captured the almost</span>
+<span class='talk-transcript__fragment' data-time='76000' id='t-76000'>impossible beauty</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>of our home galaxy</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>with millions of stars,</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>probably hundreds and hundreds of -- who knows how many -- planets,</span>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>maybe even an ocean</span>
+<span class='talk-transcript__fragment' data-time='91000' id='t-91000'>that we will probably call Sylvia in time.</span>
+<span class='talk-transcript__fragment' data-time='97000' id='t-97000'>As he was nearing his death,</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>his disciples and followers</span>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>kept asking him,</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>&quot;What's the secret?</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>How can you</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>make haiku poems so beautiful so easily?&quot;</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>And toward the end, he said,</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>&quot;If you would know the pine tree,</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>go to the pine tree.&quot;</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>That was it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>Sylvia has said we must use</span>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>every capacity we have</span>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>in order to know the oceans.</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>If we would know the oceans,</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>we must go to the oceans.</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>And what I'd like to talk to you today about, a little bit,</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>is really transforming</span>
+<span class='talk-transcript__fragment' data-time='147000' id='t-147000'>the relationship, or the interplay,</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>between humans and oceans</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>with a new capability</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>that is not at all routine yet.</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>I hope it will be.</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>There are a few key points.</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>One of them is the oceans are central</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>to the quality of life on earth.</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>Another is that there are bold, new ways</span>
+<span class='talk-transcript__fragment' data-time='171000' id='t-171000'>of studying oceans</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>that we have not used well yet.</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>And the last is that these bold, new ways</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>that we are exploring</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>as a community</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>will transform the way we look at our planet, our oceans,</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>and eventually how we manage</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>probably the entire planet, for what it's worth.</span>
+<span class='talk-transcript__fragment' data-time='192000' id='t-192000'>So what scientists do when they begin</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>is to start with the system.</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>They define what the system is.</span>
+<span class='talk-transcript__fragment' data-time='198000' id='t-198000'>The system isn't Chesapeake Bay.</span>
+<span class='talk-transcript__fragment' data-time='200000' id='t-200000'>It's not the Kuril arc. It's not even the entire Pacific.</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>It's the whole planet,</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>the entire planet, continents and oceans together.</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>That's the system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>And basically, our challenge</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>is to optimize the benefits</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>and mitigate the risks</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>of living on a planet that's driven by only two processes,</span>
+<span class='talk-transcript__fragment' data-time='220000' id='t-220000'>two sources of energy,</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>one of which is solar,</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>that drives the winds, the waves,</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>the clouds, the storms and photosynthesis.</span>
+<span class='talk-transcript__fragment' data-time='229000' id='t-229000'>The second one is internal energy.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>And these two war against one another</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>almost continuously.</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>Mountain ranges, plate tectonics,</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>moves the continents around, forms ore deposits.</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>Volcanoes erupt.</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>That's the planet that we live on.</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>It's immensely complex.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>Now I don't expect all of you to see all the details here,</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>but what I want you to see is</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>this is about 10 percent</span>
+<span class='talk-transcript__fragment' data-time='253000' id='t-253000'>of the processes that operate within</span>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>the oceans almost continuously,</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>and have for the last 4 billion years.</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>This is a system that's been around a very long time.</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>And these have all co-evolved.</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>What do I mean by that?</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>They interact with one another constantly.</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>All of them interact with one another.</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>So the complexity of this system that we're looking at,</span>
+<span class='talk-transcript__fragment' data-time='276000' id='t-276000'>the one driven by the sun --</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>upper portion, mostly --</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>and the lower portion is partly driven</span>
+<span class='talk-transcript__fragment' data-time='282000' id='t-282000'>by the input from heat below</span>
+<span class='talk-transcript__fragment' data-time='284000' id='t-284000'>and by other processes.</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>This is very, very important</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>because this is the system, this is the crucible,</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>out of which life on the planet came,</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>and it's now time for us to understand it.</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>We must understand it.</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>That's one of the themes that Sylvia reminds us about:</span>
+<span class='talk-transcript__fragment' data-time='301000' id='t-301000'>understand this ocean of ours,</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>this basic life support system,</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>the dominant life support system on the planet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>Look at this complexity here.</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>This is only one variable.</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>If you can see the complexity,</span>
+<span class='talk-transcript__fragment' data-time='317000' id='t-317000'>you can see how</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>tiny, little eddies</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>and large eddies and the motion --</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>this is just sea surface temperature,</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>but it's immensely complicated.</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>Now a layer in,</span>
+<span class='talk-transcript__fragment' data-time='330000' id='t-330000'>the other two or three hundred processes</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>that are all interacting,</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>partly as a function of temperature, partly as a function of all the other factors,</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>and you've got a really complicated system.</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>That's our challenge, is to understand,</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>understand this system in new and phenomenal ways.</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>And there's an urgency to this.</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>Part of the urgency comes from the fact</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>that, of order, a billion people on the planet currently</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>are undernourished or starving.</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>And part of the issue</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>is for Cody --</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>who's here,</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>16 years old --</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>and I have permission to relay this number.</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>When he, 40 years from now,</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>is the age of Nancy Brown,</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>there are going to be</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>another two and a half billion people on the planet.</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>We can't solve all the problems</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>by looking only at the oceans,</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>but if we don't understand</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>the fundamental life support system of this planet</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>much more thoroughly than we do now,</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>then the stresses that we will face,</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>and that Cody will face,</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>and even Nancy, who's going to live till she's 98,</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>will have really problems coping.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>All right, let's talk about another perspective</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>on the importance of the oceans.</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>Look at this diagram, which is showing</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>warm waters in red,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>cool waters in blue,</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>and on the continents, what you're seeing in bright green,</span>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>is the growth of vegetation,</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>and in olive green, the dieback of vegetation.</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>And in the lower left hand corner there's a clock ticking away</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>from 1982 to 1998</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>and then cycling again.</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>What you'll see is that the rhythms</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>of growth, of vegetation --</span>
+<span class='talk-transcript__fragment' data-time='435000' id='t-435000'>a subset of which is food on the continents --</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>is directly tied to the rhythms</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>of the sea surface temperatures.</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>The oceans control,</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>or at least significantly influence,</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>correlate with,</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>the growth patterns and the drought patterns</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>and the rain patterns on the continents.</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>So people in Kansas, in a wheat field in Kansas,</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>need to understand that the oceans</span>
+<span class='talk-transcript__fragment' data-time='458000' id='t-458000'>are central to them as well.</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>Another complexity: this is the age of the oceans.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>I'm going to layer in on top of this</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>the tectonic plates.</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>The age of the ocean, the tectonic plates,</span>
+<span class='talk-transcript__fragment' data-time='471000' id='t-471000'>gives rise to a totally new phenomenon</span>
+<span class='talk-transcript__fragment' data-time='473000' id='t-473000'>that we have heard about</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>in this conference.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='477000' id='t-477000'>And I share with you some very high-definition video</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>that we collected in real time.</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>Seconds after this video was taken,</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>people in Beijing,</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>people in Sydney, people in Amsterdam,</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>people in Washington D.C. were watching this.</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>Now you've heard of hydrothermal vents,</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>but the other discovery</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>is that deep below the sea floor,</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>there is vast reservoir of microbial activity,</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>which we have only just discovered</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>and we have almost no way to study.</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>Some people have estimated</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>that the biomass</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>tied up in these microbes</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>living in the pours and the cracks</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>of the sea floor and below</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>rival the total amount of living biomass</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>at the surface of the planet.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>It's an astonishing insight,</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>and we have only found out about this recently.</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>This is very, very exciting.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>It may be the next rainforest,</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>in terms of pharmaceuticals.</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>We know little or nothing about it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>Well, Marcel Proust has this wonderful saying</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>that, &quot;The real voyage of discovery</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>consists not so much in seeking new territory,</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>but possibly in having new sets of eyes,&quot;</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>new ways of seeing things,</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>a new mindset.</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>And many of you remember</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>the early stages of oceanography,</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>when we had to use what we had at our fingertips.</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>And it wasn't easy. It wasn't easy in those days.</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>Some of you remember this, I'm sure.</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>And now, we have an entire suite of tools</span>
+<span class='talk-transcript__fragment' data-time='572000' id='t-572000'>that are really pretty powerful --</span>
+<span class='talk-transcript__fragment' data-time='574000' id='t-574000'>ships, satellites, moorings.</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>But they don't quite cut it. They don't quite give us what we need.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>And the program that I wanted to talk to you about</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>just a little bit here,</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>was funded, and it involves autonomous vehicles</span>
+<span class='talk-transcript__fragment' data-time='588000' id='t-588000'>like the one running across the base of this image.</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>Modeling: on the right hand side,</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>there's a very complex computational model.</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>On the left hand side, there's a new type of mooring,</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>which I'll show you in just a second.</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>And on the basis</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>of several points,</span>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>the oceans are complex, and they're central to the life on earth.</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>They are changing rapidly, but not predictably.</span>
+<span class='talk-transcript__fragment' data-time='611000' id='t-611000'>And the models that we need to predict the future</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>do not have enough data to refine them.</span>
+<span class='talk-transcript__fragment' data-time='615000' id='t-615000'>The computational power</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>is amazing.</span>
+<span class='talk-transcript__fragment' data-time='619000' id='t-619000'>But without data, those models</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>will never ever be predicted.</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>And that's what we really need.</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>For a variety of reasons they're dangerous,</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>but we feel that OOI,</span>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>this Ocean Observatory Initiative,</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>which the National Science Foundation</span>
+<span class='talk-transcript__fragment' data-time='633000' id='t-633000'>has begun to fund,</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>has the potential to really transform things.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>And the goal of the program is to</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>launch an era of scientific discovery</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>and understanding</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>across and within the ocean basins,</span>
+<span class='talk-transcript__fragment' data-time='645000' id='t-645000'>utilizing widely accessible,</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>interactive telepresence.</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>It's a new world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>We will be present throughout</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>the volume of the ocean, at will,</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>communicating in real time.</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>And this is what the system involves,</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>a number of sites in the southern hemisphere,</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>shown in those circles.</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>And in the northern hemisphere there are four sites.</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>I won't talk a lot about most of them right here,</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>but the one on the west coast, that's in the box,</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>is called the regional scale nodes.</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>It was once called Neptune.</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>And let me show you what's behind it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>Fiber: next-generation way of communicating.</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>You can see the copper tips on these things.</span>
+<span class='talk-transcript__fragment' data-time='688000' id='t-688000'>You can transmit power,</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>but the bandwidth is in those tiny, little threads</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>smaller than the hair on your head in diameter.</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>And this particular set here</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>can transmit something of the order of</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>three to five terabits per second.</span>
+<span class='talk-transcript__fragment' data-time='704000' id='t-704000'>This is phenomenal bandwidth.</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>And this is what the planet looks like.</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>We are already laced up</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>as if we're in a fiber optic corset, if you like.</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>This is what it looks like.</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>And the cables go really continent to continent.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>It's a very powerful system,</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>and most of our communications consist of it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>So this is the system that I'm talking about,</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>off the west coast. It's coincident with the tectonic plate,</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>the Juan de Fuca tectonic plate.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>And it's going to deliver abundant power</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>and unprecedented bandwidth</span>
+<span class='talk-transcript__fragment' data-time='733000' id='t-733000'>across this entire volume --</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>in the overlying ocean,</span>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>on the sea floor and below the sea floor.</span>
+<span class='talk-transcript__fragment' data-time='739000' id='t-739000'>Bandwidth and power</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>and a wide variety of processes</span>
+<span class='talk-transcript__fragment' data-time='743000' id='t-743000'>that will be operating.</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>This is what one of those primary nodes looks like,</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>and it's like a sub station with power and bandwidth</span>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>that can spread out over an area the size of Seattle.</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>And the kind of science that can be done</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>will be determined by a variety of scientists who want to be involved</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>and can bring the instrumentation to the table.</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>They will bring it and link it in.</span>
+<span class='talk-transcript__fragment' data-time='764000' id='t-764000'>It'll be, in a sense, like having time on a telescope,</span>
+<span class='talk-transcript__fragment' data-time='767000' id='t-767000'>except you'll have your own port.</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>Climate change, ocean acidification,</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>dissolved oxygen,</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>carbon cycle, coastal upwelling,</span>
+<span class='talk-transcript__fragment' data-time='776000' id='t-776000'>fishing dynamics --</span>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>the full spectrum of</span>
+<span class='talk-transcript__fragment' data-time='780000' id='t-780000'>earth science and ocean science</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>simultaneously in the same volume.</span>
+<span class='talk-transcript__fragment' data-time='784000' id='t-784000'>So anyone coming along later</span>
+<span class='talk-transcript__fragment' data-time='786000' id='t-786000'>simply accesses the database</span>
+<span class='talk-transcript__fragment' data-time='789000' id='t-789000'>and can draw down the information they need</span>
+<span class='talk-transcript__fragment' data-time='791000' id='t-791000'>about anything that has taken place.</span>
+<span class='talk-transcript__fragment' data-time='793000' id='t-793000'>And this is just the first of these.</span>
+<span class='talk-transcript__fragment' data-time='796000' id='t-796000'>In conjunction with our Canadian colleagues, we've set this up.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>Now I want to take you into the caldera.</span>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>On the left hand side there</span>
+<span class='talk-transcript__fragment' data-time='803000' id='t-803000'>is a large volcano called Axial Seamount.</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>And we're going to go down into the Axial Seamount</span>
+<span class='talk-transcript__fragment' data-time='808000' id='t-808000'>using animation.</span>
+<span class='talk-transcript__fragment' data-time='810000' id='t-810000'>Here's what this system is going to look like</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>that we are funded to build at this point.</span>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>Very powerful.</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>That's an elevator that's constantly moving up and down,</span>
+<span class='talk-transcript__fragment' data-time='819000' id='t-819000'>but it can be controlled by the folks on land</span>
+<span class='talk-transcript__fragment' data-time='822000' id='t-822000'>who are responsible for it.</span>
+<span class='talk-transcript__fragment' data-time='824000' id='t-824000'>Or they can transfer control</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>to someone in India or China</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>who can take over for a while,</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>because it's all going to be directly connected</span>
+<span class='talk-transcript__fragment' data-time='832000' id='t-832000'>through the Internet.</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>There will be massive amounts of data flowing ashore,</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>all available to anyone who has any interest in using it.</span>
+<span class='talk-transcript__fragment' data-time='840000' id='t-840000'>This is going to be much more powerful</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>than having a single ship</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>in a single location,</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>then move to a new location.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='848000' id='t-848000'>We're flying across the caldera floor.</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>There is a number of robotic systems.</span>
+<span class='talk-transcript__fragment' data-time='854000' id='t-854000'>There's cameras that can be turned on and off at your will,</span>
+<span class='talk-transcript__fragment' data-time='857000' id='t-857000'>if those are your experiments.</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>The kinds of systems that will be down there,</span>
+<span class='talk-transcript__fragment' data-time='861000' id='t-861000'>the kinds of instruments that will be on the sea floor,</span>
+<span class='talk-transcript__fragment' data-time='864000' id='t-864000'>consist of -- if you can read them there --</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>there's cameras, there's pressure sensors,</span>
+<span class='talk-transcript__fragment' data-time='868000' id='t-868000'>fluorometers, there's seismometers.</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>It's a full spectrum of tools.</span>
+<span class='talk-transcript__fragment' data-time='872000' id='t-872000'>Now, that mound right there</span>
+<span class='talk-transcript__fragment' data-time='874000' id='t-874000'>actually looks like this.</span>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>This is what it actually looks like.</span>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>And this is the kind of activity</span>
+<span class='talk-transcript__fragment' data-time='881000' id='t-881000'>that we can see with high-definition video,</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>because the bandwidth of these cables</span>
+<span class='talk-transcript__fragment' data-time='886000' id='t-886000'>is so huge</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>that we could have five to 10</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>stereo HD systems</span>
+<span class='talk-transcript__fragment' data-time='892000' id='t-892000'>running continuously</span>
+<span class='talk-transcript__fragment' data-time='894000' id='t-894000'>and, again, directed through robotic techniques from land.</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>Very, very powerful.</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>And these are the things that we're funded to do today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>So what can we actually do tomorrow?</span>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>We're about to ride the wave</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>of technological opportunity.</span>
+<span class='talk-transcript__fragment' data-time='911000' id='t-911000'>There are emerging technologies throughout</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>the field around oceanography,</span>
+<span class='talk-transcript__fragment' data-time='916000' id='t-916000'>which we will incorporate into oceanography,</span>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>and through that convergence,</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>we will transform oceanography into something even more magical.</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>Robotics systems are just incredible these days,</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>absolutely incredible.</span>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>And we will be bringing robotics of all sorts</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>into the ocean.</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>Nanotechnology: this is a small generator.</span>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>It's smaller than a postage stamp,</span>
+<span class='talk-transcript__fragment' data-time='938000' id='t-938000'>and it can generate power just by being</span>
+<span class='talk-transcript__fragment' data-time='940000' id='t-940000'>attached to your shirt as you move.</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>Just as you move, it generates power.</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>There are many kinds of things that can be used in the ocean, continuously.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>Imaging: Many of you know a good deal more about this type of thing than I,</span>
+<span class='talk-transcript__fragment' data-time='953000' id='t-953000'>but stereo imaging at four times the definition</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>that we have in HD</span>
+<span class='talk-transcript__fragment' data-time='958000' id='t-958000'>will be routine within five years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>And this is the magic one.</span>
+<span class='talk-transcript__fragment' data-time='962000' id='t-962000'>As a result of the human genome process,</span>
+<span class='talk-transcript__fragment' data-time='964000' id='t-964000'>we are in a situation where</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>events that take place in the ocean --</span>
+<span class='talk-transcript__fragment' data-time='969000' id='t-969000'>like an erupting volcano, or something of that sort --</span>
+<span class='talk-transcript__fragment' data-time='971000' id='t-971000'>can actually be sampled.</span>
+<span class='talk-transcript__fragment' data-time='973000' id='t-973000'>We pump the fluid through one of these systems,</span>
+<span class='talk-transcript__fragment' data-time='976000' id='t-976000'>and we press the button,</span>
+<span class='talk-transcript__fragment' data-time='978000' id='t-978000'>and it's analyzed for the genomic character.</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>And that's transmitted back to land immediately.</span>
+<span class='talk-transcript__fragment' data-time='983000' id='t-983000'>So in the volume of the ocean,</span>
+<span class='talk-transcript__fragment' data-time='985000' id='t-985000'>we will know, not just the physics and the chemistry,</span>
+<span class='talk-transcript__fragment' data-time='988000' id='t-988000'>but the base of the food chain</span>
+<span class='talk-transcript__fragment' data-time='990000' id='t-990000'>will be transparent to us</span>
+<span class='talk-transcript__fragment' data-time='992000' id='t-992000'>with data on a continuous basis.</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>Grid computing: the power of grid computers</span>
+<span class='talk-transcript__fragment' data-time='997000' id='t-997000'>is going to be just amazing here.</span>
+<span class='talk-transcript__fragment' data-time='999000' id='t-999000'>We will soon be using grid computing</span>
+<span class='talk-transcript__fragment' data-time='1001000' id='t-1001000'>to do pretty much everything, like adjust the data</span>
+<span class='talk-transcript__fragment' data-time='1004000' id='t-1004000'>and everything</span>
+<span class='talk-transcript__fragment' data-time='1006000' id='t-1006000'>that goes with the data.</span>
+<span class='talk-transcript__fragment' data-time='1008000' id='t-1008000'>The power generation will come from the ocean itself.</span>
+<span class='talk-transcript__fragment' data-time='1011000' id='t-1011000'>And the next generation fiber</span>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>will be simply magic.</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>It's far beyond what we currently have.</span>
+<span class='talk-transcript__fragment' data-time='1018000' id='t-1018000'>So the presence of the power</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>and the bandwidth in the environment</span>
+<span class='talk-transcript__fragment' data-time='1022000' id='t-1022000'>will allow all of these new technologies</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>to converge in a manner that is just unprecedented.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>So within five to seven years,</span>
+<span class='talk-transcript__fragment' data-time='1029000' id='t-1029000'>I see us having</span>
+<span class='talk-transcript__fragment' data-time='1031000' id='t-1031000'>a capacity to be completely present</span>
+<span class='talk-transcript__fragment' data-time='1033000' id='t-1033000'>throughout the ocean</span>
+<span class='talk-transcript__fragment' data-time='1035000' id='t-1035000'>and have all of that connected to the Internet,</span>
+<span class='talk-transcript__fragment' data-time='1037000' id='t-1037000'>so we can reach many, many folks.</span>
+<span class='talk-transcript__fragment' data-time='1040000' id='t-1040000'>Delivering the power and the bandwidth into the ocean</span>
+<span class='talk-transcript__fragment' data-time='1043000' id='t-1043000'>will dramatically accelerate adaptation.</span>
+<span class='talk-transcript__fragment' data-time='1046000' id='t-1046000'>Here's an example.</span>
+<span class='talk-transcript__fragment' data-time='1048000' id='t-1048000'>When earthquakes take place, massive amounts</span>
+<span class='talk-transcript__fragment' data-time='1050000' id='t-1050000'>of these new microbes we've never seen before</span>
+<span class='talk-transcript__fragment' data-time='1052000' id='t-1052000'>come out of the sea floor.</span>
+<span class='talk-transcript__fragment' data-time='1054000' id='t-1054000'>We have a way of addressing that,</span>
+<span class='talk-transcript__fragment' data-time='1056000' id='t-1056000'>a new way of addressing that.</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>We've determined from the earthquake activity that you're seeing here</span>
+<span class='talk-transcript__fragment' data-time='1062000' id='t-1062000'>that the top of that volcano is erupting,</span>
+<span class='talk-transcript__fragment' data-time='1065000' id='t-1065000'>so we deploy the troops.</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>What are the troops? The troops are the autonomous vehicles, of course.</span>
+<span class='talk-transcript__fragment' data-time='1070000' id='t-1070000'>And they fly into the erupting volcano.</span>
+<span class='talk-transcript__fragment' data-time='1073000' id='t-1073000'>They sample the fluids coming out of the sea floor</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>during an eruption,</span>
+<span class='talk-transcript__fragment' data-time='1077000' id='t-1077000'>which have the microbes that have never been</span>
+<span class='talk-transcript__fragment' data-time='1079000' id='t-1079000'>to the surface of the planet before.</span>
+<span class='talk-transcript__fragment' data-time='1081000' id='t-1081000'>They eject it to the surface where it floats,</span>
+<span class='talk-transcript__fragment' data-time='1083000' id='t-1083000'>and it is picked up</span>
+<span class='talk-transcript__fragment' data-time='1085000' id='t-1085000'>by an autonomous airplane,</span>
+<span class='talk-transcript__fragment' data-time='1088000' id='t-1088000'>and it's brought back to the laboratory</span>
+<span class='talk-transcript__fragment' data-time='1091000' id='t-1091000'>within 24 hours of the eruption.</span>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>This is doable. All the pieces are there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>A laboratory: many of you heard what happened</span>
+<span class='talk-transcript__fragment' data-time='1101000' id='t-1101000'>on 9/7.</span>
+<span class='talk-transcript__fragment' data-time='1103000' id='t-1103000'>Some doctors in New York City removed</span>
+<span class='talk-transcript__fragment' data-time='1105000' id='t-1105000'>the gallbladder of a woman in France.</span>
+<span class='talk-transcript__fragment' data-time='1109000' id='t-1109000'>We could do work on the sea floor that would be stunning,</span>
+<span class='talk-transcript__fragment' data-time='1111000' id='t-1111000'>and it would be on live TV,</span>
+<span class='talk-transcript__fragment' data-time='1113000' id='t-1113000'>if we have interesting things to show.</span>
+<span class='talk-transcript__fragment' data-time='1116000' id='t-1116000'>So we can bring an entirely new telepresence</span>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>to the world, throughout the ocean.</span>
+<span class='talk-transcript__fragment' data-time='1122000' id='t-1122000'>This -- I've shown you sea floor --</span>
+<span class='talk-transcript__fragment' data-time='1124000' id='t-1124000'>but so the goal here is real time interaction</span>
+<span class='talk-transcript__fragment' data-time='1126000' id='t-1126000'>with the oceans from anywhere on earth.</span>
+<span class='talk-transcript__fragment' data-time='1131000' id='t-1131000'>It's going to be amazing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1134000' id='t-1134000'>And as I go here,</span>
+<span class='talk-transcript__fragment' data-time='1136000' id='t-1136000'>I just want to show you what we can bring into classrooms,</span>
+<span class='talk-transcript__fragment' data-time='1139000' id='t-1139000'>and indeed, what we can bring into your pocket.</span>
+<span class='talk-transcript__fragment' data-time='1145000' id='t-1145000'>Many of you don't think of this yet,</span>
+<span class='talk-transcript__fragment' data-time='1147000' id='t-1147000'>but the ocean will be in your pocket.</span>
+<span class='talk-transcript__fragment' data-time='1149000' id='t-1149000'>It won't be long. It won't be long.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1153000' id='t-1153000'>So let me leave you then</span>
+<span class='talk-transcript__fragment' data-time='1156000' id='t-1156000'>with a few words</span>
+<span class='talk-transcript__fragment' data-time='1158000' id='t-1158000'>from another poet, if you'll forgive me.</span>
+<span class='talk-transcript__fragment' data-time='1164000' id='t-1164000'>In 1943,</span>
+<span class='talk-transcript__fragment' data-time='1166000' id='t-1166000'>T.S. Eliot wrote the &quot;Four Quartets.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1168000' id='t-1168000'>He won the Nobel Prize for literature</span>
+<span class='talk-transcript__fragment' data-time='1170000' id='t-1170000'>in 1948.</span>
+<span class='talk-transcript__fragment' data-time='1173000' id='t-1173000'>In &quot;Little Gidding&quot; he says --</span>
+<span class='talk-transcript__fragment' data-time='1175000' id='t-1175000'>speaking I think for the human race,</span>
+<span class='talk-transcript__fragment' data-time='1177000' id='t-1177000'>but certainly for the TED Conference and Sylvia --</span>
+<span class='talk-transcript__fragment' data-time='1181000' id='t-1181000'>&quot;We shall not cease from exploration,</span>
+<span class='talk-transcript__fragment' data-time='1184000' id='t-1184000'>and the end of all our exploring</span>
+<span class='talk-transcript__fragment' data-time='1186000' id='t-1186000'>will be to arrive where we started</span>
+<span class='talk-transcript__fragment' data-time='1188000' id='t-1188000'>and know the place for the first time,</span>
+<span class='talk-transcript__fragment' data-time='1191000' id='t-1191000'>arrive through the unknown remembered gate</span>
+<span class='talk-transcript__fragment' data-time='1194000' id='t-1194000'>where the last of earth left to discover</span>
+<span class='talk-transcript__fragment' data-time='1197000' id='t-1197000'>is that which was the beginning.</span>
+<span class='talk-transcript__fragment' data-time='1200000' id='t-1200000'>At the source of the longest river</span>
+<span class='talk-transcript__fragment' data-time='1203000' id='t-1203000'>the voice of a hidden waterfall</span>
+<span class='talk-transcript__fragment' data-time='1206000' id='t-1206000'>not known because not looked for,</span>
+<span class='talk-transcript__fragment' data-time='1210000' id='t-1210000'>but heard, half heard</span>
+<span class='talk-transcript__fragment' data-time='1214000' id='t-1214000'>in the stillness beneath the waves of the sea.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1218000' id='t-1218000'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1220000' id='t-1220000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

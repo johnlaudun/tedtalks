@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Nikolai Begg: A tool to fix one of the most dangerous moments in surgery | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Nikolai Begg: A tool to fix one of the most dangerous moments in surgery | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Surgeons are required every day to puncture human skin before procedures — with the risk of damaging what&#39;s on the other side. In a fascinating talk, find out how mechanical engineer Nikolai Begg is using physics to update an important medical device, called the trocar, and improve one of the most dangerous moments in many common surgeries." name="description" />
+<meta content="Nikolai Begg" name="author" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=lv" hreflang="lv" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=nb" hreflang="nb" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;A tool to fix one of the most dangerous moments in surgery&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/885c7429ef539771f949b2c700bf5bec320570d9_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/885c7429ef539771f949b2c700bf5bec320570d9_2400x1800.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Surgeons are required every day to puncture human skin before procedures — with the risk of damaging what&#39;s on the other side. In a fascinating talk, find out how mechanical engineer Nikolai Begg is using physics to update an important medical device, called the trocar, and improve one of the most dangerous moments in many common surgeries." property="og:description" />
+<meta content="http://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592557,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2046?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lv'>Latvian</option>
+<option value='nb'>Norwegian Bokmal</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1211074">Bob Prottas</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/696800">Ariana Bleau Lugo</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2046?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="561" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/885c7429ef539771f949b2c700bf5bec320570d9_2400x1800.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration"> 9:21</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Nikolai Begg</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2046?language=en' lang='en'>
+A tool to fix one of the most dangerous moments in surgery
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jul 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='879' id='t-879'>The first time I stood
+in the operating room</span>
+<span class='talk-transcript__fragment' data-time='2855' id='t-2855'>and watched a real surgery,</span>
+<span class='talk-transcript__fragment' data-time='4727' id='t-4727'>I had no idea what to expect.</span>
+<span class='talk-transcript__fragment' data-time='7302' id='t-7302'>I was a college student in engineering.</span>
+<span class='talk-transcript__fragment' data-time='9277' id='t-9277'>I thought it was going to be like on TV.</span>
+<span class='talk-transcript__fragment' data-time='11477' id='t-11477'>Ominous music playing in the background,</span>
+<span class='talk-transcript__fragment' data-time='13382' id='t-13382'>beads of sweat pouring down the surgeon's face.</span>
+<span class='talk-transcript__fragment' data-time='16381' id='t-16381'>But it wasn't like that at all.</span>
+<span class='talk-transcript__fragment' data-time='18541' id='t-18541'>There was music playing on this day,</span>
+<span class='talk-transcript__fragment' data-time='20140' id='t-20140'>I think it was Madonna's greatest hits. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='22862' id='t-22862'>And there was plenty of conversation,</span>
+<span class='talk-transcript__fragment' data-time='24989' id='t-24989'>not just about the patient's heart rate,</span>
+<span class='talk-transcript__fragment' data-time='26989' id='t-26989'>but about sports and weekend plans.</span>
+<span class='talk-transcript__fragment' data-time='29762' id='t-29762'>And since then, the more surgeries I watched,</span>
+<span class='talk-transcript__fragment' data-time='31698' id='t-31698'>the more I realized this is how it is.</span>
+<span class='talk-transcript__fragment' data-time='33525' id='t-33525'>In some weird way, it's just
+another day at the office.</span>
+<span class='talk-transcript__fragment' data-time='36278' id='t-36278'>But every so often</span>
+<span class='talk-transcript__fragment' data-time='38183' id='t-38183'>the music gets turned down,</span>
+<span class='talk-transcript__fragment' data-time='40281' id='t-40281'>everyone stops talking,</span>
+<span class='talk-transcript__fragment' data-time='41711' id='t-41711'>and stares at exactly the same thing.</span>
+<span class='talk-transcript__fragment' data-time='44695' id='t-44695'>And that's when you know
+that something absolutely critical</span>
+<span class='talk-transcript__fragment' data-time='46855' id='t-46855'>and dangerous is happening.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='49295' id='t-49295'>The first time I saw that</span>
+<span class='talk-transcript__fragment' data-time='50311' id='t-50311'>I was watching a type of surgery</span>
+<span class='talk-transcript__fragment' data-time='51543' id='t-51543'>called laparoscopic surgery</span>
+<span class='talk-transcript__fragment' data-time='53832' id='t-53832'>And for those of you who are unfamiliar,</span>
+<span class='talk-transcript__fragment' data-time='56390' id='t-56390'>laparoscopic surgery, instead of the large</span>
+<span class='talk-transcript__fragment' data-time='58783' id='t-58783'>open incision you might
+be used to with surgery,</span>
+<span class='talk-transcript__fragment' data-time='61277' id='t-61277'>a laparoscopic surgery
+is where the surgeon creates</span>
+<span class='talk-transcript__fragment' data-time='63485' id='t-63485'>these three or more small
+incisions in the patient.</span>
+<span class='talk-transcript__fragment' data-time='66502' id='t-66502'>And then inserts these long, thin instruments</span>
+<span class='talk-transcript__fragment' data-time='69368' id='t-69368'>and a camera,</span>
+<span class='talk-transcript__fragment' data-time='70482' id='t-70482'>and actually does the procedure inside the patient.</span>
+<span class='talk-transcript__fragment' data-time='74333' id='t-74333'>This is great because there's
+much less risk of infection,</span>
+<span class='talk-transcript__fragment' data-time='76925' id='t-76925'>much less pain, shorter recovery time.</span>
+<span class='talk-transcript__fragment' data-time='80085' id='t-80085'>But there is a trade-off,</span>
+<span class='talk-transcript__fragment' data-time='82677' id='t-82677'>because these incisions are created</span>
+<span class='talk-transcript__fragment' data-time='84461' id='t-84461'>with a long, pointed device</span>
+<span class='talk-transcript__fragment' data-time='86959' id='t-86959'>called a trocar.</span>
+<span class='talk-transcript__fragment' data-time='88423' id='t-88423'>And the way the surgeon uses this device</span>
+<span class='talk-transcript__fragment' data-time='90617' id='t-90617'>is that he takes it</span>
+<span class='talk-transcript__fragment' data-time='92033' id='t-92033'>and he presses it into the abdomen</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>until it punctures through.</span>
+<span class='talk-transcript__fragment' data-time='97255' id='t-97255'>And now the reason why 
+everyone in the operating room</span>
+<span class='talk-transcript__fragment' data-time='100327' id='t-100327'>was staring at that device on that day</span>
+<span class='talk-transcript__fragment' data-time='102974' id='t-102974'>was because he had to be absolutely careful</span>
+<span class='talk-transcript__fragment' data-time='106205' id='t-106205'>not to plunge it through</span>
+<span class='talk-transcript__fragment' data-time='107672' id='t-107672'>and puncture it into the organs 
+and blood vessels below.</span>
+<span class='talk-transcript__fragment' data-time='111613' id='t-111613'>But this problem should seem 
+pretty familiar to all of you</span>
+<span class='talk-transcript__fragment' data-time='113452' id='t-113452'>because I'm pretty sure 
+you've seen it somewhere else.</span>
+<span class='talk-transcript__fragment' data-time='116373' id='t-116373'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='118165' id='t-118165'>Remember this?</span>
+<span class='talk-transcript__fragment' data-time='119821' id='t-119821'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='123937' id='t-123937'>You knew that at any second</span>
+<span class='talk-transcript__fragment' data-time='125813' id='t-125813'>that straw was going to plunge through,</span>
+<span class='talk-transcript__fragment' data-time='127693' id='t-127693'>and you didn't know if it was 
+going to go out the other side</span>
+<span class='talk-transcript__fragment' data-time='129278' id='t-129278'>and straight into your hand,</span>
+<span class='talk-transcript__fragment' data-time='130581' id='t-130581'>or if you were going to
+get juice everywhere,</span>
+<span class='talk-transcript__fragment' data-time='132277' id='t-132277'>but you were terrified. Right?</span>
+<span class='talk-transcript__fragment' data-time='135580' id='t-135580'>Every single time you did this,</span>
+<span class='talk-transcript__fragment' data-time='137556' id='t-137556'>you experienced the same
+fundamental physics</span>
+<span class='talk-transcript__fragment' data-time='140112' id='t-140112'>that I was watching in the operating room that day.</span>
+<span class='talk-transcript__fragment' data-time='143192' id='t-143192'>And it turns out it really is a problem.</span>
+<span class='talk-transcript__fragment' data-time='145738' id='t-145738'>In 2003, the FDA actually came out and said</span>
+<span class='talk-transcript__fragment' data-time='148530' id='t-148530'>that trocar incisions might 
+be the most dangerous step</span>
+<span class='talk-transcript__fragment' data-time='151907' id='t-151907'>in minimally invasive surgery.</span>
+<span class='talk-transcript__fragment' data-time='153923' id='t-153923'>Again in 2009, we see a paper that says</span>
+<span class='talk-transcript__fragment' data-time='156363' id='t-156363'>that trocars account for over half</span>
+<span class='talk-transcript__fragment' data-time='158547' id='t-158547'>of all major complications in laparoscopic surgery.</span>
+<span class='talk-transcript__fragment' data-time='162234' id='t-162234'>And, oh by the way,</span>
+<span class='talk-transcript__fragment' data-time='163376' id='t-163376'>this hasn't changed for 25 years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='166970' id='t-166970'>So when I got to graduate school,</span>
+<span class='talk-transcript__fragment' data-time='168500' id='t-168500'>this is what I wanted to work on.</span>
+<span class='talk-transcript__fragment' data-time='170368' id='t-170368'>I was trying to explain to a friend of mine</span>
+<span class='talk-transcript__fragment' data-time='172176' id='t-172176'>what exactly I was spending my time doing,</span>
+<span class='talk-transcript__fragment' data-time='174291' id='t-174291'>and I said,</span>
+<span class='talk-transcript__fragment' data-time='176107' id='t-176107'>&quot;It's like when you're drilling through a wall</span>
+<span class='talk-transcript__fragment' data-time='178283' id='t-178283'>to hang something in your apartment.</span>
+<span class='talk-transcript__fragment' data-time='181483' id='t-181483'>There's that moment when the drill
+first punctures through the wall</span>
+<span class='talk-transcript__fragment' data-time='185395' id='t-185395'>and there's this plunge. Right?</span>
+<span class='talk-transcript__fragment' data-time='191389' id='t-191389'>And he looked at me and he said,</span>
+<span class='talk-transcript__fragment' data-time='193430' id='t-193430'>&quot;You mean like when they drill 
+into people's brains?&quot;</span>
+<span class='talk-transcript__fragment' data-time='196901' id='t-196901'>And I said, &quot;Excuse me?&quot; (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='199233' id='t-199233'>And then I looked it up and they
+do drill into people's brains.</span>
+<span class='talk-transcript__fragment' data-time='202281' id='t-202281'>A lot of neurosurgical procedures</span>
+<span class='talk-transcript__fragment' data-time='204345' id='t-204345'>actually start with a drill
+incision through the skull.</span>
+<span class='talk-transcript__fragment' data-time='208127' id='t-208127'>And if the surgeon isn't careful,</span>
+<span class='talk-transcript__fragment' data-time='209912' id='t-209912'>he can plunge directly into the brain.</span>
+<span class='talk-transcript__fragment' data-time='213496' id='t-213496'>So this is the moment when I started thinking,</span>
+<span class='talk-transcript__fragment' data-time='215662' id='t-215662'>okay, cranial drilling, laparoscopic surgery,</span>
+<span class='talk-transcript__fragment' data-time='218970' id='t-218970'>why not other areas of medicine?</span>
+<span class='talk-transcript__fragment' data-time='220634' id='t-220634'>Because think about it, when was
+the last time you went to the doctor</span>
+<span class='talk-transcript__fragment' data-time='222578' id='t-222578'>and you didn't get stuck with something? Right?</span>
+<span class='talk-transcript__fragment' data-time='225325' id='t-225325'>So the truth is</span>
+<span class='talk-transcript__fragment' data-time='226642' id='t-226642'>in medicine puncture is everywhere.</span>
+<span class='talk-transcript__fragment' data-time='229194' id='t-229194'>And here are just a couple
+of the procedures that I've found</span>
+<span class='talk-transcript__fragment' data-time='231986' id='t-231986'>that involve some tissue puncture step.</span>
+<span class='talk-transcript__fragment' data-time='235195' id='t-235195'>And if we take just three of them —</span>
+<span class='talk-transcript__fragment' data-time='237274' id='t-237274'>laparoscopic surgery, 
+epidurals, and cranial drilling —</span>
+<span class='talk-transcript__fragment' data-time='241370' id='t-241370'>these procedures account 
+for over 30,000 complications</span>
+<span class='talk-transcript__fragment' data-time='245349' id='t-245349'>every year in this country alone.</span>
+<span class='talk-transcript__fragment' data-time='248200' id='t-248200'>I call that a problem worth solving.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='250915' id='t-250915'>So let's take a look at some of the devices</span>
+<span class='talk-transcript__fragment' data-time='253240' id='t-253240'>that are used in these types of procedures.</span>
+<span class='talk-transcript__fragment' data-time='255744' id='t-255744'>I mentioned epidurals. This is an epidural needle.</span>
+<span class='talk-transcript__fragment' data-time='258969' id='t-258969'>It's used to puncture through 
+the ligaments in the spine</span>
+<span class='talk-transcript__fragment' data-time='261286' id='t-261286'>and deliver anesthesia during childbirth.</span>
+<span class='talk-transcript__fragment' data-time='263725' id='t-263725'>Here's a set of bone marrow biopsy tools.</span>
+<span class='talk-transcript__fragment' data-time='266278' id='t-266278'>These are actually used
+to burrow into the bone</span>
+<span class='talk-transcript__fragment' data-time='268214' id='t-268214'>and collect bone marrow
+or sample bone lesions.</span>
+<span class='talk-transcript__fragment' data-time='271714' id='t-271714'>Here's a bayonette from the Civil War.</span>
+<span class='talk-transcript__fragment' data-time='273624' id='t-273624'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='276640' id='t-276640'>If I had told you it was a 
+medical puncture device</span>
+<span class='talk-transcript__fragment' data-time='279233' id='t-279233'>you probably would have believed me.</span>
+<span class='talk-transcript__fragment' data-time='281449' id='t-281449'>Because what's the difference?</span>
+<span class='talk-transcript__fragment' data-time='283642' id='t-283642'>So, the more I did this research</span>
+<span class='talk-transcript__fragment' data-time='285577' id='t-285577'>the more I thought there has to be</span>
+<span class='talk-transcript__fragment' data-time='287161' id='t-287161'>a better way to do this.</span>
+<span class='talk-transcript__fragment' data-time='289190' id='t-289190'>And for me the key to this problem</span>
+<span class='talk-transcript__fragment' data-time='291609' id='t-291609'>is that all these different puncture devices</span>
+<span class='talk-transcript__fragment' data-time='294020' id='t-294020'>share a common set of fundamental physics.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='297822' id='t-297822'>So what are those physics?</span>
+<span class='talk-transcript__fragment' data-time='299374' id='t-299374'>Let's go back to drilling through a wall.</span>
+<span class='talk-transcript__fragment' data-time='300966' id='t-300966'>So you're applying a force 
+on a drill towards the wall.</span>
+<span class='talk-transcript__fragment' data-time='304598' id='t-304598'>And Newton says the wall
+is going to apply force back,</span>
+<span class='talk-transcript__fragment' data-time='307942' id='t-307942'>equal and opposite.</span>
+<span class='talk-transcript__fragment' data-time='309207' id='t-309207'>So, as you drill through the wall,</span>
+<span class='talk-transcript__fragment' data-time='311170' id='t-311170'>those forces balance.</span>
+<span class='talk-transcript__fragment' data-time='313100' id='t-313100'>But then there's that moment</span>
+<span class='talk-transcript__fragment' data-time='314641' id='t-314641'>when the drill first punctures
+through the other side of the wall,</span>
+<span class='talk-transcript__fragment' data-time='316777' id='t-316777'>and right at that moment 
+the wall can't push back anymore.</span>
+<span class='talk-transcript__fragment' data-time='319633' id='t-319633'>But your brain hasn't reacted 
+to that change in force.</span>
+<span class='talk-transcript__fragment' data-time='323100' id='t-323100'>So for that millisecond,</span>
+<span class='talk-transcript__fragment' data-time='324161' id='t-324161'>or however long it takes you 
+to react, you're still pushing,</span>
+<span class='talk-transcript__fragment' data-time='326793' id='t-326793'>and that unbalanced force 
+causes an acceleration,</span>
+<span class='talk-transcript__fragment' data-time='329337' id='t-329337'>and that is the plunge.</span>
+<span class='talk-transcript__fragment' data-time='332449' id='t-332449'>But what if right at the moment of puncture</span>
+<span class='talk-transcript__fragment' data-time='336353' id='t-336353'>you could pull that tip back,</span>
+<span class='talk-transcript__fragment' data-time='337977' id='t-337977'>actually oppose the forward acceleration?</span>
+<span class='talk-transcript__fragment' data-time='340990' id='t-340990'>That's what I set out to do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='343127' id='t-343127'>So imagine you have a device</span>
+<span class='talk-transcript__fragment' data-time='344447' id='t-344447'>and it's got some kind of sharp tip 
+to cut through tissue.</span>
+<span class='talk-transcript__fragment' data-time='347647' id='t-347647'>What's the simplest way 
+you could pull that tip back?</span>
+<span class='talk-transcript__fragment' data-time='350860' id='t-350860'>I chose a spring.</span>
+<span class='talk-transcript__fragment' data-time='352671' id='t-352671'>So when you extend that spring, 
+you extend that tip out</span>
+<span class='talk-transcript__fragment' data-time='355255' id='t-355255'>so it's ready to puncture tissue,</span>
+<span class='talk-transcript__fragment' data-time='357470' id='t-357470'>the spring wants to pull the tip back.</span>
+<span class='talk-transcript__fragment' data-time='358910' id='t-358910'>How do you keep the tip in place</span>
+<span class='talk-transcript__fragment' data-time='360663' id='t-360663'>until the moment of puncture?</span>
+<span class='talk-transcript__fragment' data-time='363127' id='t-363127'>I used this mechanism.</span>
+<span class='talk-transcript__fragment' data-time='365550' id='t-365550'>When the tip of the device
+is pressed against tissue,</span>
+<span class='talk-transcript__fragment' data-time='368111' id='t-368111'>the mechanism expands outwards 
+and wedges in place against the wall.</span>
+<span class='talk-transcript__fragment' data-time='371951' id='t-371951'>And the friction that's generated</span>
+<span class='talk-transcript__fragment' data-time='373655' id='t-373655'>locks it in place and prevents
+the spring from retracting the tip.</span>
+<span class='talk-transcript__fragment' data-time='376847' id='t-376847'>But right at the moment of puncture,</span>
+<span class='talk-transcript__fragment' data-time='378734' id='t-378734'>the tissue can't push back
+on the tip anymore.</span>
+<span class='talk-transcript__fragment' data-time='380798' id='t-380798'>So the mechanism unlocks 
+and the spring retracts the tip.</span>
+<span class='talk-transcript__fragment' data-time='383980' id='t-383980'>Let me show you that 
+happening in slow motion.</span>
+<span class='talk-transcript__fragment' data-time='385630' id='t-385630'>This is about 2,000 frames a second,</span>
+<span class='talk-transcript__fragment' data-time='387278' id='t-387278'>and I'd like you to notice the tip</span>
+<span class='talk-transcript__fragment' data-time='389150' id='t-389150'>that's right there on the bottom, 
+about to puncture through tissue.</span>
+<span class='talk-transcript__fragment' data-time='391778' id='t-391778'>And you'll see that 
+right at the moment of puncture,</span>
+<span class='talk-transcript__fragment' data-time='396590' id='t-396590'>right there, the mechanism unlocks 
+and retracts that tip back.</span>
+<span class='talk-transcript__fragment' data-time='399892' id='t-399892'>I want to show it to you again, a little closer up.</span>
+<span class='talk-transcript__fragment' data-time='402236' id='t-402236'>You're going to see the sharp bladed tip,</span>
+<span class='talk-transcript__fragment' data-time='404428' id='t-404428'>and right when it punctures 
+that rubber membrane</span>
+<span class='talk-transcript__fragment' data-time='406420' id='t-406420'>it's going to disappear
+into this white blunt sheath.</span>
+<span class='talk-transcript__fragment' data-time='410572' id='t-410572'>Right there.</span>
+<span class='talk-transcript__fragment' data-time='412437' id='t-412437'>That happens within four 100ths 
+of a second after puncture.</span>
+<span class='talk-transcript__fragment' data-time='417101' id='t-417101'>And because this device is designed
+to address the physics of puncture</span>
+<span class='talk-transcript__fragment' data-time='420901' id='t-420901'>and not the specifics of cranial drilling</span>
+<span class='talk-transcript__fragment' data-time='422733' id='t-422733'>or laparoscopic surgery, 
+or another procedure,</span>
+<span class='talk-transcript__fragment' data-time='424940' id='t-424940'>it's applicable across these
+different medical disciplines</span>
+<span class='talk-transcript__fragment' data-time='427597' id='t-427597'>and across different length scales.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='430628' id='t-430628'>But it didn't always look like this.</span>
+<span class='talk-transcript__fragment' data-time='432741' id='t-432741'>This was my first prototype.</span>
+<span class='talk-transcript__fragment' data-time='434926' id='t-434926'>Yes, those are popsicle sticks,</span>
+<span class='talk-transcript__fragment' data-time='437568' id='t-437568'>and there's a rubber band at the top.</span>
+<span class='talk-transcript__fragment' data-time='439470' id='t-439470'>It took about 30 minutes to do this, but it worked.</span>
+<span class='talk-transcript__fragment' data-time='442870' id='t-442870'>And it proved to me that my idea worked</span>
+<span class='talk-transcript__fragment' data-time='444566' id='t-444566'>and it justified the next couple
+years of work on this project.</span>
+<span class='talk-transcript__fragment' data-time='447958' id='t-447958'>I worked on this because</span>
+<span class='talk-transcript__fragment' data-time='449766' id='t-449766'>this problem really fascinated me.</span>
+<span class='talk-transcript__fragment' data-time='451429' id='t-451429'>It kept me up at night.</span>
+<span class='talk-transcript__fragment' data-time='453558' id='t-453558'>But I think it should fascinate you too,</span>
+<span class='talk-transcript__fragment' data-time='456540' id='t-456540'>because I said puncture is everywhere.</span>
+<span class='talk-transcript__fragment' data-time='458442' id='t-458442'>That means at some point 
+it's going to be your problem too.</span>
+<span class='talk-transcript__fragment' data-time='462706' id='t-462706'>That first day in the operating room</span>
+<span class='talk-transcript__fragment' data-time='464266' id='t-464266'>I never expected to find myself 
+on the other end of a trocar.</span>
+<span class='talk-transcript__fragment' data-time='467250' id='t-467250'>But last year, I got appendicitis 
+when I was visiting Greece.</span>
+<span class='talk-transcript__fragment' data-time='471140' id='t-471140'>So I was in the hospital in Athens,</span>
+<span class='talk-transcript__fragment' data-time='472970' id='t-472970'>and the surgeon was telling me</span>
+<span class='talk-transcript__fragment' data-time='474458' id='t-474458'>he was going to perform 
+a laparoscopic surgery.</span>
+<span class='talk-transcript__fragment' data-time='476594' id='t-476594'>He was going to remove my appendix 
+through these tiny incisions,</span>
+<span class='talk-transcript__fragment' data-time='479346' id='t-479346'>and he was talking about what
+I could expect for the recovery,</span>
+<span class='talk-transcript__fragment' data-time='482040' id='t-482040'>and what was going to happen.</span>
+<span class='talk-transcript__fragment' data-time='483482' id='t-483482'>He said, &quot;Do you have any questions?&quot;
+And I said, &quot;Just one, doc.</span>
+<span class='talk-transcript__fragment' data-time='485900' id='t-485900'>What kind of trocar do you use?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='489374' id='t-489374'>So my favorite quote 
+about laparoscopic surgery</span>
+<span class='talk-transcript__fragment' data-time='492879' id='t-492879'>comes from a Doctor H. C. Jacobaeus:</span>
+<span class='talk-transcript__fragment' data-time='495525' id='t-495525'>&quot;It is puncture itself that causes risk.&quot;</span>
+<span class='talk-transcript__fragment' data-time='499189' id='t-499189'>That's my favorite quote 
+because H.C. Jacobaeus</span>
+<span class='talk-transcript__fragment' data-time='502325' id='t-502325'>was the first person to ever perform 
+laparoscopic surgery on humans,</span>
+<span class='talk-transcript__fragment' data-time='506365' id='t-506365'>and he wrote that in 1912.</span>
+<span class='talk-transcript__fragment' data-time='509797' id='t-509797'>This is a problem that's been injuring and
+even killing people for over 100 years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='515581' id='t-515581'>So it's easy to think that for
+every major problem out there</span>
+<span class='talk-transcript__fragment' data-time='517815' id='t-517815'>there's some team of experts 
+working around the clock to solve it.</span>
+<span class='talk-transcript__fragment' data-time='521751' id='t-521751'>The truth is that's not always the case.</span>
+<span class='talk-transcript__fragment' data-time='525100' id='t-525100'>We have to be better at finding those problems</span>
+<span class='talk-transcript__fragment' data-time='527545' id='t-527545'>and finding ways to solve them.</span>
+<span class='talk-transcript__fragment' data-time='530313' id='t-530313'>So if you come across a problem that grabs you,</span>
+<span class='talk-transcript__fragment' data-time='533569' id='t-533569'>let it keep you up at night.</span>
+<span class='talk-transcript__fragment' data-time='535450' id='t-535450'>Allow yourself to be fascinated,</span>
+<span class='talk-transcript__fragment' data-time='537593' id='t-537593'>because there are so many lives to save.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='540505' id='t-540505'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

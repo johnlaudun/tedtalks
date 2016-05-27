@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Hector Ruiz: The thinking behind 50x15 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Hector Ruiz: The thinking behind 50x15 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD&#39;s 50x15 initiative that calls for connecting 50 percent of the world by 2015." name="description" />
+<meta content="Hector Ruiz" name="author" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;The thinking behind 50x15&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD&#39;s 50x15 initiative that calls for connecting 50 percent of the world by 2015." property="og:description" />
+<meta content="http://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/255?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='hector_ruiz_on_connecting_the_world'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/255?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1197" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:57</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Hector Ruiz</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/255?language=en' lang='en'>
+The thinking behind 50x15
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+May 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>You know, one of the things that I'd like to say upfront is that</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>I'm really here by accident.</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>And what I mean -- not at TED -- that I'm --</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>at this point in my life, truly my set of circumstances</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>I would truly consider an accident.</span>
+<span class='talk-transcript__fragment' data-time='17000' id='t-17000'>But what I'd like to talk to you about today</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>is perhaps a way in which we could use technology</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>to make those accidents happen often.</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>Because I really think, when I look back at how I actually ended up</span>
+<span class='talk-transcript__fragment' data-time='32000' id='t-32000'>in this accident, technology played a big role in that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>So, what I'd like to do today is tell you a little bit about myself,</span>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>because I'd like to put in context what I'm going to tell you.</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>And I think you will see why the two greatest passions in my life today</span>
+<span class='talk-transcript__fragment' data-time='49000' id='t-49000'>are children and education.</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>And once I put that in context,</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>I'd like to tell you a little bit about technology:</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>why I believe technology is a tremendous enabler;</span>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>a very powerful tool to help address some of these challenges.</span>
+<span class='talk-transcript__fragment' data-time='65000' id='t-65000'>Then, about the initiative that Chris mentioned,</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>that we decided to launch at AMD that we call 50x15.</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>And then I'll come back to the beginning,</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>and tell you a little bit more -- hopefully convince you --</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>that I believe that in today's world,</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>it is really important for business leaders</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>not only to have an idea of what their business is all about,</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>but to have a passion for something that is meaningful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>So, with that in mind, first of all let me tell you,</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>I'm one of five children. I'm the oldest, the other four are women.</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>So I grew up in a family of women.</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>I learned a lot about how to deal with that part of the world.</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>And, as you can imagine, if you can picture this:</span>
+<span class='talk-transcript__fragment' data-time='112000' id='t-112000'>I was born in a very small village in Mexico,</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>in, unfortunately, very poor surroundings,</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>and my parents did not have a college education.</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>But I was fortunate to be able to have one, and so were my four sisters.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>That kind of tells you a little bit of an idea of the emphasis</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>that my parents placed on education.</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>My parents were fanatics about learning,</span>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>and I'll come back to that a little bit later.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='135000' id='t-135000'>But one of the things that exposed me early to learning,</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>and a tremendous curiosity that was instilled in me as a child,</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>was through a technology which is on the screen -- is a Victrola.</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>My father found that in a junkyard,</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>and was able to repair it and make it work. And somehow --</span>
+<span class='talk-transcript__fragment' data-time='157000' id='t-157000'>to this day, I frankly don't know how he was so aware</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>of what was going on in the world -- but,</span>
+<span class='talk-transcript__fragment' data-time='161000' id='t-161000'>by inviting me to sit down with him when I was only a few years old,</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>and playing records in this Victrola by Mozart, and he would tell me</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>how Mozart was the most romantic of all the classic composers ever,</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>and how Claire de Lune, which was one of his favorites,</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>was a real exposure to me to classical music.</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>He explained to me about Johann Strauss, and how he created the waltzes</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>that became so famous in the world.</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>And would tell me a little bit about history too,</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>when he'd play the 1812 Overture by Tchaikovsky</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>on this little Victrola, and he would tell me about Russia</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>and all the things that were happening in Russia at those times</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>and why this music,</span>
+<span class='talk-transcript__fragment' data-time='200000' id='t-200000'>in some way, represented a little bit of that history.</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>And even as a child, he was able to instill in me a lot of curiosity.</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>And perhaps to you this product may not look like high tech,</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>but if you can imagine the time when this occurred --</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>it was in the mid '40s -- this was really, in his view, a pretty piece of high tech.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>Well, one of the things that is really critical to try to</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>distill from that experience is that in addition to that,</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>people ask me and say, &quot;Well,</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>how did your parents treat you when you were a child?&quot;</span>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>And I always said that they were really tough on me.</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>And not tough in the sense that most people think of,</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>where your parents yell at you or hit you or whatever.</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>They were tough in the sense that, as I grew up,</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>both my mother and father would always say to me,</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>it's really important that you always remember two things.</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>First of all, when you go to bed at night,</span>
+<span class='talk-transcript__fragment' data-time='259000' id='t-259000'>you've got to look back on the day and make sure that you felt</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>the day was a day which you contributed something, and</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>that you did everything you could to do it the best way you could.</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>And the second thing they said: and we trust you,</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>that no matter where you are or where you go,</span>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>you will always do the right thing.</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>Now, I don't know how many of you have ever done that with your kids,</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>but if you do, please trust me,</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>it's the most pressure you can put on a child, to say --</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>-- we trust you that you will always do the right thing.</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>When I was out with my friends drinking beer,</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>I always was very aware of those words --</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='295000' id='t-295000'>-- and very careful. One of the things that has happened with technology</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>is that it can only be helpful if it is useful, of course,</span>
+<span class='talk-transcript__fragment' data-time='306000' id='t-306000'>but it can only be helpful too if it's accessible,</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>and it can only be helpful if it's affordable.</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>And in today's world, being useful, affordable and accessible</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>is not necessarily what happens</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>in a lot of the technology that is done today.</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>So, one of our passions in our company,</span>
+<span class='talk-transcript__fragment' data-time='323000' id='t-323000'>and now one of my personal passions, is to be able to really work hard</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>at making the technology useful, accessible and affordable.</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>And to me, that is very, very critical.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>Now, technology has changed a lot since the Victrola days.</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>You know, we now have, of course, incredibly powerful computers.</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>A tremendous thing that people refer to as a killer app is called the Internet.</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>Although frankly speaking, we don't believe the Internet is the killer app.</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>What we believe is that the Internet, frankly,</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>is a connection of people and ideas.</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>The Internet happens to be just the medium</span>
+<span class='talk-transcript__fragment' data-time='355000' id='t-355000'>in which those people and ideas get connected.</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>And the power of connecting people and ideas can be pretty awesome.</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>And so, we believe that through all the changes that have occurred,</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>that we're faced today with a tremendous opportunity.</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>If we can connect people and ideas more intensely -- and although</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>you've seen a plethora and a myriad of products</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>that have come to the market today, the key to me is</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>how many of these products are able to provide people connectivity, in a useful way,</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>accessibility, in an easy manner,</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>and also affordability, that</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>regardless of the economic status that a person could have,</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>that they could have the opportunity to afford this technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>So, when you look at that, we said, well, we would like to, then,</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>enable that a little bit. We would like to create an initiative.</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>And a couple of years ago at AMD,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>we came up with this idea of saying,</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>what if we create this initiative we call 50x15,</span>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>where we are going to aim, that by the year 2015,</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>half of the world will be connected to the Internet</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>so that people and ideas can get connected.</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>We knew we couldn't do it by ourselves, and by no means</span>
+<span class='talk-transcript__fragment' data-time='429000' id='t-429000'>did we ever intend to imply that we at AMD could do it alone.</span>
+<span class='talk-transcript__fragment' data-time='433000' id='t-433000'>We always felt that this was something that could be done</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>through partnerships with governments, industry,</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>educational institutions, a myriad of other companies and, frankly, even competitors.</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>So, it is really a rather lofty initiative,</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>if you want to think that way,</span>
+<span class='talk-transcript__fragment' data-time='450000' id='t-450000'>but we felt that we had to put a real stake up in the years ahead,</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>that was bold enough and courageous enough</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>that it would force us all to think of ways to do things differently.</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>And I'll come back to that in a minute, because I think</span>
+<span class='talk-transcript__fragment' data-time='462000' id='t-462000'>the results so far have been remarkable,</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>and I can only anticipate and get real excited about</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>what I think is going to happen in the next eight years,</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>while we get to the 2015 initiative.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>Where are we today?</span>
+<span class='talk-transcript__fragment' data-time='477000' id='t-477000'>That's year by year. This comes from our friends at Gapminder.com.</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>Those of you who've never looked at their website,</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>you should look at it. It's really impressive. And you can see</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>how the Internet penetration has changed over the years.</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>And so when we gave ourselves this scorecard to say</span>
+<span class='talk-transcript__fragment' data-time='494000' id='t-494000'>well, where are we related to our goal towards 2015,</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>the thing that becomes apparent is three pieces.</span>
+<span class='talk-transcript__fragment' data-time='501000' id='t-501000'>One is the Western world,</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>defined mostly by Western Europe and the United States,</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>has made an awful lot of progress.</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>The connectivity in these parts of the world</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>are really truly phenomenal and continue to increase.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>As a matter of fact, we think reaching 100 percent is very doable,</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>even before the 2015 timeframe. In other parts of emerging countries,</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>such as India and China, the progress has been good --</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>has been solid, has been good. But in places that are not as developed,</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>places like Africa, Latin America and other places in the world,</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>the progress has been rather slow. As a matter of fact,</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>I was just recently visiting South Africa.</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>I had the opportunity to have a discussion with President Mbeki,</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>and one of the things that we talked about is, what is it</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>that's keeping this connectivity goal from moving ahead faster?</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>And one of the reasons is, in South Africa,</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>it costs 100 dollars a month to have a broadband connectivity.</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>It is impossible, even in the United States, for that cost,</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>to be able to enable the connectivity that we're all trying to reach.</span>
+<span class='talk-transcript__fragment' data-time='567000' id='t-567000'>So, we talked about ways in which perhaps one could partner</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>to be able to bring the cost of this technology down.</span>
+<span class='talk-transcript__fragment' data-time='574000' id='t-574000'>So, when you look at this chart,</span>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>you look at the very last -- it's a logarithmic chart on a horizontal scale --</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>you look at the very end:</span>
+<span class='talk-transcript__fragment' data-time='580000' id='t-580000'>we've got quite a long way to go to get to the 2015 goal of 50 percent.</span>
+<span class='talk-transcript__fragment' data-time='584000' id='t-584000'>But we're excited in our company; we're motivated.</span>
+<span class='talk-transcript__fragment' data-time='586000' id='t-586000'>We really think it's a phenomenal driver of things,</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>to force us to do things differently, and we look forward to being able to actually,</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>working with so many partners around the world,</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>to be able to reach that goal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>Now, one of the things I'd like to explain [about] 50x15,</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>which I think is really critical, is that it is not a charity.</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>It is actually a business venture.</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>Let's take a small segment of this, of this unconnected world,</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>and call it the education market.</span>
+<span class='talk-transcript__fragment' data-time='619000' id='t-619000'>When you look at elementary-school children,</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>we have hundreds and hundreds of millions of children around the world</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>that could benefit tremendously</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>from being able to be connected to the Internet.</span>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>Therefore, when we see that, we see an opportunity</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>to have a business that addresses the need of that segment.</span>
+<span class='talk-transcript__fragment' data-time='637000' id='t-637000'>And when we embarked in this initiative, from the very beginning</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>we said it very clearly: this is not a charity.</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>This is really a business venture,</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>one that addresses a very challenging segment of the market.</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>Because what we have learned in the last three years</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>is that this segment of the market, whether it's education</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>or under-developed nations, either way, it's a segment that demands</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>incredibly high quality, incredibly high reliability,</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>tremendous low cost and access, and a lot of challenges</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>that frankly, without actually doing it,</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>it would be very difficult to understand, and</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>I'll explain that in just a minute.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>It is an initiative that is focused on simple, accessible and human-centric solutions.</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>What we mean by that is,</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>you know, frankly, the PC was invented in 1980, roughly speaking</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>more or less, and for 20-odd years, it hasn't changed.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>It is still, in most places, a gray or black box, and it looks the same.</span>
+<span class='talk-transcript__fragment' data-time='694000' id='t-694000'>And frankly -- and I know that sometimes I offend some of my customers</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>when I say this, but I truly mean it --</span>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>if you could take the name of the computer off the top of it,</span>
+<span class='talk-transcript__fragment' data-time='704000' id='t-704000'>it would be very difficult to judge who made it,</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>because they're all highly commoditized but they're all different.</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>So, there has not been a human-centric approach</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>to addressing this segment of the market,</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>so we really believe it is critical to think of it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='717000' id='t-717000'>It reminded me a lot of the talk we heard this morning, about this</span>
+<span class='talk-transcript__fragment' data-time='721000' id='t-721000'>operating room machinery that was designed specifically for Africa.</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>We're talking about something very similar here.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>And it has to be based on a geo-sensitive approach.</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>What I mean by that is that in some parts of the world,</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>the government plays a key role in the development of technology.</span>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>In other parts, it doesn't.</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>In other parts of the world, you have an infrastructure</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>that allows for manufacturing to take place.</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>In other parts, it doesn't. And then we have to be sensitive</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>about how this technology can be developed</span>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>and put into action in those regions.</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>And the last piece, which is really important --</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>and this is an opinion that we have, not shared by many,</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>this is one where we seem to stand alone, on this one --</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>is that we really believe that the greatest success of this initiative</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>can come by fostering local, integrated, end-to-end ecosystems.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>What I mean by that, and let me use this example,</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>the country of South Africa, because I was just there,</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>therefore I'm a little bit familiar with some of the challenges they have.</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>It's a country of 45 million people. It's an economy that's emerging.</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>It's beginning to grow tremendously.</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>They have an objective to lowering the cost of connectivity.</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>They have a computer company that makes computers in South Africa.</span>
+<span class='talk-transcript__fragment' data-time='791000' id='t-791000'>They're developing a software-training environment in their universities.</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>What a place, what an ideal place</span>
+<span class='talk-transcript__fragment' data-time='797000' id='t-797000'>to create an ecosystem that could build the hardware and the software</span>
+<span class='talk-transcript__fragment' data-time='800000' id='t-800000'>needed for their schools. And to my surprise, I learned in South Africa</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>they have 18 dialects, I always thought they only had two --</span>
+<span class='talk-transcript__fragment' data-time='807000' id='t-807000'>English and Afrikaans -- but it turns out they have 18 dialects.</span>
+<span class='talk-transcript__fragment' data-time='811000' id='t-811000'>And to be able to meet the needs of this rather complex educational system,</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>it could only be done from inside.</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>I don't think this segment of the market can be addressed</span>
+<span class='talk-transcript__fragment' data-time='824000' id='t-824000'>by companies parachuting from another place of the world,</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>and just dumping product and selling into the markets.</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>So, we believe that in those regions of the world</span>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>where the population is large,</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>and there's an infrastructure that can provide it,</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>that a local, integrated, end-to-end system</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>is really critical for its success.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>This is a picture of a classroom that we outfitted with computers</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>in Mexico, in my home country.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>This particular classroom happens to be in the state of Michoacan.</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>Those of you that might be familiar with Mexico --</span>
+<span class='talk-transcript__fragment' data-time='854000' id='t-854000'>Michoacan is a very colorful state.</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>Children dress with very colorful, colorful clothes,</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>and it is incredible to see the power that this has in the hands of kids,</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>in a computer. And I have to tell you that it's</span>
+<span class='talk-transcript__fragment' data-time='871000' id='t-871000'>so easy to appreciate the impact that access to technology</span>
+<span class='talk-transcript__fragment' data-time='874000' id='t-874000'>and connectivity can have in the lives and education of these kids.</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>We just recently opened a learning laboratory in a school</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>in the West Cape in South Africa,</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>in a school that's called Nelson Mandela School,</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>and when you see the faces and activities of these children</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>being able to access computers, it's just phenomenal.</span>
+<span class='talk-transcript__fragment' data-time='898000' id='t-898000'>And recently, they've written us letters,</span>
+<span class='talk-transcript__fragment' data-time='901000' id='t-901000'>telling us how excited they are about the impact</span>
+<span class='talk-transcript__fragment' data-time='903000' id='t-903000'>that this has had on their lives, on their educational dreams,</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>on their capabilities, and it's just phenomenal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='910000' id='t-910000'>We have now deployed 30 different technologists</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>in 18 different countries, and we have been able</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>to connect millions of people in an effort to continue to learn</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>what this particular segment of the market needs and demands.</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>And I have to tell you that although</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>millions doesn't sound like a lot</span>
+<span class='talk-transcript__fragment' data-time='925000' id='t-925000'>in terms of the billions that need to be connected,</span>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>it's a start. And we are learning a lot.</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>And we're learning a tremendous amount about</span>
+<span class='talk-transcript__fragment' data-time='933000' id='t-933000'>what we believe this segment needs to be able to be effective.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>One example of this has been the One Laptop per Child.</span>
+<span class='talk-transcript__fragment' data-time='939000' id='t-939000'>Some of you are familiar with this.</span>
+<span class='talk-transcript__fragment' data-time='940000' id='t-940000'>This is a partnership between MIT and a group of companies --</span>
+<span class='talk-transcript__fragment' data-time='944000' id='t-944000'>Google is involved, Red Hat -- and AMD is a key player.</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>The electronics behind the One Laptop per Child</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>are based on AMD technology; it's a microprocessor.</span>
+<span class='talk-transcript__fragment' data-time='953000' id='t-953000'>But to give you an idea how creative this group of people can be,</span>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>one of the objectives of the One Laptop per Child</span>
+<span class='talk-transcript__fragment' data-time='959000' id='t-959000'>is to be able to achieve a 10-hour battery life.</span>
+<span class='talk-transcript__fragment' data-time='961000' id='t-961000'>Because it was felt that a school day</span>
+<span class='talk-transcript__fragment' data-time='963000' id='t-963000'>would last at least eight hours, and</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>you wanted the child to have the ability to use the laptop</span>
+<span class='talk-transcript__fragment' data-time='969000' id='t-969000'>for at least one full day without having to recharge it.</span>
+<span class='talk-transcript__fragment' data-time='973000' id='t-973000'>The engineers have done a phenomenal amount of innovation on this part,</span>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>and battery life on this product is now 15 hours --</span>
+<span class='talk-transcript__fragment' data-time='979000' id='t-979000'>just through a lot of innovative work people have done</span>
+<span class='talk-transcript__fragment' data-time='981000' id='t-981000'>because they're passionate and motivated to be able to do this.</span>
+<span class='talk-transcript__fragment' data-time='985000' id='t-985000'>We expect this to be deployed towards the end of this year,</span>
+<span class='talk-transcript__fragment' data-time='987000' id='t-987000'>and we're very excited at the opportunities that this is going to offer</span>
+<span class='talk-transcript__fragment' data-time='990000' id='t-990000'>in the field of education.</span>
+<span class='talk-transcript__fragment' data-time='992000' id='t-992000'>It's a highly focused product aimed at strictly the education market,</span>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>not only in the developing countries, but actually</span>
+<span class='talk-transcript__fragment' data-time='1001000' id='t-1001000'>in the developed regions as well, because</span>
+<span class='talk-transcript__fragment' data-time='1004000' id='t-1004000'>there are parts of the United States where this can have</span>
+<span class='talk-transcript__fragment' data-time='1006000' id='t-1006000'>also a huge impact on the ability to make education more fun and more efficient.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1011000' id='t-1011000'>We also have partnered with TED</span>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>in this project, with Architecture for Humanity,</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>and along with the TED Prize winner Cameron Sinclair,</span>
+<span class='talk-transcript__fragment' data-time='1018000' id='t-1018000'>we're having a contest that we have issued to the architectural community</span>
+<span class='talk-transcript__fragment' data-time='1022000' id='t-1022000'>to come up with the best design for a computer lab for an emerging region.</span>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>And we're really thrilled about the opportunity to be part of this,</span>
+<span class='talk-transcript__fragment' data-time='1031000' id='t-1031000'>and can't wait to see what comes out of this exciting, exciting activity.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1036000' id='t-1036000'>Let me come back to the beginning,</span>
+<span class='talk-transcript__fragment' data-time='1038000' id='t-1038000'>to end this presentation.</span>
+<span class='talk-transcript__fragment' data-time='1041000' id='t-1041000'>I'll tell you that one of the things</span>
+<span class='talk-transcript__fragment' data-time='1043000' id='t-1043000'>that I feel is really critical for us in industry, in business,</span>
+<span class='talk-transcript__fragment' data-time='1046000' id='t-1046000'>is to be able to be passionate about solving these problems.</span>
+<span class='talk-transcript__fragment' data-time='1050000' id='t-1050000'>I don't think it's enough to be able to put them on a spreadsheet,</span>
+<span class='talk-transcript__fragment' data-time='1053000' id='t-1053000'>and look at numbers and say, yes, that's a good business.</span>
+<span class='talk-transcript__fragment' data-time='1056000' id='t-1056000'>I really believe that you have to have a passion for it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>And one of the things that I learned, too, from my parents --</span>
+<span class='talk-transcript__fragment' data-time='1061000' id='t-1061000'>and I'll give you a little anecdote -- especially from my father.</span>
+<span class='talk-transcript__fragment' data-time='1065000' id='t-1065000'>And it took me a while to understand it,</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>but he said to me, when I went to college, he said,</span>
+<span class='talk-transcript__fragment' data-time='1069000' id='t-1069000'>&quot;You're the first person in the family to go to college.</span>
+<span class='talk-transcript__fragment' data-time='1071000' id='t-1071000'>And it's really important you understand</span>
+<span class='talk-transcript__fragment' data-time='1074000' id='t-1074000'>that for civilization to make progress,</span>
+<span class='talk-transcript__fragment' data-time='1076000' id='t-1076000'>each generation has to do better than the last one.</span>
+<span class='talk-transcript__fragment' data-time='1080000' id='t-1080000'>And therefore, this is your opportunity to do better than my generation.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1084000' id='t-1084000'>Frankly, I don't know that I really understood what he told me at the time.</span>
+<span class='talk-transcript__fragment' data-time='1088000' id='t-1088000'>I was eager to go off to college, and go find girls, and study,</span>
+<span class='talk-transcript__fragment' data-time='1092000' id='t-1092000'>and girls, and study, but then I finished college and I fell in love.</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>I graduated. I decided to get married.</span>
+<span class='talk-transcript__fragment' data-time='1102000' id='t-1102000'>And on my wedding day, my father came to me again and said, &quot;You know,</span>
+<span class='talk-transcript__fragment' data-time='1105000' id='t-1105000'>I'm going to remind you again, that each generation</span>
+<span class='talk-transcript__fragment' data-time='1108000' id='t-1108000'>has to do better than the last one.</span>
+<span class='talk-transcript__fragment' data-time='1110000' id='t-1110000'>You have to be a better husband than I was,</span>
+<span class='talk-transcript__fragment' data-time='1112000' id='t-1112000'>because that's how you make progress.&quot; And now he began to make sense.</span>
+<span class='talk-transcript__fragment' data-time='1116000' id='t-1116000'>Because I knew what a great husband he was,</span>
+<span class='talk-transcript__fragment' data-time='1118000' id='t-1118000'>and now he was once again beginning to put pressure on me,</span>
+<span class='talk-transcript__fragment' data-time='1122000' id='t-1122000'>like he did when I was a little kid. And then a few years later, I had a child,</span>
+<span class='talk-transcript__fragment' data-time='1126000' id='t-1126000'>my first child, and again, my father comes</span>
+<span class='talk-transcript__fragment' data-time='1130000' id='t-1130000'>to the hospital, and we're looking at the glass,</span>
+<span class='talk-transcript__fragment' data-time='1133000' id='t-1133000'>and see all the children on the other side, and he said,</span>
+<span class='talk-transcript__fragment' data-time='1136000' id='t-1136000'>&quot;I've got to remind you again, that for each generation to do better,</span>
+<span class='talk-transcript__fragment' data-time='1140000' id='t-1140000'>you're going to have to be a better father than I was.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1143000' id='t-1143000'>That's when it dawned on me the tremendous challenge</span>
+<span class='talk-transcript__fragment' data-time='1146000' id='t-1146000'>that he was placing on me, because he was a great father.</span>
+<span class='talk-transcript__fragment' data-time='1149000' id='t-1149000'>But the key is that he instilled in me a passion</span>
+<span class='talk-transcript__fragment' data-time='1152000' id='t-1152000'>to really get up every day in the morning and want to do better,</span>
+<span class='talk-transcript__fragment' data-time='1157000' id='t-1157000'>to really get up and think that my role in life</span>
+<span class='talk-transcript__fragment' data-time='1160000' id='t-1160000'>is not just to be the CEO of a Fortune 500 company.</span>
+<span class='talk-transcript__fragment' data-time='1163000' id='t-1163000'>It's got to be that someday I can look back,</span>
+<span class='talk-transcript__fragment' data-time='1165000' id='t-1165000'>and this place is truly better through some small contribution</span>
+<span class='talk-transcript__fragment' data-time='1169000' id='t-1169000'>that perhaps each of us could make.</span>
+<span class='talk-transcript__fragment' data-time='1171000' id='t-1171000'>Thank you very much.</span>
+<span class='talk-transcript__fragment' data-time='1173000' id='t-1173000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

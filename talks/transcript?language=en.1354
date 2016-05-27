@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Michael Dickinson: How a fly flies | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Michael Dickinson: How a fly flies | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: An insect&#39;s ability to fly is perhaps one of the greatest feats of evolution. Michael Dickinson looks at how a fruit fly takes flight with such delicate wings, thanks to a clever flapping motion and flight muscles that are both powerful and nimble. But the secret ingredient: the incredible fly brain. (Filmed at TEDxCaltech.)" name="description" />
+<meta content="Michael Dickinson" name="author" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=mk" hreflang="mk" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;How a fly flies&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/358f8320e4a3b2a9f21dc6ae0585b8ddc071c1a5_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/358f8320e4a3b2a9f21dc6ae0585b8ddc071c1a5_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: An insect&#39;s ability to fly is perhaps one of the greatest feats of evolution. Michael Dickinson looks at how a fruit fly takes flight with such delicate wings, thanks to a clever flapping motion and flight muscles that are both powerful and nimble. But the secret ingredient: the incredible fly brain. (Filmed at TEDxCaltech.)" property="og:description" />
+<meta content="http://www.ted.com/talks/michael_dickinson_how_a_fly_flies/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1674?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='michael_dickinson_how_a_fly_flies'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='mk'>Macedonian</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='tr'>Turkish</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1674?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="955" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/358f8320e4a3b2a9f21dc6ae0585b8ddc071c1a5_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:55</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Michael Dickinson</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1674?language=en' lang='en'>
+How a fly flies
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='545' id='t-545'>I grew up watching Star Trek. I love Star Trek.</span>
+<span class='talk-transcript__fragment' data-time='4077' id='t-4077'>Star Trek made me want to see alien creatures,</span>
+<span class='talk-transcript__fragment' data-time='8539' id='t-8539'>creatures from a far-distant world.</span>
+<span class='talk-transcript__fragment' data-time='10842' id='t-10842'>But basically, I figured out that I could find</span>
+<span class='talk-transcript__fragment' data-time='13629' id='t-13629'>those alien creatures right on Earth.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='16606' id='t-16606'>And what I do is I study insects.</span>
+<span class='talk-transcript__fragment' data-time='19259' id='t-19259'>I'm obsessed with insects, particularly insect flight.</span>
+<span class='talk-transcript__fragment' data-time='22515' id='t-22515'>I think the evolution of insect flight is perhaps</span>
+<span class='talk-transcript__fragment' data-time='25656' id='t-25656'>one of the most important events in the history of life.</span>
+<span class='talk-transcript__fragment' data-time='28398' id='t-28398'>Without insects, there'd be no flowering plants.</span>
+<span class='talk-transcript__fragment' data-time='30635' id='t-30635'>Without flowering plants, there would be no</span>
+<span class='talk-transcript__fragment' data-time='32551' id='t-32551'>clever, fruit-eating primates giving TED Talks.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='35688' id='t-35688'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='37988' id='t-37988'>Now,</span>
+<span class='talk-transcript__fragment' data-time='39975' id='t-39975'>David and Hidehiko and Ketaki</span>
+<span class='talk-transcript__fragment' data-time='43014' id='t-43014'>gave a very compelling story about</span>
+<span class='talk-transcript__fragment' data-time='46459' id='t-46459'>the similarities between fruit flies and humans,</span>
+<span class='talk-transcript__fragment' data-time='49264' id='t-49264'>and there are many similarities,</span>
+<span class='talk-transcript__fragment' data-time='50753' id='t-50753'>and so you might think that if humans are similar to fruit flies,</span>
+<span class='talk-transcript__fragment' data-time='53755' id='t-53755'>the favorite behavior of a fruit fly might be this, for example --</span>
+<span class='talk-transcript__fragment' data-time='57552' id='t-57552'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='59834' id='t-59834'>but in my talk, I don't want to emphasize on the similarities</span>
+<span class='talk-transcript__fragment' data-time='63025' id='t-63025'>between humans and fruit flies, but rather the differences,</span>
+<span class='talk-transcript__fragment' data-time='66092' id='t-66092'>and focus on the behaviors that I think fruit flies excel at doing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='71379' id='t-71379'>And so I want to show you a high-speed video sequence</span>
+<span class='talk-transcript__fragment' data-time='74235' id='t-74235'>of a fly shot at 7,000 frames per second in infrared lighting,</span>
+<span class='talk-transcript__fragment' data-time='78170' id='t-78170'>and to the right, off-screen, is an electronic looming predator</span>
+<span class='talk-transcript__fragment' data-time='82380' id='t-82380'>that is going to go at the fly.</span>
+<span class='talk-transcript__fragment' data-time='83815' id='t-83815'>The fly is going to sense this predator.</span>
+<span class='talk-transcript__fragment' data-time='85653' id='t-85653'>It is going to extend its legs out.</span>
+<span class='talk-transcript__fragment' data-time='88108' id='t-88108'>It's going to sashay away</span>
+<span class='talk-transcript__fragment' data-time='89721' id='t-89721'>to live to fly another day.</span>
+<span class='talk-transcript__fragment' data-time='92286' id='t-92286'>Now I have carefully cropped this sequence</span>
+<span class='talk-transcript__fragment' data-time='94648' id='t-94648'>to be exactly the duration of a human eye blink,</span>
+<span class='talk-transcript__fragment' data-time='97808' id='t-97808'>so in the time that it would take you to blink your eye,</span>
+<span class='talk-transcript__fragment' data-time='100642' id='t-100642'>the fly has seen this looming predator,</span>
+<span class='talk-transcript__fragment' data-time='103907' id='t-103907'>estimated its position, initiated a motor pattern to fly it away,</span>
+<span class='talk-transcript__fragment' data-time='110075' id='t-110075'>beating its wings at 220 times a second as it does so.</span>
+<span class='talk-transcript__fragment' data-time='114539' id='t-114539'>I think this is a fascinating behavior</span>
+<span class='talk-transcript__fragment' data-time='116512' id='t-116512'>that shows how fast the fly's brain can process information.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='120433' id='t-120433'>Now, flight -- what does it take to fly?</span>
+<span class='talk-transcript__fragment' data-time='123275' id='t-123275'>Well, in order to fly, just as in a human aircraft,</span>
+<span class='talk-transcript__fragment' data-time='126139' id='t-126139'>you need wings that can generate sufficient aerodynamic forces,</span>
+<span class='talk-transcript__fragment' data-time='128874' id='t-128874'>you need an engine sufficient to generate the power required for flight,</span>
+<span class='talk-transcript__fragment' data-time='132420' id='t-132420'>and you need a controller,</span>
+<span class='talk-transcript__fragment' data-time='134129' id='t-134129'>and in the first human aircraft, the controller was basically</span>
+<span class='talk-transcript__fragment' data-time='136755' id='t-136755'>the brain of Orville and Wilbur sitting in the cockpit.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='141067' id='t-141067'>Now, how does this compare to a fly?</span>
+<span class='talk-transcript__fragment' data-time='143820' id='t-143820'>Well, I spent a lot of my early career trying to figure out</span>
+<span class='talk-transcript__fragment' data-time='147071' id='t-147071'>how insect wings generate enough force to keep the flies in the air.</span>
+<span class='talk-transcript__fragment' data-time='151407' id='t-151407'>And you might have heard how engineers proved</span>
+<span class='talk-transcript__fragment' data-time='153017' id='t-153017'>that bumblebees couldn't fly.</span>
+<span class='talk-transcript__fragment' data-time='155651' id='t-155651'>Well, the problem was in thinking that the insect wings</span>
+<span class='talk-transcript__fragment' data-time='158271' id='t-158271'>function in the way that aircraft wings work. But they don't.</span>
+<span class='talk-transcript__fragment' data-time='161390' id='t-161390'>And we tackle this problem by building giant,</span>
+<span class='talk-transcript__fragment' data-time='164244' id='t-164244'>dynamically scaled model robot insects</span>
+<span class='talk-transcript__fragment' data-time='167676' id='t-167676'>that would flap in giant pools of mineral oil</span>
+<span class='talk-transcript__fragment' data-time='171012' id='t-171012'>where we could study the aerodynamic forces.</span>
+<span class='talk-transcript__fragment' data-time='173286' id='t-173286'>And it turns out that the insects flap their wings</span>
+<span class='talk-transcript__fragment' data-time='175444' id='t-175444'>in a very clever way, at a very high angle of attack</span>
+<span class='talk-transcript__fragment' data-time='178036' id='t-178036'>that creates a structure at the leading edge of the wing,</span>
+<span class='talk-transcript__fragment' data-time='181157' id='t-181157'>a little tornado-like structure called a leading edge vortex,</span>
+<span class='talk-transcript__fragment' data-time='184356' id='t-184356'>and it's that vortex that actually enables the wings</span>
+<span class='talk-transcript__fragment' data-time='187310' id='t-187310'>to make enough force for the animal to stay in the air.</span>
+<span class='talk-transcript__fragment' data-time='190669' id='t-190669'>But the thing that's actually most -- so, what's fascinating</span>
+<span class='talk-transcript__fragment' data-time='193097' id='t-193097'>is not so much that the wing has some interesting morphology.</span>
+<span class='talk-transcript__fragment' data-time='196072' id='t-196072'>What's clever is the way the fly flaps it,</span>
+<span class='talk-transcript__fragment' data-time='199717' id='t-199717'>which of course ultimately is controlled by the nervous system,</span>
+<span class='talk-transcript__fragment' data-time='202853' id='t-202853'>and this is what enables flies to perform</span>
+<span class='talk-transcript__fragment' data-time='205500' id='t-205500'>these remarkable aerial maneuvers.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='208307' id='t-208307'>Now, what about the engine?</span>
+<span class='talk-transcript__fragment' data-time='210404' id='t-210404'>The engine of the fly is absolutely fascinating.</span>
+<span class='talk-transcript__fragment' data-time='212896' id='t-212896'>They have two types of flight muscle:</span>
+<span class='talk-transcript__fragment' data-time='214794' id='t-214794'>so-called power muscle, which is stretch-activated,</span>
+<span class='talk-transcript__fragment' data-time='217779' id='t-217779'>which means that it activates itself and does not need to be controlled</span>
+<span class='talk-transcript__fragment' data-time='221505' id='t-221505'>on a contraction-by-contraction basis by the nervous system.</span>
+<span class='talk-transcript__fragment' data-time='224844' id='t-224844'>It's specialized to generate the enormous power required for flight,</span>
+<span class='talk-transcript__fragment' data-time='229453' id='t-229453'>and it fills the middle portion of the fly,</span>
+<span class='talk-transcript__fragment' data-time='231532' id='t-231532'>so when a fly hits your windshield,</span>
+<span class='talk-transcript__fragment' data-time='233079' id='t-233079'>it's basically the power muscle that you're looking at.</span>
+<span class='talk-transcript__fragment' data-time='235485' id='t-235485'>But attached to the base of the wing</span>
+<span class='talk-transcript__fragment' data-time='237631' id='t-237631'>is a set of little, tiny control muscles</span>
+<span class='talk-transcript__fragment' data-time='240269' id='t-240269'>that are not very powerful at all, but they're very fast,</span>
+<span class='talk-transcript__fragment' data-time='243570' id='t-243570'>and they're able to reconfigure the hinge of the wing</span>
+<span class='talk-transcript__fragment' data-time='246776' id='t-246776'>on a stroke-by-stroke basis,</span>
+<span class='talk-transcript__fragment' data-time='248538' id='t-248538'>and this is what enables the fly to change its wing</span>
+<span class='talk-transcript__fragment' data-time='251680' id='t-251680'>and generate the changes in aerodynamic forces</span>
+<span class='talk-transcript__fragment' data-time='254651' id='t-254651'>which change its flight trajectory.</span>
+<span class='talk-transcript__fragment' data-time='257224' id='t-257224'>And of course, the role of the nervous system is to control all this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='260787' id='t-260787'>So let's look at the controller.</span>
+<span class='talk-transcript__fragment' data-time='262299' id='t-262299'>Now flies excel in the sorts of sensors</span>
+<span class='talk-transcript__fragment' data-time='264946' id='t-264946'>that they carry to this problem.</span>
+<span class='talk-transcript__fragment' data-time='267230' id='t-267230'>They have antennae that sense odors and detect wind detection.</span>
+<span class='talk-transcript__fragment' data-time='271357' id='t-271357'>They have a sophisticated eye which is</span>
+<span class='talk-transcript__fragment' data-time='273032' id='t-273032'>the fastest visual system on the planet.</span>
+<span class='talk-transcript__fragment' data-time='275488' id='t-275488'>They have another set of eyes on the top of their head.</span>
+<span class='talk-transcript__fragment' data-time='277524' id='t-277524'>We have no idea what they do.</span>
+<span class='talk-transcript__fragment' data-time='279576' id='t-279576'>They have sensors on their wing.</span>
+<span class='talk-transcript__fragment' data-time='282530' id='t-282530'>Their wing is covered with sensors, including sensors</span>
+<span class='talk-transcript__fragment' data-time='286290' id='t-286290'>that sense deformation of the wing.</span>
+<span class='talk-transcript__fragment' data-time='288336' id='t-288336'>They can even taste with their wings.</span>
+<span class='talk-transcript__fragment' data-time='290445' id='t-290445'>One of the most sophisticated sensors a fly has</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>is a structure called the halteres.</span>
+<span class='talk-transcript__fragment' data-time='294807' id='t-294807'>The halteres are actually gyroscopes.</span>
+<span class='talk-transcript__fragment' data-time='296686' id='t-296686'>These devices beat back and forth about 200 hertz during flight,</span>
+<span class='talk-transcript__fragment' data-time='301135' id='t-301135'>and the animal can use them to sense its body rotation</span>
+<span class='talk-transcript__fragment' data-time='303808' id='t-303808'>and initiate very, very fast corrective maneuvers.</span>
+<span class='talk-transcript__fragment' data-time='307776' id='t-307776'>But all of this sensory information has to be processed</span>
+<span class='talk-transcript__fragment' data-time='310105' id='t-310105'>by a brain, and yes, indeed, flies have a brain,</span>
+<span class='talk-transcript__fragment' data-time='313825' id='t-313825'>a brain of about 100,000 neurons.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='316984' id='t-316984'>Now several people at this conference</span>
+<span class='talk-transcript__fragment' data-time='319177' id='t-319177'>have already suggested that fruit flies could serve neuroscience</span>
+<span class='talk-transcript__fragment' data-time='323985' id='t-323985'>because they're a simple model of brain function.</span>
+<span class='talk-transcript__fragment' data-time='327232' id='t-327232'>And the basic punchline of my talk is,</span>
+<span class='talk-transcript__fragment' data-time='329309' id='t-329309'>I'd like to turn that over on its head.</span>
+<span class='talk-transcript__fragment' data-time='331967' id='t-331967'>I don't think they're a simple model of anything.</span>
+<span class='talk-transcript__fragment' data-time='334595' id='t-334595'>And I think that flies are a great model.</span>
+<span class='talk-transcript__fragment' data-time='337072' id='t-337072'>They're a great model for flies.</span>
+<span class='talk-transcript__fragment' data-time='339588' id='t-339588'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='342069' id='t-342069'>And let's explore this notion of simplicity.</span>
+<span class='talk-transcript__fragment' data-time='345072' id='t-345072'>So I think, unfortunately, a lot of neuroscientists,</span>
+<span class='talk-transcript__fragment' data-time='347503' id='t-347503'>we're all somewhat narcissistic.</span>
+<span class='talk-transcript__fragment' data-time='349335' id='t-349335'>When we think of brain, we of course imagine our own brain.</span>
+<span class='talk-transcript__fragment' data-time='352768' id='t-352768'>But remember that this kind of brain,</span>
+<span class='talk-transcript__fragment' data-time='354728' id='t-354728'>which is much, much smaller</span>
+<span class='talk-transcript__fragment' data-time='356496' id='t-356496'>— instead of 100 billion neurons, it has 100,000 neurons —</span>
+<span class='talk-transcript__fragment' data-time='359174' id='t-359174'>but this is the most common form of brain on the planet</span>
+<span class='talk-transcript__fragment' data-time='362056' id='t-362056'>and has been for 400 million years.</span>
+<span class='talk-transcript__fragment' data-time='364960' id='t-364960'>And is it fair to say that it's simple?</span>
+<span class='talk-transcript__fragment' data-time='367248' id='t-367248'>Well, it's simple in the sense that it has fewer neurons,</span>
+<span class='talk-transcript__fragment' data-time='369343' id='t-369343'>but is that a fair metric?</span>
+<span class='talk-transcript__fragment' data-time='371097' id='t-371097'>And I would propose it's not a fair metric.</span>
+<span class='talk-transcript__fragment' data-time='373373' id='t-373373'>So let's sort of think about this. I think we have to compare --</span>
+<span class='talk-transcript__fragment' data-time='376473' id='t-376473'>(Laughter) —</span>
+<span class='talk-transcript__fragment' data-time='378032' id='t-378032'>we have to compare the size of the brain</span>
+<span class='talk-transcript__fragment' data-time='383153' id='t-383153'>with what the brain can do.</span>
+<span class='talk-transcript__fragment' data-time='385183' id='t-385183'>So I propose we have a Trump number,</span>
+<span class='talk-transcript__fragment' data-time='388064' id='t-388064'>and the Trump number is the ratio of this man's</span>
+<span class='talk-transcript__fragment' data-time='390929' id='t-390929'>behavioral repertoire to the number of neurons in his brain.</span>
+<span class='talk-transcript__fragment' data-time='394608' id='t-394608'>We'll calculate the Trump number for the fruit fly.</span>
+<span class='talk-transcript__fragment' data-time='397276' id='t-397276'>Now, how many people here think the Trump number</span>
+<span class='talk-transcript__fragment' data-time='399960' id='t-399960'>is higher for the fruit fly?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='402449' id='t-402449'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='404880' id='t-404880'>It's a very smart, smart audience.</span>
+<span class='talk-transcript__fragment' data-time='408308' id='t-408308'>Yes, the inequality goes in this direction, or I would posit it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='411635' id='t-411635'>Now I realize that it is a little bit absurd</span>
+<span class='talk-transcript__fragment' data-time='414017' id='t-414017'>to compare the behavioral repertoire of a human to a fly.</span>
+<span class='talk-transcript__fragment' data-time='417575' id='t-417575'>But let's take another animal just as an example. Here's a mouse.</span>
+<span class='talk-transcript__fragment' data-time='421718' id='t-421718'>A mouse has about 1,000 times as many neurons as a fly.</span>
+<span class='talk-transcript__fragment' data-time='426023' id='t-426023'>I used to study mice. When I studied mice,</span>
+<span class='talk-transcript__fragment' data-time='428050' id='t-428050'>I used to talk really slowly.</span>
+<span class='talk-transcript__fragment' data-time='430887' id='t-430887'>And then something happened when I started to work on flies.</span>
+<span class='talk-transcript__fragment' data-time='433463' id='t-433463'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='435875' id='t-435875'>And I think if you compare the natural history of flies and mice,</span>
+<span class='talk-transcript__fragment' data-time='439335' id='t-439335'>it's really comparable. They have to forage for food.</span>
+<span class='talk-transcript__fragment' data-time='442648' id='t-442648'>They have to engage in courtship.</span>
+<span class='talk-transcript__fragment' data-time='445095' id='t-445095'>They have sex. They hide from predators.</span>
+<span class='talk-transcript__fragment' data-time='448566' id='t-448566'>They do a lot of the similar things.</span>
+<span class='talk-transcript__fragment' data-time='450546' id='t-450546'>But I would argue that flies do more.</span>
+<span class='talk-transcript__fragment' data-time='452264' id='t-452264'>So for example, I'm going to show you a sequence,</span>
+<span class='talk-transcript__fragment' data-time='455642' id='t-455642'>and I have to say, some of my funding comes from the military,</span>
+<span class='talk-transcript__fragment' data-time='459847' id='t-459847'>so I'm showing this classified sequence</span>
+<span class='talk-transcript__fragment' data-time='461919' id='t-461919'>and you cannot discuss it outside of this room. Okay?</span>
+<span class='talk-transcript__fragment' data-time='466012' id='t-466012'>So I want you to look at the payload</span>
+<span class='talk-transcript__fragment' data-time='467920' id='t-467920'>at the tail of the fruit fly.</span>
+<span class='talk-transcript__fragment' data-time='470946' id='t-470946'>Watch it very closely,</span>
+<span class='talk-transcript__fragment' data-time='473047' id='t-473047'>and you'll see why my six-year-old son</span>
+<span class='talk-transcript__fragment' data-time='477344' id='t-477344'>now wants to be a neuroscientist.</span>
+<span class='talk-transcript__fragment' data-time='482073' id='t-482073'>Wait for it.</span>
+<span class='talk-transcript__fragment' data-time='483252' id='t-483252'>Pshhew.</span>
+<span class='talk-transcript__fragment' data-time='484821' id='t-484821'>So at least you'll admit that if fruit flies are not as clever as mice,</span>
+<span class='talk-transcript__fragment' data-time='487905' id='t-487905'>they're at least as clever as pigeons. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='492821' id='t-492821'>Now, I want to get across that it's not just a matter of numbers</span>
+<span class='talk-transcript__fragment' data-time='496788' id='t-496788'>but also the challenge for a fly to compute</span>
+<span class='talk-transcript__fragment' data-time='499386' id='t-499386'>everything its brain has to compute with such tiny neurons.</span>
+<span class='talk-transcript__fragment' data-time='502235' id='t-502235'>So this is a beautiful image of a visual interneuron from a mouse</span>
+<span class='talk-transcript__fragment' data-time='505223' id='t-505223'>that came from Jeff Lichtman's lab,</span>
+<span class='talk-transcript__fragment' data-time='507991' id='t-507991'>and you can see the wonderful images of brains</span>
+<span class='talk-transcript__fragment' data-time='511238' id='t-511238'>that he showed in his talk.</span>
+<span class='talk-transcript__fragment' data-time='514431' id='t-514431'>But up in the corner, in the right corner, you'll see,</span>
+<span class='talk-transcript__fragment' data-time='516799' id='t-516799'>at the same scale, a visual interneuron from a fly.</span>
+<span class='talk-transcript__fragment' data-time='520911' id='t-520911'>And I'll expand this up.</span>
+<span class='talk-transcript__fragment' data-time='522752' id='t-522752'>And it's a beautifully complex neuron.</span>
+<span class='talk-transcript__fragment' data-time='524922' id='t-524922'>It's just very, very tiny, and there's lots of biophysical challenges</span>
+<span class='talk-transcript__fragment' data-time='528407' id='t-528407'>with trying to compute information with tiny, tiny neurons.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='532030' id='t-532030'>How small can neurons get? Well, look at this interesting insect.</span>
+<span class='talk-transcript__fragment' data-time='535567' id='t-535567'>It looks sort of like a fly. It has wings, it has eyes,</span>
+<span class='talk-transcript__fragment' data-time='537779' id='t-537779'>it has antennae, its legs, complicated life history,</span>
+<span class='talk-transcript__fragment' data-time='540578' id='t-540578'>it's a parasite, it has to fly around and find caterpillars</span>
+<span class='talk-transcript__fragment' data-time='543674' id='t-543674'>to parasatize,</span>
+<span class='talk-transcript__fragment' data-time='545056' id='t-545056'>but not only is its brain the size of a salt grain,</span>
+<span class='talk-transcript__fragment' data-time='549171' id='t-549171'>which is comparable for a fruit fly,</span>
+<span class='talk-transcript__fragment' data-time='551140' id='t-551140'>it is the size of a salt grain.</span>
+<span class='talk-transcript__fragment' data-time='554066' id='t-554066'>So here's some other organisms at the similar scale.</span>
+<span class='talk-transcript__fragment' data-time='557701' id='t-557701'>This animal is the size of a paramecium and an amoeba,</span>
+<span class='talk-transcript__fragment' data-time='561831' id='t-561831'>and it has a brain of 7,000 neurons that's so small --</span>
+<span class='talk-transcript__fragment' data-time='565711' id='t-565711'>you know these things called cell bodies you've been hearing about,</span>
+<span class='talk-transcript__fragment' data-time='568167' id='t-568167'>where the nucleus of the neuron is?</span>
+<span class='talk-transcript__fragment' data-time='569818' id='t-569818'>This animal gets rid of them because they take up too much space.</span>
+<span class='talk-transcript__fragment' data-time='573278' id='t-573278'>So this is a session on frontiers in neuroscience.</span>
+<span class='talk-transcript__fragment' data-time='575751' id='t-575751'>I would posit that one frontier in neuroscience is to figure out how the brain of that thing works.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='581111' id='t-581111'>But let's think about this. How can you make a small number of neurons do a lot?</span>
+<span class='talk-transcript__fragment' data-time='586744' id='t-586744'>And I think, from an engineering perspective,</span>
+<span class='talk-transcript__fragment' data-time='589266' id='t-589266'>you think of multiplexing.</span>
+<span class='talk-transcript__fragment' data-time='590995' id='t-590995'>You can take a hardware and have that hardware</span>
+<span class='talk-transcript__fragment' data-time='593698' id='t-593698'>do different things at different times,</span>
+<span class='talk-transcript__fragment' data-time='595311' id='t-595311'>or have different parts of the hardware doing different things.</span>
+<span class='talk-transcript__fragment' data-time='598306' id='t-598306'>And these are the two concepts I'd like to explore.</span>
+<span class='talk-transcript__fragment' data-time='601577' id='t-601577'>And they're not concepts that I've come up with,</span>
+<span class='talk-transcript__fragment' data-time='603235' id='t-603235'>but concepts that have been proposed by others in the past.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='607780' id='t-607780'>And one idea comes from lessons from chewing crabs.</span>
+<span class='talk-transcript__fragment' data-time='610855' id='t-610855'>And I don't mean chewing the crabs.</span>
+<span class='talk-transcript__fragment' data-time='612722' id='t-612722'>I grew up in Baltimore, and I chew crabs very, very well.</span>
+<span class='talk-transcript__fragment' data-time='616321' id='t-616321'>But I'm talking about the crabs actually doing the chewing.</span>
+<span class='talk-transcript__fragment' data-time='619178' id='t-619178'>Crab chewing is actually really fascinating.</span>
+<span class='talk-transcript__fragment' data-time='621208' id='t-621208'>Crabs have this complicated structure under their carapace</span>
+<span class='talk-transcript__fragment' data-time='624467' id='t-624467'>called the gastric mill</span>
+<span class='talk-transcript__fragment' data-time='625777' id='t-625777'>that grinds their food in a variety of different ways.</span>
+<span class='talk-transcript__fragment' data-time='628207' id='t-628207'>And here's an endoscopic movie of this structure.</span>
+<span class='talk-transcript__fragment' data-time='633466' id='t-633466'>The amazing thing about this is that it's controlled</span>
+<span class='talk-transcript__fragment' data-time='636026' id='t-636026'>by a really tiny set of neurons, about two dozen neurons</span>
+<span class='talk-transcript__fragment' data-time='639458' id='t-639458'>that can produce a vast variety of different motor patterns,</span>
+<span class='talk-transcript__fragment' data-time='644421' id='t-644421'>and the reason it can do this is that this little tiny ganglion</span>
+<span class='talk-transcript__fragment' data-time='648768' id='t-648768'>in the crab is actually inundated by many, many neuromodulators.</span>
+<span class='talk-transcript__fragment' data-time='652952' id='t-652952'>You heard about neuromodulators earlier.</span>
+<span class='talk-transcript__fragment' data-time='655093' id='t-655093'>There are more neuromodulators</span>
+<span class='talk-transcript__fragment' data-time='657318' id='t-657318'>that alter, that innervate this structure than actually neurons in the structure,</span>
+<span class='talk-transcript__fragment' data-time='662803' id='t-662803'>and they're able to generate a complicated set of patterns.</span>
+<span class='talk-transcript__fragment' data-time='667045' id='t-667045'>And this is the work by Eve Marder and her many colleagues</span>
+<span class='talk-transcript__fragment' data-time='670486' id='t-670486'>who've been studying this fascinating system</span>
+<span class='talk-transcript__fragment' data-time='672781' id='t-672781'>that show how a smaller cluster of neurons</span>
+<span class='talk-transcript__fragment' data-time='674933' id='t-674933'>can do many, many, many things</span>
+<span class='talk-transcript__fragment' data-time='676758' id='t-676758'>because of neuromodulation that can take place on a moment-by-moment basis.</span>
+<span class='talk-transcript__fragment' data-time='681614' id='t-681614'>So this is basically multiplexing in time.</span>
+<span class='talk-transcript__fragment' data-time='684053' id='t-684053'>Imagine a network of neurons with one neuromodulator.</span>
+<span class='talk-transcript__fragment' data-time='686838' id='t-686838'>You select one set of cells to perform one sort of behavior,</span>
+<span class='talk-transcript__fragment' data-time='690316' id='t-690316'>another neuromodulator, another set of cells,</span>
+<span class='talk-transcript__fragment' data-time='692934' id='t-692934'>a different pattern, and you can imagine</span>
+<span class='talk-transcript__fragment' data-time='694647' id='t-694647'>you could extrapolate to a very, very complicated system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='698525' id='t-698525'>Is there any evidence that flies do this?</span>
+<span class='talk-transcript__fragment' data-time='700619' id='t-700619'>Well, for many years in my laboratory and other laboratories around the world,</span>
+<span class='talk-transcript__fragment' data-time='703994' id='t-703994'>we've been studying fly behaviors in little flight simulators.</span>
+<span class='talk-transcript__fragment' data-time='706642' id='t-706642'>You can tether a fly to a little stick.</span>
+<span class='talk-transcript__fragment' data-time='708348' id='t-708348'>You can measure the aerodynamic forces it's creating.</span>
+<span class='talk-transcript__fragment' data-time='710849' id='t-710849'>You can let the fly play a little video game</span>
+<span class='talk-transcript__fragment' data-time='713395' id='t-713395'>by letting it fly around in a visual display.</span>
+<span class='talk-transcript__fragment' data-time='717273' id='t-717273'>So let me show you a little tiny sequence of this.</span>
+<span class='talk-transcript__fragment' data-time='719610' id='t-719610'>Here's a fly</span>
+<span class='talk-transcript__fragment' data-time='720837' id='t-720837'>and a large infrared view of the fly in the flight simulator,</span>
+<span class='talk-transcript__fragment' data-time='724274' id='t-724274'>and this is a game the flies love to play.</span>
+<span class='talk-transcript__fragment' data-time='726229' id='t-726229'>You allow them to steer towards the little stripe,</span>
+<span class='talk-transcript__fragment' data-time='728666' id='t-728666'>and they'll just steer towards that stripe forever.</span>
+<span class='talk-transcript__fragment' data-time='731491' id='t-731491'>It's part of their visual guidance system.</span>
+<span class='talk-transcript__fragment' data-time='735049' id='t-735049'>But very, very recently, it's been possible</span>
+<span class='talk-transcript__fragment' data-time='737394' id='t-737394'>to modify these sorts of behavioral arenas for physiologies.</span>
+<span class='talk-transcript__fragment' data-time='742334' id='t-742334'>So this is the preparation that one of my former post-docs,</span>
+<span class='talk-transcript__fragment' data-time='744822' id='t-744822'>Gaby Maimon, who's now at Rockefeller, developed,</span>
+<span class='talk-transcript__fragment' data-time='747265' id='t-747265'>and it's basically a flight simulator</span>
+<span class='talk-transcript__fragment' data-time='748951' id='t-748951'>but under conditions where you actually can stick an electrode</span>
+<span class='talk-transcript__fragment' data-time='752026' id='t-752026'>in the brain of the fly and record</span>
+<span class='talk-transcript__fragment' data-time='754290' id='t-754290'>from a genetically identified neuron in the fly's brain.</span>
+<span class='talk-transcript__fragment' data-time='757946' id='t-757946'>And this is what one of these experiments looks like.</span>
+<span class='talk-transcript__fragment' data-time='760244' id='t-760244'>It was a sequence taken from another post-doc in the lab,</span>
+<span class='talk-transcript__fragment' data-time='763215' id='t-763215'>Bettina Schnell.</span>
+<span class='talk-transcript__fragment' data-time='764414' id='t-764414'>The green trace at the bottom is the membrane potential</span>
+<span class='talk-transcript__fragment' data-time='767806' id='t-767806'>of a neuron in the fly's brain,</span>
+<span class='talk-transcript__fragment' data-time='769836' id='t-769836'>and you'll see the fly start to fly, and the fly is actually</span>
+<span class='talk-transcript__fragment' data-time='772778' id='t-772778'>controlling the rotation of that visual pattern itself</span>
+<span class='talk-transcript__fragment' data-time='776057' id='t-776057'>by its own wing motion,</span>
+<span class='talk-transcript__fragment' data-time='777536' id='t-777536'>and you can see this visual interneuron</span>
+<span class='talk-transcript__fragment' data-time='779646' id='t-779646'>respond to the pattern of wing motion as the fly flies.</span>
+<span class='talk-transcript__fragment' data-time='783554' id='t-783554'>So for the first time we've actually been able to record</span>
+<span class='talk-transcript__fragment' data-time='785930' id='t-785930'>from neurons in the fly's brain while the fly</span>
+<span class='talk-transcript__fragment' data-time='788838' id='t-788838'>is performing sophisticated behaviors such as flight.</span>
+<span class='talk-transcript__fragment' data-time='793306' id='t-793306'>And one of the lessons we've been learning</span>
+<span class='talk-transcript__fragment' data-time='795161' id='t-795161'>is that the physiology of cells that we've been studying</span>
+<span class='talk-transcript__fragment' data-time='797581' id='t-797581'>for many years in quiescent flies</span>
+<span class='talk-transcript__fragment' data-time='800002' id='t-800002'>is not the same as the physiology of those cells</span>
+<span class='talk-transcript__fragment' data-time='802650' id='t-802650'>when the flies actually engage in active behaviors</span>
+<span class='talk-transcript__fragment' data-time='805386' id='t-805386'>like flying and walking and so forth.</span>
+<span class='talk-transcript__fragment' data-time='807925' id='t-807925'>And why is the physiology different?</span>
+<span class='talk-transcript__fragment' data-time='810850' id='t-810850'>Well it turns out it's these neuromodulators,</span>
+<span class='talk-transcript__fragment' data-time='812907' id='t-812907'>just like the neuromodulators in that little tiny ganglion in the crabs.</span>
+<span class='talk-transcript__fragment' data-time='816858' id='t-816858'>So here's a picture of the octopamine system.</span>
+<span class='talk-transcript__fragment' data-time='819408' id='t-819408'>Octopamine is a neuromodulator</span>
+<span class='talk-transcript__fragment' data-time='821162' id='t-821162'>that seems to play an important role in flight and other behaviors.</span>
+<span class='talk-transcript__fragment' data-time='825498' id='t-825498'>But this is just one of many neuromodulators</span>
+<span class='talk-transcript__fragment' data-time='827970' id='t-827970'>that's in the fly's brain.</span>
+<span class='talk-transcript__fragment' data-time='829041' id='t-829041'>So I really think that, as we learn more,</span>
+<span class='talk-transcript__fragment' data-time='831707' id='t-831707'>it's going to turn out that the whole fly brain</span>
+<span class='talk-transcript__fragment' data-time='834234' id='t-834234'>is just like a large version of this stomatogastric ganglion,</span>
+<span class='talk-transcript__fragment' data-time='837323' id='t-837323'>and that's one of the reasons why it can do so much with so few neurons.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='841683' id='t-841683'>Now, another idea, another way of multiplexing</span>
+<span class='talk-transcript__fragment' data-time='844470' id='t-844470'>is multiplexing in space,</span>
+<span class='talk-transcript__fragment' data-time='846126' id='t-846126'>having different parts of a neuron</span>
+<span class='talk-transcript__fragment' data-time='847820' id='t-847820'>do different things at the same time.</span>
+<span class='talk-transcript__fragment' data-time='849942' id='t-849942'>So here's two sort of canonical neurons</span>
+<span class='talk-transcript__fragment' data-time='851775' id='t-851775'>from a vertebrate and an invertebrate,</span>
+<span class='talk-transcript__fragment' data-time='854060' id='t-854060'>a human pyramidal neuron from Ramon y Cajal,</span>
+<span class='talk-transcript__fragment' data-time='857310' id='t-857310'>and another cell to the right, a non-spiking interneuron,</span>
+<span class='talk-transcript__fragment' data-time='861313' id='t-861313'>and this is the work of Alan Watson and Malcolm Burrows many years ago,</span>
+<span class='talk-transcript__fragment' data-time='865460' id='t-865460'>and Malcolm Burrows came up with a pretty interesting idea</span>
+<span class='talk-transcript__fragment' data-time='868535' id='t-868535'>based on the fact that this neuron from a locust</span>
+<span class='talk-transcript__fragment' data-time='871417' id='t-871417'>does not fire action potentials.</span>
+<span class='talk-transcript__fragment' data-time='873376' id='t-873376'>It's a non-spiking cell.</span>
+<span class='talk-transcript__fragment' data-time='875124' id='t-875124'>So a typical cell, like the neurons in our brain,</span>
+<span class='talk-transcript__fragment' data-time='877904' id='t-877904'>has a region called the dendrites that receives input,</span>
+<span class='talk-transcript__fragment' data-time='880656' id='t-880656'>and that input sums together</span>
+<span class='talk-transcript__fragment' data-time='883245' id='t-883245'>and will produce action potentials</span>
+<span class='talk-transcript__fragment' data-time='885541' id='t-885541'>that run down the axon and then activate</span>
+<span class='talk-transcript__fragment' data-time='887872' id='t-887872'>all the output regions of the neuron.</span>
+<span class='talk-transcript__fragment' data-time='890168' id='t-890168'>But non-spiking neurons are actually quite complicated</span>
+<span class='talk-transcript__fragment' data-time='893044' id='t-893044'>because they can have input synapses and output synapses</span>
+<span class='talk-transcript__fragment' data-time='896156' id='t-896156'>all interdigitated, and there's no single action potential</span>
+<span class='talk-transcript__fragment' data-time='899819' id='t-899819'>that drives all the outputs at the same time.</span>
+<span class='talk-transcript__fragment' data-time='902945' id='t-902945'>So there's a possibility that you have computational compartments</span>
+<span class='talk-transcript__fragment' data-time='906852' id='t-906852'>that allow the different parts of the neuron</span>
+<span class='talk-transcript__fragment' data-time='910830' id='t-910830'>to do different things at the same time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='913390' id='t-913390'>So these basic concepts of multitasking in time</span>
+<span class='talk-transcript__fragment' data-time='918061' id='t-918061'>and multitasking in space,</span>
+<span class='talk-transcript__fragment' data-time='920422' id='t-920422'>I think these are things that are true in our brains as well,</span>
+<span class='talk-transcript__fragment' data-time='923254' id='t-923254'>but I think the insects are the true masters of this.</span>
+<span class='talk-transcript__fragment' data-time='925831' id='t-925831'>So I hope you think of insects a little bit differently next time,</span>
+<span class='talk-transcript__fragment' data-time='928947' id='t-928947'>and as I say up here, please think before you swat.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='931882' id='t-931882'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

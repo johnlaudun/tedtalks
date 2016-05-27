@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Danny Hillis: Understanding cancer through proteomics | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Danny Hillis: Understanding cancer through proteomics | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Danny Hills makes a case for the next frontier of cancer research: proteomics, the study of proteins in the body. As Hillis explains it, genomics shows us a list of the ingredients of the body -- while proteomics shows us what those ingredients produce. Understanding what&#39;s going on in your body at the protein level may lead to a new understanding of how cancer happens. " name="description" />
+<meta content="Danny Hillis" name="author" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=ka" hreflang="ka" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;Understanding cancer through proteomics&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0b4b6ddb66fa57d567317ef46424c7264fde8434_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0b4b6ddb66fa57d567317ef46424c7264fde8434_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Danny Hills makes a case for the next frontier of cancer research: proteomics, the study of proteins in the body. As Hillis explains it, genomics shows us a list of the ingredients of the body -- while proteomics shows us what those ingredients produce. Understanding what&#39;s going on in your body at the protein level may lead to a new understanding of how cancer happens. " property="og:description" />
+<meta content="http://www.ted.com/talks/danny_hillis_two_frontiers_of_cancer_treatment/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1082?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='danny_hillis_two_frontiers_of_cancer_treatment'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='ka'>Georgian</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1082?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1195" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0b4b6ddb66fa57d567317ef46424c7264fde8434_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:55</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Danny Hillis</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1082?language=en' lang='en'>
+Understanding cancer through proteomics
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2011
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I admit that I'm a little bit nervous here</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>because I'm going to say some radical things,</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>about how we should think about cancer differently,</span>
+<span class='talk-transcript__fragment' data-time='9000' id='t-9000'>to an audience that contains a lot of people</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>who know a lot more about cancer than I do.</span>
+<span class='talk-transcript__fragment' data-time='15000' id='t-15000'>But I will also contest that I'm not as nervous as I should be</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>because I'm pretty sure I'm right about this.</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>And that this, in fact, will be</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>the way that we treat cancer in the future.</span>
+<span class='talk-transcript__fragment' data-time='28000' id='t-28000'>In order to talk about cancer,</span>
+<span class='talk-transcript__fragment' data-time='30000' id='t-30000'>I'm going to actually have to --</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>let me get the big slide here.</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>First, I'm going to try to give you a different perspective of genomics.</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>I want to put it in perspective of the bigger picture</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>of all the other things that are going on --</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>and then talk about something you haven't heard so much about, which is proteomics.</span>
+<span class='talk-transcript__fragment' data-time='49000' id='t-49000'>Having explained those,</span>
+<span class='talk-transcript__fragment' data-time='51000' id='t-51000'>that will set up for what I think will be a different idea</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>about how to go about treating cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>So let me start with genomics.</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>It is the hot topic.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>It is the place where we're learning the most.</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>This is the great frontier.</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>But it has its limitations.</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>And in particular, you've probably all heard the analogy</span>
+<span class='talk-transcript__fragment' data-time='70000' id='t-70000'>that the genome is like the blueprint of your body,</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>and if that were only true, it would be great,</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>but it's not.</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>It's like the parts list of your body.</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>It doesn't say how things are connected,</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>what causes what and so on.</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>So if I can make an analogy,</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>let's say that you were trying to tell the difference</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>between a good restaurant, a healthy restaurant</span>
+<span class='talk-transcript__fragment' data-time='91000' id='t-91000'>and a sick restaurant,</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>and all you had was the list of ingredients</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>that they had in their larder.</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>So it might be that, if you went to a French restaurant</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>and you looked through it and you found</span>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>they only had margarine and they didn't have butter,</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>you could say, &quot;Ah, I see what's wrong with them.</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>I can make them healthy.&quot;</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>And there probably are special cases of that.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>You could certainly tell the difference</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>between a Chinese restaurant and a French restaurant</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>by what they had in a larder.</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>So the list of ingredients does tell you something,</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>and sometimes it tells you something that's wrong.</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>If they have tons of salt,</span>
+<span class='talk-transcript__fragment' data-time='126000' id='t-126000'>you might guess they're using too much salt, or something like that.</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>But it's limited,</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>because really to know if it's a healthy restaurant,</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>you need to taste the food, you need to know what goes on in the kitchen,</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>you need the product of all of those ingredients.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>So if I look at a person</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>and I look at a person's genome, it's the same thing.</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>The part of the genome that we can read</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>is the list of ingredients.</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>And so indeed,</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>there are times when we can find ingredients</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>that [are] bad.</span>
+<span class='talk-transcript__fragment' data-time='154000' id='t-154000'>Cystic fibrosis is an example of a disease</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>where you just have a bad ingredient and you have a disease,</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>and we can actually make a direct correspondence</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>between the ingredient and the disease.</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>But most things, you really have to know what's going on in the kitchen,</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>because, mostly, sick people used to be healthy people --</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>they have the same genome.</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>So the genome really tells you much more</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>about predisposition.</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>So what you can tell</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>is you can tell the difference between an Asian person and a European person</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>by looking at their ingredients list.</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>But you really for the most part can't tell the difference</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>between a healthy person and a sick person --</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>except in some of these special cases.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>So why all the big deal</span>
+<span class='talk-transcript__fragment' data-time='192000' id='t-192000'>about genetics?</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>Well first of all,</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>it's because we can read it, which is fantastic.</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>It is very useful in certain circumstances.</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>It's also the great theoretical triumph</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>of biology.</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>It's the one theory</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>that the biologists ever really got right.</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>It's fundamental to Darwin</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>and Mendel and so on.</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>And so it's the one thing where they predicted a theoretical construct.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>So Mendel had this idea of a gene</span>
+<span class='talk-transcript__fragment' data-time='221000' id='t-221000'>as an abstract thing,</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>and Darwin built a whole theory</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>that depended on them existing,</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>and then Watson and Crick</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>actually looked and found one.</span>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>So this happens in physics all the time.</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>You predict a black hole,</span>
+<span class='talk-transcript__fragment' data-time='236000' id='t-236000'>and you look out the telescope and there it is, just like you said.</span>
+<span class='talk-transcript__fragment' data-time='239000' id='t-239000'>But it rarely happens in biology.</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>So this great triumph -- it's so good,</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>there's almost a religious experience</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>in biology.</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>And Darwinian evolution</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>is really the core theory.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>So the other reason it's been very popular</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>is because we can measure it, it's digital.</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>And in fact,</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>thanks to Kary Mullis,</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>you can basically measure your genome in your kitchen</span>
+<span class='talk-transcript__fragment' data-time='268000' id='t-268000'>with a few extra ingredients.</span>
+<span class='talk-transcript__fragment' data-time='271000' id='t-271000'>So for instance, by measuring the genome,</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>we've learned a lot about how we're related to other kinds of animals</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>by the closeness of our genome,</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>or how we're related to each other -- the family tree,</span>
+<span class='talk-transcript__fragment' data-time='284000' id='t-284000'>or the tree of life.</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>There's a huge amount of information about the genetics</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>just by comparing the genetic similarity.</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>Now of course, in medical application,</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>that is very useful</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>because it's the same kind of information</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>that the doctor gets from your family medical history --</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>except probably,</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>your genome knows much more about your medical history than you do.</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>And so by reading the genome,</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>we can find out much more about your family than you probably know.</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>And so we can discover things</span>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>that probably you could have found</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>by looking at enough of your relatives,</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>but they may be surprising.</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>I did the 23andMe thing</span>
+<span class='talk-transcript__fragment' data-time='323000' id='t-323000'>and was very surprised to discover that I am fat and bald.</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='333000' id='t-333000'>But sometimes you can learn much more useful things about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='336000' id='t-336000'>But mostly</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>what you need to know, to find out if you're sick,</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>is not your predispositions,</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>but it's actually what's going on in your body right now.</span>
+<span class='talk-transcript__fragment' data-time='346000' id='t-346000'>So to do that, what you really need to do,</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>you need to look at the things</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>that the genes are producing</span>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>and what's happening after the genetics,</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>and that's what proteomics is about.</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>Just like genome mixes the study of all the genes,</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>proteomics is the study of all the proteins.</span>
+<span class='talk-transcript__fragment' data-time='362000' id='t-362000'>And the proteins are all of the little things in your body</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>that are signaling between the cells --</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>actually, the machines that are operating --</span>
+<span class='talk-transcript__fragment' data-time='369000' id='t-369000'>that's where the action is.</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>Basically, a human body</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>is a conversation going on,</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>both within the cells and between the cells,</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>and they're telling each other to grow and to die,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>and when you're sick,</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>something's gone wrong with that conversation.</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>And so the trick is --</span>
+<span class='talk-transcript__fragment' data-time='389000' id='t-389000'>unfortunately, we don't have an easy way to measure these</span>
+<span class='talk-transcript__fragment' data-time='392000' id='t-392000'>like we can measure the genome.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>So the problem is that measuring --</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>if you try to measure all the proteins, it's a very elaborate process.</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>It requires hundreds of steps,</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>and it takes a long, long time.</span>
+<span class='talk-transcript__fragment' data-time='404000' id='t-404000'>And it matters how much of the protein it is.</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>It could be very significant that a protein changed by 10 percent,</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>so it's not a nice digital thing like DNA.</span>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>And basically our problem is somebody's in the middle</span>
+<span class='talk-transcript__fragment' data-time='414000' id='t-414000'>of this very long stage,</span>
+<span class='talk-transcript__fragment' data-time='416000' id='t-416000'>they pause for just a moment,</span>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>and they leave something in an enzyme for a second,</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>and all of a sudden all the measurements from then on</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>don't work.</span>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>And so then people get very inconsistent results</span>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>when they do it this way.</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>People have tried very hard to do this.</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>I tried this a couple of times</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>and looked at this problem and gave up on it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>I kept getting this call from this oncologist</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>named David Agus.</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>And Applied Minds gets a lot of calls</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>from people who want help with their problems,</span>
+<span class='talk-transcript__fragment' data-time='443000' id='t-443000'>and I didn't think this was a very likely one to call back,</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>so I kept on giving him to the delay list.</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>And then one day,</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>I get a call from John Doerr, Bill Berkman</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>and Al Gore on the same day</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>saying return David Agus's phone call.</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>So I was like, &quot;Okay. This guy's at least resourceful.&quot;</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>So we started talking,</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>and he said, &quot;I really need a better way to measure proteins.&quot;</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>I'm like, &quot;Looked at that. Been there.</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>Not going to be easy.&quot;</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>He's like, &quot;No, no. I really need it.</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>I mean, I see patients dying every day</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>because we don't know what's going on inside of them.</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>We have to have a window into this.&quot;</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>And he took me through</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>specific examples of when he really needed it.</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>And I realized, wow, this would really make a big difference,</span>
+<span class='talk-transcript__fragment' data-time='492000' id='t-492000'>if we could do it,</span>
+<span class='talk-transcript__fragment' data-time='494000' id='t-494000'>and so I said, &quot;Well, let's look at it.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>Applied Minds has enough play money</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>that we can go and just work on something</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>without getting anybody's funding or permission or anything.</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>So we started playing around with this.</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>And as we did it, we realized this was the basic problem --</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>that taking the sip of coffee --</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>that there were humans doing this complicated process</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>and that what really needed to be done</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>was to automate this process like an assembly line</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>and build robots</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>that would measure proteomics.</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>And so we did that,</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>and working with David,</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>we made a little company called Applied Proteomics eventually,</span>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>which makes this robotic assembly line,</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>which, in a very consistent way, measures the protein.</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>And I'll show you what that protein measurement looks like.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>Basically, what we do</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>is we take a drop of blood</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>out of a patient,</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>and we sort out the proteins</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>in the drop of blood</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>according to how much they weigh,</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>how slippery they are,</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>and we arrange them in an image.</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>And so we can look at literally</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>hundreds of thousands of features at once</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>out of that drop of blood.</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>And we can take a different one tomorrow,</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>and you will see your proteins tomorrow will be different --</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>they'll be different after you eat or after you sleep.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>They really tell us what's going on there.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>And so this picture,</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>which looks like a big smudge to you,</span>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>is actually the thing that got me really thrilled about this</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>and made me feel like we were on the right track.</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>So if I zoom into that picture,</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>I can just show you what it means.</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>We sort out the proteins -- from left to right</span>
+<span class='talk-transcript__fragment' data-time='588000' id='t-588000'>is the weight of the fragments that we're getting,</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>and from top to bottom is how slippery they are.</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>So we're zooming in here just to show you a little bit of it.</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>And so each of these lines</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>represents some signal that we're getting out of a piece of a protein.</span>
+<span class='talk-transcript__fragment' data-time='602000' id='t-602000'>And you can see how the lines occur</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>in these little groups of bump, bump, bump, bump, bump.</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>And that's because we're measuring the weight so precisely that --</span>
+<span class='talk-transcript__fragment' data-time='611000' id='t-611000'>carbon comes in different isotopes,</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>so if it has an extra neutron on it,</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>we actually measure it as a different chemical.</span>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>So we're actually measuring each isotope as a different one.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>And so that gives you an idea</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>of how exquisitely sensitive this is.</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>So seeing this picture</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>is sort of like getting to be Galileo</span>
+<span class='talk-transcript__fragment' data-time='632000' id='t-632000'>and looking at the stars</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>and looking through the telescope for the first time,</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>and suddenly you say, &quot;Wow, it's way more complicated than we thought it was.&quot;</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>But we can see that stuff out there</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>and actually see features of it.</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>So this is the signature out of which we're trying to get patterns.</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>So what we do with this</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>is, for example, we can look at two patients,</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>one that responded to a drug and one that didn't respond to a drug,</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>and ask, &quot;What's going on differently</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>inside of them?&quot;</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>And so we can make these measurements precisely enough</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>that we can overlay two patients and look at the differences.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='663000' id='t-663000'>So here we have Alice in green</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>and Bob in red.</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>We overlay them. This is actual data.</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>And you can see, mostly it overlaps and it's yellow,</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>but there's some things that just Alice has</span>
+<span class='talk-transcript__fragment' data-time='675000' id='t-675000'>and some things that just Bob has.</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>And if we find a pattern of things</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>of the responders to the drug,</span>
+<span class='talk-transcript__fragment' data-time='683000' id='t-683000'>we see that in the blood,</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>they have the condition</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>that allows them to respond to this drug.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>We might not even know what this protein is,</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>but we can see it's a marker</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>for the response to the disease.</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>So this already, I think,</span>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>is tremendously useful in all kinds of medicine.</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>But I think this is actually</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>just the beginning</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>of how we're going to treat cancer.</span>
+<span class='talk-transcript__fragment' data-time='709000' id='t-709000'>So let me move to cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='711000' id='t-711000'>The thing about cancer --</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>when I got into this,</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>I really knew nothing about it,</span>
+<span class='talk-transcript__fragment' data-time='717000' id='t-717000'>but working with David Agus,</span>
+<span class='talk-transcript__fragment' data-time='719000' id='t-719000'>I started watching how cancer was actually being treated</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>and went to operations where it was being cut out.</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>And as I looked at it,</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>to me it didn't make sense</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>how we were approaching cancer,</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>and in order to make sense of it,</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>I had to learn where did this come from.</span>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>We're treating cancer almost like it's an infectious disease.</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>We're treating it as something that got inside of you</span>
+<span class='talk-transcript__fragment' data-time='743000' id='t-743000'>that we have to kill.</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>So this is the great paradigm.</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>This is another case</span>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>where a theoretical paradigm in biology really worked --</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>was the germ theory of disease.</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>So what doctors are mostly trained to do</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>is diagnose --</span>
+<span class='talk-transcript__fragment' data-time='758000' id='t-758000'>that is, put you into a category</span>
+<span class='talk-transcript__fragment' data-time='760000' id='t-760000'>and apply a scientifically proven treatment</span>
+<span class='talk-transcript__fragment' data-time='762000' id='t-762000'>for that diagnosis --</span>
+<span class='talk-transcript__fragment' data-time='764000' id='t-764000'>and that works great for infectious diseases.</span>
+<span class='talk-transcript__fragment' data-time='767000' id='t-767000'>So if we put you in the category</span>
+<span class='talk-transcript__fragment' data-time='769000' id='t-769000'>of you've got syphilis, we can give you penicillin.</span>
+<span class='talk-transcript__fragment' data-time='772000' id='t-772000'>We know that that works.</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>If you've got malaria, we give you quinine</span>
+<span class='talk-transcript__fragment' data-time='776000' id='t-776000'>or some derivative of it.</span>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>And so that's the basic thing doctors are trained to do,</span>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>and it's miraculous</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>in the case of infectious disease --</span>
+<span class='talk-transcript__fragment' data-time='786000' id='t-786000'>how well it works.</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>And many people in this audience probably wouldn't be alive</span>
+<span class='talk-transcript__fragment' data-time='791000' id='t-791000'>if doctors didn't do this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='793000' id='t-793000'>But now let's apply that</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>to systems diseases like cancer.</span>
+<span class='talk-transcript__fragment' data-time='797000' id='t-797000'>The problem is that, in cancer,</span>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>there isn't something else</span>
+<span class='talk-transcript__fragment' data-time='801000' id='t-801000'>that's inside of you.</span>
+<span class='talk-transcript__fragment' data-time='803000' id='t-803000'>It's you; you're broken.</span>
+<span class='talk-transcript__fragment' data-time='805000' id='t-805000'>That conversation inside of you</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>got mixed up in some way.</span>
+<span class='talk-transcript__fragment' data-time='811000' id='t-811000'>So how do we diagnose that conversation?</span>
+<span class='talk-transcript__fragment' data-time='813000' id='t-813000'>Well, right now what we do is we divide it by part of the body --</span>
+<span class='talk-transcript__fragment' data-time='816000' id='t-816000'>you know, where did it appear? --</span>
+<span class='talk-transcript__fragment' data-time='819000' id='t-819000'>and we put you in different categories</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>according to the part of the body.</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>And then we do a clinical trial</span>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>for a drug for lung cancer</span>
+<span class='talk-transcript__fragment' data-time='827000' id='t-827000'>and one for prostate cancer and one for breast cancer,</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>and we treat these as if they're separate diseases</span>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>and that this way of dividing them</span>
+<span class='talk-transcript__fragment' data-time='835000' id='t-835000'>had something to do with what actually went wrong.</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>And of course, it really doesn't have that much to do</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>with what went wrong</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>because cancer is a failure of the system.</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>And in fact, I think we're even wrong</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>when we talk about cancer as a thing.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>I think this is the big mistake.</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>I think cancer should not be a noun.</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>We should talk about cancering</span>
+<span class='talk-transcript__fragment' data-time='857000' id='t-857000'>as something we do, not something we have.</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>And so those tumors,</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>those are symptoms of cancer.</span>
+<span class='talk-transcript__fragment' data-time='864000' id='t-864000'>And so your body is probably cancering all the time,</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>but there are lots of systems in your body</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>that keep it under control.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='872000' id='t-872000'>And so to give you an idea</span>
+<span class='talk-transcript__fragment' data-time='874000' id='t-874000'>of an analogy of what I mean</span>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>by thinking of cancering as a verb,</span>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>imagine we didn't know anything about plumbing,</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>and the way that we talked about it,</span>
+<span class='talk-transcript__fragment' data-time='884000' id='t-884000'>we'd come home and we'd find a leak in our kitchen</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>and we'd say, &quot;Oh, my house has water.&quot;</span>
+<span class='talk-transcript__fragment' data-time='891000' id='t-891000'>We might divide it -- the plumber would say, &quot;Well, where's the water?&quot;</span>
+<span class='talk-transcript__fragment' data-time='894000' id='t-894000'>&quot;Well, it's in the kitchen.&quot; &quot;Oh, you must have kitchen water.&quot;</span>
+<span class='talk-transcript__fragment' data-time='897000' id='t-897000'>That's kind of the level at which it is.</span>
+<span class='talk-transcript__fragment' data-time='900000' id='t-900000'>&quot;Kitchen water,</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>well, first of all, we'll go in there and we'll mop out a lot of it.</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>And then we know that if we sprinkle Drano around the kitchen,</span>
+<span class='talk-transcript__fragment' data-time='907000' id='t-907000'>that helps.</span>
+<span class='talk-transcript__fragment' data-time='910000' id='t-910000'>Whereas living room water,</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>it's better to do tar on the roof.&quot;</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>And it sounds silly,</span>
+<span class='talk-transcript__fragment' data-time='916000' id='t-916000'>but that's basically what we do.</span>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>And I'm not saying you shouldn't mop up your water if you have cancer,</span>
+<span class='talk-transcript__fragment' data-time='921000' id='t-921000'>but I'm saying that's not really the problem;</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>that's the symptom of the problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='926000' id='t-926000'>What we really need to get at</span>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>is the process that's going on,</span>
+<span class='talk-transcript__fragment' data-time='930000' id='t-930000'>and that's happening at the level</span>
+<span class='talk-transcript__fragment' data-time='932000' id='t-932000'>of the proteonomic actions,</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>happening at the level of why is your body not healing itself</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>in the way that it normally does?</span>
+<span class='talk-transcript__fragment' data-time='939000' id='t-939000'>Because normally, your body is dealing with this problem all the time.</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>So your house is dealing with leaks all the time,</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>but it's fixing them. It's draining them out and so on.</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>So what we need</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>is to have a causative model</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>of what's actually going on,</span>
+<span class='talk-transcript__fragment' data-time='958000' id='t-958000'>and proteomics actually gives us</span>
+<span class='talk-transcript__fragment' data-time='961000' id='t-961000'>the ability to build a model like that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='964000' id='t-964000'>David got me invited</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>to give a talk at National Cancer Institute</span>
+<span class='talk-transcript__fragment' data-time='968000' id='t-968000'>and Anna Barker was there.</span>
+<span class='talk-transcript__fragment' data-time='972000' id='t-972000'>And so I gave this talk</span>
+<span class='talk-transcript__fragment' data-time='974000' id='t-974000'>and said, &quot;Why don't you guys do this?&quot;</span>
+<span class='talk-transcript__fragment' data-time='977000' id='t-977000'>And Anna said,</span>
+<span class='talk-transcript__fragment' data-time='979000' id='t-979000'>&quot;Because nobody within cancer</span>
+<span class='talk-transcript__fragment' data-time='982000' id='t-982000'>would look at it this way.</span>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>But what we're going to do, is we're going to create a program</span>
+<span class='talk-transcript__fragment' data-time='987000' id='t-987000'>for people outside the field of cancer</span>
+<span class='talk-transcript__fragment' data-time='989000' id='t-989000'>to get together with doctors</span>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>who really know about cancer</span>
+<span class='talk-transcript__fragment' data-time='994000' id='t-994000'>and work out different programs of research.&quot;</span>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>So David and I applied to this program</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>and created a consortium</span>
+<span class='talk-transcript__fragment' data-time='1002000' id='t-1002000'>at USC</span>
+<span class='talk-transcript__fragment' data-time='1004000' id='t-1004000'>where we've got some of the best oncologists in the world</span>
+<span class='talk-transcript__fragment' data-time='1007000' id='t-1007000'>and some of the best biologists in the world,</span>
+<span class='talk-transcript__fragment' data-time='1010000' id='t-1010000'>from Cold Spring Harbor,</span>
+<span class='talk-transcript__fragment' data-time='1012000' id='t-1012000'>Stanford, Austin --</span>
+<span class='talk-transcript__fragment' data-time='1014000' id='t-1014000'>I won't even go through and name all the places --</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>to have a research project</span>
+<span class='talk-transcript__fragment' data-time='1020000' id='t-1020000'>that will last for five years</span>
+<span class='talk-transcript__fragment' data-time='1022000' id='t-1022000'>where we're really going to try to build a model of cancer like this.</span>
+<span class='talk-transcript__fragment' data-time='1025000' id='t-1025000'>We're doing it in mice first,</span>
+<span class='talk-transcript__fragment' data-time='1027000' id='t-1027000'>and we will kill a lot of mice</span>
+<span class='talk-transcript__fragment' data-time='1029000' id='t-1029000'>in the process of doing this,</span>
+<span class='talk-transcript__fragment' data-time='1031000' id='t-1031000'>but they will die for a good cause.</span>
+<span class='talk-transcript__fragment' data-time='1033000' id='t-1033000'>And we will actually try to get to the point</span>
+<span class='talk-transcript__fragment' data-time='1036000' id='t-1036000'>where we have a predictive model</span>
+<span class='talk-transcript__fragment' data-time='1038000' id='t-1038000'>where we can understand,</span>
+<span class='talk-transcript__fragment' data-time='1040000' id='t-1040000'>when cancer happens,</span>
+<span class='talk-transcript__fragment' data-time='1042000' id='t-1042000'>what's actually happening in there</span>
+<span class='talk-transcript__fragment' data-time='1044000' id='t-1044000'>and which treatment will treat that cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1047000' id='t-1047000'>So let me just end with giving you a little picture</span>
+<span class='talk-transcript__fragment' data-time='1050000' id='t-1050000'>of what I think cancer treatment will be like in the future.</span>
+<span class='talk-transcript__fragment' data-time='1053000' id='t-1053000'>So I think eventually,</span>
+<span class='talk-transcript__fragment' data-time='1055000' id='t-1055000'>once we have one of these models for people,</span>
+<span class='talk-transcript__fragment' data-time='1057000' id='t-1057000'>which we'll get eventually --</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>I mean, our group won't get all the way there --</span>
+<span class='talk-transcript__fragment' data-time='1061000' id='t-1061000'>but eventually we'll have a very good computer model --</span>
+<span class='talk-transcript__fragment' data-time='1064000' id='t-1064000'>sort of like a global climate model for weather.</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>It has lots of different information</span>
+<span class='talk-transcript__fragment' data-time='1070000' id='t-1070000'>about what's the process going on in this proteomic conversation</span>
+<span class='talk-transcript__fragment' data-time='1073000' id='t-1073000'>on many different scales.</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>And so we will simulate</span>
+<span class='talk-transcript__fragment' data-time='1077000' id='t-1077000'>in that model</span>
+<span class='talk-transcript__fragment' data-time='1079000' id='t-1079000'>for your particular cancer --</span>
+<span class='talk-transcript__fragment' data-time='1082000' id='t-1082000'>and this also will be for ALS,</span>
+<span class='talk-transcript__fragment' data-time='1084000' id='t-1084000'>or any kind of system neurodegenerative diseases,</span>
+<span class='talk-transcript__fragment' data-time='1087000' id='t-1087000'>things like that --</span>
+<span class='talk-transcript__fragment' data-time='1089000' id='t-1089000'>we will simulate</span>
+<span class='talk-transcript__fragment' data-time='1091000' id='t-1091000'>specifically you,</span>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>not just a generic person,</span>
+<span class='talk-transcript__fragment' data-time='1095000' id='t-1095000'>but what's actually going on inside you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1097000' id='t-1097000'>And in that simulation, what we could do</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>is design for you specifically</span>
+<span class='talk-transcript__fragment' data-time='1101000' id='t-1101000'>a sequence of treatments,</span>
+<span class='talk-transcript__fragment' data-time='1103000' id='t-1103000'>and it might be very gentle treatments, very small amounts of drugs.</span>
+<span class='talk-transcript__fragment' data-time='1106000' id='t-1106000'>It might be things like, don't eat that day,</span>
+<span class='talk-transcript__fragment' data-time='1109000' id='t-1109000'>or give them a little chemotherapy,</span>
+<span class='talk-transcript__fragment' data-time='1111000' id='t-1111000'>maybe a little radiation.</span>
+<span class='talk-transcript__fragment' data-time='1113000' id='t-1113000'>Of course, we'll do surgery sometimes and so on.</span>
+<span class='talk-transcript__fragment' data-time='1116000' id='t-1116000'>But design a program of treatments specifically for you</span>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>and help your body</span>
+<span class='talk-transcript__fragment' data-time='1122000' id='t-1122000'>guide back to health --</span>
+<span class='talk-transcript__fragment' data-time='1125000' id='t-1125000'>guide your body back to health.</span>
+<span class='talk-transcript__fragment' data-time='1127000' id='t-1127000'>Because your body will do most of the work of fixing it</span>
+<span class='talk-transcript__fragment' data-time='1131000' id='t-1131000'>if we just sort of prop it up in the ways that are wrong.</span>
+<span class='talk-transcript__fragment' data-time='1134000' id='t-1134000'>We put it in the equivalent of splints.</span>
+<span class='talk-transcript__fragment' data-time='1136000' id='t-1136000'>And so your body basically has lots and lots of mechanisms</span>
+<span class='talk-transcript__fragment' data-time='1138000' id='t-1138000'>for fixing cancer,</span>
+<span class='talk-transcript__fragment' data-time='1140000' id='t-1140000'>and we just have to prop those up in the right way</span>
+<span class='talk-transcript__fragment' data-time='1143000' id='t-1143000'>and get them to do the job.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1145000' id='t-1145000'>And so I believe that this will be the way</span>
+<span class='talk-transcript__fragment' data-time='1147000' id='t-1147000'>that cancer will be treated in the future.</span>
+<span class='talk-transcript__fragment' data-time='1149000' id='t-1149000'>It's going to require a lot of work,</span>
+<span class='talk-transcript__fragment' data-time='1151000' id='t-1151000'>a lot of research.</span>
+<span class='talk-transcript__fragment' data-time='1153000' id='t-1153000'>There will be many teams like our team</span>
+<span class='talk-transcript__fragment' data-time='1156000' id='t-1156000'>that work on this.</span>
+<span class='talk-transcript__fragment' data-time='1158000' id='t-1158000'>But I think eventually,</span>
+<span class='talk-transcript__fragment' data-time='1160000' id='t-1160000'>we will design for everybody</span>
+<span class='talk-transcript__fragment' data-time='1162000' id='t-1162000'>a custom treatment for cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1166000' id='t-1166000'>So thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1168000' id='t-1168000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

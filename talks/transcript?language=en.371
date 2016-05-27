@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Joe DeRisi: Solving medical mysteries | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Joe DeRisi: Solving medical mysteries | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Biochemist Joe DeRisi talks about amazing new ways to diagnose viruses (and treat the illnesses they cause) using DNA. His work may help us understand malaria, SARS, avian flu -- and the 60 percent of everyday viral infections that go undiagnosed." name="description" />
+<meta content="Joe DeRisi" name="author" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=mk" hreflang="mk" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;Solving medical mysteries&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6813c2c2477a2a97f0b35a7bdeed9a33721bacf_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6813c2c2477a2a97f0b35a7bdeed9a33721bacf_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Biochemist Joe DeRisi talks about amazing new ways to diagnose viruses (and treat the illnesses they cause) using DNA. His work may help us understand malaria, SARS, avian flu -- and the 60 percent of everyday viral infections that go undiagnosed." property="og:description" />
+<meta content="http://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/445?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='joe_derisi_hunts_the_next_killer_virus'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='mk'>Macedonian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/445?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="965" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6813c2c2477a2a97f0b35a7bdeed9a33721bacf_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:05</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Joe DeRisi</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/445?language=en' lang='en'>
+Solving medical mysteries
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jan 2009
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>How can we investigate</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>this flora of viruses that surround us, and aid medicine?</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>How can we turn our cumulative knowledge of virology</span>
+<span class='talk-transcript__fragment' data-time='12000' id='t-12000'>into a simple, hand-held, single diagnostic assay?</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>I want to turn everything we know right now about detecting viruses</span>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>and the spectrum of viruses that are out there</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>into, let's say, a small chip.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>When we started thinking about this project --</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>how we would make a single diagnostic assay</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>to screen for all pathogens simultaneously --</span>
+<span class='talk-transcript__fragment' data-time='32000' id='t-32000'>well, there's some problems with this idea.</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>First of all, viruses are pretty complex,</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>but they're also evolving very fast.</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>This is a picornavirus.</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>Picornaviruses -- these are things that include</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>the common cold and polio, things like this.</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>You're looking at the outside shell of the virus,</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>and the yellow color here are those parts of the virus</span>
+<span class='talk-transcript__fragment' data-time='53000' id='t-53000'>that are evolving very, very fast,</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>and the blue parts are not evolving very fast.</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>When people think about making pan-viral detection reagents,</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>usually it's the fast-evolving problem that's an issue,</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>because how can we detect things if they're always changing?</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>But evolution is a balance:</span>
+<span class='talk-transcript__fragment' data-time='68000' id='t-68000'>where you have fast change, you also have ultra-conservation --</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>things that almost never change.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>And so we looked into this a little more carefully,</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>and I'm going to show you data now.</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>This is just some stuff you can do on the computer from the desktop.</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>I took a bunch of these small picornaviruses,</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>like the common cold, like polio and so on,</span>
+<span class='talk-transcript__fragment' data-time='85000' id='t-85000'>and I just broke them down into small segments.</span>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>And so took this first example, which is called coxsackievirus,</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>and just break it into small windows.</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>And I'm coloring these small windows blue</span>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>if another virus shares an identical sequence in its genome</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>to that virus.</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>These sequences right up here --</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>which don't even code for protein, by the way --</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>are almost absolutely identical across all of these,</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>so I could use this sequence as a marker</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>to detect a wide spectrum of viruses,</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>without having to make something individual.</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>Now, over here there's great diversity:</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>that's where things are evolving fast.</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>Down here you can see slower evolution: less diversity.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='126000' id='t-126000'>Now, by the time we get out here to, let's say,</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>acute bee paralysis virus --</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>probably a bad one to have if you're a bee ---</span>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>this virus shares almost no similarity to coxsackievirus,</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>but I can guarantee you that the sequences that are most conserved</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>among these viruses on the right-hand of the screen</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>are in identical regions right up here.</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>And so we can encapsulate these regions of ultra-conservation</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>through evolution -- how these viruses evolved --</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>by just choosing DNA elements or RNA elements</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>in these regions to represent on our chip as detection reagents.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>OK, so that's what we did, but how are we going to do that?</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>Well, for a long time, since I was in graduate school,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>I've been messing around making DNA chips --</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>that is, printing DNA on glass.</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>And that's what you see here:</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>These little salt spots are just DNA tacked onto glass,</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>and so I can put thousands of these on our glass chip</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>and use them as a detection reagent.</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>We took our chip over to Hewlett-Packard</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>and used their atomic force microscope on one of these spots,</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>and this is what you see:</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>you can actually see the strands of DNA lying flat on the glass here.</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>So, what we're doing is just printing DNA on glass --</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>little flat things -- and these are going to be markers for pathogens.</span>
+<span class='talk-transcript__fragment' data-time='194000' id='t-194000'>OK, I make little robots in lab to make these chips,</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>and I'm really big on disseminating technology.</span>
+<span class='talk-transcript__fragment' data-time='200000' id='t-200000'>If you've got enough money to buy just a Camry,</span>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>you can build one of these too,</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>and so we put a deep how-to guide on the Web, totally free,</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>with basically order-off-the-shelf parts.</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>You can build a DNA array machine in your garage.</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>Here's the section on the all-important emergency stop switch.</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>Every important machine's got to have a big red button.</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>But really, it's pretty robust.</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>You can actually be making DNA chips in your garage</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>and decoding some genetic programs pretty rapidly. It's a lot of fun.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>And so what we did -- and this is a really cool project --</span>
+<span class='talk-transcript__fragment' data-time='236000' id='t-236000'>we just started by making a respiratory virus chip.</span>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>I talked about that --</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>you know, that situation where you go into the clinic</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>and you don't get diagnosed?</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>Well, we just put basically all the human respiratory viruses</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>on one chip, and we threw in herpes virus for good measure --</span>
+<span class='talk-transcript__fragment' data-time='249000' id='t-249000'>I mean, why not?</span>
+<span class='talk-transcript__fragment' data-time='250000' id='t-250000'>The first thing you do as a scientist is,</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>you make sure stuff works.</span>
+<span class='talk-transcript__fragment' data-time='253000' id='t-253000'>And so what we did is, we take tissue culture cells</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>and infect them with various viruses,</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>and we take the stuff and fluorescently label the nucleic acid,</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>the genetic material that comes out of these tissue culture cells --</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>mostly viral stuff -- and stick it on the array to see where it sticks.</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>Now, if the DNA sequences match, they'll stick together,</span>
+<span class='talk-transcript__fragment' data-time='271000' id='t-271000'>and so we can look at spots.</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>And if spots light up, we know there's a certain virus in there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='275000' id='t-275000'>That's what one of these chips really looks like,</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>and these red spots are, in fact, signals coming from the virus.</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>And each spot represents a different family of virus</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>or species of virus.</span>
+<span class='talk-transcript__fragment' data-time='284000' id='t-284000'>And so, that's a hard way to look at things,</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>so I'm just going to encode things as a little barcode,</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>grouped by family, so you can see the results in a very intuitive way.</span>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>What we did is, we took tissue culture cells</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>and infected them with adenovirus,</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>and you can see this little yellow barcode next to adenovirus.</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>And, likewise, we infected them with parainfluenza-3 --</span>
+<span class='talk-transcript__fragment' data-time='303000' id='t-303000'>that's a paramyxovirus -- and you see a little barcode here.</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>And then we did respiratory syncytial virus.</span>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>That's the scourge of daycare centers everywhere --</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>it's like boogeremia, basically.</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>You can see that this barcode is the same family,</span>
+<span class='talk-transcript__fragment' data-time='317000' id='t-317000'>but it's distinct from parainfluenza-3,</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>which gives you a very bad cold.</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>And so we're getting unique signatures, a fingerprint for each virus.</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>Polio and rhino: they're in the same family, very close to each other.</span>
+<span class='talk-transcript__fragment' data-time='327000' id='t-327000'>Rhino's the common cold, and you all know what polio is,</span>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>and you can see that these signatures are distinct.</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>And Kaposi's sarcoma-associated herpes virus</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>gives a nice signature down here.</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>And so it is not any one stripe or something</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>that tells me I have a virus of a particular type here;</span>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>it's the barcode that in bulk represents the whole thing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>All right, I can see a rhinovirus --</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>and here's the blow-up of the rhinovirus's little barcode --</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>but what about different rhinoviruses?</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>How do I know which rhinovirus I have?</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>There're 102 known variants of the common cold,</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>and there're only 102 because people got bored collecting them:</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>there are just new ones every year.</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>And so, here are four different rhinoviruses,</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>and you can see, even with your eye,</span>
+<span class='talk-transcript__fragment' data-time='365000' id='t-365000'>without any fancy computer pattern-matching</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>recognition software algorithms,</span>
+<span class='talk-transcript__fragment' data-time='369000' id='t-369000'>that you can distinguish each one of these barcodes from each other.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>Now, this is kind of a cheap shot,</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>because I know what the genetic sequence of all these rhinoviruses is,</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>and I in fact designed the chip</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>expressly to be able to tell them apart,</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>but what about rhinoviruses that have never seen a genetic sequencer?</span>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>We don't know what the sequence is; just pull them out of the field.</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>So, here are four rhinoviruses</span>
+<span class='talk-transcript__fragment' data-time='388000' id='t-388000'>we never knew anything about --</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>no one's ever sequenced them -- and you can also see</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>that you get unique and distinguishable patterns.</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>You can imagine building up some library, whether real or virtual,</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>of fingerprints of essentially every virus.</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>But that's, again, shooting fish in a barrel, you know, right?</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>You have tissue culture cells. There are a ton of viruses.</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>What about real people?</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>You can't control real people, as you probably know.</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>You have no idea what someone's going to cough into a cup,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>and it's probably really complex, right?</span>
+<span class='talk-transcript__fragment' data-time='416000' id='t-416000'>It could have lots of bacteria, it could have more than one virus,</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>and it certainly has host genetic material.</span>
+<span class='talk-transcript__fragment' data-time='421000' id='t-421000'>So how do we deal with this?</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>And how do we do the positive control here?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>Well, it's pretty simple.</span>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>That's me, getting a nasal lavage.</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>And the idea is, let's experimentally inoculate people with virus.</span>
+<span class='talk-transcript__fragment' data-time='433000' id='t-433000'>This is all IRB-approved, by the way; they got paid.</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>And basically we experimentally inoculate people</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>with the common cold virus.</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>Or, even better, let's just take people</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>right out of the emergency room --</span>
+<span class='talk-transcript__fragment' data-time='445000' id='t-445000'>undefined, community-acquired respiratory tract infections.</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>You have no idea what walks in through the door.</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>So, let's start off with the positive control first,</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>where we know the person was healthy.</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>They got a shot of virus up the nose,</span>
+<span class='talk-transcript__fragment' data-time='458000' id='t-458000'>let's see what happens.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>Day zero: nothing happening.</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>They're healthy; they're clean -- it's amazing.</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>Actually, we thought the nasal tract might be full of viruses</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>even when you're walking around healthy.</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>It's pretty clean. If you're healthy, you're pretty healthy.</span>
+<span class='talk-transcript__fragment' data-time='468000' id='t-468000'>Day two: we get a very robust rhinovirus pattern,</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>and it's very similar to what we get in the lab</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>doing our tissue culture experiment.</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>So that's great, but again, cheap shot, right?</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>We put a ton of virus up this guy's nose. So --</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='481000' id='t-481000'>-- I mean, we wanted it to work. He really had a cold.</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>So, how about the people who walk in off the street?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>Here are two individuals represented by their anonymous ID codes.</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>They both have rhinoviruses; we've never seen this pattern in lab.</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>We sequenced part of their viruses;</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>they're new rhinoviruses no one's actually even seen.</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>Remember, our evolutionary-conserved sequences</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>we're using on this array allow us to detect</span>
+<span class='talk-transcript__fragment' data-time='504000' id='t-504000'>even novel or uncharacterized viruses,</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>because we pick what is conserved throughout evolution.</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>Here's another guy. You can play the diagnosis game yourself here.</span>
+<span class='talk-transcript__fragment' data-time='513000' id='t-513000'>These different blocks represent</span>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>the different viruses in this paramyxovirus family,</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>so you can kind of go down the blocks</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>and see where the signal is.</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>Well, doesn't have canine distemper; that's probably good.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>But by the time you get to block nine,</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>you see that respiratory syncytial virus.</span>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>Maybe they have kids. And then you can see, also,</span>
+<span class='talk-transcript__fragment' data-time='532000' id='t-532000'>the family member that's related: RSVB is showing up here.</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>So, that's great.</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>Here's another individual, sampled on two separate days --</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>repeat visits to the clinic.</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>This individual has parainfluenza-1,</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>and you can see that there's a little stripe over here</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>for Sendai virus: that's mouse parainfluenza.</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>The genetic relationships are very close there. That's a lot of fun.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>So, we built out the chip.</span>
+<span class='talk-transcript__fragment' data-time='553000' id='t-553000'>We made a chip that has every known virus ever discovered on it.</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>Why not? Every plant virus, every insect virus, every marine virus.</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>Everything that we could get out of GenBank --</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>that is, the national repository of sequences.</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>Now we're using this chip. And what are we using it for?</span>
+<span class='talk-transcript__fragment' data-time='567000' id='t-567000'>Well, first of all, when you have a big chip like this,</span>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>you need a little bit more informatics,</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>so we designed the system to do automatic diagnosis.</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>And the idea is that we simply have virtual patterns,</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>because we're never going to get samples of every virus --</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>it would be virtually impossible. But we can get virtual patterns,</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>and compare them to our observed result --</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>which is a very complex mixture -- and come up with some sort of score</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>of how likely it is this is a rhinovirus or something.</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>And this is what this looks like.</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>If, for example, you used a cell culture</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>that's chronically infected with papilloma,</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>you get a little computer readout here,</span>
+<span class='talk-transcript__fragment' data-time='598000' id='t-598000'>and our algorithm says it's probably papilloma type 18.</span>
+<span class='talk-transcript__fragment' data-time='602000' id='t-602000'>And that is, in fact, what these particular cell cultures</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>are chronically infected with.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>So let's do something a little bit harder.</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>We put the beeper in the clinic.</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>When somebody shows up, and the hospital doesn't know what to do</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>because they can't diagnose it, they call us.</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>That's the idea, and we're setting this up in the Bay Area.</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>And so, this case report happened three weeks ago.</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>We have a 28-year-old healthy woman, no travel history,</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>[unclear], doesn't smoke, doesn't drink.</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>10-day history of fevers, night sweats, bloody sputum --</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>she's coughing up blood -- muscle pain.</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>She went to the clinic, and they gave her antibiotics</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>and then sent her home.</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>She came back after ten days of fever, right? Still has the fever,</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>and she's hypoxic -- she doesn't have much oxygen in her lungs.</span>
+<span class='talk-transcript__fragment' data-time='642000' id='t-642000'>They did a CT scan.</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>A normal lung is all sort of dark and black here.</span>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>All this white stuff -- it's not good.</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>This sort of tree and bud formation indicates there's inflammation;</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>there's likely to be infection.</span>
+<span class='talk-transcript__fragment' data-time='654000' id='t-654000'>OK. So, the patient was treated then</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>with a third-generation cephalosporin antibiotic and doxycycline,</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>and on day three, it didn't help: she had progressed to acute failure.</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>They had to intubate her, so they put a tube down her throat</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>and they began to mechanically ventilate her.</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>She could no longer breathe for herself.</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>What to do next? Don't know.</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>Switch antibiotics: so they switched to another antibiotic,</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>Tamiflu.</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>It's not clear why they thought she had the flu,</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>but they switched to Tamiflu.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>And on day six, they basically threw in the towel.</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>You do an open lung biopsy when you've got no other options.</span>
+<span class='talk-transcript__fragment' data-time='688000' id='t-688000'>There's an eight percent mortality rate with just doing this procedure,</span>
+<span class='talk-transcript__fragment' data-time='690000' id='t-690000'>and so basically -- and what do they learn from it?</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>You're looking at her open lung biopsy.</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>And I'm no pathologist, but you can't tell much from this.</span>
+<span class='talk-transcript__fragment' data-time='697000' id='t-697000'>All you can tell is, there's a lot of swelling: bronchiolitis.</span>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>It was &quot;unrevealing&quot;: that's the pathologist's report.</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>And so, what did they test her for?</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>They have their own tests, of course,</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>and so they tested her for over 70 different assays,</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>for every sort of bacteria and fungus and viral assay</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>you can buy off the shelf:</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>SARS, metapneumovirus, HIV, RSV -- all these.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>Everything came back negative, over 100,000 dollars worth of tests.</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>I mean, they went to the max for this woman.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>And basically on hospital day eight, that's when they called us.</span>
+<span class='talk-transcript__fragment' data-time='728000' id='t-728000'>They gave us endotracheal aspirate --</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>you know, a little fluid from the throat,</span>
+<span class='talk-transcript__fragment' data-time='732000' id='t-732000'>from this tube that they got down there -- and they gave us this.</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>We put it on the chip; what do we see? Well, we saw parainfluenza-4.</span>
+<span class='talk-transcript__fragment' data-time='739000' id='t-739000'>Well, what the hell's parainfluenza-4?</span>
+<span class='talk-transcript__fragment' data-time='741000' id='t-741000'>No one tests for parainfluenza-4. No one cares about it.</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>In fact, it's not even really sequenced that much.</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>There's just a little bit of it sequenced.</span>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>There's almost no epidemiology or studies on it.</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>No one would even consider it,</span>
+<span class='talk-transcript__fragment' data-time='753000' id='t-753000'>because no one had a clue that it could cause respiratory failure.</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>And why is that? Just lore. There's no data --</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>no data to support whether it causes severe or mild disease.</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>Clearly, we have a case of a healthy person that's going down.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>OK, that's one case report.</span>
+<span class='talk-transcript__fragment' data-time='769000' id='t-769000'>I'm going to tell you one last thing in the last two minutes</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>that's unpublished -- it's going to come out tomorrow --</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>and it's an interesting case of how you might use this chip</span>
+<span class='talk-transcript__fragment' data-time='777000' id='t-777000'>to find something new and open a new door.</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>Prostate cancer. I don't need to give you many statistics</span>
+<span class='talk-transcript__fragment' data-time='783000' id='t-783000'>about prostate cancer. Most of you already know it:</span>
+<span class='talk-transcript__fragment' data-time='786000' id='t-786000'>third leading cause of cancer deaths in the U.S.</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>Lots of risk factors,</span>
+<span class='talk-transcript__fragment' data-time='790000' id='t-790000'>but there is a genetic predisposition to prostate cancer.</span>
+<span class='talk-transcript__fragment' data-time='794000' id='t-794000'>For maybe about 10 percent of prostate cancer,</span>
+<span class='talk-transcript__fragment' data-time='796000' id='t-796000'>there are folks that are predisposed to it.</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>And the first gene that was mapped in association studies</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>for this, early-onset prostate cancer, was this gene called RNASEL.</span>
+<span class='talk-transcript__fragment' data-time='806000' id='t-806000'>What is that? It's an antiviral defense enzyme.</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>So, we're sitting around and thinking,</span>
+<span class='talk-transcript__fragment' data-time='811000' id='t-811000'>&quot;Why would men who have the mutation --</span>
+<span class='talk-transcript__fragment' data-time='813000' id='t-813000'>a defect in an antiviral defense system -- get prostate cancer?</span>
+<span class='talk-transcript__fragment' data-time='818000' id='t-818000'>It doesn't make sense -- unless, maybe, there's a virus?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>So, we put tumors --- and now we have over 100 tumors -- on our array.</span>
+<span class='talk-transcript__fragment' data-time='827000' id='t-827000'>And we know who's got defects in RNASEL and who doesn't.</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>And I'm showing you the signal from the chip here,</span>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>and I'm showing you for the block of retroviral oligos.</span>
+<span class='talk-transcript__fragment' data-time='837000' id='t-837000'>And what I'm telling you here from the signal, is</span>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>that men who have a mutation in this antiviral defense enzyme,</span>
+<span class='talk-transcript__fragment' data-time='843000' id='t-843000'>and have a tumor, often have -- 40 percent of the time --</span>
+<span class='talk-transcript__fragment' data-time='847000' id='t-847000'>a signature which reveals a new retrovirus.</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>OK, that's pretty wild. What is it?</span>
+<span class='talk-transcript__fragment' data-time='854000' id='t-854000'>So, we clone the whole virus.</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>First of all, I'll tell you that a little automated prediction told us</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>it was very similar to a mouse virus.</span>
+<span class='talk-transcript__fragment' data-time='861000' id='t-861000'>But that doesn't tell us too much,</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>so we actually clone the whole thing.</span>
+<span class='talk-transcript__fragment' data-time='864000' id='t-864000'>And the viral genome I'm showing you right here?</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>It's a classic gamma retrovirus, but it's totally new;</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>no one's ever seen it before.</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>Its closest relative is, in fact, from mice,</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>and so we would call this a xenotropic retrovirus,</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>because it's infecting a species other than mice.</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>And this is a little phylogenetic tree</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>to see how it's related to other viruses.</span>
+<span class='talk-transcript__fragment' data-time='884000' id='t-884000'>We've done it for many patients now,</span>
+<span class='talk-transcript__fragment' data-time='887000' id='t-887000'>and we can say that they're all independent infections.</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>They all have the same virus,</span>
+<span class='talk-transcript__fragment' data-time='891000' id='t-891000'>but they're different enough that there's reason to believe</span>
+<span class='talk-transcript__fragment' data-time='894000' id='t-894000'>that they've been independently acquired.</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>Is it really in the tissue? And I'll end up with this: yes.</span>
+<span class='talk-transcript__fragment' data-time='898000' id='t-898000'>We take slices of these biopsies of tumor tissue</span>
+<span class='talk-transcript__fragment' data-time='901000' id='t-901000'>and use material to actually locate the virus,</span>
+<span class='talk-transcript__fragment' data-time='903000' id='t-903000'>and we find cells here with viral particles in them.</span>
+<span class='talk-transcript__fragment' data-time='907000' id='t-907000'>These guys really do have this virus.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>Does this virus cause prostate cancer?</span>
+<span class='talk-transcript__fragment' data-time='911000' id='t-911000'>Nothing I'm saying here implies causality. I don't know.</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>Is it a link to oncogenesis? I don't know.</span>
+<span class='talk-transcript__fragment' data-time='917000' id='t-917000'>Is it the case that these guys are just more susceptible to viruses?</span>
+<span class='talk-transcript__fragment' data-time='921000' id='t-921000'>Could be. And it might have nothing to do with cancer.</span>
+<span class='talk-transcript__fragment' data-time='924000' id='t-924000'>But now it's a door.</span>
+<span class='talk-transcript__fragment' data-time='925000' id='t-925000'>We have a strong association between the presence of this virus</span>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>and a genetic mutation that's been linked to cancer.</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>That's where we're at.</span>
+<span class='talk-transcript__fragment' data-time='932000' id='t-932000'>So, it opens up more questions than it answers, I'm afraid,</span>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>but that's what, you know, science is really good at.</span>
+<span class='talk-transcript__fragment' data-time='938000' id='t-938000'>This was all done by folks in the lab --</span>
+<span class='talk-transcript__fragment' data-time='940000' id='t-940000'>I cannot take credit for most of this.</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>This is a collaboration between myself and Don.</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>This is the guy who started the project in my lab,</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>and this is the guy who's been doing prostate stuff.</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>Thank you very much. (Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

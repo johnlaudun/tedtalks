@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jennifer Doudna: How CRISPR lets us edit our DNA | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Jennifer Doudna: How CRISPR lets us edit our DNA | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Geneticist Jennifer Doudna co-invented a groundbreaking new technology for editing genes, called CRISPR-Cas9. The tool allows scientists to make precise edits to DNA strands, which could lead to treatments for genetic diseases ... but could also be used to create so-called &quot;designer babies.&quot; Doudna reviews how CRISPR-Cas9 works -- and asks the scientific community to pause and discuss the ethics of this new tool." name="description" />
+<meta content="Jennifer Doudna" name="author" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=mk" hreflang="mk" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot; How CRISPR lets us edit our DNA&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa33beda36e8737f3ec0029a9df20dc8448f164d_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa33beda36e8737f3ec0029a9df20dc8448f164d_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Geneticist Jennifer Doudna co-invented a groundbreaking new technology for editing genes, called CRISPR-Cas9. The tool allows scientists to make precise edits to DNA strands, which could lead to treatments for genetic diseases ... but could also be used to create so-called &quot;designer babies.&quot; Doudna reviews how CRISPR-Cas9 works -- and asks the scientific community to pause and discuss the ethics of this new tool." property="og:description" />
+<meta content="http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2354?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='mk'>Macedonian</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2354?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="953" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa33beda36e8737f3ec0029a9df20dc8448f164d_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:53</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Jennifer Doudna</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2354?language=en' lang='en'>
+ How CRISPR lets us edit our DNA
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1303' id='t-1303'>A few years ago,</span>
+<span class='talk-transcript__fragment' data-time='2487' id='t-2487'>with my colleague, Emmanuelle Charpentier,</span>
+<span class='talk-transcript__fragment' data-time='5281' id='t-5281'>I invented a new technology
+for editing genomes.</span>
+<span class='talk-transcript__fragment' data-time='9093' id='t-9093'>It's called CRISPR-Cas9.</span>
+<span class='talk-transcript__fragment' data-time='11870' id='t-11870'>The CRISPR technology allows
+scientists to make changes</span>
+<span class='talk-transcript__fragment' data-time='15470' id='t-15470'>to the DNA in cells</span>
+<span class='talk-transcript__fragment' data-time='17349' id='t-17349'>that could allow us
+to cure genetic disease.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='21196' id='t-21196'>You might be interested to know</span>
+<span class='talk-transcript__fragment' data-time='22712' id='t-22712'>that the CRISPR technology came about
+through a basic research project</span>
+<span class='talk-transcript__fragment' data-time='26520' id='t-26520'>that was aimed at discovering
+how bacteria fight viral infections.</span>
+<span class='talk-transcript__fragment' data-time='31340' id='t-31340'>Bacteria have to deal with viruses
+in their environment,</span>
+<span class='talk-transcript__fragment' data-time='34236' id='t-34236'>and we can think about a viral infection
+like a ticking time bomb --</span>
+<span class='talk-transcript__fragment' data-time='37924' id='t-37924'>a bacterium has only a few minutes
+to defuse the bomb</span>
+<span class='talk-transcript__fragment' data-time='41306' id='t-41306'>before it gets destroyed.</span>
+<span class='talk-transcript__fragment' data-time='43284' id='t-43284'>So, many bacteria have in their cells
+an adaptive immune system called CRISPR,</span>
+<span class='talk-transcript__fragment' data-time='48698' id='t-48698'>that allows them to detect
+viral DNA and destroy it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='53148' id='t-53148'>Part of the CRISPR system
+is a protein called Cas9,</span>
+<span class='talk-transcript__fragment' data-time='57140' id='t-57140'>that's able to seek out, cut
+and eventually degrade viral DNA</span>
+<span class='talk-transcript__fragment' data-time='63113' id='t-63113'>in a specific way.</span>
+<span class='talk-transcript__fragment' data-time='65054' id='t-65054'>And it was through our research</span>
+<span class='talk-transcript__fragment' data-time='66580' id='t-66580'>to understand the activity
+of this protein, Cas9,</span>
+<span class='talk-transcript__fragment' data-time='70261' id='t-70261'>that we realized that we could
+harness its function</span>
+<span class='talk-transcript__fragment' data-time='73116' id='t-73116'>as a genetic engineering technology --</span>
+<span class='talk-transcript__fragment' data-time='76546' id='t-76546'>a way for scientists to delete or insert
+specific bits of DNA into cells</span>
+<span class='talk-transcript__fragment' data-time='83521' id='t-83521'>with incredible precision --</span>
+<span class='talk-transcript__fragment' data-time='85576' id='t-85576'>that would offer opportunities</span>
+<span class='talk-transcript__fragment' data-time='87267' id='t-87267'>to do things that really haven't
+been possible in the past.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='91184' id='t-91184'>The CRISPR technology
+has already been used</span>
+<span class='talk-transcript__fragment' data-time='93270' id='t-93270'>to change the DNA in the cells
+of mice and monkeys,</span>
+<span class='talk-transcript__fragment' data-time='98378' id='t-98378'>other organisms as well.</span>
+<span class='talk-transcript__fragment' data-time='100527' id='t-100527'>Chinese scientists showed recently</span>
+<span class='talk-transcript__fragment' data-time='102306' id='t-102306'>that they could even use
+the CRISPR technology</span>
+<span class='talk-transcript__fragment' data-time='104489' id='t-104489'>to change genes in human embryos.</span>
+<span class='talk-transcript__fragment' data-time='107142' id='t-107142'>And scientists in Philadelphia showed
+they could use CRISPR</span>
+<span class='talk-transcript__fragment' data-time='110309' id='t-110309'>to remove the DNA
+of an integrated HIV virus</span>
+<span class='talk-transcript__fragment' data-time='115176' id='t-115176'>from infected human cells.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='118217' id='t-118217'>The opportunity to do this kind
+of genome editing</span>
+<span class='talk-transcript__fragment' data-time='121372' id='t-121372'>also raises various ethical issues
+that we have to consider,</span>
+<span class='talk-transcript__fragment' data-time='124679' id='t-124679'>because this technology can be employed
+not only in adult cells,</span>
+<span class='talk-transcript__fragment' data-time='128671' id='t-128671'>but also in the embryos of organisms,</span>
+<span class='talk-transcript__fragment' data-time='131298' id='t-131298'>including our own species.</span>
+<span class='talk-transcript__fragment' data-time='134767' id='t-134767'>And so, together with my colleagues,</span>
+<span class='talk-transcript__fragment' data-time='136789' id='t-136789'>I've called for a global conversation
+about the technology that I co-invented,</span>
+<span class='talk-transcript__fragment' data-time='141301' id='t-141301'>so that we can consider all of the ethical
+and societal implications</span>
+<span class='talk-transcript__fragment' data-time='145865' id='t-145865'>of a technology like this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='148056' id='t-148056'>What I want to do now is tell you
+what the CRISPR technology is,</span>
+<span class='talk-transcript__fragment' data-time='153019' id='t-153019'>what it can do,</span>
+<span class='talk-transcript__fragment' data-time='154497' id='t-154497'>where we are today</span>
+<span class='talk-transcript__fragment' data-time='155766' id='t-155766'>and why I think we need to take
+a prudent path forward</span>
+<span class='talk-transcript__fragment' data-time='158812' id='t-158812'>in the way that we employ this technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='163085' id='t-163085'>When viruses infect a cell,
+they inject their DNA.</span>
+<span class='talk-transcript__fragment' data-time='167363' id='t-167363'>And in a bacterium,</span>
+<span class='talk-transcript__fragment' data-time='168863' id='t-168863'>the CRISPR system allows that DNA
+to be plucked out of the virus,</span>
+<span class='talk-transcript__fragment' data-time='173752' id='t-173752'>and inserted in little bits
+into the chromosome --</span>
+<span class='talk-transcript__fragment' data-time='177621' id='t-177621'>the DNA of the bacterium.</span>
+<span class='talk-transcript__fragment' data-time='179937' id='t-179937'>And these integrated bits of viral DNA
+get inserted at a site called CRISPR.</span>
+<span class='talk-transcript__fragment' data-time='186032' id='t-186032'>CRISPR stands for clustered regularly
+interspaced short palindromic repeats.</span>
+<span class='talk-transcript__fragment' data-time='192051' id='t-192051'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='193076' id='t-193076'>A big mouthful -- you can see why
+we use the acronym CRISPR.</span>
+<span class='talk-transcript__fragment' data-time='196890' id='t-196890'>It's a mechanism that allows cells
+to record, over time,</span>
+<span class='talk-transcript__fragment' data-time='200902' id='t-200902'>the viruses they have been exposed to.</span>
+<span class='talk-transcript__fragment' data-time='203608' id='t-203608'>And importantly, those bits of DNA
+are passed on to the cells' progeny,</span>
+<span class='talk-transcript__fragment' data-time='208315' id='t-208315'>so cells are protected from viruses
+not only in one generation,</span>
+<span class='talk-transcript__fragment' data-time='212872' id='t-212872'>but over many generations of cells.</span>
+<span class='talk-transcript__fragment' data-time='215245' id='t-215245'>This allows the cells
+to keep a record of infection,</span>
+<span class='talk-transcript__fragment' data-time='219554' id='t-219554'>and as my colleague,
+Blake Wiedenheft, likes to say,</span>
+<span class='talk-transcript__fragment' data-time='222517' id='t-222517'>the CRISPR locus is effectively
+a genetic vaccination card in cells.</span>
+<span class='talk-transcript__fragment' data-time='228572' id='t-228572'>Once those bits of DNA have been inserted
+into the bacterial chromosome,</span>
+<span class='talk-transcript__fragment' data-time='233094' id='t-233094'>the cell then makes a little copy
+of a molecule called RNA,</span>
+<span class='talk-transcript__fragment' data-time='237317' id='t-237317'>which is orange in this picture,</span>
+<span class='talk-transcript__fragment' data-time='239356' id='t-239356'>that is an exact replicate
+of the viral DNA.</span>
+<span class='talk-transcript__fragment' data-time='244502' id='t-244502'>RNA is a chemical cousin of DNA,</span>
+<span class='talk-transcript__fragment' data-time='246862' id='t-246862'>and it allows interaction
+with DNA molecules</span>
+<span class='talk-transcript__fragment' data-time='250839' id='t-250839'>that have a matching sequence.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='253258' id='t-253258'>So those little bits of RNA
+from the CRISPR locus</span>
+<span class='talk-transcript__fragment' data-time='257191' id='t-257191'>associate -- they bind --
+to protein called Cas9,</span>
+<span class='talk-transcript__fragment' data-time='261004' id='t-261004'>which is white in the picture,</span>
+<span class='talk-transcript__fragment' data-time='262963' id='t-262963'>and form a complex that functions
+like a sentinel in the cell.</span>
+<span class='talk-transcript__fragment' data-time='267206' id='t-267206'>It searches through all
+of the DNA in the cell,</span>
+<span class='talk-transcript__fragment' data-time='270644' id='t-270644'>to find sites that match
+the sequences in the bound RNAs.</span>
+<span class='talk-transcript__fragment' data-time='274920' id='t-274920'>And when those sites are found --</span>
+<span class='talk-transcript__fragment' data-time='276579' id='t-276579'>as you can see here,
+the blue molecule is DNA --</span>
+<span class='talk-transcript__fragment' data-time='280073' id='t-280073'>this complex associates with that DNA</span>
+<span class='talk-transcript__fragment' data-time='282946' id='t-282946'>and allows the Cas9 cleaver
+to cut up the viral DNA.</span>
+<span class='talk-transcript__fragment' data-time='288272' id='t-288272'>It makes a very precise break.</span>
+<span class='talk-transcript__fragment' data-time='292096' id='t-292096'>So we can think of the Cas9 RNA
+sentinel complex</span>
+<span class='talk-transcript__fragment' data-time='296520' id='t-296520'>like a pair of scissors
+that can cut DNA --</span>
+<span class='talk-transcript__fragment' data-time='299725' id='t-299725'>it makes a double-stranded break
+in the DNA helix.</span>
+<span class='talk-transcript__fragment' data-time='302985' id='t-302985'>And importantly,
+this complex is programmable,</span>
+<span class='talk-transcript__fragment' data-time='306991' id='t-306991'>so it can be programmed to recognize
+particular DNA sequences,</span>
+<span class='talk-transcript__fragment' data-time='312215' id='t-312215'>and make a break in the DNA at that site.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='315928' id='t-315928'>As I'm going to tell you now,</span>
+<span class='talk-transcript__fragment' data-time='317532' id='t-317532'>we recognized that that activity
+could be harnessed for genome engineering,</span>
+<span class='talk-transcript__fragment' data-time='322332' id='t-322332'>to allow cells to make
+a very precise change to the DNA</span>
+<span class='talk-transcript__fragment' data-time='326583' id='t-326583'>at the site where
+this break was introduced.</span>
+<span class='talk-transcript__fragment' data-time='329558' id='t-329558'>That's sort of analogous</span>
+<span class='talk-transcript__fragment' data-time='330797' id='t-330797'>to the way that we use
+a word-processing program</span>
+<span class='talk-transcript__fragment' data-time='333529' id='t-333529'>to fix a typo in a document.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='337541' id='t-337541'>The reason we envisioned using
+the CRISPR system for genome engineering</span>
+<span class='talk-transcript__fragment' data-time='342383' id='t-342383'>is because cells have the ability
+to detect broken DNA</span>
+<span class='talk-transcript__fragment' data-time='346026' id='t-346026'>and repair it.</span>
+<span class='talk-transcript__fragment' data-time='347780' id='t-347780'>So when a plant or an animal cell detects
+a double-stranded break in its DNA,</span>
+<span class='talk-transcript__fragment' data-time='352735' id='t-352735'>it can fix that break,</span>
+<span class='talk-transcript__fragment' data-time='354356' id='t-354356'>either by pasting together
+the ends of the broken DNA</span>
+<span class='talk-transcript__fragment' data-time='357907' id='t-357907'>with a little, tiny change
+in the sequence of that position,</span>
+<span class='talk-transcript__fragment' data-time='362041' id='t-362041'>or it can repair the break by integrating
+a new piece of DNA at the site of the cut.</span>
+<span class='talk-transcript__fragment' data-time='369054' id='t-369054'>So if we have a way to introduce
+double-stranded breaks into DNA</span>
+<span class='talk-transcript__fragment' data-time='374051' id='t-374051'>at precise places,</span>
+<span class='talk-transcript__fragment' data-time='375655' id='t-375655'>we can trigger cells
+to repair those breaks,</span>
+<span class='talk-transcript__fragment' data-time='378488' id='t-378488'>by either the disruption or incorporation
+of new genetic information.</span>
+<span class='talk-transcript__fragment' data-time='383936' id='t-383936'>So if we were able to program
+the CRISPR technology</span>
+<span class='talk-transcript__fragment' data-time='387202' id='t-387202'>to make a break in DNA</span>
+<span class='talk-transcript__fragment' data-time='389549' id='t-389549'>at the position at or near a mutation
+causing cystic fibrosis, for example,</span>
+<span class='talk-transcript__fragment' data-time='395842' id='t-395842'>we could trigger cells
+to repair that mutation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='400464' id='t-400464'>Genome engineering is actually not new,
+it's been in development since the 1970s.</span>
+<span class='talk-transcript__fragment' data-time='405591' id='t-405591'>We've had technologies for sequencing DNA,</span>
+<span class='talk-transcript__fragment' data-time='408366' id='t-408366'>for copying DNA,</span>
+<span class='talk-transcript__fragment' data-time='409985' id='t-409985'>and even for manipulating DNA.</span>
+<span class='talk-transcript__fragment' data-time='412969' id='t-412969'>And these technologies
+were very promising,</span>
+<span class='talk-transcript__fragment' data-time='416129' id='t-416129'>but the problem was
+that they were either inefficient,</span>
+<span class='talk-transcript__fragment' data-time='420559' id='t-420559'>or they were difficult enough to use</span>
+<span class='talk-transcript__fragment' data-time='422916' id='t-422916'>that most scientists had not adopted them
+for use in their own laboratories,</span>
+<span class='talk-transcript__fragment' data-time='427742' id='t-427742'>or certainly for many
+clinical applications.</span>
+<span class='talk-transcript__fragment' data-time='432722' id='t-432722'>So, the opportunity to take a technology
+like CRISPR and utilize it has appeal,</span>
+<span class='talk-transcript__fragment' data-time='440101' id='t-440101'>because of its relative simplicity.</span>
+<span class='talk-transcript__fragment' data-time='443126' id='t-443126'>We can think of older
+genome engineering technologies</span>
+<span class='talk-transcript__fragment' data-time='446919' id='t-446919'>as similar to having
+to rewire your computer</span>
+<span class='talk-transcript__fragment' data-time='450602' id='t-450602'>each time you want to run
+a new piece of software,</span>
+<span class='talk-transcript__fragment' data-time='454396' id='t-454396'>whereas the CRISPR technology
+is like software for the genome,</span>
+<span class='talk-transcript__fragment' data-time='458184' id='t-458184'>we can program it easily,
+using these little bits of RNA.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='462658' id='t-462658'>So once a double-stranded
+break is made in DNA,</span>
+<span class='talk-transcript__fragment' data-time='465775' id='t-465775'>we can induce repair,</span>
+<span class='talk-transcript__fragment' data-time='467886' id='t-467886'>and thereby potentially achieve
+astounding things,</span>
+<span class='talk-transcript__fragment' data-time='471356' id='t-471356'>like being able to correct mutations
+that cause sickle cell anemia</span>
+<span class='talk-transcript__fragment' data-time='475539' id='t-475539'>or cause Huntington's Disease.</span>
+<span class='talk-transcript__fragment' data-time='477914' id='t-477914'>I actually think that the first
+applications of the CRISPR technology</span>
+<span class='talk-transcript__fragment' data-time='481399' id='t-481399'>are going to happen in the blood,</span>
+<span class='talk-transcript__fragment' data-time='483692' id='t-483692'>where it's relatively easier
+to deliver this tool into cells,</span>
+<span class='talk-transcript__fragment' data-time='488469' id='t-488469'>compared to solid tissues.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='491905' id='t-491905'>Right now, a lot of the work
+that's going on</span>
+<span class='talk-transcript__fragment' data-time='494333' id='t-494333'>applies to animal models
+of human disease, such as mice.</span>
+<span class='talk-transcript__fragment' data-time='498326' id='t-498326'>The technology is being used to make
+very precise changes</span>
+<span class='talk-transcript__fragment' data-time='501619' id='t-501619'>that allow us to study the way
+that these changes in the cell's DNA</span>
+<span class='talk-transcript__fragment' data-time='506814' id='t-506814'>affect either a tissue or,
+in this case, an entire organism.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='511515' id='t-511515'>Now in this example,</span>
+<span class='talk-transcript__fragment' data-time='512746' id='t-512746'>the CRISPR technology
+was used to disrupt a gene</span>
+<span class='talk-transcript__fragment' data-time='516563' id='t-516563'>by making a tiny change in the DNA</span>
+<span class='talk-transcript__fragment' data-time='519354' id='t-519354'>in a gene that is responsible
+for the black coat color of these mice.</span>
+<span class='talk-transcript__fragment' data-time='524219' id='t-524219'>Imagine that these white mice
+differ from their pigmented litter-mates</span>
+<span class='talk-transcript__fragment' data-time='529261' id='t-529261'>by just a tiny change at one gene
+in the entire genome,</span>
+<span class='talk-transcript__fragment' data-time='533952' id='t-533952'>and they're otherwise completely normal.</span>
+<span class='talk-transcript__fragment' data-time='535966' id='t-535966'>And when we sequence the DNA
+from these animals,</span>
+<span class='talk-transcript__fragment' data-time='538881' id='t-538881'>we find that the change in the DNA</span>
+<span class='talk-transcript__fragment' data-time='541531' id='t-541531'>has occurred at exactly the place
+where we induced it,</span>
+<span class='talk-transcript__fragment' data-time='544697' id='t-544697'>using the CRISPR technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547662' id='t-547662'>Additional experiments
+are going on in other animals</span>
+<span class='talk-transcript__fragment' data-time='550410' id='t-550410'>that are useful for creating models
+for human disease,</span>
+<span class='talk-transcript__fragment' data-time='554529' id='t-554529'>such as monkeys.</span>
+<span class='talk-transcript__fragment' data-time='556156' id='t-556156'>And here we find
+that we can use these systems</span>
+<span class='talk-transcript__fragment' data-time='559406' id='t-559406'>to test the application of this technology
+in particular tissues,</span>
+<span class='talk-transcript__fragment' data-time='563232' id='t-563232'>for example, figuring out how to deliver
+the CRISPR tool into cells.</span>
+<span class='talk-transcript__fragment' data-time='568329' id='t-568329'>We also want to understand better</span>
+<span class='talk-transcript__fragment' data-time='570501' id='t-570501'>how to control the way
+that DNA is repaired after it's cut,</span>
+<span class='talk-transcript__fragment' data-time='574152' id='t-574152'>and also to figure out how to control
+and limit any kind of off-target,</span>
+<span class='talk-transcript__fragment' data-time='579857' id='t-579857'>or unintended effects
+of using the technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='584356' id='t-584356'>I think that we will see
+clinical application of this technology,</span>
+<span class='talk-transcript__fragment' data-time='590530' id='t-590530'>certainly in adults,</span>
+<span class='talk-transcript__fragment' data-time='592066' id='t-592066'>within the next 10 years.</span>
+<span class='talk-transcript__fragment' data-time='593693' id='t-593693'>I think that it's likely
+that we will see clinical trials</span>
+<span class='talk-transcript__fragment' data-time='596851' id='t-596851'>and possibly even approved
+therapies within that time,</span>
+<span class='talk-transcript__fragment' data-time='600304' id='t-600304'>which is a very exciting thing
+to think about.</span>
+<span class='talk-transcript__fragment' data-time='603041' id='t-603041'>And because of the excitement
+around this technology,</span>
+<span class='talk-transcript__fragment' data-time='605566' id='t-605566'>there's a lot of interest
+in start-up companies</span>
+<span class='talk-transcript__fragment' data-time='608883' id='t-608883'>that have been founded
+to commercialize the CRISPR technology,</span>
+<span class='talk-transcript__fragment' data-time='613669' id='t-613669'>and lots of venture capitalists</span>
+<span class='talk-transcript__fragment' data-time='615182' id='t-615182'>that have been investing
+in these companies.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='619242' id='t-619242'>But we have to also consider</span>
+<span class='talk-transcript__fragment' data-time='620839' id='t-620839'>that the CRISPR technology can be used
+for things like enhancement.</span>
+<span class='talk-transcript__fragment' data-time='624485' id='t-624485'>Imagine that we could try
+to engineer humans</span>
+<span class='talk-transcript__fragment' data-time='627553' id='t-627553'>that have enhanced properties,
+such as stronger bones,</span>
+<span class='talk-transcript__fragment' data-time='632012' id='t-632012'>or less susceptibility
+to cardiovascular disease</span>
+<span class='talk-transcript__fragment' data-time='636107' id='t-636107'>or even to have properties</span>
+<span class='talk-transcript__fragment' data-time='637642' id='t-637642'>that we would consider maybe
+to be desirable,</span>
+<span class='talk-transcript__fragment' data-time='640065' id='t-640065'>like a different eye color
+or to be taller, things like that.</span>
+<span class='talk-transcript__fragment' data-time='645942' id='t-645942'>&quot;Designer humans,&quot; if you will.</span>
+<span class='talk-transcript__fragment' data-time='648780' id='t-648780'>Right now, the genetic information</span>
+<span class='talk-transcript__fragment' data-time='651194' id='t-651194'>to understand what types of genes
+would give rise to these traits</span>
+<span class='talk-transcript__fragment' data-time='655711' id='t-655711'>is mostly not known.</span>
+<span class='talk-transcript__fragment' data-time='657468' id='t-657468'>But it's important to know</span>
+<span class='talk-transcript__fragment' data-time='658738' id='t-658738'>that the CRISPR technology gives us a tool
+to make such changes,</span>
+<span class='talk-transcript__fragment' data-time='663047' id='t-663047'>once that knowledge becomes available.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='666651' id='t-666651'>This raises a number of ethical questions
+that we have to carefully consider,</span>
+<span class='talk-transcript__fragment' data-time='670786' id='t-670786'>and this is why I and my colleagues
+have called for a global pause</span>
+<span class='talk-transcript__fragment' data-time='675025' id='t-675025'>in any clinical application
+of the CRISPR technology in human embryos,</span>
+<span class='talk-transcript__fragment' data-time='679795' id='t-679795'>to give us time</span>
+<span class='talk-transcript__fragment' data-time='680970' id='t-680970'>to really consider all of the various
+implications of doing so.</span>
+<span class='talk-transcript__fragment' data-time='685743' id='t-685743'>And actually, there is an important
+precedent for such a pause</span>
+<span class='talk-transcript__fragment' data-time='689610' id='t-689610'>from the 1970s,</span>
+<span class='talk-transcript__fragment' data-time='690953' id='t-690953'>when scientists got together</span>
+<span class='talk-transcript__fragment' data-time='692841' id='t-692841'>to call for a moratorium
+on the use of molecular cloning,</span>
+<span class='talk-transcript__fragment' data-time='696695' id='t-696695'>until the safety of that technology
+could be tested carefully and validated.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='703506' id='t-703506'>So, genome-engineered humans
+are not with us yet,</span>
+<span class='talk-transcript__fragment' data-time='708670' id='t-708670'>but this is no longer science fiction.</span>
+<span class='talk-transcript__fragment' data-time='712179' id='t-712179'>Genome-engineered animals and plants
+are happening right now.</span>
+<span class='talk-transcript__fragment' data-time='717069' id='t-717069'>And this puts in front of all of us
+a huge responsibility,</span>
+<span class='talk-transcript__fragment' data-time='721146' id='t-721146'>to consider carefully
+both the unintended consequences</span>
+<span class='talk-transcript__fragment' data-time='725747' id='t-725747'>as well as the intended impacts
+of a scientific breakthrough.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='730190' id='t-730190'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='731366' id='t-731366'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='739572' id='t-739572'>(Applause ends)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='741535' id='t-741535'>Bruno Giussani: Jennifer, this is
+a technology with huge consequences,</span>
+<span class='talk-transcript__fragment' data-time='745453' id='t-745453'>as you pointed out.</span>
+<span class='talk-transcript__fragment' data-time='746628' id='t-746628'>Your attitude about asking for a pause
+or a moratorium or a quarantine</span>
+<span class='talk-transcript__fragment' data-time='751824' id='t-751824'>is incredibly responsible.</span>
+<span class='talk-transcript__fragment' data-time='754733' id='t-754733'>There are, of course,
+the therapeutic results of this,</span>
+<span class='talk-transcript__fragment' data-time='757305' id='t-757305'>but then there are the un-therapeutic ones</span>
+<span class='talk-transcript__fragment' data-time='759479' id='t-759479'>and they seem to be the ones
+gaining traction,</span>
+<span class='talk-transcript__fragment' data-time='761683' id='t-761683'>particularly in the media.</span>
+<span class='talk-transcript__fragment' data-time='762953' id='t-762953'>This is one of the latest issues
+of The Economist -- &quot;Editing humanity.&quot;</span>
+<span class='talk-transcript__fragment' data-time='767143' id='t-767143'>It's all about genetic enhancement,
+it's not about therapeutics.</span>
+<span class='talk-transcript__fragment' data-time='771541' id='t-771541'>What kind of reactions
+did you get back in March</span>
+<span class='talk-transcript__fragment' data-time='773847' id='t-773847'>from your colleagues in the science world,</span>
+<span class='talk-transcript__fragment' data-time='775888' id='t-775888'>when you asked or suggested</span>
+<span class='talk-transcript__fragment' data-time='777270' id='t-777270'>that we should actually pause this
+for a moment and think about it?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='781054' id='t-781054'>Jennifer Doudna: My colleagues
+were actually, I think, delighted</span>
+<span class='talk-transcript__fragment' data-time='784079' id='t-784079'>to have the opportunity
+to discuss this openly.</span>
+<span class='talk-transcript__fragment' data-time='786348' id='t-786348'>It's interesting that as I talk to people,</span>
+<span class='talk-transcript__fragment' data-time='788718' id='t-788718'>my scientific colleagues
+as well as others,</span>
+<span class='talk-transcript__fragment' data-time='791210' id='t-791210'>there's a wide variety
+of viewpoints about this.</span>
+<span class='talk-transcript__fragment' data-time='793544' id='t-793544'>So clearly it's a topic that needs
+careful consideration and discussion.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='797242' id='t-797242'>BG: There's a big meeting
+happening in December</span>
+<span class='talk-transcript__fragment' data-time='799481' id='t-799481'>that you and your colleagues are calling,</span>
+<span class='talk-transcript__fragment' data-time='801481' id='t-801481'>together with the National Academy
+of Sciences and others,</span>
+<span class='talk-transcript__fragment' data-time='804272' id='t-804272'>what do you hope will come
+out of the meeting, practically?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='807588' id='t-807588'>JD: Well, I hope that we can air the views</span>
+<span class='talk-transcript__fragment' data-time='809978' id='t-809978'>of many different individuals
+and stakeholders</span>
+<span class='talk-transcript__fragment' data-time='813602' id='t-813602'>who want to think about how to use
+this technology responsibly.</span>
+<span class='talk-transcript__fragment' data-time='817918' id='t-817918'>It may not be possible to come up with
+a consensus point of view,</span>
+<span class='talk-transcript__fragment' data-time='821044' id='t-821044'>but I think we should at least understand</span>
+<span class='talk-transcript__fragment' data-time='823061' id='t-823061'>what all the issues are as we go forward.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='825057' id='t-825057'>BG: Now, colleagues of yours,</span>
+<span class='talk-transcript__fragment' data-time='826487' id='t-826487'>like George Church,
+for example, at Harvard,</span>
+<span class='talk-transcript__fragment' data-time='828590' id='t-828590'>they say, &quot;Yeah, ethical issues basically
+are just a question of safety.</span>
+<span class='talk-transcript__fragment' data-time='832050' id='t-832050'>We test and test and test again,
+in animals and in labs,</span>
+<span class='talk-transcript__fragment' data-time='834728' id='t-834728'>and then once we feel it's safe enough,
+we move on to humans.&quot;</span>
+<span class='talk-transcript__fragment' data-time='838668' id='t-838668'>So that's kind of the other
+school of thought,</span>
+<span class='talk-transcript__fragment' data-time='841273' id='t-841273'>that we should actually use
+this opportunity and really go for it.</span>
+<span class='talk-transcript__fragment' data-time='844445' id='t-844445'>Is there a possible split happening
+in the science community about this?</span>
+<span class='talk-transcript__fragment' data-time='848247' id='t-848247'>I mean, are we going to see
+some people holding back</span>
+<span class='talk-transcript__fragment' data-time='850731' id='t-850731'>because they have ethical concerns,</span>
+<span class='talk-transcript__fragment' data-time='852549' id='t-852549'>and some others just going forward</span>
+<span class='talk-transcript__fragment' data-time='854260' id='t-854260'>because some countries under-regulate
+or don't regulate at all?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='857580' id='t-857580'>JD: Well, I think with any new technology,
+especially something like this,</span>
+<span class='talk-transcript__fragment' data-time='861449' id='t-861449'>there are going to be
+a variety of viewpoints,</span>
+<span class='talk-transcript__fragment' data-time='864258' id='t-864258'>and I think that's
+perfectly understandable.</span>
+<span class='talk-transcript__fragment' data-time='867623' id='t-867623'>I think that in the end,</span>
+<span class='talk-transcript__fragment' data-time='869159' id='t-869159'>this technology will be used
+for human genome engineering,</span>
+<span class='talk-transcript__fragment' data-time='874134' id='t-874134'>but I think to do that without careful
+consideration and discussion</span>
+<span class='talk-transcript__fragment' data-time='878475' id='t-878475'>of the risks and potential complications</span>
+<span class='talk-transcript__fragment' data-time='881436' id='t-881436'>would not be responsible.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='882999' id='t-882999'>BG: There are a lot of technologies
+and other fields of science</span>
+<span class='talk-transcript__fragment' data-time='886002' id='t-886002'>that are developing exponentially,
+pretty much like yours.</span>
+<span class='talk-transcript__fragment' data-time='888797' id='t-888797'>I'm thinking about artificial
+intelligence, autonomous robots and so on.</span>
+<span class='talk-transcript__fragment' data-time='893199' id='t-893199'>No one seems --</span>
+<span class='talk-transcript__fragment' data-time='894390' id='t-894390'>aside from autonomous warfare robots --</span>
+<span class='talk-transcript__fragment' data-time='896922' id='t-896922'>nobody seems to have launched
+a similar discussion in those fields,</span>
+<span class='talk-transcript__fragment' data-time='901651' id='t-901651'>in calling for a moratorium.</span>
+<span class='talk-transcript__fragment' data-time='903085' id='t-903085'>Do you think that your discussion may
+serve as a blueprint for other fields?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='907180' id='t-907180'>JD: Well, I think it's hard for scientists
+to get out of the laboratory.</span>
+<span class='talk-transcript__fragment' data-time='910723' id='t-910723'>Speaking for myself,</span>
+<span class='talk-transcript__fragment' data-time='911900' id='t-911900'>it's a little bit
+uncomfortable to do that.</span>
+<span class='talk-transcript__fragment' data-time='914540' id='t-914540'>But I do think that being involved
+in the genesis of this</span>
+<span class='talk-transcript__fragment' data-time='918478' id='t-918478'>really puts me and my colleagues
+in a position of responsibility.</span>
+<span class='talk-transcript__fragment' data-time='922358' id='t-922358'>And I would say that I certainly hope
+that other technologies</span>
+<span class='talk-transcript__fragment' data-time='925812' id='t-925812'>will be considered in the same way,</span>
+<span class='talk-transcript__fragment' data-time='928482' id='t-928482'>just as we would want to consider
+something that could have implications</span>
+<span class='talk-transcript__fragment' data-time='931904' id='t-931904'>in other fields besides biology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='933855' id='t-933855'>BG: Jennifer, thanks for coming to TED.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='935831' id='t-935831'>JD: Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='937116' id='t-937116'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

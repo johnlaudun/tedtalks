@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Bruno Torturra: Got a smartphone? Start broadcasting | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Bruno Torturra: Got a smartphone? Start broadcasting | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: In 2011, journalist Bruno Torturra covered a protest in São Paulo which turned ugly. His experience of being teargassed had a profound effect on the way he thought about his work, and he quit his job to focus on broadcasting raw, unedited experiences online. In this fascinating talk, he shares some of the ways in which he&#39;s experimented with livestreaming on the web, and how in the process he has helped to create a very modern media network." name="description" />
+<meta content="Bruno Torturra" name="author" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Got a smartphone? Start broadcasting&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cdd1498e4fb0eae89e729521abaa8b8ba85e511d_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cdd1498e4fb0eae89e729521abaa8b8ba85e511d_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: In 2011, journalist Bruno Torturra covered a protest in São Paulo which turned ugly. His experience of being teargassed had a profound effect on the way he thought about his work, and he quit his job to focus on broadcasting raw, unedited experiences online. In this fascinating talk, he shares some of the ways in which he&#39;s experimented with livestreaming on the web, and how in the process he has helped to create a very modern media network." property="og:description" />
+<meta content="http://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2154?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='bruno_torturra_got_a_smartphone_start_broadcasting'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2154?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="815" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cdd1498e4fb0eae89e729521abaa8b8ba85e511d_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:35</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Bruno Torturra</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2154?language=en' lang='en'>
+Got a smartphone? Start broadcasting
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Dec 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='739' id='t-739'>Has anyone among you
+ever been exposed to tear gas?</span>
+<span class='talk-transcript__fragment' data-time='5318' id='t-5318'>Tear gas? Anyone?</span>
+<span class='talk-transcript__fragment' data-time='8433' id='t-8433'>I'm sorry to hear that, so you might know
+that it's a very toxic substance,</span>
+<span class='talk-transcript__fragment' data-time='13004' id='t-13004'>but you might not know
+that it's a very simple molecule</span>
+<span class='talk-transcript__fragment' data-time='16428' id='t-16428'>with an unpronouncable name:</span>
+<span class='talk-transcript__fragment' data-time='18642' id='t-18642'>it's called chlorobenzalmalononitrile.</span>
+<span class='talk-transcript__fragment' data-time='21762' id='t-21762'>I made it.</span>
+<span class='talk-transcript__fragment' data-time='23779' id='t-23779'>It's decades old, but it's becoming
+very trendy among police forces</span>
+<span class='talk-transcript__fragment' data-time='29137' id='t-29137'>around the planet lately, it seems,</span>
+<span class='talk-transcript__fragment' data-time='32016' id='t-32016'>and according to my experience
+as a non-voluntary breather of it,</span>
+<span class='talk-transcript__fragment' data-time='36753' id='t-36753'>tear gas has two main
+but quite opposite effects.</span>
+<span class='talk-transcript__fragment' data-time='41026' id='t-41026'>One, it can really burn your eyes,</span>
+<span class='talk-transcript__fragment' data-time='44168' id='t-44168'>and two, it can also
+help you to open them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='48603' id='t-48603'>Tear gas definitely helped
+to open mine to something</span>
+<span class='talk-transcript__fragment' data-time='52192' id='t-52192'>that I want to share
+with you this afternoon:</span>
+<span class='talk-transcript__fragment' data-time='55932' id='t-55932'>that livestreaming the power
+of independent broadcasts through the web</span>
+<span class='talk-transcript__fragment' data-time='61226' id='t-61226'>can be a game-changer in journalism,</span>
+<span class='talk-transcript__fragment' data-time='64407' id='t-64407'>in activism, and as I see it,
+in the political discourse as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='70749' id='t-70749'>That idea started 
+to dawn on me in early 2011</span>
+<span class='talk-transcript__fragment' data-time='75522' id='t-75522'>when I was covering
+a protest in São Paulo.</span>
+<span class='talk-transcript__fragment' data-time='79060' id='t-79060'>It was the marijuana march,</span>
+<span class='talk-transcript__fragment' data-time='81048' id='t-81048'>a gathering of people asking
+for the legalization of cannabis.</span>
+<span class='talk-transcript__fragment' data-time='85010' id='t-85010'>When that group started to move,</span>
+<span class='talk-transcript__fragment' data-time='87475' id='t-87475'>the riot police came from the back
+with rubber bullets, bombs,</span>
+<span class='talk-transcript__fragment' data-time='91785' id='t-91785'>and then the gas.</span>
+<span class='talk-transcript__fragment' data-time='94184' id='t-94184'>But to make a long story short,</span>
+<span class='talk-transcript__fragment' data-time='96202' id='t-96202'>I had entered that protest
+as the editor-in-chief</span>
+<span class='talk-transcript__fragment' data-time='100091' id='t-100091'>of a well-established printed magazine
+where I'd worked for 11 years,</span>
+<span class='talk-transcript__fragment' data-time='104864' id='t-104864'>and thanks to this unsolicited
+effects of tear gas,</span>
+<span class='talk-transcript__fragment' data-time='109776' id='t-109776'>I left it as a journalist that was now
+committed to new ways</span>
+<span class='talk-transcript__fragment' data-time='114709' id='t-114709'>of sharing the raw experience
+of what it's like to be there, actually.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='120652' id='t-120652'>So in the following week,
+I was back in the streets,</span>
+<span class='talk-transcript__fragment' data-time='124492' id='t-124492'>but that time, I wasn't a member
+of any media outlet anymore.</span>
+<span class='talk-transcript__fragment' data-time='128555' id='t-128555'>I was there as an independent
+livestreamer, and all I had with me</span>
+<span class='talk-transcript__fragment' data-time='133176' id='t-133176'>was basically borrowed equipment.</span>
+<span class='talk-transcript__fragment' data-time='135312' id='t-135312'>I had a very simple camera
+and a backpack with 3G modems.</span>
+<span class='talk-transcript__fragment' data-time='141366' id='t-141366'>And I had this weblink
+that could be shared through social media,</span>
+<span class='talk-transcript__fragment' data-time='146991' id='t-146991'>could be put in any website,</span>
+<span class='talk-transcript__fragment' data-time='149868' id='t-149868'>and that time,
+the protest went along fine.</span>
+<span class='talk-transcript__fragment' data-time='152897' id='t-152897'>There was no violence.</span>
+<span class='talk-transcript__fragment' data-time='154746' id='t-154746'>There was no action scenes.</span>
+<span class='talk-transcript__fragment' data-time='156835' id='t-156835'>But there was something really exciting,</span>
+<span class='talk-transcript__fragment' data-time='159274' id='t-159274'>because I could see at a distance
+the TV channels covering it,</span>
+<span class='talk-transcript__fragment' data-time='164124' id='t-164124'>and they had these big vans
+and the teams and the cameras,</span>
+<span class='talk-transcript__fragment' data-time='168148' id='t-168148'>and I was basically doing the same thing</span>
+<span class='talk-transcript__fragment' data-time='170627' id='t-170627'>and all I had was a backpack.</span>
+<span class='talk-transcript__fragment' data-time='173403' id='t-173403'>And that was really
+exciting to a journalist,</span>
+<span class='talk-transcript__fragment' data-time='176678' id='t-176678'>but the most interesting part
+was when I got back home, actually,</span>
+<span class='talk-transcript__fragment' data-time='181059' id='t-181059'>because I learned that I had been watched</span>
+<span class='talk-transcript__fragment' data-time='183886' id='t-183886'>by more than 90,000 people,</span>
+<span class='talk-transcript__fragment' data-time='186990' id='t-186990'>and I got hundreds of emails and messages
+of people asking me, basically,</span>
+<span class='talk-transcript__fragment' data-time='191895' id='t-191895'>how did I do it,</span>
+<span class='talk-transcript__fragment' data-time='193295' id='t-193295'>how it was possible to do such a thing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='196611' id='t-196611'>And I learned something else,
+that that was actually the first time</span>
+<span class='talk-transcript__fragment' data-time='199884' id='t-199884'>that somebody had ever done
+a livestreaming in a street protest</span>
+<span class='talk-transcript__fragment' data-time='205022' id='t-205022'>in the country.</span>
+<span class='talk-transcript__fragment' data-time='207216' id='t-207216'>And that really shocked me,</span>
+<span class='talk-transcript__fragment' data-time='209758' id='t-209758'>because I was no geek,
+I was no technology guy,</span>
+<span class='talk-transcript__fragment' data-time='213536' id='t-213536'>and all the equipment needed
+was already there,</span>
+<span class='talk-transcript__fragment' data-time='216295' id='t-216295'>was easily available.</span>
+<span class='talk-transcript__fragment' data-time='218501' id='t-218501'>And I realized that
+we had a frontier here,</span>
+<span class='talk-transcript__fragment' data-time='221617' id='t-221617'>a very important one,</span>
+<span class='talk-transcript__fragment' data-time='223080' id='t-223080'>that it was just a matter
+of changing the perspective,</span>
+<span class='talk-transcript__fragment' data-time='226237' id='t-226237'>and the web could be actually used,</span>
+<span class='talk-transcript__fragment' data-time='228466' id='t-228466'>already used, as a colossal
+and uncontrollable</span>
+<span class='talk-transcript__fragment' data-time='231908' id='t-231908'>and highly anarchical TV channel,
+TV network,</span>
+<span class='talk-transcript__fragment' data-time='235721' id='t-235721'>and anyone with very basic skills
+and very basic equipment,</span>
+<span class='talk-transcript__fragment' data-time='240905' id='t-240905'>even someone like me who had this
+little stuttering issue,</span>
+<span class='talk-transcript__fragment' data-time='246748' id='t-246748'>so if it happens, bear with me please,</span>
+<span class='talk-transcript__fragment' data-time='250873' id='t-250873'>even someone like me
+could become a broadcaster.</span>
+<span class='talk-transcript__fragment' data-time='255392' id='t-255392'>And that sounded revolutionary in my mind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='257584' id='t-257584'>So for the next couple of years,</span>
+<span class='talk-transcript__fragment' data-time='259162' id='t-259162'>I started to experiment with
+livestreaming in different ways,</span>
+<span class='talk-transcript__fragment' data-time='263209' id='t-263209'>not only in the streets
+but mostly in studios and in homes,</span>
+<span class='talk-transcript__fragment' data-time='266815' id='t-266815'>until the beginning of 2013, last year,</span>
+<span class='talk-transcript__fragment' data-time='270123' id='t-270123'>when I became the cofounder of a group
+called Mídia NINJA.</span>
+<span class='talk-transcript__fragment' data-time='274303' id='t-274303'>NINJA is an acronym</span>
+<span class='talk-transcript__fragment' data-time='275752' id='t-275752'>that stands for Narrativas Independentes 
+Jornalismo e Ação,</span>
+<span class='talk-transcript__fragment' data-time='279582' id='t-279582'>or in English, independent narratives,
+journalism, and action.</span>
+<span class='talk-transcript__fragment' data-time='283493' id='t-283493'>It was a media group
+that had little media plan.</span>
+<span class='talk-transcript__fragment' data-time='287415' id='t-287415'>We didn't have any financial structure.</span>
+<span class='talk-transcript__fragment' data-time='289464' id='t-289464'>We were not planning
+to make money out of this,</span>
+<span class='talk-transcript__fragment' data-time='292644' id='t-292644'>which was wise, because you shouldn't
+try to make money out of journalism now.</span>
+<span class='talk-transcript__fragment' data-time='298484' id='t-298484'>But we had a very solid
+and clear conviction,</span>
+<span class='talk-transcript__fragment' data-time='301188' id='t-301188'>that we knew that the hyperconnected
+environment of social media</span>
+<span class='talk-transcript__fragment' data-time='306142' id='t-306142'>could maybe allow us to consolidate</span>
+<span class='talk-transcript__fragment' data-time='308773' id='t-308773'>a network of experimental journalists
+throughout the country.</span>
+<span class='talk-transcript__fragment' data-time='314117' id='t-314117'>So we launched a Facebook page first,
+and then a manifesto,</span>
+<span class='talk-transcript__fragment' data-time='319254' id='t-319254'>and started to cover the streets
+in a very simple way.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='322992' id='t-322992'>But then something happened,
+something that wasn't predicted,</span>
+<span class='talk-transcript__fragment' data-time='327310' id='t-327310'>that no one could have anticipated.</span>
+<span class='talk-transcript__fragment' data-time='329817' id='t-329817'>Street protests started
+to erupt in São Paulo.</span>
+<span class='talk-transcript__fragment' data-time='332737' id='t-332737'>They began as very local and specific.</span>
+<span class='talk-transcript__fragment' data-time='334917' id='t-334917'>They were against the bus fare hike
+that had just happened in the city.</span>
+<span class='talk-transcript__fragment' data-time='340227' id='t-340227'>This is a bus.</span>
+<span class='talk-transcript__fragment' data-time='342138' id='t-342138'>It's written there, &quot;Theft.&quot;</span>
+<span class='talk-transcript__fragment' data-time='345102' id='t-345102'>But those kind of manifestations
+started to grow,</span>
+<span class='talk-transcript__fragment' data-time='350161' id='t-350161'>and they kept happening.</span>
+<span class='talk-transcript__fragment' data-time='351996' id='t-351996'>So the police violence against them
+started to grow as well.</span>
+<span class='talk-transcript__fragment' data-time='356803' id='t-356803'>But there was another conflict,</span>
+<span class='talk-transcript__fragment' data-time='358512' id='t-358512'>the one I believe that's
+more important here</span>
+<span class='talk-transcript__fragment' data-time='361016' id='t-361016'>to make my point that
+it was a narrative conflict.</span>
+<span class='talk-transcript__fragment' data-time='364976' id='t-364976'>There was this mainstream media
+version of the facts</span>
+<span class='talk-transcript__fragment' data-time='368006' id='t-368006'>that anyone who was on the streets
+could easily challenge</span>
+<span class='talk-transcript__fragment' data-time='372292' id='t-372292'>if they presented their own vision
+of what was actually happening there.</span>
+<span class='talk-transcript__fragment' data-time='378561' id='t-378561'>And it was this clash of visions,
+this clash of narratives,</span>
+<span class='talk-transcript__fragment' data-time='381641' id='t-381641'>that I think turned those protests</span>
+<span class='talk-transcript__fragment' data-time='384983' id='t-384983'>into a long period in the country
+of political reckoning</span>
+<span class='talk-transcript__fragment' data-time='388824' id='t-388824'>where hundreds of thousands of people,</span>
+<span class='talk-transcript__fragment' data-time='392332' id='t-392332'>probably more than a million people</span>
+<span class='talk-transcript__fragment' data-time='394150' id='t-394150'>took to the streets in the whole country.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='397638' id='t-397638'>But it wasn't about
+the bus fare hike anymore.</span>
+<span class='talk-transcript__fragment' data-time='400252' id='t-400252'>It was about everything.</span>
+<span class='talk-transcript__fragment' data-time='403796' id='t-403796'>The people's demands, their expectations,</span>
+<span class='talk-transcript__fragment' data-time='406246' id='t-406246'>the reasons why they were on the streets</span>
+<span class='talk-transcript__fragment' data-time='408396' id='t-408396'>could be as diverse as they could
+be contradictory in many cases.</span>
+<span class='talk-transcript__fragment' data-time='413235' id='t-413235'>If you could read it,
+you would understand me.</span>
+<span class='talk-transcript__fragment' data-time='417343' id='t-417343'>But it was in this environment
+of political catharsis</span>
+<span class='talk-transcript__fragment' data-time='421738' id='t-421738'>that the country was going through</span>
+<span class='talk-transcript__fragment' data-time='424687' id='t-424687'>that it had to do with politics, indeed,</span>
+<span class='talk-transcript__fragment' data-time='427984' id='t-427984'>but it had to do also
+with a new way of organizing,</span>
+<span class='talk-transcript__fragment' data-time='432017' id='t-432017'>through a new way of communicating.</span>
+<span class='talk-transcript__fragment' data-time='434950' id='t-434950'>It was in that environment
+that Mídia NINJA emerged</span>
+<span class='talk-transcript__fragment' data-time='437752' id='t-437752'>from almost anonymity
+to become a national phenomenon,</span>
+<span class='talk-transcript__fragment' data-time='442435' id='t-442435'>because we did have the right equipment.</span>
+<span class='talk-transcript__fragment' data-time='445288' id='t-445288'>We are not using big cameras.</span>
+<span class='talk-transcript__fragment' data-time='447488' id='t-447488'>We are using basically this.</span>
+<span class='talk-transcript__fragment' data-time='450112' id='t-450112'>We are using smartphones.</span>
+<span class='talk-transcript__fragment' data-time='452111' id='t-452111'>And that, actually, allowed us to become
+invisible in the middle of the protests,</span>
+<span class='talk-transcript__fragment' data-time='457019' id='t-457019'>but it allowed us to do something else:</span>
+<span class='talk-transcript__fragment' data-time='459701' id='t-459701'>to show what it was like
+to be in the protests,</span>
+<span class='talk-transcript__fragment' data-time='463525' id='t-463525'>to present to people at home
+a subjective perspective.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='469279' id='t-469279'>But there was something
+that is more important,</span>
+<span class='talk-transcript__fragment' data-time='471615' id='t-471615'>I think, than the equipment.</span>
+<span class='talk-transcript__fragment' data-time='472971' id='t-472971'>It was our mindset,</span>
+<span class='talk-transcript__fragment' data-time='475699' id='t-475699'>because we are not behaving
+as a media outlet.</span>
+<span class='talk-transcript__fragment' data-time='478870' id='t-478870'>We are not competing for news.</span>
+<span class='talk-transcript__fragment' data-time='480808' id='t-480808'>We are trying to encourage people,</span>
+<span class='talk-transcript__fragment' data-time='483129' id='t-483129'>to invite people,
+and to actually teach people</span>
+<span class='talk-transcript__fragment' data-time='485985' id='t-485985'>how to do this, how they also
+could become broadcasters.</span>
+<span class='talk-transcript__fragment' data-time='490195' id='t-490195'>And that was crucial to turn Mídia NINJA
+from a small group of people,</span>
+<span class='talk-transcript__fragment' data-time='496265' id='t-496265'>and in a matter of weeks,</span>
+<span class='talk-transcript__fragment' data-time='497915' id='t-497915'>we multiplied and we grew
+exponentially throughout the country.</span>
+<span class='talk-transcript__fragment' data-time='502492' id='t-502492'>So in a matter of a week or two,
+as the protests kept happening,</span>
+<span class='talk-transcript__fragment' data-time='507169' id='t-507169'>we were hundreds of young people</span>
+<span class='talk-transcript__fragment' data-time='509381' id='t-509381'>connected in this network
+throughout the country.</span>
+<span class='talk-transcript__fragment' data-time='512186' id='t-512186'>We were covering more than
+50 cities at the same time.</span>
+<span class='talk-transcript__fragment' data-time='515326' id='t-515326'>That's something that
+no TV channel could ever do.</span>
+<span class='talk-transcript__fragment' data-time='518980' id='t-518980'>That was responsible
+for turning us suddenly, actually,</span>
+<span class='talk-transcript__fragment' data-time='522393' id='t-522393'>into kind of the mainstream
+media of social media.</span>
+<span class='talk-transcript__fragment' data-time='527319' id='t-527319'>So we had a couple of thousands
+of followers on our Facebook page,</span>
+<span class='talk-transcript__fragment' data-time='531370' id='t-531370'>and soon we had a quarter
+of a million followers.</span>
+<span class='talk-transcript__fragment' data-time='534606' id='t-534606'>Our posts and our videos</span>
+<span class='talk-transcript__fragment' data-time='536290' id='t-536290'>were being seen by more than
+11 million timelines a week.</span>
+<span class='talk-transcript__fragment' data-time='540269' id='t-540269'>It was way more than any newspaper
+or any magazine could ever do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='545990' id='t-545990'>And that turned Mídia NINJA
+into something else,</span>
+<span class='talk-transcript__fragment' data-time='549234' id='t-549234'>more than a media outlet,
+than a media project.</span>
+<span class='talk-transcript__fragment' data-time='552675' id='t-552675'>It became almost like a public service</span>
+<span class='talk-transcript__fragment' data-time='555434' id='t-555434'>to the citizen, to the protester,</span>
+<span class='talk-transcript__fragment' data-time='557961' id='t-557961'>to the activist,</span>
+<span class='talk-transcript__fragment' data-time='559695' id='t-559695'>because they had a very simple
+and efficient and peaceful tool</span>
+<span class='talk-transcript__fragment' data-time='563123' id='t-563123'>to confront both police
+and media authority.</span>
+<span class='talk-transcript__fragment' data-time='569644' id='t-569644'>Many of our images started 
+to be used in regular TV channels.</span>
+<span class='talk-transcript__fragment' data-time='573643' id='t-573643'>Our livestreams started to be broadcast
+even in regular televisions</span>
+<span class='talk-transcript__fragment' data-time='578474' id='t-578474'>when things got really rough.</span>
+<span class='talk-transcript__fragment' data-time='580433' id='t-580433'>Some our images were responsible
+to take some people out of jail,</span>
+<span class='talk-transcript__fragment' data-time='585730' id='t-585730'>people who were being arrested unfairly</span>
+<span class='talk-transcript__fragment' data-time='588569' id='t-588569'>under false accusations,
+and we could prove them innocent.</span>
+<span class='talk-transcript__fragment' data-time='592338' id='t-592338'>And that also turned Mídia NINJA very soon</span>
+<span class='talk-transcript__fragment' data-time='595579' id='t-595579'>to be seen as almost
+an enemy of cops, unfortunately,</span>
+<span class='talk-transcript__fragment' data-time='599590' id='t-599590'>and we started to be severely beaten,
+and eventually arrested on the streets.</span>
+<span class='talk-transcript__fragment' data-time='604663' id='t-604663'>It happened in many cases.</span>
+<span class='talk-transcript__fragment' data-time='606577' id='t-606577'>But that was also useful,
+because we were still at the web,</span>
+<span class='talk-transcript__fragment' data-time='610909' id='t-610909'>so that helped to trigger
+an important debate in the country</span>
+<span class='talk-transcript__fragment' data-time='616094' id='t-616094'>on the role of the media itself</span>
+<span class='talk-transcript__fragment' data-time='618543' id='t-618543'>and the state of the freedom
+of the press in the country.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='622142' id='t-622142'>So Mídia NINJA now evolved</span>
+<span class='talk-transcript__fragment' data-time='624093' id='t-624093'>and finally consolidated itself
+in what we hoped it would become:</span>
+<span class='talk-transcript__fragment' data-time='630143' id='t-630143'>a national network
+of hundreds of young people,</span>
+<span class='talk-transcript__fragment' data-time='633427' id='t-633427'>self-organizing themselves locally</span>
+<span class='talk-transcript__fragment' data-time='637304' id='t-637304'>to cover social, human rights issues,</span>
+<span class='talk-transcript__fragment' data-time='641065' id='t-641065'>and expressing themselves
+not only politically</span>
+<span class='talk-transcript__fragment' data-time='643833' id='t-643833'>but journalistically.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='648665' id='t-648665'>What I started to do
+in the beginning of this year,</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>as Mídia NINJA is already
+a self-organizing network,</span>
+<span class='talk-transcript__fragment' data-time='657156' id='t-657156'>I'm dedicating myself to another project.</span>
+<span class='talk-transcript__fragment' data-time='660589' id='t-660589'>It's called Fluxo,
+which is Portuguese for &quot;stream.&quot;</span>
+<span class='talk-transcript__fragment' data-time='663835' id='t-663835'>It's a journalism studio
+in São Paulo downtown,</span>
+<span class='talk-transcript__fragment' data-time='666642' id='t-666642'>where I used livestream to experiment</span>
+<span class='talk-transcript__fragment' data-time='669969' id='t-669969'>with what I call post-television formats.</span>
+<span class='talk-transcript__fragment' data-time='673474' id='t-673474'>But I'm also trying to come up with ways
+to finance independent journalism</span>
+<span class='talk-transcript__fragment' data-time='678852' id='t-678852'>through a direct relationship
+with an audience,</span>
+<span class='talk-transcript__fragment' data-time='681664' id='t-681664'>with an active audience,</span>
+<span class='talk-transcript__fragment' data-time='683626' id='t-683626'>because now I really want
+to try to make a living</span>
+<span class='talk-transcript__fragment' data-time='686296' id='t-686296'>out of my tear gas resolution back then.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='690058' id='t-690058'>But there's something
+more significant here,</span>
+<span class='talk-transcript__fragment' data-time='692348' id='t-692348'>something that I believe is more important
+and more crucial than my personal example.</span>
+<span class='talk-transcript__fragment' data-time='697794' id='t-697794'>I said that livestream could turn the web
+into a colossal TV network,</span>
+<span class='talk-transcript__fragment' data-time='702629' id='t-702629'>but I believe it does something else,</span>
+<span class='talk-transcript__fragment' data-time='704666' id='t-704666'>because after watching people using it,</span>
+<span class='talk-transcript__fragment' data-time='707627' id='t-707627'>not only to cover things but to express,
+to organize themselves politically,</span>
+<span class='talk-transcript__fragment' data-time='713651' id='t-713651'>I believe livestream can turn cyberspace
+into a global political arena</span>
+<span class='talk-transcript__fragment' data-time='720419' id='t-720419'>where everyone might have a voice,</span>
+<span class='talk-transcript__fragment' data-time='722803' id='t-722803'>a proper voice,</span>
+<span class='talk-transcript__fragment' data-time='724347' id='t-724347'>because livestream takes the monopoly
+of the broadcast political discourse,</span>
+<span class='talk-transcript__fragment' data-time='729832' id='t-729832'>of the verbal aspect
+of the political dialogue</span>
+<span class='talk-transcript__fragment' data-time='732585' id='t-732585'>out of the mouths of just politicians
+and political pundits alone,</span>
+<span class='talk-transcript__fragment' data-time='738194' id='t-738194'>and it empowers the citizen
+through this direct and non-mediated power</span>
+<span class='talk-transcript__fragment' data-time='743664' id='t-743664'>of exchanging experiences and dialogue,</span>
+<span class='talk-transcript__fragment' data-time='746647' id='t-746647'>empowers them to question
+and to influence authorities</span>
+<span class='talk-transcript__fragment' data-time='750697' id='t-750697'>in ways in which we are about to see.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='754226' id='t-754226'>And I believe it does something else
+that might be even more important,</span>
+<span class='talk-transcript__fragment' data-time='758780' id='t-758780'>that the simplicity of the technology
+can merge objectivity and subjectivity</span>
+<span class='talk-transcript__fragment' data-time='765470' id='t-765470'>in a very political way, as I see it,</span>
+<span class='talk-transcript__fragment' data-time='768133' id='t-768133'>because it really helps the audience,</span>
+<span class='talk-transcript__fragment' data-time='773302' id='t-773302'>the citizen, to see the world
+through somebody else's eye,</span>
+<span class='talk-transcript__fragment' data-time='777796' id='t-777796'>so it helps the citizen
+to put him- or herself</span>
+<span class='talk-transcript__fragment' data-time='781230' id='t-781230'>in other people's place.</span>
+<span class='talk-transcript__fragment' data-time='783902' id='t-783902'>And that idea, I think, 
+should be the intention,</span>
+<span class='talk-transcript__fragment' data-time='787170' id='t-787170'>should be the goal of any good journalism,
+any good activism,</span>
+<span class='talk-transcript__fragment' data-time='791885' id='t-791885'>but most of all, any good politics.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='794537' id='t-794537'>Thank you very much. It was an honor.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='797065' id='t-797065'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

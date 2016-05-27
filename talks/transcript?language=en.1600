@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Catherine Bracy: Why good hackers make good citizens | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Catherine Bracy: Why good hackers make good citizens | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Hacking is about more than mischief-making or political subversion. As Catherine Bracy describes in this spirited talk, it can be just as much a force for good as it is for evil. She spins through some inspiring civically-minded projects in Honolulu, Oakland and Mexico City — and makes a compelling case that we all have what it takes to get involved." name="description" />
+<meta content="Catherine Bracy" name="author" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=ca" hreflang="ca" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=fi" hreflang="fi" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Why good hackers make good citizens&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Hacking is about more than mischief-making or political subversion. As Catherine Bracy describes in this spirited talk, it can be just as much a force for good as it is for evil. She spins through some inspiring civically-minded projects in Honolulu, Oakland and Mexico City — and makes a compelling case that we all have what it takes to get involved." property="og:description" />
+<meta content="http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1933?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='catherine_bracy_why_good_hackers_make_good_citizens'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='ca'>Catalan</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option selected value='en'>English</option>
+<option value='fi'>Finnish</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1933?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="590" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration"> 9:50</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Catherine Bracy</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1933?language=en' lang='en'>
+Why good hackers make good citizens
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='285' id='t-285'>I'm going to talk about hackers.</span>
+<span class='talk-transcript__fragment' data-time='2359' id='t-2359'>And the image that comes to your mind</span>
+<span class='talk-transcript__fragment' data-time='4279' id='t-4279'>when I say that word is probably not</span>
+<span class='talk-transcript__fragment' data-time='6738' id='t-6738'>of Benjamin Franklin,</span>
+<span class='talk-transcript__fragment' data-time='8255' id='t-8255'>but I'm going to explain to you why it should be.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='11443' id='t-11443'>The image that comes to your mind</span>
+<span class='talk-transcript__fragment' data-time='12920' id='t-12920'>is probably more likely of a pasty kid</span>
+<span class='talk-transcript__fragment' data-time='15606' id='t-15606'>sitting in a basement doing something mischievous,</span>
+<span class='talk-transcript__fragment' data-time='18122' id='t-18122'>or of a shady criminal who is
+trying to steal your identity,</span>
+<span class='talk-transcript__fragment' data-time='22257' id='t-22257'>or of an international rogue</span>
+<span class='talk-transcript__fragment' data-time='25280' id='t-25280'>with a political agenda.</span>
+<span class='talk-transcript__fragment' data-time='27991' id='t-27991'>And mainstream culture has kind of fed this idea</span>
+<span class='talk-transcript__fragment' data-time='32524' id='t-32524'>that hackers are people that we should be afraid of.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='37033' id='t-37033'>But like most things in technology</span>
+<span class='talk-transcript__fragment' data-time='38665' id='t-38665'>and the technology world,</span>
+<span class='talk-transcript__fragment' data-time='40114' id='t-40114'>hacking has equal power for good as it has for evil.</span>
+<span class='talk-transcript__fragment' data-time='43289' id='t-43289'>For every hacker that's trying to steal your identity</span>
+<span class='talk-transcript__fragment' data-time='45723' id='t-45723'>there's one that's building a tool</span>
+<span class='talk-transcript__fragment' data-time='47961' id='t-47961'>that will help you find your
+loved ones after a disaster</span>
+<span class='talk-transcript__fragment' data-time='51092' id='t-51092'>or to monitor environmental quality</span>
+<span class='talk-transcript__fragment' data-time='54571' id='t-54571'>after an oil spill.</span>
+<span class='talk-transcript__fragment' data-time='57308' id='t-57308'>Hacking is really just any amateur innovation</span>
+<span class='talk-transcript__fragment' data-time='61180' id='t-61180'>on an existing system,</span>
+<span class='talk-transcript__fragment' data-time='62576' id='t-62576'>and it is a deeply democratic activity.</span>
+<span class='talk-transcript__fragment' data-time='65406' id='t-65406'>It's about critical thinking.</span>
+<span class='talk-transcript__fragment' data-time='66805' id='t-66805'>It's about questioning existing ways of doing things.</span>
+<span class='talk-transcript__fragment' data-time='69839' id='t-69839'>It's the idea that if you see a 
+problem, you work to fix it,</span>
+<span class='talk-transcript__fragment' data-time='73227' id='t-73227'>and not just complain about it.</span>
+<span class='talk-transcript__fragment' data-time='75258' id='t-75258'>And in many ways, hacking is what built America.</span>
+<span class='talk-transcript__fragment' data-time='79168' id='t-79168'>Betsy Ross was a hacker.</span>
+<span class='talk-transcript__fragment' data-time='81313' id='t-81313'>The Underground Railroad was a brilliant hack.</span>
+<span class='talk-transcript__fragment' data-time='84508' id='t-84508'>And from the Wright brothers to Steve Jobs,</span>
+<span class='talk-transcript__fragment' data-time='87384' id='t-87384'>hacking has always been at the foundation</span>
+<span class='talk-transcript__fragment' data-time='89923' id='t-89923'>of American democracy.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='92975' id='t-92975'>So if there's one thing I want
+to leave you here with today,</span>
+<span class='talk-transcript__fragment' data-time='97276' id='t-97276'>it's that the next time you
+think about who a hacker is,</span>
+<span class='talk-transcript__fragment' data-time='99847' id='t-99847'>you think not of this guy</span>
+<span class='talk-transcript__fragment' data-time='103869' id='t-103869'>but of this guy, Benjamin Franklin,</span>
+<span class='talk-transcript__fragment' data-time='106449' id='t-106449'>who was one of the greatest hackers of all time.</span>
+<span class='talk-transcript__fragment' data-time='109407' id='t-109407'>He was one of America's most prolific inventors,</span>
+<span class='talk-transcript__fragment' data-time='111548' id='t-111548'>though he famously never filed a patent,</span>
+<span class='talk-transcript__fragment' data-time='113730' id='t-113730'>because he thought that all human knowledge</span>
+<span class='talk-transcript__fragment' data-time='115324' id='t-115324'>should be freely available.</span>
+<span class='talk-transcript__fragment' data-time='117952' id='t-117952'>He brought us bifocals and the lightning rod,</span>
+<span class='talk-transcript__fragment' data-time='120984' id='t-120984'>and of course there was his collaboration</span>
+<span class='talk-transcript__fragment' data-time='123181' id='t-123181'>on the invention of American democracy.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='126146' id='t-126146'>And in Code For America, we really try to embody</span>
+<span class='talk-transcript__fragment' data-time='128469' id='t-128469'>the spirit of Ben Franklin.</span>
+<span class='talk-transcript__fragment' data-time='130487' id='t-130487'>He was a tinkerer and a statesman</span>
+<span class='talk-transcript__fragment' data-time='133929' id='t-133929'>whose conception of citizenship</span>
+<span class='talk-transcript__fragment' data-time='135789' id='t-135789'>was always predicated on action.</span>
+<span class='talk-transcript__fragment' data-time='137876' id='t-137876'>He believed that government could be built</span>
+<span class='talk-transcript__fragment' data-time='140661' id='t-140661'>by the people,</span>
+<span class='talk-transcript__fragment' data-time='142301' id='t-142301'>and we call those people civic hackers.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='146850' id='t-146850'>So it's no wonder that the values</span>
+<span class='talk-transcript__fragment' data-time='149305' id='t-149305'>that underly a healthy democracy,</span>
+<span class='talk-transcript__fragment' data-time='151973' id='t-151973'>like collaboration and empowerment</span>
+<span class='talk-transcript__fragment' data-time='154966' id='t-154966'>and participation and enterprise,</span>
+<span class='talk-transcript__fragment' data-time='157029' id='t-157029'>are the same values that underly the Internet.</span>
+<span class='talk-transcript__fragment' data-time='160515' id='t-160515'>And so it's no surprise that many hackers</span>
+<span class='talk-transcript__fragment' data-time='162611' id='t-162611'>are turning their attention to
+the problem of government.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='165968' id='t-165968'>But before I give you a few examples</span>
+<span class='talk-transcript__fragment' data-time='168021' id='t-168021'>of what civic hacking looks like,</span>
+<span class='talk-transcript__fragment' data-time='169843' id='t-169843'>I want to make clear that you don't have</span>
+<span class='talk-transcript__fragment' data-time='171359' id='t-171359'>to be a programmer to be a civic hacker.</span>
+<span class='talk-transcript__fragment' data-time='173453' id='t-173453'>You just have to believe that you can bring</span>
+<span class='talk-transcript__fragment' data-time='175208' id='t-175208'>a 21st-century tool set to bear</span>
+<span class='talk-transcript__fragment' data-time='177475' id='t-177475'>on the problems that government faces.</span>
+<span class='talk-transcript__fragment' data-time='179914' id='t-179914'>And we hear all the time from our community</span>
+<span class='talk-transcript__fragment' data-time='181959' id='t-181959'>of civic hackers at Code for America</span>
+<span class='talk-transcript__fragment' data-time='184247' id='t-184247'>that they didn't understand
+how much nontechnical work</span>
+<span class='talk-transcript__fragment' data-time='186855' id='t-186855'>actually went into civic hacking projects.</span>
+<span class='talk-transcript__fragment' data-time='188881' id='t-188881'>So keep that in mind.</span>
+<span class='talk-transcript__fragment' data-time='190372' id='t-190372'>All of you are potential civic hackers.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='194462' id='t-194462'>So what does civic hacking look like?</span>
+<span class='talk-transcript__fragment' data-time='196482' id='t-196482'>Our team last year in Honolulu,</span>
+<span class='talk-transcript__fragment' data-time='198746' id='t-198746'>which in this case was three full-time fellows</span>
+<span class='talk-transcript__fragment' data-time='201361' id='t-201361'>who were doing a year of public service,</span>
+<span class='talk-transcript__fragment' data-time='203513' id='t-203513'>were asked by the city to rebuild the website.</span>
+<span class='talk-transcript__fragment' data-time='207478' id='t-207478'>And it's a massive thing of
+tens of thousands of pages</span>
+<span class='talk-transcript__fragment' data-time='210557' id='t-210557'>which just wasn't going to be possible</span>
+<span class='talk-transcript__fragment' data-time='212673' id='t-212673'>in the few months that they had.</span>
+<span class='talk-transcript__fragment' data-time='214426' id='t-214426'>So instead, they decided to build a parallel site</span>
+<span class='talk-transcript__fragment' data-time='216883' id='t-216883'>that better conformed to how citizens actually</span>
+<span class='talk-transcript__fragment' data-time='219345' id='t-219345'>want to interact with information on a city website.</span>
+<span class='talk-transcript__fragment' data-time='222684' id='t-222684'>They're looking for answers to questions,</span>
+<span class='talk-transcript__fragment' data-time='224621' id='t-224621'>and they want to take action when they're done,</span>
+<span class='talk-transcript__fragment' data-time='227247' id='t-227247'>which is really hard to do from a site</span>
+<span class='talk-transcript__fragment' data-time='229533' id='t-229533'>that looks like this.</span>
+<span class='talk-transcript__fragment' data-time='231182' id='t-231182'>So our team built Honolulu Answers,</span>
+<span class='talk-transcript__fragment' data-time='233427' id='t-233427'>which is a super-simple search interface</span>
+<span class='talk-transcript__fragment' data-time='235793' id='t-235793'>where you enter a search term or a question</span>
+<span class='talk-transcript__fragment' data-time='238246' id='t-238246'>and get back plain language answers</span>
+<span class='talk-transcript__fragment' data-time='240944' id='t-240944'>that drive a user towards action.</span>
+<span class='talk-transcript__fragment' data-time='243384' id='t-243384'>Now the site itself was easy enough to build,</span>
+<span class='talk-transcript__fragment' data-time='246241' id='t-246241'>but the team was faced with the challenge</span>
+<span class='talk-transcript__fragment' data-time='248144' id='t-248144'>of how they populate all of the content.</span>
+<span class='talk-transcript__fragment' data-time='250854' id='t-250854'>It would have taken the three of them</span>
+<span class='talk-transcript__fragment' data-time='252530' id='t-252530'>a very long time,</span>
+<span class='talk-transcript__fragment' data-time='253907' id='t-253907'>especially given that none of 
+them are actually from Honolulu.</span>
+<span class='talk-transcript__fragment' data-time='256906' id='t-256906'>And so they did something that's really radical,</span>
+<span class='talk-transcript__fragment' data-time='258981' id='t-258981'>when you think about how government</span>
+<span class='talk-transcript__fragment' data-time='260654' id='t-260654'>is used to working.</span>
+<span class='talk-transcript__fragment' data-time='262695' id='t-262695'>They asked citizens to write the content.</span>
+<span class='talk-transcript__fragment' data-time='265707' id='t-265707'>So you've heard of a hack-a-thon.</span>
+<span class='talk-transcript__fragment' data-time='267201' id='t-267201'>They held a write-a-thon,</span>
+<span class='talk-transcript__fragment' data-time='268865' id='t-268865'>where on one Saturday afternoon --</span>
+<span class='talk-transcript__fragment' data-time='271502' id='t-271502'>(&quot;What do I do about wild pigs 
+being a nuisance?&quot;) (Laughter) —</span>
+<span class='talk-transcript__fragment' data-time='273543' id='t-273543'>Wild pigs are a huge problem 
+in Honolulu, apparently.</span>
+<span class='talk-transcript__fragment' data-time='277589' id='t-277589'>In one Saturday afternoon,</span>
+<span class='talk-transcript__fragment' data-time='279632' id='t-279632'>they were able to populate most of the content</span>
+<span class='talk-transcript__fragment' data-time='281966' id='t-281966'>for most of the frequently asked questions,</span>
+<span class='talk-transcript__fragment' data-time='283627' id='t-283627'>but more importantly than that,</span>
+<span class='talk-transcript__fragment' data-time='285860' id='t-285860'>they created a new way for citizens 
+to participate in their government.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='289975' id='t-289975'>Now, I think this is a really cool story in and of itself,</span>
+<span class='talk-transcript__fragment' data-time='293020' id='t-293020'>but it gets more awesome.</span>
+<span class='talk-transcript__fragment' data-time='295357' id='t-295357'>On the National Day of Civic Hacking</span>
+<span class='talk-transcript__fragment' data-time='297963' id='t-297963'>this past June in Oakland, where I live,</span>
+<span class='talk-transcript__fragment' data-time='300374' id='t-300374'>the Code For America team in Oakland</span>
+<span class='talk-transcript__fragment' data-time='302403' id='t-302403'>took the open source code base of Honolulu Answers</span>
+<span class='talk-transcript__fragment' data-time='304603' id='t-304603'>and turned it into Oakland Answers,</span>
+<span class='talk-transcript__fragment' data-time='306614' id='t-306614'>and again we held a write-a-thon</span>
+<span class='talk-transcript__fragment' data-time='308693' id='t-308693'>where we took the most frequently asked questions</span>
+<span class='talk-transcript__fragment' data-time='312041' id='t-312041'>and had citizens write the answers to them,</span>
+<span class='talk-transcript__fragment' data-time='313703' id='t-313703'>and I got into the act.</span>
+<span class='talk-transcript__fragment' data-time='315172' id='t-315172'>I authored this answer, and a few others.</span>
+<span class='talk-transcript__fragment' data-time='318773' id='t-318773'>And I'm trying to this day to articulate</span>
+<span class='talk-transcript__fragment' data-time='321885' id='t-321885'>the sense of empowerment and responsibility</span>
+<span class='talk-transcript__fragment' data-time='324931' id='t-324931'>that I feel for the place that I live</span>
+<span class='talk-transcript__fragment' data-time='328511' id='t-328511'>based simply on this small act of participation.</span>
+<span class='talk-transcript__fragment' data-time='332553' id='t-332553'>And by stitching together my small act</span>
+<span class='talk-transcript__fragment' data-time='336278' id='t-336278'>with the thousands of other
+small acts of participation</span>
+<span class='talk-transcript__fragment' data-time='339084' id='t-339084'>that we're enabling through civic hacking,</span>
+<span class='talk-transcript__fragment' data-time='341665' id='t-341665'>we think we can reenergize citizenship</span>
+<span class='talk-transcript__fragment' data-time='344449' id='t-344449'>and restore trust in government.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='347499' id='t-347499'>At this point, you may be wondering</span>
+<span class='talk-transcript__fragment' data-time='348836' id='t-348836'>what city officials think of all this.</span>
+<span class='talk-transcript__fragment' data-time='350562' id='t-350562'>They actually love it.</span>
+<span class='talk-transcript__fragment' data-time='352115' id='t-352115'>As most of you guys know, cities are being asked</span>
+<span class='talk-transcript__fragment' data-time='354309' id='t-354309'>every day to do more with less,</span>
+<span class='talk-transcript__fragment' data-time='357030' id='t-357030'>and they're always looking for innovative solutions</span>
+<span class='talk-transcript__fragment' data-time='359228' id='t-359228'>to entrenched problems.</span>
+<span class='talk-transcript__fragment' data-time='360962' id='t-360962'>So when you give citizens a way to participate</span>
+<span class='talk-transcript__fragment' data-time='364496' id='t-364496'>beyond attending a town hall meeting,</span>
+<span class='talk-transcript__fragment' data-time='366334' id='t-366334'>cities can actually capture</span>
+<span class='talk-transcript__fragment' data-time='368286' id='t-368286'>the capacity in their communities</span>
+<span class='talk-transcript__fragment' data-time='371040' id='t-371040'>to do the business of government.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='374075' id='t-374075'>Now I don't want to leave the impression</span>
+<span class='talk-transcript__fragment' data-time='376068' id='t-376068'>that civic hacking is just an American phenomenon.</span>
+<span class='talk-transcript__fragment' data-time='378180' id='t-378180'>It's happening across the globe,</span>
+<span class='talk-transcript__fragment' data-time='379883' id='t-379883'>and one of my favorite examples</span>
+<span class='talk-transcript__fragment' data-time='381536' id='t-381536'>is from Mexico City, where earlier this year,</span>
+<span class='talk-transcript__fragment' data-time='383967' id='t-383967'>the Mexico House of Representatives</span>
+<span class='talk-transcript__fragment' data-time='386077' id='t-386077'>entered into a contract with
+a software development firm</span>
+<span class='talk-transcript__fragment' data-time='390389' id='t-390389'>to build an app that legislators would use</span>
+<span class='talk-transcript__fragment' data-time='393569' id='t-393569'>to track bills.</span>
+<span class='talk-transcript__fragment' data-time='394820' id='t-394820'>So this was just for the handful of legislators</span>
+<span class='talk-transcript__fragment' data-time='397496' id='t-397496'>in the House.</span>
+<span class='talk-transcript__fragment' data-time='400070' id='t-400070'>And the contract was a two-year contract</span>
+<span class='talk-transcript__fragment' data-time='402739' id='t-402739'>for 9.3 million dollars.</span>
+<span class='talk-transcript__fragment' data-time='406665' id='t-406665'>Now a lot of people were really angry about this,</span>
+<span class='talk-transcript__fragment' data-time='409017' id='t-409017'>especially geeks who knew that 9.3 million dollars</span>
+<span class='talk-transcript__fragment' data-time='411964' id='t-411964'>was an absolutely outrageous amount of money</span>
+<span class='talk-transcript__fragment' data-time='414268' id='t-414268'>for what was a very simple app.</span>
+<span class='talk-transcript__fragment' data-time='416239' id='t-416239'>But instead of taking to the streets,</span>
+<span class='talk-transcript__fragment' data-time='418668' id='t-418668'>they issued a challenge.</span>
+<span class='talk-transcript__fragment' data-time='420876' id='t-420876'>They asked programmers in Mexico</span>
+<span class='talk-transcript__fragment' data-time='423707' id='t-423707'>to build something better and cheaper,</span>
+<span class='talk-transcript__fragment' data-time='426910' id='t-426910'>and they offered a prize of 9,300 dollars --</span>
+<span class='talk-transcript__fragment' data-time='431361' id='t-431361'>10,000 times cheaper</span>
+<span class='talk-transcript__fragment' data-time='433262' id='t-433262'>than the government contract,</span>
+<span class='talk-transcript__fragment' data-time='434910' id='t-434910'>and they gave the entrants 10 days.</span>
+<span class='talk-transcript__fragment' data-time='438013' id='t-438013'>And in those 10 days,</span>
+<span class='talk-transcript__fragment' data-time='439825' id='t-439825'>they submitted 173 apps,</span>
+<span class='talk-transcript__fragment' data-time='443886' id='t-443886'>five of which were presented to Congress</span>
+<span class='talk-transcript__fragment' data-time='446520' id='t-446520'>and are still in the app store today.</span>
+<span class='talk-transcript__fragment' data-time='448621' id='t-448621'>And because of this action,</span>
+<span class='talk-transcript__fragment' data-time='450442' id='t-450442'>that contract was vacated,</span>
+<span class='talk-transcript__fragment' data-time='452570' id='t-452570'>and now this has sparked a movement in Mexico City</span>
+<span class='talk-transcript__fragment' data-time='454702' id='t-454702'>which is home to one of our partners,</span>
+<span class='talk-transcript__fragment' data-time='456459' id='t-456459'>Code for Mexico City.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='458917' id='t-458917'>And so what you see in all three of these places,</span>
+<span class='talk-transcript__fragment' data-time='461668' id='t-461668'>in Honolulu and in Oakland and in Mexico City,</span>
+<span class='talk-transcript__fragment' data-time='464485' id='t-464485'>are the elements that are
+at the core of civic hacking.</span>
+<span class='talk-transcript__fragment' data-time='467676' id='t-467676'>It's citizens who saw things
+that could be working better</span>
+<span class='talk-transcript__fragment' data-time='470699' id='t-470699'>and they decided to fix them,</span>
+<span class='talk-transcript__fragment' data-time='472630' id='t-472630'>and through that work, they're creating</span>
+<span class='talk-transcript__fragment' data-time='474289' id='t-474289'>a 21st-century ecosystem of participation.</span>
+<span class='talk-transcript__fragment' data-time='477480' id='t-477480'>They're creating a whole new set of ways</span>
+<span class='talk-transcript__fragment' data-time='479510' id='t-479510'>for citizens to be involved,</span>
+<span class='talk-transcript__fragment' data-time='481516' id='t-481516'>besides voting or signing a petition or protesting.</span>
+<span class='talk-transcript__fragment' data-time='485461' id='t-485461'>They can actually build government.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='489438' id='t-489438'>So back to our friend Ben Franklin,</span>
+<span class='talk-transcript__fragment' data-time='492574' id='t-492574'>who, one of his lesser-known accomplishments</span>
+<span class='talk-transcript__fragment' data-time='495320' id='t-495320'>was that in 1736 he founded</span>
+<span class='talk-transcript__fragment' data-time='499195' id='t-499195'>the first volunteer firefighting
+company in Philadelphia,</span>
+<span class='talk-transcript__fragment' data-time='502753' id='t-502753'>called a brigade.</span>
+<span class='talk-transcript__fragment' data-time='504452' id='t-504452'>And it's because he and his friends noticed</span>
+<span class='talk-transcript__fragment' data-time='506678' id='t-506678'>that the city was having trouble keeping up</span>
+<span class='talk-transcript__fragment' data-time='508377' id='t-508377'>with all the fires that were happening in the city,</span>
+<span class='talk-transcript__fragment' data-time='510447' id='t-510447'>so in true civic hacker fashion,</span>
+<span class='talk-transcript__fragment' data-time='513236' id='t-513236'>they built a solution.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='515886' id='t-515886'>And we have our own brigades at Code for America</span>
+<span class='talk-transcript__fragment' data-time='518396' id='t-518396'>working on the projects that I've just described,</span>
+<span class='talk-transcript__fragment' data-time='521542' id='t-521542'>and we want to ask you</span>
+<span class='talk-transcript__fragment' data-time='523280' id='t-523280'>to follow in Ben Franklin's footsteps</span>
+<span class='talk-transcript__fragment' data-time='525742' id='t-525742'>and come join us.</span>
+<span class='talk-transcript__fragment' data-time='527209' id='t-527209'>We have 31 brigades in the U.S.</span>
+<span class='talk-transcript__fragment' data-time='529499' id='t-529499'>We are pleased to announce today</span>
+<span class='talk-transcript__fragment' data-time='530767' id='t-530767'>that we're opening up the 
+brigade to international cities</span>
+<span class='talk-transcript__fragment' data-time='533043' id='t-533043'>for the first time,</span>
+<span class='talk-transcript__fragment' data-time='534635' id='t-534635'>starting with cities in Poland and Japan and Ireland.</span>
+<span class='talk-transcript__fragment' data-time='538616' id='t-538616'>You can find out if there's a brigade where you live</span>
+<span class='talk-transcript__fragment' data-time='540715' id='t-540715'>at brigade.codeforamerica.org,</span>
+<span class='talk-transcript__fragment' data-time='543209' id='t-543209'>and if there's not a brigade
+where you live, we will help you.</span>
+<span class='talk-transcript__fragment' data-time='545648' id='t-545648'>We've created a tool kit which also lives</span>
+<span class='talk-transcript__fragment' data-time='547504' id='t-547504'>at brigade.codeforamerica.org,</span>
+<span class='talk-transcript__fragment' data-time='549068' id='t-549068'>and we will support you along the way.</span>
+<span class='talk-transcript__fragment' data-time='551608' id='t-551608'>Our goal is to create a global
+network of civic hackers</span>
+<span class='talk-transcript__fragment' data-time='555523' id='t-555523'>who are innovating on the existing system</span>
+<span class='talk-transcript__fragment' data-time='558276' id='t-558276'>in order to build tools that will solve</span>
+<span class='talk-transcript__fragment' data-time='561236' id='t-561236'>entrenched problems,</span>
+<span class='talk-transcript__fragment' data-time='563102' id='t-563102'>that will support local government,</span>
+<span class='talk-transcript__fragment' data-time='565129' id='t-565129'>and that will empower citizens.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='566688' id='t-566688'>So please come hack with us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='569063' id='t-569063'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='570611' id='t-570611'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

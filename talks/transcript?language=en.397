@@ -1,0 +1,1105 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Tim Berners-Lee: The next web | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Tim Berners-Lee: The next web | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he&#39;s building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together." name="description" />
+<meta content="Tim Berners-Lee" name="author" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=lv" hreflang="lv" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ms" hreflang="ms" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The next web&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he&#39;s building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together." property="og:description" />
+<meta content="http://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/484?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='tim_berners_lee_on_the_next_web'>
+<option value='sq'>Albanian</option>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lv'>Latvian</option>
+<option value='lt'>Lithuanian</option>
+<option value='ms'>Malay</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/484?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="983" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:23</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Tim Berners-Lee</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/484?language=en' lang='en'>
+The next web
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Mar 2009
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Time flies.</span>
+<span class='talk-transcript__fragment' data-time='2000' id='t-2000'>It's actually almost 20 years ago</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>when I wanted to reframe the way we use information,</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>the way we work together: I invented the World Wide Web.</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>Now, 20 years on, at TED,</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>I want to ask your help in a new reframing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='19000' id='t-19000'>So going back to 1989,</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>I wrote a memo suggesting the global hypertext system.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>Nobody really did anything with it, pretty much.</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>But 18 months later -- this is how innovation happens --</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>18 months later, my boss said I could do it on the side,</span>
+<span class='talk-transcript__fragment' data-time='37000' id='t-37000'>as a sort of a play project,</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>kick the tires of a new computer we'd got.</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>And so he gave me the time to code it up.</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>So I basically roughed out what HTML should look like:</span>
+<span class='talk-transcript__fragment' data-time='49000' id='t-49000'>hypertext protocol, HTTP;</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>the idea of URLs, these names for things</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>which started with HTTP.</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>I wrote the code and put it out there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>Why did I do it?</span>
+<span class='talk-transcript__fragment' data-time='61000' id='t-61000'>Well, it was basically frustration.</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>I was frustrated -- I was working as a software engineer</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>in this huge, very exciting lab,</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>lots of people coming from all over the world.</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>They brought all sorts of different computers with them.</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>They had all sorts of different data formats,</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>all sorts, all kinds of documentation systems.</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>So that, in all that diversity,</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>if I wanted to figure out how to build something</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>out of a bit of this and a bit of this,</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>everything I looked into, I had to connect to some new machine,</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>I had to learn to run some new program,</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>I would find the information I wanted in some new data format.</span>
+<span class='talk-transcript__fragment' data-time='97000' id='t-97000'>And these were all incompatible.</span>
+<span class='talk-transcript__fragment' data-time='99000' id='t-99000'>It was just very frustrating.</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>The frustration was all this unlocked potential.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='103000' id='t-103000'>In fact, on all these discs there were documents.</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>So if you just imagined them all</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>being part of some big, virtual documentation system in the sky,</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>say on the Internet,</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>then life would be so much easier.</span>
+<span class='talk-transcript__fragment' data-time='118000' id='t-118000'>Well, once you've had an idea like that it kind of gets under your skin</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>and even if people don't read your memo --</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>actually he did, it was found after he died, his copy.</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>He had written, &quot;Vague, but exciting,&quot; in pencil, in the corner.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>But in general it was difficult -- it was really difficult to explain</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>what the web was like.</span>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>It's difficult to explain to people now that it was difficult then.</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>But then -- OK, when TED started, there was no web</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>so things like &quot;click&quot; didn't have the same meaning.</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>I can show somebody a piece of hypertext,</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>a page which has got links,</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>and we click on the link and bing -- there'll be another hypertext page.</span>
+<span class='talk-transcript__fragment' data-time='154000' id='t-154000'>Not impressive.</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>You know, we've seen that -- we've got things on hypertext on CD-ROMs.</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>What was difficult was to get them to imagine:</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>so, imagine that that link could have gone</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>to virtually any document you could imagine.</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>Alright, that is the leap that was very difficult for people to make.</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>Well, some people did.</span>
+<span class='talk-transcript__fragment' data-time='175000' id='t-175000'>So yeah, it was difficult to explain, but there was a grassroots movement.</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>And that is what has made it most fun.</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>That has been the most exciting thing,</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>not the technology, not the things people have done with it,</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>but actually the community, the spirit of all these people</span>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>getting together, sending the emails.</span>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>That's what it was like then.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>Do you know what? It's funny, but right now it's kind of like that again.</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>I asked everybody, more or less, to put their documents --</span>
+<span class='talk-transcript__fragment' data-time='198000' id='t-198000'>I said, &quot;Could you put your documents on this web thing?&quot;</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>And you did.</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>Thanks.</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>It's been a blast, hasn't it?</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>I mean, it has been quite interesting</span>
+<span class='talk-transcript__fragment' data-time='209000' id='t-209000'>because we've found out that the things that happen with the web</span>
+<span class='talk-transcript__fragment' data-time='211000' id='t-211000'>really sort of blow us away.</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>They're much more than we'd originally imagined</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>when we put together the little, initial website</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>that we started off with.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>Now, I want you to put your data on the web.</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>Turns out that there is still huge unlocked potential.</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>There is still a huge frustration</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>that people have because we haven't got data on the web as data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='232000' id='t-232000'>What do you mean, &quot;data&quot;? What's the difference -- documents, data?</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>Well, documents you read, OK?</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>More or less, you read them, you can follow links from them, and that's it.</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>Data -- you can do all kinds of stuff with a computer.</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>Who was here or has otherwise seen Hans Rosling's talk?</span>
+<span class='talk-transcript__fragment' data-time='248000' id='t-248000'>One of the great -- yes a lot of people have seen it --</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>one of the great TED Talks.</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>Hans put up this presentation</span>
+<span class='talk-transcript__fragment' data-time='256000' id='t-256000'>in which he showed, for various different countries, in various different colors --</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>he showed income levels on one axis</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>and he showed infant mortality, and he shot this thing animated through time.</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>So, he'd taken this data and made a presentation</span>
+<span class='talk-transcript__fragment' data-time='271000' id='t-271000'>which just shattered a lot of myths that people had</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>about the economics in the developing world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>He put up a slide a little bit like this.</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>It had underground all the data</span>
+<span class='talk-transcript__fragment' data-time='282000' id='t-282000'>OK, data is brown and boxy and boring,</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>and that's how we think of it, isn't it?</span>
+<span class='talk-transcript__fragment' data-time='287000' id='t-287000'>Because data you can't naturally use by itself</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>But in fact, data drives a huge amount of what happens in our lives</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>and it happens because somebody takes that data and does something with it.</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>In this case, Hans had put the data together</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>he had found from all kinds of United Nations websites and things.</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>He had put it together,</span>
+<span class='talk-transcript__fragment' data-time='306000' id='t-306000'>combined it into something more interesting than the original pieces</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>and then he'd put it into this software,</span>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>which I think his son developed, originally,</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>and produces this wonderful presentation.</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>And Hans made a point</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>of saying, &quot;Look, it's really important to have a lot of data.&quot;</span>
+<span class='talk-transcript__fragment' data-time='325000' id='t-325000'>And I was happy to see that at the party last night</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>that he was still saying, very forcibly, &quot;It's really important to have a lot of data.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>So I want us now to think about</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>not just two pieces of data being connected, or six like he did,</span>
+<span class='talk-transcript__fragment' data-time='338000' id='t-338000'>but I want to think about a world where everybody has put data on the web</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>and so virtually everything you can imagine is on the web</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>and then calling that linked data.</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>The technology is linked data, and it's extremely simple.</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>If you want to put something on the web there are three rules:</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>first thing is that those HTTP names --</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>those things that start with &quot;http:&quot; --</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>we're using them not just for documents now,</span>
+<span class='talk-transcript__fragment' data-time='362000' id='t-362000'>we're using them for things that the documents are about.</span>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>We're using them for people, we're using them for places,</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>we're using them for your products, we're using them for events.</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>All kinds of conceptual things, they have names now that start with HTTP.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>Second rule, if I take one of these HTTP names and I look it up</span>
+<span class='talk-transcript__fragment' data-time='379000' id='t-379000'>and I do the web thing with it and I fetch the data</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>using the HTTP protocol from the web,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>I will get back some data in a standard format</span>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>which is kind of useful data that somebody might like to know</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>about that thing, about that event.</span>
+<span class='talk-transcript__fragment' data-time='393000' id='t-393000'>Who's at the event? Whatever it is about that person,</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>where they were born, things like that.</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>So the second rule is I get important information back.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='399000' id='t-399000'>Third rule is that when I get back that information</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>it's not just got somebody's height and weight and when they were born,</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>it's got relationships.</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>Data is relationships.</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>Interestingly, data is relationships.</span>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>This person was born in Berlin; Berlin is in Germany.</span>
+<span class='talk-transcript__fragment' data-time='416000' id='t-416000'>And when it has relationships, whenever it expresses a relationship</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>then the other thing that it's related to</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>is given one of those names that starts HTTP.</span>
+<span class='talk-transcript__fragment' data-time='426000' id='t-426000'>So, I can go ahead and look that thing up.</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>So I look up a person -- I can look up then the city where they were born; then</span>
+<span class='talk-transcript__fragment' data-time='431000' id='t-431000'>I can look up the region it's in, and the town it's in,</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>and the population of it, and so on.</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>So I can browse this stuff.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>So that's it, really.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>That is linked data.</span>
+<span class='talk-transcript__fragment' data-time='443000' id='t-443000'>I wrote an article entitled &quot;Linked Data&quot; a couple of years ago</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>and soon after that, things started to happen.</span>
+<span class='talk-transcript__fragment' data-time='450000' id='t-450000'>The idea of linked data is that we get lots and lots and lots</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>of these boxes that Hans had,</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>and we get lots and lots and lots of things sprouting.</span>
+<span class='talk-transcript__fragment' data-time='458000' id='t-458000'>It's not just a whole lot of other plants.</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>It's not just a root supplying a plant,</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>but for each of those plants, whatever it is --</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>a presentation, an analysis, somebody's looking for patterns in the data --</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>they get to look at all the data</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>and they get it connected together,</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>and the really important thing about data</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>is the more things you have to connect together, the more powerful it is.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>So, linked data.</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>The meme went out there.</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>And, pretty soon Chris Bizer at the Freie Universitat in Berlin</span>
+<span class='talk-transcript__fragment' data-time='486000' id='t-486000'>who was one of the first people to put interesting things up,</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>he noticed that Wikipedia --</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>you know Wikipedia, the online encyclopedia</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>with lots and lots of interesting documents in it.</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>Well, in those documents, there are little squares, little boxes.</span>
+<span class='talk-transcript__fragment' data-time='499000' id='t-499000'>And in most information boxes, there's data.</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>So he wrote a program to take the data, extract it from Wikipedia,</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>and put it into a blob of linked data</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>on the web, which he called dbpedia.</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>Dbpedia is represented by the blue blob in the middle of this slide</span>
+<span class='talk-transcript__fragment' data-time='515000' id='t-515000'>and if you actually go and look up Berlin,</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>you'll find that there are other blobs of data</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>which also have stuff about Berlin, and they're linked together.</span>
+<span class='talk-transcript__fragment' data-time='522000' id='t-522000'>So if you pull the data from dbpedia about Berlin,</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>you'll end up pulling up these other things as well.</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>And the exciting thing is it's starting to grow.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>This is just the grassroots stuff again, OK?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='532000' id='t-532000'>Let's think about data for a bit.</span>
+<span class='talk-transcript__fragment' data-time='535000' id='t-535000'>Data comes in fact in lots and lots of different forms.</span>
+<span class='talk-transcript__fragment' data-time='538000' id='t-538000'>Think of the diversity of the web. It's a really important thing</span>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>that the web allows you to put all kinds of data up there.</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>So it is with data. I could talk about all kinds of data.</span>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>We could talk about government data, enterprise data is really important,</span>
+<span class='talk-transcript__fragment' data-time='551000' id='t-551000'>there's scientific data, there's personal data,</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>there's weather data, there's data about events,</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>there's data about talks, and there's news and there's all kinds of stuff.</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>I'm just going to mention a few of them</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>so that you get the idea of the diversity of it,</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>so that you also see how much unlocked potential.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>Let's start with government data.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>Barack Obama said in a speech,</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>that he -- American government data would be available on the Internet</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>in accessible formats.</span>
+<span class='talk-transcript__fragment' data-time='580000' id='t-580000'>And I hope that they will put it up as linked data.</span>
+<span class='talk-transcript__fragment' data-time='582000' id='t-582000'>That's important. Why is it important?</span>
+<span class='talk-transcript__fragment' data-time='584000' id='t-584000'>Not just for transparency, yeah transparency in government is important,</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>but that data -- this is the data from all the government departments</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>Think about how much of that data is about how life is lived in America.</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>It's actual useful. It's got value.</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>I can use it in my company.</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>I could use it as a kid to do my homework.</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>So we're talking about making the place, making the world run better</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>by making this data available.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>In fact if you're responsible -- if you know about some data</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>in a government department, often you find that</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>these people, they're very tempted to keep it --</span>
+<span class='talk-transcript__fragment' data-time='615000' id='t-615000'>Hans calls it database hugging.</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>You hug your database, you don't want to let it go</span>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>until you've made a beautiful website for it.</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>Well, I'd like to suggest that rather --</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>yes, make a beautiful website,</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>who am I to say don't make a beautiful website?</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>Make a beautiful website, but first</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>give us the unadulterated data,</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>we want the data.</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>We want unadulterated data.</span>
+<span class='talk-transcript__fragment' data-time='638000' id='t-638000'>OK, we have to ask for raw data now.</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>And I'm going to ask you to practice that, OK?</span>
+<span class='talk-transcript__fragment' data-time='643000' id='t-643000'>Can you say &quot;raw&quot;?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>Audience: Raw.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='645000' id='t-645000'>Tim Berners-Lee: Can you say &quot;data&quot;?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>Audience: Data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>TBL: Can you say &quot;now&quot;?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>Audience: Now!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>TBL: Alright, &quot;raw data now&quot;!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>Audience: Raw data now!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>Practice that. It's important because you have no idea the number of excuses</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>people come up with to hang onto their data</span>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>and not give it to you, even though you've paid for it as a taxpayer.</span>
+<span class='talk-transcript__fragment' data-time='663000' id='t-663000'>And it's not just America. It's all over the world.</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>And it's not just governments, of course -- it's enterprises as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>So I'm just going to mention a few other thoughts on data.</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>Here we are at TED, and all the time we are very conscious</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>of the huge challenges that human society has right now --</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>curing cancer, understanding the brain for Alzheimer's,</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>understanding the economy to make it a little bit more stable,</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>understanding how the world works.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>The people who are going to solve those -- the scientists --</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>they have half-formed ideas in their head,</span>
+<span class='talk-transcript__fragment' data-time='693000' id='t-693000'>they try to communicate those over the web.</span>
+<span class='talk-transcript__fragment' data-time='696000' id='t-696000'>But a lot of the state of knowledge of the human race at the moment</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>is on databases, often sitting in their computers,</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>and actually, currently not shared.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>In fact, I'll just go into one area --</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>if you're looking at Alzheimer's, for example,</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>drug discovery -- there is a whole lot of linked data which is just coming out</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>because scientists in that field realize</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>this is a great way of getting out of those silos,</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>because they had their genomics data in one database</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>in one building, and they had their protein data in another.</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>Now, they are sticking it onto -- linked data --</span>
+<span class='talk-transcript__fragment' data-time='728000' id='t-728000'>and now they can ask the sort of question, that you probably wouldn't ask,</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>I wouldn't ask -- they would.</span>
+<span class='talk-transcript__fragment' data-time='733000' id='t-733000'>What proteins are involved in signal transduction</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>and also related to pyramidal neurons?</span>
+<span class='talk-transcript__fragment' data-time='737000' id='t-737000'>Well, you take that mouthful and you put it into Google.</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>Of course, there's no page on the web which has answered that question</span>
+<span class='talk-transcript__fragment' data-time='743000' id='t-743000'>because nobody has asked that question before.</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>You get 223,000 hits --</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>no results you can use.</span>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>You ask the linked data -- which they've now put together --</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>32 hits, each of which is a protein which has those properties</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>and you can look at.</span>
+<span class='talk-transcript__fragment' data-time='758000' id='t-758000'>The power of being able to ask those questions, as a scientist --</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>questions which actually bridge across different disciplines --</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>is really a complete sea change.</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>It's very very important.</span>
+<span class='talk-transcript__fragment' data-time='768000' id='t-768000'>Scientists are totally stymied at the moment --</span>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>the power of the data that other scientists have collected is locked up</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>and we need to get it unlocked so we can tackle those huge problems.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>Now if I go on like this, you'll think that all the data comes from huge institutions</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>and has nothing to do with you.</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>But, that's not true.</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>In fact, data is about our lives.</span>
+<span class='talk-transcript__fragment' data-time='789000' id='t-789000'>You just -- you log on to your social networking site,</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>your favorite one, you say, &quot;This is my friend.&quot;</span>
+<span class='talk-transcript__fragment' data-time='794000' id='t-794000'>Bing! Relationship. Data.</span>
+<span class='talk-transcript__fragment' data-time='797000' id='t-797000'>You say, &quot;This photograph, it's about -- it depicts this person. &quot;</span>
+<span class='talk-transcript__fragment' data-time='800000' id='t-800000'>Bing! That's data. Data, data, data.</span>
+<span class='talk-transcript__fragment' data-time='803000' id='t-803000'>Every time you do things on the social networking site,</span>
+<span class='talk-transcript__fragment' data-time='805000' id='t-805000'>the social networking site is taking data and using it -- re-purposing it --</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>and using it to make other people's lives more interesting on the site.</span>
+<span class='talk-transcript__fragment' data-time='813000' id='t-813000'>But, when you go to another linked data site --</span>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>and let's say this is one about travel,</span>
+<span class='talk-transcript__fragment' data-time='818000' id='t-818000'>and you say, &quot;I want to send this photo to all the people in that group,&quot;</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>you can't get over the walls.</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>The Economist wrote an article about it, and lots of people have blogged about it --</span>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>tremendous frustration.</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>The way to break down the silos is to get inter-operability</span>
+<span class='talk-transcript__fragment' data-time='828000' id='t-828000'>between social networking sites.</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>We need to do that with linked data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='832000' id='t-832000'>One last type of data I'll talk about, maybe it's the most exciting.</span>
+<span class='talk-transcript__fragment' data-time='835000' id='t-835000'>Before I came down here, I looked it up on OpenStreetMap</span>
+<span class='talk-transcript__fragment' data-time='838000' id='t-838000'>The OpenStreetMap's a map, but it's also a Wiki.</span>
+<span class='talk-transcript__fragment' data-time='840000' id='t-840000'>Zoom in and that square thing is a theater -- which we're in right now --</span>
+<span class='talk-transcript__fragment' data-time='843000' id='t-843000'>The Terrace Theater. It didn't have a name on it.</span>
+<span class='talk-transcript__fragment' data-time='845000' id='t-845000'>So I could go into edit mode, I could select the theater,</span>
+<span class='talk-transcript__fragment' data-time='847000' id='t-847000'>I could add down at the bottom the name, and I could save it back.</span>
+<span class='talk-transcript__fragment' data-time='852000' id='t-852000'>And now if you go back to the OpenStreetMap. org,</span>
+<span class='talk-transcript__fragment' data-time='855000' id='t-855000'>and you find this place, you will find that The Terrace Theater has got a name.</span>
+<span class='talk-transcript__fragment' data-time='858000' id='t-858000'>I did that. Me!</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>I did that to the map. I just did that!</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>I put that up on there. Hey, you know what?</span>
+<span class='talk-transcript__fragment' data-time='864000' id='t-864000'>If I -- that street map is all about everybody doing their bit</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>and it creates an incredible resource</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>because everybody else does theirs.</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>And that is what linked data is all about.</span>
+<span class='talk-transcript__fragment' data-time='876000' id='t-876000'>It's about people doing their bit</span>
+<span class='talk-transcript__fragment' data-time='879000' id='t-879000'>to produce a little bit, and it all connecting.</span>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>That's how linked data works.</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>You do your bit. Everybody else does theirs.</span>
+<span class='talk-transcript__fragment' data-time='889000' id='t-889000'>You may not have lots of data which you have yourself to put on there</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>but you know to demand it.</span>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>And we've practiced that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='898000' id='t-898000'>So, linked data -- it's huge.</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>I've only told you a very small number of things</span>
+<span class='talk-transcript__fragment' data-time='905000' id='t-905000'>There are data in every aspect of our lives,</span>
+<span class='talk-transcript__fragment' data-time='907000' id='t-907000'>every aspect of work and pleasure,</span>
+<span class='talk-transcript__fragment' data-time='910000' id='t-910000'>and it's not just about the number of places where data comes,</span>
+<span class='talk-transcript__fragment' data-time='913000' id='t-913000'>it's about connecting it together.</span>
+<span class='talk-transcript__fragment' data-time='916000' id='t-916000'>And when you connect data together, you get power</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>in a way that doesn't happen just with the web, with documents.</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>You get this really huge power out of it.</span>
+<span class='talk-transcript__fragment' data-time='926000' id='t-926000'>So, we're at the stage now</span>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>where we have to do this -- the people who think it's a great idea.</span>
+<span class='talk-transcript__fragment' data-time='933000' id='t-933000'>And all the people -- and I think there's a lot of people at TED who do things because --</span>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>even though there's not an immediate return on the investment</span>
+<span class='talk-transcript__fragment' data-time='938000' id='t-938000'>because it will only really pay off when everybody else has done it --</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>they'll do it because they're the sort of person who just does things</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>which would be good if everybody else did them.</span>
+<span class='talk-transcript__fragment' data-time='948000' id='t-948000'>OK, so it's called linked data.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>I want you to make it.</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>I want you to demand it.</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>And I think it's an idea worth spreading.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>Thanks.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Greg Asner: Ecology from the air | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Greg Asner: Ecology from the air | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: What are our forests really made of? From the air, ecologist Greg Asner uses a spectrometer and high-powered lasers to map nature in meticulous kaleidoscopic 3D detail -- what he calls “a very high-tech accounting system” of carbon. In this fascinating talk, Asner gives a clear message: To save our ecosystems, we need more data, gathered in new ways." name="description" />
+<meta content="Greg Asner" name="author" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Ecology from the air&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/313e003d03863b59e551ceabef019eba406bcfeb_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/313e003d03863b59e551ceabef019eba406bcfeb_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: What are our forests really made of? From the air, ecologist Greg Asner uses a spectrometer and high-powered lasers to map nature in meticulous kaleidoscopic 3D detail -- what he calls “a very high-tech accounting system” of carbon. In this fascinating talk, Asner gives a clear message: To save our ecosystems, we need more data, gathered in new ways." property="og:description" />
+<meta content="http://www.ted.com/talks/greg_asner_ecology_from_the_air/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1874?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='greg_asner_ecology_from_the_air'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1874?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="830" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/313e003d03863b59e551ceabef019eba406bcfeb_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:50</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Greg Asner</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1874?language=en' lang='en'>
+Ecology from the air
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='502' id='t-502'>Technology can change our understanding of nature.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='4693' id='t-4693'>Take for example the case of lions.</span>
+<span class='talk-transcript__fragment' data-time='7844' id='t-7844'>For centuries, it's been said that female lions</span>
+<span class='talk-transcript__fragment' data-time='10014' id='t-10014'>do all of the hunting out in the open savanna,</span>
+<span class='talk-transcript__fragment' data-time='12743' id='t-12743'>and male lions do nothing until it's time for dinner.</span>
+<span class='talk-transcript__fragment' data-time='16724' id='t-16724'>You've heard this too, I can tell.</span>
+<span class='talk-transcript__fragment' data-time='19736' id='t-19736'>Well recently, I led an airborne mapping campaign</span>
+<span class='talk-transcript__fragment' data-time='22322' id='t-22322'>in the Kruger National Park in South Africa.</span>
+<span class='talk-transcript__fragment' data-time='24994' id='t-24994'>Our colleagues put GPS tracking collars</span>
+<span class='talk-transcript__fragment' data-time='27586' id='t-27586'>on male and female lions,</span>
+<span class='talk-transcript__fragment' data-time='29183' id='t-29183'>and we mapped their hunting behavior</span>
+<span class='talk-transcript__fragment' data-time='30791' id='t-30791'>from the air.</span>
+<span class='talk-transcript__fragment' data-time='32239' id='t-32239'>The lower left shows a lion sizing up</span>
+<span class='talk-transcript__fragment' data-time='34905' id='t-34905'>a herd of impala for a kill,</span>
+<span class='talk-transcript__fragment' data-time='36917' id='t-36917'>and the right shows what I call</span>
+<span class='talk-transcript__fragment' data-time='38486' id='t-38486'>the lion viewshed.</span>
+<span class='talk-transcript__fragment' data-time='40349' id='t-40349'>That's how far the lion can see in all directions</span>
+<span class='talk-transcript__fragment' data-time='42971' id='t-42971'>until his or her view is obstructed by vegetation.</span>
+<span class='talk-transcript__fragment' data-time='47146' id='t-47146'>And what we found</span>
+<span class='talk-transcript__fragment' data-time='48587' id='t-48587'>is that male lions are not the lazy hunters</span>
+<span class='talk-transcript__fragment' data-time='51093' id='t-51093'>we thought them to be.</span>
+<span class='talk-transcript__fragment' data-time='52617' id='t-52617'>They just use a different strategy.</span>
+<span class='talk-transcript__fragment' data-time='54754' id='t-54754'>Whereas the female lions hunt</span>
+<span class='talk-transcript__fragment' data-time='56506' id='t-56506'>out in the open savanna</span>
+<span class='talk-transcript__fragment' data-time='57638' id='t-57638'>over long distances, usually during the day,</span>
+<span class='talk-transcript__fragment' data-time='60299' id='t-60299'>male lions use an ambush strategy</span>
+<span class='talk-transcript__fragment' data-time='63309' id='t-63309'>in dense vegetation, and often at night.</span>
+<span class='talk-transcript__fragment' data-time='67042' id='t-67042'>This video shows the actual hunting viewsheds</span>
+<span class='talk-transcript__fragment' data-time='70048' id='t-70048'>of male lions on the left</span>
+<span class='talk-transcript__fragment' data-time='71913' id='t-71913'>and females on the right.</span>
+<span class='talk-transcript__fragment' data-time='73902' id='t-73902'>Red and darker colors show more dense vegetation,</span>
+<span class='talk-transcript__fragment' data-time='76458' id='t-76458'>and the white are wide open spaces.</span>
+<span class='talk-transcript__fragment' data-time='78573' id='t-78573'>And this is the viewshed right literally at the eye level</span>
+<span class='talk-transcript__fragment' data-time='81673' id='t-81673'>of hunting male and female lions.</span>
+<span class='talk-transcript__fragment' data-time='84203' id='t-84203'>All of a sudden, you get a very clear understanding</span>
+<span class='talk-transcript__fragment' data-time='86532' id='t-86532'>of the very spooky conditions under which</span>
+<span class='talk-transcript__fragment' data-time='89385' id='t-89385'>male lions do their hunting.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='91465' id='t-91465'>I bring up this example to begin,</span>
+<span class='talk-transcript__fragment' data-time='92961' id='t-92961'>because it emphasizes how little
+we know about nature.</span>
+<span class='talk-transcript__fragment' data-time='97429' id='t-97429'>There's been a huge amount of work done so far</span>
+<span class='talk-transcript__fragment' data-time='100104' id='t-100104'>to try to slow down our losses of tropical forests,</span>
+<span class='talk-transcript__fragment' data-time='103732' id='t-103732'>and we are losing our forests at a rapid rate,</span>
+<span class='talk-transcript__fragment' data-time='105681' id='t-105681'>as shown in red on the slide.</span>
+<span class='talk-transcript__fragment' data-time='107595' id='t-107595'>I find it ironic that we're doing so much,</span>
+<span class='talk-transcript__fragment' data-time='109935' id='t-109935'>yet these areas are fairly unknown to science.</span>
+<span class='talk-transcript__fragment' data-time='113568' id='t-113568'>So how can we save what we don't understand?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='116225' id='t-116225'>Now I'm a global ecologist and an Earth explorer</span>
+<span class='talk-transcript__fragment' data-time='118887' id='t-118887'>with a background in physics and chemistry</span>
+<span class='talk-transcript__fragment' data-time='120578' id='t-120578'>and biology and a lot of other boring subjects,</span>
+<span class='talk-transcript__fragment' data-time='123782' id='t-123782'>but above all, I'm obsessed with what we don't know</span>
+<span class='talk-transcript__fragment' data-time='126784' id='t-126784'>about our planet.</span>
+<span class='talk-transcript__fragment' data-time='128496' id='t-128496'>So I created this,</span>
+<span class='talk-transcript__fragment' data-time='130170' id='t-130170'>the Carnegie Airborne Observatory, or CAO.</span>
+<span class='talk-transcript__fragment' data-time='133447' id='t-133447'>It may look like a plane with a fancy paint job,</span>
+<span class='talk-transcript__fragment' data-time='135504' id='t-135504'>but I packed it with over 1,000 kilos</span>
+<span class='talk-transcript__fragment' data-time='138264' id='t-138264'>of high-tech sensors, computers,</span>
+<span class='talk-transcript__fragment' data-time='140700' id='t-140700'>and a very motivated staff</span>
+<span class='talk-transcript__fragment' data-time='142911' id='t-142911'>of Earth scientists and pilots.</span>
+<span class='talk-transcript__fragment' data-time='145380' id='t-145380'>Two of our instruments are very unique:</span>
+<span class='talk-transcript__fragment' data-time='147240' id='t-147240'>one is called an imaging spectrometer</span>
+<span class='talk-transcript__fragment' data-time='148994' id='t-148994'>that can actually measure the chemical composition</span>
+<span class='talk-transcript__fragment' data-time='150856' id='t-150856'>of plants as we fly over them.</span>
+<span class='talk-transcript__fragment' data-time='153785' id='t-153785'>Another one is a set of lasers,</span>
+<span class='talk-transcript__fragment' data-time='155711' id='t-155711'>very high-powered lasers,</span>
+<span class='talk-transcript__fragment' data-time='157442' id='t-157442'>that fire out of the bottom of the plane,</span>
+<span class='talk-transcript__fragment' data-time='159402' id='t-159402'>sweeping across the ecosystem</span>
+<span class='talk-transcript__fragment' data-time='161274' id='t-161274'>and measuring it at nearly 500,000 times per second</span>
+<span class='talk-transcript__fragment' data-time='165371' id='t-165371'>in high-resolution 3D.</span>
+<span class='talk-transcript__fragment' data-time='167849' id='t-167849'>Here's an image of the Golden Gate Bridge</span>
+<span class='talk-transcript__fragment' data-time='169833' id='t-169833'>in San Francisco, not far from where I live.</span>
+<span class='talk-transcript__fragment' data-time='172005' id='t-172005'>Although we flew straight over this bridge,</span>
+<span class='talk-transcript__fragment' data-time='173808' id='t-173808'>we imaged it in 3D, captured its color</span>
+<span class='talk-transcript__fragment' data-time='175464' id='t-175464'>in just a few seconds.</span>
+<span class='talk-transcript__fragment' data-time='177511' id='t-177511'>But the real power of the CAO</span>
+<span class='talk-transcript__fragment' data-time='179606' id='t-179606'>is its ability to capture the actual building blocks</span>
+<span class='talk-transcript__fragment' data-time='181781' id='t-181781'>of ecosystems.</span>
+<span class='talk-transcript__fragment' data-time='183550' id='t-183550'>This is a small town in the Amazon,</span>
+<span class='talk-transcript__fragment' data-time='185249' id='t-185249'>imaged with the CAO.</span>
+<span class='talk-transcript__fragment' data-time='186864' id='t-186864'>We can slice through our data</span>
+<span class='talk-transcript__fragment' data-time='188603' id='t-188603'>and see, for example, the 3D structure</span>
+<span class='talk-transcript__fragment' data-time='190867' id='t-190867'>of the vegetation and the buildings,</span>
+<span class='talk-transcript__fragment' data-time='193200' id='t-193200'>or we can use the chemical information</span>
+<span class='talk-transcript__fragment' data-time='195109' id='t-195109'>to actually figure out how fast the plants are growing</span>
+<span class='talk-transcript__fragment' data-time='197840' id='t-197840'>as we fly over them.</span>
+<span class='talk-transcript__fragment' data-time='199183' id='t-199183'>The hottest pinks are the fastest-growing plants.</span>
+<span class='talk-transcript__fragment' data-time='202669' id='t-202669'>And we can see biodiversity in ways</span>
+<span class='talk-transcript__fragment' data-time='204586' id='t-204586'>that you never could have imagined.</span>
+<span class='talk-transcript__fragment' data-time='206745' id='t-206745'>This is what a rainforest might look like</span>
+<span class='talk-transcript__fragment' data-time='208296' id='t-208296'>as you fly over it in a hot air balloon.</span>
+<span class='talk-transcript__fragment' data-time='210503' id='t-210503'>This is how we see a rainforest,</span>
+<span class='talk-transcript__fragment' data-time='212597' id='t-212597'>in kaleidoscopic color that tells us</span>
+<span class='talk-transcript__fragment' data-time='214942' id='t-214942'>that there are many species living with one another.</span>
+<span class='talk-transcript__fragment' data-time='217884' id='t-217884'>But you have to remember that these trees</span>
+<span class='talk-transcript__fragment' data-time='219808' id='t-219808'>are literally bigger than whales,</span>
+<span class='talk-transcript__fragment' data-time='222104' id='t-222104'>and what that means is that
+they're impossible to understand</span>
+<span class='talk-transcript__fragment' data-time='225016' id='t-225016'>just by walking on the ground below them.</span>
+<span class='talk-transcript__fragment' data-time='227991' id='t-227991'>So our imagery is 3D, it's chemical, it's biological,</span>
+<span class='talk-transcript__fragment' data-time='232629' id='t-232629'>and this tells us not only the species</span>
+<span class='talk-transcript__fragment' data-time='234387' id='t-234387'>that are living in the canopy,</span>
+<span class='talk-transcript__fragment' data-time='236271' id='t-236271'>but it tells us a lot of information</span>
+<span class='talk-transcript__fragment' data-time='238191' id='t-238191'>about the rest of the species
+that occupy the rainforest.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='241767' id='t-241767'>Now I created the CAO</span>
+<span class='talk-transcript__fragment' data-time='243898' id='t-243898'>in order to answer questions that have proven</span>
+<span class='talk-transcript__fragment' data-time='246037' id='t-246037'>extremely challenging to answer
+from any other vantage point,</span>
+<span class='talk-transcript__fragment' data-time='249389' id='t-249389'>such as from the ground, or from satellite sensors.</span>
+<span class='talk-transcript__fragment' data-time='252266' id='t-252266'>I want to share three of those
+questions with you today.</span>
+<span class='talk-transcript__fragment' data-time='255503' id='t-255503'>The first questions is,</span>
+<span class='talk-transcript__fragment' data-time='257210' id='t-257210'>how do we manage our carbon reserves</span>
+<span class='talk-transcript__fragment' data-time='258939' id='t-258939'>in tropical forests?</span>
+<span class='talk-transcript__fragment' data-time='261695' id='t-261695'>Tropical forests contain a huge
+amount of carbon in the trees,</span>
+<span class='talk-transcript__fragment' data-time='265254' id='t-265254'>and we need to keep that carbon in those forests</span>
+<span class='talk-transcript__fragment' data-time='267668' id='t-267668'>if we're going to avoid any further global warming.</span>
+<span class='talk-transcript__fragment' data-time='271082' id='t-271082'>Unfortunately, global carbon emissions</span>
+<span class='talk-transcript__fragment' data-time='273308' id='t-273308'>from deforestation</span>
+<span class='talk-transcript__fragment' data-time='275071' id='t-275071'>now equals the global transportation sector.</span>
+<span class='talk-transcript__fragment' data-time='278246' id='t-278246'>That's all ships, airplanes, trains 
+and automobiles combined.</span>
+<span class='talk-transcript__fragment' data-time='282549' id='t-282549'>So it's understandable that policy negotiators</span>
+<span class='talk-transcript__fragment' data-time='285640' id='t-285640'>have been working hard to reduce deforestation,</span>
+<span class='talk-transcript__fragment' data-time='288128' id='t-288128'>but they're doing it on landscapes</span>
+<span class='talk-transcript__fragment' data-time='289999' id='t-289999'>that are hardly known to science.</span>
+<span class='talk-transcript__fragment' data-time='292138' id='t-292138'>If you don't know where the carbon is exactly,</span>
+<span class='talk-transcript__fragment' data-time='294499' id='t-294499'>in detail, how can you know what you're losing?</span>
+<span class='talk-transcript__fragment' data-time='297351' id='t-297351'>Basically, we need a high-tech accounting system.</span>
+<span class='talk-transcript__fragment' data-time='301408' id='t-301408'>With our system, we're able to see the carbon stocks</span>
+<span class='talk-transcript__fragment' data-time='303724' id='t-303724'>of tropical forests in utter detail.</span>
+<span class='talk-transcript__fragment' data-time='306522' id='t-306522'>The red shows, obviously,
+closed-canopy tropical forest,</span>
+<span class='talk-transcript__fragment' data-time='309377' id='t-309377'>and then you see the cookie cutting,</span>
+<span class='talk-transcript__fragment' data-time='311395' id='t-311395'>or the cutting of the forest in yellows and greens.</span>
+<span class='talk-transcript__fragment' data-time='315302' id='t-315302'>It's like cutting a cake except this cake</span>
+<span class='talk-transcript__fragment' data-time='318125' id='t-318125'>is about whale deep.</span>
+<span class='talk-transcript__fragment' data-time='320324' id='t-320324'>And yet, we can zoom in and see the forest</span>
+<span class='talk-transcript__fragment' data-time='322292' id='t-322292'>and the trees at the same time.</span>
+<span class='talk-transcript__fragment' data-time='324305' id='t-324305'>And what's amazing is, even though we flew</span>
+<span class='talk-transcript__fragment' data-time='326507' id='t-326507'>very high above this forest,</span>
+<span class='talk-transcript__fragment' data-time='328784' id='t-328784'>later on in analysis, we can go in</span>
+<span class='talk-transcript__fragment' data-time='330687' id='t-330687'>and actually experience the treetrops,</span>
+<span class='talk-transcript__fragment' data-time='332907' id='t-332907'>leaf by leaf, branch by branch,</span>
+<span class='talk-transcript__fragment' data-time='335254' id='t-335254'>just as the other species that live in this forest</span>
+<span class='talk-transcript__fragment' data-time='338761' id='t-338761'>experience it along with the trees themselves.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='341578' id='t-341578'>We've been using the technology to explore</span>
+<span class='talk-transcript__fragment' data-time='343744' id='t-343744'>and to actually put out the first carbon geographies</span>
+<span class='talk-transcript__fragment' data-time='346614' id='t-346614'>in high resolution</span>
+<span class='talk-transcript__fragment' data-time='348228' id='t-348228'>in faraway places like the Amazon Basin</span>
+<span class='talk-transcript__fragment' data-time='350474' id='t-350474'>and not-so-faraway places like the United States</span>
+<span class='talk-transcript__fragment' data-time='352761' id='t-352761'>and Central America.</span>
+<span class='talk-transcript__fragment' data-time='354494' id='t-354494'>What I'm going to do is I'm going to take you
+on a high-resolution, first-time tour</span>
+<span class='talk-transcript__fragment' data-time='357994' id='t-357994'>of the carbon landscapes of Peru and then Panama.</span>
+<span class='talk-transcript__fragment' data-time='361923' id='t-361923'>The colors are going to be going from red to blue.</span>
+<span class='talk-transcript__fragment' data-time='364685' id='t-364685'>Red is extremely high carbon stocks,</span>
+<span class='talk-transcript__fragment' data-time='366679' id='t-366679'>your largest cathedral forests you can imagine,</span>
+<span class='talk-transcript__fragment' data-time='369218' id='t-369218'>and blue are very low carbon stocks.</span>
+<span class='talk-transcript__fragment' data-time='371460' id='t-371460'>And let me tell you, Peru alone is an amazing place,</span>
+<span class='talk-transcript__fragment' data-time='373894' id='t-373894'>totally unknown in terms of its carbon geography</span>
+<span class='talk-transcript__fragment' data-time='376283' id='t-376283'>until today.</span>
+<span class='talk-transcript__fragment' data-time='377869' id='t-377869'>We can fly to this area in northern Peru</span>
+<span class='talk-transcript__fragment' data-time='379715' id='t-379715'>and see super high carbon stocks in red,</span>
+<span class='talk-transcript__fragment' data-time='381851' id='t-381851'>and the Amazon River and floodplain</span>
+<span class='talk-transcript__fragment' data-time='383340' id='t-383340'>cutting right through it.</span>
+<span class='talk-transcript__fragment' data-time='385085' id='t-385085'>We can go to an area of utter devastation</span>
+<span class='talk-transcript__fragment' data-time='386983' id='t-386983'>caused by deforestation in blue,</span>
+<span class='talk-transcript__fragment' data-time='388818' id='t-388818'>and the virus of deforestation
+spreading out in orange.</span>
+<span class='talk-transcript__fragment' data-time='392260' id='t-392260'>We can also fly to the southern Andes</span>
+<span class='talk-transcript__fragment' data-time='394944' id='t-394944'>to see the tree line and see exactly how</span>
+<span class='talk-transcript__fragment' data-time='396794' id='t-396794'>the carbon geography ends</span>
+<span class='talk-transcript__fragment' data-time='398710' id='t-398710'>as we go up into the mountain system.</span>
+<span class='talk-transcript__fragment' data-time='401416' id='t-401416'>And we can go to the biggest swamp
+in the western Amazon.</span>
+<span class='talk-transcript__fragment' data-time='404321' id='t-404321'>It's a watery dreamworld</span>
+<span class='talk-transcript__fragment' data-time='405694' id='t-405694'>akin to Jim Cameron's &quot;Avatar.&quot;</span>
+<span class='talk-transcript__fragment' data-time='408040' id='t-408040'>We can go to one of the smallest tropical countries,</span>
+<span class='talk-transcript__fragment' data-time='411344' id='t-411344'>Panama, and see also a huge range</span>
+<span class='talk-transcript__fragment' data-time='413701' id='t-413701'>of carbon variation,</span>
+<span class='talk-transcript__fragment' data-time='415263' id='t-415263'>from high in red to low in blue.</span>
+<span class='talk-transcript__fragment' data-time='417264' id='t-417264'>Unfortunately, most of the carbon
+is lost in the lowlands,</span>
+<span class='talk-transcript__fragment' data-time='420196' id='t-420196'>but what you see that's left,</span>
+<span class='talk-transcript__fragment' data-time='421742' id='t-421742'>in terms of high carbon stocks in greens and reds,</span>
+<span class='talk-transcript__fragment' data-time='424475' id='t-424475'>is the stuff that's up in the mountains.</span>
+<span class='talk-transcript__fragment' data-time='426589' id='t-426589'>One interesting exception to this</span>
+<span class='talk-transcript__fragment' data-time='428947' id='t-428947'>is right in the middle of your screen.</span>
+<span class='talk-transcript__fragment' data-time='430563' id='t-430563'>You're seeing the buffer zone
+around the Panama Canal.</span>
+<span class='talk-transcript__fragment' data-time='433207' id='t-433207'>That's in the reds and yellows.</span>
+<span class='talk-transcript__fragment' data-time='435120' id='t-435120'>The canal authorities are using force</span>
+<span class='talk-transcript__fragment' data-time='436860' id='t-436860'>to protect their watershed and global commerce.</span>
+<span class='talk-transcript__fragment' data-time='439975' id='t-439975'>This kind of carbon mapping</span>
+<span class='talk-transcript__fragment' data-time='441465' id='t-441465'>has transformed conservation</span>
+<span class='talk-transcript__fragment' data-time='443383' id='t-443383'>and resource policy development.</span>
+<span class='talk-transcript__fragment' data-time='444979' id='t-444979'>It's really advancing our ability to save forests</span>
+<span class='talk-transcript__fragment' data-time='447339' id='t-447339'>and to curb climate change.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='449714' id='t-449714'>My second question: How do we
+prepare for climate change</span>
+<span class='talk-transcript__fragment' data-time='453145' id='t-453145'>in a place like the Amazon rainforest?</span>
+<span class='talk-transcript__fragment' data-time='455291' id='t-455291'>Let me tell you, I spend a lot of time</span>
+<span class='talk-transcript__fragment' data-time='456944' id='t-456944'>in these places, and we're seeing
+the climate changing already.</span>
+<span class='talk-transcript__fragment' data-time='460169' id='t-460169'>Temperatures are increasing,</span>
+<span class='talk-transcript__fragment' data-time='461781' id='t-461781'>and what's really happening is
+we're getting a lot of droughts,</span>
+<span class='talk-transcript__fragment' data-time='464413' id='t-464413'>recurring droughts.</span>
+<span class='talk-transcript__fragment' data-time='466070' id='t-466070'>The 2010 mega-drought is shown here</span>
+<span class='talk-transcript__fragment' data-time='467887' id='t-467887'>with red showing an area
+about the size of Western Europe.</span>
+<span class='talk-transcript__fragment' data-time='471337' id='t-471337'>The Amazon was so dry in 2010</span>
+<span class='talk-transcript__fragment' data-time='473599' id='t-473599'>that even the main stem of the Amazon river itself</span>
+<span class='talk-transcript__fragment' data-time='476001' id='t-476001'>dried up partially, as you see in the photo</span>
+<span class='talk-transcript__fragment' data-time='478150' id='t-478150'>in the lower portion of the slide.</span>
+<span class='talk-transcript__fragment' data-time='481556' id='t-481556'>What we found is that in very remote areas,</span>
+<span class='talk-transcript__fragment' data-time='484726' id='t-484726'>these droughts are having a big negative impact</span>
+<span class='talk-transcript__fragment' data-time='487472' id='t-487472'>on tropical forests.</span>
+<span class='talk-transcript__fragment' data-time='489060' id='t-489060'>For example, these are all of the dead trees in red</span>
+<span class='talk-transcript__fragment' data-time='491780' id='t-491780'>that suffered mortality following the 2010 drought.</span>
+<span class='talk-transcript__fragment' data-time='494841' id='t-494841'>This area happens to be on the border</span>
+<span class='talk-transcript__fragment' data-time='496718' id='t-496718'>of Peru and Brazil,</span>
+<span class='talk-transcript__fragment' data-time='498117' id='t-498117'>totally unexplored,</span>
+<span class='talk-transcript__fragment' data-time='499653' id='t-499653'>almost totally unknown scientifically.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='502456' id='t-502456'>So what we think, as Earth scientists,</span>
+<span class='talk-transcript__fragment' data-time='504922' id='t-504922'>is species are going to have to migrate</span>
+<span class='talk-transcript__fragment' data-time='506881' id='t-506881'>with climate change from the east in Brazil</span>
+<span class='talk-transcript__fragment' data-time='509673' id='t-509673'>all the way west into the Andes</span>
+<span class='talk-transcript__fragment' data-time='511737' id='t-511737'>and up into the mountains</span>
+<span class='talk-transcript__fragment' data-time='513210' id='t-513210'>in order to minimize their
+exposure to climate change.</span>
+<span class='talk-transcript__fragment' data-time='516746' id='t-516746'>One of the problems with this is that humans</span>
+<span class='talk-transcript__fragment' data-time='518754' id='t-518754'>are taking apart the western Amazon as we speak.</span>
+<span class='talk-transcript__fragment' data-time='521779' id='t-521779'>Look at this 100-square-kilometer gash</span>
+<span class='talk-transcript__fragment' data-time='523888' id='t-523888'>in the forest created by gold miners.</span>
+<span class='talk-transcript__fragment' data-time='526790' id='t-526790'>You see the forest in green in 3D,</span>
+<span class='talk-transcript__fragment' data-time='529068' id='t-529068'>and you see the effects of gold mining</span>
+<span class='talk-transcript__fragment' data-time='530902' id='t-530902'>down below the soil surface.</span>
+<span class='talk-transcript__fragment' data-time='533441' id='t-533441'>Species have nowhere to migrate
+in a system like this, obviously.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='537900' id='t-537900'>If you haven't been to the Amazon, you should go.</span>
+<span class='talk-transcript__fragment' data-time='540552' id='t-540552'>It's an amazing experience every time,</span>
+<span class='talk-transcript__fragment' data-time='542590' id='t-542590'>no matter where you go.</span>
+<span class='talk-transcript__fragment' data-time='544133' id='t-544133'>You're going to probably see it this way, on a river.</span>
+<span class='talk-transcript__fragment' data-time='547529' id='t-547529'>But what happens is a lot of times</span>
+<span class='talk-transcript__fragment' data-time='549293' id='t-549293'>the rivers hide what's really going on</span>
+<span class='talk-transcript__fragment' data-time='551145' id='t-551145'>back in the forest itself.</span>
+<span class='talk-transcript__fragment' data-time='553910' id='t-553910'>We flew over this same river,</span>
+<span class='talk-transcript__fragment' data-time='555624' id='t-555624'>imaged the system in 3D.</span>
+<span class='talk-transcript__fragment' data-time='557464' id='t-557464'>The forest is on the left.</span>
+<span class='talk-transcript__fragment' data-time='559280' id='t-559280'>And then we can digitally remove the forest</span>
+<span class='talk-transcript__fragment' data-time='561266' id='t-561266'>and see what's going on below the canopy.</span>
+<span class='talk-transcript__fragment' data-time='563725' id='t-563725'>And in this case, we found gold mining activity,</span>
+<span class='talk-transcript__fragment' data-time='566175' id='t-566175'>all of it illegal,</span>
+<span class='talk-transcript__fragment' data-time='567412' id='t-567412'>set back away from the river's edge,</span>
+<span class='talk-transcript__fragment' data-time='569608' id='t-569608'>as you'll see in those strange pockmarks</span>
+<span class='talk-transcript__fragment' data-time='571512' id='t-571512'>coming up on your screen on the right.</span>
+<span class='talk-transcript__fragment' data-time='573539' id='t-573539'>Don't worry, we're working with the authorities</span>
+<span class='talk-transcript__fragment' data-time='575868' id='t-575868'>to deal with this and many, many other problems</span>
+<span class='talk-transcript__fragment' data-time='578319' id='t-578319'>in the region.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='580929' id='t-580929'>So in order to put together a conservation plan</span>
+<span class='talk-transcript__fragment' data-time='583984' id='t-583984'>for these unique, important corridors</span>
+<span class='talk-transcript__fragment' data-time='585724' id='t-585724'>like the western Amazon
+and the Andes Amazon corridor,</span>
+<span class='talk-transcript__fragment' data-time='588711' id='t-588711'>we have to start making</span>
+<span class='talk-transcript__fragment' data-time='590875' id='t-590875'>geographically explicit plans now.</span>
+<span class='talk-transcript__fragment' data-time='593283' id='t-593283'>How do we do that if we don't know
+the geography of biodiversity in the region,</span>
+<span class='talk-transcript__fragment' data-time='597258' id='t-597258'>if it's so unknown to science?</span>
+<span class='talk-transcript__fragment' data-time='598953' id='t-598953'>So what we've been doing is using</span>
+<span class='talk-transcript__fragment' data-time='600817' id='t-600817'>the laser-guided spectroscopy from the CAO</span>
+<span class='talk-transcript__fragment' data-time='603790' id='t-603790'>to map for the first time the biodiversity</span>
+<span class='talk-transcript__fragment' data-time='606014' id='t-606014'>of the Amazon rainforest.</span>
+<span class='talk-transcript__fragment' data-time='607593' id='t-607593'>Here you see actual data showing
+different species in different colors.</span>
+<span class='talk-transcript__fragment' data-time='611130' id='t-611130'>Reds are one type of species, blues are another,</span>
+<span class='talk-transcript__fragment' data-time='613270' id='t-613270'>and greens are yet another.</span>
+<span class='talk-transcript__fragment' data-time='615615' id='t-615615'>And when we take this together and scale up</span>
+<span class='talk-transcript__fragment' data-time='617778' id='t-617778'>to the regional level,</span>
+<span class='talk-transcript__fragment' data-time='619662' id='t-619662'>we get a completely new geography</span>
+<span class='talk-transcript__fragment' data-time='622231' id='t-622231'>of biodiversity unknown prior to this work.</span>
+<span class='talk-transcript__fragment' data-time='626619' id='t-626619'>This tells us where the big biodiversity changes</span>
+<span class='talk-transcript__fragment' data-time='628767' id='t-628767'>occur from habitat to habitat,</span>
+<span class='talk-transcript__fragment' data-time='630781' id='t-630781'>and that's really important because it tells us</span>
+<span class='talk-transcript__fragment' data-time='632964' id='t-632964'>a lot about where species may migrate to</span>
+<span class='talk-transcript__fragment' data-time='635859' id='t-635859'>and migrate from as the climate shifts.</span>
+<span class='talk-transcript__fragment' data-time='638742' id='t-638742'>And this is the pivotal information that's needed</span>
+<span class='talk-transcript__fragment' data-time='641964' id='t-641964'>by decision makers to develop protected areas</span>
+<span class='talk-transcript__fragment' data-time='645472' id='t-645472'>in the context of their regional development plans.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='648891' id='t-648891'>And third and final question is,</span>
+<span class='talk-transcript__fragment' data-time='650788' id='t-650788'>how do we manage biodiversity on a planet</span>
+<span class='talk-transcript__fragment' data-time='652896' id='t-652896'>of protected ecosystems?</span>
+<span class='talk-transcript__fragment' data-time='654874' id='t-654874'>The example I started out
+with about lions hunting,</span>
+<span class='talk-transcript__fragment' data-time='657625' id='t-657625'>that was a study we did</span>
+<span class='talk-transcript__fragment' data-time='659480' id='t-659480'>behind the fence line of a protected area</span>
+<span class='talk-transcript__fragment' data-time='661472' id='t-661472'>in South Africa.</span>
+<span class='talk-transcript__fragment' data-time='663204' id='t-663204'>And the truth is, much of Africa's nature</span>
+<span class='talk-transcript__fragment' data-time='665202' id='t-665202'>is going to persist into the future</span>
+<span class='talk-transcript__fragment' data-time='667117' id='t-667117'>in protected areas like I show in blue on the screen.</span>
+<span class='talk-transcript__fragment' data-time='670363' id='t-670363'>This puts incredible pressure and responsibility</span>
+<span class='talk-transcript__fragment' data-time='672839' id='t-672839'>on park management.</span>
+<span class='talk-transcript__fragment' data-time='674458' id='t-674458'>They need to do and make decisions</span>
+<span class='talk-transcript__fragment' data-time='677075' id='t-677075'>that will benefit all of the species
+that they're protecting.</span>
+<span class='talk-transcript__fragment' data-time='680366' id='t-680366'>Some of their decisions have really big impacts.</span>
+<span class='talk-transcript__fragment' data-time='683435' id='t-683435'>For example, how much and where</span>
+<span class='talk-transcript__fragment' data-time='685511' id='t-685511'>to use fire as a management tool?</span>
+<span class='talk-transcript__fragment' data-time='688151' id='t-688151'>Or, how to deal with a large species like elephants,</span>
+<span class='talk-transcript__fragment' data-time='691376' id='t-691376'>which may, if their populations get too large,</span>
+<span class='talk-transcript__fragment' data-time='693829' id='t-693829'>have a negative impact on the ecosystem</span>
+<span class='talk-transcript__fragment' data-time='695876' id='t-695876'>and on other species.</span>
+<span class='talk-transcript__fragment' data-time='697478' id='t-697478'>And let me tell you, these types of dynamics</span>
+<span class='talk-transcript__fragment' data-time='699971' id='t-699971'>really play out on the landscape.</span>
+<span class='talk-transcript__fragment' data-time='701919' id='t-701919'>In the foreground is an area with lots of fire</span>
+<span class='talk-transcript__fragment' data-time='704380' id='t-704380'>and lots of elephants:</span>
+<span class='talk-transcript__fragment' data-time='705647' id='t-705647'>wide open savanna in blue, and just a few trees.</span>
+<span class='talk-transcript__fragment' data-time='709323' id='t-709323'>As we cross this fence line, now we're getting</span>
+<span class='talk-transcript__fragment' data-time='711504' id='t-711504'>into an area that has had protection from fire</span>
+<span class='talk-transcript__fragment' data-time='713828' id='t-713828'>and zero elephants:</span>
+<span class='talk-transcript__fragment' data-time='715685' id='t-715685'>dense vegetation, a radically different ecosystem.</span>
+<span class='talk-transcript__fragment' data-time='719843' id='t-719843'>And in a place like Kruger,</span>
+<span class='talk-transcript__fragment' data-time='722233' id='t-722233'>the soaring elephant densities</span>
+<span class='talk-transcript__fragment' data-time='723974' id='t-723974'>are a real problem.</span>
+<span class='talk-transcript__fragment' data-time='725717' id='t-725717'>I know it's a sensitive issue for many of you,</span>
+<span class='talk-transcript__fragment' data-time='728081' id='t-728081'>and there are no easy answers with this.</span>
+<span class='talk-transcript__fragment' data-time='730741' id='t-730741'>But what's good is that
+the technology we've developed</span>
+<span class='talk-transcript__fragment' data-time='733057' id='t-733057'>and we're working with in South Africa, for example,</span>
+<span class='talk-transcript__fragment' data-time='735529' id='t-735529'>is allowing us to map every
+single tree in the savanna,</span>
+<span class='talk-transcript__fragment' data-time='738885' id='t-738885'>and then through repeat flights</span>
+<span class='talk-transcript__fragment' data-time='740454' id='t-740454'>we're able to see which trees</span>
+<span class='talk-transcript__fragment' data-time='742200' id='t-742200'>are being pushed over by elephants,</span>
+<span class='talk-transcript__fragment' data-time='744230' id='t-744230'>in the red as you see on the screen,
+and how much that's happening</span>
+<span class='talk-transcript__fragment' data-time='747488' id='t-747488'>in different types of landscapes in the savanna.</span>
+<span class='talk-transcript__fragment' data-time='750025' id='t-750025'>That's giving park managers</span>
+<span class='talk-transcript__fragment' data-time='751666' id='t-751666'>a very first opportunity to use</span>
+<span class='talk-transcript__fragment' data-time='754029' id='t-754029'>tactical management strategies
+that are more nuanced</span>
+<span class='talk-transcript__fragment' data-time='757371' id='t-757371'>and don't lead to those extremes
+that I just showed you.</span>
+<span class='talk-transcript__fragment' data-time='762282' id='t-762282'>So really, the way we're looking</span>
+<span class='talk-transcript__fragment' data-time='764905' id='t-764905'>at protected areas nowadays</span>
+<span class='talk-transcript__fragment' data-time='766946' id='t-766946'>is to think of it as tending to a circle of life,</span>
+<span class='talk-transcript__fragment' data-time='769834' id='t-769834'>where we have fire management,</span>
+<span class='talk-transcript__fragment' data-time='771882' id='t-771882'>elephant management, those impacts on
+the structure of the ecosystem,</span>
+<span class='talk-transcript__fragment' data-time='776016' id='t-776016'>and then those impacts</span>
+<span class='talk-transcript__fragment' data-time='778006' id='t-778006'>affecting everything from insects</span>
+<span class='talk-transcript__fragment' data-time='780312' id='t-780312'>up to apex predators like lions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='783112' id='t-783112'>Going forward, I plan to greatly expand</span>
+<span class='talk-transcript__fragment' data-time='784877' id='t-784877'>the airborne observatory.</span>
+<span class='talk-transcript__fragment' data-time='786605' id='t-786605'>I'm hoping to actually put the technology into orbit</span>
+<span class='talk-transcript__fragment' data-time='788772' id='t-788772'>so we can manage the entire planet</span>
+<span class='talk-transcript__fragment' data-time='790455' id='t-790455'>with technologies like this.</span>
+<span class='talk-transcript__fragment' data-time='792188' id='t-792188'>Until then, you're going to find me flying</span>
+<span class='talk-transcript__fragment' data-time='794037' id='t-794037'>in some remote place that you've never heard of.</span>
+<span class='talk-transcript__fragment' data-time='796540' id='t-796540'>I just want to end by saying that technology is</span>
+<span class='talk-transcript__fragment' data-time='799082' id='t-799082'>absolutely critical to managing our planet,</span>
+<span class='talk-transcript__fragment' data-time='802821' id='t-802821'>but even more important is the understanding</span>
+<span class='talk-transcript__fragment' data-time='804920' id='t-804920'>and wisdom to apply it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='806652' id='t-806652'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='808751' id='t-808751'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

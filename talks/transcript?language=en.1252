@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Andrew McAfee: Are droids taking our jobs? | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Andrew McAfee: Are droids taking our jobs? | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Robots and algorithms are getting good at jobs like building cars, writing articles, translating -- jobs that once required a human. So what will we humans do for work? Andrew McAfee walks through recent labor data to say: We ain&#39;t seen nothing yet. But then he steps back to look at big history, and comes up with a surprising and even thrilling view of what comes next. (Filmed at TEDxBoston.)" name="description" />
+<meta content="Andrew McAfee" name="author" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=bn" hreflang="bn" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Are droids taking our jobs?&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a2f5350e007ffd71452aea058f9ae26fe59a6245_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a2f5350e007ffd71452aea058f9ae26fe59a6245_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Robots and algorithms are getting good at jobs like building cars, writing articles, translating -- jobs that once required a human. So what will we humans do for work? Andrew McAfee walks through recent labor data to say: We ain&#39;t seen nothing yet. But then he steps back to look at big history, and comes up with a surprising and even thrilling view of what comes next. (Filmed at TEDxBoston.)" property="og:description" />
+<meta content="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1574?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='andrew_mcafee_are_droids_taking_our_jobs'>
+<option value='ar'>Arabic</option>
+<option value='bn'>Bengali</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1574?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="847" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a2f5350e007ffd71452aea058f9ae26fe59a6245_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:07</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Andrew McAfee</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1574?language=en' lang='en'>
+Are droids taking our jobs?
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='388' id='t-388'>As it turns out, when tens of millions
+of people are unemployed</span>
+<span class='talk-transcript__fragment' data-time='3992' id='t-3992'>or underemployed,</span>
+<span class='talk-transcript__fragment' data-time='5550' id='t-5550'>there's a fair amount of interest
+in what technology might be doing</span>
+<span class='talk-transcript__fragment' data-time='8740' id='t-8740'>to the labor force.</span>
+<span class='talk-transcript__fragment' data-time='9926' id='t-9926'>And as I look at the conversation,</span>
+<span class='talk-transcript__fragment' data-time='11839' id='t-11839'>it strikes me that it's focused
+on exactly the right topic,</span>
+<span class='talk-transcript__fragment' data-time='15543' id='t-15543'>and at the same time,
+it's missing the point entirely.</span>
+<span class='talk-transcript__fragment' data-time='18392' id='t-18392'>The topic that it's focused on,</span>
+<span class='talk-transcript__fragment' data-time='19957' id='t-19957'>the question is whether or not all these
+digital technologies are affecting</span>
+<span class='talk-transcript__fragment' data-time='24464' id='t-24464'>people's ability to earn a living,</span>
+<span class='talk-transcript__fragment' data-time='26505' id='t-26505'>or, to say it a little bit different way,</span>
+<span class='talk-transcript__fragment' data-time='28514' id='t-28514'>are the droids taking our jobs?</span>
+<span class='talk-transcript__fragment' data-time='30627' id='t-30627'>And there's some evidence that they are.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='32588' id='t-32588'>The Great Recession ended
+when American GDP resumed</span>
+<span class='talk-transcript__fragment' data-time='36657' id='t-36657'>its kind of slow, steady march upward,</span>
+<span class='talk-transcript__fragment' data-time='39548' id='t-39548'>and some other economic indicators
+also started to rebound,</span>
+<span class='talk-transcript__fragment' data-time='42842' id='t-42842'>and they got kind of healthy
+kind of quickly.</span>
+<span class='talk-transcript__fragment' data-time='45159' id='t-45159'>Corporate profits are quite high;</span>
+<span class='talk-transcript__fragment' data-time='47350' id='t-47350'>in fact, if you include bank profits,</span>
+<span class='talk-transcript__fragment' data-time='49270' id='t-49270'>they're higher than they've ever been.</span>
+<span class='talk-transcript__fragment' data-time='51285' id='t-51285'>And business investment
+in gear -- in equipment</span>
+<span class='talk-transcript__fragment' data-time='54796' id='t-54796'>and hardware and software --
+is at an all-time high.</span>
+<span class='talk-transcript__fragment' data-time='57664' id='t-57664'>So the businesses are getting
+out their checkbooks.</span>
+<span class='talk-transcript__fragment' data-time='61003' id='t-61003'>What they're not really doing is hiring.</span>
+<span class='talk-transcript__fragment' data-time='63401' id='t-63401'>So this red line</span>
+<span class='talk-transcript__fragment' data-time='64576' id='t-64576'>is the employment-to-population ratio,</span>
+<span class='talk-transcript__fragment' data-time='67138' id='t-67138'>in other words, the percentage
+of working-age people in America</span>
+<span class='talk-transcript__fragment' data-time='71291' id='t-71291'>who have work.</span>
+<span class='talk-transcript__fragment' data-time='72701' id='t-72701'>And we see that it cratered
+during the Great Recession,</span>
+<span class='talk-transcript__fragment' data-time='75831' id='t-75831'>and it hasn't started
+to bounce back at all.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78752' id='t-78752'>But the story is not
+just a recession story.</span>
+<span class='talk-transcript__fragment' data-time='81695' id='t-81695'>The decade that we've
+just been through had</span>
+<span class='talk-transcript__fragment' data-time='83799' id='t-83799'>relatively anemic job growth
+all throughout,</span>
+<span class='talk-transcript__fragment' data-time='87036' id='t-87036'>especially when we compare it
+to other decades,</span>
+<span class='talk-transcript__fragment' data-time='89683' id='t-89683'>and the 2000s are the only time
+we have on record</span>
+<span class='talk-transcript__fragment' data-time='92737' id='t-92737'>where there were fewer people working
+at the end of the decade</span>
+<span class='talk-transcript__fragment' data-time='96293' id='t-96293'>than at the beginning.</span>
+<span class='talk-transcript__fragment' data-time='97719' id='t-97719'>This is not what you want to see.</span>
+<span class='talk-transcript__fragment' data-time='99724' id='t-99724'>When you graph the number
+of potential employees</span>
+<span class='talk-transcript__fragment' data-time='103131' id='t-103131'>versus the number of jobs in the country,</span>
+<span class='talk-transcript__fragment' data-time='105711' id='t-105711'>you see the gap gets bigger
+and bigger over time,</span>
+<span class='talk-transcript__fragment' data-time='109585' id='t-109585'>and then, during the Great Recession,
+it opened up in a huge way.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='112919' id='t-112919'>I did some quick calculations.</span>
+<span class='talk-transcript__fragment' data-time='114403' id='t-114403'>I took the last 20 years of GDP growth</span>
+<span class='talk-transcript__fragment' data-time='116859' id='t-116859'>and the last 20 years
+of labor-productivity growth</span>
+<span class='talk-transcript__fragment' data-time='120155' id='t-120155'>and used those in a fairly
+straightforward way</span>
+<span class='talk-transcript__fragment' data-time='122897' id='t-122897'>to try to project how many jobs
+the economy was going to need</span>
+<span class='talk-transcript__fragment' data-time='125944' id='t-125944'>to keep growing,</span>
+<span class='talk-transcript__fragment' data-time='127271' id='t-127271'>and this is the line that I came up with.</span>
+<span class='talk-transcript__fragment' data-time='129420' id='t-129420'>Is that good or bad?</span>
+<span class='talk-transcript__fragment' data-time='131186' id='t-131186'>This is the government's projection</span>
+<span class='talk-transcript__fragment' data-time='133121' id='t-133121'>for the working-age
+population going forward.</span>
+<span class='talk-transcript__fragment' data-time='136481' id='t-136481'>So if these predictions are accurate,
+that gap is not going to close.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='141603' id='t-141603'>The problem is, I don't think
+these projections are accurate.</span>
+<span class='talk-transcript__fragment' data-time='144653' id='t-144653'>In particular, I think my projection
+is way too optimistic,</span>
+<span class='talk-transcript__fragment' data-time='148156' id='t-148156'>because when I did it,</span>
+<span class='talk-transcript__fragment' data-time='149627' id='t-149627'>I was assuming that the future
+was kind of going to look like the past,</span>
+<span class='talk-transcript__fragment' data-time='153869' id='t-153869'>with labor productivity growth,</span>
+<span class='talk-transcript__fragment' data-time='155562' id='t-155562'>and that's actually not what I believe.</span>
+<span class='talk-transcript__fragment' data-time='157457' id='t-157457'>Because when I look around,</span>
+<span class='talk-transcript__fragment' data-time='158830' id='t-158830'>I think that we ain't seen nothing yet</span>
+<span class='talk-transcript__fragment' data-time='161074' id='t-161074'>when it comes to technology's
+impact on the labor force.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='164702' id='t-164702'>Just in the past couple years,
+we've seen digital tools</span>
+<span class='talk-transcript__fragment' data-time='168697' id='t-168697'>display skills and abilities
+that they never, ever had before,</span>
+<span class='talk-transcript__fragment' data-time='172954' id='t-172954'>and that kind of eat deeply
+into what we human beings</span>
+<span class='talk-transcript__fragment' data-time='176488' id='t-176488'>do for a living.</span>
+<span class='talk-transcript__fragment' data-time='177794' id='t-177794'>Let me give you a couple examples.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='179744' id='t-179744'>Throughout all of history,</span>
+<span class='talk-transcript__fragment' data-time='181020' id='t-181020'>if you wanted something translated
+from one language into another,</span>
+<span class='talk-transcript__fragment' data-time='184594' id='t-184594'>you had to involve a human being.</span>
+<span class='talk-transcript__fragment' data-time='186670' id='t-186670'>Now we have multi-language, instantaneous,</span>
+<span class='talk-transcript__fragment' data-time='189822' id='t-189822'>automatic translation services
+available for free</span>
+<span class='talk-transcript__fragment' data-time='194266' id='t-194266'>via many of our devices,
+all the way down to smartphones.</span>
+<span class='talk-transcript__fragment' data-time='197433' id='t-197433'>And if any of us have used these,</span>
+<span class='talk-transcript__fragment' data-time='199253' id='t-199253'>we know that they're not perfect,
+but they're decent.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='203280' id='t-203280'>Throughout all of history,
+if you wanted something written,</span>
+<span class='talk-transcript__fragment' data-time='206276' id='t-206276'>a report or an article,
+you had to involve a person.</span>
+<span class='talk-transcript__fragment' data-time='210158' id='t-210158'>Not anymore.</span>
+<span class='talk-transcript__fragment' data-time='211335' id='t-211335'>This is an article that appeared
+in Forbes online a while back,</span>
+<span class='talk-transcript__fragment' data-time='214332' id='t-214332'>about Apple's earnings.</span>
+<span class='talk-transcript__fragment' data-time='215532' id='t-215532'>It was written by an algorithm.</span>
+<span class='talk-transcript__fragment' data-time='217720' id='t-217720'>And it's not decent -- it's perfect.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='221749' id='t-221749'>A lot of people look at this and they say,</span>
+<span class='talk-transcript__fragment' data-time='223802' id='t-223802'>&quot;OK, but those are very
+specific, narrow tasks,</span>
+<span class='talk-transcript__fragment' data-time='226131' id='t-226131'>and most knowledge workers
+are actually generalists.</span>
+<span class='talk-transcript__fragment' data-time='229066' id='t-229066'>And what they do is sit on top of a very
+large body of expertise and knowledge</span>
+<span class='talk-transcript__fragment' data-time='233282' id='t-233282'>and they use that to react on the fly
+to kind of unpredictable demands,</span>
+<span class='talk-transcript__fragment' data-time='237103' id='t-237103'>and that's very, very hard to automate.&quot;</span>
+<span class='talk-transcript__fragment' data-time='239803' id='t-239803'>One of the most impressive
+knowledge workers in recent memory</span>
+<span class='talk-transcript__fragment' data-time='242732' id='t-242732'>is a guy named Ken Jennings.</span>
+<span class='talk-transcript__fragment' data-time='244277' id='t-244277'>He won the quiz show
+&quot;Jeopardy!&quot; 74 times in a row.</span>
+<span class='talk-transcript__fragment' data-time='249610' id='t-249610'>Took home three million dollars.</span>
+<span class='talk-transcript__fragment' data-time='251824' id='t-251824'>That's Ken on the right,
+getting beat three-to-one</span>
+<span class='talk-transcript__fragment' data-time='255619' id='t-255619'>by Watson, the Jeopardy-playing
+supercomputer from IBM.</span>
+<span class='talk-transcript__fragment' data-time='260642' id='t-260642'>So when we look at what technology can do
+to general knowledge workers,</span>
+<span class='talk-transcript__fragment' data-time='264181' id='t-264181'>I start to think there might not be
+something so special</span>
+<span class='talk-transcript__fragment' data-time='267283' id='t-267283'>about this idea of a generalist,</span>
+<span class='talk-transcript__fragment' data-time='269075' id='t-269075'>particularly when we start doing things
+like hooking Siri up to Watson,</span>
+<span class='talk-transcript__fragment' data-time='273429' id='t-273429'>and having technologies
+that can understand what we're saying</span>
+<span class='talk-transcript__fragment' data-time='276722' id='t-276722'>and repeat speech back to us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='278730' id='t-278730'>Now, Siri is far from perfect,
+and we can make fun of her flaws,</span>
+<span class='talk-transcript__fragment' data-time='282657' id='t-282657'>but we should also keep in mind</span>
+<span class='talk-transcript__fragment' data-time='284180' id='t-284180'>that if technologies like Siri and Watson
+improve along a Moore's law trajectory,</span>
+<span class='talk-transcript__fragment' data-time='289568' id='t-289568'>which they will,</span>
+<span class='talk-transcript__fragment' data-time='291114' id='t-291114'>in six years, they're not going to be two
+times better or four times better,</span>
+<span class='talk-transcript__fragment' data-time='294728' id='t-294728'>they'll be 16 times better
+than they are right now.</span>
+<span class='talk-transcript__fragment' data-time='298222' id='t-298222'>So I start to think a lot of knowledge
+work is going to be affected by this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='302092' id='t-302092'>And digital technologies are not
+just impacting knowledge work,</span>
+<span class='talk-transcript__fragment' data-time='305852' id='t-305852'>they're starting to flex their muscles
+in the physical world as well.</span>
+<span class='talk-transcript__fragment' data-time='309615' id='t-309615'>I had the chance a little while back
+to ride in the Google autonomous car,</span>
+<span class='talk-transcript__fragment' data-time='313364' id='t-313364'>which is as cool as it sounds.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='315665' id='t-315665'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='317877' id='t-317877'>And I will vouch that it handled
+the stop-and-go traffic on US 101</span>
+<span class='talk-transcript__fragment' data-time='322322' id='t-322322'>very smoothly.</span>
+<span class='talk-transcript__fragment' data-time='323599' id='t-323599'>There are about three and a half million
+people who drive trucks for a living</span>
+<span class='talk-transcript__fragment' data-time='327274' id='t-327274'>in the United States;</span>
+<span class='talk-transcript__fragment' data-time='328449' id='t-328449'>I think some of them are going
+to be affected by this technology.</span>
+<span class='talk-transcript__fragment' data-time='331541' id='t-331541'>And right now, humanoid robots
+are still incredibly primitive.</span>
+<span class='talk-transcript__fragment' data-time='334665' id='t-334665'>They can't do very much.</span>
+<span class='talk-transcript__fragment' data-time='336646' id='t-336646'>But they're getting better quite quickly</span>
+<span class='talk-transcript__fragment' data-time='338642' id='t-338642'>and DARPA, which is the investment arm
+of the Defense Department,</span>
+<span class='talk-transcript__fragment' data-time='342203' id='t-342203'>is trying to accelerate their trajectory.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='344204' id='t-344204'>So, in short, yeah, the droids
+are coming for our jobs.</span>
+<span class='talk-transcript__fragment' data-time='349845' id='t-349845'>In the short term, we can
+stimulate job growth</span>
+<span class='talk-transcript__fragment' data-time='352761' id='t-352761'>by encouraging entrepreneurship</span>
+<span class='talk-transcript__fragment' data-time='354922' id='t-354922'>and by investing in infrastructure,</span>
+<span class='talk-transcript__fragment' data-time='356860' id='t-356860'>because the robots today
+still aren't very good at fixing bridges.</span>
+<span class='talk-transcript__fragment' data-time='360422' id='t-360422'>But in the not-too-long-term,</span>
+<span class='talk-transcript__fragment' data-time='362344' id='t-362344'>I think within the lifetimes
+of most of the people in this room,</span>
+<span class='talk-transcript__fragment' data-time='366270' id='t-366270'>we're going to transition into an economy
+that is very productive,</span>
+<span class='talk-transcript__fragment' data-time='369842' id='t-369842'>but that just doesn't need
+a lot of human workers.</span>
+<span class='talk-transcript__fragment' data-time='372760' id='t-372760'>And managing that transition
+is going to be the greatest challenge</span>
+<span class='talk-transcript__fragment' data-time='375896' id='t-375896'>that our society faces.</span>
+<span class='talk-transcript__fragment' data-time='377458' id='t-377458'>Voltaire summarized why; he said,</span>
+<span class='talk-transcript__fragment' data-time='379432' id='t-379432'>&quot;Work saves us from three great evils:
+boredom, vice and need.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='385170' id='t-385170'>But despite this challenge --</span>
+<span class='talk-transcript__fragment' data-time='387251' id='t-387251'>personally, I'm still
+a huge digital optimist,</span>
+<span class='talk-transcript__fragment' data-time='390187' id='t-390187'>and I am supremely confident</span>
+<span class='talk-transcript__fragment' data-time='392415' id='t-392415'>that the digital technologies
+that we're developing now</span>
+<span class='talk-transcript__fragment' data-time='395027' id='t-395027'>are going to take us
+into a Utopian future,</span>
+<span class='talk-transcript__fragment' data-time='397701' id='t-397701'>not a dystopian future.</span>
+<span class='talk-transcript__fragment' data-time='399437' id='t-399437'>And to explain why,</span>
+<span class='talk-transcript__fragment' data-time='400612' id='t-400612'>I want to pose a ridiculously
+broad question.</span>
+<span class='talk-transcript__fragment' data-time='403215' id='t-403215'>I want to ask:</span>
+<span class='talk-transcript__fragment' data-time='404390' id='t-404390'>what have been the most important
+developments in human history?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='407760' id='t-407760'>Now, I want to share some
+of the answers that I've gotten</span>
+<span class='talk-transcript__fragment' data-time='410745' id='t-410745'>in response to this question.</span>
+<span class='talk-transcript__fragment' data-time='412166' id='t-412166'>It's a wonderful question to ask
+and start an endless debate about,</span>
+<span class='talk-transcript__fragment' data-time='415358' id='t-415358'>because some people are going to bring up</span>
+<span class='talk-transcript__fragment' data-time='417356' id='t-417356'>systems of philosophy
+in both the West and the East</span>
+<span class='talk-transcript__fragment' data-time='420680' id='t-420680'>that have changed how a lot
+of people think about the world.</span>
+<span class='talk-transcript__fragment' data-time='423927' id='t-423927'>And then other people will say,</span>
+<span class='talk-transcript__fragment' data-time='425444' id='t-425444'>&quot;No, actually, the big stories,
+the big developments</span>
+<span class='talk-transcript__fragment' data-time='427929' id='t-427929'>are the founding
+of the world's major religions,</span>
+<span class='talk-transcript__fragment' data-time='430536' id='t-430536'>which have changed civilizations
+and have changed and influenced</span>
+<span class='talk-transcript__fragment' data-time='433786' id='t-433786'>how countless people
+are living their lives.&quot;</span>
+<span class='talk-transcript__fragment' data-time='436404' id='t-436404'>And then some other folk will say,</span>
+<span class='talk-transcript__fragment' data-time='438125' id='t-438125'>&quot;Actually, what changes civilizations,</span>
+<span class='talk-transcript__fragment' data-time='440539' id='t-440539'>what modifies them and what changes
+people's lives are empires,</span>
+<span class='talk-transcript__fragment' data-time='445348' id='t-445348'>so the great developments in human history</span>
+<span class='talk-transcript__fragment' data-time='447777' id='t-447777'>are stories of conquest and of war.&quot;</span>
+<span class='talk-transcript__fragment' data-time='450563' id='t-450563'>And then some cheery soul
+usually always pipes up and says,</span>
+<span class='talk-transcript__fragment' data-time='453368' id='t-453368'>&quot;Hey, don't forget about plagues!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='455074' id='t-455074'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='459007' id='t-459007'>There are some optimistic
+answers to this question,</span>
+<span class='talk-transcript__fragment' data-time='461554' id='t-461554'>so some people will bring up
+the Age of Exploration</span>
+<span class='talk-transcript__fragment' data-time='463992' id='t-463992'>and the opening up of the world.</span>
+<span class='talk-transcript__fragment' data-time='465561' id='t-465561'>Others will talk about intellectual
+achievements in disciplines like math</span>
+<span class='talk-transcript__fragment' data-time='469363' id='t-469363'>that have helped us get
+a better handle on the world,</span>
+<span class='talk-transcript__fragment' data-time='471881' id='t-471881'>and other folk will talk about periods
+when there was a deep flourishing</span>
+<span class='talk-transcript__fragment' data-time='475345' id='t-475345'>of the arts and sciences.</span>
+<span class='talk-transcript__fragment' data-time='476974' id='t-476974'>So this debate will go on and on.</span>
+<span class='talk-transcript__fragment' data-time='478585' id='t-478585'>It's an endless debate</span>
+<span class='talk-transcript__fragment' data-time='480070' id='t-480070'>and there's no conclusive,
+single answer to it.</span>
+<span class='talk-transcript__fragment' data-time='483327' id='t-483327'>But if you're a geek like me,</span>
+<span class='talk-transcript__fragment' data-time='484868' id='t-484868'>you say, &quot;Well, what do the data say?&quot;</span>
+<span class='talk-transcript__fragment' data-time='487573' id='t-487573'>And you start to do things</span>
+<span class='talk-transcript__fragment' data-time='488929' id='t-488929'>like graph things
+that we might be interested in --</span>
+<span class='talk-transcript__fragment' data-time='491637' id='t-491637'>the total worldwide
+population, for example,</span>
+<span class='talk-transcript__fragment' data-time='494740' id='t-494740'>or some measure of social development</span>
+<span class='talk-transcript__fragment' data-time='497129' id='t-497129'>or the state of advancement of a society.</span>
+<span class='talk-transcript__fragment' data-time='499641' id='t-499641'>And you start to plot the data,
+because, by this approach,</span>
+<span class='talk-transcript__fragment' data-time='503788' id='t-503788'>the big stories, the big
+developments in human history,</span>
+<span class='talk-transcript__fragment' data-time='506417' id='t-506417'>are the ones that will bend
+these curves a lot.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='508951' id='t-508951'>So when you do this
+and when you plot the data,</span>
+<span class='talk-transcript__fragment' data-time='511195' id='t-511195'>you pretty quickly come
+to some weird conclusions.</span>
+<span class='talk-transcript__fragment' data-time='513911' id='t-513911'>You conclude, actually,</span>
+<span class='talk-transcript__fragment' data-time='515331' id='t-515331'>that none of these things
+have mattered very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='517918' id='t-517918'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='521980' id='t-521980'>They haven't done
+a darn thing to the curves.</span>
+<span class='talk-transcript__fragment' data-time='525357' id='t-525357'>There has been one story,
+one development in human history</span>
+<span class='talk-transcript__fragment' data-time='530071' id='t-530071'>that bent the curve,
+bent it just about 90 degrees,</span>
+<span class='talk-transcript__fragment' data-time='533304' id='t-533304'>and it is a technology story.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='535963' id='t-535963'>The steam engine and the other
+associated technologies</span>
+<span class='talk-transcript__fragment' data-time='538757' id='t-538757'>of the Industrial Revolution</span>
+<span class='talk-transcript__fragment' data-time='540812' id='t-540812'>changed the world and influenced
+human history so much,</span>
+<span class='talk-transcript__fragment' data-time='544112' id='t-544112'>that in the words
+of the historian Ian Morris,</span>
+<span class='talk-transcript__fragment' data-time='546538' id='t-546538'>&quot;... they made mockery out of all
+that had come before.&quot;</span>
+<span class='talk-transcript__fragment' data-time='550353' id='t-550353'>And they did this by infinitely
+multiplying the power of our muscles,</span>
+<span class='talk-transcript__fragment' data-time='553904' id='t-553904'>overcoming the limitations of our muscles.</span>
+<span class='talk-transcript__fragment' data-time='556322' id='t-556322'>Now, what we're in the middle of now</span>
+<span class='talk-transcript__fragment' data-time='558844' id='t-558844'>is overcoming the limitations
+of our individual brains</span>
+<span class='talk-transcript__fragment' data-time='561901' id='t-561901'>and infinitely multiplying
+our mental power.</span>
+<span class='talk-transcript__fragment' data-time='564836' id='t-564836'>How can this not be as big a deal</span>
+<span class='talk-transcript__fragment' data-time='568037' id='t-568037'>as overcoming the limitations
+of our muscles?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='570765' id='t-570765'>So at the risk of repeating
+myself a little bit,</span>
+<span class='talk-transcript__fragment' data-time='573649' id='t-573649'>when I look at what's going on
+with digital technology these days,</span>
+<span class='talk-transcript__fragment' data-time='577426' id='t-577426'>we are not anywhere near
+through with this journey.</span>
+<span class='talk-transcript__fragment' data-time='580560' id='t-580560'>And when I look at what is happening
+to our economies and our societies,</span>
+<span class='talk-transcript__fragment' data-time='584090' id='t-584090'>my single conclusion is that
+we ain't seen nothing yet.</span>
+<span class='talk-transcript__fragment' data-time='587203' id='t-587203'>The best days are really ahead.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='588953' id='t-588953'>Let me give you a couple examples.</span>
+<span class='talk-transcript__fragment' data-time='590978' id='t-590978'>Economies don't run on energy.</span>
+<span class='talk-transcript__fragment' data-time='593375' id='t-593375'>They don't run on capital,
+they don't run on labor.</span>
+<span class='talk-transcript__fragment' data-time='596438' id='t-596438'>Economies run on ideas.</span>
+<span class='talk-transcript__fragment' data-time='598867' id='t-598867'>So the work of innovation,
+the work of coming up with new ideas,</span>
+<span class='talk-transcript__fragment' data-time='602232' id='t-602232'>is some of the most powerful, most
+fundamental work that we can do</span>
+<span class='talk-transcript__fragment' data-time='605954' id='t-605954'>in an economy.</span>
+<span class='talk-transcript__fragment' data-time='607129' id='t-607129'>And this is kind of how
+we used to do innovation.</span>
+<span class='talk-transcript__fragment' data-time='610271' id='t-610271'>We'd find a bunch of fairly
+similar-looking people ...</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='613271' id='t-613271'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='616791' id='t-616791'>We'd take them out of elite institutions,</span>
+<span class='talk-transcript__fragment' data-time='618808' id='t-618808'>we'd put them into other
+elite institutions</span>
+<span class='talk-transcript__fragment' data-time='620911' id='t-620911'>and we'd wait for the innovation.</span>
+<span class='talk-transcript__fragment' data-time='622521' id='t-622521'>Now --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='623714' id='t-623714'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='626167' id='t-626167'>as a white guy who spent
+his whole career at MIT and Harvard,</span>
+<span class='talk-transcript__fragment' data-time='629679' id='t-629679'>I've got no problem with this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='631729' id='t-631729'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='635345' id='t-635345'>But some other people do,</span>
+<span class='talk-transcript__fragment' data-time='636576' id='t-636576'>and they've kind of crashed the party</span>
+<span class='talk-transcript__fragment' data-time='638385' id='t-638385'>and loosened up
+the dress code of innovation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='640554' id='t-640554'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='641610' id='t-641610'>So here are the winners of a Topcoder
+programming challenge,</span>
+<span class='talk-transcript__fragment' data-time='644834' id='t-644834'>and I assure you that nobody cares</span>
+<span class='talk-transcript__fragment' data-time='647550' id='t-647550'>where these kids grew up,
+where they went to school,</span>
+<span class='talk-transcript__fragment' data-time='651330' id='t-651330'>or what they look like.</span>
+<span class='talk-transcript__fragment' data-time='652854' id='t-652854'>All anyone cares about is the quality
+of the work, the quality of the ideas.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='656721' id='t-656721'>And over and over again,
+we see this happening</span>
+<span class='talk-transcript__fragment' data-time='658981' id='t-658981'>in the technology-facilitated world.</span>
+<span class='talk-transcript__fragment' data-time='661529' id='t-661529'>The work of innovation
+is becoming more open,</span>
+<span class='talk-transcript__fragment' data-time='664050' id='t-664050'>more inclusive, more transparent
+and more merit-based,</span>
+<span class='talk-transcript__fragment' data-time='667723' id='t-667723'>and that's going to continue no matter
+what MIT and Harvard think of it,</span>
+<span class='talk-transcript__fragment' data-time='671445' id='t-671445'>and I couldn't be happier
+about that development.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='674349' id='t-674349'>I hear once in a while,
+&quot;OK, I'll grant you that,</span>
+<span class='talk-transcript__fragment' data-time='676828' id='t-676828'>but technology is still a tool
+for the rich world,</span>
+<span class='talk-transcript__fragment' data-time='679871' id='t-679871'>and what's not happening,</span>
+<span class='talk-transcript__fragment' data-time='681294' id='t-681294'>these digital tools are not
+improving the lives</span>
+<span class='talk-transcript__fragment' data-time='683929' id='t-683929'>of people at the bottom of the pyramid.&quot;</span>
+<span class='talk-transcript__fragment' data-time='686102' id='t-686102'>And I want to say to that
+very clearly: nonsense.</span>
+<span class='talk-transcript__fragment' data-time='688792' id='t-688792'>The bottom of the pyramid is benefiting
+hugely from technology.</span>
+<span class='talk-transcript__fragment' data-time='692309' id='t-692309'>The economist Robert Jensen
+did this wonderful study a while back</span>
+<span class='talk-transcript__fragment' data-time='695893' id='t-695893'>where he watched, in great detail,</span>
+<span class='talk-transcript__fragment' data-time='697850' id='t-697850'>what happened to the fishing
+villages of Kerala, India,</span>
+<span class='talk-transcript__fragment' data-time='701492' id='t-701492'>when they got mobile phones
+for the very first time.</span>
+<span class='talk-transcript__fragment' data-time='704397' id='t-704397'>And when you write for the Quarterly
+Journal of Economics,</span>
+<span class='talk-transcript__fragment' data-time='707230' id='t-707230'>you have to use very dry
+and very circumspect language.</span>
+<span class='talk-transcript__fragment' data-time='710136' id='t-710136'>But when I read his paper,</span>
+<span class='talk-transcript__fragment' data-time='711422' id='t-711422'>I kind of feel Jensen
+is trying to scream at us</span>
+<span class='talk-transcript__fragment' data-time='713653' id='t-713653'>and say, &quot;Look, this was a big deal.</span>
+<span class='talk-transcript__fragment' data-time='716001' id='t-716001'>Prices stabilized, so people
+could plan their economic lives.</span>
+<span class='talk-transcript__fragment' data-time='719676' id='t-719676'>Waste was not reduced --
+it was eliminated.</span>
+<span class='talk-transcript__fragment' data-time='723747' id='t-723747'>And the lives of both
+the buyers and the sellers</span>
+<span class='talk-transcript__fragment' data-time='726012' id='t-726012'>in these villages measurably improved.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='728813' id='t-728813'>Now, what I don't think
+is that Jensen got extremely lucky</span>
+<span class='talk-transcript__fragment' data-time='732627' id='t-732627'>and happened to land
+in the one set of villages</span>
+<span class='talk-transcript__fragment' data-time='734862' id='t-734862'>where technology made things better.</span>
+<span class='talk-transcript__fragment' data-time='737195' id='t-737195'>What happened instead
+is he very carefully documented</span>
+<span class='talk-transcript__fragment' data-time='739866' id='t-739866'>what happens over and over again
+when technology comes for the first time</span>
+<span class='talk-transcript__fragment' data-time='743969' id='t-743969'>to an environment and a community:</span>
+<span class='talk-transcript__fragment' data-time='745930' id='t-745930'>the lives of people, the welfares
+of people, improve dramatically.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='749791' id='t-749791'>So as I look around at all the evidence</span>
+<span class='talk-transcript__fragment' data-time='751696' id='t-751696'>and I think about the room
+that we have ahead of us,</span>
+<span class='talk-transcript__fragment' data-time='754157' id='t-754157'>I become a huge digital optimist</span>
+<span class='talk-transcript__fragment' data-time='756009' id='t-756009'>and I start to think that this wonderful
+statement from the physicist Freeman Dyson</span>
+<span class='talk-transcript__fragment' data-time='760609' id='t-760609'>is actually not hyperbole.</span>
+<span class='talk-transcript__fragment' data-time='762371' id='t-762371'>This is an accurate assessment
+of what's going on.</span>
+<span class='talk-transcript__fragment' data-time='764904' id='t-764904'>Our technologies are great gifts,</span>
+<span class='talk-transcript__fragment' data-time='767626' id='t-767626'>and we, right now,
+have the great good fortune</span>
+<span class='talk-transcript__fragment' data-time='770697' id='t-770697'>to be living at a time when
+digital technology is flourishing,</span>
+<span class='talk-transcript__fragment' data-time='774451' id='t-774451'>when it is broadening and deepening
+and becoming more profound</span>
+<span class='talk-transcript__fragment' data-time='777870' id='t-777870'>all around the world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='779172' id='t-779172'>So, yeah, the droids are taking our jobs,</span>
+<span class='talk-transcript__fragment' data-time='782471' id='t-782471'>but focusing on that fact
+misses the point entirely.</span>
+<span class='talk-transcript__fragment' data-time='786066' id='t-786066'>The point is that then we
+are freed up to do other things,</span>
+<span class='talk-transcript__fragment' data-time='789590' id='t-789590'>and what we're going to do,
+I am very confident,</span>
+<span class='talk-transcript__fragment' data-time='791901' id='t-791901'>what we're going to do is reduce poverty</span>
+<span class='talk-transcript__fragment' data-time='794441' id='t-794441'>and drudgery and misery around the world.</span>
+<span class='talk-transcript__fragment' data-time='796934' id='t-796934'>I'm very confident we're going to learn
+to live more lightly on the planet,</span>
+<span class='talk-transcript__fragment' data-time='800963' id='t-800963'>and I am extremely confident
+that what we're going to do</span>
+<span class='talk-transcript__fragment' data-time='804412' id='t-804412'>with our new digital tools</span>
+<span class='talk-transcript__fragment' data-time='805811' id='t-805811'>is going to be so profound
+and so beneficial</span>
+<span class='talk-transcript__fragment' data-time='808827' id='t-808827'>that it's going to make a mockery
+out of everything that came before.</span>
+<span class='talk-transcript__fragment' data-time='812335' id='t-812335'>I'm going to leave the last word</span>
+<span class='talk-transcript__fragment' data-time='813915' id='t-813915'>to a guy who had a front-row seat
+for digital progress,</span>
+<span class='talk-transcript__fragment' data-time='816593' id='t-816593'>our old friend Ken Jennings.</span>
+<span class='talk-transcript__fragment' data-time='818189' id='t-818189'>I'm with him; I'm going to echo his words:</span>
+<span class='talk-transcript__fragment' data-time='820456' id='t-820456'>&quot;I, for one, welcome our new
+computer overlords.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='823396' id='t-823396'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='824501' id='t-824501'>Thanks very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='826009' id='t-826009'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

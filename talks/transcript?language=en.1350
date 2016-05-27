@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Miguel Nicolelis: A monkey that controls a robot with its thoughts. No, really. | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Miguel Nicolelis: A monkey that controls a robot with its thoughts. No, really. | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Can we use our brains to directly control machines? Miguel Nicolelis suggests yes, showing how a clever monkey in the US learned to control a robot arm in Japan purely with its thoughts. The research has big implications for quadraplegic people -- and in fact, it powered the exoskeleton that kicked off the 2014 World Cup." name="description" />
+<meta content="Miguel Nicolelis" name="author" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=et" hreflang="et" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=sl" hreflang="sl" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=sw" hreflang="sw" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A monkey that controls a robot with its thoughts. No, really.&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9759b9b5b08c13a29a320b10ea37110f439795c4_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9759b9b5b08c13a29a320b10ea37110f439795c4_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Can we use our brains to directly control machines? Miguel Nicolelis suggests yes, showing how a clever monkey in the US learned to control a robot arm in Japan purely with its thoughts. The research has big implications for quadraplegic people -- and in fact, it powered the exoskeleton that kicked off the 2014 World Cup." property="og:description" />
+<meta content="http://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1671?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='da'>Danish</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='et'>Estonian</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sl'>Slovenian</option>
+<option value='es'>Spanish</option>
+<option value='sw'>Swahili</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/809235">Timothy Covell</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1671?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="895" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9759b9b5b08c13a29a320b10ea37110f439795c4_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:55</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Miguel Nicolelis</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1671?language=en' lang='en'>
+A monkey that controls a robot with its thoughts. No, really.
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Feb 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='330' id='t-330'>The kind of neuroscience that I do and my colleagues do</span>
+<span class='talk-transcript__fragment' data-time='3181' id='t-3181'>is almost like the weatherman.</span>
+<span class='talk-transcript__fragment' data-time='5347' id='t-5347'>We are always chasing storms.</span>
+<span class='talk-transcript__fragment' data-time='8863' id='t-8863'>We want to see and measure storms -- brainstorms, that is.</span>
+<span class='talk-transcript__fragment' data-time='13746' id='t-13746'>And we all talk about brainstorms in our daily lives,</span>
+<span class='talk-transcript__fragment' data-time='16514' id='t-16514'>but we rarely see or listen to one.</span>
+<span class='talk-transcript__fragment' data-time='19964' id='t-19964'>So I always like to start these talks</span>
+<span class='talk-transcript__fragment' data-time='21598' id='t-21598'>by actually introducing you to one of them.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='24580' id='t-24580'>Actually, the first time we recorded more than one neuron --</span>
+<span class='talk-transcript__fragment' data-time='28007' id='t-28007'>a hundred brain cells simultaneously --</span>
+<span class='talk-transcript__fragment' data-time='30230' id='t-30230'>we could measure the electrical sparks</span>
+<span class='talk-transcript__fragment' data-time='32699' id='t-32699'>of a hundred cells in the same animal,</span>
+<span class='talk-transcript__fragment' data-time='35379' id='t-35379'>this is the first image we got,</span>
+<span class='talk-transcript__fragment' data-time='37181' id='t-37181'>the first 10 seconds of this recording.</span>
+<span class='talk-transcript__fragment' data-time='39496' id='t-39496'>So we got a little snippet of a thought,</span>
+<span class='talk-transcript__fragment' data-time='42847' id='t-42847'>and we could see it in front of us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='45752' id='t-45752'>I always tell the students</span>
+<span class='talk-transcript__fragment' data-time='46764' id='t-46764'>that we could also call neuroscientists some sort of astronomer,</span>
+<span class='talk-transcript__fragment' data-time='50870' id='t-50870'>because we are dealing with a system</span>
+<span class='talk-transcript__fragment' data-time='52496' id='t-52496'>that is only comparable in terms of number of cells</span>
+<span class='talk-transcript__fragment' data-time='55413' id='t-55413'>to the number of galaxies that we have in the universe.</span>
+<span class='talk-transcript__fragment' data-time='58349' id='t-58349'>And here we are, out of billions of neurons,</span>
+<span class='talk-transcript__fragment' data-time='61379' id='t-61379'>just recording, 10 years ago, a hundred.</span>
+<span class='talk-transcript__fragment' data-time='64197' id='t-64197'>We are doing a thousand now.</span>
+<span class='talk-transcript__fragment' data-time='65780' id='t-65780'>And we hope to understand something fundamental about our human nature.</span>
+<span class='talk-transcript__fragment' data-time='71180' id='t-71180'>Because, if you don't know yet,</span>
+<span class='talk-transcript__fragment' data-time='73112' id='t-73112'>everything that we use to define what human nature is comes from these storms,</span>
+<span class='talk-transcript__fragment' data-time='78362' id='t-78362'>comes from these storms that roll over the hills and valleys of our brains</span>
+<span class='talk-transcript__fragment' data-time='83013' id='t-83013'>and define our memories, our beliefs,</span>
+<span class='talk-transcript__fragment' data-time='86898' id='t-86898'>our feelings, our plans for the future.</span>
+<span class='talk-transcript__fragment' data-time='89598' id='t-89598'>Everything that we ever do,</span>
+<span class='talk-transcript__fragment' data-time='91996' id='t-91996'>everything that every human has ever done, do or will do,</span>
+<span class='talk-transcript__fragment' data-time='97063' id='t-97063'>requires the toil of populations of neurons producing these kinds of storms.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='102497' id='t-102497'>And the sound of a brainstorm, if you've never heard one,</span>
+<span class='talk-transcript__fragment' data-time='104980' id='t-104980'>is somewhat like this.</span>
+<span class='talk-transcript__fragment' data-time='108329' id='t-108329'>You can put it louder if you can.</span>
+<span class='talk-transcript__fragment' data-time='111475' id='t-111475'>My son calls this &quot;making popcorn while listening to a badly-tuned A.M. station.&quot;</span>
+<span class='talk-transcript__fragment' data-time='117878' id='t-117878'>This is a brain.</span>
+<span class='talk-transcript__fragment' data-time='119363' id='t-119363'>This is what happens when you route these electrical storms to a loudspeaker</span>
+<span class='talk-transcript__fragment' data-time='122797' id='t-122797'>and you listen to a hundred brain cells firing,</span>
+<span class='talk-transcript__fragment' data-time='125663' id='t-125663'>your brain will sound like this -- my brain, any brain.</span>
+<span class='talk-transcript__fragment' data-time='130285' id='t-130285'>And what we want to do as neuroscientists in this time</span>
+<span class='talk-transcript__fragment' data-time='134047' id='t-134047'>is to actually listen to these symphonies, these brain symphonies,</span>
+<span class='talk-transcript__fragment' data-time='139397' id='t-139397'>and try to extract from them the messages they carry.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='142797' id='t-142797'>In particular, about 12 years ago</span>
+<span class='talk-transcript__fragment' data-time='145648' id='t-145648'>we created a preparation that we named brain-machine interfaces.</span>
+<span class='talk-transcript__fragment' data-time='148696' id='t-148696'>And you have a scheme here that describes how it works.</span>
+<span class='talk-transcript__fragment' data-time='151398' id='t-151398'>The idea is, let's have some sensors that listen to these storms, this electrical firing,</span>
+<span class='talk-transcript__fragment' data-time='156964' id='t-156964'>and see if you can, in the same time that it takes</span>
+<span class='talk-transcript__fragment' data-time='160046' id='t-160046'>for this storm to leave the brain and reach the legs or the arms of an animal --</span>
+<span class='talk-transcript__fragment' data-time='165015' id='t-165015'>about half a second --</span>
+<span class='talk-transcript__fragment' data-time='167879' id='t-167879'>let's see if we can read these signals,</span>
+<span class='talk-transcript__fragment' data-time='170230' id='t-170230'>extract the motor messages that are embedded in it,</span>
+<span class='talk-transcript__fragment' data-time='173630' id='t-173630'>translate it into digital commands</span>
+<span class='talk-transcript__fragment' data-time='175902' id='t-175902'>and send it to an artificial device</span>
+<span class='talk-transcript__fragment' data-time='177788' id='t-177788'>that will reproduce the voluntary motor wheel of that brain in real time.</span>
+<span class='talk-transcript__fragment' data-time='183681' id='t-183681'>And see if we can measure how well we can translate that message</span>
+<span class='talk-transcript__fragment' data-time='187529' id='t-187529'>when we compare to the way the body does that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='191047' id='t-191047'>And if we can actually provide feedback,</span>
+<span class='talk-transcript__fragment' data-time='193913' id='t-193913'>sensory signals that go back from this robotic, mechanical, computational actuator</span>
+<span class='talk-transcript__fragment' data-time='199647' id='t-199647'>that is now under the control of the brain,</span>
+<span class='talk-transcript__fragment' data-time='201898' id='t-201898'>back to the brain,</span>
+<span class='talk-transcript__fragment' data-time='203209' id='t-203209'>how the brain deals with that,</span>
+<span class='talk-transcript__fragment' data-time='205330' id='t-205330'>of receiving messages from an artificial piece of machinery.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='210231' id='t-210231'>And that's exactly what we did 10 years ago.</span>
+<span class='talk-transcript__fragment' data-time='212552' id='t-212552'>We started with a superstar monkey called Aurora</span>
+<span class='talk-transcript__fragment' data-time='215513' id='t-215513'>that became one of the superstars of this field.</span>
+<span class='talk-transcript__fragment' data-time='217981' id='t-217981'>And Aurora liked to play video games.</span>
+<span class='talk-transcript__fragment' data-time='220280' id='t-220280'>As you can see here,</span>
+<span class='talk-transcript__fragment' data-time='221653' id='t-221653'>she likes to use a joystick, like any one of us, any of our kids, to play this game.</span>
+<span class='talk-transcript__fragment' data-time='226597' id='t-226597'>And as a good primate, she even tries to cheat before she gets the right answer.</span>
+<span class='talk-transcript__fragment' data-time='231268' id='t-231268'>So even before a target appears that she's supposed to cross</span>
+<span class='talk-transcript__fragment' data-time='235551' id='t-235551'>with the cursor that she's controlling with this joystick,</span>
+<span class='talk-transcript__fragment' data-time='238401' id='t-238401'>Aurora is trying to find the target, no matter where it is.</span>
+<span class='talk-transcript__fragment' data-time='242352' id='t-242352'>And if she's doing that,</span>
+<span class='talk-transcript__fragment' data-time='243821' id='t-243821'>because every time she crosses that target with the little cursor,</span>
+<span class='talk-transcript__fragment' data-time='247135' id='t-247135'>she gets a drop of Brazilian orange juice.</span>
+<span class='talk-transcript__fragment' data-time='250085' id='t-250085'>And I can tell you, any monkey will do anything for you</span>
+<span class='talk-transcript__fragment' data-time='253035' id='t-253035'>if you get a little drop of Brazilian orange juice.</span>
+<span class='talk-transcript__fragment' data-time='256135' id='t-256135'>Actually any primate will do that.</span>
+<span class='talk-transcript__fragment' data-time='258866' id='t-258866'>Think about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='260200' id='t-260200'>Well, while Aurora was playing this game, as you saw,</span>
+<span class='talk-transcript__fragment' data-time='263600' id='t-263600'>and doing a thousand trials a day</span>
+<span class='talk-transcript__fragment' data-time='266035' id='t-266035'>and getting 97 percent correct and 350 milliliters of orange juice,</span>
+<span class='talk-transcript__fragment' data-time='269918' id='t-269918'>we are recording the brainstorms that are produced in her head</span>
+<span class='talk-transcript__fragment' data-time='273317' id='t-273317'>and sending them to a robotic arm</span>
+<span class='talk-transcript__fragment' data-time='274964' id='t-274964'>that was learning to reproduce the movements that Aurora was making.</span>
+<span class='talk-transcript__fragment' data-time='278835' id='t-278835'>Because the idea was to actually turn on this brain-machine interface</span>
+<span class='talk-transcript__fragment' data-time='282618' id='t-282618'>and have Aurora play the game just by thinking,</span>
+<span class='talk-transcript__fragment' data-time='287318' id='t-287318'>without interference of her body.</span>
+<span class='talk-transcript__fragment' data-time='289935' id='t-289935'>Her brainstorms would control an arm</span>
+<span class='talk-transcript__fragment' data-time='292851' id='t-292851'>that would move the cursor and cross the target.</span>
+<span class='talk-transcript__fragment' data-time='295560' id='t-295560'>And to our shock, that's exactly what Aurora did.</span>
+<span class='talk-transcript__fragment' data-time='298751' id='t-298751'>She played the game without moving her body.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='302951' id='t-302951'>So every trajectory that you see of the cursor now,</span>
+<span class='talk-transcript__fragment' data-time='305188' id='t-305188'>this is the exact first moment she got that.</span>
+<span class='talk-transcript__fragment' data-time='308400' id='t-308400'>That's the exact first moment</span>
+<span class='talk-transcript__fragment' data-time='310184' id='t-310184'>a brain intention was liberated from the physical domains of a body of a primate</span>
+<span class='talk-transcript__fragment' data-time='316951' id='t-316951'>and could act outside, in that outside world,</span>
+<span class='talk-transcript__fragment' data-time='320651' id='t-320651'>just by controlling an artificial device.</span>
+<span class='talk-transcript__fragment' data-time='323617' id='t-323617'>And Aurora kept playing the game, kept finding the little target</span>
+<span class='talk-transcript__fragment' data-time='328534' id='t-328534'>and getting the orange juice that she wanted to get, that she craved for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='332451' id='t-332451'>Well, she did that because she, at that time, had acquired a new arm.</span>
+<span class='talk-transcript__fragment' data-time='339152' id='t-339152'>The robotic arm that you see moving here 30 days later,</span>
+<span class='talk-transcript__fragment' data-time='342115' id='t-342115'>after the first video that I showed to you,</span>
+<span class='talk-transcript__fragment' data-time='344801' id='t-344801'>is under the control of Aurora's brain</span>
+<span class='talk-transcript__fragment' data-time='347451' id='t-347451'>and is moving the cursor to get to the target.</span>
+<span class='talk-transcript__fragment' data-time='350619' id='t-350619'>And Aurora now knows that she can play the game with this robotic arm,</span>
+<span class='talk-transcript__fragment' data-time='354518' id='t-354518'>but she has not lost the ability to use her biological arms to do what she pleases.</span>
+<span class='talk-transcript__fragment' data-time='360234' id='t-360234'>She can scratch her back, she can scratch one of us, she can play another game.</span>
+<span class='talk-transcript__fragment' data-time='364301' id='t-364301'>By all purposes and means,</span>
+<span class='talk-transcript__fragment' data-time='365901' id='t-365901'>Aurora's brain has incorporated that artificial device</span>
+<span class='talk-transcript__fragment' data-time='370017' id='t-370017'>as an extension of her body.</span>
+<span class='talk-transcript__fragment' data-time='372767' id='t-372767'>The model of the self that Aurora had in her mind</span>
+<span class='talk-transcript__fragment' data-time='376300' id='t-376300'>has been expanded to get one more arm.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='380384' id='t-380384'>Well, we did that 10 years ago.</span>
+<span class='talk-transcript__fragment' data-time='382734' id='t-382734'>Just fast forward 10 years.</span>
+<span class='talk-transcript__fragment' data-time='385567' id='t-385567'>Just last year we realized that you don't even need to have a robotic device.</span>
+<span class='talk-transcript__fragment' data-time='390550' id='t-390550'>You can just build a computational body, an avatar, a monkey avatar.</span>
+<span class='talk-transcript__fragment' data-time='396034' id='t-396034'>And you can actually use it for our monkeys to either interact with them,</span>
+<span class='talk-transcript__fragment' data-time='400284' id='t-400284'>or you can train them to assume in a virtual world</span>
+<span class='talk-transcript__fragment' data-time='404723' id='t-404723'>the first-person perspective of that avatar</span>
+<span class='talk-transcript__fragment' data-time='407767' id='t-407767'>and use her brain activity to control the movements of the avatar's arms or legs.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='413418' id='t-413418'>And what we did basically was to train the animals</span>
+<span class='talk-transcript__fragment' data-time='416184' id='t-416184'>to learn how to control these avatars</span>
+<span class='talk-transcript__fragment' data-time='419234' id='t-419234'>and explore objects that appear in the virtual world.</span>
+<span class='talk-transcript__fragment' data-time='423133' id='t-423133'>And these objects are visually identical,</span>
+<span class='talk-transcript__fragment' data-time='425434' id='t-425434'>but when the avatar crosses the surface of these objects,</span>
+<span class='talk-transcript__fragment' data-time='429317' id='t-429317'>they send an electrical message that is proportional to the microtactile texture of the object</span>
+<span class='talk-transcript__fragment' data-time='435717' id='t-435717'>that goes back directly to the monkey's brain,</span>
+<span class='talk-transcript__fragment' data-time='439733' id='t-439733'>informing the brain what it is the avatar is touching.</span>
+<span class='talk-transcript__fragment' data-time='444785' id='t-444785'>And in just four weeks, the brain learns to process this new sensation</span>
+<span class='talk-transcript__fragment' data-time='449550' id='t-449550'>and acquires a new sensory pathway -- like a new sense.</span>
+<span class='talk-transcript__fragment' data-time='455984' id='t-455984'>And you truly liberate the brain now</span>
+<span class='talk-transcript__fragment' data-time='458400' id='t-458400'>because you are allowing the brain to send motor commands to move this avatar.</span>
+<span class='talk-transcript__fragment' data-time='462784' id='t-462784'>And the feedback that comes from the avatar is being processed directly by the brain</span>
+<span class='talk-transcript__fragment' data-time='467784' id='t-467784'>without the interference of the skin.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='470217' id='t-470217'>So what you see here is this is the design of the task.</span>
+<span class='talk-transcript__fragment' data-time='472751' id='t-472751'>You're going to see an animal basically touching these three targets.</span>
+<span class='talk-transcript__fragment' data-time='477001' id='t-477001'>And he has to select one because only one carries the reward,</span>
+<span class='talk-transcript__fragment' data-time='481350' id='t-481350'>the orange juice that they want to get.</span>
+<span class='talk-transcript__fragment' data-time='483217' id='t-483217'>And he has to select it by touch using a virtual arm, an arm that doesn't exist.</span>
+<span class='talk-transcript__fragment' data-time='488850' id='t-488850'>And that's exactly what they do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='490850' id='t-490850'>This is a complete liberation of the brain</span>
+<span class='talk-transcript__fragment' data-time='494285' id='t-494285'>from the physical constraints of the body and the motor in a perceptual task.</span>
+<span class='talk-transcript__fragment' data-time='498567' id='t-498567'>The animal is controlling the avatar to touch the targets.</span>
+<span class='talk-transcript__fragment' data-time='502734' id='t-502734'>And he's sensing the texture by receiving an electrical message directly in the brain.</span>
+<span class='talk-transcript__fragment' data-time='508385' id='t-508385'>And the brain is deciding what is the texture associated with the reward.</span>
+<span class='talk-transcript__fragment' data-time='512268' id='t-512268'>The legends that you see in the movie don't appear for the monkey.</span>
+<span class='talk-transcript__fragment' data-time='516100' id='t-516100'>And by the way, they don't read English anyway,</span>
+<span class='talk-transcript__fragment' data-time='518584' id='t-518584'>so they are here just for you to know that the correct target is shifting position.</span>
+<span class='talk-transcript__fragment' data-time='523800' id='t-523800'>And yet, they can find them by tactile discrimination,</span>
+<span class='talk-transcript__fragment' data-time='527734' id='t-527734'>and they can press it and select it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='530951' id='t-530951'>So when we look at the brains of these animals,</span>
+<span class='talk-transcript__fragment' data-time='533633' id='t-533633'>on the top panel you see the alignment of 125 cells</span>
+<span class='talk-transcript__fragment' data-time='537300' id='t-537300'>showing what happens with the brain activity, the electrical storms,</span>
+<span class='talk-transcript__fragment' data-time='541501' id='t-541501'>of this sample of neurons in the brain</span>
+<span class='talk-transcript__fragment' data-time='543568' id='t-543568'>when the animal is using a joystick.</span>
+<span class='talk-transcript__fragment' data-time='545684' id='t-545684'>And that's a picture that every neurophysiologist knows.</span>
+<span class='talk-transcript__fragment' data-time='548284' id='t-548284'>The basic alignment shows that these cells are coding for all possible directions.</span>
+<span class='talk-transcript__fragment' data-time='553467' id='t-553467'>The bottom picture is what happens when the body stops moving</span>
+<span class='talk-transcript__fragment' data-time='559150' id='t-559150'>and the animal starts controlling either a robotic device or a computational avatar.</span>
+<span class='talk-transcript__fragment' data-time='565284' id='t-565284'>As fast as we can reset our computers,</span>
+<span class='talk-transcript__fragment' data-time='568350' id='t-568350'>the brain activity shifts to start representing this new tool,</span>
+<span class='talk-transcript__fragment' data-time='574168' id='t-574168'>as if this too was a part of that primate's body.</span>
+<span class='talk-transcript__fragment' data-time='579418' id='t-579418'>The brain is assimilating that too, as fast as we can measure.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='584133' id='t-584133'>So that suggests to us that our sense of self</span>
+<span class='talk-transcript__fragment' data-time='587751' id='t-587751'>does not end at the last layer of the epithelium of our bodies,</span>
+<span class='talk-transcript__fragment' data-time='591901' id='t-591901'>but it ends at the last layer of electrons of the tools that we're commanding with our brains.</span>
+<span class='talk-transcript__fragment' data-time='597619' id='t-597619'>Our violins, our cars, our bicycles, our soccer balls, our clothing --</span>
+<span class='talk-transcript__fragment' data-time='602383' id='t-602383'>they all become assimilated by this voracious, amazing, dynamic system called the brain.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='609234' id='t-609234'>How far can we take it?</span>
+<span class='talk-transcript__fragment' data-time='610933' id='t-610933'>Well, in an experiment that we ran a few years ago, we took this to the limit.</span>
+<span class='talk-transcript__fragment' data-time='615151' id='t-615151'>We had an animal running on a treadmill</span>
+<span class='talk-transcript__fragment' data-time='617633' id='t-617633'>at Duke University on the East Coast of the United States,</span>
+<span class='talk-transcript__fragment' data-time='619900' id='t-619900'>producing the brainstorms necessary to move.</span>
+<span class='talk-transcript__fragment' data-time='622600' id='t-622600'>And we had a robotic device, a humanoid robot,</span>
+<span class='talk-transcript__fragment' data-time='626691' id='t-626691'>in Kyoto, Japan at ATR Laboratories</span>
+<span class='talk-transcript__fragment' data-time='629085' id='t-629085'>that was dreaming its entire life to be controlled by a brain,</span>
+<span class='talk-transcript__fragment' data-time='635179' id='t-635179'>a human brain, or a primate brain.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='638452' id='t-638452'>What happens here is that the brain activity that generated the movements in the monkey</span>
+<span class='talk-transcript__fragment' data-time='643050' id='t-643050'>was transmitted to Japan and made this robot walk</span>
+<span class='talk-transcript__fragment' data-time='646517' id='t-646517'>while footage of this walking was sent back to Duke,</span>
+<span class='talk-transcript__fragment' data-time='650584' id='t-650584'>so that the monkey could see the legs of this robot walking in front of her.</span>
+<span class='talk-transcript__fragment' data-time='655817' id='t-655817'>So she could be rewarded, not by what her body was doing</span>
+<span class='talk-transcript__fragment' data-time='659884' id='t-659884'>but for every correct step of the robot on the other side of the planet</span>
+<span class='talk-transcript__fragment' data-time='664845' id='t-664845'>controlled by her brain activity.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='667454' id='t-667454'>Funny thing, that round trip around the globe took 20 milliseconds less</span>
+<span class='talk-transcript__fragment' data-time='674572' id='t-674572'>than it takes for that brainstorm to leave its head, the head of the monkey,</span>
+<span class='talk-transcript__fragment' data-time='678722' id='t-678722'>and reach its own muscle.</span>
+<span class='talk-transcript__fragment' data-time='682592' id='t-682592'>The monkey was moving a robot that was six times bigger, across the planet.</span>
+<span class='talk-transcript__fragment' data-time='688622' id='t-688622'>This is one of the experiments in which that robot was able to walk autonomously.</span>
+<span class='talk-transcript__fragment' data-time='695022' id='t-695022'>This is CB1 fulfilling its dream in Japan</span>
+<span class='talk-transcript__fragment' data-time='700289' id='t-700289'>under the control of the brain activity of a primate.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='703989' id='t-703989'>So where are we taking all this?</span>
+<span class='talk-transcript__fragment' data-time='705978' id='t-705978'>What are we going to do with all this research,</span>
+<span class='talk-transcript__fragment' data-time='708321' id='t-708321'>besides studying the properties of this dynamic universe that we have between our ears?</span>
+<span class='talk-transcript__fragment' data-time='713989' id='t-713989'>Well the idea is to take all this knowledge and technology</span>
+<span class='talk-transcript__fragment' data-time='718822' id='t-718822'>and try to restore one of the most severe neurological problems that we have in the world.</span>
+<span class='talk-transcript__fragment' data-time='724306' id='t-724306'>Millions of people have lost the ability to translate these brainstorms</span>
+<span class='talk-transcript__fragment' data-time='728889' id='t-728889'>into action, into movement.</span>
+<span class='talk-transcript__fragment' data-time='731005' id='t-731005'>Although their brains continue to produce those storms and code for movements,</span>
+<span class='talk-transcript__fragment' data-time='736239' id='t-736239'>they cannot cross a barrier that was created by a lesion on the spinal cord.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='741406' id='t-741406'>So our idea is to create a bypass,</span>
+<span class='talk-transcript__fragment' data-time='743856' id='t-743856'>is to use these brain-machine interfaces to read these signals,</span>
+<span class='talk-transcript__fragment' data-time='747888' id='t-747888'>larger-scale brainstorms that contain the desire to move again,</span>
+<span class='talk-transcript__fragment' data-time='751938' id='t-751938'>bypass the lesion using computational microengineering</span>
+<span class='talk-transcript__fragment' data-time='755907' id='t-755907'>and send it to a new body, a whole body called an exoskeleton,</span>
+<span class='talk-transcript__fragment' data-time='763021' id='t-763021'>a whole robotic suit that will become the new body of these patients.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='768588' id='t-768588'>And you can see an image produced by this consortium.</span>
+<span class='talk-transcript__fragment' data-time='772714' id='t-772714'>This is a nonprofit consortium called the Walk Again Project</span>
+<span class='talk-transcript__fragment' data-time='776773' id='t-776773'>that is putting together scientists from Europe,</span>
+<span class='talk-transcript__fragment' data-time='779556' id='t-779556'>from here in the United States, and in Brazil</span>
+<span class='talk-transcript__fragment' data-time='781421' id='t-781421'>together to work to actually get this new body built --</span>
+<span class='talk-transcript__fragment' data-time='785938' id='t-785938'>a body that we believe, through the same plastic mechanisms</span>
+<span class='talk-transcript__fragment' data-time='789272' id='t-789272'>that allow Aurora and other monkeys to use these tools through a brain-machine interface</span>
+<span class='talk-transcript__fragment' data-time='795074' id='t-795074'>and that allows us to incorporate the tools that we produce and use in our daily life.</span>
+<span class='talk-transcript__fragment' data-time='800704' id='t-800704'>This same mechanism, we hope, will allow these patients,</span>
+<span class='talk-transcript__fragment' data-time='804388' id='t-804388'>not only to imagine again the movements that they want to make</span>
+<span class='talk-transcript__fragment' data-time='808156' id='t-808156'>and translate them into movements of this new body,</span>
+<span class='talk-transcript__fragment' data-time='811363' id='t-811363'>but for this body to be assimilated as the new body that the brain controls.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='818121' id='t-818121'>So I was told about 10 years ago</span>
+<span class='talk-transcript__fragment' data-time='821972' id='t-821972'>that this would never happen, that this was close to impossible.</span>
+<span class='talk-transcript__fragment' data-time='827038' id='t-827038'>And I can only tell you that as a scientist,</span>
+<span class='talk-transcript__fragment' data-time='829489' id='t-829489'>I grew up in southern Brazil in the mid-'60s</span>
+<span class='talk-transcript__fragment' data-time='832475' id='t-832475'>watching a few crazy guys telling [us] that they would go to the Moon.</span>
+<span class='talk-transcript__fragment' data-time='837523' id='t-837523'>And I was five years old,</span>
+<span class='talk-transcript__fragment' data-time='838984' id='t-838984'>and I never understood why NASA didn't hire Captain Kirk and Spock to do the job;</span>
+<span class='talk-transcript__fragment' data-time='843224' id='t-843224'>after all, they were very proficient --</span>
+<span class='talk-transcript__fragment' data-time='845656' id='t-845656'>but just seeing that as a kid</span>
+<span class='talk-transcript__fragment' data-time='849106' id='t-849106'>made me believe, as my grandmother used to tell me,</span>
+<span class='talk-transcript__fragment' data-time='852091' id='t-852091'>that &quot;impossible is just the possible</span>
+<span class='talk-transcript__fragment' data-time='853936' id='t-853936'>that someone has not put in enough effort to make it come true.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='857840' id='t-857840'>So they told me that it's impossible to make someone walk.</span>
+<span class='talk-transcript__fragment' data-time='861639' id='t-861639'>I think I'm going to follow my grandmother's advice.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='864890' id='t-864890'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='866340' id='t-866340'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

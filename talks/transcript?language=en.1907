@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Rana el Kaliouby: This app knows how you feel -- from the look on your face | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Rana el Kaliouby: This app knows how you feel -- from the look on your face | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Our emotions influence every aspect of our lives -- how we learn, how we communicate, how we make decisions. Yet they’re absent from our digital lives; the devices and apps we interact with have no way of knowing how we feel. Scientist Rana el Kaliouby aims to change that. She demos a powerful new technology that reads your facial expressions and matches them to corresponding emotions. This “emotion engine” has big implications, she says, and could change not just how we interact with machines -- but with each other." name="description" />
+<meta content="Rana el Kaliouby" name="author" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;This app knows how you feel -- from the look on your face&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7942398dd4f5b61691f12872b6e787cf53dec95f_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7942398dd4f5b61691f12872b6e787cf53dec95f_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Our emotions influence every aspect of our lives -- how we learn, how we communicate, how we make decisions. Yet they’re absent from our digital lives; the devices and apps we interact with have no way of knowing how we feel. Scientist Rana el Kaliouby aims to change that. She demos a powerful new technology that reads your facial expressions and matches them to corresponding emotions. This “emotion engine” has big implications, she says, and could change not just how we interact with machines -- but with each other." property="og:description" />
+<meta content="http://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2279?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face'>
+<option value='sq'>Albanian</option>
+<option value='ar'>Arabic</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2279?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="664" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7942398dd4f5b61691f12872b6e787cf53dec95f_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:04</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Rana el Kaliouby</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2279?language=en' lang='en'>
+This app knows how you feel — from the look on your face
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jun 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='556' id='t-556'>Our emotions influence
+every aspect of our lives,</span>
+<span class='talk-transcript__fragment' data-time='4573' id='t-4573'>from our health and how we learn,
+to how we do business and make decisions,</span>
+<span class='talk-transcript__fragment' data-time='8149' id='t-8149'>big ones and small.</span>
+<span class='talk-transcript__fragment' data-time='10672' id='t-10672'>Our emotions also influence
+how we connect with one another.</span>
+<span class='talk-transcript__fragment' data-time='15132' id='t-15132'>We've evolved to live
+in a world like this,</span>
+<span class='talk-transcript__fragment' data-time='19108' id='t-19108'>but instead, we're living
+more and more of our lives like this --</span>
+<span class='talk-transcript__fragment' data-time='23427' id='t-23427'>this is the text message
+from my daughter last night --</span>
+<span class='talk-transcript__fragment' data-time='26561' id='t-26561'>in a world that's devoid of emotion.</span>
+<span class='talk-transcript__fragment' data-time='29301' id='t-29301'>So I'm on a mission to change that.</span>
+<span class='talk-transcript__fragment' data-time='31252' id='t-31252'>I want to bring emotions
+back into our digital experiences.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='36223' id='t-36223'>I started on this path 15 years ago.</span>
+<span class='talk-transcript__fragment' data-time='39300' id='t-39300'>I was a computer scientist in Egypt,</span>
+<span class='talk-transcript__fragment' data-time='41366' id='t-41366'>and I had just gotten accepted to
+a Ph.D. program at Cambridge University.</span>
+<span class='talk-transcript__fragment' data-time='45871' id='t-45871'>So I did something quite unusual</span>
+<span class='talk-transcript__fragment' data-time='47984' id='t-47984'>for a young newlywed Muslim Egyptian wife:</span>
+<span class='talk-transcript__fragment' data-time='53599' id='t-53599'>With the support of my husband,
+who had to stay in Egypt,</span>
+<span class='talk-transcript__fragment' data-time='56598' id='t-56598'>I packed my bags and I moved to England.</span>
+<span class='talk-transcript__fragment' data-time='59616' id='t-59616'>At Cambridge, thousands of miles
+away from home,</span>
+<span class='talk-transcript__fragment' data-time='62844' id='t-62844'>I realized I was spending
+more hours with my laptop</span>
+<span class='talk-transcript__fragment' data-time='66257' id='t-66257'>than I did with any other human.</span>
+<span class='talk-transcript__fragment' data-time='68486' id='t-68486'>Yet despite this intimacy, my laptop
+had absolutely no idea how I was feeling.</span>
+<span class='talk-transcript__fragment' data-time='73339' id='t-73339'>It had no idea if I was happy,</span>
+<span class='talk-transcript__fragment' data-time='76550' id='t-76550'>having a bad day, or stressed, confused,</span>
+<span class='talk-transcript__fragment' data-time='79538' id='t-79538'>and so that got frustrating.</span>
+<span class='talk-transcript__fragment' data-time='83600' id='t-83600'>Even worse, as I communicated
+online with my family back home,</span>
+<span class='talk-transcript__fragment' data-time='89421' id='t-89421'>I felt that all my emotions
+disappeared in cyberspace.</span>
+<span class='talk-transcript__fragment' data-time='92703' id='t-92703'>I was homesick, I was lonely,
+and on some days I was actually crying,</span>
+<span class='talk-transcript__fragment' data-time='97858' id='t-97858'>but all I had to communicate
+these emotions was this.</span>
+<span class='talk-transcript__fragment' data-time='102786' id='t-102786'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='104806' id='t-104806'>Today's technology
+has lots of I.Q., but no E.Q.;</span>
+<span class='talk-transcript__fragment' data-time='109780' id='t-109780'>lots of cognitive intelligence,
+but no emotional intelligence.</span>
+<span class='talk-transcript__fragment' data-time='112956' id='t-112956'>So that got me thinking,</span>
+<span class='talk-transcript__fragment' data-time='115153' id='t-115153'>what if our technology
+could sense our emotions?</span>
+<span class='talk-transcript__fragment' data-time='118777' id='t-118777'>What if our devices could sense
+how we felt and reacted accordingly,</span>
+<span class='talk-transcript__fragment' data-time='122853' id='t-122853'>just the way an emotionally
+intelligent friend would?</span>
+<span class='talk-transcript__fragment' data-time='126666' id='t-126666'>Those questions led me and my team</span>
+<span class='talk-transcript__fragment' data-time='130230' id='t-130230'>to create technologies that can read
+and respond to our emotions,</span>
+<span class='talk-transcript__fragment' data-time='134607' id='t-134607'>and our starting point was the human face.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='138577' id='t-138577'>So our human face happens to be
+one of the most powerful channels</span>
+<span class='talk-transcript__fragment' data-time='141750' id='t-141750'>that we all use to communicate
+social and emotional states,</span>
+<span class='talk-transcript__fragment' data-time='145766' id='t-145766'>everything from enjoyment, surprise,</span>
+<span class='talk-transcript__fragment' data-time='148776' id='t-148776'>empathy and curiosity.</span>
+<span class='talk-transcript__fragment' data-time='152979' id='t-152979'>In emotion science, we call each
+facial muscle movement an action unit.</span>
+<span class='talk-transcript__fragment' data-time='157907' id='t-157907'>So for example, action unit 12,</span>
+<span class='talk-transcript__fragment' data-time='160832' id='t-160832'>it's not a Hollywood blockbuster,</span>
+<span class='talk-transcript__fragment' data-time='162870' id='t-162870'>it is actually a lip corner pull,
+which is the main component of a smile.</span>
+<span class='talk-transcript__fragment' data-time='166312' id='t-166312'>Try it everybody. Let's get
+some smiles going on.</span>
+<span class='talk-transcript__fragment' data-time='169300' id='t-169300'>Another example is action unit 4.
+It's the brow furrow.</span>
+<span class='talk-transcript__fragment' data-time='171954' id='t-171954'>It's when you draw your eyebrows together</span>
+<span class='talk-transcript__fragment' data-time='174192' id='t-174192'>and you create all
+these textures and wrinkles.</span>
+<span class='talk-transcript__fragment' data-time='176459' id='t-176459'>We don't like them, but it's
+a strong indicator of a negative emotion.</span>
+<span class='talk-transcript__fragment' data-time='180754' id='t-180754'>So we have about 45 of these action units,</span>
+<span class='talk-transcript__fragment' data-time='182960' id='t-182960'>and they combine to express
+hundreds of emotions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186350' id='t-186350'>Teaching a computer to read
+these facial emotions is hard,</span>
+<span class='talk-transcript__fragment' data-time='190251' id='t-190251'>because these action units,
+they can be fast, they're subtle,</span>
+<span class='talk-transcript__fragment' data-time='193223' id='t-193223'>and they combine in many different ways.</span>
+<span class='talk-transcript__fragment' data-time='195777' id='t-195777'>So take, for example,
+the smile and the smirk.</span>
+<span class='talk-transcript__fragment' data-time='199515' id='t-199515'>They look somewhat similar,
+but they mean very different things.</span>
+<span class='talk-transcript__fragment' data-time='203268' id='t-203268'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='204986' id='t-204986'>So the smile is positive,</span>
+<span class='talk-transcript__fragment' data-time='207990' id='t-207990'>a smirk is often negative.</span>
+<span class='talk-transcript__fragment' data-time='209260' id='t-209260'>Sometimes a smirk
+can make you become famous.</span>
+<span class='talk-transcript__fragment' data-time='213136' id='t-213136'>But seriously, it's important
+for a computer to be able</span>
+<span class='talk-transcript__fragment' data-time='215960' id='t-215960'>to tell the difference
+between the two expressions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='218815' id='t-218815'>So how do we do that?</span>
+<span class='talk-transcript__fragment' data-time='220627' id='t-220627'>We give our algorithms</span>
+<span class='talk-transcript__fragment' data-time='222414' id='t-222414'>tens of thousands of examples
+of people we know to be smiling,</span>
+<span class='talk-transcript__fragment' data-time='226524' id='t-226524'>from different ethnicities, ages, genders,</span>
+<span class='talk-transcript__fragment' data-time='229589' id='t-229589'>and we do the same for smirks.</span>
+<span class='talk-transcript__fragment' data-time='232400' id='t-232400'>And then, using deep learning,</span>
+<span class='talk-transcript__fragment' data-time='233954' id='t-233954'>the algorithm looks for all these
+textures and wrinkles</span>
+<span class='talk-transcript__fragment' data-time='236810' id='t-236810'>and shape changes on our face,</span>
+<span class='talk-transcript__fragment' data-time='239390' id='t-239390'>and basically learns that all smiles
+have common characteristics,</span>
+<span class='talk-transcript__fragment' data-time='242592' id='t-242592'>all smirks have subtly
+different characteristics.</span>
+<span class='talk-transcript__fragment' data-time='245773' id='t-245773'>And the next time it sees a new face,</span>
+<span class='talk-transcript__fragment' data-time='248141' id='t-248141'>it essentially learns that</span>
+<span class='talk-transcript__fragment' data-time='250440' id='t-250440'>this face has the same
+characteristics of a smile,</span>
+<span class='talk-transcript__fragment' data-time='253473' id='t-253473'>and it says, &quot;Aha, I recognize this.
+This is a smile expression.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='258381' id='t-258381'>So the best way to demonstrate
+how this technology works</span>
+<span class='talk-transcript__fragment' data-time='261181' id='t-261181'>is to try a live demo,</span>
+<span class='talk-transcript__fragment' data-time='263317' id='t-263317'>so I need a volunteer,
+preferably somebody with a face.</span>
+<span class='talk-transcript__fragment' data-time='267230' id='t-267230'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='269564' id='t-269564'>Cloe's going to be our volunteer today.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='273325' id='t-273325'>So over the past five years, we've moved
+from being a research project at MIT</span>
+<span class='talk-transcript__fragment' data-time='277783' id='t-277783'>to a company,</span>
+<span class='talk-transcript__fragment' data-time='278939' id='t-278939'>where my team has worked really hard
+to make this technology work,</span>
+<span class='talk-transcript__fragment' data-time='282131' id='t-282131'>as we like to say, in the wild.</span>
+<span class='talk-transcript__fragment' data-time='284540' id='t-284540'>And we've also shrunk it so that
+the core emotion engine</span>
+<span class='talk-transcript__fragment' data-time='287210' id='t-287210'>works on any mobile device
+with a camera, like this iPad.</span>
+<span class='talk-transcript__fragment' data-time='290530' id='t-290530'>So let's give this a try.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='294756' id='t-294756'>As you can see, the algorithm
+has essentially found Cloe's face,</span>
+<span class='talk-transcript__fragment' data-time='298680' id='t-298680'>so it's this white bounding box,</span>
+<span class='talk-transcript__fragment' data-time='300372' id='t-300372'>and it's tracking the main
+feature points on her face,</span>
+<span class='talk-transcript__fragment' data-time='302943' id='t-302943'>so her eyebrows, her eyes,
+her mouth and her nose.</span>
+<span class='talk-transcript__fragment' data-time='305799' id='t-305799'>The question is,
+can it recognize her expression?</span>
+<span class='talk-transcript__fragment' data-time='308786' id='t-308786'>So we're going to test the machine.</span>
+<span class='talk-transcript__fragment' data-time='310457' id='t-310457'>So first of all, give me your poker face.
+Yep, awesome. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='314643' id='t-314643'>And then as she smiles,
+this is a genuine smile, it's great.</span>
+<span class='talk-transcript__fragment' data-time='317456' id='t-317456'>So you can see the green bar
+go up as she smiles.</span>
+<span class='talk-transcript__fragment' data-time='319756' id='t-319756'>Now that was a big smile.</span>
+<span class='talk-transcript__fragment' data-time='320978' id='t-320978'>Can you try a subtle smile
+to see if the computer can recognize?</span>
+<span class='talk-transcript__fragment' data-time='324021' id='t-324021'>It does recognize subtle smiles as well.</span>
+<span class='talk-transcript__fragment' data-time='326352' id='t-326352'>We've worked really hard
+to make that happen.</span>
+<span class='talk-transcript__fragment' data-time='328477' id='t-328477'>And then eyebrow raised,
+indicator of surprise.</span>
+<span class='talk-transcript__fragment' data-time='331439' id='t-331439'>Brow furrow, which is
+an indicator of confusion.</span>
+<span class='talk-transcript__fragment' data-time='335688' id='t-335688'>Frown. Yes, perfect.</span>
+<span class='talk-transcript__fragment' data-time='339695' id='t-339695'>So these are all the different
+action units. There's many more of them.</span>
+<span class='talk-transcript__fragment' data-time='343188' id='t-343188'>This is just a slimmed-down demo.</span>
+<span class='talk-transcript__fragment' data-time='345220' id='t-345220'>But we call each reading
+an emotion data point,</span>
+<span class='talk-transcript__fragment' data-time='348368' id='t-348368'>and then they can fire together
+to portray different emotions.</span>
+<span class='talk-transcript__fragment' data-time='351337' id='t-351337'>So on the right side of the demo --
+look like you're happy.</span>
+<span class='talk-transcript__fragment' data-time='355990' id='t-355990'>So that's joy. Joy fires up.</span>
+<span class='talk-transcript__fragment' data-time='357444' id='t-357444'>And then give me a disgust face.</span>
+<span class='talk-transcript__fragment' data-time='359371' id='t-359371'>Try to remember what it was like
+when Zayn left One Direction.</span>
+<span class='talk-transcript__fragment' data-time='363643' id='t-363643'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='365153' id='t-365153'>Yeah, wrinkle your nose. Awesome.</span>
+<span class='talk-transcript__fragment' data-time='369495' id='t-369495'>And the valence is actually quite
+negative, so you must have been a big fan.</span>
+<span class='talk-transcript__fragment' data-time='373226' id='t-373226'>So valence is how positive
+or negative an experience is,</span>
+<span class='talk-transcript__fragment' data-time='375926' id='t-375926'>and engagement is how
+expressive she is as well.</span>
+<span class='talk-transcript__fragment' data-time='378712' id='t-378712'>So imagine if Cloe had access
+to this real-time emotion stream,</span>
+<span class='talk-transcript__fragment' data-time='382126' id='t-382126'>and she could share it
+with anybody she wanted to.</span>
+<span class='talk-transcript__fragment' data-time='384935' id='t-384935'>Thank you.</span>
+<span class='talk-transcript__fragment' data-time='387858' id='t-387858'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='393749' id='t-393749'>So, so far, we have amassed
+12 billion of these emotion data points.</span>
+<span class='talk-transcript__fragment' data-time='399019' id='t-399019'>It's the largest emotion
+database in the world.</span>
+<span class='talk-transcript__fragment' data-time='401630' id='t-401630'>We've collected it
+from 2.9 million face videos,</span>
+<span class='talk-transcript__fragment' data-time='404593' id='t-404593'>people who have agreed
+to share their emotions with us,</span>
+<span class='talk-transcript__fragment' data-time='407193' id='t-407193'>and from 75 countries around the world.</span>
+<span class='talk-transcript__fragment' data-time='410398' id='t-410398'>It's growing every day.</span>
+<span class='talk-transcript__fragment' data-time='412603' id='t-412603'>It blows my mind away</span>
+<span class='talk-transcript__fragment' data-time='414670' id='t-414670'>that we can now quantify something
+as personal as our emotions,</span>
+<span class='talk-transcript__fragment' data-time='417865' id='t-417865'>and we can do it at this scale.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='420100' id='t-420100'>So what have we learned to date?</span>
+<span class='talk-transcript__fragment' data-time='423057' id='t-423057'>Gender.</span>
+<span class='talk-transcript__fragment' data-time='425388' id='t-425388'>Our data confirms something
+that you might suspect.</span>
+<span class='talk-transcript__fragment' data-time='429034' id='t-429034'>Women are more expressive than men.</span>
+<span class='talk-transcript__fragment' data-time='430891' id='t-430891'>Not only do they smile more,
+their smiles last longer,</span>
+<span class='talk-transcript__fragment' data-time='433574' id='t-433574'>and we can now really quantify
+what it is that men and women</span>
+<span class='talk-transcript__fragment' data-time='436478' id='t-436478'>respond to differently.</span>
+<span class='talk-transcript__fragment' data-time='438614' id='t-438614'>Let's do culture: So in the United States,</span>
+<span class='talk-transcript__fragment' data-time='440904' id='t-440904'>women are 40 percent
+more expressive than men,</span>
+<span class='talk-transcript__fragment' data-time='444108' id='t-444108'>but curiously, we don't see any difference
+in the U.K. between men and women.</span>
+<span class='talk-transcript__fragment' data-time='447753' id='t-447753'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='451296' id='t-451296'>Age: People who are 50 years and older</span>
+<span class='talk-transcript__fragment' data-time='455323' id='t-455323'>are 25 percent more emotive
+than younger people.</span>
+<span class='talk-transcript__fragment' data-time='459899' id='t-459899'>Women in their 20s smile a lot more
+than men the same age,</span>
+<span class='talk-transcript__fragment' data-time='463751' id='t-463751'>perhaps a necessity for dating.</span>
+<span class='talk-transcript__fragment' data-time='467590' id='t-467590'>But perhaps what surprised us
+the most about this data</span>
+<span class='talk-transcript__fragment' data-time='470207' id='t-470207'>is that we happen
+to be expressive all the time,</span>
+<span class='talk-transcript__fragment' data-time='473410' id='t-473410'>even when we are sitting
+in front of our devices alone,</span>
+<span class='talk-transcript__fragment' data-time='476243' id='t-476243'>and it's not just when we're watching
+cat videos on Facebook.</span>
+<span class='talk-transcript__fragment' data-time='480217' id='t-480217'>We are expressive when we're emailing,
+texting, shopping online,</span>
+<span class='talk-transcript__fragment' data-time='483227' id='t-483227'>or even doing our taxes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='485527' id='t-485527'>Where is this data used today?</span>
+<span class='talk-transcript__fragment' data-time='487919' id='t-487919'>In understanding how we engage with media,</span>
+<span class='talk-transcript__fragment' data-time='490682' id='t-490682'>so understanding virality
+and voting behavior;</span>
+<span class='talk-transcript__fragment' data-time='493166' id='t-493166'>and also empowering
+or emotion-enabling technology,</span>
+<span class='talk-transcript__fragment' data-time='495906' id='t-495906'>and I want to share some examples
+that are especially close to my heart.</span>
+<span class='talk-transcript__fragment' data-time='501197' id='t-501197'>Emotion-enabled wearable glasses
+can help individuals</span>
+<span class='talk-transcript__fragment' data-time='504265' id='t-504265'>who are visually impaired
+read the faces of others,</span>
+<span class='talk-transcript__fragment' data-time='507493' id='t-507493'>and it can help individuals
+on the autism spectrum interpret emotion,</span>
+<span class='talk-transcript__fragment' data-time='511680' id='t-511680'>something that they really struggle with.</span>
+<span class='talk-transcript__fragment' data-time='515918' id='t-515918'>In education, imagine
+if your learning apps</span>
+<span class='talk-transcript__fragment' data-time='518777' id='t-518777'>sense that you're confused and slow down,</span>
+<span class='talk-transcript__fragment' data-time='521587' id='t-521587'>or that you're bored, so it's sped up,</span>
+<span class='talk-transcript__fragment' data-time='523444' id='t-523444'>just like a great teacher
+would in a classroom.</span>
+<span class='talk-transcript__fragment' data-time='527043' id='t-527043'>What if your wristwatch tracked your mood,</span>
+<span class='talk-transcript__fragment' data-time='529644' id='t-529644'>or your car sensed that you're tired,</span>
+<span class='talk-transcript__fragment' data-time='532337' id='t-532337'>or perhaps your fridge
+knows that you're stressed,</span>
+<span class='talk-transcript__fragment' data-time='534885' id='t-534885'>so it auto-locks to prevent you
+from binge eating. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='540951' id='t-540951'>I would like that, yeah.</span>
+<span class='talk-transcript__fragment' data-time='543668' id='t-543668'>What if, when I was in Cambridge,</span>
+<span class='talk-transcript__fragment' data-time='545595' id='t-545595'>I had access to my real-time
+emotion stream,</span>
+<span class='talk-transcript__fragment' data-time='547908' id='t-547908'>and I could share that with my family
+back home in a very natural way,</span>
+<span class='talk-transcript__fragment' data-time='551437' id='t-551437'>just like I would've if we were all
+in the same room together?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='555408' id='t-555408'>I think five years down the line,</span>
+<span class='talk-transcript__fragment' data-time='558550' id='t-558550'>all our devices are going
+to have an emotion chip,</span>
+<span class='talk-transcript__fragment' data-time='560887' id='t-560887'>and we won't remember what it was like
+when we couldn't just frown at our device</span>
+<span class='talk-transcript__fragment' data-time='564951' id='t-564951'>and our device would say, &quot;Hmm,
+you didn't like that, did you?&quot;</span>
+<span class='talk-transcript__fragment' data-time='569200' id='t-569200'>Our biggest challenge is that there are
+so many applications of this technology,</span>
+<span class='talk-transcript__fragment' data-time='572961' id='t-572961'>my team and I realize that we can't
+build them all ourselves,</span>
+<span class='talk-transcript__fragment' data-time='575864' id='t-575864'>so we've made this technology available
+so that other developers</span>
+<span class='talk-transcript__fragment' data-time='579360' id='t-579360'>can get building and get creative.</span>
+<span class='talk-transcript__fragment' data-time='581474' id='t-581474'>We recognize that
+there are potential risks</span>
+<span class='talk-transcript__fragment' data-time='585560' id='t-585560'>and potential for abuse,</span>
+<span class='talk-transcript__fragment' data-time='587627' id='t-587627'>but personally, having spent
+many years doing this,</span>
+<span class='talk-transcript__fragment' data-time='590576' id='t-590576'>I believe that the benefits to humanity</span>
+<span class='talk-transcript__fragment' data-time='593548' id='t-593548'>from having emotionally
+intelligent technology</span>
+<span class='talk-transcript__fragment' data-time='595823' id='t-595823'>far outweigh the potential for misuse.</span>
+<span class='talk-transcript__fragment' data-time='599399' id='t-599399'>And I invite you all to be
+part of the conversation.</span>
+<span class='talk-transcript__fragment' data-time='601930' id='t-601930'>The more people who know
+about this technology,</span>
+<span class='talk-transcript__fragment' data-time='604484' id='t-604484'>the more we can all have a voice
+in how it's being used.</span>
+<span class='talk-transcript__fragment' data-time='609081' id='t-609081'>So as more and more
+of our lives become digital,</span>
+<span class='talk-transcript__fragment' data-time='613655' id='t-613655'>we are fighting a losing battle
+trying to curb our usage of devices</span>
+<span class='talk-transcript__fragment' data-time='617153' id='t-617153'>in order to reclaim our emotions.</span>
+<span class='talk-transcript__fragment' data-time='620622' id='t-620622'>So what I'm trying to do instead
+is to bring emotions into our technology</span>
+<span class='talk-transcript__fragment' data-time='624536' id='t-624536'>and make our technologies more responsive.</span>
+<span class='talk-transcript__fragment' data-time='626765' id='t-626765'>So I want those devices
+that have separated us</span>
+<span class='talk-transcript__fragment' data-time='629435' id='t-629435'>to bring us back together.</span>
+<span class='talk-transcript__fragment' data-time='631897' id='t-631897'>And by humanizing technology,
+we have this golden opportunity</span>
+<span class='talk-transcript__fragment' data-time='636485' id='t-636485'>to reimagine how we
+connect with machines,</span>
+<span class='talk-transcript__fragment' data-time='639782' id='t-639782'>and therefore, how we, as human beings,</span>
+<span class='talk-transcript__fragment' data-time='644263' id='t-644263'>connect with one another.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='646167' id='t-646167'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='648327' id='t-648327'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Mitch Resnick: Let&#39;s teach kids to code | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Mitch Resnick: Let&#39;s teach kids to code | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Coding isn’t just for computer whizzes, says Mitch Resnick of MIT Media Lab -- it’s for everyone. In a fun, demo-filled talk Resnick outlines the benefits of teaching kids to code, so they can do more than just “read” new technologies -- but also create them. (Filmed at TEDxBeaconStreet.)" name="description" />
+<meta content="Mitch Resnick" name="author" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=zh" hreflang="zh" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Let&#39;s teach kids to code&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f31f296ffb6902d226e403e6431713cf37629b55_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f31f296ffb6902d226e403e6431713cf37629b55_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Coding isn’t just for computer whizzes, says Mitch Resnick of MIT Media Lab -- it’s for everyone. In a fun, demo-filled talk Resnick outlines the benefits of teaching kids to code, so they can do more than just “read” new technologies -- but also create them. (Filmed at TEDxBeaconStreet.)" property="og:description" />
+<meta content="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1657?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='mitch_resnick_let_s_teach_kids_to_code'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='zh'>Chinese, Yue</option>
+<option value='da'>Danish</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1657?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1008" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f31f296ffb6902d226e403e6431713cf37629b55_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:48</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Mitch Resnick</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1657?language=en' lang='en'>
+Let's teach kids to code
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jan 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='651' id='t-651'>It was a Saturday afternoon in May,</span>
+<span class='talk-transcript__fragment' data-time='3830' id='t-3830'>and I suddenly realized</span>
+<span class='talk-transcript__fragment' data-time='6344' id='t-6344'>that the next day was Mother's Day,</span>
+<span class='talk-transcript__fragment' data-time='9798' id='t-9798'>and I hadn't gotten anything for my mom,</span>
+<span class='talk-transcript__fragment' data-time='11644' id='t-11644'>so I started thinking about</span>
+<span class='talk-transcript__fragment' data-time='13045' id='t-13045'>what should I get my mom for Mother's Day?</span>
+<span class='talk-transcript__fragment' data-time='15382' id='t-15382'>I thought, why don't I make her</span>
+<span class='talk-transcript__fragment' data-time='17226' id='t-17226'>an interactive Mother's Day card</span>
+<span class='talk-transcript__fragment' data-time='20275' id='t-20275'>using the Scratch software that I'd been developing</span>
+<span class='talk-transcript__fragment' data-time='22983' id='t-22983'>with my research group at the MIT Media Lab?</span>
+<span class='talk-transcript__fragment' data-time='26800' id='t-26800'>We developed it so that people could easily create</span>
+<span class='talk-transcript__fragment' data-time='30180' id='t-30180'>their own interactive stories and games and animations,</span>
+<span class='talk-transcript__fragment' data-time='34424' id='t-34424'>and then share their creations with one another.</span>
+<span class='talk-transcript__fragment' data-time='38193' id='t-38193'>So I thought, this would be an opportunity to use Scratch</span>
+<span class='talk-transcript__fragment' data-time='42061' id='t-42061'>to make an interactive card for my mom.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='44961' id='t-44961'>Before making my own Mother's Day card,</span>
+<span class='talk-transcript__fragment' data-time='47137' id='t-47137'>I thought I would take a look</span>
+<span class='talk-transcript__fragment' data-time='49122' id='t-49122'>at the Scratch website.</span>
+<span class='talk-transcript__fragment' data-time='50695' id='t-50695'>So over the last several years, kids around the world</span>
+<span class='talk-transcript__fragment' data-time='54053' id='t-54053'>ages 8 and up, have shared their projects,</span>
+<span class='talk-transcript__fragment' data-time='57247' id='t-57247'>and I thought, I wonder if, of those three million projects,</span>
+<span class='talk-transcript__fragment' data-time='60682' id='t-60682'>whether anyone else has thought to put up Mother's Day cards.</span>
+<span class='talk-transcript__fragment' data-time='64067' id='t-64067'>So in the search box I typed in</span>
+<span class='talk-transcript__fragment' data-time='67061' id='t-67061'>&quot;Mother's Day,&quot;</span>
+<span class='talk-transcript__fragment' data-time='68606' id='t-68606'>and I was surprised and delighted to see a list</span>
+<span class='talk-transcript__fragment' data-time='71609' id='t-71609'>of dozens and dozens of Mother's Day cards</span>
+<span class='talk-transcript__fragment' data-time='74313' id='t-74313'>that showed up on the Scratch website,</span>
+<span class='talk-transcript__fragment' data-time='76827' id='t-76827'>many of them just in the past 24 hours</span>
+<span class='talk-transcript__fragment' data-time='79145' id='t-79145'>by procrastinators just like myself.</span>
+<span class='talk-transcript__fragment' data-time='82351' id='t-82351'>So I started taking a look at them. (Music)</span>
+<span class='talk-transcript__fragment' data-time='85473' id='t-85473'>I saw one of them that featured a kitten</span>
+<span class='talk-transcript__fragment' data-time='87929' id='t-87929'>and her mom and wishing her mom a happy Mother's Day.</span>
+<span class='talk-transcript__fragment' data-time='94800' id='t-94800'>And the creator very considerately</span>
+<span class='talk-transcript__fragment' data-time='97331' id='t-97331'>offered a replay for her mom.</span>
+<span class='talk-transcript__fragment' data-time='100835' id='t-100835'>Another one was an interactive project where,</span>
+<span class='talk-transcript__fragment' data-time='103219' id='t-103219'>when you moved the mouse over the letters of &quot;Happy Mom Day,&quot;</span>
+<span class='talk-transcript__fragment' data-time='106417' id='t-106417'>it reveals a special happy Mother's Day slogan.</span>
+<span class='talk-transcript__fragment' data-time='111337' id='t-111337'>(Music) In this one, the creator told a narrative</span>
+<span class='talk-transcript__fragment' data-time='115320' id='t-115320'>about how she had Googled to find out</span>
+<span class='talk-transcript__fragment' data-time='117979' id='t-117979'>when Mother's Day was happening.</span>
+<span class='talk-transcript__fragment' data-time='121096' id='t-121096'>(Typing) And then once she found out when Mother's Day was happening,</span>
+<span class='talk-transcript__fragment' data-time='125239' id='t-125239'>she delivered a special Mother's Day greeting</span>
+<span class='talk-transcript__fragment' data-time='127717' id='t-127717'>of how much she loved her mom.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='131344' id='t-131344'>So I really enjoyed looking at these projects</span>
+<span class='talk-transcript__fragment' data-time='133569' id='t-133569'>and interacting with these projects.</span>
+<span class='talk-transcript__fragment' data-time='135221' id='t-135221'>In fact, I liked it so much that, instead of making my own project,</span>
+<span class='talk-transcript__fragment' data-time='139062' id='t-139062'>I sent my mom links to about a dozen of these projects. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='143816' id='t-143816'>And actually, she reacted exactly the way that I hoped that she would.</span>
+<span class='talk-transcript__fragment' data-time='147396' id='t-147396'>She wrote back to me and she said,</span>
+<span class='talk-transcript__fragment' data-time='148781' id='t-148781'>&quot;I'm so proud to have a son that created the software</span>
+<span class='talk-transcript__fragment' data-time='152048' id='t-152048'>that allowed these kids to make Mother's Day cards for their mothers.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='156160' id='t-156160'>So my mom was happy, and that made me happy,</span>
+<span class='talk-transcript__fragment' data-time='159960' id='t-159960'>but actually I was even happier for another reason.</span>
+<span class='talk-transcript__fragment' data-time='164584' id='t-164584'>I was happy because these kids were using Scratch</span>
+<span class='talk-transcript__fragment' data-time='168543' id='t-168543'>just in the way that we had hoped that they would.</span>
+<span class='talk-transcript__fragment' data-time='171344' id='t-171344'>As they created their interactive Mother's Day cards,</span>
+<span class='talk-transcript__fragment' data-time='174155' id='t-174155'>you could see that they were really</span>
+<span class='talk-transcript__fragment' data-time='176436' id='t-176436'>becoming fluent with new technologies.</span>
+<span class='talk-transcript__fragment' data-time='179748' id='t-179748'>What do I mean by fluent?</span>
+<span class='talk-transcript__fragment' data-time='181211' id='t-181211'>I mean that they were able to start expressing themselves</span>
+<span class='talk-transcript__fragment' data-time='185243' id='t-185243'>and to start expressing their ideas.</span>
+<span class='talk-transcript__fragment' data-time='188020' id='t-188020'>When you become fluent with language,</span>
+<span class='talk-transcript__fragment' data-time='190674' id='t-190674'>it means you can write an entry in your journal</span>
+<span class='talk-transcript__fragment' data-time='194211' id='t-194211'>or tell a joke to someone or write a letter to a friend.</span>
+<span class='talk-transcript__fragment' data-time='198264' id='t-198264'>And it's similar with new technologies.</span>
+<span class='talk-transcript__fragment' data-time='201421' id='t-201421'>By writing, be creating these interactive Mother's Day cards,</span>
+<span class='talk-transcript__fragment' data-time='205603' id='t-205603'>these kids were showing that they were really fluent</span>
+<span class='talk-transcript__fragment' data-time='208133' id='t-208133'>with new technologies.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='209806' id='t-209806'>Now maybe you won't be so surprised by this,</span>
+<span class='talk-transcript__fragment' data-time='212571' id='t-212571'>because a lot of times people feel that</span>
+<span class='talk-transcript__fragment' data-time='215267' id='t-215267'>young people today can do all sorts of things with technology.</span>
+<span class='talk-transcript__fragment' data-time='218667' id='t-218667'>I mean, all of us have heard young people referred to as &quot;digital natives.&quot;</span>
+<span class='talk-transcript__fragment' data-time='223128' id='t-223128'>But actually I'm sort of skeptical about this term.</span>
+<span class='talk-transcript__fragment' data-time='226925' id='t-226925'>I'm not so sure we should be thinking of young people as digital natives.</span>
+<span class='talk-transcript__fragment' data-time='230426' id='t-230426'>When you really look at it, how is it that young people</span>
+<span class='talk-transcript__fragment' data-time='232979' id='t-232979'>spend most of their time using new technologies?</span>
+<span class='talk-transcript__fragment' data-time='236515' id='t-236515'>You often see them in situations like this,</span>
+<span class='talk-transcript__fragment' data-time='240038' id='t-240038'>or like this,</span>
+<span class='talk-transcript__fragment' data-time='242232' id='t-242232'>and there's no doubt that young people</span>
+<span class='talk-transcript__fragment' data-time='243750' id='t-243750'>are very comfortable and familiar browsing</span>
+<span class='talk-transcript__fragment' data-time='247066' id='t-247066'>and chatting and texting and gaming.</span>
+<span class='talk-transcript__fragment' data-time='251588' id='t-251588'>But that doesn't really make you fluent.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='254787' id='t-254787'>So young people today have lots of experience</span>
+<span class='talk-transcript__fragment' data-time='258746' id='t-258746'>and lots of familiarity with interacting with new technologies,</span>
+<span class='talk-transcript__fragment' data-time='262541' id='t-262541'>but a lot less so of creating with new technologies</span>
+<span class='talk-transcript__fragment' data-time='265946' id='t-265946'>and expressing themselves with new technologies.</span>
+<span class='talk-transcript__fragment' data-time='268918' id='t-268918'>It's almost as if they can read</span>
+<span class='talk-transcript__fragment' data-time='271310' id='t-271310'>but not write with new technologies.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='274643' id='t-274643'>And I'm really interested in seeing, how can we help young people become fluent</span>
+<span class='talk-transcript__fragment' data-time='278541' id='t-278541'>so they can write with new technologies?</span>
+<span class='talk-transcript__fragment' data-time='281070' id='t-281070'>And that really means that they need to be able to</span>
+<span class='talk-transcript__fragment' data-time='284430' id='t-284430'>write their own computer programs, or code.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='288942' id='t-288942'>So, increasingly, people are starting to recognize</span>
+<span class='talk-transcript__fragment' data-time='291654' id='t-291654'>the importance of learning to code.</span>
+<span class='talk-transcript__fragment' data-time='294958' id='t-294958'>You know, in recent years, there have been</span>
+<span class='talk-transcript__fragment' data-time='297560' id='t-297560'>hundreds of new organizations and websites</span>
+<span class='talk-transcript__fragment' data-time='300452' id='t-300452'>that are helping young people learn to code.</span>
+<span class='talk-transcript__fragment' data-time='303746' id='t-303746'>You look online, you'll see places like Codecademy</span>
+<span class='talk-transcript__fragment' data-time='307337' id='t-307337'>and events like CoderDojo</span>
+<span class='talk-transcript__fragment' data-time='309708' id='t-309708'>and sites like Girls Who Code,</span>
+<span class='talk-transcript__fragment' data-time='312139' id='t-312139'>or Black Girls Code.</span>
+<span class='talk-transcript__fragment' data-time='313833' id='t-313833'>It seems that everybody is getting into the act.</span>
+<span class='talk-transcript__fragment' data-time='316941' id='t-316941'>You know, just at the beginning of this year,</span>
+<span class='talk-transcript__fragment' data-time='319524' id='t-319524'>at the turn of the new year,</span>
+<span class='talk-transcript__fragment' data-time='320889' id='t-320889'>New York City Mayor Michael Bloomberg</span>
+<span class='talk-transcript__fragment' data-time='323549' id='t-323549'>made a New Year's resolution that he was going to learn</span>
+<span class='talk-transcript__fragment' data-time='325809' id='t-325809'>to code in 2012.</span>
+<span class='talk-transcript__fragment' data-time='328588' id='t-328588'>A few months later, the country of Estonia decided that</span>
+<span class='talk-transcript__fragment' data-time='331756' id='t-331756'>all of its first graders should learn to code.</span>
+<span class='talk-transcript__fragment' data-time='335412' id='t-335412'>And that triggered a debate in the U.K.</span>
+<span class='talk-transcript__fragment' data-time='338204' id='t-338204'>about whether all the children there should learn to code.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='342513' id='t-342513'>Now, for some of you, when you hear about this,</span>
+<span class='talk-transcript__fragment' data-time='345356' id='t-345356'>it might seem sort of strange about everybody learning to code.</span>
+<span class='talk-transcript__fragment' data-time='348964' id='t-348964'>When many people think of coding, they think of it</span>
+<span class='talk-transcript__fragment' data-time='352114' id='t-352114'>as something that only a very narrow sub-community</span>
+<span class='talk-transcript__fragment' data-time='355690' id='t-355690'>of people are going to be doing,</span>
+<span class='talk-transcript__fragment' data-time='358348' id='t-358348'>and they think of coding looking like this.</span>
+<span class='talk-transcript__fragment' data-time='361270' id='t-361270'>And in fact, if this is what coding is like,</span>
+<span class='talk-transcript__fragment' data-time='363436' id='t-363436'>it will only be a narrow sub-community of people</span>
+<span class='talk-transcript__fragment' data-time='365931' id='t-365931'>with special mathematical skills and technological background</span>
+<span class='talk-transcript__fragment' data-time='369003' id='t-369003'>that can code.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='371269' id='t-371269'>But coding doesn't have to be like this.</span>
+<span class='talk-transcript__fragment' data-time='373769' id='t-373769'>Let me show you about what it's like to code in Scratch.</span>
+<span class='talk-transcript__fragment' data-time='377748' id='t-377748'>So in Scratch, to code, you just snap blocks together.</span>
+<span class='talk-transcript__fragment' data-time='382027' id='t-382027'>In this case, you take a move block,</span>
+<span class='talk-transcript__fragment' data-time='383942' id='t-383942'>snap it into a stack,</span>
+<span class='talk-transcript__fragment' data-time='385711' id='t-385711'>and the stacks of blocks control the behaviors</span>
+<span class='talk-transcript__fragment' data-time='388469' id='t-388469'>of the different characters in your game or your story,</span>
+<span class='talk-transcript__fragment' data-time='391987' id='t-391987'>in this case controlling the big fish.</span>
+<span class='talk-transcript__fragment' data-time='394288' id='t-394288'>After you've created your program, you can click on &quot;share,&quot;</span>
+<span class='talk-transcript__fragment' data-time='397739' id='t-397739'>and then share your project with other people,</span>
+<span class='talk-transcript__fragment' data-time='400815' id='t-400815'>so that they can use the project</span>
+<span class='talk-transcript__fragment' data-time='402638' id='t-402638'>and start working on the project as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='405612' id='t-405612'>So, of course, making a fish game isn't the only thing</span>
+<span class='talk-transcript__fragment' data-time='408934' id='t-408934'>you can do with Scratch.</span>
+<span class='talk-transcript__fragment' data-time='410579' id='t-410579'>Of the millions of projects on the Scratch website,</span>
+<span class='talk-transcript__fragment' data-time='412559' id='t-412559'>there's everything from animated stories</span>
+<span class='talk-transcript__fragment' data-time='415383' id='t-415383'>to school science projects</span>
+<span class='talk-transcript__fragment' data-time='417799' id='t-417799'>to anime soap operas</span>
+<span class='talk-transcript__fragment' data-time='419863' id='t-419863'>to virtual construction kits</span>
+<span class='talk-transcript__fragment' data-time='422185' id='t-422185'>to recreations of classic video games</span>
+<span class='talk-transcript__fragment' data-time='424898' id='t-424898'>to political opinion polls</span>
+<span class='talk-transcript__fragment' data-time='427167' id='t-427167'>to trigonometry tutorials</span>
+<span class='talk-transcript__fragment' data-time='429807' id='t-429807'>to interactive artwork, and, yes,</span>
+<span class='talk-transcript__fragment' data-time='432727' id='t-432727'>interactive Mother's Day cards.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='435511' id='t-435511'>So I think there's so many different ways</span>
+<span class='talk-transcript__fragment' data-time='438547' id='t-438547'>that people can express themselves using this,</span>
+<span class='talk-transcript__fragment' data-time='442007' id='t-442007'>to be able to take their ideas and share their ideas with the world.</span>
+<span class='talk-transcript__fragment' data-time='445407' id='t-445407'>And it doesn't just stay on the screen.</span>
+<span class='talk-transcript__fragment' data-time='447969' id='t-447969'>You can also code to interact with the physical world around you.</span>
+<span class='talk-transcript__fragment' data-time='451736' id='t-451736'>Here's an example from Hong Kong,</span>
+<span class='talk-transcript__fragment' data-time='454215' id='t-454215'>where some kids made a game</span>
+<span class='talk-transcript__fragment' data-time='455622' id='t-455622'>and then built their own physical interface device</span>
+<span class='talk-transcript__fragment' data-time='458903' id='t-458903'>and had a light sensor, so the light sensor</span>
+<span class='talk-transcript__fragment' data-time='461795' id='t-461795'>detects the hole in the board,</span>
+<span class='talk-transcript__fragment' data-time='463738' id='t-463738'>so as they move the physical saw,</span>
+<span class='talk-transcript__fragment' data-time='465938' id='t-465938'>the light sensor detects the hole</span>
+<span class='talk-transcript__fragment' data-time='468178' id='t-468178'>and controls the virtual saw on the screen</span>
+<span class='talk-transcript__fragment' data-time='471134' id='t-471134'>and saws down the tree.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='473914' id='t-473914'>We're going to continue to look at new ways</span>
+<span class='talk-transcript__fragment' data-time='476023' id='t-476023'>of bringing together the physical world and the virtual world</span>
+<span class='talk-transcript__fragment' data-time='479079' id='t-479079'>and connecting to the world around us.</span>
+<span class='talk-transcript__fragment' data-time='482007' id='t-482007'>This is an example from a new version of Scratch</span>
+<span class='talk-transcript__fragment' data-time='484240' id='t-484240'>that we'll be releasing in the next few months,</span>
+<span class='talk-transcript__fragment' data-time='487863' id='t-487863'>and we're looking again to be able</span>
+<span class='talk-transcript__fragment' data-time='489913' id='t-489913'>to push you in new directions.</span>
+<span class='talk-transcript__fragment' data-time='491609' id='t-491609'>Here's an example.</span>
+<span class='talk-transcript__fragment' data-time='493873' id='t-493873'>It uses the webcam.</span>
+<span class='talk-transcript__fragment' data-time='497947' id='t-497947'>And as I move my hand, I can pop the balloons</span>
+<span class='talk-transcript__fragment' data-time='502803' id='t-502803'>or I can move the bug.</span>
+<span class='talk-transcript__fragment' data-time='505688' id='t-505688'>So it's a little bit like Microsoft Kinect,</span>
+<span class='talk-transcript__fragment' data-time='508253' id='t-508253'>where you interact with gestures in the world.</span>
+<span class='talk-transcript__fragment' data-time='510969' id='t-510969'>But instead of just playing someone else's game,</span>
+<span class='talk-transcript__fragment' data-time='513213' id='t-513213'>you get to create the games,</span>
+<span class='talk-transcript__fragment' data-time='515455' id='t-515455'>and if you see someone else's game,</span>
+<span class='talk-transcript__fragment' data-time='516838' id='t-516838'>you can just say &quot;see inside,&quot;</span>
+<span class='talk-transcript__fragment' data-time='519478' id='t-519478'>and you can look at the stacks of blocks that control it.</span>
+<span class='talk-transcript__fragment' data-time='522372' id='t-522372'>So there's a new block that says how much video motion there is,</span>
+<span class='talk-transcript__fragment' data-time='525927' id='t-525927'>and then, if there's so much video motion,</span>
+<span class='talk-transcript__fragment' data-time='529048' id='t-529048'>it will then tell the balloon to pop.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='532427' id='t-532427'>The same way that this uses the camera</span>
+<span class='talk-transcript__fragment' data-time='534811' id='t-534811'>to get information into Scratch,</span>
+<span class='talk-transcript__fragment' data-time='537316' id='t-537316'>you can also use the microphone.</span>
+<span class='talk-transcript__fragment' data-time='540323' id='t-540323'>Here's an example of a project using the microphone.</span>
+<span class='talk-transcript__fragment' data-time='544307' id='t-544307'>So I'm going to let all of you control this game</span>
+<span class='talk-transcript__fragment' data-time='546707' id='t-546707'>using your voices.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='548953' id='t-548953'>(Crickets chirping) (Shouts) (Chomping)</span>
+<span class='talk-transcript__fragment' data-time='565409' id='t-565409'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='574038' id='t-574038'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='582822' id='t-582822'>As kids are creating projects like this,</span>
+<span class='talk-transcript__fragment' data-time='585427' id='t-585427'>they're learning to code,</span>
+<span class='talk-transcript__fragment' data-time='587692' id='t-587692'>but even more importantly, they're coding to learn.</span>
+<span class='talk-transcript__fragment' data-time='591626' id='t-591626'>Because as they learn to code,</span>
+<span class='talk-transcript__fragment' data-time='593915' id='t-593915'>it enables them to learn many other things,</span>
+<span class='talk-transcript__fragment' data-time='597235' id='t-597235'>opens up many new opportunities for learning.</span>
+<span class='talk-transcript__fragment' data-time='600107' id='t-600107'>Again, it's useful to make an analogy to reading and writing.</span>
+<span class='talk-transcript__fragment' data-time='604491' id='t-604491'>When you learn to read and write, it opens up</span>
+<span class='talk-transcript__fragment' data-time='607431' id='t-607431'>opportunities for you to learn so many other things.</span>
+<span class='talk-transcript__fragment' data-time='610491' id='t-610491'>When you learn to read, you can then read to learn.</span>
+<span class='talk-transcript__fragment' data-time='614251' id='t-614251'>And it's the same thing with coding.</span>
+<span class='talk-transcript__fragment' data-time='616439' id='t-616439'>If you learn to code, you can code to learn.</span>
+<span class='talk-transcript__fragment' data-time='618986' id='t-618986'>Now some of the things you can learn are sort of obvious.</span>
+<span class='talk-transcript__fragment' data-time='621540' id='t-621540'>You learn more about how computers work.</span>
+<span class='talk-transcript__fragment' data-time='624038' id='t-624038'>But that's just where it starts.</span>
+<span class='talk-transcript__fragment' data-time='626356' id='t-626356'>When you learn to code, it opens up for you to learn</span>
+<span class='talk-transcript__fragment' data-time='628951' id='t-628951'>many other things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='631196' id='t-631196'>Let me show you an example.</span>
+<span class='talk-transcript__fragment' data-time='633542' id='t-633542'>Here's another project,</span>
+<span class='talk-transcript__fragment' data-time='635812' id='t-635812'>and I saw this when I was visiting</span>
+<span class='talk-transcript__fragment' data-time='638080' id='t-638080'>one of the computer clubhouses.</span>
+<span class='talk-transcript__fragment' data-time='640222' id='t-640222'>These are after-school learning centers that we helped start</span>
+<span class='talk-transcript__fragment' data-time='643242' id='t-643242'>that help young people from low-income communities</span>
+<span class='talk-transcript__fragment' data-time='646004' id='t-646004'>learn to express themselves creatively with new technologies.</span>
+<span class='talk-transcript__fragment' data-time='650083' id='t-650083'>And when I went to one of the clubhouses a couple years ago,</span>
+<span class='talk-transcript__fragment' data-time='652878' id='t-652878'>I saw a 13-year-old boy who was using our Scratch software</span>
+<span class='talk-transcript__fragment' data-time='656603' id='t-656603'>to create a game somewhat like this one,</span>
+<span class='talk-transcript__fragment' data-time='659499' id='t-659499'>and he was very happy with his game and proud of his game,</span>
+<span class='talk-transcript__fragment' data-time='662422' id='t-662422'>but also he wanted to do more.</span>
+<span class='talk-transcript__fragment' data-time='665387' id='t-665387'>He wanted to keep score.</span>
+<span class='talk-transcript__fragment' data-time='667691' id='t-667691'>So this was a game where the big fish eats the little fish,</span>
+<span class='talk-transcript__fragment' data-time='670767' id='t-670767'>but he wanted to keep score, so that each time</span>
+<span class='talk-transcript__fragment' data-time='673694' id='t-673694'>the big fish eats the little fish,</span>
+<span class='talk-transcript__fragment' data-time='677072' id='t-677072'>the score would go up and it would keep track,</span>
+<span class='talk-transcript__fragment' data-time='679611' id='t-679611'>and he didn't know how to do that.</span>
+<span class='talk-transcript__fragment' data-time='682123' id='t-682123'>So I showed him.</span>
+<span class='talk-transcript__fragment' data-time='684388' id='t-684388'>In Scratch, you can create something called a variable.</span>
+<span class='talk-transcript__fragment' data-time='687965' id='t-687965'>I'll call it score.</span>
+<span class='talk-transcript__fragment' data-time='692092' id='t-692092'>And that creates some new blocks for you,</span>
+<span class='talk-transcript__fragment' data-time='694923' id='t-694923'>and also creates a little scoreboard that keeps track of the score,</span>
+<span class='talk-transcript__fragment' data-time='699589' id='t-699589'>so each time I click on &quot;change score,&quot; it increments the score.</span>
+<span class='talk-transcript__fragment' data-time='704841' id='t-704841'>So I showed this to the clubhouse member --</span>
+<span class='talk-transcript__fragment' data-time='707366' id='t-707366'>let's call him Victor -- and Victor,</span>
+<span class='talk-transcript__fragment' data-time='710067' id='t-710067'>when he saw that this block would let him increment the score,</span>
+<span class='talk-transcript__fragment' data-time='712869' id='t-712869'>he knew exactly what to do.</span>
+<span class='talk-transcript__fragment' data-time='714685' id='t-714685'>He took the block</span>
+<span class='talk-transcript__fragment' data-time='716999' id='t-716999'>and he put it into the program</span>
+<span class='talk-transcript__fragment' data-time='720043' id='t-720043'>exactly where the big fish eats the little fish.</span>
+<span class='talk-transcript__fragment' data-time='724236' id='t-724236'>So then, each time the big fish eats the little fish,</span>
+<span class='talk-transcript__fragment' data-time='729259' id='t-729259'>he will increment the score, and the score will go up by one.</span>
+<span class='talk-transcript__fragment' data-time='735254' id='t-735254'>And it's in fact working.</span>
+<span class='talk-transcript__fragment' data-time='736951' id='t-736951'>And he saw this, and he was so excited,</span>
+<span class='talk-transcript__fragment' data-time='739205' id='t-739205'>he reached his hand out to me,</span>
+<span class='talk-transcript__fragment' data-time='740884' id='t-740884'>and he said, &quot;Thank you, thank you, thank you.&quot;</span>
+<span class='talk-transcript__fragment' data-time='743433' id='t-743433'>And what went through my mind was,</span>
+<span class='talk-transcript__fragment' data-time='745502' id='t-745502'>how often is it that teachers are thanked by their students</span>
+<span class='talk-transcript__fragment' data-time='748544' id='t-748544'>for teaching them variables? (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='751947' id='t-751947'>It doesn't happen in most classrooms,</span>
+<span class='talk-transcript__fragment' data-time='754428' id='t-754428'>but that's because in most classrooms, when kids learn about variables,</span>
+<span class='talk-transcript__fragment' data-time='757387' id='t-757387'>they don't know why they're learning it.</span>
+<span class='talk-transcript__fragment' data-time='759895' id='t-759895'>It's nothing that, really, they can make use of.</span>
+<span class='talk-transcript__fragment' data-time='762766' id='t-762766'>When you learn ideas like this in Scratch,</span>
+<span class='talk-transcript__fragment' data-time='764928' id='t-764928'>you can learn it in a way that's really meaningful and motivating for you,</span>
+<span class='talk-transcript__fragment' data-time='769031' id='t-769031'>that you can understand the reason for learning variables,</span>
+<span class='talk-transcript__fragment' data-time='772021' id='t-772021'>and we see that kids learn it more deeply</span>
+<span class='talk-transcript__fragment' data-time='774063' id='t-774063'>and learn it better.</span>
+<span class='talk-transcript__fragment' data-time='775478' id='t-775478'>Victor had, I'm sure, been taught about variables in schools,</span>
+<span class='talk-transcript__fragment' data-time='778519' id='t-778519'>but he really didn't -- he wasn't paying attention.</span>
+<span class='talk-transcript__fragment' data-time='780707' id='t-780707'>Now he had a reason for learning variables.</span>
+<span class='talk-transcript__fragment' data-time='782990' id='t-782990'>So when you learn through coding, and coding to learn,</span>
+<span class='talk-transcript__fragment' data-time='786064' id='t-786064'>you're learning it in a meaningful context, and that's the best way of learning things.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='790948' id='t-790948'>So as kids like Victor are creating projects like this,</span>
+<span class='talk-transcript__fragment' data-time='794403' id='t-794403'>they're learning important concepts like variables,</span>
+<span class='talk-transcript__fragment' data-time='797187' id='t-797187'>but that's just the start.</span>
+<span class='talk-transcript__fragment' data-time='799315' id='t-799315'>As Victor worked on this project and created the scripts,</span>
+<span class='talk-transcript__fragment' data-time='803165' id='t-803165'>he was also learning about the process of design,</span>
+<span class='talk-transcript__fragment' data-time='806417' id='t-806417'>how to start with the glimmer of an idea</span>
+<span class='talk-transcript__fragment' data-time='809036' id='t-809036'>and turn it into a fully-fledged, functioning project</span>
+<span class='talk-transcript__fragment' data-time='811942' id='t-811942'>like you see here.</span>
+<span class='talk-transcript__fragment' data-time='814449' id='t-814449'>So he was learning many different core principles of design,</span>
+<span class='talk-transcript__fragment' data-time='818489' id='t-818489'>about how to experiment with new ideas,</span>
+<span class='talk-transcript__fragment' data-time='821731' id='t-821731'>how to take complex ideas and break them down into simpler parts,</span>
+<span class='talk-transcript__fragment' data-time='826436' id='t-826436'>how to collaborate with other people on your projects,</span>
+<span class='talk-transcript__fragment' data-time='829426' id='t-829426'>about how to find and fix bugs when things go wrong,</span>
+<span class='talk-transcript__fragment' data-time='832877' id='t-832877'>how to keep persistent and to persevere</span>
+<span class='talk-transcript__fragment' data-time='835931' id='t-835931'>in the face of frustrations when things aren't working well.</span>
+<span class='talk-transcript__fragment' data-time='839336' id='t-839336'>Now those are important skills</span>
+<span class='talk-transcript__fragment' data-time='841109' id='t-841109'>that aren't just relevant for coding.</span>
+<span class='talk-transcript__fragment' data-time='843977' id='t-843977'>They're relevant for all sorts of different activities.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='846804' id='t-846804'>Now, who knows if Victor is going to grow up and become</span>
+<span class='talk-transcript__fragment' data-time='849972' id='t-849972'>a programmer or a professional computer scientist?</span>
+<span class='talk-transcript__fragment' data-time='852896' id='t-852896'>It's probably not so likely,</span>
+<span class='talk-transcript__fragment' data-time='854708' id='t-854708'>but regardless of what he does,</span>
+<span class='talk-transcript__fragment' data-time='856496' id='t-856496'>he'll be able to make use of these design skills that he learned.</span>
+<span class='talk-transcript__fragment' data-time='860200' id='t-860200'>Regardless of whether he grows up to be a marketing manager</span>
+<span class='talk-transcript__fragment' data-time='862784' id='t-862784'>or a mechanic or a community organizer,</span>
+<span class='talk-transcript__fragment' data-time='865904' id='t-865904'>that these ideas are useful for everybody.</span>
+<span class='talk-transcript__fragment' data-time='868360' id='t-868360'>Again, it's useful to think about this analogy with language.</span>
+<span class='talk-transcript__fragment' data-time='872282' id='t-872282'>When you become fluent with reading and writing,</span>
+<span class='talk-transcript__fragment' data-time='876638' id='t-876638'>it's not something that you're doing</span>
+<span class='talk-transcript__fragment' data-time='879079' id='t-879079'>just to become a professional writer.</span>
+<span class='talk-transcript__fragment' data-time='881039' id='t-881039'>Very few people become professional writers.</span>
+<span class='talk-transcript__fragment' data-time='883736' id='t-883736'>But it's useful for everybody to learn how to read and write.</span>
+<span class='talk-transcript__fragment' data-time='887304' id='t-887304'>Again, the same thing with coding.</span>
+<span class='talk-transcript__fragment' data-time='889399' id='t-889399'>Most people won't grow up to become professional</span>
+<span class='talk-transcript__fragment' data-time='891621' id='t-891621'>computer scientists or programmers,</span>
+<span class='talk-transcript__fragment' data-time='894840' id='t-894840'>but those skills of thinking creatively,</span>
+<span class='talk-transcript__fragment' data-time='897178' id='t-897178'>reasoning systematically, working collaboratively --</span>
+<span class='talk-transcript__fragment' data-time='899692' id='t-899692'>skills you develop when you code in Scratch --</span>
+<span class='talk-transcript__fragment' data-time='902402' id='t-902402'>are things that people can use no matter what they're doing in their work lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='907224' id='t-907224'>And it's not just about your work life.</span>
+<span class='talk-transcript__fragment' data-time='909600' id='t-909600'>Coding can also enable you to</span>
+<span class='talk-transcript__fragment' data-time='912320' id='t-912320'>express your ideas and feelings in your personal life.</span>
+<span class='talk-transcript__fragment' data-time='915496' id='t-915496'>Let me end with just one more example.</span>
+<span class='talk-transcript__fragment' data-time='918169' id='t-918169'>So this is an example that came from</span>
+<span class='talk-transcript__fragment' data-time='921296' id='t-921296'>after I had sent the Mother's Day cards to my mom,</span>
+<span class='talk-transcript__fragment' data-time='925764' id='t-925764'>she decided that she wanted to learn Scratch.</span>
+<span class='talk-transcript__fragment' data-time='928865' id='t-928865'>So she made this project for my birthday</span>
+<span class='talk-transcript__fragment' data-time='931896' id='t-931896'>and sent me a happy birthday Scratch card.</span>
+<span class='talk-transcript__fragment' data-time='935472' id='t-935472'>Now this project is not going to win any prizes for design,</span>
+<span class='talk-transcript__fragment' data-time='939328' id='t-939328'>and you can rest assured that my 83-year-old mom</span>
+<span class='talk-transcript__fragment' data-time='942303' id='t-942303'>is not training to become a professional programmer or computer scientist.</span>
+<span class='talk-transcript__fragment' data-time='946540' id='t-946540'>But working on this project enabled her</span>
+<span class='talk-transcript__fragment' data-time='949512' id='t-949512'>to make a connection to someone that she cares about</span>
+<span class='talk-transcript__fragment' data-time='952178' id='t-952178'>and enabled her to keep on learning new things</span>
+<span class='talk-transcript__fragment' data-time='954986' id='t-954986'>and continuing to practice her creativity</span>
+<span class='talk-transcript__fragment' data-time='957418' id='t-957418'>and developing new ways of expressing herself.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='960593' id='t-960593'>So as we take a look and we see that</span>
+<span class='talk-transcript__fragment' data-time='964804' id='t-964804'>Michael Bloomberg is learning to code,</span>
+<span class='talk-transcript__fragment' data-time='967368' id='t-967368'>all of the children of Estonia learn to code,</span>
+<span class='talk-transcript__fragment' data-time='970018' id='t-970018'>even my mom has learned to code,</span>
+<span class='talk-transcript__fragment' data-time='972218' id='t-972218'>don't you think it's about time that you might be</span>
+<span class='talk-transcript__fragment' data-time='973990' id='t-973990'>thinking about learning to code?</span>
+<span class='talk-transcript__fragment' data-time='975902' id='t-975902'>If you're interested in giving it a try,</span>
+<span class='talk-transcript__fragment' data-time='978095' id='t-978095'>I'd encourage you to go to the Scratch website.</span>
+<span class='talk-transcript__fragment' data-time='980531' id='t-980531'>It's scratch.mit.edu,</span>
+<span class='talk-transcript__fragment' data-time='982556' id='t-982556'>and give a try at coding.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='984378' id='t-984378'>Thanks very much. (Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

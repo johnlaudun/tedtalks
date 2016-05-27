@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Harald Haas: Wireless data from every light bulb | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Harald Haas: Wireless data from every light bulb | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: What if every light bulb in the world could also transmit data? At TEDGlobal, Harald Haas demonstrates, for the first time, a device that could do exactly that. By flickering the light from a single LED, a change too quick for the human eye to detect, he can transmit far more data than a cellular tower -- and do it in a way that&#39;s more efficient, secure and widespread." name="description" />
+<meta content="Harald Haas" name="author" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=hy" hreflang="hy" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=eu" hreflang="eu" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=fr-ca" hreflang="fr-ca" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=sl" hreflang="sl" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Wireless data from every light bulb&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a3a6ed1d04200a0c9bedfd42f0bd9cfae022041_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a3a6ed1d04200a0c9bedfd42f0bd9cfae022041_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: What if every light bulb in the world could also transmit data? At TEDGlobal, Harald Haas demonstrates, for the first time, a device that could do exactly that. By flickering the light from a single LED, a change too quick for the human eye to detect, he can transmit far more data than a cellular tower -- and do it in a way that&#39;s more efficient, secure and widespread." property="og:description" />
+<meta content="http://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592557,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1202?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='harald_haas_wireless_data_from_every_light_bulb'>
+<option value='sq'>Albanian</option>
+<option value='ar'>Arabic</option>
+<option value='hy'>Armenian</option>
+<option value='eu'>Basque</option>
+<option value='bg'>Bulgarian</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='da'>Danish</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='fr-ca'>French (Canada)</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='sk'>Slovak</option>
+<option value='sl'>Slovenian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1202?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="771" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a3a6ed1d04200a0c9bedfd42f0bd9cfae022041_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:51</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Harald Haas</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1202?language=en' lang='en'>
+Wireless data from every light bulb
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Aug 2011
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Do you know</span>
+<span class='talk-transcript__fragment' data-time='2000' id='t-2000'>that we have 1.4 million cellular radio masts</span>
+<span class='talk-transcript__fragment' data-time='5000' id='t-5000'>deployed worldwide?</span>
+<span class='talk-transcript__fragment' data-time='7000' id='t-7000'>And these are base stations.</span>
+<span class='talk-transcript__fragment' data-time='9000' id='t-9000'>And we also have</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>more than five billion</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>of these devices here.</span>
+<span class='talk-transcript__fragment' data-time='15000' id='t-15000'>These are cellular mobile phones.</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>And with these mobile phones,</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>we transmit more than 600 terabytes of data</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>every month.</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>This is a 6 with 14 zeroes --</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>a very large number.</span>
+<span class='talk-transcript__fragment' data-time='28000' id='t-28000'>And wireless communications</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>has become a utility</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>like electricity and water.</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>We use it everyday. We use it in our everyday lives now --</span>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>in our private lives, in our business lives.</span>
+<span class='talk-transcript__fragment' data-time='41000' id='t-41000'>And we even have to be asked sometimes, very kindly,</span>
+<span class='talk-transcript__fragment' data-time='45000' id='t-45000'>to switch off the mobile phone at events like this</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>for good reasons.</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>And it's this importance</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>why I decided to look into the issues</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>that this technology has,</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>because it's so fundamental to our lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>And one of the issues is capacity.</span>
+<span class='talk-transcript__fragment' data-time='61000' id='t-61000'>The way we transmit wireless data is by using electromagnetic waves --</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>in particular, radio waves.</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>And radio waves are limited.</span>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>They are scarce; they are expensive;</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>and we only have a certain range of it.</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>And it's this limitation</span>
+<span class='talk-transcript__fragment' data-time='77000' id='t-77000'>that doesn't cope</span>
+<span class='talk-transcript__fragment' data-time='79000' id='t-79000'>with the demand of wireless data transmissions</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>and the number of bytes and data which are transmitted every month.</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>And we are simply running out of spectrum.</span>
+<span class='talk-transcript__fragment' data-time='86000' id='t-86000'>There's another problem.</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>That is efficiency.</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>These 1.4 million cellular radio masts, or base stations,</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>consume a lot of energy.</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>And mind you, most of the energy</span>
+<span class='talk-transcript__fragment' data-time='97000' id='t-97000'>is not used to transmit the radio waves,</span>
+<span class='talk-transcript__fragment' data-time='99000' id='t-99000'>it is used to cool the base stations.</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>Then the efficiency of such a base station</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>is only at about five percent.</span>
+<span class='talk-transcript__fragment' data-time='107000' id='t-107000'>And that creates a big problem.</span>
+<span class='talk-transcript__fragment' data-time='110000' id='t-110000'>Then there's another issue that you're all aware of.</span>
+<span class='talk-transcript__fragment' data-time='113000' id='t-113000'>You have to switch off your mobile phone</span>
+<span class='talk-transcript__fragment' data-time='115000' id='t-115000'>during flights.</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>In hospitals, they are security issues.</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>And security is another issue.</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>These radio waves penetrate through walls.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>They can be intercepted,</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>and somebody can make use of your network</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>if he has bad intentions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>So these are the main four issues.</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>But on the other hand,</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>we have 14 billion of these:</span>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>light bulbs, light.</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>And light is part of the electromagnetic spectrum.</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>So let's look at this in the context</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>of the entire electromagnetic spectrum, where we have gamma rays.</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>You don't want to get close to gamma rays, it could be dangerous.</span>
+<span class='talk-transcript__fragment' data-time='151000' id='t-151000'>X-rays, useful when you go to hospitals.</span>
+<span class='talk-transcript__fragment' data-time='154000' id='t-154000'>Then there's ultraviolet light.</span>
+<span class='talk-transcript__fragment' data-time='156000' id='t-156000'>it's good for a nice suntan,</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>but otherwise dangerous for the human body.</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>Infrared --</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>due to eye safety regulations,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>can be only used with low power.</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>And then we have the radio waves, they have the issues I've just mentioned.</span>
+<span class='talk-transcript__fragment' data-time='169000' id='t-169000'>And in the middle there, we have this visible light spectrum.</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>It's light,</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>and light has been around for many millions of years.</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>And in fact, it has created us,</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>has created life,</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>has created all the stuff of life.</span>
+<span class='talk-transcript__fragment' data-time='183000' id='t-183000'>So it's inherently safe to use.</span>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>And wouldn't it be great to use that for wireless communications?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>Not only that, I compared [it to] the entire spectrum.</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>I compared the radio waves spectrum --</span>
+<span class='talk-transcript__fragment' data-time='195000' id='t-195000'>the size of it --</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>with the size of the visible light spectrum.</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>And guess what?</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>We have 10,000 times more of that spectrum,</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>which is there for us to use.</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>So not only do we have this huge amount of spectrum,</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>let's compare that with a number I've just mentioned.</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>We have 1.4 million</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>expensively deployed,</span>
+<span class='talk-transcript__fragment' data-time='216000' id='t-216000'>inefficient radio cellular base stations.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>And multiply that by 10,000,</span>
+<span class='talk-transcript__fragment' data-time='221000' id='t-221000'>then you end up at 14 billion.</span>
+<span class='talk-transcript__fragment' data-time='223000' id='t-223000'>14 billion is the number of light bulbs installed already.</span>
+<span class='talk-transcript__fragment' data-time='226000' id='t-226000'>So we have the infrastructure there.</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>Look at the ceiling, you see all these light bulbs.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>Go to the main floor, you see these light bulbs.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>Can we use them for communications?</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>Yes.</span>
+<span class='talk-transcript__fragment' data-time='237000' id='t-237000'>What do we need to do?</span>
+<span class='talk-transcript__fragment' data-time='239000' id='t-239000'>The one thing we need to do</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>is we have to replace these inefficient incandescent light bulbs,</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>florescent lights,</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>with this new technology of LED,</span>
+<span class='talk-transcript__fragment' data-time='249000' id='t-249000'>LED light bulbs.</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>An LED is a semiconductor. It's an electronic device.</span>
+<span class='talk-transcript__fragment' data-time='253000' id='t-253000'>And it has a very nice acute property.</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>Its intensity can be modulated</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>at very high speeds,</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>and it can be switched off at very high speeds.</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>And this is a fundamental basic property</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>that we exploit</span>
+<span class='talk-transcript__fragment' data-time='269000' id='t-269000'>with our technology.</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>So let's show how we do that.</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>Let's go to the closest neighbor to the visible light spectrum --</span>
+<span class='talk-transcript__fragment' data-time='276000' id='t-276000'>go to remote controls.</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>You all know remote controls have an infrared LED --</span>
+<span class='talk-transcript__fragment' data-time='280000' id='t-280000'>basically you switch on the LED, and if it's off, you switch it off.</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>And it creates a simple, low-speed data stream</span>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>in 10,000 bits per second,</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>20,000 bits per second.</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>Not usable for a YouTube video.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='292000' id='t-292000'>What we have done</span>
+<span class='talk-transcript__fragment' data-time='294000' id='t-294000'>is we have developed a technology</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>with which we can furthermore</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>replace the remote control of our light bulb.</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>We transmit with our technology,</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>not only a single data stream,</span>
+<span class='talk-transcript__fragment' data-time='306000' id='t-306000'>we transmit thousands of data streams</span>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>in parallel,</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>at even higher speeds.</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>And the technology we have developed --</span>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>it's called SIM OFDM.</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>And it's spacial modulation --</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>these are the only technical terms, I'm not going into details --</span>
+<span class='talk-transcript__fragment' data-time='321000' id='t-321000'>but this is how we enabled</span>
+<span class='talk-transcript__fragment' data-time='323000' id='t-323000'>that light source</span>
+<span class='talk-transcript__fragment' data-time='325000' id='t-325000'>to transmit data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>You will say, &quot;Okay, this is nice --</span>
+<span class='talk-transcript__fragment' data-time='331000' id='t-331000'>a slide created in 10 minutes.&quot;</span>
+<span class='talk-transcript__fragment' data-time='333000' id='t-333000'>But not only that.</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>What we've done</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>is we have also developed a demonstrator.</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>And I'm showing for the first time in public</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>this visible light demonstrator.</span>
+<span class='talk-transcript__fragment' data-time='344000' id='t-344000'>And what we have here</span>
+<span class='talk-transcript__fragment' data-time='346000' id='t-346000'>is no ordinary desk lamp.</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>We fit in an LED light bulb,</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>worth three U.S. dollars,</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>put in our signal processing technology.</span>
+<span class='talk-transcript__fragment' data-time='356000' id='t-356000'>And then what we have here is a little hole.</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>And the light goes through that hole.</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>There's a receiver.</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>The receiver will convert these little, subtle changes in the amplitude</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>that we create there</span>
+<span class='talk-transcript__fragment' data-time='368000' id='t-368000'>into an electrical signal.</span>
+<span class='talk-transcript__fragment' data-time='370000' id='t-370000'>And that signal is then converted back</span>
+<span class='talk-transcript__fragment' data-time='372000' id='t-372000'>to a high-speed data stream.</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>In the future we hope</span>
+<span class='talk-transcript__fragment' data-time='376000' id='t-376000'>that we can integrate this little hole</span>
+<span class='talk-transcript__fragment' data-time='378000' id='t-378000'>into these smart phones.</span>
+<span class='talk-transcript__fragment' data-time='381000' id='t-381000'>And not only integrate a photo detector here,</span>
+<span class='talk-transcript__fragment' data-time='384000' id='t-384000'>but maybe use the camera inside.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='388000' id='t-388000'>So what happens</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>when I switch on that light?</span>
+<span class='talk-transcript__fragment' data-time='395000' id='t-395000'>As you would expect,</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>it's a light, a desk lamp.</span>
+<span class='talk-transcript__fragment' data-time='399000' id='t-399000'>Put your book beneath it and you can read.</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>It's illuminating the space.</span>
+<span class='talk-transcript__fragment' data-time='404000' id='t-404000'>But at the same time, you see this video coming up here.</span>
+<span class='talk-transcript__fragment' data-time='408000' id='t-408000'>And that's a video, a high-definition video</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>that is transmitted through that light beam.</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>You're critical.</span>
+<span class='talk-transcript__fragment' data-time='415000' id='t-415000'>You think, &quot;Ha, ha, ha.</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>This is a smart academic doing a little bit of tricks here.&quot;</span>
+<span class='talk-transcript__fragment' data-time='420000' id='t-420000'>But let me do this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='429000' id='t-429000'>Once again.</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>Still don't believe?</span>
+<span class='talk-transcript__fragment' data-time='435000' id='t-435000'>It is this light</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>that transmits this high-definition video in a split stream.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>And if you look at the light,</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>it is illuminating as you would expect.</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>You don't notice with your human eye.</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>You don't notice the subtle changes in the amplitude</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>that we impress onto this light bulb.</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>It's serving the purpose of illumination,</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>but at the same time, we are able to transmit this data.</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>And you see,</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>even light from the ceiling comes down here to the receiver.</span>
+<span class='talk-transcript__fragment' data-time='464000' id='t-464000'>It can ignore that constant light,</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>because all the receiver's interested in</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>are subtle changes.</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>You also have a critical question now, and</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>you say, &quot;Okay,</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>do I have to have the light on all the time</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>to have this working?&quot;</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>And the answer is yes.</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>But, you can dim down the light</span>
+<span class='talk-transcript__fragment' data-time='488000' id='t-488000'>to a level that it appears to be off.</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>And you are still able to transmit data -- that's possible.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>So I've mentioned to you the four challenges.</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>Capacity:</span>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>We have 10,000 times more spectrum,</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>10,000 times more LEDs</span>
+<span class='talk-transcript__fragment' data-time='502000' id='t-502000'>installed already in the infrastructure there.</span>
+<span class='talk-transcript__fragment' data-time='504000' id='t-504000'>You would agree with me, hopefully,</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>there's no issue of capacity anymore.</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>Efficiency:</span>
+<span class='talk-transcript__fragment' data-time='510000' id='t-510000'>This is data through illumination --</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>it's first of all an illumination device.</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>And if you do the energy budget,</span>
+<span class='talk-transcript__fragment' data-time='517000' id='t-517000'>the data transmission comes for free --</span>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>highly energy efficient.</span>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>I don't mention the high energy efficiency</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>of these LED light bulbs.</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>If the whole world would deploy them,</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>you would save hundreds of power plants.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>That's aside.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='532000' id='t-532000'>And then I've mentioned the availability.</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>You will agree with me that we have lights in the hospital.</span>
+<span class='talk-transcript__fragment' data-time='537000' id='t-537000'>You need to see what to do.</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>You have lights in an aircraft.</span>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>So it's everywhere in a day there is light.</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>Look around. Everywhere. Look at your smart phone.</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>It has a flashlight, an LED flashlight.</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>These are potential sources for high-speed data transmission.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>And then there's security.</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>You would agree with me</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>that light doesn't penetrate through walls.</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>So no one, if I have a light here,</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>if I have secure data,</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>no one on the other side of this room through that wall</span>
+<span class='talk-transcript__fragment' data-time='566000' id='t-566000'>would be able to read that data.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>And there's only data where there is light.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>So if I don't want that receiver to receive the data,</span>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>then what I could do,</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>turn it away.</span>
+<span class='talk-transcript__fragment' data-time='582000' id='t-582000'>So the data goes in that direction, not there anymore.</span>
+<span class='talk-transcript__fragment' data-time='584000' id='t-584000'>Now we can in fact see where the data is going to.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>So for me,</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>the applications of it,</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>to me, are beyond imagination at the moment.</span>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>We have had a century of very nice, smart application developers.</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>And you only have to notice, where we have light,</span>
+<span class='talk-transcript__fragment' data-time='607000' id='t-607000'>there is a potential way to transmit data.</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>But I can give you a few examples.</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>Well you may see the impact already now.</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>This is a remote operated vehicle</span>
+<span class='talk-transcript__fragment' data-time='619000' id='t-619000'>beneath the ocean.</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>And they use light to illuminate space down there.</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>And this light can be used to transmit wireless data</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>that these things [use] to communicate with each other.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>Intrinsically safe environments</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>like this petrochemical plant --</span>
+<span class='talk-transcript__fragment' data-time='633000' id='t-633000'>you can't use RF, it may generate antenna sparks,</span>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>but you can use light -- you see plenty of light there.</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>In hospitals,</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>for new medical instruments;</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>in streets for traffic control.</span>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>Cars have LED-based headlights, LED-based back lights,</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>and cars can communicate with each other</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>and prevent accidents</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>in the way that they exchange information.</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>Traffic lights can communicate to the car and so on.</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>And then you have these millions of street lamps</span>
+<span class='talk-transcript__fragment' data-time='664000' id='t-664000'>deployed around the world.</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>And every street lamp could be a free access point.</span>
+<span class='talk-transcript__fragment' data-time='669000' id='t-669000'>We call it, in fact, a Li-Fi,</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>light-fidelity.</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>And then we have these aircraft cabins.</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>There are hundreds of lights in an aircraft cabin,</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>and each of these lights</span>
+<span class='talk-transcript__fragment' data-time='683000' id='t-683000'>could be a potential transmitter of wireless data.</span>
+<span class='talk-transcript__fragment' data-time='686000' id='t-686000'>So you could enjoy your most favorite TED video</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>on your long flight back home.</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>Online life. So that is a vision, I think, that is possible.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>So, all we would need to do</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>is to fit a small microchip</span>
+<span class='talk-transcript__fragment' data-time='704000' id='t-704000'>to every potential illumination device.</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>And this would then combine</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>two basic functionalities:</span>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>illumination and wireless data transmission.</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>And it's this symbiosis that I personally believe</span>
+<span class='talk-transcript__fragment' data-time='717000' id='t-717000'>could solve the four essential problems</span>
+<span class='talk-transcript__fragment' data-time='719000' id='t-719000'>that face us in wireless communication these days.</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>And in the future,</span>
+<span class='talk-transcript__fragment' data-time='724000' id='t-724000'>you would not only have 14 billion light bulbs,</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>you may have 14 billion Li-Fis</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>deployed worldwide --</span>
+<span class='talk-transcript__fragment' data-time='732000' id='t-732000'>for a cleaner, a greener,</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>and even a brighter future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='736000' id='t-736000'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

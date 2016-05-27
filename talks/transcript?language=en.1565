@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Frederic Kaplan: How to build an information time machine | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Frederic Kaplan: How to build an information time machine | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Imagine if you could surf Facebook ... from the Middle Ages. Well, it may not be as far off as it sounds. In a fun and interesting talk, researcher and engineer Frederic Kaplan shows off the Venice Time Machine, a project to digitize 80 kilometers of books to create a historical and geographical simulation of Venice across 1000 years. (Filmed at TEDxCaFoscariU.)" name="description" />
+<meta content="Frederic Kaplan" name="author" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;How to build an information time machine&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c93d5e28d30a0ff0670df4ebc1a3ee3e780d25_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c93d5e28d30a0ff0670df4ebc1a3ee3e780d25_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Imagine if you could surf Facebook ... from the Middle Ages. Well, it may not be as far off as it sounds. In a fun and interesting talk, researcher and engineer Frederic Kaplan shows off the Venice Time Machine, a project to digitize 80 kilometers of books to create a historical and geographical simulation of Venice across 1000 years. (Filmed at TEDxCaFoscariU.)" property="og:description" />
+<meta content="http://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1902?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='frederic_kaplan_how_i_built_an_information_time_machine'>
+<option value='ar'>Arabic</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1902?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="620" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c93d5e28d30a0ff0670df4ebc1a3ee3e780d25_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:20</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Frederic Kaplan</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1902?language=en' lang='en'>
+How to build an information time machine
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jan 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='285' id='t-285'>This is an image of the planet Earth.</span>
+<span class='talk-transcript__fragment' data-time='3178' id='t-3178'>It looks very much like the Apollo pictures</span>
+<span class='talk-transcript__fragment' data-time='6271' id='t-6271'>that are very well known.</span>
+<span class='talk-transcript__fragment' data-time='7882' id='t-7882'>There is something different;</span>
+<span class='talk-transcript__fragment' data-time='9952' id='t-9952'>you can click on it,</span>
+<span class='talk-transcript__fragment' data-time='11399' id='t-11399'>and if you click on it,</span>
+<span class='talk-transcript__fragment' data-time='12597' id='t-12597'>you can zoom in on almost any place on the Earth.</span>
+<span class='talk-transcript__fragment' data-time='15669' id='t-15669'>For instance, this is a bird's-eye view</span>
+<span class='talk-transcript__fragment' data-time='17668' id='t-17668'>of the EPFL campus.</span>
+<span class='talk-transcript__fragment' data-time='20334' id='t-20334'>In many cases, you can also see</span>
+<span class='talk-transcript__fragment' data-time='22442' id='t-22442'>how a building looks from a nearby street.</span>
+<span class='talk-transcript__fragment' data-time='26182' id='t-26182'>This is pretty amazing.</span>
+<span class='talk-transcript__fragment' data-time='27604' id='t-27604'>But there's something missing in this wonderful tour:</span>
+<span class='talk-transcript__fragment' data-time='31031' id='t-31031'>It's time.</span>
+<span class='talk-transcript__fragment' data-time='33219' id='t-33219'>i'm not really sure when this picture was taken.</span>
+<span class='talk-transcript__fragment' data-time='36289' id='t-36289'>I'm not even sure it was taken</span>
+<span class='talk-transcript__fragment' data-time='37701' id='t-37701'>at the same moment as the bird's-eye view.</span>
+<span class='talk-transcript__fragment' data-time='43784' id='t-43784'>In my lab, we develop tools</span>
+<span class='talk-transcript__fragment' data-time='45993' id='t-45993'>to travel not only in space</span>
+<span class='talk-transcript__fragment' data-time='47757' id='t-47757'>but also through time.</span>
+<span class='talk-transcript__fragment' data-time='50315' id='t-50315'>The kind of question we're asking is</span>
+<span class='talk-transcript__fragment' data-time='52185' id='t-52185'>Is it possible to build something</span>
+<span class='talk-transcript__fragment' data-time='53578' id='t-53578'>like Google Maps of the past?</span>
+<span class='talk-transcript__fragment' data-time='55756' id='t-55756'>Can I add a slider on top of Google Maps</span>
+<span class='talk-transcript__fragment' data-time='59066' id='t-59066'>and just change the year,</span>
+<span class='talk-transcript__fragment' data-time='60869' id='t-60869'>seeing how it was 100 years before,</span>
+<span class='talk-transcript__fragment' data-time='62660' id='t-62660'>1,000 years before?</span>
+<span class='talk-transcript__fragment' data-time='64329' id='t-64329'>Is that possible?</span>
+<span class='talk-transcript__fragment' data-time='66452' id='t-66452'>Can I reconstruct social networks of the past?</span>
+<span class='talk-transcript__fragment' data-time='68704' id='t-68704'>Can I make a Facebook of the Middle Ages?</span>
+<span class='talk-transcript__fragment' data-time='71753' id='t-71753'>So, can I build time machines?</span>
+<span class='talk-transcript__fragment' data-time='75529' id='t-75529'>Maybe we can just say, &quot;No, it's not possible.&quot;</span>
+<span class='talk-transcript__fragment' data-time='78094' id='t-78094'>Or, maybe, we can think of it from an information point of view.</span>
+<span class='talk-transcript__fragment' data-time='81904' id='t-81904'>This is what I call the information mushroom.</span>
+<span class='talk-transcript__fragment' data-time='85094' id='t-85094'>Vertically, you have the time.</span>
+<span class='talk-transcript__fragment' data-time='86677' id='t-86677'>and horizontally, the amount of digital information available.</span>
+<span class='talk-transcript__fragment' data-time='89417' id='t-89417'>Obviously, in the last 10 years, we have much information.</span>
+<span class='talk-transcript__fragment' data-time='92899' id='t-92899'>And obviously the more we go in the past, the less information we have.</span>
+<span class='talk-transcript__fragment' data-time='96447' id='t-96447'>If we want to build something like Google Maps of the past,</span>
+<span class='talk-transcript__fragment' data-time='98765' id='t-98765'>or Facebook of the past,</span>
+<span class='talk-transcript__fragment' data-time='100259' id='t-100259'>we need to enlarge this space,</span>
+<span class='talk-transcript__fragment' data-time='101833' id='t-101833'>we need to make that like a rectangle.</span>
+<span class='talk-transcript__fragment' data-time='103771' id='t-103771'>How do we do that?</span>
+<span class='talk-transcript__fragment' data-time='105281' id='t-105281'>One way is digitization.</span>
+<span class='talk-transcript__fragment' data-time='107395' id='t-107395'>There's a lot of material available --</span>
+<span class='talk-transcript__fragment' data-time='109190' id='t-109190'>newspaper, printed books, thousands of printed books.</span>
+<span class='talk-transcript__fragment' data-time='115460' id='t-115460'>I can digitize all these.</span>
+<span class='talk-transcript__fragment' data-time='117228' id='t-117228'>I can extract information from these.</span>
+<span class='talk-transcript__fragment' data-time='119965' id='t-119965'>Of course, the more you go in the past,
+the less information you will have.</span>
+<span class='talk-transcript__fragment' data-time='123508' id='t-123508'>So, it might not be enough.</span>
+<span class='talk-transcript__fragment' data-time='126154' id='t-126154'>So, I can do what historians do.</span>
+<span class='talk-transcript__fragment' data-time='128562' id='t-128562'>I can extrapolate.</span>
+<span class='talk-transcript__fragment' data-time='130086' id='t-130086'>This is what we call, in computer science, simulation.</span>
+<span class='talk-transcript__fragment' data-time='134556' id='t-134556'>If I take a log book,</span>
+<span class='talk-transcript__fragment' data-time='136307' id='t-136307'>I can consider, it's not just a log book</span>
+<span class='talk-transcript__fragment' data-time='138711' id='t-138711'>of a Venetian captain going to a particular journey.</span>
+<span class='talk-transcript__fragment' data-time='141683' id='t-141683'>I can consider it is actually a log book</span>
+<span class='talk-transcript__fragment' data-time='143326' id='t-143326'>which is representative of
+many journeys of that period.</span>
+<span class='talk-transcript__fragment' data-time='145908' id='t-145908'>I'm extrapolating.</span>
+<span class='talk-transcript__fragment' data-time='148153' id='t-148153'>If I have a painting of a facade,</span>
+<span class='talk-transcript__fragment' data-time='150191' id='t-150191'>I can consider it's not just that particular building,</span>
+<span class='talk-transcript__fragment' data-time='152942' id='t-152942'>but probably it also shares the same grammar</span>
+<span class='talk-transcript__fragment' data-time='156874' id='t-156874'>of buildings where we lost any information.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='160915' id='t-160915'>So if we want to construct a time machine,</span>
+<span class='talk-transcript__fragment' data-time='163773' id='t-163773'>we need two things.</span>
+<span class='talk-transcript__fragment' data-time='165112' id='t-165112'>We need very large archives,</span>
+<span class='talk-transcript__fragment' data-time='167346' id='t-167346'>and we need excellent specialists.</span>
+<span class='talk-transcript__fragment' data-time='170088' id='t-170088'>The Venice Time Machine,</span>
+<span class='talk-transcript__fragment' data-time='171962' id='t-171962'>the project I'm going to talk to you about,</span>
+<span class='talk-transcript__fragment' data-time='173767' id='t-173767'>is a joint project between the EPFL</span>
+<span class='talk-transcript__fragment' data-time='176787' id='t-176787'>and the University of Venice Ca'Foscari.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='179765' id='t-179765'>There's something very peculiar about Venice,</span>
+<span class='talk-transcript__fragment' data-time='181930' id='t-181930'>that its administration has been</span>
+<span class='talk-transcript__fragment' data-time='184604' id='t-184604'>very, very bureaucratic.</span>
+<span class='talk-transcript__fragment' data-time='186798' id='t-186798'>They've been keeping track of everything,</span>
+<span class='talk-transcript__fragment' data-time='188991' id='t-188991'>almost like Google today.</span>
+<span class='talk-transcript__fragment' data-time='191906' id='t-191906'>At the Archivio di Stato,</span>
+<span class='talk-transcript__fragment' data-time='193420' id='t-193420'>you have 80 kilometers of archives</span>
+<span class='talk-transcript__fragment' data-time='195184' id='t-195184'>documenting every aspect</span>
+<span class='talk-transcript__fragment' data-time='197193' id='t-197193'>of the life of Venice over
+more than 1,000 years.</span>
+<span class='talk-transcript__fragment' data-time='199439' id='t-199439'>You have every boat that goes out,</span>
+<span class='talk-transcript__fragment' data-time='201359' id='t-201359'>every boat that comes in.</span>
+<span class='talk-transcript__fragment' data-time='202435' id='t-202435'>You have every change that was made in the city.</span>
+<span class='talk-transcript__fragment' data-time='205232' id='t-205232'>This is all there.</span>
+<span class='talk-transcript__fragment' data-time='208523' id='t-208523'>We are setting up a 10-year digitization program</span>
+<span class='talk-transcript__fragment' data-time='212431' id='t-212431'>which has the objective of transforming</span>
+<span class='talk-transcript__fragment' data-time='214108' id='t-214108'>this immense archive</span>
+<span class='talk-transcript__fragment' data-time='215492' id='t-215492'>into a giant information system.</span>
+<span class='talk-transcript__fragment' data-time='217918' id='t-217918'>The type of objective we want to reach</span>
+<span class='talk-transcript__fragment' data-time='219775' id='t-219775'>is 450 books a day that can be digitized.</span>
+<span class='talk-transcript__fragment' data-time='224501' id='t-224501'>Of course, when you digitize, that's not enough,</span>
+<span class='talk-transcript__fragment' data-time='226748' id='t-226748'>because these documents,</span>
+<span class='talk-transcript__fragment' data-time='228035' id='t-228035'>most of them are in Latin, in Tuscan,</span>
+<span class='talk-transcript__fragment' data-time='230689' id='t-230689'>in Venetian dialect,</span>
+<span class='talk-transcript__fragment' data-time='232204' id='t-232204'>so you need to transcribe them,</span>
+<span class='talk-transcript__fragment' data-time='233879' id='t-233879'>to translate them in some cases,</span>
+<span class='talk-transcript__fragment' data-time='235560' id='t-235560'>to index them,</span>
+<span class='talk-transcript__fragment' data-time='236680' id='t-236680'>and this is obviously not easy.</span>
+<span class='talk-transcript__fragment' data-time='238844' id='t-238844'>In particular, traditional optical
+character recognition method</span>
+<span class='talk-transcript__fragment' data-time='242688' id='t-242688'>that can be used for printed manuscripts,</span>
+<span class='talk-transcript__fragment' data-time='244112' id='t-244112'>they do not work well on the handwritten document.</span>
+<span class='talk-transcript__fragment' data-time='248116' id='t-248116'>So the solution is actually to take inspiration</span>
+<span class='talk-transcript__fragment' data-time='250246' id='t-250246'>from another domain: speech recognition.</span>
+<span class='talk-transcript__fragment' data-time='253147' id='t-253147'>This is a domain of something 
+that seems impossible,</span>
+<span class='talk-transcript__fragment' data-time='255202' id='t-255202'>which can actually be done,</span>
+<span class='talk-transcript__fragment' data-time='257739' id='t-257739'>simply by putting additional constraints.</span>
+<span class='talk-transcript__fragment' data-time='259933' id='t-259933'>If you have a very good model</span>
+<span class='talk-transcript__fragment' data-time='261519' id='t-261519'>of a language which is used,</span>
+<span class='talk-transcript__fragment' data-time='263045' id='t-263045'>if you have a very good model of a document,</span>
+<span class='talk-transcript__fragment' data-time='265131' id='t-265131'>how well they are structured.</span>
+<span class='talk-transcript__fragment' data-time='266563' id='t-266563'>And these are administrative documents.</span>
+<span class='talk-transcript__fragment' data-time='267931' id='t-267931'>They are well structured in many cases.</span>
+<span class='talk-transcript__fragment' data-time='270063' id='t-270063'>If you divide this huge archive into smaller subsets</span>
+<span class='talk-transcript__fragment' data-time='273371' id='t-273371'>where a smaller subset
+actually shares similar features,</span>
+<span class='talk-transcript__fragment' data-time='276248' id='t-276248'>then there's a chance of success.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='282761' id='t-282761'>If we reach that stage, then there's something else:</span>
+<span class='talk-transcript__fragment' data-time='285196' id='t-285196'>we can extract from this document events.</span>
+<span class='talk-transcript__fragment' data-time='288718' id='t-288718'>Actually probably 10 billion events</span>
+<span class='talk-transcript__fragment' data-time='291016' id='t-291016'>can be extracted from this archive.</span>
+<span class='talk-transcript__fragment' data-time='292947' id='t-292947'>And this giant information system</span>
+<span class='talk-transcript__fragment' data-time='294671' id='t-294671'>can be searched in many ways.</span>
+<span class='talk-transcript__fragment' data-time='296487' id='t-296487'>You can ask questions like,</span>
+<span class='talk-transcript__fragment' data-time='297855' id='t-297855'>&quot;Who lived in this palazzo in 1323?&quot;</span>
+<span class='talk-transcript__fragment' data-time='300615' id='t-300615'>&quot;How much cost a sea bream at the Realto market</span>
+<span class='talk-transcript__fragment' data-time='302837' id='t-302837'>in 1434?&quot;</span>
+<span class='talk-transcript__fragment' data-time='304561' id='t-304561'>&quot;What was the salary</span>
+<span class='talk-transcript__fragment' data-time='306021' id='t-306021'>of a glass maker in Murano</span>
+<span class='talk-transcript__fragment' data-time='308066' id='t-308066'>maybe over a decade?&quot;</span>
+<span class='talk-transcript__fragment' data-time='309472' id='t-309472'>You can ask even bigger questions</span>
+<span class='talk-transcript__fragment' data-time='310894' id='t-310894'>because it will be semantically coded.</span>
+<span class='talk-transcript__fragment' data-time='313632' id='t-313632'>And then what you can do is put that in space,</span>
+<span class='talk-transcript__fragment' data-time='315772' id='t-315772'>because much of this information is spatial.</span>
+<span class='talk-transcript__fragment' data-time='317945' id='t-317945'>And from that, you can do things like</span>
+<span class='talk-transcript__fragment' data-time='319880' id='t-319880'>reconstructing this extraordinary journey</span>
+<span class='talk-transcript__fragment' data-time='321993' id='t-321993'>of that city that managed to
+have a sustainable development</span>
+<span class='talk-transcript__fragment' data-time='325349' id='t-325349'>over a thousand years,</span>
+<span class='talk-transcript__fragment' data-time='327475' id='t-327475'>managing to have all the time</span>
+<span class='talk-transcript__fragment' data-time='329095' id='t-329095'>a form of equilibrium with its environment.</span>
+<span class='talk-transcript__fragment' data-time='331956' id='t-331956'>You can reconstruct that journey,</span>
+<span class='talk-transcript__fragment' data-time='333204' id='t-333204'>visualize it in many different ways.</span>
+<span class='talk-transcript__fragment' data-time='336100' id='t-336100'>But of course, you cannot understand 
+Venice if you just look at the city.</span>
+<span class='talk-transcript__fragment' data-time='338799' id='t-338799'>You have to put it in a larger European context.</span>
+<span class='talk-transcript__fragment' data-time='341195' id='t-341195'>So the idea is also to document all the things</span>
+<span class='talk-transcript__fragment' data-time='344016' id='t-344016'>that worked at the European level.</span>
+<span class='talk-transcript__fragment' data-time='346439' id='t-346439'>We can reconstruct also the journey</span>
+<span class='talk-transcript__fragment' data-time='348403' id='t-348403'>of the Venetian maritime empire,</span>
+<span class='talk-transcript__fragment' data-time='350393' id='t-350393'>how it progressively controlled the Adriatic Sea,</span>
+<span class='talk-transcript__fragment' data-time='353559' id='t-353559'>how it became the most powerful medieval empire</span>
+<span class='talk-transcript__fragment' data-time='357305' id='t-357305'>of its time,</span>
+<span class='talk-transcript__fragment' data-time='358866' id='t-358866'>controlling most of the sea routes</span>
+<span class='talk-transcript__fragment' data-time='361038' id='t-361038'>from the east to the south.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='365305' id='t-365305'>But you can even do other things,</span>
+<span class='talk-transcript__fragment' data-time='367621' id='t-367621'>because in these maritime routes,</span>
+<span class='talk-transcript__fragment' data-time='369898' id='t-369898'>there are regular patterns.</span>
+<span class='talk-transcript__fragment' data-time='371889' id='t-371889'>You can go one step beyond</span>
+<span class='talk-transcript__fragment' data-time='374382' id='t-374382'>and actually create a simulation system,</span>
+<span class='talk-transcript__fragment' data-time='376502' id='t-376502'>create a Mediterranean simulator</span>
+<span class='talk-transcript__fragment' data-time='379317' id='t-379317'>which is capable actually of reconstructing</span>
+<span class='talk-transcript__fragment' data-time='381910' id='t-381910'>even the information we are missing,</span>
+<span class='talk-transcript__fragment' data-time='384112' id='t-384112'>which would enable us to have 
+questions you could ask</span>
+<span class='talk-transcript__fragment' data-time='387100' id='t-387100'>like if you were using a route planner.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='390088' id='t-390088'>&quot;If I am in Corfu in June 1323</span>
+<span class='talk-transcript__fragment' data-time='393159' id='t-393159'>and want to go to Constantinople,</span>
+<span class='talk-transcript__fragment' data-time='395685' id='t-395685'>where can I take a boat?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='397828' id='t-397828'>Probably we can answer this question</span>
+<span class='talk-transcript__fragment' data-time='399195' id='t-399195'>with one or two or three days' precision.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='403668' id='t-403668'>&quot;How much will it cost?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='405275' id='t-405275'>&quot;What are the chance of encountering pirates?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='408867' id='t-408867'>Of course, you understand,</span>
+<span class='talk-transcript__fragment' data-time='410678' id='t-410678'>the central scientific challenge
+of a project like this one</span>
+<span class='talk-transcript__fragment' data-time='413287' id='t-413287'>is qualifying, quantifying and representing</span>
+<span class='talk-transcript__fragment' data-time='417016' id='t-417016'>uncertainty and inconsistency
+at each step of this process.</span>
+<span class='talk-transcript__fragment' data-time='420346' id='t-420346'>There are errors everywhere,</span>
+<span class='talk-transcript__fragment' data-time='423058' id='t-423058'>errors in the document, it's
+the wrong name of the captain,</span>
+<span class='talk-transcript__fragment' data-time='425547' id='t-425547'>some of the boats never actually took to sea.</span>
+<span class='talk-transcript__fragment' data-time='428760' id='t-428760'>There are errors in translation, interpretative biases,</span>
+<span class='talk-transcript__fragment' data-time='433624' id='t-433624'>and on top of that, if you add algorithmic processes,</span>
+<span class='talk-transcript__fragment' data-time='437090' id='t-437090'>you're going to have errors in recognition,</span>
+<span class='talk-transcript__fragment' data-time='440039' id='t-440039'>errors in extraction,</span>
+<span class='talk-transcript__fragment' data-time='442000' id='t-442000'>so you have very, very uncertain data.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='446481' id='t-446481'>So how can we detect and
+correct these inconsistencies?</span>
+<span class='talk-transcript__fragment' data-time='450238' id='t-450238'>How can we represent that form of uncertainty?</span>
+<span class='talk-transcript__fragment' data-time='453898' id='t-453898'>It's difficult. One thing you can do</span>
+<span class='talk-transcript__fragment' data-time='455995' id='t-455995'>is document each step of the process,</span>
+<span class='talk-transcript__fragment' data-time='458221' id='t-458221'>not only coding the historical information</span>
+<span class='talk-transcript__fragment' data-time='460669' id='t-460669'>but what we call the meta-historical information,</span>
+<span class='talk-transcript__fragment' data-time='463348' id='t-463348'>how is historical knowledge constructed,</span>
+<span class='talk-transcript__fragment' data-time='466011' id='t-466011'>documenting each step.</span>
+<span class='talk-transcript__fragment' data-time='468009' id='t-468009'>That will not guarantee that we actually converge</span>
+<span class='talk-transcript__fragment' data-time='469654' id='t-469654'>toward a single story of Venice,</span>
+<span class='talk-transcript__fragment' data-time='472104' id='t-472104'>but probably we can actually reconstruct</span>
+<span class='talk-transcript__fragment' data-time='474242' id='t-474242'>a fully documented potential story of Venice.</span>
+<span class='talk-transcript__fragment' data-time='477290' id='t-477290'>Maybe there's not a single map.</span>
+<span class='talk-transcript__fragment' data-time='478749' id='t-478749'>Maybe there are several maps.</span>
+<span class='talk-transcript__fragment' data-time='480869' id='t-480869'>The system should allow for that,</span>
+<span class='talk-transcript__fragment' data-time='483085' id='t-483085'>because we have to deal with
+a new form of uncertainty,</span>
+<span class='talk-transcript__fragment' data-time='485944' id='t-485944'>which is really new for this type of giant databases.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='490585' id='t-490585'>And how should we communicate</span>
+<span class='talk-transcript__fragment' data-time='492790' id='t-492790'>this new research to a large audience?</span>
+<span class='talk-transcript__fragment' data-time='496769' id='t-496769'>Again, Venice is extraordinary for that.</span>
+<span class='talk-transcript__fragment' data-time='499432' id='t-499432'>With the millions of visitors that come every year,</span>
+<span class='talk-transcript__fragment' data-time='501603' id='t-501603'>it's actually one of the best places</span>
+<span class='talk-transcript__fragment' data-time='503366' id='t-503366'>to try to invent the museum of the future.</span>
+<span class='talk-transcript__fragment' data-time='506354' id='t-506354'>Imagine, horizontally you see the reconstructed map</span>
+<span class='talk-transcript__fragment' data-time='509658' id='t-509658'>of a given year,</span>
+<span class='talk-transcript__fragment' data-time='510944' id='t-510944'>and vertically, you see the document</span>
+<span class='talk-transcript__fragment' data-time='513902' id='t-513902'>that served the reconstruction,</span>
+<span class='talk-transcript__fragment' data-time='515413' id='t-515413'>paintings, for instance.</span>
+<span class='talk-transcript__fragment' data-time='518813' id='t-518813'>Imagine an immersive system that permits</span>
+<span class='talk-transcript__fragment' data-time='521393' id='t-521393'>to go and dive and reconstruct
+the Venice of a given year,</span>
+<span class='talk-transcript__fragment' data-time='524895' id='t-524895'>some experience you could share within a group.</span>
+<span class='talk-transcript__fragment' data-time='527610' id='t-527610'>On the contrary, imagine actually that you start</span>
+<span class='talk-transcript__fragment' data-time='529856' id='t-529856'>from a document, a Venetian manuscript,</span>
+<span class='talk-transcript__fragment' data-time='532063' id='t-532063'>and you show, actually, what
+you can construct out of it,</span>
+<span class='talk-transcript__fragment' data-time='535112' id='t-535112'>how it is decoded,</span>
+<span class='talk-transcript__fragment' data-time='536884' id='t-536884'>how the context of that document can be recreated.</span>
+<span class='talk-transcript__fragment' data-time='539299' id='t-539299'>This is an image from an exhibit</span>
+<span class='talk-transcript__fragment' data-time='541184' id='t-541184'>which is currently conducted in Geneva</span>
+<span class='talk-transcript__fragment' data-time='543460' id='t-543460'>with that type of system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='545814' id='t-545814'>So to conclude, we can say that</span>
+<span class='talk-transcript__fragment' data-time='547989' id='t-547989'>research in the humanities is about to undergo</span>
+<span class='talk-transcript__fragment' data-time='551068' id='t-551068'>an evolution which is maybe similar</span>
+<span class='talk-transcript__fragment' data-time='552870' id='t-552870'>to what happened to life sciences 30 years ago.</span>
+<span class='talk-transcript__fragment' data-time='557452' id='t-557452'>It's really a question of scale.</span>
+<span class='talk-transcript__fragment' data-time='562130' id='t-562130'>We see projects which are</span>
+<span class='talk-transcript__fragment' data-time='565433' id='t-565433'>much beyond any single research team can do,</span>
+<span class='talk-transcript__fragment' data-time='569276' id='t-569276'>and this is really new for the humanities,</span>
+<span class='talk-transcript__fragment' data-time='571519' id='t-571519'>which very often take the habit of working</span>
+<span class='talk-transcript__fragment' data-time='575388' id='t-575388'>in small groups or only with a couple of researchers.</span>
+<span class='talk-transcript__fragment' data-time='579396' id='t-579396'>When you visit the Archivio di Stato,</span>
+<span class='talk-transcript__fragment' data-time='581514' id='t-581514'>you feel this is beyond what any single team can do,</span>
+<span class='talk-transcript__fragment' data-time='584336' id='t-584336'>and that should be a joint and common effort.</span>
+<span class='talk-transcript__fragment' data-time='588170' id='t-588170'>So what we must do for this paradigm shift</span>
+<span class='talk-transcript__fragment' data-time='591276' id='t-591276'>is actually foster a new generation</span>
+<span class='talk-transcript__fragment' data-time='593178' id='t-593178'>of &quot;digital humanists&quot;</span>
+<span class='talk-transcript__fragment' data-time='594715' id='t-594715'>that are going to be ready for this shift.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='596805' id='t-596805'>I thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='598764' id='t-598764'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

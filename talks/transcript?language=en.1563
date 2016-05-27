@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Roger Stein: A bold new way to fund drug research | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Roger Stein: A bold new way to fund drug research | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Believe it or not, about 20 years&#39; worth of potentially life-saving drugs are sitting in labs right now, untested. Why? Because they can&#39;t get the funding to go to trials; the financial risk is too high. Roger Stein is a finance guy, and he thinks deeply about mitigating risk. He and some colleagues at MIT came up with a promising new financial model that could move hundreds of drugs into the testing pipeline. (Filmed at TED@StateStreet.)" name="description" />
+<meta content="Roger Stein" name="author" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;A bold new way to fund drug research&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/568bf460212248807e5acde5f149bd29c1307c2a_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/568bf460212248807e5acde5f149bd29c1307c2a_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Believe it or not, about 20 years&#39; worth of potentially life-saving drugs are sitting in labs right now, untested. Why? Because they can&#39;t get the funding to go to trials; the financial risk is too high. Roger Stein is a finance guy, and he thinks deeply about mitigating risk. He and some colleagues at MIT came up with a promising new financial model that could move hundreds of drugs into the testing pipeline. (Filmed at TED@StateStreet.)" property="og:description" />
+<meta content="http://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1901?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='roger_stein_a_bold_new_way_to_fund_drug_research'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1901?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="669" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/568bf460212248807e5acde5f149bd29c1307c2a_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:09</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Roger Stein</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1901?language=en' lang='en'>
+A bold new way to fund drug research
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jan 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Ingenious, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='639' id='t-639'>So this is a picture of my dad and me</span>
+<span class='talk-transcript__fragment' data-time='4404' id='t-4404'>at the beach in Far Rockaway,</span>
+<span class='talk-transcript__fragment' data-time='6994' id='t-6994'>or actually Rockaway Park.</span>
+<span class='talk-transcript__fragment' data-time='8664' id='t-8664'>I'm the one with the blond hair.</span>
+<span class='talk-transcript__fragment' data-time='11354' id='t-11354'>My dad's the guy with the cigarette.</span>
+<span class='talk-transcript__fragment' data-time='13462' id='t-13462'>It was the '60s. A lot of people smoked back then.</span>
+<span class='talk-transcript__fragment' data-time='15829' id='t-15829'>In the summer of 2009,</span>
+<span class='talk-transcript__fragment' data-time='17672' id='t-17672'>my dad was diagnosed with lung cancer.</span>
+<span class='talk-transcript__fragment' data-time='22168' id='t-22168'>Cancer is one of those things
+that actually touches everybody.</span>
+<span class='talk-transcript__fragment' data-time='25798' id='t-25798'>If you're a man in the United States of the America,</span>
+<span class='talk-transcript__fragment' data-time='28302' id='t-28302'>you've got about a one in two chance</span>
+<span class='talk-transcript__fragment' data-time='30380' id='t-30380'>of being diagnosed with cancer during your lifetime.</span>
+<span class='talk-transcript__fragment' data-time='33533' id='t-33533'>If you're a woman, you've got
+about a one in three chance</span>
+<span class='talk-transcript__fragment' data-time='36311' id='t-36311'>of being diagnosed with cancer.</span>
+<span class='talk-transcript__fragment' data-time='38232' id='t-38232'>Everybody knows somebody</span>
+<span class='talk-transcript__fragment' data-time='39731' id='t-39731'>who's been diagnosed with cancer.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='43134' id='t-43134'>Now, my dad's doing better today,</span>
+<span class='talk-transcript__fragment' data-time='44737' id='t-44737'>and part of the reason for that is that</span>
+<span class='talk-transcript__fragment' data-time='48049' id='t-48049'>he was able to participate in the trial</span>
+<span class='talk-transcript__fragment' data-time='50108' id='t-50108'>of an experimental new drug</span>
+<span class='talk-transcript__fragment' data-time='51719' id='t-51719'>that happened to be specially formulated</span>
+<span class='talk-transcript__fragment' data-time='53144' id='t-53144'>and very good for his particular kind of cancer.</span>
+<span class='talk-transcript__fragment' data-time='54938' id='t-54938'>There are over 200 kinds of cancer.</span>
+<span class='talk-transcript__fragment' data-time='58491' id='t-58491'>And what I want to talk about today is</span>
+<span class='talk-transcript__fragment' data-time='60837' id='t-60837'>how we can help more people like my dad,</span>
+<span class='talk-transcript__fragment' data-time='63696' id='t-63696'>because we have to change the way
+we think about raising money</span>
+<span class='talk-transcript__fragment' data-time='66557' id='t-66557'>to fund cancer research.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='69067' id='t-69067'>So a while after my dad was diagnosed,</span>
+<span class='talk-transcript__fragment' data-time='71122' id='t-71122'>I was having coffee with my friend Andrew Lo.</span>
+<span class='talk-transcript__fragment' data-time='74030' id='t-74030'>He's the head of the Laboratory
+for Financial Engineering at MIT,</span>
+<span class='talk-transcript__fragment' data-time='77456' id='t-77456'>where I also have a position,</span>
+<span class='talk-transcript__fragment' data-time='79470' id='t-79470'>and we were talking about cancer.</span>
+<span class='talk-transcript__fragment' data-time='80977' id='t-80977'>And Andrew had been doing
+his own bits of research,</span>
+<span class='talk-transcript__fragment' data-time='83528' id='t-83528'>and one of the things that he had been told</span>
+<span class='talk-transcript__fragment' data-time='85417' id='t-85417'>and that he'd learned from studying the literature</span>
+<span class='talk-transcript__fragment' data-time='90043' id='t-90043'>was that there's actually a big bottleneck.</span>
+<span class='talk-transcript__fragment' data-time='92111' id='t-92111'>It's very difficult to develop new drugs,</span>
+<span class='talk-transcript__fragment' data-time='94389' id='t-94389'>and the reason it's difficult to develop new drugs</span>
+<span class='talk-transcript__fragment' data-time='96168' id='t-96168'>is because in the early stages of drug development,</span>
+<span class='talk-transcript__fragment' data-time='98569' id='t-98569'>the drugs are very risky,</span>
+<span class='talk-transcript__fragment' data-time='99820' id='t-99820'>and they're very expensive.</span>
+<span class='talk-transcript__fragment' data-time='101466' id='t-101466'>So Andrew asked me if I'd want to</span>
+<span class='talk-transcript__fragment' data-time='103121' id='t-103121'>maybe work with him a bit,</span>
+<span class='talk-transcript__fragment' data-time='104333' id='t-104333'>work on some of the math and the analytics</span>
+<span class='talk-transcript__fragment' data-time='105967' id='t-105967'>and see if we could figure out
+something we could do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='109911' id='t-109911'>Now I'm not a scientist.</span>
+<span class='talk-transcript__fragment' data-time='111609' id='t-111609'>You know, I don't know how to build a drug.</span>
+<span class='talk-transcript__fragment' data-time='113507' id='t-113507'>And none of my coauthors, Andrew Lo</span>
+<span class='talk-transcript__fragment' data-time='115908' id='t-115908'>or Jose Maria Fernandez or David Fagnan --</span>
+<span class='talk-transcript__fragment' data-time='118600' id='t-118600'>none of those guys -- are scientists either.</span>
+<span class='talk-transcript__fragment' data-time='121154' id='t-121154'>We don't know the first thing about
+how to make a cancer drug.</span>
+<span class='talk-transcript__fragment' data-time='124590' id='t-124590'>But we know a little bit about risk mitigation</span>
+<span class='talk-transcript__fragment' data-time='126718' id='t-126718'>and a little bit about financial engineering,</span>
+<span class='talk-transcript__fragment' data-time='128966' id='t-128966'>and so we started thinking, what could we do?</span>
+<span class='talk-transcript__fragment' data-time='131059' id='t-131059'>What I'm going to tell you about is some work</span>
+<span class='talk-transcript__fragment' data-time='133008' id='t-133008'>we've been doing over the last couple years</span>
+<span class='talk-transcript__fragment' data-time='135014' id='t-135014'>that we think could fundamentally change the way</span>
+<span class='talk-transcript__fragment' data-time='137907' id='t-137907'>research for cancer and lots
+of other things gets done.</span>
+<span class='talk-transcript__fragment' data-time='141750' id='t-141750'>We want to let the research drive the funding,</span>
+<span class='talk-transcript__fragment' data-time='144163' id='t-144163'>not the other way around.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='146445' id='t-146445'>So in order to get started, let me tell you</span>
+<span class='talk-transcript__fragment' data-time='147675' id='t-147675'>how you get a drug financed.</span>
+<span class='talk-transcript__fragment' data-time='149738' id='t-149738'>Imagine that you're in your lab --</span>
+<span class='talk-transcript__fragment' data-time='151360' id='t-151360'>you're a scientist, you're not like me --</span>
+<span class='talk-transcript__fragment' data-time='153023' id='t-153023'>you're a scientist, and you've developed</span>
+<span class='talk-transcript__fragment' data-time='154877' id='t-154877'>a new compound that you think might be</span>
+<span class='talk-transcript__fragment' data-time='157216' id='t-157216'>therapeutic for somebody with cancer.</span>
+<span class='talk-transcript__fragment' data-time='160115' id='t-160115'>Well, what you do is, you test in animals,</span>
+<span class='talk-transcript__fragment' data-time='162323' id='t-162323'>you test in test tubes,</span>
+<span class='talk-transcript__fragment' data-time='163823' id='t-163823'>but there's this notion of going from the bench</span>
+<span class='talk-transcript__fragment' data-time='165566' id='t-165566'>to the bedside,</span>
+<span class='talk-transcript__fragment' data-time='166976' id='t-166976'>and in order to get from the bench, the lab,</span>
+<span class='talk-transcript__fragment' data-time='168551' id='t-168551'>to the bedside, to the patients,</span>
+<span class='talk-transcript__fragment' data-time='170324' id='t-170324'>you've got to get the drug tested.</span>
+<span class='talk-transcript__fragment' data-time='172382' id='t-172382'>And the way the drug gets tested is through a series</span>
+<span class='talk-transcript__fragment' data-time='174134' id='t-174134'>of, basically, experiments,</span>
+<span class='talk-transcript__fragment' data-time='175994' id='t-175994'>through these large, they're called trials,</span>
+<span class='talk-transcript__fragment' data-time='177842' id='t-177842'>that they do to determine whether the drug is safe</span>
+<span class='talk-transcript__fragment' data-time='180041' id='t-180041'>and whether it works and all these things.</span>
+<span class='talk-transcript__fragment' data-time='182229' id='t-182229'>So the FDA has a very specific protocol.</span>
+<span class='talk-transcript__fragment' data-time='184954' id='t-184954'>In the first phase of this testing,</span>
+<span class='talk-transcript__fragment' data-time='186366' id='t-186366'>which is called testing for toxicity,</span>
+<span class='talk-transcript__fragment' data-time='188761' id='t-188761'>it's called Phase I.</span>
+<span class='talk-transcript__fragment' data-time='190303' id='t-190303'>In the first phase, you give
+the drug to healthy people</span>
+<span class='talk-transcript__fragment' data-time='193084' id='t-193084'>and you see if it actually makes them sick.</span>
+<span class='talk-transcript__fragment' data-time='196333' id='t-196333'>In other words, are the side effects just so severe</span>
+<span class='talk-transcript__fragment' data-time='198220' id='t-198220'>that no matter how much good it does,</span>
+<span class='talk-transcript__fragment' data-time='199584' id='t-199584'>it's not going to be worth it?</span>
+<span class='talk-transcript__fragment' data-time='201059' id='t-201059'>Does it cause heart attacks, kill people,</span>
+<span class='talk-transcript__fragment' data-time='203059' id='t-203059'>liver failure, this kind of thing?</span>
+<span class='talk-transcript__fragment' data-time='204670' id='t-204670'>And it turns out, that's a pretty high hurdle.</span>
+<span class='talk-transcript__fragment' data-time='206619' id='t-206619'>About a third of all drugs drop out at that point.</span>
+<span class='talk-transcript__fragment' data-time='209431' id='t-209431'>In the next phase, you test
+to see if the drug's effective,</span>
+<span class='talk-transcript__fragment' data-time='212195' id='t-212195'>and what you do there is you
+give it to people with cancer</span>
+<span class='talk-transcript__fragment' data-time='214099' id='t-214099'>and you see if it actually makes them better.</span>
+<span class='talk-transcript__fragment' data-time='215718' id='t-215718'>And that's also a higher hurdle. People drop out.</span>
+<span class='talk-transcript__fragment' data-time='217737' id='t-217737'>And in the third phase, you actually
+test it on a very large sample,</span>
+<span class='talk-transcript__fragment' data-time='220557' id='t-220557'>and what you're trying to determine
+is what the right dose is, and also,</span>
+<span class='talk-transcript__fragment' data-time='223753' id='t-223753'>is it better than what's available today?</span>
+<span class='talk-transcript__fragment' data-time='225647' id='t-225647'>If not, then why build it?</span>
+<span class='talk-transcript__fragment' data-time='227686' id='t-227686'>When you're done with all that,</span>
+<span class='talk-transcript__fragment' data-time='229754' id='t-229754'>what you have is a very small percentage of drugs</span>
+<span class='talk-transcript__fragment' data-time='232225' id='t-232225'>that start the process actually
+come out the other side.</span>
+<span class='talk-transcript__fragment' data-time='235164' id='t-235164'>So those blue bottles, those blue bottles save lives,</span>
+<span class='talk-transcript__fragment' data-time='238724' id='t-238724'>and they're also worth billions,</span>
+<span class='talk-transcript__fragment' data-time='240186' id='t-240186'>sometimes billions a year.</span>
+<span class='talk-transcript__fragment' data-time='242558' id='t-242558'>So now here's a question:</span>
+<span class='talk-transcript__fragment' data-time='244240' id='t-244240'>if I were to ask you, for example,</span>
+<span class='talk-transcript__fragment' data-time='247556' id='t-247556'>to make a one-time investment of, say,</span>
+<span class='talk-transcript__fragment' data-time='249625' id='t-249625'>200 million dollars</span>
+<span class='talk-transcript__fragment' data-time='251359' id='t-251359'>to buy one of those bottles,</span>
+<span class='talk-transcript__fragment' data-time='253028' id='t-253028'>so 200 million dollars up front, one time,</span>
+<span class='talk-transcript__fragment' data-time='255227' id='t-255227'>to buy one of those bottles,</span>
+<span class='talk-transcript__fragment' data-time='256349' id='t-256349'>I won't tell you which one it is,</span>
+<span class='talk-transcript__fragment' data-time='258102' id='t-258102'>and in 10 years, I'll tell you whether
+you have one of the blue ones.</span>
+<span class='talk-transcript__fragment' data-time='262033' id='t-262033'>Does that sound like a good deal for anybody?</span>
+<span class='talk-transcript__fragment' data-time='264076' id='t-264076'>No. No, right?</span>
+<span class='talk-transcript__fragment' data-time='265542' id='t-265542'>And of course, it's a very, very risky trial position,</span>
+<span class='talk-transcript__fragment' data-time='267508' id='t-267508'>and that's why it's very hard to get funding,</span>
+<span class='talk-transcript__fragment' data-time='269228' id='t-269228'>but to a first approximation,</span>
+<span class='talk-transcript__fragment' data-time='270940' id='t-270940'>that's actually the proposal.</span>
+<span class='talk-transcript__fragment' data-time='272591' id='t-272591'>You have to fund these things</span>
+<span class='talk-transcript__fragment' data-time='274158' id='t-274158'>from the early stages on. It takes a long time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='277149' id='t-277149'>So Andrew said to me, he said,</span>
+<span class='talk-transcript__fragment' data-time='280590' id='t-280590'>&quot;What if we stop thinking about these as drugs?</span>
+<span class='talk-transcript__fragment' data-time='282939' id='t-282939'>What if we start thinking about
+them as financial assets?&quot;</span>
+<span class='talk-transcript__fragment' data-time='285613' id='t-285613'>They've got really weird payoff
+structures and all that,</span>
+<span class='talk-transcript__fragment' data-time='287690' id='t-287690'>but let's throw everything we know</span>
+<span class='talk-transcript__fragment' data-time='289148' id='t-289148'>about financial engineering at them.</span>
+<span class='talk-transcript__fragment' data-time='290815' id='t-290815'>Let's see if we can use all the tricks of the trade</span>
+<span class='talk-transcript__fragment' data-time='292600' id='t-292600'>to figure out how to make these drugs</span>
+<span class='talk-transcript__fragment' data-time='295404' id='t-295404'>work as financial assets?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='298130' id='t-298130'>Let's create a giant fund.</span>
+<span class='talk-transcript__fragment' data-time='299814' id='t-299814'>In finance, we know what to do</span>
+<span class='talk-transcript__fragment' data-time='301309' id='t-301309'>with assets that are risky.</span>
+<span class='talk-transcript__fragment' data-time='302635' id='t-302635'>You put them in a portfolio</span>
+<span class='talk-transcript__fragment' data-time='304108' id='t-304108'>and you try to smooth out the returns.</span>
+<span class='talk-transcript__fragment' data-time='305788' id='t-305788'>So we did some math, and it turned out</span>
+<span class='talk-transcript__fragment' data-time='307139' id='t-307139'>you could make this work,
+but in order to make it work,</span>
+<span class='talk-transcript__fragment' data-time='309946' id='t-309946'>you need about 80 to 150 drugs.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='312515' id='t-312515'>Now the good news is, there's plenty of drugs</span>
+<span class='talk-transcript__fragment' data-time='314105' id='t-314105'>that are waiting to be tested.</span>
+<span class='talk-transcript__fragment' data-time='315386' id='t-315386'>We've been told that there's a backlog</span>
+<span class='talk-transcript__fragment' data-time='317723' id='t-317723'>of about 20 years of drugs</span>
+<span class='talk-transcript__fragment' data-time='320012' id='t-320012'>that are waiting to be tested but can't be funded.</span>
+<span class='talk-transcript__fragment' data-time='322667' id='t-322667'>In fact, that early stage of the funding process,</span>
+<span class='talk-transcript__fragment' data-time='324773' id='t-324773'>that Phase I and pre-clinical stuff,</span>
+<span class='talk-transcript__fragment' data-time='327009' id='t-327009'>that's actually, in the industry, 
+called the Valley of Death</span>
+<span class='talk-transcript__fragment' data-time='329359' id='t-329359'>because it's where drugs go to die.</span>
+<span class='talk-transcript__fragment' data-time='331034' id='t-331034'>It's very hard to for them to get through there,</span>
+<span class='talk-transcript__fragment' data-time='332611' id='t-332611'>and of course, if you can't get through there,
+you can't get to the later stages.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='336814' id='t-336814'>So we did this math, and we figured out, okay,</span>
+<span class='talk-transcript__fragment' data-time='338410' id='t-338410'>well, you know, you need about 80 to, say, 150,</span>
+<span class='talk-transcript__fragment' data-time='341009' id='t-341009'>or something like that, drugs.</span>
+<span class='talk-transcript__fragment' data-time='342886' id='t-342886'>And then we did a little more math, and we said,</span>
+<span class='talk-transcript__fragment' data-time='344761' id='t-344761'>okay, well that's a fund of about</span>
+<span class='talk-transcript__fragment' data-time='346371' id='t-346371'>three to 15 billion dollars.</span>
+<span class='talk-transcript__fragment' data-time='349685' id='t-349685'>So we kind of created a new problem</span>
+<span class='talk-transcript__fragment' data-time='352041' id='t-352041'>by solving the old one.</span>
+<span class='talk-transcript__fragment' data-time='353372' id='t-353372'>We were able to get rid of the risk,
+but now we need a lot of capital,</span>
+<span class='talk-transcript__fragment' data-time='355987' id='t-355987'>and there's only one place to get that kind of capital,</span>
+<span class='talk-transcript__fragment' data-time='357925' id='t-357925'>the capital markets.</span>
+<span class='talk-transcript__fragment' data-time='359089' id='t-359089'>Venture capitalists don't have it.
+Philanthropies don't have it.</span>
+<span class='talk-transcript__fragment' data-time='361903' id='t-361903'>But we have to figure out how we can
+get people in the capital markets,</span>
+<span class='talk-transcript__fragment' data-time='363907' id='t-363907'>who traditionally don't invest in this stuff,</span>
+<span class='talk-transcript__fragment' data-time='365450' id='t-365450'>to want to invest in this stuff.</span>
+<span class='talk-transcript__fragment' data-time='367057' id='t-367057'>So again, financial engineering was helpful here.</span>
+<span class='talk-transcript__fragment' data-time='370022' id='t-370022'>Imagine the megafund actually starts empty,</span>
+<span class='talk-transcript__fragment' data-time='373005' id='t-373005'>and what it does is it issues some debt</span>
+<span class='talk-transcript__fragment' data-time='375788' id='t-375788'>and some equity,</span>
+<span class='talk-transcript__fragment' data-time='377109' id='t-377109'>and that generates cash flow.</span>
+<span class='talk-transcript__fragment' data-time='378788' id='t-378788'>That cash flow is used, then, to buy</span>
+<span class='talk-transcript__fragment' data-time='380028' id='t-380028'>that big portfolio of drugs that you need,</span>
+<span class='talk-transcript__fragment' data-time='382045' id='t-382045'>and those drugs start working their way</span>
+<span class='talk-transcript__fragment' data-time='383581' id='t-383581'>through that approval process,</span>
+<span class='talk-transcript__fragment' data-time='385393' id='t-385393'>and each time they go through
+a next phase of approval,</span>
+<span class='talk-transcript__fragment' data-time='387027' id='t-387027'>they gain value.</span>
+<span class='talk-transcript__fragment' data-time='387991' id='t-387991'>And most of them don't make it,</span>
+<span class='talk-transcript__fragment' data-time='389263' id='t-389263'>but a few of them do,</span>
+<span class='talk-transcript__fragment' data-time='390562' id='t-390562'>and with the ones that gain value, you can sell some,</span>
+<span class='talk-transcript__fragment' data-time='393151' id='t-393151'>and when you sell them,</span>
+<span class='talk-transcript__fragment' data-time='394577' id='t-394577'>you have money to pay the interest on those bonds,</span>
+<span class='talk-transcript__fragment' data-time='396116' id='t-396116'>but you also have money to
+fund the next round of trials.</span>
+<span class='talk-transcript__fragment' data-time='398594' id='t-398594'>It's almost self-funding.</span>
+<span class='talk-transcript__fragment' data-time='400703' id='t-400703'>You do that for the course of the transaction,</span>
+<span class='talk-transcript__fragment' data-time='403421' id='t-403421'>and when you're done, you liquidate the portfolio,</span>
+<span class='talk-transcript__fragment' data-time='405102' id='t-405102'>pay back the bonds, and you can</span>
+<span class='talk-transcript__fragment' data-time='406767' id='t-406767'>give the equity holders a nice return.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='408719' id='t-408719'>So that was the theory, and we talked about it</span>
+<span class='talk-transcript__fragment' data-time='410962' id='t-410962'>for a bit, we did a bunch of experiments,</span>
+<span class='talk-transcript__fragment' data-time='412634' id='t-412634'>and then we said, let's really try to test it.</span>
+<span class='talk-transcript__fragment' data-time='415255' id='t-415255'>We spent the next two years doing research.</span>
+<span class='talk-transcript__fragment' data-time='418684' id='t-418684'>We talked to hundreds of experts in drug financing</span>
+<span class='talk-transcript__fragment' data-time='421796' id='t-421796'>and venture capital.</span>
+<span class='talk-transcript__fragment' data-time='423440' id='t-423440'>We talked to people who have developed drugs.</span>
+<span class='talk-transcript__fragment' data-time='425643' id='t-425643'>We talked to pharmaceutical companies.</span>
+<span class='talk-transcript__fragment' data-time='427209' id='t-427209'>We actually looked at the data for drugs,</span>
+<span class='talk-transcript__fragment' data-time='430573' id='t-430573'>over 2,000 drugs that had been approved or denied</span>
+<span class='talk-transcript__fragment' data-time='433253' id='t-433253'>or withdrawn,</span>
+<span class='talk-transcript__fragment' data-time='434668' id='t-434668'>and we also ran millions of simulations.</span>
+<span class='talk-transcript__fragment' data-time='437976' id='t-437976'>And all that actually took a lot of time.</span>
+<span class='talk-transcript__fragment' data-time='440402' id='t-440402'>But when we were done, what we found was something that was sort of surprising.</span>
+<span class='talk-transcript__fragment' data-time='443435' id='t-443435'>It was actually feasible to structure that fund</span>
+<span class='talk-transcript__fragment' data-time='445454' id='t-445454'>such that when you were done structuring it,</span>
+<span class='talk-transcript__fragment' data-time='447792' id='t-447792'>you could actually produce low-risk bonds</span>
+<span class='talk-transcript__fragment' data-time='450127' id='t-450127'>that would be attractive to bond holders,</span>
+<span class='talk-transcript__fragment' data-time='451524' id='t-451524'>that would give you yields of
+about five to eight percent,</span>
+<span class='talk-transcript__fragment' data-time='454308' id='t-454308'>and you could produce equity</span>
+<span class='talk-transcript__fragment' data-time='455981' id='t-455981'>that would give equity holders
+about a 12-percent return.</span>
+<span class='talk-transcript__fragment' data-time='458292' id='t-458292'>Now those returns aren't going to be attractive</span>
+<span class='talk-transcript__fragment' data-time='459818' id='t-459818'>to a venture capitalist.</span>
+<span class='talk-transcript__fragment' data-time='461387' id='t-461387'>Venture capitalists are those guys
+who want to make those big bets</span>
+<span class='talk-transcript__fragment' data-time='463573' id='t-463573'>and get those billion dollar payoffs.</span>
+<span class='talk-transcript__fragment' data-time='465709' id='t-465709'>But it turns out, there are lots of other folks
+that would be interested in that.</span>
+<span class='talk-transcript__fragment' data-time='468532' id='t-468532'>That's right in the investment sweet spot</span>
+<span class='talk-transcript__fragment' data-time='470283' id='t-470283'>of pension funds and 401(k) plans</span>
+<span class='talk-transcript__fragment' data-time='472936' id='t-472936'>and all this other stuff.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='474521' id='t-474521'>So we published some articles
+in the academic press.</span>
+<span class='talk-transcript__fragment' data-time='476806' id='t-476806'>We published articles in medical journals.</span>
+<span class='talk-transcript__fragment' data-time='479405' id='t-479405'>We published articles in finance journals.</span>
+<span class='talk-transcript__fragment' data-time='481745' id='t-481745'>But it wasn't until we actually</span>
+<span class='talk-transcript__fragment' data-time='483013' id='t-483013'>got the popular press interested in this</span>
+<span class='talk-transcript__fragment' data-time='484991' id='t-484991'>that we began to get some traction.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='487653' id='t-487653'>We wanted to do something more than
+just make people aware of it, though.</span>
+<span class='talk-transcript__fragment' data-time='490136' id='t-490136'>We wanted people to get involved.</span>
+<span class='talk-transcript__fragment' data-time='491617' id='t-491617'>So what we did was, we actually
+took all of our computer code</span>
+<span class='talk-transcript__fragment' data-time='493707' id='t-493707'>and made that available online</span>
+<span class='talk-transcript__fragment' data-time='495261' id='t-495261'>under an open-source license</span>
+<span class='talk-transcript__fragment' data-time='496926' id='t-496926'>to anybody that wanted it.</span>
+<span class='talk-transcript__fragment' data-time='498277' id='t-498277'>And you guys can download it today</span>
+<span class='talk-transcript__fragment' data-time='500011' id='t-500011'>if you want to run your own experiments
+to see if this would work.</span>
+<span class='talk-transcript__fragment' data-time='502246' id='t-502246'>And that was really effective, because people</span>
+<span class='talk-transcript__fragment' data-time='503661' id='t-503661'>that didn't believe our assumptions</span>
+<span class='talk-transcript__fragment' data-time='505395' id='t-505395'>could try their own assumptions
+and see how it would work.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='508101' id='t-508101'>Now there's an obvious problem, which is,</span>
+<span class='talk-transcript__fragment' data-time='510739' id='t-510739'>is there enough money in
+the world to fund this stuff?</span>
+<span class='talk-transcript__fragment' data-time='512911' id='t-512911'>I've told you there's enough drugs,</span>
+<span class='talk-transcript__fragment' data-time='514325' id='t-514325'>but is there enough money?</span>
+<span class='talk-transcript__fragment' data-time='516156' id='t-516156'>There's 100 trillion dollars of capital</span>
+<span class='talk-transcript__fragment' data-time='518881' id='t-518881'>currently invested in fixed-income securities.</span>
+<span class='talk-transcript__fragment' data-time='522422' id='t-522422'>That's a hundred thousand billion.</span>
+<span class='talk-transcript__fragment' data-time='526025' id='t-526025'>There's plenty of money.</span>
+<span class='talk-transcript__fragment' data-time='527951' id='t-527951'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='531174' id='t-531174'>But what we realized was that it's
+more than just money that's required.</span>
+<span class='talk-transcript__fragment' data-time='534211' id='t-534211'>We had to get people motivated,
+people to get involved,</span>
+<span class='talk-transcript__fragment' data-time='536040' id='t-536040'>and people had to understand this.</span>
+<span class='talk-transcript__fragment' data-time='538564' id='t-538564'>And so we started thinking about all 
+the different things that could go wrong.</span>
+<span class='talk-transcript__fragment' data-time='541486' id='t-541486'>What are all the challenges to doing 
+this that might get in the way?</span>
+<span class='talk-transcript__fragment' data-time='544815' id='t-544815'>And we had a long list, and so what we did was</span>
+<span class='talk-transcript__fragment' data-time='546862' id='t-546862'>we assigned a bunch of people, including ourselves,</span>
+<span class='talk-transcript__fragment' data-time='549427' id='t-549427'>different pieces of this problem,</span>
+<span class='talk-transcript__fragment' data-time='551612' id='t-551612'>and we said, could you start
+a work stream on credit risk?</span>
+<span class='talk-transcript__fragment' data-time='554086' id='t-554086'>Could you start a work stream
+on the regulatory aspects?</span>
+<span class='talk-transcript__fragment' data-time='556462' id='t-556462'>Could you start a work stream on</span>
+<span class='talk-transcript__fragment' data-time='557916' id='t-557916'>how you would actually manage so many projects?</span>
+<span class='talk-transcript__fragment' data-time='560870' id='t-560870'>And we had all these experts get together</span>
+<span class='talk-transcript__fragment' data-time='562488' id='t-562488'>and do these different work streams,</span>
+<span class='talk-transcript__fragment' data-time='563779' id='t-563779'>and then we held a conference.</span>
+<span class='talk-transcript__fragment' data-time='566372' id='t-566372'>The conference was held over
+the summer, this past summer.</span>
+<span class='talk-transcript__fragment' data-time='568994' id='t-568994'>It was an invitation-only conference.</span>
+<span class='talk-transcript__fragment' data-time='570371' id='t-570371'>It was sponsored by the American Cancer Society</span>
+<span class='talk-transcript__fragment' data-time='572394' id='t-572394'>and done in collaboration</span>
+<span class='talk-transcript__fragment' data-time='574003' id='t-574003'>with the National Cancer Institute.</span>
+<span class='talk-transcript__fragment' data-time='576391' id='t-576391'>And we had experts from every field
+that we thought would be important,</span>
+<span class='talk-transcript__fragment' data-time='579146' id='t-579146'>including the government, including</span>
+<span class='talk-transcript__fragment' data-time='581241' id='t-581241'>people that run research centers and so on,</span>
+<span class='talk-transcript__fragment' data-time='582798' id='t-582798'>and for two days they sat around
+and heard the reports</span>
+<span class='talk-transcript__fragment' data-time='584787' id='t-584787'>from those five work streams,
+and they talked about it.</span>
+<span class='talk-transcript__fragment' data-time='586703' id='t-586703'>It was the first time</span>
+<span class='talk-transcript__fragment' data-time='588134' id='t-588134'>that the people who could actually make this happen</span>
+<span class='talk-transcript__fragment' data-time='589683' id='t-589683'>sat across the table from each other</span>
+<span class='talk-transcript__fragment' data-time='591327' id='t-591327'>and had these conversations.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='593635' id='t-593635'>Now these conferences, it's typical to have a dinner,</span>
+<span class='talk-transcript__fragment' data-time='597144' id='t-597144'>and at that dinner,</span>
+<span class='talk-transcript__fragment' data-time='598472' id='t-598472'>you kind of get to know each other,</span>
+<span class='talk-transcript__fragment' data-time='600074' id='t-600074'>sort of like what we're doing here.</span>
+<span class='talk-transcript__fragment' data-time='601530' id='t-601530'>I happened to look out the window,</span>
+<span class='talk-transcript__fragment' data-time='603136' id='t-603136'>and hand on my heart, I looked out the window</span>
+<span class='talk-transcript__fragment' data-time='605014' id='t-605014'>on the night of this conference --
+it was the summertime --</span>
+<span class='talk-transcript__fragment' data-time='606912' id='t-606912'>and that's what I saw, it was a double rainbow.</span>
+<span class='talk-transcript__fragment' data-time='609294' id='t-609294'>So I'd like to think it was a good sign.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='612294' id='t-612294'>Since the conference, we've got people working</span>
+<span class='talk-transcript__fragment' data-time='614280' id='t-614280'>between Paris and San Francisco,</span>
+<span class='talk-transcript__fragment' data-time='616212' id='t-616212'>lots of different folks working on this</span>
+<span class='talk-transcript__fragment' data-time='617848' id='t-617848'>to try to see if we can really make it happen.</span>
+<span class='talk-transcript__fragment' data-time='620218' id='t-620218'>We're not looking to start a fund,</span>
+<span class='talk-transcript__fragment' data-time='621712' id='t-621712'>but we want somebody else to do this.</span>
+<span class='talk-transcript__fragment' data-time='623890' id='t-623890'>Because, again, I'm not a scientist.</span>
+<span class='talk-transcript__fragment' data-time='626553' id='t-626553'>I can't build a drug.</span>
+<span class='talk-transcript__fragment' data-time='628290' id='t-628290'>I'm never going to have enough money</span>
+<span class='talk-transcript__fragment' data-time='629644' id='t-629644'>to fund even one of those trials.</span>
+<span class='talk-transcript__fragment' data-time='632107' id='t-632107'>But all of us together, with our 401(k)'s,</span>
+<span class='talk-transcript__fragment' data-time='635082' id='t-635082'>with our 529 plans, with our pension plans,</span>
+<span class='talk-transcript__fragment' data-time='637574' id='t-637574'>all of us together can actually fund hundreds of trials</span>
+<span class='talk-transcript__fragment' data-time='640444' id='t-640444'>and get paid well for doing it</span>
+<span class='talk-transcript__fragment' data-time='642214' id='t-642214'>and save millions of lives like my dad.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='644990' id='t-644990'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='647320' id='t-647320'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

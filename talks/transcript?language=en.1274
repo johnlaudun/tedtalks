@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Pankaj Ghemawat: Actually, the world isn&#39;t flat | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Pankaj Ghemawat: Actually, the world isn&#39;t flat | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: It may seem that we&#39;re living in a borderless world where ideas, goods and people flow freely from nation to nation. We&#39;re not even close, says Pankaj Ghemawat. With great data (and an eye-opening survey), he argues that there&#39;s a delta between perception and reality in a world that&#39;s maybe not so hyperconnected after all." name="description" />
+<meta content="Pankaj Ghemawat" name="author" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=hi" hreflang="hi" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Actually, the world isn&#39;t flat&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7faea0c3ae1fc45d95ec5cfbe0838e85e43fa1a2_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7faea0c3ae1fc45d95ec5cfbe0838e85e43fa1a2_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: It may seem that we&#39;re living in a borderless world where ideas, goods and people flow freely from nation to nation. We&#39;re not even close, says Pankaj Ghemawat. With great data (and an eye-opening survey), he argues that there&#39;s a delta between perception and reality in a world that&#39;s maybe not so hyperconnected after all." property="og:description" />
+<meta content="http://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1593?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='pankaj_ghemawat_actually_the_world_isn_t_flat'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hi'>Hindi</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1593?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1023" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7faea0c3ae1fc45d95ec5cfbe0838e85e43fa1a2_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:03</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Pankaj Ghemawat</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1593?language=en' lang='en'>
+Actually, the world isn't flat
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='468' id='t-468'>I'm here to talk to you about how globalized we are,</span>
+<span class='talk-transcript__fragment' data-time='4999' id='t-4999'>how globalized we aren't,</span>
+<span class='talk-transcript__fragment' data-time='7507' id='t-7507'>and why it's important to actually be accurate</span>
+<span class='talk-transcript__fragment' data-time='11051' id='t-11051'>in making those kinds of assessments.</span>
+<span class='talk-transcript__fragment' data-time='13832' id='t-13832'>And the leading point of view on this, whether measured</span>
+<span class='talk-transcript__fragment' data-time='17572' id='t-17572'>by number of books sold, mentions in media,</span>
+<span class='talk-transcript__fragment' data-time='21763' id='t-21763'>or surveys that I've run with groups ranging from</span>
+<span class='talk-transcript__fragment' data-time='24979' id='t-24979'>my students to delegates to the World Trade Organization,</span>
+<span class='talk-transcript__fragment' data-time='29056' id='t-29056'>is this view that national borders</span>
+<span class='talk-transcript__fragment' data-time='32170' id='t-32170'>really don't matter very much anymore,</span>
+<span class='talk-transcript__fragment' data-time='35723' id='t-35723'>cross-border integration is close to complete,</span>
+<span class='talk-transcript__fragment' data-time='39779' id='t-39779'>and we live in one world.</span>
+<span class='talk-transcript__fragment' data-time='42074' id='t-42074'>And what's interesting about this view</span>
+<span class='talk-transcript__fragment' data-time='44306' id='t-44306'>is, again, it's a view that's held by pro-globalizers</span>
+<span class='talk-transcript__fragment' data-time='47900' id='t-47900'>like Tom Friedman, from whose book this quote is obviously excerpted,</span>
+<span class='talk-transcript__fragment' data-time='52674' id='t-52674'>but it's also held by anti-globalizers, who see this giant</span>
+<span class='talk-transcript__fragment' data-time='56600' id='t-56600'>globalization tsunami that's about to wreck all our lives</span>
+<span class='talk-transcript__fragment' data-time='61491' id='t-61491'>if it hasn't already done so.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='64375' id='t-64375'>The other thing I would add is that this is not a new view.</span>
+<span class='talk-transcript__fragment' data-time='68399' id='t-68399'>I'm a little bit of an amateur historian, so I've spent</span>
+<span class='talk-transcript__fragment' data-time='72110' id='t-72110'>some time going back, trying to see the first mention</span>
+<span class='talk-transcript__fragment' data-time='76091' id='t-76091'>of this kind of thing. And the best, earliest quote</span>
+<span class='talk-transcript__fragment' data-time='79810' id='t-79810'>that I could find was one from David Livingstone,</span>
+<span class='talk-transcript__fragment' data-time='83654' id='t-83654'>writing in the 1850s about how the railroad, the steam ship,</span>
+<span class='talk-transcript__fragment' data-time='89699' id='t-89699'>and the telegraph were integrating East Africa perfectly</span>
+<span class='talk-transcript__fragment' data-time='94166' id='t-94166'>with the rest of the world.</span>
+<span class='talk-transcript__fragment' data-time='97537' id='t-97537'>Now clearly, David Livingstone</span>
+<span class='talk-transcript__fragment' data-time='99717' id='t-99717'>was a little bit ahead of his time,</span>
+<span class='talk-transcript__fragment' data-time='102737' id='t-102737'>but it does seem useful to ask ourselves,</span>
+<span class='talk-transcript__fragment' data-time='106280' id='t-106280'>&quot;Just how global are we?&quot;</span>
+<span class='talk-transcript__fragment' data-time='108376' id='t-108376'>before we think about where we go from here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='111079' id='t-111079'>So the best way I've found of trying to get people</span>
+<span class='talk-transcript__fragment' data-time='115617' id='t-115617'>to take seriously the idea that the world may not be flat,</span>
+<span class='talk-transcript__fragment' data-time='120266' id='t-120266'>may not even be close to flat, is with some data.</span>
+<span class='talk-transcript__fragment' data-time='124281' id='t-124281'>So one of the things I've been doing over the last few years</span>
+<span class='talk-transcript__fragment' data-time='127660' id='t-127660'>is really compiling data on things that could either happen</span>
+<span class='talk-transcript__fragment' data-time='131627' id='t-131627'>within national borders or across national borders,</span>
+<span class='talk-transcript__fragment' data-time='135782' id='t-135782'>and I've looked at the cross-border component</span>
+<span class='talk-transcript__fragment' data-time='139285' id='t-139285'>as a percentage of the total.</span>
+<span class='talk-transcript__fragment' data-time='141698' id='t-141698'>I'm not going to present all the data that I have here today,</span>
+<span class='talk-transcript__fragment' data-time='145663' id='t-145663'>but let me just give you a few data points.</span>
+<span class='talk-transcript__fragment' data-time='149269' id='t-149269'>I'm going to talk a little bit about one kind of information flow,</span>
+<span class='talk-transcript__fragment' data-time='153603' id='t-153603'>one kind of flow of people, one kind of flow of capital,</span>
+<span class='talk-transcript__fragment' data-time='158471' id='t-158471'>and, of course, trade in products and services.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='161952' id='t-161952'>So let's start off with plain old telephone service.</span>
+<span class='talk-transcript__fragment' data-time='166531' id='t-166531'>Of all the voice-calling minutes in the world last year,</span>
+<span class='talk-transcript__fragment' data-time='171624' id='t-171624'>what percentage do you think were accounted for</span>
+<span class='talk-transcript__fragment' data-time='176272' id='t-176272'>by cross-border phone calls?</span>
+<span class='talk-transcript__fragment' data-time='178597' id='t-178597'>Pick a percentage in your own mind.</span>
+<span class='talk-transcript__fragment' data-time='182673' id='t-182673'>The answer turns out to be two percent.</span>
+<span class='talk-transcript__fragment' data-time='185768' id='t-185768'>If you include Internet telephony, you might be able</span>
+<span class='talk-transcript__fragment' data-time='189906' id='t-189906'>to push this number up to six or seven percent,</span>
+<span class='talk-transcript__fragment' data-time='193333' id='t-193333'>but it's nowhere near what people tend to estimate.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='197990' id='t-197990'>Or let's turn to people moving across borders.</span>
+<span class='talk-transcript__fragment' data-time='201735' id='t-201735'>One particular thing we might look at, in terms of</span>
+<span class='talk-transcript__fragment' data-time='204952' id='t-204952'>long-term flows of people, is what percentage</span>
+<span class='talk-transcript__fragment' data-time='208679' id='t-208679'>of the world's population is accounted for</span>
+<span class='talk-transcript__fragment' data-time='212191' id='t-212191'>by first-generation immigrants?</span>
+<span class='talk-transcript__fragment' data-time='215199' id='t-215199'>Again, please pick a percentage.</span>
+<span class='talk-transcript__fragment' data-time='219494' id='t-219494'>Turns out to be a little bit higher.</span>
+<span class='talk-transcript__fragment' data-time='221919' id='t-221919'>It's actually about three percent.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='224986' id='t-224986'>Or think of investment. Take all the real investment</span>
+<span class='talk-transcript__fragment' data-time='229857' id='t-229857'>that went on in the world in 2010.</span>
+<span class='talk-transcript__fragment' data-time='233025' id='t-233025'>What percentage of that was accounted for</span>
+<span class='talk-transcript__fragment' data-time='235881' id='t-235881'>by foreign direct investment?</span>
+<span class='talk-transcript__fragment' data-time='239818' id='t-239818'>Not quite ten percent.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='243185' id='t-243185'>And then finally, the one statistic</span>
+<span class='talk-transcript__fragment' data-time='245824' id='t-245824'>that I suspect many of the people in this room have seen:</span>
+<span class='talk-transcript__fragment' data-time='249001' id='t-249001'>the export-to-GDP ratio.</span>
+<span class='talk-transcript__fragment' data-time='251729' id='t-251729'>If you look at the official statistics, they typically indicate</span>
+<span class='talk-transcript__fragment' data-time='255498' id='t-255498'>a little bit above 30 percent.</span>
+<span class='talk-transcript__fragment' data-time='258057' id='t-258057'>However, there's a big problem with the official statistics,</span>
+<span class='talk-transcript__fragment' data-time='263146' id='t-263146'>in that if, for instance, a Japanese component supplier</span>
+<span class='talk-transcript__fragment' data-time='268077' id='t-268077'>ships something to China to be put into an iPod,</span>
+<span class='talk-transcript__fragment' data-time='271689' id='t-271689'>and then the iPod gets shipped to the U.S.,</span>
+<span class='talk-transcript__fragment' data-time='274490' id='t-274490'>that component ends up getting counted multiple times.</span>
+<span class='talk-transcript__fragment' data-time='278327' id='t-278327'>So nobody knows how bad this bias</span>
+<span class='talk-transcript__fragment' data-time='281096' id='t-281096'>with the official statistics actually is, so I thought I would</span>
+<span class='talk-transcript__fragment' data-time='284883' id='t-284883'>ask the person who's spearheading the effort</span>
+<span class='talk-transcript__fragment' data-time='287467' id='t-287467'>to generate data on this, Pascal Lamy,</span>
+<span class='talk-transcript__fragment' data-time='290732' id='t-290732'>the Director of the World Trade Organization,</span>
+<span class='talk-transcript__fragment' data-time='293244' id='t-293244'>what his best guess would be</span>
+<span class='talk-transcript__fragment' data-time='295571' id='t-295571'>of exports as a percentage of GDP,</span>
+<span class='talk-transcript__fragment' data-time='298746' id='t-298746'>without the double- and triple-counting,</span>
+<span class='talk-transcript__fragment' data-time='301169' id='t-301169'>and it's actually probably a bit under 20 percent, rather than</span>
+<span class='talk-transcript__fragment' data-time='305703' id='t-305703'>the 30 percent-plus numbers that we're talking about.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='309472' id='t-309472'>So it's very clear that if you look at these numbers</span>
+<span class='talk-transcript__fragment' data-time='313655' id='t-313655'>or all the other numbers that I talk about in my book,</span>
+<span class='talk-transcript__fragment' data-time='317223' id='t-317223'>&quot;World 3.0,&quot; that we're very, very far from</span>
+<span class='talk-transcript__fragment' data-time='321610' id='t-321610'>the no-border effect benchmark, which would imply</span>
+<span class='talk-transcript__fragment' data-time='325664' id='t-325664'>internationalization levels of the order of 85, 90, 95 percent.</span>
+<span class='talk-transcript__fragment' data-time='332567' id='t-332567'>So clearly, apocalyptically-minded authors</span>
+<span class='talk-transcript__fragment' data-time='336175' id='t-336175'>have overstated the case.</span>
+<span class='talk-transcript__fragment' data-time='339135' id='t-339135'>But it's not just the apocalyptics, as I think of them,</span>
+<span class='talk-transcript__fragment' data-time='343327' id='t-343327'>who are prone to this kind of overstatement.</span>
+<span class='talk-transcript__fragment' data-time='346552' id='t-346552'>I've also spent some time surveying audiences</span>
+<span class='talk-transcript__fragment' data-time='349949' id='t-349949'>in different parts of the world</span>
+<span class='talk-transcript__fragment' data-time='351947' id='t-351947'>on what they actually guess these numbers to be.</span>
+<span class='talk-transcript__fragment' data-time='356007' id='t-356007'>Let me share with you the results of a survey</span>
+<span class='talk-transcript__fragment' data-time='359076' id='t-359076'>that Harvard Business Review was kind enough to run</span>
+<span class='talk-transcript__fragment' data-time='362415' id='t-362415'>of its readership as to what people's guesses</span>
+<span class='talk-transcript__fragment' data-time='365935' id='t-365935'>along these dimensions actually were.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='370350' id='t-370350'>So a couple of observations stand out for me from this slide.</span>
+<span class='talk-transcript__fragment' data-time='376285' id='t-376285'>First of all, there is a suggestion of some error.</span>
+<span class='talk-transcript__fragment' data-time='381200' id='t-381200'>Okay. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='384003' id='t-384003'>Second, these are pretty large errors. For four quantities</span>
+<span class='talk-transcript__fragment' data-time='389476' id='t-389476'>whose average value is less than 10 percent,</span>
+<span class='talk-transcript__fragment' data-time='392455' id='t-392455'>you have people guessing three, four times that level.</span>
+<span class='talk-transcript__fragment' data-time='396557' id='t-396557'>Even though I'm an economist, I find that</span>
+<span class='talk-transcript__fragment' data-time='399645' id='t-399645'>a pretty large error.</span>
+<span class='talk-transcript__fragment' data-time='402049' id='t-402049'>And third, this is not just confined to the readers</span>
+<span class='talk-transcript__fragment' data-time='405911' id='t-405911'>of the Harvard Business Review.</span>
+<span class='talk-transcript__fragment' data-time='407871' id='t-407871'>I've run several dozen such surveys in different parts</span>
+<span class='talk-transcript__fragment' data-time='411269' id='t-411269'>of the world, and in all cases except one,</span>
+<span class='talk-transcript__fragment' data-time='414619' id='t-414619'>where a group actually underestimated</span>
+<span class='talk-transcript__fragment' data-time='417491' id='t-417491'>the trade-to-GDP ratio, people have this tendency</span>
+<span class='talk-transcript__fragment' data-time='421803' id='t-421803'>towards overestimation, and so I thought it important</span>
+<span class='talk-transcript__fragment' data-time='424962' id='t-424962'>to give a name to this, and that's what I refer to</span>
+<span class='talk-transcript__fragment' data-time='428267' id='t-428267'>as globaloney, the difference between the dark blue bars</span>
+<span class='talk-transcript__fragment' data-time='432844' id='t-432844'>and the light gray bars.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='435851' id='t-435851'>Especially because, I suspect, some of you may still be</span>
+<span class='talk-transcript__fragment' data-time='439987' id='t-439987'>a little bit skeptical of the claims, I think it's important</span>
+<span class='talk-transcript__fragment' data-time='444179' id='t-444179'>to just spend a little bit of time thinking about</span>
+<span class='talk-transcript__fragment' data-time='447443' id='t-447443'>why we might be prone to globaloney.</span>
+<span class='talk-transcript__fragment' data-time='451202' id='t-451202'>A couple of different reasons come to mind.</span>
+<span class='talk-transcript__fragment' data-time='454045' id='t-454045'>First of all, there's a real dearth of data in the debate.</span>
+<span class='talk-transcript__fragment' data-time='458347' id='t-458347'>Let me give you an example. When I first published</span>
+<span class='talk-transcript__fragment' data-time='461528' id='t-461528'>some of these data a few years ago</span>
+<span class='talk-transcript__fragment' data-time='464124' id='t-464124'>in a magazine called Foreign Policy,</span>
+<span class='talk-transcript__fragment' data-time='466661' id='t-466661'>one of the people who wrote in, not entirely in agreement,</span>
+<span class='talk-transcript__fragment' data-time='470231' id='t-470231'>was Tom Friedman. And since my article was titled</span>
+<span class='talk-transcript__fragment' data-time='474186' id='t-474186'>&quot;Why the World Isn't Flat,&quot; that wasn't too surprising. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='479096' id='t-479096'>What was very surprising to me was Tom's critique,</span>
+<span class='talk-transcript__fragment' data-time='483377' id='t-483377'>which was, &quot;Ghemawat's data are narrow.&quot;</span>
+<span class='talk-transcript__fragment' data-time='488315' id='t-488315'>And this caused me to scratch my head, because</span>
+<span class='talk-transcript__fragment' data-time='491334' id='t-491334'>as I went back through his several-hundred-page book,</span>
+<span class='talk-transcript__fragment' data-time='494471' id='t-494471'>I couldn't find a single figure, chart, table,</span>
+<span class='talk-transcript__fragment' data-time='499104' id='t-499104'>reference or footnote.</span>
+<span class='talk-transcript__fragment' data-time='501832' id='t-501832'>So my point is, I haven't presented a lot of data here</span>
+<span class='talk-transcript__fragment' data-time='506439' id='t-506439'>to convince you that I'm right, but I would urge you</span>
+<span class='talk-transcript__fragment' data-time='509831' id='t-509831'>to go away and look for your own data</span>
+<span class='talk-transcript__fragment' data-time='512816' id='t-512816'>to try and actually assess whether some of these</span>
+<span class='talk-transcript__fragment' data-time='516304' id='t-516304'>hand-me-down insights that we've been bombarded with</span>
+<span class='talk-transcript__fragment' data-time='520665' id='t-520665'>actually are correct.</span>
+<span class='talk-transcript__fragment' data-time='522577' id='t-522577'>So dearth of data in the debate is one reason.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='526109' id='t-526109'>A second reason has to do with peer pressure.</span>
+<span class='talk-transcript__fragment' data-time='530024' id='t-530024'>I remember, I decided to write my</span>
+<span class='talk-transcript__fragment' data-time='533205' id='t-533205'>&quot;Why the World Isn't Flat&quot; article, because</span>
+<span class='talk-transcript__fragment' data-time='535830' id='t-535830'>I was being interviewed on TV in Mumbai,</span>
+<span class='talk-transcript__fragment' data-time='539019' id='t-539019'>and the interviewer's first question to me was,</span>
+<span class='talk-transcript__fragment' data-time='542694' id='t-542694'>&quot;Professor Ghemawat, why do you still believe</span>
+<span class='talk-transcript__fragment' data-time='546645' id='t-546645'>that the world is round?&quot; And I started laughing,</span>
+<span class='talk-transcript__fragment' data-time='550825' id='t-550825'>because I hadn't come across that formulation before. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='554598' id='t-554598'>And as I was laughing, I was thinking,</span>
+<span class='talk-transcript__fragment' data-time='556937' id='t-556937'>I really need a more coherent response, especially</span>
+<span class='talk-transcript__fragment' data-time='559824' id='t-559824'>on national TV. I'd better write something about this. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='563934' id='t-563934'>But what I can't quite capture for you</span>
+<span class='talk-transcript__fragment' data-time='566903' id='t-566903'>was the pity and disbelief</span>
+<span class='talk-transcript__fragment' data-time='569503' id='t-569503'>with which the interviewer asked her question.</span>
+<span class='talk-transcript__fragment' data-time='572981' id='t-572981'>The perspective was, here is this poor professor.</span>
+<span class='talk-transcript__fragment' data-time='577321' id='t-577321'>He's clearly been in a cave for the last 20,000 years.</span>
+<span class='talk-transcript__fragment' data-time='582007' id='t-582007'>He really has no idea</span>
+<span class='talk-transcript__fragment' data-time='584655' id='t-584655'>as to what's actually going on in the world.</span>
+<span class='talk-transcript__fragment' data-time='587613' id='t-587613'>So try this out with your friends and acquaintances,</span>
+<span class='talk-transcript__fragment' data-time='591086' id='t-591086'>if you like. You'll find that it's very cool</span>
+<span class='talk-transcript__fragment' data-time='594527' id='t-594527'>to talk about the world being one, etc.</span>
+<span class='talk-transcript__fragment' data-time='597815' id='t-597815'>If you raise questions about that formulation,</span>
+<span class='talk-transcript__fragment' data-time='601118' id='t-601118'>you really are considered a bit of an antique.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='605015' id='t-605015'>And then the final reason, which I mention,</span>
+<span class='talk-transcript__fragment' data-time='608469' id='t-608469'>especially to a TED audience, with some trepidation,</span>
+<span class='talk-transcript__fragment' data-time='612182' id='t-612182'>has to do with what I call &quot;techno-trances.&quot;</span>
+<span class='talk-transcript__fragment' data-time='615527' id='t-615527'>If you listen to techno music for long periods of time,</span>
+<span class='talk-transcript__fragment' data-time='619054' id='t-619054'>it does things to your brainwave activity. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='622406' id='t-622406'>Something similar seems to happen</span>
+<span class='talk-transcript__fragment' data-time='625864' id='t-625864'>with exaggerated conceptions of how technology</span>
+<span class='talk-transcript__fragment' data-time='631174' id='t-631174'>is going to overpower in the very immediate run</span>
+<span class='talk-transcript__fragment' data-time='635343' id='t-635343'>all cultural barriers, all political barriers,</span>
+<span class='talk-transcript__fragment' data-time='638676' id='t-638676'>all geographic barriers, because at this point</span>
+<span class='talk-transcript__fragment' data-time='642269' id='t-642269'>I know you aren't allowed to ask me questions,</span>
+<span class='talk-transcript__fragment' data-time='644853' id='t-644853'>but when I get to this point in my lecture with my students,</span>
+<span class='talk-transcript__fragment' data-time='647826' id='t-647826'>hands go up, and people ask me,</span>
+<span class='talk-transcript__fragment' data-time='650590' id='t-650590'>&quot;Yeah, but what about Facebook?&quot;</span>
+<span class='talk-transcript__fragment' data-time='654069' id='t-654069'>And I got this question often enough that I thought</span>
+<span class='talk-transcript__fragment' data-time='656682' id='t-656682'>I'd better do some research on Facebook.</span>
+<span class='talk-transcript__fragment' data-time='659430' id='t-659430'>Because, in some sense, it's the ideal kind of technology</span>
+<span class='talk-transcript__fragment' data-time='663150' id='t-663150'>to think about. Theoretically, it makes it</span>
+<span class='talk-transcript__fragment' data-time='666819' id='t-666819'>as easy to form friendships halfway around the world</span>
+<span class='talk-transcript__fragment' data-time='670197' id='t-670197'>as opposed to right next door.</span>
+<span class='talk-transcript__fragment' data-time='673199' id='t-673199'>What percentage of people's friends on Facebook</span>
+<span class='talk-transcript__fragment' data-time='679285' id='t-679285'>are actually located in countries other than where</span>
+<span class='talk-transcript__fragment' data-time='682405' id='t-682405'>people we're analyzing are based?</span>
+<span class='talk-transcript__fragment' data-time='685678' id='t-685678'>The answer is probably somewhere between</span>
+<span class='talk-transcript__fragment' data-time='689028' id='t-689028'>10 to 15 percent.</span>
+<span class='talk-transcript__fragment' data-time='691901' id='t-691901'>Non-negligible, so we don't live in an entirely local</span>
+<span class='talk-transcript__fragment' data-time='695712' id='t-695712'>or national world, but very, very far from the 95 percent level</span>
+<span class='talk-transcript__fragment' data-time='700719' id='t-700719'>that you would expect, and the reason's very simple.</span>
+<span class='talk-transcript__fragment' data-time='704125' id='t-704125'>We don't, or I hope we don't, form friendships at random</span>
+<span class='talk-transcript__fragment' data-time='708117' id='t-708117'>on Facebook. The technology is overlaid</span>
+<span class='talk-transcript__fragment' data-time='712939' id='t-712939'>on a pre-existing matrix of relationships that we have,</span>
+<span class='talk-transcript__fragment' data-time='717674' id='t-717674'>and those relationships are what the technology</span>
+<span class='talk-transcript__fragment' data-time='720742' id='t-720742'>doesn't quite displace. Those relationships are why</span>
+<span class='talk-transcript__fragment' data-time='723973' id='t-723973'>we get far fewer than 95 percent of our friends</span>
+<span class='talk-transcript__fragment' data-time='728017' id='t-728017'>being located in countries other than where we are.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='731825' id='t-731825'>So does all this matter? Or is globaloney</span>
+<span class='talk-transcript__fragment' data-time='737306' id='t-737306'>just a harmless way of getting people to pay more attention</span>
+<span class='talk-transcript__fragment' data-time='742718' id='t-742718'>to globalization-related issues?</span>
+<span class='talk-transcript__fragment' data-time='745430' id='t-745430'>I want to suggest that actually,</span>
+<span class='talk-transcript__fragment' data-time='747637' id='t-747637'>globaloney can be very harmful to your health.</span>
+<span class='talk-transcript__fragment' data-time='752207' id='t-752207'>First of all, recognizing that the glass</span>
+<span class='talk-transcript__fragment' data-time='755359' id='t-755359'>is only 10 to 20 percent full is critical to seeing</span>
+<span class='talk-transcript__fragment' data-time='759815' id='t-759815'>that there might be potential for additional gains</span>
+<span class='talk-transcript__fragment' data-time='763199' id='t-763199'>from additional integration,</span>
+<span class='talk-transcript__fragment' data-time='765230' id='t-765230'>whereas if we thought we were already there,</span>
+<span class='talk-transcript__fragment' data-time='768074' id='t-768074'>there would be no particular point to pushing harder.</span>
+<span class='talk-transcript__fragment' data-time='771498' id='t-771498'>It's a little bit like, we wouldn't be having a conference</span>
+<span class='talk-transcript__fragment' data-time='774710' id='t-774710'>on radical openness if we already thought we were totally open</span>
+<span class='talk-transcript__fragment' data-time='778891' id='t-778891'>to all the kinds of influences that are being talked about</span>
+<span class='talk-transcript__fragment' data-time='782223' id='t-782223'>at this conference.</span>
+<span class='talk-transcript__fragment' data-time='783638' id='t-783638'>So being accurate about how limited globalization levels are</span>
+<span class='talk-transcript__fragment' data-time='788428' id='t-788428'>is critical to even being able to notice</span>
+<span class='talk-transcript__fragment' data-time='791487' id='t-791487'>that there might be room for something more,</span>
+<span class='talk-transcript__fragment' data-time='795166' id='t-795166'>something that would contribute further to global welfare.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='799134' id='t-799134'>Which brings me to my second point.</span>
+<span class='talk-transcript__fragment' data-time='801966' id='t-801966'>Avoiding overstatement is also very helpful</span>
+<span class='talk-transcript__fragment' data-time='806189' id='t-806189'>because it reduces and in some cases even reverses</span>
+<span class='talk-transcript__fragment' data-time='810984' id='t-810984'>some of the fears that people have about globalization.</span>
+<span class='talk-transcript__fragment' data-time='815789' id='t-815789'>So I actually spend most of my &quot;World 3.0&quot; book</span>
+<span class='talk-transcript__fragment' data-time='819174' id='t-819174'>working through a litany of market failures and fears</span>
+<span class='talk-transcript__fragment' data-time='823718' id='t-823718'>that people have that they worry globalization is going to exacerbate.</span>
+<span class='talk-transcript__fragment' data-time='828858' id='t-828858'>I'm obviously not going to be able to do that for you today,</span>
+<span class='talk-transcript__fragment' data-time='832526' id='t-832526'>so let me just present to you two headlines</span>
+<span class='talk-transcript__fragment' data-time='835794' id='t-835794'>as an illustration of what I have in mind.</span>
+<span class='talk-transcript__fragment' data-time='839075' id='t-839075'>Think of France and the current debate about immigration.</span>
+<span class='talk-transcript__fragment' data-time='843391' id='t-843391'>When you ask people in France what percentage</span>
+<span class='talk-transcript__fragment' data-time='846623' id='t-846623'>of the French population is immigrants,</span>
+<span class='talk-transcript__fragment' data-time='848836' id='t-848836'>the answer is about 24 percent. That's their guess.</span>
+<span class='talk-transcript__fragment' data-time='853336' id='t-853336'>Maybe realizing that the number is just eight percent</span>
+<span class='talk-transcript__fragment' data-time='857966' id='t-857966'>might help cool some of the superheated rhetoric</span>
+<span class='talk-transcript__fragment' data-time='862380' id='t-862380'>that we see around the immigration issue.</span>
+<span class='talk-transcript__fragment' data-time='865718' id='t-865718'>Or to take an even more striking example,</span>
+<span class='talk-transcript__fragment' data-time='869862' id='t-869862'>when the Chicago Council on Foreign Relations</span>
+<span class='talk-transcript__fragment' data-time='872039' id='t-872039'>did a survey of Americans, asking them to guess</span>
+<span class='talk-transcript__fragment' data-time='875386' id='t-875386'>what percentage of the federal budget went to foreign aid,</span>
+<span class='talk-transcript__fragment' data-time='879613' id='t-879613'>the guess was 30 percent, which is</span>
+<span class='talk-transcript__fragment' data-time='883294' id='t-883294'>slightly in excess of the actual level — (&quot;actually about ... 1%&quot;) (Laughter) —</span>
+<span class='talk-transcript__fragment' data-time='888654' id='t-888654'>of U.S. governmental commitments to federal aid.</span>
+<span class='talk-transcript__fragment' data-time='892028' id='t-892028'>The reassuring thing about this particular survey was,</span>
+<span class='talk-transcript__fragment' data-time='895435' id='t-895435'>when it was pointed out to people how far</span>
+<span class='talk-transcript__fragment' data-time='898116' id='t-898116'>their estimates were from the actual data,</span>
+<span class='talk-transcript__fragment' data-time='901325' id='t-901325'>some of them — not all of them — seemed to become</span>
+<span class='talk-transcript__fragment' data-time='904420' id='t-904420'>more willing to consider increases in foreign aid.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='908407' id='t-908407'>So foreign aid is actually a great way</span>
+<span class='talk-transcript__fragment' data-time='911531' id='t-911531'>of sort of wrapping up here, because</span>
+<span class='talk-transcript__fragment' data-time='914725' id='t-914725'>if you think about it, what I've been talking about today</span>
+<span class='talk-transcript__fragment' data-time='917813' id='t-917813'>is this notion -- very uncontroversial amongst economists --</span>
+<span class='talk-transcript__fragment' data-time='921902' id='t-921902'>that most things are very home-biased.</span>
+<span class='talk-transcript__fragment' data-time='924884' id='t-924884'>&quot;Foreign aid is the most aid to poor people,&quot;</span>
+<span class='talk-transcript__fragment' data-time='928109' id='t-928109'>is about the most home-biased thing you can find.</span>
+<span class='talk-transcript__fragment' data-time='931832' id='t-931832'>If you look at the OECD countries and how much</span>
+<span class='talk-transcript__fragment' data-time='934870' id='t-934870'>they spend per domestic poor person,</span>
+<span class='talk-transcript__fragment' data-time='938012' id='t-938012'>and compare it with how much they spend</span>
+<span class='talk-transcript__fragment' data-time='940264' id='t-940264'>per poor person in poor countries,</span>
+<span class='talk-transcript__fragment' data-time='944436' id='t-944436'>the ratio — Branko Milanovic at the World Bank did the calculations —</span>
+<span class='talk-transcript__fragment' data-time='948708' id='t-948708'>turns out to be about 30,000 to one.</span>
+<span class='talk-transcript__fragment' data-time='953384' id='t-953384'>Now of course, some of us, if we truly are cosmopolitan,</span>
+<span class='talk-transcript__fragment' data-time='959580' id='t-959580'>would like to see that ratio being brought down</span>
+<span class='talk-transcript__fragment' data-time='962749' id='t-962749'>to one-is-to-one.</span>
+<span class='talk-transcript__fragment' data-time='964981' id='t-964981'>I'd like to make the suggestion that we don't need to aim</span>
+<span class='talk-transcript__fragment' data-time='968372' id='t-968372'>for that to make substantial progress from where we are.</span>
+<span class='talk-transcript__fragment' data-time='972533' id='t-972533'>If we simply brought that ratio down to 15,000 to one,</span>
+<span class='talk-transcript__fragment' data-time='977600' id='t-977600'>we would be meeting those aid targets that were agreed</span>
+<span class='talk-transcript__fragment' data-time='980970' id='t-980970'>at the Rio Summit 20 years ago that the summit</span>
+<span class='talk-transcript__fragment' data-time='984487' id='t-984487'>that ended last week made no further progress on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='988349' id='t-988349'>So in summary, while radical openness is great,</span>
+<span class='talk-transcript__fragment' data-time='992154' id='t-992154'>given how closed we are,</span>
+<span class='talk-transcript__fragment' data-time='994167' id='t-994167'>even incremental openness could make things</span>
+<span class='talk-transcript__fragment' data-time='997141' id='t-997141'>dramatically better. Thank you very much. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='1000772' id='t-1000772'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

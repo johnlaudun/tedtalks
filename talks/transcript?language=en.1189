@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Massimo Banzi: How Arduino is open-sourcing imagination | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Massimo Banzi: How Arduino is open-sourcing imagination | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Massimo Banzi helped invent the Arduino, a tiny, easy-to-use open-source microcontroller that&#39;s inspired thousands of people around the world to make the coolest things they can imagine -- from toys to satellite gear. Because, as he says, &quot;You don&#39;t need anyone&#39;s permission to make something great.&quot;" name="description" />
+<meta content="Massimo Banzi" name="author" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=nb" hreflang="nb" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;How Arduino is open-sourcing imagination&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/789633cefb011dbd2b8f0081b868424d24d45166_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/789633cefb011dbd2b8f0081b868424d24d45166_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Massimo Banzi helped invent the Arduino, a tiny, easy-to-use open-source microcontroller that&#39;s inspired thousands of people around the world to make the coolest things they can imagine -- from toys to satellite gear. Because, as he says, &quot;You don&#39;t need anyone&#39;s permission to make something great.&quot;" property="og:description" />
+<meta content="http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1491?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='massimo_banzi_how_arduino_is_open_sourcing_imagination'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='nb'>Norwegian Bokmal</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1491?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="946" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/789633cefb011dbd2b8f0081b868424d24d45166_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:46</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Massimo Banzi</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1491?language=en' lang='en'>
+How Arduino is open-sourcing imagination
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jun 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='25' id='t-25'>So a few weeks ago, a friend</span>
+<span class='talk-transcript__fragment' data-time='2722' id='t-2722'>of mine gave this toy car to his</span>
+<span class='talk-transcript__fragment' data-time='4976' id='t-4976'>8-year-old son.</span>
+<span class='talk-transcript__fragment' data-time='6587' id='t-6587'>But instead of going into a store and buying one,</span>
+<span class='talk-transcript__fragment' data-time='9408' id='t-9408'>like we do normally, he went to this</span>
+<span class='talk-transcript__fragment' data-time='12203' id='t-12203'>website and he downloaded</span>
+<span class='talk-transcript__fragment' data-time='14118' id='t-14118'>a file, and then he printed it</span>
+<span class='talk-transcript__fragment' data-time='16287' id='t-16287'>on this printer.</span>
+<span class='talk-transcript__fragment' data-time='18142' id='t-18142'>So this idea that you can</span>
+<span class='talk-transcript__fragment' data-time='20121' id='t-20121'>manufacture objects</span>
+<span class='talk-transcript__fragment' data-time='22068' id='t-22068'>digitally using these machines</span>
+<span class='talk-transcript__fragment' data-time='23631' id='t-23631'>is something that The Economist magazine</span>
+<span class='talk-transcript__fragment' data-time='25309' id='t-25309'>defined as the Third Industrial Revolution.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='27939' id='t-27939'>Actually, I argue that there is another revolution</span>
+<span class='talk-transcript__fragment' data-time='31782' id='t-31782'>going on, and it's the one that has to do with</span>
+<span class='talk-transcript__fragment' data-time='34380' id='t-34380'>open-source hardware and the maker's movement,</span>
+<span class='talk-transcript__fragment' data-time='36908' id='t-36908'>because the printer that my friend used</span>
+<span class='talk-transcript__fragment' data-time='40667' id='t-40667'>to print the toy is actually open-source.</span>
+<span class='talk-transcript__fragment' data-time='43284' id='t-43284'>So you go to the same website, you can download all the files</span>
+<span class='talk-transcript__fragment' data-time='46777' id='t-46777'>that you need in order to make that printer:</span>
+<span class='talk-transcript__fragment' data-time='50534' id='t-50534'>the construction files, the hardware, the software,</span>
+<span class='talk-transcript__fragment' data-time='54046' id='t-54046'>all the instruction is there.</span>
+<span class='talk-transcript__fragment' data-time='56855' id='t-56855'>And also this is part of a large</span>
+<span class='talk-transcript__fragment' data-time='58975' id='t-58975'>community where there are thousands of people</span>
+<span class='talk-transcript__fragment' data-time='61575' id='t-61575'>around the world that are actually</span>
+<span class='talk-transcript__fragment' data-time='63535' id='t-63535'>making these kinds of printers,</span>
+<span class='talk-transcript__fragment' data-time='65078' id='t-65078'>and there's a lot of innovation</span>
+<span class='talk-transcript__fragment' data-time='66550' id='t-66550'>happening because it's all open-source.</span>
+<span class='talk-transcript__fragment' data-time='68464' id='t-68464'>You don't need anybody's permission to create something great.</span>
+<span class='talk-transcript__fragment' data-time='72352' id='t-72352'>And that space is like</span>
+<span class='talk-transcript__fragment' data-time='74713' id='t-74713'>the personal computer in 1976,</span>
+<span class='talk-transcript__fragment' data-time='77509' id='t-77509'>like the Apples with the other companies are fighting,</span>
+<span class='talk-transcript__fragment' data-time='79867' id='t-79867'>and we will see in a few years,</span>
+<span class='talk-transcript__fragment' data-time='82248' id='t-82248'>there will be the Apple of this kind of market come out.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='85381' id='t-85381'>Well, there's also another interesting thing.</span>
+<span class='talk-transcript__fragment' data-time='89184' id='t-89184'>I said the electronics are open-source, because at the heart</span>
+<span class='talk-transcript__fragment' data-time='91148' id='t-91148'>of this printer there is something I'm really attached to:</span>
+<span class='talk-transcript__fragment' data-time='94129' id='t-94129'>these Arduino boards, the motherboard that sort of</span>
+<span class='talk-transcript__fragment' data-time='97080' id='t-97080'>powers this printer, is a project</span>
+<span class='talk-transcript__fragment' data-time='99287' id='t-99287'>I've been working on for the past seven years.</span>
+<span class='talk-transcript__fragment' data-time='101710' id='t-101710'>It's an open-source project.</span>
+<span class='talk-transcript__fragment' data-time='103271' id='t-103271'>I worked with these friends of mine that I have here.</span>
+<span class='talk-transcript__fragment' data-time='106292' id='t-106292'>So the five of us, two Americans, two Italians</span>
+<span class='talk-transcript__fragment' data-time='108946' id='t-108946'>and a Spaniard, we — (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='111927' id='t-111927'>You know, it's a worldwide project. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='115002' id='t-115002'>So we came together in this</span>
+<span class='talk-transcript__fragment' data-time='116871' id='t-116871'>design institute called the Interaction Design Institute</span>
+<span class='talk-transcript__fragment' data-time='119494' id='t-119494'>Ivrea, which was teaching</span>
+<span class='talk-transcript__fragment' data-time='121643' id='t-121643'>interaction design, this idea that you can take</span>
+<span class='talk-transcript__fragment' data-time='123941' id='t-123941'>design from the simple shape</span>
+<span class='talk-transcript__fragment' data-time='126492' id='t-126492'>of an object and you can move it</span>
+<span class='talk-transcript__fragment' data-time='128269' id='t-128269'>forward to design the way you interact with things.</span>
+<span class='talk-transcript__fragment' data-time='130321' id='t-130321'>Well, when you design an object that's supposed to interact</span>
+<span class='talk-transcript__fragment' data-time='133213' id='t-133213'>with a human being, if you make a foam model</span>
+<span class='talk-transcript__fragment' data-time='135021' id='t-135021'>of a mobile phone, it doesn't make any sense.</span>
+<span class='talk-transcript__fragment' data-time='137844' id='t-137844'>You have to have something that</span>
+<span class='talk-transcript__fragment' data-time='139350' id='t-139350'>actually interacts with people.</span>
+<span class='talk-transcript__fragment' data-time='141857' id='t-141857'>So, we worked on Arduino and</span>
+<span class='talk-transcript__fragment' data-time='144976' id='t-144976'>a lot of other projects there to</span>
+<span class='talk-transcript__fragment' data-time='146792' id='t-146792'>create platforms that would be</span>
+<span class='talk-transcript__fragment' data-time='148693' id='t-148693'>simple for our students to use,</span>
+<span class='talk-transcript__fragment' data-time='150877' id='t-150877'>so that our students could just build things that worked,</span>
+<span class='talk-transcript__fragment' data-time='153338' id='t-153338'>but they don't have five years to become an electronics engineer. We have one month.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='157396' id='t-157396'>So how do I make something that even a kid can use?</span>
+<span class='talk-transcript__fragment' data-time='160051' id='t-160051'>And actually, with Arduino,</span>
+<span class='talk-transcript__fragment' data-time='162952' id='t-162952'>we have kids like Sylvia that you see here,</span>
+<span class='talk-transcript__fragment' data-time='165375' id='t-165375'>that actually make projects with Arduino.</span>
+<span class='talk-transcript__fragment' data-time='167247' id='t-167247'>I have 11-year-old kids stop me and show me</span>
+<span class='talk-transcript__fragment' data-time='169855' id='t-169855'>stuff they built for Arduino that's really</span>
+<span class='talk-transcript__fragment' data-time='172674' id='t-172674'>scary to see the capabilities</span>
+<span class='talk-transcript__fragment' data-time='174415' id='t-174415'>that kids have when you give them the tools.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='176838' id='t-176838'>So let's look at what happens when you make a tool</span>
+<span class='talk-transcript__fragment' data-time='179818' id='t-179818'>that anybody can just pick up and build something quickly,</span>
+<span class='talk-transcript__fragment' data-time='182665' id='t-182665'>so one of the examples that I like to sort of</span>
+<span class='talk-transcript__fragment' data-time='184533' id='t-184533'>kick off this discussion is this</span>
+<span class='talk-transcript__fragment' data-time='186447' id='t-186447'>example of this cat feeder.</span>
+<span class='talk-transcript__fragment' data-time='188177' id='t-188177'>The gentleman who made this project had two cats.</span>
+<span class='talk-transcript__fragment' data-time='190744' id='t-190744'>One was sick and the other one</span>
+<span class='talk-transcript__fragment' data-time='192478' id='t-192478'>was healthy, so he had to make</span>
+<span class='talk-transcript__fragment' data-time='194856' id='t-194856'>sure they ate the proper food.</span>
+<span class='talk-transcript__fragment' data-time='196544' id='t-196544'>So he made this thing that recognizes the cat</span>
+<span class='talk-transcript__fragment' data-time='198703' id='t-198703'>from a chip mounted inside</span>
+<span class='talk-transcript__fragment' data-time='200840' id='t-200840'>on the collar of the cat, and opens the door</span>
+<span class='talk-transcript__fragment' data-time='203560' id='t-203560'>and the cat can eat the food.</span>
+<span class='talk-transcript__fragment' data-time='205304' id='t-205304'>This is made by recycling an old CD player</span>
+<span class='talk-transcript__fragment' data-time='207094' id='t-207094'>that you can get from an old computer,</span>
+<span class='talk-transcript__fragment' data-time='209307' id='t-209307'>some cardboard, tape, couple of sensors, a few blinking LEDs,</span>
+<span class='talk-transcript__fragment' data-time='212763' id='t-212763'>and then suddenly you have a tool. You build something</span>
+<span class='talk-transcript__fragment' data-time='215551' id='t-215551'>that you cannot find on the market.</span>
+<span class='talk-transcript__fragment' data-time='217488' id='t-217488'>And I like this phrase: &quot;Scratch your own itch.&quot;</span>
+<span class='talk-transcript__fragment' data-time='220252' id='t-220252'>If you have an idea, you just go and you make it.</span>
+<span class='talk-transcript__fragment' data-time='222847' id='t-222847'>This is the equivalent of sketching on paper</span>
+<span class='talk-transcript__fragment' data-time='224796' id='t-224796'>done with electronics.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='227368' id='t-227368'>So one of the features that I</span>
+<span class='talk-transcript__fragment' data-time='229116' id='t-229116'>think is important about our work</span>
+<span class='talk-transcript__fragment' data-time='230944' id='t-230944'>is that our hardware, on top of</span>
+<span class='talk-transcript__fragment' data-time='233716' id='t-233716'>being made with love in Italy —</span>
+<span class='talk-transcript__fragment' data-time='235906' id='t-235906'>as you can see from the</span>
+<span class='talk-transcript__fragment' data-time='237659' id='t-237659'>back of the circuit — (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='239688' id='t-239688'>is that it's open,</span>
+<span class='talk-transcript__fragment' data-time='241528' id='t-241528'>so we publish all the design</span>
+<span class='talk-transcript__fragment' data-time='243496' id='t-243496'>files for the circuit online,</span>
+<span class='talk-transcript__fragment' data-time='245224' id='t-245224'>so you can download it and</span>
+<span class='talk-transcript__fragment' data-time='247207' id='t-247207'>you can actually use it to</span>
+<span class='talk-transcript__fragment' data-time='249047' id='t-249047'>make something, or to modify, to learn.</span>
+<span class='talk-transcript__fragment' data-time='251680' id='t-251680'>You know, when I was learning about programming,</span>
+<span class='talk-transcript__fragment' data-time='252949' id='t-252949'>I learned by looking at other people's code,</span>
+<span class='talk-transcript__fragment' data-time='254826' id='t-254826'>or looking at other people's circuits in magazines.</span>
+<span class='talk-transcript__fragment' data-time='258255' id='t-258255'>And this is a good way to learn,</span>
+<span class='talk-transcript__fragment' data-time='260471' id='t-260471'>by looking at other people's work.</span>
+<span class='talk-transcript__fragment' data-time='262712' id='t-262712'>So the different elements of the project are all open,</span>
+<span class='talk-transcript__fragment' data-time='265304' id='t-265304'>so the hardware is released</span>
+<span class='talk-transcript__fragment' data-time='267007' id='t-267007'>with a Creative Commons license.</span>
+<span class='talk-transcript__fragment' data-time='269071' id='t-269071'>So, you know, I like this idea that hardware becomes</span>
+<span class='talk-transcript__fragment' data-time='271097' id='t-271097'>like a piece of culture that you share</span>
+<span class='talk-transcript__fragment' data-time='273236' id='t-273236'>and you build upon, like it was</span>
+<span class='talk-transcript__fragment' data-time='275195' id='t-275195'>a song or a poem with Creative Commons.</span>
+<span class='talk-transcript__fragment' data-time='278832' id='t-278832'>Or, the software is GPL, so it's open-source as well.</span>
+<span class='talk-transcript__fragment' data-time='281508' id='t-281508'>The documentation and the hands-on teaching</span>
+<span class='talk-transcript__fragment' data-time='284935' id='t-284935'>methodology is also open-source and released as the Creative Commons.</span>
+<span class='talk-transcript__fragment' data-time='288518' id='t-288518'>Just the name is protected so</span>
+<span class='talk-transcript__fragment' data-time='290521' id='t-290521'>that we can make sure that we can tell people</span>
+<span class='talk-transcript__fragment' data-time='293267' id='t-293267'>what is Arduino and what isn't.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='295907' id='t-295907'>Now, Arduino itself is made of</span>
+<span class='talk-transcript__fragment' data-time='297579' id='t-297579'>a lot of different open-source components</span>
+<span class='talk-transcript__fragment' data-time='299819' id='t-299819'>that maybe individually are hard to use for</span>
+<span class='talk-transcript__fragment' data-time='302570' id='t-302570'>a 12-year-old kid, so Arduino</span>
+<span class='talk-transcript__fragment' data-time='304677' id='t-304677'>wraps everything together into</span>
+<span class='talk-transcript__fragment' data-time='306530' id='t-306530'>a mashup of open-source technologies</span>
+<span class='talk-transcript__fragment' data-time='308796' id='t-308796'>where we try to give them the</span>
+<span class='talk-transcript__fragment' data-time='310668' id='t-310668'>best user experience to get something done quickly.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='312875' id='t-312875'>So you have situations like this,</span>
+<span class='talk-transcript__fragment' data-time='315746' id='t-315746'>where some people in Chile</span>
+<span class='talk-transcript__fragment' data-time='317684' id='t-317684'>decided to make their own boards instead of buying them,</span>
+<span class='talk-transcript__fragment' data-time='320482' id='t-320482'>to organize a workshop and</span>
+<span class='talk-transcript__fragment' data-time='322407' id='t-322407'>to save money. Or there are</span>
+<span class='talk-transcript__fragment' data-time='325507' id='t-325507'>companies that make their own</span>
+<span class='talk-transcript__fragment' data-time='327452' id='t-327452'>variations of Arduino that fit</span>
+<span class='talk-transcript__fragment' data-time='329221' id='t-329221'>in a certain market, and there's</span>
+<span class='talk-transcript__fragment' data-time='330972' id='t-330972'>probably, maybe like a 150 of them</span>
+<span class='talk-transcript__fragment' data-time='333685' id='t-333685'>or something at the moment.</span>
+<span class='talk-transcript__fragment' data-time='335477' id='t-335477'>This one is made by a company</span>
+<span class='talk-transcript__fragment' data-time='337365' id='t-337365'>called Adafruit, which is run by</span>
+<span class='talk-transcript__fragment' data-time='339309' id='t-339309'>this woman called Limor Fried,</span>
+<span class='talk-transcript__fragment' data-time='341621' id='t-341621'>also known as Ladyada, who is</span>
+<span class='talk-transcript__fragment' data-time='343228' id='t-343228'>one of the heroes of the open-source hardware movement</span>
+<span class='talk-transcript__fragment' data-time='345949' id='t-345949'>and the maker movement.</span>
+<span class='talk-transcript__fragment' data-time='347483' id='t-347483'>So, this idea that you have a new, sort of</span>
+<span class='talk-transcript__fragment' data-time='350437' id='t-350437'>turbo-charged DIY community</span>
+<span class='talk-transcript__fragment' data-time='353221' id='t-353221'>that believes in open-source,</span>
+<span class='talk-transcript__fragment' data-time='354901' id='t-354901'>in collaboration, collaborates</span>
+<span class='talk-transcript__fragment' data-time='357101' id='t-357101'>online, collaborates in different spaces.</span>
+<span class='talk-transcript__fragment' data-time='359542' id='t-359542'>There is this magazine called Make that sort of gathered</span>
+<span class='talk-transcript__fragment' data-time='362664' id='t-362664'>all these people and sort of put them together</span>
+<span class='talk-transcript__fragment' data-time='364204' id='t-364204'>as a community, and you see</span>
+<span class='talk-transcript__fragment' data-time='366636' id='t-366636'>a very technical project explained in a</span>
+<span class='talk-transcript__fragment' data-time='368664' id='t-368664'>very simple language, beautifully typeset.</span>
+<span class='talk-transcript__fragment' data-time='371521' id='t-371521'>Or you have websites,</span>
+<span class='talk-transcript__fragment' data-time='373089' id='t-373089'>like this one, like Instructables,</span>
+<span class='talk-transcript__fragment' data-time='375350' id='t-375350'>where people actually teach each other about anything.</span>
+<span class='talk-transcript__fragment' data-time='377354' id='t-377354'>So this one is about Arduino projects,</span>
+<span class='talk-transcript__fragment' data-time='379099' id='t-379099'>the page you see on the screen, but effectively here you can</span>
+<span class='talk-transcript__fragment' data-time='382660' id='t-382660'>learn how to make a cake and everything else.</span>
+<span class='talk-transcript__fragment' data-time='385238' id='t-385238'>So let's look at some projects.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='388038' id='t-388038'>So this one is a quadcopter.</span>
+<span class='talk-transcript__fragment' data-time='389654' id='t-389654'>It's a small model helicopter.</span>
+<span class='talk-transcript__fragment' data-time='391369' id='t-391369'>In a way, it's a toy, no?</span>
+<span class='talk-transcript__fragment' data-time='393639' id='t-393639'>And so this one was military technology</span>
+<span class='talk-transcript__fragment' data-time='395932' id='t-395932'>a few years ago, and now it's</span>
+<span class='talk-transcript__fragment' data-time='397853' id='t-397853'>open-source, easy to use, you can buy it online.</span>
+<span class='talk-transcript__fragment' data-time='400495' id='t-400495'>DIY Drones is the community; they do this thing called ArduCopter.</span>
+<span class='talk-transcript__fragment' data-time='404413' id='t-404413'>But then somebody actually launched this start-up called</span>
+<span class='talk-transcript__fragment' data-time='407426' id='t-407426'>Matternet, where they figured out that you could</span>
+<span class='talk-transcript__fragment' data-time='409619' id='t-409619'>use this to actually transport</span>
+<span class='talk-transcript__fragment' data-time='411917' id='t-411917'>things from one village to another in Africa,</span>
+<span class='talk-transcript__fragment' data-time='414350' id='t-414350'>and the fact that this was easy to find,</span>
+<span class='talk-transcript__fragment' data-time='415918' id='t-415918'>open-source, easy to hack, enabled them</span>
+<span class='talk-transcript__fragment' data-time='418530' id='t-418530'>to prototype their company really quickly.</span>
+<span class='talk-transcript__fragment' data-time='420668' id='t-420668'>Or, other projects. Matt Richardson: I'm getting a little sick</span>
+<span class='talk-transcript__fragment' data-time='423357' id='t-423357'>of hearing about the same people on TV over and over and over</span>
+<span class='talk-transcript__fragment' data-time='426613' id='t-426613'>again, so I decided to do something about it.</span>
+<span class='talk-transcript__fragment' data-time='429823' id='t-429823'>This Arduino project,</span>
+<span class='talk-transcript__fragment' data-time='431237' id='t-431237'>which I call the Enough Already, will mute the TV anytime</span>
+<span class='talk-transcript__fragment' data-time='434612' id='t-434612'>any of these over-exposed</span>
+<span class='talk-transcript__fragment' data-time='436587' id='t-436587'>personalities is mentioned. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='437819' id='t-437819'>I'll show you how I made it. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='442667' id='t-442667'>MB: Check this out.</span>
+<span class='talk-transcript__fragment' data-time='444491' id='t-444491'>MR: Our producers caught up with Kim Kardashian earlier</span>
+<span class='talk-transcript__fragment' data-time='446448' id='t-446448'>today to find out what she was planning on wearing to her —</span>
+<span class='talk-transcript__fragment' data-time='449351' id='t-449351'>MB: Eh? (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='450742' id='t-450742'>MR: It should do a pretty good</span>
+<span class='talk-transcript__fragment' data-time='452644' id='t-452644'>job of protecting our ears from having to hear about the details</span>
+<span class='talk-transcript__fragment' data-time='454311' id='t-454311'>of Kim Kardashian's wedding.</span>
+<span class='talk-transcript__fragment' data-time='456107' id='t-456107'>MB: Okay. So, you know, again, what is interesting here</span>
+<span class='talk-transcript__fragment' data-time='460664' id='t-460664'>is that Matt found this module</span>
+<span class='talk-transcript__fragment' data-time='463634' id='t-463634'>that lets Arduino process</span>
+<span class='talk-transcript__fragment' data-time='465866' id='t-465866'>TV signals, he found some code</span>
+<span class='talk-transcript__fragment' data-time='467755' id='t-467755'>written by somebody else that generates infrared signals for the TV,</span>
+<span class='talk-transcript__fragment' data-time='470584' id='t-470584'>put it together and then created this great project.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='472934' id='t-472934'>It's also used, Arduino's used,</span>
+<span class='talk-transcript__fragment' data-time='474986' id='t-474986'>in serious places like, you know, the Large Hadron Collider.</span>
+<span class='talk-transcript__fragment' data-time='477886' id='t-477886'>There's some Arduino balls collecting data and sort of</span>
+<span class='talk-transcript__fragment' data-time='480595' id='t-480595'>measuring some parameters.</span>
+<span class='talk-transcript__fragment' data-time='482395' id='t-482395'>Or it's used for —</span>
+<span class='talk-transcript__fragment' data-time='484714' id='t-484714'>(Music)</span>
+<span class='talk-transcript__fragment' data-time='495426' id='t-495426'>So this is a musical interface</span>
+<span class='talk-transcript__fragment' data-time='497867' id='t-497867'>built by a student from Italy,</span>
+<span class='talk-transcript__fragment' data-time='499986' id='t-499986'>and he's now turning this into</span>
+<span class='talk-transcript__fragment' data-time='502106' id='t-502106'>a product. Because it was a</span>
+<span class='talk-transcript__fragment' data-time='503964' id='t-503964'>student project becoming a product.</span>
+<span class='talk-transcript__fragment' data-time='506195' id='t-506195'>Or it can be used to make an assistive device.</span>
+<span class='talk-transcript__fragment' data-time='508139' id='t-508139'>This is a glove that understands</span>
+<span class='talk-transcript__fragment' data-time='510129' id='t-510129'>the sign language and transforms</span>
+<span class='talk-transcript__fragment' data-time='512276' id='t-512276'>the gestures you make into sounds</span>
+<span class='talk-transcript__fragment' data-time='514475' id='t-514475'>and writes the words that you're signing on a display</span>
+<span class='talk-transcript__fragment' data-time='517791' id='t-517791'>And again, this is made of all different parts you can find</span>
+<span class='talk-transcript__fragment' data-time='519137' id='t-519137'>on all the websites that sell Arduino-compatible parts,</span>
+<span class='talk-transcript__fragment' data-time='522086' id='t-522086'>and you assemble it into a project.</span>
+<span class='talk-transcript__fragment' data-time='524170' id='t-524170'>Or this is a project from the ITP part of NYU,</span>
+<span class='talk-transcript__fragment' data-time='527491' id='t-527491'>where they met with this boy</span>
+<span class='talk-transcript__fragment' data-time='529218' id='t-529218'>who has a severe disability, cannot play with the PS3,</span>
+<span class='talk-transcript__fragment' data-time='532236' id='t-532236'>so they built this device that</span>
+<span class='talk-transcript__fragment' data-time='534179' id='t-534179'>allows the kid to play baseball</span>
+<span class='talk-transcript__fragment' data-time='536626' id='t-536626'>although he has limited</span>
+<span class='talk-transcript__fragment' data-time='538523' id='t-538523'>movement capability.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='540899' id='t-540899'>Or you can find it in arts projects.</span>
+<span class='talk-transcript__fragment' data-time='543049' id='t-543049'>So this is the txtBomber.</span>
+<span class='talk-transcript__fragment' data-time='545364' id='t-545364'>So you put a message into this device</span>
+<span class='talk-transcript__fragment' data-time='547001' id='t-547001'>and then you roll it on the wall, and it basically</span>
+<span class='talk-transcript__fragment' data-time='549844' id='t-549844'>has all these solenoids</span>
+<span class='talk-transcript__fragment' data-time='551746' id='t-551746'>pressing the buttons on spray cans,</span>
+<span class='talk-transcript__fragment' data-time='553538' id='t-553538'>so you just pull it over a wall</span>
+<span class='talk-transcript__fragment' data-time='555174' id='t-555174'>and it just writes on the wall</span>
+<span class='talk-transcript__fragment' data-time='556901' id='t-556901'>all the political messages.</span>
+<span class='talk-transcript__fragment' data-time='559363' id='t-559363'>So, yeah. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='561994' id='t-561994'>Then we have this plant here.</span>
+<span class='talk-transcript__fragment' data-time='564034' id='t-564034'>This is called Botanicalls,</span>
+<span class='talk-transcript__fragment' data-time='565924' id='t-565924'>because there's an Arduino ball with a Wi-Fi module</span>
+<span class='talk-transcript__fragment' data-time='569119' id='t-569119'>in the plant, and it's measuring</span>
+<span class='talk-transcript__fragment' data-time='571720' id='t-571720'>the well-being of the plant,</span>
+<span class='talk-transcript__fragment' data-time='573235' id='t-573235'>and it's creating a Twitter account</span>
+<span class='talk-transcript__fragment' data-time='575225' id='t-575225'>where you can actually interact with the plant. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='578754' id='t-578754'>So, you know, this plant</span>
+<span class='talk-transcript__fragment' data-time='580684' id='t-580684'>will start to say, &quot;This is really hot,&quot; or</span>
+<span class='talk-transcript__fragment' data-time='583163' id='t-583163'>there's a lot of, you know, &quot;I need water right now.&quot; (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='587234' id='t-587234'>So it just gives a personality to your plant.</span>
+<span class='talk-transcript__fragment' data-time='590657' id='t-590657'>Or this is something that twitters when the</span>
+<span class='talk-transcript__fragment' data-time='593324' id='t-593324'>baby inside the belly of a</span>
+<span class='talk-transcript__fragment' data-time='595290' id='t-595290'>pregnant woman kicks. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='597898' id='t-597898'>Or this is a 14-year-old kid in</span>
+<span class='talk-transcript__fragment' data-time='599489' id='t-599489'>Chile who made a system that</span>
+<span class='talk-transcript__fragment' data-time='601609' id='t-601609'>detects earthquakes and publishes on Twitter.</span>
+<span class='talk-transcript__fragment' data-time='603933' id='t-603933'>He has 280,000 followers.</span>
+<span class='talk-transcript__fragment' data-time='606421' id='t-606421'>He's 14 and he anticipated</span>
+<span class='talk-transcript__fragment' data-time='608565' id='t-608565'>a governmental project by one year. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='612204' id='t-612204'>Or again, another project where,</span>
+<span class='talk-transcript__fragment' data-time='615945' id='t-615945'>by analyzing the Twitter feed</span>
+<span class='talk-transcript__fragment' data-time='617691' id='t-617691'>of a family, you can basically</span>
+<span class='talk-transcript__fragment' data-time='619627' id='t-619627'>point where they are, like in the &quot;Harry Potter&quot; movie.</span>
+<span class='talk-transcript__fragment' data-time='622369' id='t-622369'>So you can find out everything about this project on the website.</span>
+<span class='talk-transcript__fragment' data-time='625185' id='t-625185'>Or somebody made a chair that twitters when somebody farts. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='629866' id='t-629866'>It's interesting how, in 2009,</span>
+<span class='talk-transcript__fragment' data-time='632949' id='t-632949'>Gizmodo basically defined,</span>
+<span class='talk-transcript__fragment' data-time='635331' id='t-635331'>said that this project actually gives a meaning to Twitter,</span>
+<span class='talk-transcript__fragment' data-time='638094' id='t-638094'>so it was — a lot changed in between. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='641355' id='t-641355'>So very serious project.</span>
+<span class='talk-transcript__fragment' data-time='642799' id='t-642799'>When the Fukushima disaster happened,</span>
+<span class='talk-transcript__fragment' data-time='645006' id='t-645006'>a bunch of people in Japan, they realized that the information</span>
+<span class='talk-transcript__fragment' data-time='648008' id='t-648008'>that the government was giving wasn't really open</span>
+<span class='talk-transcript__fragment' data-time='650563' id='t-650563'>and really reliable, so they built</span>
+<span class='talk-transcript__fragment' data-time='652313' id='t-652313'>this Geiger counter, plus Arduino, plus network</span>
+<span class='talk-transcript__fragment' data-time='655089' id='t-655089'>interface. They made 100</span>
+<span class='talk-transcript__fragment' data-time='657021' id='t-657021'>of them and gave them to people around Japan, and essentially</span>
+<span class='talk-transcript__fragment' data-time='660599' id='t-660599'>the data that they gathered gets published on this website</span>
+<span class='talk-transcript__fragment' data-time='662859' id='t-662859'>called Cosm, another website</span>
+<span class='talk-transcript__fragment' data-time='665008' id='t-665008'>they built, so you can actually get reliable real-time</span>
+<span class='talk-transcript__fragment' data-time='668649' id='t-668649'>information from the field,</span>
+<span class='talk-transcript__fragment' data-time='670474' id='t-670474'>and you can get unbiased information.</span>
+<span class='talk-transcript__fragment' data-time='674081' id='t-674081'>Or this machine here, it's from</span>
+<span class='talk-transcript__fragment' data-time='675964' id='t-675964'>the DIY bio movement,</span>
+<span class='talk-transcript__fragment' data-time='678404' id='t-678404'>and it's one of the steps that you need in order to process DNA,</span>
+<span class='talk-transcript__fragment' data-time='680728' id='t-680728'>and again, it's completely open-source from the ground up.</span>
+<span class='talk-transcript__fragment' data-time='684106' id='t-684106'>Or you have students in developing countries making</span>
+<span class='talk-transcript__fragment' data-time='687500' id='t-687500'>replicas of scientific instruments that cost</span>
+<span class='talk-transcript__fragment' data-time='690489' id='t-690489'>a lot of money to make.</span>
+<span class='talk-transcript__fragment' data-time='692400' id='t-692400'>Actually they just build them themselves for a lot less</span>
+<span class='talk-transcript__fragment' data-time='694990' id='t-694990'>using Arduino and a few parts.</span>
+<span class='talk-transcript__fragment' data-time='696223' id='t-696223'>This is a pH probe.</span>
+<span class='talk-transcript__fragment' data-time='698119' id='t-698119'>Or you get kids, like these kids, they're from Spain.</span>
+<span class='talk-transcript__fragment' data-time='701517' id='t-701517'>They learned how to program and to make robots when they</span>
+<span class='talk-transcript__fragment' data-time='704381' id='t-704381'>were probably, like, 11, and then they started to use Arduino</span>
+<span class='talk-transcript__fragment' data-time='707050' id='t-707050'>to make these robots that play football. They became</span>
+<span class='talk-transcript__fragment' data-time='709043' id='t-709043'>world champions by making an Arduino-based robot.</span>
+<span class='talk-transcript__fragment' data-time='711885' id='t-711885'>And so when we had to make</span>
+<span class='talk-transcript__fragment' data-time='713761' id='t-713761'>our own educational robot, we just went to them and said,</span>
+<span class='talk-transcript__fragment' data-time='716573' id='t-716573'>you know, &quot;You design it, because you know exactly</span>
+<span class='talk-transcript__fragment' data-time='718921' id='t-718921'>what is needed to make a great robot that excites kids.&quot;</span>
+<span class='talk-transcript__fragment' data-time='722651' id='t-722651'>Not me. I'm an old guy.</span>
+<span class='talk-transcript__fragment' data-time='724327' id='t-724327'>What am I supposed to excite, huh? (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='726863' id='t-726863'>But as I — in terms of educational assets. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='730798' id='t-730798'>There's also companies like Google</span>
+<span class='talk-transcript__fragment' data-time='732696' id='t-732696'>that are using the technology</span>
+<span class='talk-transcript__fragment' data-time='734647' id='t-734647'>to create interfaces between</span>
+<span class='talk-transcript__fragment' data-time='737521' id='t-737521'>mobile phones, tablets and the real world.</span>
+<span class='talk-transcript__fragment' data-time='740914' id='t-740914'>So the Accessory Development Kit</span>
+<span class='talk-transcript__fragment' data-time='741934' id='t-741934'>from Google is open-source</span>
+<span class='talk-transcript__fragment' data-time='743986' id='t-743986'>and based on Arduino, as opposed</span>
+<span class='talk-transcript__fragment' data-time='745368' id='t-745368'>to the one from Apple which is</span>
+<span class='talk-transcript__fragment' data-time='747025' id='t-747025'>closed-source, NDA, sign your</span>
+<span class='talk-transcript__fragment' data-time='749529' id='t-749529'>life to Apple. Here you are.</span>
+<span class='talk-transcript__fragment' data-time='752094' id='t-752094'>There's a giant maze, and Joey's sitting there, and the</span>
+<span class='talk-transcript__fragment' data-time='754674' id='t-754674'>maze is moving when you tilt the tablet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='758858' id='t-758858'>Also, I come from Italy, and the design is important</span>
+<span class='talk-transcript__fragment' data-time='761830' id='t-761830'>in Italy, and yet very conservative.</span>
+<span class='talk-transcript__fragment' data-time='764177' id='t-764177'>So we worked with a design</span>
+<span class='talk-transcript__fragment' data-time='765594' id='t-765594'>studio called Habits, in Milan,</span>
+<span class='talk-transcript__fragment' data-time='767760' id='t-767760'>to make this mirror, which is completely open-source.</span>
+<span class='talk-transcript__fragment' data-time='770448' id='t-770448'>This doubles also as an iPod speaker.</span>
+<span class='talk-transcript__fragment' data-time='773633' id='t-773633'>So the idea is that the hardware, the software,</span>
+<span class='talk-transcript__fragment' data-time='777270' id='t-777270'>the design of the object, the fabrication,</span>
+<span class='talk-transcript__fragment' data-time='778738' id='t-778738'>everything about this project is open-source</span>
+<span class='talk-transcript__fragment' data-time='781223' id='t-781223'>and you can make it yourself.</span>
+<span class='talk-transcript__fragment' data-time='783093' id='t-783093'>So we want other designers to pick this up and learn how</span>
+<span class='talk-transcript__fragment' data-time='785447' id='t-785447'>to make great devices, to learn</span>
+<span class='talk-transcript__fragment' data-time='788058' id='t-788058'>how to make interactive products</span>
+<span class='talk-transcript__fragment' data-time='789736' id='t-789736'>by starting from something real.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='792505' id='t-792505'>But when you have this idea,</span>
+<span class='talk-transcript__fragment' data-time='794906' id='t-794906'>you know, what happens to all these ideas?</span>
+<span class='talk-transcript__fragment' data-time='796819' id='t-796819'>There's, like, thousands of ideas that I —</span>
+<span class='talk-transcript__fragment' data-time='798697' id='t-798697'>You know, it would take seven hours for me to do</span>
+<span class='talk-transcript__fragment' data-time='800857' id='t-800857'>all the presentations.</span>
+<span class='talk-transcript__fragment' data-time='802737' id='t-802737'>I will not take all the seven hours. Thank you.</span>
+<span class='talk-transcript__fragment' data-time='805785' id='t-805785'>But let's start from this example:</span>
+<span class='talk-transcript__fragment' data-time='807801' id='t-807801'>So, the group of people</span>
+<span class='talk-transcript__fragment' data-time='809729' id='t-809729'>that started this company called Pebble, they prototyped</span>
+<span class='talk-transcript__fragment' data-time='812140' id='t-812140'>a watch that communicates via Bluetooth with your phone,</span>
+<span class='talk-transcript__fragment' data-time='815832' id='t-815832'>and you can display information</span>
+<span class='talk-transcript__fragment' data-time='817368' id='t-817368'>on it. And they prototyped with</span>
+<span class='talk-transcript__fragment' data-time='819640' id='t-819640'>an old LCD screen from a Nokia</span>
+<span class='talk-transcript__fragment' data-time='821585' id='t-821585'>mobile phone and an Arduino.</span>
+<span class='talk-transcript__fragment' data-time='823993' id='t-823993'>And then, when they had a final</span>
+<span class='talk-transcript__fragment' data-time='825826' id='t-825826'>project, they actually went to Kickstarter</span>
+<span class='talk-transcript__fragment' data-time='828234' id='t-828234'>and they were asking for 100,000 dollars to make</span>
+<span class='talk-transcript__fragment' data-time='830853' id='t-830853'>a few of them to sell.</span>
+<span class='talk-transcript__fragment' data-time='832708' id='t-832708'>They got 10 million dollars.</span>
+<span class='talk-transcript__fragment' data-time='834779' id='t-834779'>They got a completely</span>
+<span class='talk-transcript__fragment' data-time='836314' id='t-836314'>fully funded start-up, and they don't have to,</span>
+<span class='talk-transcript__fragment' data-time='839027' id='t-839027'>you know, get VCs involved or anything,</span>
+<span class='talk-transcript__fragment' data-time='840879' id='t-840879'>just excite the people with their great project.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='843747' id='t-843747'>The last project I want to show you is this:</span>
+<span class='talk-transcript__fragment' data-time='846031' id='t-846031'>It's called ArduSat. It's currently on Kickstarter,</span>
+<span class='talk-transcript__fragment' data-time='849769' id='t-849769'>so if you want to contribute, please do it.</span>
+<span class='talk-transcript__fragment' data-time='852076' id='t-852076'>It's a satellite that goes into space, which is probably</span>
+<span class='talk-transcript__fragment' data-time='854886' id='t-854886'>the least open-source thing you can imagine,</span>
+<span class='talk-transcript__fragment' data-time='856808' id='t-856808'>and it contains an Arduino</span>
+<span class='talk-transcript__fragment' data-time='858859' id='t-858859'>connected to a bunch of sensors. So if you know how to use Arduino,</span>
+<span class='talk-transcript__fragment' data-time='861969' id='t-861969'>you can actually upload your experiments</span>
+<span class='talk-transcript__fragment' data-time='864425' id='t-864425'>into this satellite and run them.</span>
+<span class='talk-transcript__fragment' data-time='866616' id='t-866616'>So imagine, if you as a high school can have the satellite</span>
+<span class='talk-transcript__fragment' data-time='869252' id='t-869252'>for a week and do satellite</span>
+<span class='talk-transcript__fragment' data-time='871601' id='t-871601'>space experiments like that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='874253' id='t-874253'>So, as I said, there's</span>
+<span class='talk-transcript__fragment' data-time='877009' id='t-877009'>lots of examples, and I'm going to stop here. And I just</span>
+<span class='talk-transcript__fragment' data-time='878568' id='t-878568'>want to thank the Arduino community</span>
+<span class='talk-transcript__fragment' data-time='881084' id='t-881084'>for being the best, and just</span>
+<span class='talk-transcript__fragment' data-time='882754' id='t-882754'>every day making lots of projects.</span>
+<span class='talk-transcript__fragment' data-time='884946' id='t-884946'>Thank you. (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='888410' id='t-888410'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='890737' id='t-890737'>And thanks to the community.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='893224' id='t-893224'>Chris Anderson: Massimo,</span>
+<span class='talk-transcript__fragment' data-time='895197' id='t-895197'>you told me earlier today that you had no idea, of course,</span>
+<span class='talk-transcript__fragment' data-time='897802' id='t-897802'>that it would take off like this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='899274' id='t-899274'>MB: No.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='900063' id='t-900063'>CA: I mean, how must you feel when you read this stuff and you</span>
+<span class='talk-transcript__fragment' data-time='901859' id='t-901859'>see what you've unlocked?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='904360' id='t-904360'>MB: Well, it's the work of a lot of people, so we as a community</span>
+<span class='talk-transcript__fragment' data-time='907179' id='t-907179'>are enabling people to make</span>
+<span class='talk-transcript__fragment' data-time='908973' id='t-908973'>great stuff, and I just feel overwhelmed.</span>
+<span class='talk-transcript__fragment' data-time='911475' id='t-911475'>It's just, it's difficult to describe this.</span>
+<span class='talk-transcript__fragment' data-time='913644' id='t-913644'>Every morning, I wake up and I look at all the stuff that</span>
+<span class='talk-transcript__fragment' data-time='915658' id='t-915658'>Google Alerts sends me, and it's</span>
+<span class='talk-transcript__fragment' data-time='917844' id='t-917844'>just amazing. It's just</span>
+<span class='talk-transcript__fragment' data-time='919379' id='t-919379'>going into every field that you can imagine.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='922052' id='t-922052'>CA: Thank you so much. (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='924044' id='t-924044'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

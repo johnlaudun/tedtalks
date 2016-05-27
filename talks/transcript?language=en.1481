@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Adam Spencer: Why I fell in love with monster prime numbers | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Adam Spencer: Why I fell in love with monster prime numbers | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: They&#39;re millions of digits long, and it takes an army of mathematicians and machines to hunt them down -- what&#39;s not to love about monster primes? Adam Spencer, comedian and lifelong math geek, shares his passion for these odd numbers, and for the mysterious magic of math." name="description" />
+<meta content="Adam Spencer" name="author" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=fr-ca" hreflang="fr-ca" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=sk" hreflang="sk" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;Why I fell in love with monster prime numbers&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65ee8a1f72e612d4af2d625d050077f18248a33b_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65ee8a1f72e612d4af2d625d050077f18248a33b_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: They&#39;re millions of digits long, and it takes an army of mathematicians and machines to hunt them down -- what&#39;s not to love about monster primes? Adam Spencer, comedian and lifelong math geek, shares his passion for these odd numbers, and for the mysterious magic of math." property="og:description" />
+<meta content="http://www.ted.com/talks/adam_spencer_why_i_fell_in_love_with_monster_prime_numbers/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1811?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='adam_spencer_why_i_fell_in_love_with_monster_prime_numbers'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='fr-ca'>French (Canada)</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sk'>Slovak</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1811?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1037" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65ee8a1f72e612d4af2d625d050077f18248a33b_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:17</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Adam Spencer</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1811?language=en' lang='en'>
+Why I fell in love with monster prime numbers
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Funny, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='942' id='t-942'>Ah yes, those university days,</span>
+<span class='talk-transcript__fragment' data-time='3770' id='t-3770'>a heady mix of Ph.D-level pure mathematics</span>
+<span class='talk-transcript__fragment' data-time='7673' id='t-7673'>and world debating championships,</span>
+<span class='talk-transcript__fragment' data-time='10144' id='t-10144'>or, as I like to say, &quot;Hello, ladies. Oh yeah.&quot;</span>
+<span class='talk-transcript__fragment' data-time='15397' id='t-15397'>Didn't get much sexier than the Spence</span>
+<span class='talk-transcript__fragment' data-time='17389' id='t-17389'>at university, let me tell you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='18853' id='t-18853'>It is such a thrill for a humble breakfast radio announcer</span>
+<span class='talk-transcript__fragment' data-time='23239' id='t-23239'>from Sydney, Australia, to be here on the TED stage</span>
+<span class='talk-transcript__fragment' data-time='25570' id='t-25570'>literally on the other side of the world.</span>
+<span class='talk-transcript__fragment' data-time='27733' id='t-27733'>And I wanted to let you know, a lot of the things you've heard</span>
+<span class='talk-transcript__fragment' data-time='29366' id='t-29366'>about Australians are true.</span>
+<span class='talk-transcript__fragment' data-time='31011' id='t-31011'>From the youngest of ages, we display</span>
+<span class='talk-transcript__fragment' data-time='33433' id='t-33433'>a prodigious sporting talent.</span>
+<span class='talk-transcript__fragment' data-time='35944' id='t-35944'>On the field of battle, we are brave and noble warriors.</span>
+<span class='talk-transcript__fragment' data-time='40289' id='t-40289'>What you've heard is true.</span>
+<span class='talk-transcript__fragment' data-time='40946' id='t-40946'>Australians, we don't mind a bit of a drink,</span>
+<span class='talk-transcript__fragment' data-time='44770' id='t-44770'>sometimes to excess, leading to embarrassing social situations. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='48520' id='t-48520'>This is my father's work Christmas party, December 1973.</span>
+<span class='talk-transcript__fragment' data-time='54707' id='t-54707'>I'm almost five years old. Fair to say,</span>
+<span class='talk-transcript__fragment' data-time='56629' id='t-56629'>I'm enjoying the day a lot more than Santa was.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='59009' id='t-59009'>But I stand before you today</span>
+<span class='talk-transcript__fragment' data-time='62889' id='t-62889'>not as a breakfast radio host,</span>
+<span class='talk-transcript__fragment' data-time='64335' id='t-64335'>not as a comedian, but as someone who was, is,</span>
+<span class='talk-transcript__fragment' data-time='68241' id='t-68241'>and always will be a mathematician.</span>
+<span class='talk-transcript__fragment' data-time='71421' id='t-71421'>And anyone who's been bitten by the numbers bug</span>
+<span class='talk-transcript__fragment' data-time='73615' id='t-73615'>knows that it bites early and it bites deep.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='77375' id='t-77375'>I cast my mind back when I was in second grade</span>
+<span class='talk-transcript__fragment' data-time='80312' id='t-80312'>at a beautiful little government-run school</span>
+<span class='talk-transcript__fragment' data-time='82335' id='t-82335'>called Boronia Park in the suburbs of Sydney,</span>
+<span class='talk-transcript__fragment' data-time='86090' id='t-86090'>and as we came up towards lunchtime, our teacher,</span>
+<span class='talk-transcript__fragment' data-time='88151' id='t-88151'>Ms. Russell, said to the class,</span>
+<span class='talk-transcript__fragment' data-time='89879' id='t-89879'>&quot;Hey, year two. What do you want to do after lunch?</span>
+<span class='talk-transcript__fragment' data-time='92344' id='t-92344'>I've got no plans.&quot;</span>
+<span class='talk-transcript__fragment' data-time='94613' id='t-94613'>It was an exercise in democratic schooling,</span>
+<span class='talk-transcript__fragment' data-time='97760' id='t-97760'>and I am all for democratic schooling, but we were only seven.</span>
+<span class='talk-transcript__fragment' data-time='102382' id='t-102382'>So some of the suggestions we made as to what</span>
+<span class='talk-transcript__fragment' data-time='104124' id='t-104124'>we might want to do after lunch were a little bit impractical,</span>
+<span class='talk-transcript__fragment' data-time='106688' id='t-106688'>and after a while, someone made a particularly silly suggestion</span>
+<span class='talk-transcript__fragment' data-time='108962' id='t-108962'>and Ms. Russell patted them down with that gentle aphorism,</span>
+<span class='talk-transcript__fragment' data-time='111107' id='t-111107'>&quot;That wouldn't work.</span>
+<span class='talk-transcript__fragment' data-time='112704' id='t-112704'>That'd be like trying to put a square peg through a round hole.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='116695' id='t-116695'>Now I wasn't trying to be smart.</span>
+<span class='talk-transcript__fragment' data-time='118962' id='t-118962'>I wasn't trying to be funny.</span>
+<span class='talk-transcript__fragment' data-time='119797' id='t-119797'>I just politely raised my hand,</span>
+<span class='talk-transcript__fragment' data-time='122012' id='t-122012'>and when Ms. Russell acknowledged me, I said,</span>
+<span class='talk-transcript__fragment' data-time='123995' id='t-123995'>in front of my year two classmates, and I quote,</span>
+<span class='talk-transcript__fragment' data-time='126631' id='t-126631'>&quot;But Miss,</span>
+<span class='talk-transcript__fragment' data-time='130194' id='t-130194'>surely if the diagonal of the square</span>
+<span class='talk-transcript__fragment' data-time='133990' id='t-133990'>is less than the diameter of the circle,</span>
+<span class='talk-transcript__fragment' data-time='138201' id='t-138201'>well, the square peg will pass quite easily through the round hole.&quot;</span>
+<span class='talk-transcript__fragment' data-time='141086' id='t-141086'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='144104' id='t-144104'>&quot;It'd be like putting a piece of toast through a basketball hoop, wouldn't it?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='148375' id='t-148375'>And there was that same awkward silence</span>
+<span class='talk-transcript__fragment' data-time='150018' id='t-150018'>from most of my classmates,</span>
+<span class='talk-transcript__fragment' data-time='151216' id='t-151216'>until sitting next to me, one of my friends,</span>
+<span class='talk-transcript__fragment' data-time='153319' id='t-153319'>one of the cool kids in class, Steven, leaned across</span>
+<span class='talk-transcript__fragment' data-time='155771' id='t-155771'>and punched me really hard in the head.</span>
+<span class='talk-transcript__fragment' data-time='158114' id='t-158114'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='159198' id='t-159198'>Now what Steven was saying was, &quot;Look, Adam,</span>
+<span class='talk-transcript__fragment' data-time='161699' id='t-161699'>you are at a critical juncture in your life here, my friend.</span>
+<span class='talk-transcript__fragment' data-time='166248' id='t-166248'>You can keep sitting here with us.</span>
+<span class='talk-transcript__fragment' data-time='168525' id='t-168525'>Any more of that sort of talk, you've got to go and sit</span>
+<span class='talk-transcript__fragment' data-time='170195' id='t-170195'>over there with them.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='173975' id='t-173975'>I thought about it for a nanosecond.</span>
+<span class='talk-transcript__fragment' data-time='175577' id='t-175577'>I took one look at the road map of life,</span>
+<span class='talk-transcript__fragment' data-time='179353' id='t-179353'>and I ran off down the street marked &quot;Geek&quot;</span>
+<span class='talk-transcript__fragment' data-time='183181' id='t-183181'>as fast as my chubby, asthmatic little legs would carry me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='188623' id='t-188623'>I fell in love with mathematics from the earliest of ages.</span>
+<span class='talk-transcript__fragment' data-time='192351' id='t-192351'>I explained it to all my friends. Maths is beautiful.</span>
+<span class='talk-transcript__fragment' data-time='195209' id='t-195209'>It's natural. It's everywhere.</span>
+<span class='talk-transcript__fragment' data-time='197193' id='t-197193'>Numbers are the musical notes</span>
+<span class='talk-transcript__fragment' data-time='200498' id='t-200498'>with which the symphony of the universe is written.</span>
+<span class='talk-transcript__fragment' data-time='204720' id='t-204720'>The great Descartes said something quite similar.</span>
+<span class='talk-transcript__fragment' data-time='207003' id='t-207003'>The universe &quot;is written in the mathematical language.&quot;</span>
+<span class='talk-transcript__fragment' data-time='209713' id='t-209713'>And today, I want to show you one of those musical notes,</span>
+<span class='talk-transcript__fragment' data-time='213937' id='t-213937'>a number so beautiful, so massive,</span>
+<span class='talk-transcript__fragment' data-time='218329' id='t-218329'>I think it will blow your mind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='220902' id='t-220902'>Today we're going to talk about prime numbers.</span>
+<span class='talk-transcript__fragment' data-time='223649' id='t-223649'>Most of you I'm sure remember that six is not prime</span>
+<span class='talk-transcript__fragment' data-time='227615' id='t-227615'>because it's 2 x 3.</span>
+<span class='talk-transcript__fragment' data-time='229931' id='t-229931'>Seven is prime because it's 1 x 7,</span>
+<span class='talk-transcript__fragment' data-time='233545' id='t-233545'>but we can't break it down into any smaller chunks,</span>
+<span class='talk-transcript__fragment' data-time='236148' id='t-236148'>or as we call them, factors.</span>
+<span class='talk-transcript__fragment' data-time='238131' id='t-238131'>Now a few things you might like to know about prime numbers.</span>
+<span class='talk-transcript__fragment' data-time='240621' id='t-240621'>One is not prime.</span>
+<span class='talk-transcript__fragment' data-time='242632' id='t-242632'>The proof of that is a great party trick</span>
+<span class='talk-transcript__fragment' data-time='245172' id='t-245172'>that admittedly only works at certain parties.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='248076' id='t-248076'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='251066' id='t-251066'>Another thing about primes, there is no final biggest prime number.</span>
+<span class='talk-transcript__fragment' data-time='254728' id='t-254728'>They keep going on forever.</span>
+<span class='talk-transcript__fragment' data-time='256140' id='t-256140'>We know there are an infinite number of primes</span>
+<span class='talk-transcript__fragment' data-time='257979' id='t-257979'>due to the brilliant mathematician Euclid.</span>
+<span class='talk-transcript__fragment' data-time='259929' id='t-259929'>Over thousands of years ago, he proved that for us.</span>
+<span class='talk-transcript__fragment' data-time='263161' id='t-263161'>But the third thing about prime numbers,</span>
+<span class='talk-transcript__fragment' data-time='264858' id='t-264858'>mathematicians have always wondered,</span>
+<span class='talk-transcript__fragment' data-time='266368' id='t-266368'>well at any given moment in time,</span>
+<span class='talk-transcript__fragment' data-time='268630' id='t-268630'>what is the biggest prime that we know about?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='271433' id='t-271433'>Today we're going to hunt for that massive prime.</span>
+<span class='talk-transcript__fragment' data-time='275741' id='t-275741'>Don't freak out.</span>
+<span class='talk-transcript__fragment' data-time='278888' id='t-278888'>All you need to know, of all the mathematics</span>
+<span class='talk-transcript__fragment' data-time='281889' id='t-281889'>you've ever learned, unlearned, crammed, forgotten,</span>
+<span class='talk-transcript__fragment' data-time='286374' id='t-286374'>never understood in the first place,</span>
+<span class='talk-transcript__fragment' data-time='288107' id='t-288107'>all you need to know is this:</span>
+<span class='talk-transcript__fragment' data-time='290492' id='t-290492'>When I say 2 ^ 5,</span>
+<span class='talk-transcript__fragment' data-time='294739' id='t-294739'>I'm talking about five little number twos next to each other</span>
+<span class='talk-transcript__fragment' data-time='297586' id='t-297586'>all multiplied together,</span>
+<span class='talk-transcript__fragment' data-time='298881' id='t-298881'>2 x 2 x 2 x 2 x 2.</span>
+<span class='talk-transcript__fragment' data-time='302097' id='t-302097'>So 2 ^ 5 is 2 x 2 = 4,</span>
+<span class='talk-transcript__fragment' data-time='305501' id='t-305501'>8, 16, 32.</span>
+<span class='talk-transcript__fragment' data-time='307681' id='t-307681'>If you've got that, you're with me for the entire journey. Okay?</span>
+<span class='talk-transcript__fragment' data-time='311195' id='t-311195'>So 2 ^ 5,</span>
+<span class='talk-transcript__fragment' data-time='313167' id='t-313167'>those five little twos multiplied together.</span>
+<span class='talk-transcript__fragment' data-time='314879' id='t-314879'>(2 ^ 5) - 1 = 31.</span>
+<span class='talk-transcript__fragment' data-time='319142' id='t-319142'>31 is a prime number, and that five in the power</span>
+<span class='talk-transcript__fragment' data-time='322453' id='t-322453'>is also a prime number.</span>
+<span class='talk-transcript__fragment' data-time='324998' id='t-324998'>And the vast bulk of massive primes we've ever found</span>
+<span class='talk-transcript__fragment' data-time='328502' id='t-328502'>are of that form:</span>
+<span class='talk-transcript__fragment' data-time='329738' id='t-329738'>two to a prime number, take away one.</span>
+<span class='talk-transcript__fragment' data-time='333017' id='t-333017'>I won't go into great detail as to why,</span>
+<span class='talk-transcript__fragment' data-time='335434' id='t-335434'>because most of your eyes will bleed out of your head if I do,</span>
+<span class='talk-transcript__fragment' data-time='338185' id='t-338185'>but suffice to say, a number of that form</span>
+<span class='talk-transcript__fragment' data-time='342396' id='t-342396'>is fairly easy to test for primacy.</span>
+<span class='talk-transcript__fragment' data-time='345859' id='t-345859'>A random odd number is a lot harder to test.</span>
+<span class='talk-transcript__fragment' data-time='349459' id='t-349459'>But as soon as we go hunting for massive primes,</span>
+<span class='talk-transcript__fragment' data-time='351380' id='t-351380'>we realize it's not enough</span>
+<span class='talk-transcript__fragment' data-time='353219' id='t-353219'>just to put in any prime number in the power.</span>
+<span class='talk-transcript__fragment' data-time='355960' id='t-355960'>(2 ^ 11) - 1 = 2,047,</span>
+<span class='talk-transcript__fragment' data-time='358557' id='t-358557'>and you don't need me to tell you that's 23 x 89.</span>
+<span class='talk-transcript__fragment' data-time='361925' id='t-361925'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='364051' id='t-364051'>But (2 ^ 13) - 1, (2 ^ 17) - 1</span>
+<span class='talk-transcript__fragment' data-time='367291' id='t-367291'>(2 ^ 19) - 1, are all prime numbers.</span>
+<span class='talk-transcript__fragment' data-time='370648' id='t-370648'>After that point, they thin out a lot.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='373517' id='t-373517'>And one of the things about the search for massive primes</span>
+<span class='talk-transcript__fragment' data-time='375647' id='t-375647'>that I love so much is some of the great mathematical minds</span>
+<span class='talk-transcript__fragment' data-time='378786' id='t-378786'>of all time have gone on this search.</span>
+<span class='talk-transcript__fragment' data-time='381303' id='t-381303'>This is the great Swiss mathematician Leonhard Euler.</span>
+<span class='talk-transcript__fragment' data-time='384040' id='t-384040'>In the 1700s, other mathematicians said</span>
+<span class='talk-transcript__fragment' data-time='386501' id='t-386501'>he is simply the master of us all.</span>
+<span class='talk-transcript__fragment' data-time='389533' id='t-389533'>He was so respected, they put him on European currency</span>
+<span class='talk-transcript__fragment' data-time='392721' id='t-392721'>back when that was a compliment.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='395366' id='t-395366'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='400346' id='t-400346'>Euler discovered at the time the world's biggest prime:</span>
+<span class='talk-transcript__fragment' data-time='403429' id='t-403429'>(2 ^ 31) - 1.</span>
+<span class='talk-transcript__fragment' data-time='405216' id='t-405216'>It's over two billion.</span>
+<span class='talk-transcript__fragment' data-time='407564' id='t-407564'>He proved it was prime with nothing more</span>
+<span class='talk-transcript__fragment' data-time='409599' id='t-409599'>than a quill, ink, paper and his mind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='413387' id='t-413387'>You think that's big.</span>
+<span class='talk-transcript__fragment' data-time='414341' id='t-414341'>We know that (2 ^ 127) - 1</span>
+<span class='talk-transcript__fragment' data-time='417618' id='t-417618'>is a prime number.</span>
+<span class='talk-transcript__fragment' data-time='419212' id='t-419212'>It's an absolute brute.</span>
+<span class='talk-transcript__fragment' data-time='420856' id='t-420856'>Look at it here: 39 digits long,</span>
+<span class='talk-transcript__fragment' data-time='424861' id='t-424861'>proven to be prime in 1876</span>
+<span class='talk-transcript__fragment' data-time='428224' id='t-428224'>by a mathematician called Lucas.</span>
+<span class='talk-transcript__fragment' data-time='430288' id='t-430288'>Word up, L-Dog.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='432224' id='t-432224'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='433969' id='t-433969'>But one of the great things about the search for massive primes,</span>
+<span class='talk-transcript__fragment' data-time='436363' id='t-436363'>it's not just finding the primes.</span>
+<span class='talk-transcript__fragment' data-time='437560' id='t-437560'>Sometimes proving another number not to be prime is just as exciting.</span>
+<span class='talk-transcript__fragment' data-time='441811' id='t-441811'>Lucas again, in 1876, showed us (2 ^ 67) - 1,</span>
+<span class='talk-transcript__fragment' data-time='447593' id='t-447593'>21 digits long, was not prime.</span>
+<span class='talk-transcript__fragment' data-time='450269' id='t-450269'>But he didn't know what the factors were.</span>
+<span class='talk-transcript__fragment' data-time='452698' id='t-452698'>We knew it was like six, but we didn't know</span>
+<span class='talk-transcript__fragment' data-time='454483' id='t-454483'>what are the 2 x 3 that multiply together</span>
+<span class='talk-transcript__fragment' data-time='456904' id='t-456904'>to give us that massive number.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='458154' id='t-458154'>We didn't know for almost 40 years</span>
+<span class='talk-transcript__fragment' data-time='460195' id='t-460195'>until Frank Nelson Cole came along.</span>
+<span class='talk-transcript__fragment' data-time='463117' id='t-463117'>And at a gathering of prestigious American mathematicians,</span>
+<span class='talk-transcript__fragment' data-time='465495' id='t-465495'>he walked to the board, took up a piece of chalk,</span>
+<span class='talk-transcript__fragment' data-time='469291' id='t-469291'>and started writing out the powers of two:</span>
+<span class='talk-transcript__fragment' data-time='472056' id='t-472056'>two, four, eight, 16 --</span>
+<span class='talk-transcript__fragment' data-time='475177' id='t-475177'>come on, join in with me, you know how it goes --</span>
+<span class='talk-transcript__fragment' data-time='476833' id='t-476833'>32, 64, 128, 256,</span>
+<span class='talk-transcript__fragment' data-time='480699' id='t-480699'>512, 1,024, 2,048.</span>
+<span class='talk-transcript__fragment' data-time='485355' id='t-485355'>I'm in geek heaven. We'll stop it there for a second.</span>
+<span class='talk-transcript__fragment' data-time='487907' id='t-487907'>Frank Nelson Cole did not stop there.</span>
+<span class='talk-transcript__fragment' data-time='490677' id='t-490677'>He went on and on</span>
+<span class='talk-transcript__fragment' data-time='492340' id='t-492340'>and calculated 67 powers of two.</span>
+<span class='talk-transcript__fragment' data-time='496009' id='t-496009'>He took away one and wrote that number on the board.</span>
+<span class='talk-transcript__fragment' data-time='498501' id='t-498501'>A frisson of excitement went around the room.</span>
+<span class='talk-transcript__fragment' data-time='502842' id='t-502842'>It got even more exciting when he then wrote down</span>
+<span class='talk-transcript__fragment' data-time='505104' id='t-505104'>these two large prime numbers in your standard multiplication format --</span>
+<span class='talk-transcript__fragment' data-time='509509' id='t-509509'>and for the rest of the hour of his talk</span>
+<span class='talk-transcript__fragment' data-time='513416' id='t-513416'>Frank Nelson Cole busted that out.</span>
+<span class='talk-transcript__fragment' data-time='518049' id='t-518049'>He had found the prime factors</span>
+<span class='talk-transcript__fragment' data-time='520223' id='t-520223'>of (2 ^ 67) - 1.</span>
+<span class='talk-transcript__fragment' data-time='522633' id='t-522633'>The room went berserk --</span>
+<span class='talk-transcript__fragment' data-time='525135' id='t-525135'>(Laughter) --</span>
+<span class='talk-transcript__fragment' data-time='526955' id='t-526955'>as Frank Nelson Cole sat down,</span>
+<span class='talk-transcript__fragment' data-time='528997' id='t-528997'>having delivered the only talk in the history of mathematics</span>
+<span class='talk-transcript__fragment' data-time='532344' id='t-532344'>with no words.</span>
+<span class='talk-transcript__fragment' data-time='535153' id='t-535153'>He admitted afterwards it wasn't that hard to do.</span>
+<span class='talk-transcript__fragment' data-time='537840' id='t-537840'>It took focus. It took dedication.</span>
+<span class='talk-transcript__fragment' data-time='540490' id='t-540490'>It took him, by his estimate,</span>
+<span class='talk-transcript__fragment' data-time='542490' id='t-542490'>&quot;three years of Sundays.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='546461' id='t-546461'>But then in the field of mathematics,</span>
+<span class='talk-transcript__fragment' data-time='548799' id='t-548799'>as in so many of the fields that we've heard from in this TED,</span>
+<span class='talk-transcript__fragment' data-time='551914' id='t-551914'>the age of the computer goes along and things explode.</span>
+<span class='talk-transcript__fragment' data-time='556257' id='t-556257'>These are the largest prime numbers we knew</span>
+<span class='talk-transcript__fragment' data-time='558694' id='t-558694'>decade by decade, each one dwarfing the one before</span>
+<span class='talk-transcript__fragment' data-time='562101' id='t-562101'>as computers took over and our power to calculate</span>
+<span class='talk-transcript__fragment' data-time='565301' id='t-565301'>just grew and grew.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='567230' id='t-567230'>This is the largest prime number we knew in 1996,</span>
+<span class='talk-transcript__fragment' data-time='570295' id='t-570295'>a very emotional year for me.</span>
+<span class='talk-transcript__fragment' data-time='572315' id='t-572315'>It was the year I left university.</span>
+<span class='talk-transcript__fragment' data-time='574250' id='t-574250'>I was torn between mathematics and media.</span>
+<span class='talk-transcript__fragment' data-time='576875' id='t-576875'>It was a tough decision. I loved university.</span>
+<span class='talk-transcript__fragment' data-time='579330' id='t-579330'>My arts degree was the best nine and a half years of my life.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='583203' id='t-583203'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='585786' id='t-585786'>But I came to a realization about my own ability.</span>
+<span class='talk-transcript__fragment' data-time='589413' id='t-589413'>Put simply, in a room full of randomly selected people,</span>
+<span class='talk-transcript__fragment' data-time='592930' id='t-592930'>I'm a maths genius.</span>
+<span class='talk-transcript__fragment' data-time='594805' id='t-594805'>In a roomful of maths Ph.Ds,</span>
+<span class='talk-transcript__fragment' data-time='596882' id='t-596882'>I'm as dumb as a box of hammers.</span>
+<span class='talk-transcript__fragment' data-time='600611' id='t-600611'>My skill is not in the mathematics.</span>
+<span class='talk-transcript__fragment' data-time='602358' id='t-602358'>It is in telling the story of the mathematics.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='606250' id='t-606250'>And during that time, since I've left university,</span>
+<span class='talk-transcript__fragment' data-time='608436' id='t-608436'>these numbers have got bigger and bigger,</span>
+<span class='talk-transcript__fragment' data-time='610572' id='t-610572'>each one dwarfing the last,</span>
+<span class='talk-transcript__fragment' data-time='612338' id='t-612338'>until along came this man, Dr. Curtis Cooper,</span>
+<span class='talk-transcript__fragment' data-time='617231' id='t-617231'>who a few years ago held the record for the largest ever prime,</span>
+<span class='talk-transcript__fragment' data-time='620590' id='t-620590'>only to see it snatched away by a rival university.</span>
+<span class='talk-transcript__fragment' data-time='623895' id='t-623895'>And then Curtis Cooper got it back.</span>
+<span class='talk-transcript__fragment' data-time='628072' id='t-628072'>Not years ago, not months ago, days ago.</span>
+<span class='talk-transcript__fragment' data-time='633399' id='t-633399'>In an amazing moment of serendipity,</span>
+<span class='talk-transcript__fragment' data-time='635043' id='t-635043'>I had to send TED a new slide</span>
+<span class='talk-transcript__fragment' data-time='639195' id='t-639195'>to show you what this guy had done.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='641205' id='t-641205'>I still remember -- (Applause) --</span>
+<span class='talk-transcript__fragment' data-time='643855' id='t-643855'>I still remember when it happened.</span>
+<span class='talk-transcript__fragment' data-time='645358' id='t-645358'>I was doing my breakfast radio show.</span>
+<span class='talk-transcript__fragment' data-time='646806' id='t-646806'>I looked down on Twitter. There was a tweet:</span>
+<span class='talk-transcript__fragment' data-time='648178' id='t-648178'>&quot;Adam, have you seen the new largest prime number?&quot;</span>
+<span class='talk-transcript__fragment' data-time='650483' id='t-650483'>I shivered --</span>
+<span class='talk-transcript__fragment' data-time='651897' id='t-651897'>(Laughter) --</span>
+<span class='talk-transcript__fragment' data-time='653637' id='t-653637'>contacted the women who produced my radio show out in the other room,</span>
+<span class='talk-transcript__fragment' data-time='656719' id='t-656719'>and said &quot;Girls, hold the front page.</span>
+<span class='talk-transcript__fragment' data-time='659170' id='t-659170'>We're not talking politics today.</span>
+<span class='talk-transcript__fragment' data-time='660630' id='t-660630'>We're not talking sport today.</span>
+<span class='talk-transcript__fragment' data-time='662587' id='t-662587'>They found another megaprime.&quot;</span>
+<span class='talk-transcript__fragment' data-time='664917' id='t-664917'>The girls just shook their heads,</span>
+<span class='talk-transcript__fragment' data-time='666429' id='t-666429'>put them in their hands, and let me go my own way.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='668666' id='t-668666'>It's because of Curtis Cooper that we know,</span>
+<span class='talk-transcript__fragment' data-time='671242' id='t-671242'>currently the largest prime number we know,</span>
+<span class='talk-transcript__fragment' data-time='673571' id='t-673571'>is 2 ^ 57,885,161.</span>
+<span class='talk-transcript__fragment' data-time='681581' id='t-681581'>Don't forget to subtract the one.</span>
+<span class='talk-transcript__fragment' data-time='684384' id='t-684384'>This number is almost 17 and a half million digits long.</span>
+<span class='talk-transcript__fragment' data-time='691608' id='t-691608'>If you typed it out on a computer and saved it as a text file,</span>
+<span class='talk-transcript__fragment' data-time='695034' id='t-695034'>that's 22 meg.</span>
+<span class='talk-transcript__fragment' data-time='697829' id='t-697829'>For the slightly less geeky of you,</span>
+<span class='talk-transcript__fragment' data-time='699873' id='t-699873'>think about the Harry Potter novels, okay?</span>
+<span class='talk-transcript__fragment' data-time='702010' id='t-702010'>This is the first Harry Potter novel.</span>
+<span class='talk-transcript__fragment' data-time='704360' id='t-704360'>This is all seven Harry Potter novels,</span>
+<span class='talk-transcript__fragment' data-time='706062' id='t-706062'>because she did tend to faff on a bit near the end.</span>
+<span class='talk-transcript__fragment' data-time='708424' id='t-708424'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='711943' id='t-711943'>Written out as a book, this number would run</span>
+<span class='talk-transcript__fragment' data-time='714255' id='t-714255'>the length of the Harry Potter novels and half again.</span>
+<span class='talk-transcript__fragment' data-time='718730' id='t-718730'>Here's a slide of the first 1,000 digits of this prime.</span>
+<span class='talk-transcript__fragment' data-time='724269' id='t-724269'>If, when TED had begun, at 11 o'clock on Tuesday,</span>
+<span class='talk-transcript__fragment' data-time='727390' id='t-727390'>we'd walked out and simply hit one slide every second,</span>
+<span class='talk-transcript__fragment' data-time='731958' id='t-731958'>it would have taken five hours to show you that number.</span>
+<span class='talk-transcript__fragment' data-time='737328' id='t-737328'>I was keen to do it, could not convince Bono.</span>
+<span class='talk-transcript__fragment' data-time='740294' id='t-740294'>That's the way it goes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='742897' id='t-742897'>This number is 17 and a half thousand slides long,</span>
+<span class='talk-transcript__fragment' data-time='747317' id='t-747317'>and we know it is prime as confidently</span>
+<span class='talk-transcript__fragment' data-time='751440' id='t-751440'>as we know the number seven is prime.</span>
+<span class='talk-transcript__fragment' data-time='754814' id='t-754814'>That fills me with almost sexual excitement.</span>
+<span class='talk-transcript__fragment' data-time='760500' id='t-760500'>And who am I kidding when I say almost?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='762683' id='t-762683'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='765245' id='t-765245'>I know what you're thinking:</span>
+<span class='talk-transcript__fragment' data-time='766896' id='t-766896'>Adam, we're happy that you're happy,</span>
+<span class='talk-transcript__fragment' data-time='771875' id='t-771875'>but why should we care?</span>
+<span class='talk-transcript__fragment' data-time='774373' id='t-774373'>Let me give you just three reasons why this is so beautiful.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='777083' id='t-777083'>First of all, as I explained, to ask a computer</span>
+<span class='talk-transcript__fragment' data-time='780634' id='t-780634'>&quot;Is that number prime?&quot; to type it in its abbreviated form,</span>
+<span class='talk-transcript__fragment' data-time='783713' id='t-783713'>and then only about six lines of code is the test for primacy,</span>
+<span class='talk-transcript__fragment' data-time='787915' id='t-787915'>is a remarkably simple question to ask.</span>
+<span class='talk-transcript__fragment' data-time='790236' id='t-790236'>It's got a remarkably clear yes/no answer,</span>
+<span class='talk-transcript__fragment' data-time='793249' id='t-793249'>and just requires phenomenal grunt.</span>
+<span class='talk-transcript__fragment' data-time='795806' id='t-795806'>Large prime numbers are a great way of testing</span>
+<span class='talk-transcript__fragment' data-time='797975' id='t-797975'>the speed and accuracy of computer chips.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='800608' id='t-800608'>But secondly, as Curtis Cooper was looking for that monster prime,</span>
+<span class='talk-transcript__fragment' data-time='803409' id='t-803409'>he wasn't the only guy searching.</span>
+<span class='talk-transcript__fragment' data-time='805334' id='t-805334'>My laptop at home was looking through</span>
+<span class='talk-transcript__fragment' data-time='806519' id='t-806519'>four potential candidate primes myself</span>
+<span class='talk-transcript__fragment' data-time='808794' id='t-808794'>as part of a networked computer hunt around the world</span>
+<span class='talk-transcript__fragment' data-time='812450' id='t-812450'>for these large numbers.</span>
+<span class='talk-transcript__fragment' data-time='813705' id='t-813705'>The discovery of that prime is similar to the work</span>
+<span class='talk-transcript__fragment' data-time='815634' id='t-815634'>people are doing in unraveling RNA sequences,</span>
+<span class='talk-transcript__fragment' data-time='818836' id='t-818836'>in searching through data from SETI and other astronomical projects.</span>
+<span class='talk-transcript__fragment' data-time='821908' id='t-821908'>We live in an age where some of the great breakthroughs</span>
+<span class='talk-transcript__fragment' data-time='825150' id='t-825150'>are not going to happen in the labs or the halls of academia</span>
+<span class='talk-transcript__fragment' data-time='827669' id='t-827669'>but on laptops, desktops,</span>
+<span class='talk-transcript__fragment' data-time='829783' id='t-829783'>in the palms of people's hands</span>
+<span class='talk-transcript__fragment' data-time='831649' id='t-831649'>who are simply helping out for the search.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='835062' id='t-835062'>But for me it's amazing because it's a metaphor</span>
+<span class='talk-transcript__fragment' data-time='837391' id='t-837391'>for the time in which we live,</span>
+<span class='talk-transcript__fragment' data-time='839328' id='t-839328'>when human minds and machines can conquer together.</span>
+<span class='talk-transcript__fragment' data-time='844172' id='t-844172'>We've heard a lot about robots in this TED.</span>
+<span class='talk-transcript__fragment' data-time='846531' id='t-846531'>We've heard a lot about what they can and can't do.</span>
+<span class='talk-transcript__fragment' data-time='848141' id='t-848141'>It is true, you can now download onto your smartphone</span>
+<span class='talk-transcript__fragment' data-time='850663' id='t-850663'>an app that would beat most grandmasters at chess.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='854558' id='t-854558'>You think that's cool.</span>
+<span class='talk-transcript__fragment' data-time='856022' id='t-856022'>Here's a machine doing something cool.</span>
+<span class='talk-transcript__fragment' data-time='858588' id='t-858588'>This is the CubeStormer II.</span>
+<span class='talk-transcript__fragment' data-time='860774' id='t-860774'>It can take a randomly shuffled Rubik's Cube.</span>
+<span class='talk-transcript__fragment' data-time='864595' id='t-864595'>Using the power of the smartphone,</span>
+<span class='talk-transcript__fragment' data-time='867161' id='t-867161'>it can examine the cube and solve the cube</span>
+<span class='talk-transcript__fragment' data-time='874354' id='t-874354'>in five seconds.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='877053' id='t-877053'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='880934' id='t-880934'>That scares some people. That excites me.</span>
+<span class='talk-transcript__fragment' data-time='884999' id='t-884999'>How lucky are we to live in this age</span>
+<span class='talk-transcript__fragment' data-time='888230' id='t-888230'>when mind and machine can work together?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='891523' id='t-891523'>I was asked in an interview last year in my capacity</span>
+<span class='talk-transcript__fragment' data-time='893795' id='t-893795'>as a lower-case &quot;c&quot; celebrity in Australia,</span>
+<span class='talk-transcript__fragment' data-time='896783' id='t-896783'>&quot;What was your highlight of 2012?&quot;</span>
+<span class='talk-transcript__fragment' data-time='898788' id='t-898788'>People were expecting me to talk about</span>
+<span class='talk-transcript__fragment' data-time='900250' id='t-900250'>my beloved Sydney Swans football team.</span>
+<span class='talk-transcript__fragment' data-time='902918' id='t-902918'>In our beautiful, indigenous sport of Australian football,</span>
+<span class='talk-transcript__fragment' data-time='905926' id='t-905926'>they won the equivalent of the Super Bowl.</span>
+<span class='talk-transcript__fragment' data-time='908060' id='t-908060'>I was there. It was the most emotional, exciting day.</span>
+<span class='talk-transcript__fragment' data-time='911051' id='t-911051'>It wasn't my highlight of 2012.</span>
+<span class='talk-transcript__fragment' data-time='913165' id='t-913165'>People thought it might have been an interview I'd done on my show.</span>
+<span class='talk-transcript__fragment' data-time='915128' id='t-915128'>It might have been a politician. It might have been a breakthrough.</span>
+<span class='talk-transcript__fragment' data-time='917196' id='t-917196'>It might have been a book I read, the arts. No, no, no.</span>
+<span class='talk-transcript__fragment' data-time='919251' id='t-919251'>It might have been something my two gorgeous daughters had done.</span>
+<span class='talk-transcript__fragment' data-time='921415' id='t-921415'>No, it wasn't. The highlight of 2012, so clearly,</span>
+<span class='talk-transcript__fragment' data-time='924994' id='t-924994'>was the discovery of the Higgs boson.</span>
+<span class='talk-transcript__fragment' data-time='928626' id='t-928626'>Give it up for the fundamental particle</span>
+<span class='talk-transcript__fragment' data-time='931302' id='t-931302'>that bequeaths all other fundamental particles their mass.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='934307' id='t-934307'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='935803' id='t-935803'>And what was so gorgeous about this discovery was</span>
+<span class='talk-transcript__fragment' data-time='938616' id='t-938616'>50 years ago Peter Higgs and his team</span>
+<span class='talk-transcript__fragment' data-time='940852' id='t-940852'>considered one of the deepest of all questions:</span>
+<span class='talk-transcript__fragment' data-time='943262' id='t-943262'>How is it that the things that make us up have no mass?</span>
+<span class='talk-transcript__fragment' data-time='947902' id='t-947902'>I've clearly got mass. Where does it come from?</span>
+<span class='talk-transcript__fragment' data-time='952361' id='t-952361'>And he postulated a suggestion</span>
+<span class='talk-transcript__fragment' data-time='954175' id='t-954175'>that there's this infinite, incredibly small field</span>
+<span class='talk-transcript__fragment' data-time='957845' id='t-957845'>stretching throughout the universe,</span>
+<span class='talk-transcript__fragment' data-time='959963' id='t-959963'>and as other particles go through those particles</span>
+<span class='talk-transcript__fragment' data-time='962048' id='t-962048'>and interact, that's where they get their mass.</span>
+<span class='talk-transcript__fragment' data-time='964440' id='t-964440'>The rest of the scientific community said,</span>
+<span class='talk-transcript__fragment' data-time='966897' id='t-966897'>&quot;Great idea, Higgsy.</span>
+<span class='talk-transcript__fragment' data-time='968506' id='t-968506'>We've got no idea if we could ever prove it.</span>
+<span class='talk-transcript__fragment' data-time='970192' id='t-970192'>It's beyond our reach.&quot;</span>
+<span class='talk-transcript__fragment' data-time='972300' id='t-972300'>And within just 50 years,</span>
+<span class='talk-transcript__fragment' data-time='974797' id='t-974797'>in his lifetime, with him sitting in the audience,</span>
+<span class='talk-transcript__fragment' data-time='980681' id='t-980681'>we had designed the greatest machine ever</span>
+<span class='talk-transcript__fragment' data-time='984313' id='t-984313'>to prove this incredible idea</span>
+<span class='talk-transcript__fragment' data-time='987379' id='t-987379'>that originated just in a human mind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='991342' id='t-991342'>That's what is so exciting for me about this prime number.</span>
+<span class='talk-transcript__fragment' data-time='993874' id='t-993874'>We thought it might be there,</span>
+<span class='talk-transcript__fragment' data-time='995960' id='t-995960'>and we went and found it.</span>
+<span class='talk-transcript__fragment' data-time='998380' id='t-998380'>That is the essence of being human.</span>
+<span class='talk-transcript__fragment' data-time='1002280' id='t-1002280'>That is what we are all about.</span>
+<span class='talk-transcript__fragment' data-time='1005954' id='t-1005954'>Or as my friend Descartes might put it,</span>
+<span class='talk-transcript__fragment' data-time='1007923' id='t-1007923'>we think,</span>
+<span class='talk-transcript__fragment' data-time='1009636' id='t-1009636'>therefore we are.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1012049' id='t-1012049'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1013440' id='t-1013440'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

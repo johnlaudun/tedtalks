@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Geraldine Hamilton: Body parts on a chip | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Geraldine Hamilton: Body parts on a chip | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: It&#39;s relatively easy to imagine a new medicine, a better cure for some disease. The hard part, though, is testing it, and that can delay promising new cures for years. In this well-explained talk, Geraldine Hamilton shows how her lab creates organs and body parts on a chip, simple structures with all the pieces essential to testing new medications -- even custom cures for one specific person. (Filmed at TEDxBoston)" name="description" />
+<meta content="Geraldine Hamilton" name="author" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=bs" hreflang="bs" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Body parts on a chip&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09a24e1875a6b110abf915de98bcfe8e01870d92_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09a24e1875a6b110abf915de98bcfe8e01870d92_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: It&#39;s relatively easy to imagine a new medicine, a better cure for some disease. The hard part, though, is testing it, and that can delay promising new cures for years. In this well-explained talk, Geraldine Hamilton shows how her lab creates organs and body parts on a chip, simple structures with all the pieces essential to testing new medications -- even custom cures for one specific person. (Filmed at TEDxBoston)" property="og:description" />
+<meta content="http://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1882?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='geraldine_hamilton_body_parts_on_a_chip'>
+<option value='ar'>Arabic</option>
+<option value='bs'>Bosnian</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1882?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="803" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09a24e1875a6b110abf915de98bcfe8e01870d92_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:23</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Geraldine Hamilton</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1882?language=en' lang='en'>
+Body parts on a chip
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Dec 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Ingenious
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='368' id='t-368'>We have a global health challenge</span>
+<span class='talk-transcript__fragment' data-time='2505' id='t-2505'>in our hands today,</span>
+<span class='talk-transcript__fragment' data-time='4197' id='t-4197'>and that is that the way we currently</span>
+<span class='talk-transcript__fragment' data-time='7257' id='t-7257'>discover and develop new drugs</span>
+<span class='talk-transcript__fragment' data-time='10182' id='t-10182'>is too costly, takes far too long,</span>
+<span class='talk-transcript__fragment' data-time='14360' id='t-14360'>and it fails more often than it succeeds.</span>
+<span class='talk-transcript__fragment' data-time='18074' id='t-18074'>It really just isn't working, and that means</span>
+<span class='talk-transcript__fragment' data-time='21451' id='t-21451'>that patients that badly need new therapies</span>
+<span class='talk-transcript__fragment' data-time='24498' id='t-24498'>are not getting them,</span>
+<span class='talk-transcript__fragment' data-time='26209' id='t-26209'>and diseases are going untreated.</span>
+<span class='talk-transcript__fragment' data-time='29707' id='t-29707'>We seem to be spending more and more money.</span>
+<span class='talk-transcript__fragment' data-time='32790' id='t-32790'>So for every billion dollars we spend in R&amp;D,</span>
+<span class='talk-transcript__fragment' data-time='36886' id='t-36886'>we're getting less drugs approved into the market.</span>
+<span class='talk-transcript__fragment' data-time='40715' id='t-40715'>More money, less drugs. Hmm.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='43932' id='t-43932'>So what's going on here?</span>
+<span class='talk-transcript__fragment' data-time='45852' id='t-45852'>Well, there's a multitude of factors at play,</span>
+<span class='talk-transcript__fragment' data-time='48447' id='t-48447'>but I think one of the key factors</span>
+<span class='talk-transcript__fragment' data-time='50468' id='t-50468'>is that the tools that we currently have</span>
+<span class='talk-transcript__fragment' data-time='52865' id='t-52865'>available to test whether a drug is going to work,</span>
+<span class='talk-transcript__fragment' data-time='56948' id='t-56948'>whether it has efficacy,</span>
+<span class='talk-transcript__fragment' data-time='58337' id='t-58337'>or whether it's going to be safe</span>
+<span class='talk-transcript__fragment' data-time='60103' id='t-60103'>before we get it into human clinical trials,</span>
+<span class='talk-transcript__fragment' data-time='63655' id='t-63655'>are failing us. They're not predicting</span>
+<span class='talk-transcript__fragment' data-time='65806' id='t-65806'>what's going to happen in humans.</span>
+<span class='talk-transcript__fragment' data-time='69034' id='t-69034'>And we have two main tools available</span>
+<span class='talk-transcript__fragment' data-time='71757' id='t-71757'>at our disposal.</span>
+<span class='talk-transcript__fragment' data-time='73771' id='t-73771'>They are cells in dishes and animal testing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='77812' id='t-77812'>Now let's talk about the first one, cells in dishes.</span>
+<span class='talk-transcript__fragment' data-time='81132' id='t-81132'>So, cells are happily functioning in our bodies.</span>
+<span class='talk-transcript__fragment' data-time='84285' id='t-84285'>We take them and rip them out</span>
+<span class='talk-transcript__fragment' data-time='86340' id='t-86340'>of their native environment,
+throw them in one of these dishes,</span>
+<span class='talk-transcript__fragment' data-time='89289' id='t-89289'>and expect them to work.</span>
+<span class='talk-transcript__fragment' data-time='90874' id='t-90874'>Guess what. They don't.</span>
+<span class='talk-transcript__fragment' data-time='93067' id='t-93067'>They don't like that environment</span>
+<span class='talk-transcript__fragment' data-time='94729' id='t-94729'>because it's nothing like</span>
+<span class='talk-transcript__fragment' data-time='96361' id='t-96361'>what they have in the body.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='99037' id='t-99037'>What about animal testing?</span>
+<span class='talk-transcript__fragment' data-time='101108' id='t-101108'>Well, animals do and can provide</span>
+<span class='talk-transcript__fragment' data-time='103993' id='t-103993'>extremely useful information.</span>
+<span class='talk-transcript__fragment' data-time='106255' id='t-106255'>They teach us about what happens</span>
+<span class='talk-transcript__fragment' data-time='107964' id='t-107964'>in the complex organism.</span>
+<span class='talk-transcript__fragment' data-time='110293' id='t-110293'>We learn more about the biology itself.</span>
+<span class='talk-transcript__fragment' data-time='113301' id='t-113301'>However, more often than not,</span>
+<span class='talk-transcript__fragment' data-time='116199' id='t-116199'>animal models fail to predict
+what will happen in humans</span>
+<span class='talk-transcript__fragment' data-time='120415' id='t-120415'>when they're treated with a particular drug.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='123601' id='t-123601'>So we need better tools.</span>
+<span class='talk-transcript__fragment' data-time='125980' id='t-125980'>We need human cells,</span>
+<span class='talk-transcript__fragment' data-time='127733' id='t-127733'>but we need to find a way to keep them happy</span>
+<span class='talk-transcript__fragment' data-time='130483' id='t-130483'>outside the body.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='132074' id='t-132074'>Our bodies are dynamic environments.</span>
+<span class='talk-transcript__fragment' data-time='134980' id='t-134980'>We're in constant motion.</span>
+<span class='talk-transcript__fragment' data-time='136820' id='t-136820'>Our cells experience that.</span>
+<span class='talk-transcript__fragment' data-time='139011' id='t-139011'>They're in dynamic environments in our body.</span>
+<span class='talk-transcript__fragment' data-time='141820' id='t-141820'>They're under constant mechanical forces.</span>
+<span class='talk-transcript__fragment' data-time='144575' id='t-144575'>So if we want to make cells happy</span>
+<span class='talk-transcript__fragment' data-time='147031' id='t-147031'>outside our bodies,</span>
+<span class='talk-transcript__fragment' data-time='148460' id='t-148460'>we need to become cell architects.</span>
+<span class='talk-transcript__fragment' data-time='150986' id='t-150986'>We need to design, build and engineer</span>
+<span class='talk-transcript__fragment' data-time='155330' id='t-155330'>a home away from home for the cells.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='158561' id='t-158561'>And at the Wyss Institute,</span>
+<span class='talk-transcript__fragment' data-time='160235' id='t-160235'>we've done just that.</span>
+<span class='talk-transcript__fragment' data-time='162173' id='t-162173'>We call it an organ-on-a-chip.</span>
+<span class='talk-transcript__fragment' data-time='165197' id='t-165197'>And I have one right here.</span>
+<span class='talk-transcript__fragment' data-time='166988' id='t-166988'>It's beautiful, isn't it?
+But it's pretty incredible.</span>
+<span class='talk-transcript__fragment' data-time='169803' id='t-169803'>Right here in my hand is a breathing, living</span>
+<span class='talk-transcript__fragment' data-time='174303' id='t-174303'>human lung on a chip.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='176961' id='t-176961'>And it's not just beautiful.</span>
+<span class='talk-transcript__fragment' data-time='179089' id='t-179089'>It can do a tremendous amount of things.</span>
+<span class='talk-transcript__fragment' data-time='181529' id='t-181529'>We have living cells in that little chip,</span>
+<span class='talk-transcript__fragment' data-time='185308' id='t-185308'>cells that are in a dynamic environment</span>
+<span class='talk-transcript__fragment' data-time='187858' id='t-187858'>interacting with different cell types.</span>
+<span class='talk-transcript__fragment' data-time='190939' id='t-190939'>There's been many people</span>
+<span class='talk-transcript__fragment' data-time='192578' id='t-192578'>trying to grow cells in the lab.</span>
+<span class='talk-transcript__fragment' data-time='194439' id='t-194439'>They've tried many different approaches.</span>
+<span class='talk-transcript__fragment' data-time='197595' id='t-197595'>They've even tried to grow
+little mini-organs in the lab.</span>
+<span class='talk-transcript__fragment' data-time='200222' id='t-200222'>We're not trying to do that here.</span>
+<span class='talk-transcript__fragment' data-time='201771' id='t-201771'>We're simply trying to recreate</span>
+<span class='talk-transcript__fragment' data-time='203897' id='t-203897'>in this tiny chip</span>
+<span class='talk-transcript__fragment' data-time='205474' id='t-205474'>the smallest functional unit</span>
+<span class='talk-transcript__fragment' data-time='208491' id='t-208491'>that represents the biochemistry,</span>
+<span class='talk-transcript__fragment' data-time='211045' id='t-211045'>the function and the mechanical strain</span>
+<span class='talk-transcript__fragment' data-time='214169' id='t-214169'>that the cells experience in our bodies.</span>
+<span class='talk-transcript__fragment' data-time='217685' id='t-217685'>So how does it work? Let me show you.</span>
+<span class='talk-transcript__fragment' data-time='220717' id='t-220717'>We use techniques from the computer chip</span>
+<span class='talk-transcript__fragment' data-time='223351' id='t-223351'>manufacturing industry</span>
+<span class='talk-transcript__fragment' data-time='224984' id='t-224984'>to make these structures at a scale</span>
+<span class='talk-transcript__fragment' data-time='227181' id='t-227181'>relevant to both the cells and their environment.</span>
+<span class='talk-transcript__fragment' data-time='230077' id='t-230077'>We have three fluidic channels.</span>
+<span class='talk-transcript__fragment' data-time='232141' id='t-232141'>In the center, we have a porous, flexible membrane</span>
+<span class='talk-transcript__fragment' data-time='235853' id='t-235853'>on which we can add human cells</span>
+<span class='talk-transcript__fragment' data-time='237916' id='t-237916'>from, say, our lungs,</span>
+<span class='talk-transcript__fragment' data-time='239260' id='t-239260'>and then underneath, they had capillary cells,</span>
+<span class='talk-transcript__fragment' data-time='241747' id='t-241747'>the cells in our blood vessels.</span>
+<span class='talk-transcript__fragment' data-time='243535' id='t-243535'>And we can then apply mechanical forces to the chip</span>
+<span class='talk-transcript__fragment' data-time='247855' id='t-247855'>that stretch and contract the membrane,</span>
+<span class='talk-transcript__fragment' data-time='250684' id='t-250684'>so the cells experience the same mechanical forces</span>
+<span class='talk-transcript__fragment' data-time='253781' id='t-253781'>that they did when we breathe.</span>
+<span class='talk-transcript__fragment' data-time='256714' id='t-256714'>And they experience them how they did in the body.</span>
+<span class='talk-transcript__fragment' data-time='259874' id='t-259874'>There's air flowing through the top channel,</span>
+<span class='talk-transcript__fragment' data-time='262274' id='t-262274'>and then we flow a liquid that contains nutrients</span>
+<span class='talk-transcript__fragment' data-time='265623' id='t-265623'>through the blood channel.</span>
+<span class='talk-transcript__fragment' data-time='268462' id='t-268462'>Now the chip is really beautiful,</span>
+<span class='talk-transcript__fragment' data-time='270834' id='t-270834'>but what can we do with it?</span>
+<span class='talk-transcript__fragment' data-time='272931' id='t-272931'>We can get incredible functionality</span>
+<span class='talk-transcript__fragment' data-time='275255' id='t-275255'>inside these little chips.</span>
+<span class='talk-transcript__fragment' data-time='277006' id='t-277006'>Let me show you.</span>
+<span class='talk-transcript__fragment' data-time='278512' id='t-278512'>We could, for example, mimic infection,</span>
+<span class='talk-transcript__fragment' data-time='281143' id='t-281143'>where we add bacterial cells into the lung.</span>
+<span class='talk-transcript__fragment' data-time='284679' id='t-284679'>then we can add human white blood cells.</span>
+<span class='talk-transcript__fragment' data-time='287611' id='t-287611'>White blood cells are our body's defense</span>
+<span class='talk-transcript__fragment' data-time='290202' id='t-290202'>against bacterial invaders,</span>
+<span class='talk-transcript__fragment' data-time='291570' id='t-291570'>and when they sense this
+inflammation due to infection,</span>
+<span class='talk-transcript__fragment' data-time='294739' id='t-294739'>they will enter from the blood into the lung</span>
+<span class='talk-transcript__fragment' data-time='297596' id='t-297596'>and engulf the bacteria.</span>
+<span class='talk-transcript__fragment' data-time='299511' id='t-299511'>Well now you're going to see this happening</span>
+<span class='talk-transcript__fragment' data-time='301759' id='t-301759'>live in an actual human lung on a chip.</span>
+<span class='talk-transcript__fragment' data-time='305069' id='t-305069'>We've labeled the white blood cells
+so you can see them flowing through,</span>
+<span class='talk-transcript__fragment' data-time='308612' id='t-308612'>and when they detect that infection,</span>
+<span class='talk-transcript__fragment' data-time='310773' id='t-310773'>they begin to stick.</span>
+<span class='talk-transcript__fragment' data-time='312170' id='t-312170'>They stick, and then they try to go into the lung</span>
+<span class='talk-transcript__fragment' data-time='316057' id='t-316057'>side from blood channel.</span>
+<span class='talk-transcript__fragment' data-time='317838' id='t-317838'>And you can see here, we can actually visualize</span>
+<span class='talk-transcript__fragment' data-time='321527' id='t-321527'>a single white blood cell.</span>
+<span class='talk-transcript__fragment' data-time='325286' id='t-325286'>It sticks, it wiggles its way through</span>
+<span class='talk-transcript__fragment' data-time='327542' id='t-327542'>between the cell layers, through the pore,</span>
+<span class='talk-transcript__fragment' data-time='329857' id='t-329857'>comes out on the other side of the membrane,</span>
+<span class='talk-transcript__fragment' data-time='332278' id='t-332278'>and right there, it's going to engulf the bacteria</span>
+<span class='talk-transcript__fragment' data-time='335713' id='t-335713'>labeled in green.</span>
+<span class='talk-transcript__fragment' data-time='337362' id='t-337362'>In that tiny chip, you just witnessed</span>
+<span class='talk-transcript__fragment' data-time='340366' id='t-340366'>one of the most fundamental responses</span>
+<span class='talk-transcript__fragment' data-time='343547' id='t-343547'>our body has to an infection.</span>
+<span class='talk-transcript__fragment' data-time='345504' id='t-345504'>It's the way we respond to -- an immune response.</span>
+<span class='talk-transcript__fragment' data-time='349274' id='t-349274'>It's pretty exciting.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='351675' id='t-351675'>Now I want to share this picture with you,</span>
+<span class='talk-transcript__fragment' data-time='354018' id='t-354018'>not just because it's so beautiful,</span>
+<span class='talk-transcript__fragment' data-time='356656' id='t-356656'>but because it tells us an enormous
+amount of information</span>
+<span class='talk-transcript__fragment' data-time='359992' id='t-359992'>about what the cells are doing within the chips.</span>
+<span class='talk-transcript__fragment' data-time='362589' id='t-362589'>It tells us that these cells</span>
+<span class='talk-transcript__fragment' data-time='364848' id='t-364848'>from the small airways in our lungs,</span>
+<span class='talk-transcript__fragment' data-time='367159' id='t-367159'>actually have these hairlike structures</span>
+<span class='talk-transcript__fragment' data-time='368910' id='t-368910'>that you would expect to see in the lung.</span>
+<span class='talk-transcript__fragment' data-time='370918' id='t-370918'>These structures are called cilia,</span>
+<span class='talk-transcript__fragment' data-time='372383' id='t-372383'>and they actually move the mucus out of the lung.</span>
+<span class='talk-transcript__fragment' data-time='375293' id='t-375293'>Yeah. Mucus. Yuck.</span>
+<span class='talk-transcript__fragment' data-time='376832' id='t-376832'>But mucus is actually very important.</span>
+<span class='talk-transcript__fragment' data-time='379272' id='t-379272'>Mucus traps particulates, viruses,</span>
+<span class='talk-transcript__fragment' data-time='381853' id='t-381853'>potential allergens,</span>
+<span class='talk-transcript__fragment' data-time='383312' id='t-383312'>and these little cilia move</span>
+<span class='talk-transcript__fragment' data-time='384913' id='t-384913'>and clear the mucus out.</span>
+<span class='talk-transcript__fragment' data-time='387163' id='t-387163'>When they get damaged, say,</span>
+<span class='talk-transcript__fragment' data-time='389075' id='t-389075'>by cigarette smoke for example,</span>
+<span class='talk-transcript__fragment' data-time='391494' id='t-391494'>they don't work properly,
+and they can't clear that mucus out.</span>
+<span class='talk-transcript__fragment' data-time='394302' id='t-394302'>And that can lead to diseases such as bronchitis.</span>
+<span class='talk-transcript__fragment' data-time='398119' id='t-398119'>Cilia and the clearance of mucus</span>
+<span class='talk-transcript__fragment' data-time='400766' id='t-400766'>are also involved in awful diseases like cystic fibrosis.</span>
+<span class='talk-transcript__fragment' data-time='405227' id='t-405227'>But now, with the functionality
+that we get in these chips,</span>
+<span class='talk-transcript__fragment' data-time='408777' id='t-408777'>we can begin to look</span>
+<span class='talk-transcript__fragment' data-time='410601' id='t-410601'>for potential new treatments.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='413114' id='t-413114'>We didn't stop with the lung on a chip.</span>
+<span class='talk-transcript__fragment' data-time='415066' id='t-415066'>We have a gut on a chip.</span>
+<span class='talk-transcript__fragment' data-time='416950' id='t-416950'>You can see one right here.</span>
+<span class='talk-transcript__fragment' data-time='418980' id='t-418980'>And we've put intestinal human cells</span>
+<span class='talk-transcript__fragment' data-time='422206' id='t-422206'>in a gut on a chip,</span>
+<span class='talk-transcript__fragment' data-time='424111' id='t-424111'>and they're under constant peristaltic motion,</span>
+<span class='talk-transcript__fragment' data-time='426948' id='t-426948'>this trickling flow through the cells,</span>
+<span class='talk-transcript__fragment' data-time='430139' id='t-430139'>and we can mimic many of the functions</span>
+<span class='talk-transcript__fragment' data-time='432697' id='t-432697'>that you actually would expect to see</span>
+<span class='talk-transcript__fragment' data-time='434960' id='t-434960'>in the human intestine.</span>
+<span class='talk-transcript__fragment' data-time='436653' id='t-436653'>Now we can begin to create models of diseases</span>
+<span class='talk-transcript__fragment' data-time='440444' id='t-440444'>such as irritable bowel syndrome.</span>
+<span class='talk-transcript__fragment' data-time='442854' id='t-442854'>This is a disease that affects</span>
+<span class='talk-transcript__fragment' data-time='444936' id='t-444936'>a large number of individuals.</span>
+<span class='talk-transcript__fragment' data-time='446847' id='t-446847'>It's really debilitating,</span>
+<span class='talk-transcript__fragment' data-time='448621' id='t-448621'>and there aren't really many good treatments for it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='452563' id='t-452563'>Now we have a whole pipeline</span>
+<span class='talk-transcript__fragment' data-time='454865' id='t-454865'>of different organ chips</span>
+<span class='talk-transcript__fragment' data-time='457144' id='t-457144'>that we are currently working on in our labs.</span>
+<span class='talk-transcript__fragment' data-time='460876' id='t-460876'>Now, the true power of this technology, however,</span>
+<span class='talk-transcript__fragment' data-time='464295' id='t-464295'>really comes from the fact</span>
+<span class='talk-transcript__fragment' data-time='466420' id='t-466420'>that we can fluidically link them.</span>
+<span class='talk-transcript__fragment' data-time='468965' id='t-468965'>There's fluid flowing across these cells,</span>
+<span class='talk-transcript__fragment' data-time='470912' id='t-470912'>so we can begin to interconnect</span>
+<span class='talk-transcript__fragment' data-time='472991' id='t-472991'>multiple different chips together</span>
+<span class='talk-transcript__fragment' data-time='475853' id='t-475853'>to form what we call a virtual human on a chip.</span>
+<span class='talk-transcript__fragment' data-time='480066' id='t-480066'>Now we're really getting excited.</span>
+<span class='talk-transcript__fragment' data-time='483075' id='t-483075'>We're not going to ever recreate 
+a whole human in these chips,</span>
+<span class='talk-transcript__fragment' data-time='487170' id='t-487170'>but what our goal is is to be able to recreate</span>
+<span class='talk-transcript__fragment' data-time='491339' id='t-491339'>sufficient functionality</span>
+<span class='talk-transcript__fragment' data-time='493352' id='t-493352'>so that we can make better predictions</span>
+<span class='talk-transcript__fragment' data-time='495712' id='t-495712'>of what's going to happen in humans.</span>
+<span class='talk-transcript__fragment' data-time='497926' id='t-497926'>For example, now we can begin to explore</span>
+<span class='talk-transcript__fragment' data-time='500850' id='t-500850'>what happens when we put
+a drug like an aerosol drug.</span>
+<span class='talk-transcript__fragment' data-time='504284' id='t-504284'>Those of you like me who have asthma,
+when you take your inhaler,</span>
+<span class='talk-transcript__fragment' data-time='507270' id='t-507270'>we can explore how that drug comes into your lungs,</span>
+<span class='talk-transcript__fragment' data-time='510196' id='t-510196'>how it enters the body,</span>
+<span class='talk-transcript__fragment' data-time='511822' id='t-511822'>how it might affect, say, your heart.</span>
+<span class='talk-transcript__fragment' data-time='513576' id='t-513576'>Does it change the beating of your heart?</span>
+<span class='talk-transcript__fragment' data-time='515484' id='t-515484'>Does it have a toxicity?</span>
+<span class='talk-transcript__fragment' data-time='517125' id='t-517125'>Does it get cleared by the liver?</span>
+<span class='talk-transcript__fragment' data-time='519133' id='t-519133'>Is it metabolized in the liver?</span>
+<span class='talk-transcript__fragment' data-time='521285' id='t-521285'>Is it excreted in your kidneys?</span>
+<span class='talk-transcript__fragment' data-time='523176' id='t-523176'>We can begin to study the dynamic</span>
+<span class='talk-transcript__fragment' data-time='525388' id='t-525388'>response of the body to a drug.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='528028' id='t-528028'>This could really revolutionize</span>
+<span class='talk-transcript__fragment' data-time='529947' id='t-529947'>and be a game changer</span>
+<span class='talk-transcript__fragment' data-time='531596' id='t-531596'>for not only the pharmaceutical industry,</span>
+<span class='talk-transcript__fragment' data-time='534534' id='t-534534'>but a whole host of different industries,</span>
+<span class='talk-transcript__fragment' data-time='536907' id='t-536907'>including the cosmetics industry.</span>
+<span class='talk-transcript__fragment' data-time='539307' id='t-539307'>We can potentially use the skin on a chip</span>
+<span class='talk-transcript__fragment' data-time='542189' id='t-542189'>that we're currently developing in the lab</span>
+<span class='talk-transcript__fragment' data-time='544150' id='t-544150'>to test whether the ingredients in those products</span>
+<span class='talk-transcript__fragment' data-time='546704' id='t-546704'>that you're using are actually 
+safe to put on your skin</span>
+<span class='talk-transcript__fragment' data-time='549987' id='t-549987'>without the need for animal testing.</span>
+<span class='talk-transcript__fragment' data-time='552676' id='t-552676'>We could test the safety</span>
+<span class='talk-transcript__fragment' data-time='554620' id='t-554620'>of chemicals that we are exposed to</span>
+<span class='talk-transcript__fragment' data-time='556873' id='t-556873'>on a daily basis in our environment,</span>
+<span class='talk-transcript__fragment' data-time='558787' id='t-558787'>such as chemicals in regular household cleaners.</span>
+<span class='talk-transcript__fragment' data-time='562518' id='t-562518'>We could also use the organs on chips</span>
+<span class='talk-transcript__fragment' data-time='565720' id='t-565720'>for applications in bioterrorism</span>
+<span class='talk-transcript__fragment' data-time='568499' id='t-568499'>or radiation exposure.</span>
+<span class='talk-transcript__fragment' data-time='571070' id='t-571070'>We could use them to learn more about</span>
+<span class='talk-transcript__fragment' data-time='574420' id='t-574420'>diseases such as ebola</span>
+<span class='talk-transcript__fragment' data-time='577464' id='t-577464'>or other deadly diseases such as SARS.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='581356' id='t-581356'>Organs on chips could also change</span>
+<span class='talk-transcript__fragment' data-time='583194' id='t-583194'>the way we do clinical trials in the future.</span>
+<span class='talk-transcript__fragment' data-time='586568' id='t-586568'>Right now, the average participant</span>
+<span class='talk-transcript__fragment' data-time='589155' id='t-589155'>in a clinical trial is that: average.</span>
+<span class='talk-transcript__fragment' data-time='592525' id='t-592525'>Tends to be middle aged, tends to be female.</span>
+<span class='talk-transcript__fragment' data-time='595851' id='t-595851'>You won't find many clinical trials</span>
+<span class='talk-transcript__fragment' data-time='598323' id='t-598323'>in which children are involved,</span>
+<span class='talk-transcript__fragment' data-time='599838' id='t-599838'>yet every day, we give children medications,</span>
+<span class='talk-transcript__fragment' data-time='603385' id='t-603385'>and the only safety data we have on that drug</span>
+<span class='talk-transcript__fragment' data-time='607131' id='t-607131'>is one that we obtained from adults.</span>
+<span class='talk-transcript__fragment' data-time='610205' id='t-610205'>Children are not adults.</span>
+<span class='talk-transcript__fragment' data-time='611999' id='t-611999'>They may not respond in the same way adults do.</span>
+<span class='talk-transcript__fragment' data-time='615132' id='t-615132'>There are other things like genetic differences</span>
+<span class='talk-transcript__fragment' data-time='617544' id='t-617544'>in populations</span>
+<span class='talk-transcript__fragment' data-time='618977' id='t-618977'>that may lead to at-risk populations</span>
+<span class='talk-transcript__fragment' data-time='622083' id='t-622083'>that are at risk of having an adverse drug reaction.</span>
+<span class='talk-transcript__fragment' data-time='625520' id='t-625520'>Now imagine if we could take cells
+from all those different populations,</span>
+<span class='talk-transcript__fragment' data-time='628919' id='t-628919'>put them on chips,</span>
+<span class='talk-transcript__fragment' data-time='630827' id='t-630827'>and create populations on a chip.</span>
+<span class='talk-transcript__fragment' data-time='632791' id='t-632791'>This could really change the way</span>
+<span class='talk-transcript__fragment' data-time='634629' id='t-634629'>we do clinical trials.</span>
+<span class='talk-transcript__fragment' data-time='636698' id='t-636698'>And this is the team and the people
+that are doing this.</span>
+<span class='talk-transcript__fragment' data-time='639530' id='t-639530'>We have engineers, we have cell biologists,</span>
+<span class='talk-transcript__fragment' data-time='642787' id='t-642787'>we have clinicians, all working together.</span>
+<span class='talk-transcript__fragment' data-time='646561' id='t-646561'>We're really seeing something quite incredible</span>
+<span class='talk-transcript__fragment' data-time='648487' id='t-648487'>at the Wyss Institute.</span>
+<span class='talk-transcript__fragment' data-time='650092' id='t-650092'>It's really a convergence of disciplines,</span>
+<span class='talk-transcript__fragment' data-time='652263' id='t-652263'>where biology is influencing the way we design,</span>
+<span class='talk-transcript__fragment' data-time='655983' id='t-655983'>the way we engineer, the way we build.</span>
+<span class='talk-transcript__fragment' data-time='658645' id='t-658645'>It's pretty exciting.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='660048' id='t-660048'>We're establishing important industry collaborations</span>
+<span class='talk-transcript__fragment' data-time='663612' id='t-663612'>such as the one we have with a company</span>
+<span class='talk-transcript__fragment' data-time='666985' id='t-666985'>that has expertise in large-scale
+digital manufacturing.</span>
+<span class='talk-transcript__fragment' data-time='670584' id='t-670584'>They're going to help us make,</span>
+<span class='talk-transcript__fragment' data-time='672603' id='t-672603'>instead of one of these,</span>
+<span class='talk-transcript__fragment' data-time='674129' id='t-674129'>millions of these chips,</span>
+<span class='talk-transcript__fragment' data-time='675712' id='t-675712'>so that we can get them into the hands</span>
+<span class='talk-transcript__fragment' data-time='677381' id='t-677381'>of as many researchers as possible.</span>
+<span class='talk-transcript__fragment' data-time='680270' id='t-680270'>And this is key to the potential of that technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='684486' id='t-684486'>Now let me show you our instrument.</span>
+<span class='talk-transcript__fragment' data-time='687023' id='t-687023'>This is an instrument that our engineers</span>
+<span class='talk-transcript__fragment' data-time='689012' id='t-689012'>are actually prototyping right now in the lab,</span>
+<span class='talk-transcript__fragment' data-time='691630' id='t-691630'>and this instrument is going to give us</span>
+<span class='talk-transcript__fragment' data-time='693939' id='t-693939'>the engineering controls that we're going to require</span>
+<span class='talk-transcript__fragment' data-time='696398' id='t-696398'>in order to link 10 or more organ chips together.</span>
+<span class='talk-transcript__fragment' data-time='700566' id='t-700566'>It does something else that's very important.</span>
+<span class='talk-transcript__fragment' data-time='702795' id='t-702795'>It creates an easy user interface.</span>
+<span class='talk-transcript__fragment' data-time='705639' id='t-705639'>So a cell biologist like me can come in,</span>
+<span class='talk-transcript__fragment' data-time='708629' id='t-708629'>take a chip, put it in a cartridge</span>
+<span class='talk-transcript__fragment' data-time='710637' id='t-710637'>like the prototype you see there,</span>
+<span class='talk-transcript__fragment' data-time='712569' id='t-712569'>put the cartridge into the machine</span>
+<span class='talk-transcript__fragment' data-time='714640' id='t-714640'>just like you would a C.D.,</span>
+<span class='talk-transcript__fragment' data-time='716128' id='t-716128'>and away you go.</span>
+<span class='talk-transcript__fragment' data-time='717260' id='t-717260'>Plug and play. Easy.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='720009' id='t-720009'>Now, let's imagine a little bit</span>
+<span class='talk-transcript__fragment' data-time='722523' id='t-722523'>what the future might look like</span>
+<span class='talk-transcript__fragment' data-time='723902' id='t-723902'>if I could take your stem cells</span>
+<span class='talk-transcript__fragment' data-time='726315' id='t-726315'>and put them on a chip,</span>
+<span class='talk-transcript__fragment' data-time='727755' id='t-727755'>or your stem cells and put them on a chip.</span>
+<span class='talk-transcript__fragment' data-time='730974' id='t-730974'>It would be a personalized chip just for you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='734475' id='t-734475'>Now all of us in here are individuals,</span>
+<span class='talk-transcript__fragment' data-time='737683' id='t-737683'>and those individual differences mean</span>
+<span class='talk-transcript__fragment' data-time='740521' id='t-740521'>that we could react very differently</span>
+<span class='talk-transcript__fragment' data-time='742963' id='t-742963'>and sometimes in unpredictable ways to drugs.</span>
+<span class='talk-transcript__fragment' data-time='747210' id='t-747210'>I myself, a couple of years back,
+had a really bad headache,</span>
+<span class='talk-transcript__fragment' data-time='751778' id='t-751778'>just couldn't shake it, thought, 
+&quot;Well, I'll try something different.&quot;</span>
+<span class='talk-transcript__fragment' data-time='754191' id='t-754191'>I took some Advil. Fifteen minutes later,</span>
+<span class='talk-transcript__fragment' data-time='756326' id='t-756326'>I was on my way to the emergency room</span>
+<span class='talk-transcript__fragment' data-time='758206' id='t-758206'>with a full-blown asthma attack.</span>
+<span class='talk-transcript__fragment' data-time='760099' id='t-760099'>Now, obviously it wasn't fatal,</span>
+<span class='talk-transcript__fragment' data-time='761929' id='t-761929'>but unfortunately, some of these</span>
+<span class='talk-transcript__fragment' data-time='765102' id='t-765102'>adverse drug reactions can be fatal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='768711' id='t-768711'>So how do we prevent them?</span>
+<span class='talk-transcript__fragment' data-time='770652' id='t-770652'>Well, we could imagine one day</span>
+<span class='talk-transcript__fragment' data-time='773232' id='t-773232'>having Geraldine on a chip,</span>
+<span class='talk-transcript__fragment' data-time='775575' id='t-775575'>having Danielle on a chip,</span>
+<span class='talk-transcript__fragment' data-time='777324' id='t-777324'>having you on a chip.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='778797' id='t-778797'>Personalized medicine. Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='781185' id='t-781185'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

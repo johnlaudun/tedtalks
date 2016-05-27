@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>George Dyson: The birth of the computer | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="George Dyson: The birth of the computer | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Historian George Dyson tells stories from the birth of the modern computer -- from its 17th-century origins to the hilarious notebooks of some early computer engineers." name="description" />
+<meta content="George Dyson" name="author" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=et" hreflang="et" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The birth of the computer&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/45621_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/45621_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Historian George Dyson tells stories from the birth of the modern computer -- from its 17th-century origins to the hilarious notebooks of some early computer engineers." property="og:description" />
+<meta content="http://www.ted.com/talks/george_dyson_at_the_birth_of_the_computer/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/278?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='george_dyson_at_the_birth_of_the_computer'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='et'>Estonian</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/278?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1038" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/45621_480x360.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:18</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>George Dyson</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/278?language=en' lang='en'>
+The birth of the computer
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jun 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>Last year, I told you the story, in seven minutes, of Project Orion,</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>which was this very implausible technology</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>that technically could have worked,</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>but it had this one-year political window where it could have happened.</span>
+<span class='talk-transcript__fragment' data-time='14000' id='t-14000'>So it didn't happen. It was a dream that did not happen.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>This year I'm going to tell you the story of the birth of digital computing.</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>This was a perfect introduction.</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>And it's a story that did work. It did happen,</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>and the machines are all around us.</span>
+<span class='talk-transcript__fragment' data-time='27000' id='t-27000'>And it was a technology that was inevitable.</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>If the people I'm going to tell you the story about,</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>if they hadn't done it, somebody else would have.</span>
+<span class='talk-transcript__fragment' data-time='35000' id='t-35000'>So, it was sort of the right idea at the right time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='39000' id='t-39000'>This is Barricelli's universe. This is the universe we live in now.</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>It's the universe in which these machines</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>are now doing all these things, including changing biology.</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>I'm starting the story with the first atomic bomb at Trinity,</span>
+<span class='talk-transcript__fragment' data-time='55000' id='t-55000'>which was the Manhattan Project. It was a little bit like TED:</span>
+<span class='talk-transcript__fragment' data-time='57000' id='t-57000'>it brought a whole lot of very smart people together.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>And three of the smartest people were</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>Stan Ulam, Richard Feynman and John von Neumann.</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>And it was Von Neumann who said, after the bomb,</span>
+<span class='talk-transcript__fragment' data-time='68000' id='t-68000'>he was working on something much more important than bombs:</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>he's thinking about computers.</span>
+<span class='talk-transcript__fragment' data-time='74000' id='t-74000'>So, he wasn't only thinking about them; he built one. This is the machine he built.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>He built this machine,</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>and we had a beautiful demonstration of how this thing really works,</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>with these little bits. And it's an idea that goes way back.</span>
+<span class='talk-transcript__fragment' data-time='90000' id='t-90000'>The first person to really explain that</span>
+<span class='talk-transcript__fragment' data-time='93000' id='t-93000'>was Thomas Hobbes, who, in 1651,</span>
+<span class='talk-transcript__fragment' data-time='96000' id='t-96000'>explained how arithmetic and logic are the same thing,</span>
+<span class='talk-transcript__fragment' data-time='99000' id='t-99000'>and if you want to do artificial thinking and artificial logic,</span>
+<span class='talk-transcript__fragment' data-time='102000' id='t-102000'>you can do it all with arithmetic.</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>He said you needed addition and subtraction.</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>Leibniz, who came a little bit later -- this is 1679 --</span>
+<span class='talk-transcript__fragment' data-time='112000' id='t-112000'>showed that you didn't even need subtraction.</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>You could do the whole thing with addition.</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>Here, we have all the binary arithmetic and logic</span>
+<span class='talk-transcript__fragment' data-time='119000' id='t-119000'>that drove the computer revolution.</span>
+<span class='talk-transcript__fragment' data-time='121000' id='t-121000'>And Leibniz was the first person to really talk about building such a machine.</span>
+<span class='talk-transcript__fragment' data-time='125000' id='t-125000'>He talked about doing it with marbles,</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>having gates and what we now call shift registers,</span>
+<span class='talk-transcript__fragment' data-time='129000' id='t-129000'>where you shift the gates, drop the marbles down the tracks.</span>
+<span class='talk-transcript__fragment' data-time='132000' id='t-132000'>And that's what all these machines are doing,</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>except, instead of doing it with marbles,</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>they're doing it with electrons.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>And then we jump to Von Neumann, 1945,</span>
+<span class='talk-transcript__fragment' data-time='142000' id='t-142000'>when he sort of reinvents the whole same thing.</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>And 1945, after the war, the electronics existed</span>
+<span class='talk-transcript__fragment' data-time='147000' id='t-147000'>to actually try and build such a machine.</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>So June 1945 -- actually, the bomb hasn't even been dropped yet --</span>
+<span class='talk-transcript__fragment' data-time='154000' id='t-154000'>and Von Neumann is putting together all the theory to actually build this thing,</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>which also goes back to Turing,</span>
+<span class='talk-transcript__fragment' data-time='160000' id='t-160000'>who, before that, gave the idea that you could do all this</span>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>with a very brainless, little, finite state machine,</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>just reading a tape in and reading a tape out.</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>The other sort of genesis of what Von Neumann did</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>was the difficulty of how you would predict the weather.</span>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>Lewis Richardson saw how you could do this with a cellular array of people,</span>
+<span class='talk-transcript__fragment' data-time='181000' id='t-181000'>giving them each a little chunk, and putting it together.</span>
+<span class='talk-transcript__fragment' data-time='184000' id='t-184000'>Here, we have an electrical model illustrating a mind having a will,</span>
+<span class='talk-transcript__fragment' data-time='187000' id='t-187000'>but capable of only two ideas.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='189000' id='t-189000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>And that's really the simplest computer.</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>It's basically why you need the qubit,</span>
+<span class='talk-transcript__fragment' data-time='195000' id='t-195000'>because it only has two ideas.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>And you put lots of those together,</span>
+<span class='talk-transcript__fragment' data-time='199000' id='t-199000'>you get the essentials of the modern computer:</span>
+<span class='talk-transcript__fragment' data-time='202000' id='t-202000'>the arithmetic unit, the central control, the memory,</span>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>the recording medium, the input and the output.</span>
+<span class='talk-transcript__fragment' data-time='208000' id='t-208000'>But, there's one catch. This is the fatal -- you know,</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>we saw it in starting these programs up.</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>The instructions which govern this operation</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>must be given in absolutely exhaustive detail.</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>So, the programming has to be perfect, or it won't work.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>If you look at the origins of this,</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>the classic history sort of takes it all back to the ENIAC here.</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>But actually, the machine I'm going to tell you about,</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>the Institute for Advanced Study machine, which is way up there,</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>really should be down there. So, I'm trying to revise history,</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>and give some of these guys more credit than they've had.</span>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>Such a computer would open up universes,</span>
+<span class='talk-transcript__fragment' data-time='240000' id='t-240000'>which are, at the present, outside the range of any instruments.</span>
+<span class='talk-transcript__fragment' data-time='244000' id='t-244000'>So it opens up a whole new world, and these people saw it.</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>The guy who was supposed to build this machine</span>
+<span class='talk-transcript__fragment' data-time='249000' id='t-249000'>was the guy in the middle, Vladimir Zworykin, from RCA.</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>RCA, in probably one of the lousiest business decisions</span>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>of all time, decided not to go into computers.</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>But the first meetings, November 1945, were at RCA's offices.</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>RCA started this whole thing off, and said, you know,</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>televisions are the future, not computers.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>The essentials were all there --</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>all the things that make these machines run.</span>
+<span class='talk-transcript__fragment' data-time='276000' id='t-276000'>Von Neumann, and a logician, and a mathematician from the army</span>
+<span class='talk-transcript__fragment' data-time='279000' id='t-279000'>put this together. Then, they needed a place to build it.</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>When RCA said no, that's when they decided to build it in Princeton,</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>where Freeman works at the Institute.</span>
+<span class='talk-transcript__fragment' data-time='287000' id='t-287000'>That's where I grew up as a kid.</span>
+<span class='talk-transcript__fragment' data-time='289000' id='t-289000'>That's me, that's my sister Esther, who's talked to you before,</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>so we both go back to the birth of this thing.</span>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>That's Freeman, a long time ago,</span>
+<span class='talk-transcript__fragment' data-time='298000' id='t-298000'>and that was me.</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>And this is Von Neumann and Morgenstern,</span>
+<span class='talk-transcript__fragment' data-time='302000' id='t-302000'>who wrote the &quot;Theory of Games.&quot;</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>All these forces came together there, in Princeton.</span>
+<span class='talk-transcript__fragment' data-time='308000' id='t-308000'>Oppenheimer, who had built the bomb.</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>The machine was actually used mainly for doing bomb calculations.</span>
+<span class='talk-transcript__fragment' data-time='314000' id='t-314000'>And Julian Bigelow, who took</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>Zworkykin's place as the engineer, to actually figure out, using electronics,</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>how you would build this thing. The whole gang of people who came to work on this,</span>
+<span class='talk-transcript__fragment' data-time='323000' id='t-323000'>and women in front, who actually did most of the coding, were the first programmers.</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>These were the prototype geeks, the nerds.</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>They didn't fit in at the Institute.</span>
+<span class='talk-transcript__fragment' data-time='334000' id='t-334000'>This is a letter from the director, concerned about --</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>&quot;especially unfair on the matter of sugar.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='341000' id='t-341000'>You can read the text.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>This is hackers getting in trouble for the first time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='352000' id='t-352000'>(Laughter).</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='357000' id='t-357000'>These were not theoretical physicists.</span>
+<span class='talk-transcript__fragment' data-time='359000' id='t-359000'>They were real soldering-gun type guys, and they actually built this thing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='364000' id='t-364000'>And we take it for granted now, that each of these machines</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>has billions of transistors, doing billions of cycles per second without failing.</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>They were using vacuum tubes, very narrow, sloppy techniques</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>to get actually binary behavior out of these radio vacuum tubes.</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>They actually used 6J6, the common radio tube,</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>because they found they were more reliable than the more expensive tubes.</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>And what they did at the Institute was publish every step of the way.</span>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>Reports were issued, so that this machine was cloned</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>at 15 other places around the world.</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>And it really was. It was the original microprocessor.</span>
+<span class='talk-transcript__fragment' data-time='401000' id='t-401000'>All the computers now are copies of that machine.</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>The memory was in cathode ray tubes --</span>
+<span class='talk-transcript__fragment' data-time='406000' id='t-406000'>a whole bunch of spots on the face of the tube --</span>
+<span class='talk-transcript__fragment' data-time='409000' id='t-409000'>very, very sensitive to electromagnetic disturbances.</span>
+<span class='talk-transcript__fragment' data-time='412000' id='t-412000'>So, there's 40 of these tubes,</span>
+<span class='talk-transcript__fragment' data-time='414000' id='t-414000'>like a V-40 engine running the memory.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='418000' id='t-418000'>The input and the output was by teletype tape at first.</span>
+<span class='talk-transcript__fragment' data-time='423000' id='t-423000'>This is a wire drive, using bicycle wheels.</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>This is the archetype of the hard disk that's in your machine now.</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>Then they switched to a magnetic drum.</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>This is modifying IBM equipment,</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>which is the origins of the whole data-processing industry, later at IBM.</span>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>And this is the beginning of computer graphics.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>The &quot;Graph'g-Beam Turn On.&quot; This next slide,</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>that's the -- as far as I know -- the first digital bitmap display, 1954.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>So, Von Neumann was already off in a theoretical cloud,</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>doing abstract sorts of studies of how you could build</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>reliable machines out of unreliable components.</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>Those guys drinking all the tea with sugar in it</span>
+<span class='talk-transcript__fragment' data-time='462000' id='t-462000'>were writing in their logbooks, trying to get this thing to work, with all</span>
+<span class='talk-transcript__fragment' data-time='466000' id='t-466000'>these 2,600 vacuum tubes that failed half the time.</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>And that's what I've been doing, this last six months, is going through the logs.</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>&quot;Running time: two minutes. Input, output: 90 minutes.&quot;</span>
+<span class='talk-transcript__fragment' data-time='477000' id='t-477000'>This includes a large amount of human error.</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>So they are always trying to figure out, what's machine error? What's human error?</span>
+<span class='talk-transcript__fragment' data-time='483000' id='t-483000'>What's code, what's hardware?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>That's an engineer gazing at tube number 36,</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>trying to figure out why the memory's not in focus.</span>
+<span class='talk-transcript__fragment' data-time='489000' id='t-489000'>He had to focus the memory -- seems OK.</span>
+<span class='talk-transcript__fragment' data-time='492000' id='t-492000'>So, he had to focus each tube just to get the memory up and running,</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>let alone having, you know, software problems.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='498000' id='t-498000'>&quot;No use, went home.&quot; (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>&quot;Impossible to follow the damn thing, where's a directory?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>So, already, they're complaining about the manuals:</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>&quot;before closing down in disgust ... &quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>&quot;The General Arithmetic: Operating Logs.&quot;</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>Burning lots of midnight oil.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>&quot;MANIAC,&quot; which became the acronym for the machine,</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>Mathematical and Numerical Integrator and Calculator, &quot;lost its memory.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='519000' id='t-519000'>&quot;MANIAC regained its memory, when the power went off.&quot; &quot;Machine or human?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>&quot;Aha!&quot; So, they figured out it's a code problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>&quot;Found trouble in code, I hope.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>&quot;Code error, machine not guilty.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>&quot;Damn it, I can be just as stubborn as this thing.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='541000' id='t-541000'>&quot;And the dawn came.&quot; So they ran all night.</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>Twenty-four hours a day, this thing was running, mainly running bomb calculations.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>&quot;Everything up to this point is wasted time.&quot; &quot;What's the use? Good night.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>&quot;Master control off. The hell with it. Way off.&quot; (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>&quot;Something's wrong with the air conditioner --</span>
+<span class='talk-transcript__fragment' data-time='558000' id='t-558000'>smell of burning V-belts in the air.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>&quot;A short -- do not turn the machine on.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>&quot;IBM machine putting a tar-like substance on the cards. The tar is from the roof.&quot;</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>So they really were working under tough conditions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='570000' id='t-570000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>Here, &quot;A mouse has climbed into the blower</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>behind the regulator rack, set blower to vibrating. Result: no more mouse.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='577000' id='t-577000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='582000' id='t-582000'>&quot;Here lies mouse. Born: ?. Died: 4:50 a.m., May 1953.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>There's an inside joke someone has penciled in:</span>
+<span class='talk-transcript__fragment' data-time='592000' id='t-592000'>&quot;Here lies Marston Mouse.&quot;</span>
+<span class='talk-transcript__fragment' data-time='594000' id='t-594000'>If you're a mathematician, you get that,</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>because Marston was a mathematician who</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>objected to the computer being there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>&quot;Picked a lightning bug off the drum.&quot; &quot;Running at two kilocycles.&quot;</span>
+<span class='talk-transcript__fragment' data-time='604000' id='t-604000'>That's two thousand cycles per second --</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>&quot;yes, I'm chicken&quot; -- so two kilocycles was slow speed.</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>The high speed was 16 kilocycles.</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>I don't know if you remember a Mac that was 16 Megahertz,</span>
+<span class='talk-transcript__fragment' data-time='615000' id='t-615000'>that's slow speed.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>&quot;I have now duplicated both results.</span>
+<span class='talk-transcript__fragment' data-time='620000' id='t-620000'>How will I know which is right, assuming one result is correct?</span>
+<span class='talk-transcript__fragment' data-time='623000' id='t-623000'>This now is the third different output.</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>I know when I'm licked.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='629000' id='t-629000'>&quot;We've duplicated errors before.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>&quot;Machine run, fine. Code isn't.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>&quot;Only happens when the machine is running.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>And sometimes things are okay.</span>
+<span class='talk-transcript__fragment' data-time='640000' id='t-640000'>&quot;Machine a thing of beauty, and a joy forever.&quot; &quot;Perfect running.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>&quot;Parting thought: when there's bigger and better errors, we'll have them.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>So, nobody was supposed to know they were actually designing bombs.</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>They're designing hydrogen bombs. But someone in the logbook,</span>
+<span class='talk-transcript__fragment' data-time='653000' id='t-653000'>late one night, finally drew a bomb.</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>So, that was the result. It was Mike,</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>the first thermonuclear bomb, in 1952.</span>
+<span class='talk-transcript__fragment' data-time='660000' id='t-660000'>That was designed on that machine,</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>in the woods behind the Institute.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='664000' id='t-664000'>So Von Neumann invited a whole gang of weirdos</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>from all over the world to work on all these problems.</span>
+<span class='talk-transcript__fragment' data-time='671000' id='t-671000'>Barricelli, he came to do what we now call, really, artificial life,</span>
+<span class='talk-transcript__fragment' data-time='675000' id='t-675000'>trying to see if, in this artificial universe --</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>he was a viral-geneticist, way, way, way ahead of his time.</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>He's still ahead of some of the stuff that's being done now.</span>
+<span class='talk-transcript__fragment' data-time='684000' id='t-684000'>Trying to start an artificial genetic system running in the computer.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>Began -- his universe started March 3, '53.</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>So it's almost exactly -- it's 50 years ago next Tuesday, I guess.</span>
+<span class='talk-transcript__fragment' data-time='697000' id='t-697000'>And he saw everything in terms of --</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>he could read the binary code straight off the machine.</span>
+<span class='talk-transcript__fragment' data-time='701000' id='t-701000'>He had a wonderful rapport.</span>
+<span class='talk-transcript__fragment' data-time='703000' id='t-703000'>Other people couldn't get the machine running. It always worked for him.</span>
+<span class='talk-transcript__fragment' data-time='706000' id='t-706000'>Even errors were duplicated.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='709000' id='t-709000'>&quot;Dr. Barricelli claims machine is wrong, code is right.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='712000' id='t-712000'>So he designed this universe, and ran it.</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>When the bomb people went home, he was allowed in there.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>He would run that thing all night long, running these things,</span>
+<span class='talk-transcript__fragment' data-time='721000' id='t-721000'>if anybody remembers Stephen Wolfram,</span>
+<span class='talk-transcript__fragment' data-time='723000' id='t-723000'>who reinvented this stuff.</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>And he published it. It wasn't locked up and disappeared.</span>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>It was published in the literature.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>&quot;If it's that easy to create living organisms, why not create a few yourself?&quot;</span>
+<span class='talk-transcript__fragment' data-time='732000' id='t-732000'>So, he decided to give it a try,</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>to start this artificial biology going in the machines.</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>And he found all these, sort of --</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>it was like a naturalist coming in</span>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>and looking at this tiny, 5,000-byte universe,</span>
+<span class='talk-transcript__fragment' data-time='745000' id='t-745000'>and seeing all these things happening</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>that we see in the outside world, in biology.</span>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>This is some of the generations of his universe.</span>
+<span class='talk-transcript__fragment' data-time='756000' id='t-756000'>But they're just going to stay numbers;</span>
+<span class='talk-transcript__fragment' data-time='758000' id='t-758000'>they're not going to become organisms.</span>
+<span class='talk-transcript__fragment' data-time='760000' id='t-760000'>They have to have something.</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>You have a genotype and you have to have a phenotype.</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>They have to go out and do something. And he started doing that,</span>
+<span class='talk-transcript__fragment' data-time='766000' id='t-766000'>started giving these little numerical organisms things they could play with --</span>
+<span class='talk-transcript__fragment' data-time='769000' id='t-769000'>playing chess with other machines and so on.</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>And they did start to evolve.</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>And he went around the country after that.</span>
+<span class='talk-transcript__fragment' data-time='775000' id='t-775000'>Every time there was a new, fast machine, he started using it,</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>and saw exactly what's happening now.</span>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>That the programs, instead of being turned off -- when you quit the program,</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>you'd keep running</span>
+<span class='talk-transcript__fragment' data-time='789000' id='t-789000'>and, basically, all the sorts of things like Windows is doing,</span>
+<span class='talk-transcript__fragment' data-time='793000' id='t-793000'>running as a multi-cellular organism on many machines,</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>he envisioned all that happening.</span>
+<span class='talk-transcript__fragment' data-time='796000' id='t-796000'>And he saw that evolution itself was an intelligent process.</span>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>It wasn't any sort of creator intelligence,</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>but the thing itself was a giant parallel computation</span>
+<span class='talk-transcript__fragment' data-time='805000' id='t-805000'>that would have some intelligence.</span>
+<span class='talk-transcript__fragment' data-time='807000' id='t-807000'>And he went out of his way to say</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>that he was not saying this was lifelike,</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>or a new kind of life.</span>
+<span class='talk-transcript__fragment' data-time='814000' id='t-814000'>It just was another version of the same thing happening.</span>
+<span class='talk-transcript__fragment' data-time='817000' id='t-817000'>And there's really no difference between what he was doing in the computer</span>
+<span class='talk-transcript__fragment' data-time='820000' id='t-820000'>and what nature did billions of years ago.</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>And could you do it again now?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>So, when I went into these archives looking at this stuff, lo and behold,</span>
+<span class='talk-transcript__fragment' data-time='829000' id='t-829000'>the archivist came up one day, saying,</span>
+<span class='talk-transcript__fragment' data-time='831000' id='t-831000'>&quot;I think we found another box that had been thrown out.&quot;</span>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>And it was his universe on punch cards.</span>
+<span class='talk-transcript__fragment' data-time='836000' id='t-836000'>So there it is, 50 years later, sitting there -- sort of suspended animation.</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>That's the instructions for running --</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>this is actually the source code</span>
+<span class='talk-transcript__fragment' data-time='846000' id='t-846000'>for one of those universes,</span>
+<span class='talk-transcript__fragment' data-time='848000' id='t-848000'>with a note from the engineers</span>
+<span class='talk-transcript__fragment' data-time='850000' id='t-850000'>saying they're having some problems.</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>&quot;There must be something about this code that you haven't explained yet.&quot;</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>And I think that's really the truth. We still don't understand</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>how these very simple instructions can lead to increasing complexity.</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>What's the dividing line between</span>
+<span class='talk-transcript__fragment' data-time='865000' id='t-865000'>when that is lifelike and when it really is alive?</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>These cards, now, thanks to me showing up, are being saved.</span>
+<span class='talk-transcript__fragment' data-time='873000' id='t-873000'>And the question is, should we run them or not?</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>You know, could we get them running?</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>Do you want to let it loose on the Internet?</span>
+<span class='talk-transcript__fragment' data-time='878000' id='t-878000'>These machines would think they --</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>these organisms, if they came back to life now --</span>
+<span class='talk-transcript__fragment' data-time='883000' id='t-883000'>whether they've died and gone to heaven, there's a universe.</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>My laptop is 10 thousand million times</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>the size of the universe that they lived in when Barricelli quit the project.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='895000' id='t-895000'>He was thinking far ahead, to</span>
+<span class='talk-transcript__fragment' data-time='897000' id='t-897000'>how this would really grow into a new kind of life.</span>
+<span class='talk-transcript__fragment' data-time='900000' id='t-900000'>And that's what's happening!</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>When Juan Enriquez told us about</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>these 12 trillion bits being transferred back and forth,</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>of all this genomics data going to the proteomics lab,</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>that's what Barricelli imagined:</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>that this digital code in these machines</span>
+<span class='talk-transcript__fragment' data-time='917000' id='t-917000'>is actually starting to code --</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>it already is coding from nucleic acids.</span>
+<span class='talk-transcript__fragment' data-time='922000' id='t-922000'>We've been doing that since, you know, since we started PCR</span>
+<span class='talk-transcript__fragment' data-time='925000' id='t-925000'>and synthesizing small strings of DNA.</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>And real soon, we're actually going to be synthesizing the proteins,</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>and, like Steve showed us, that just opens an entirely new world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='939000' id='t-939000'>It's a world that Von Neumann himself envisioned.</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>This was published after he died: his sort of unfinished notes</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>on self-reproducing machines,</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>what it takes to get the machines sort of jump-started</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>to where they begin to reproduce.</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>It took really three people:</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>Barricelli had the concept of the code as a living thing;</span>
+<span class='talk-transcript__fragment' data-time='957000' id='t-957000'>Von Neumann saw how you could build the machines --</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>that now, last count, four million</span>
+<span class='talk-transcript__fragment' data-time='963000' id='t-963000'>of these Von Neumann machines is built every 24 hours;</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>and Julian Bigelow, who died 10 days ago --</span>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>this is John Markoff's obituary for him --</span>
+<span class='talk-transcript__fragment' data-time='973000' id='t-973000'>he was the important missing link,</span>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>the engineer who came in</span>
+<span class='talk-transcript__fragment' data-time='977000' id='t-977000'>and knew how to put those vacuum tubes together and make it work.</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>And all our computers have, inside them,</span>
+<span class='talk-transcript__fragment' data-time='982000' id='t-982000'>the copies of the architecture that he had to just design</span>
+<span class='talk-transcript__fragment' data-time='986000' id='t-986000'>one day, sort of on pencil and paper.</span>
+<span class='talk-transcript__fragment' data-time='989000' id='t-989000'>And we owe a tremendous credit to that.</span>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>And he explained, in a very generous way,</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>the spirit that brought all these different people to</span>
+<span class='talk-transcript__fragment' data-time='997000' id='t-997000'>the Institute for Advanced Study in the '40s to do this project,</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>and make it freely available with no patents, no restrictions,</span>
+<span class='talk-transcript__fragment' data-time='1003000' id='t-1003000'>no intellectual property disputes to the rest of the world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1006000' id='t-1006000'>That's the last entry in the logbook</span>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>when the machine was shut down, July 1958.</span>
+<span class='talk-transcript__fragment' data-time='1012000' id='t-1012000'>And it's Julian Bigelow who was running it until midnight</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>when the machine was officially turned off.</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>And that's the end.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1019000' id='t-1019000'>Thank you very much.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1021000' id='t-1021000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

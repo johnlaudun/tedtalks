@@ -1,0 +1,1371 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Richard Baraniuk: The birth of the open-source learning revolution | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Richard Baraniuk: The birth of the open-source learning revolution | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: In 2006, open-learning visionary Richard Baraniuk explains the vision behind Connexions (now called OpenStax), an open-source, online education system. It cuts out the textbook, allowing teachers to share and modify course materials freely, anywhere in the world." name="description" />
+<meta content="Richard Baraniuk" name="author" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=hy" hreflang="hy" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The birth of the open-source learning revolution&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/228_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/228_480x360.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: In 2006, open-learning visionary Richard Baraniuk explains the vision behind Connexions (now called OpenStax), an open-source, online education system. It cuts out the textbook, allowing teachers to share and modify course materials freely, anywhere in the world." property="og:description" />
+<meta content="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/25?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='richard_baraniuk_on_open_source_learning'>
+<option value='ar'>Arabic</option>
+<option value='hy'>Armenian</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/25?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1114" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/228_480x360.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:34</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Richard Baraniuk</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/25?language=en' lang='en'>
+The birth of the open-source learning revolution
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Aug 2006
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I'm Rich Baraniuk and what I'd like
+to talk a little bit about today</span>
+<span class='talk-transcript__fragment' data-time='3215' id='t-3215'>are some ideas that I think
+have just tremendous resonance</span>
+<span class='talk-transcript__fragment' data-time='6960' id='t-6960'>with all the things that have been
+talked about the last two days.</span>
+<span class='talk-transcript__fragment' data-time='10480' id='t-10480'>So many different points of resonance</span>
+<span class='talk-transcript__fragment' data-time='12280' id='t-12280'>that it's going to be difficult
+to bring them all up,</span>
+<span class='talk-transcript__fragment' data-time='14781' id='t-14781'>but I'll try to do my best.</span>
+<span class='talk-transcript__fragment' data-time='16120' id='t-16120'>Does anybody remember these?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='17520' id='t-17520'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='19320' id='t-19320'>OK, so these are LP records
+and they've been replaced, right?</span>
+<span class='talk-transcript__fragment' data-time='25320' id='t-25320'>They've been swept away
+over the last two decades</span>
+<span class='talk-transcript__fragment' data-time='28040' id='t-28040'>by these types of world-flattening
+digitization technologies, right?</span>
+<span class='talk-transcript__fragment' data-time='32920' id='t-32920'>And I think it was best witnessed</span>
+<span class='talk-transcript__fragment' data-time='35560' id='t-35560'>when Thomas was playing the music
+as we came in the room today.</span>
+<span class='talk-transcript__fragment' data-time='39400' id='t-39400'>What's happened in the music world
+is there's a culture,</span>
+<span class='talk-transcript__fragment' data-time='42080' id='t-42080'>or an ecosystem that's been created</span>
+<span class='talk-transcript__fragment' data-time='43880' id='t-43880'>that, if you take some words from Apple,</span>
+<span class='talk-transcript__fragment' data-time='46480' id='t-46480'>the catchphrase --
+that we create, rip, mix and burn.</span>
+<span class='talk-transcript__fragment' data-time='50480' id='t-50480'>What I mean by that is that anyone
+in the world is free and allowed</span>
+<span class='talk-transcript__fragment' data-time='53680' id='t-53680'>to create new music and musical ideas.</span>
+<span class='talk-transcript__fragment' data-time='56040' id='t-56040'>Anyone in the world is allowed
+to rip or copy musical ideas,</span>
+<span class='talk-transcript__fragment' data-time='59760' id='t-59760'>use them in innovative ways.</span>
+<span class='talk-transcript__fragment' data-time='61520' id='t-61520'>Anyone is allowed to mix them
+in different types of ways,</span>
+<span class='talk-transcript__fragment' data-time='64519' id='t-64519'>draw connections between musical ideas,</span>
+<span class='talk-transcript__fragment' data-time='66720' id='t-66720'>and people can burn them or create
+final products and continue the circle.</span>
+<span class='talk-transcript__fragment' data-time='70720' id='t-70720'>And what that's done
+is it's created, like I said,</span>
+<span class='talk-transcript__fragment' data-time='73080' id='t-73080'>a vibrant community that's very inclusive,</span>
+<span class='talk-transcript__fragment' data-time='75104' id='t-75104'>with people continually working
+to connect musical ideas,</span>
+<span class='talk-transcript__fragment' data-time='78840' id='t-78840'>innovate them and keep things
+constantly up to date.</span>
+<span class='talk-transcript__fragment' data-time='82280' id='t-82280'>Today's hit single
+is not last year's hit single.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='86080' id='t-86080'>But I'm not here
+to talk about music today.</span>
+<span class='talk-transcript__fragment' data-time='88280' id='t-88280'>I'm here to talk about books.</span>
+<span class='talk-transcript__fragment' data-time='89760' id='t-89760'>In particular, textbooks
+and the kind of educational materials</span>
+<span class='talk-transcript__fragment' data-time='93200' id='t-93200'>that we use every day in school.</span>
+<span class='talk-transcript__fragment' data-time='95640' id='t-95640'>Has anyone here ever been to school?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='97379' id='t-97379'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='98800' id='t-98800'>OK, does anybody realize
+there's a crisis in our schools,</span>
+<span class='talk-transcript__fragment' data-time='102800' id='t-102800'>around the world?</span>
+<span class='talk-transcript__fragment' data-time='104600' id='t-104600'>I'm not going to spend
+too much time on that,</span>
+<span class='talk-transcript__fragment' data-time='107160' id='t-107160'>but what I want to talk about
+is some of the disconnects</span>
+<span class='talk-transcript__fragment' data-time='110520' id='t-110520'>that appear when an author
+publishes a book.</span>
+<span class='talk-transcript__fragment' data-time='113040' id='t-113040'>That in fact, the publishing process --</span>
+<span class='talk-transcript__fragment' data-time='114922' id='t-114922'>just because of the fact
+that it's complicated,</span>
+<span class='talk-transcript__fragment' data-time='117137' id='t-117137'>it's heavy, books are expensive --</span>
+<span class='talk-transcript__fragment' data-time='118840' id='t-118840'>creates a sort of a wall
+between authors of books</span>
+<span class='talk-transcript__fragment' data-time='122160' id='t-122160'>and the ultimate users of books,</span>
+<span class='talk-transcript__fragment' data-time='123720' id='t-123720'>be they teachers, students
+or just general readers.</span>
+<span class='talk-transcript__fragment' data-time='127840' id='t-127840'>And this is even more true
+if you happen to speak a language</span>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>other than one of the world's
+major languages, and especially English.</span>
+<span class='talk-transcript__fragment' data-time='134960' id='t-134960'>I'm going to call these people
+below the barrier &quot;shutouts&quot;</span>
+<span class='talk-transcript__fragment' data-time='137800' id='t-137800'>because they're really
+shut out of the process</span>
+<span class='talk-transcript__fragment' data-time='139967' id='t-139967'>of being able to share
+their knowledge with the world.</span>
+<span class='talk-transcript__fragment' data-time='142519' id='t-142519'>And so what I want to talk about today
+is trying to take these ideas</span>
+<span class='talk-transcript__fragment' data-time='145735' id='t-145735'>that we've seen in the musical culture</span>
+<span class='talk-transcript__fragment' data-time='147582' id='t-147582'>and try to bring these
+towards reinventing the way</span>
+<span class='talk-transcript__fragment' data-time='149947' id='t-149947'>we think about writing books,
+using them and teaching from them.</span>
+<span class='talk-transcript__fragment' data-time='153800' id='t-153800'>So, that's what I'd like to talk about</span>
+<span class='talk-transcript__fragment' data-time='155640' id='t-155640'>and, really, how we get
+from where we are now</span>
+<span class='talk-transcript__fragment' data-time='157903' id='t-157903'>to where we need to go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='159200' id='t-159200'>The first thing I'd like you to do
+is a little thought experiment.</span>
+<span class='talk-transcript__fragment' data-time='162320' id='t-162320'>Imagine taking all the world's books.</span>
+<span class='talk-transcript__fragment' data-time='164106' id='t-164106'>OK, everybody imagine books
+and imagine just tearing out the pages.</span>
+<span class='talk-transcript__fragment' data-time='167640' id='t-167640'>So, liberating these pages</span>
+<span class='talk-transcript__fragment' data-time='169760' id='t-169760'>and imagine digitizing them
+and then storing them</span>
+<span class='talk-transcript__fragment' data-time='173040' id='t-173040'>in a vast, interconnected,
+global repository.</span>
+<span class='talk-transcript__fragment' data-time='175960' id='t-175960'>Think of it as a massive iTunes
+for book-type content.</span>
+<span class='talk-transcript__fragment' data-time='181600' id='t-181600'>And then take that material
+and imagine making it all open,</span>
+<span class='talk-transcript__fragment' data-time='184880' id='t-184880'>so that people can modify it,
+play with it, improve it.</span>
+<span class='talk-transcript__fragment' data-time='187960' id='t-187960'>Imagine making it free,</span>
+<span class='talk-transcript__fragment' data-time='189240' id='t-189240'>so that anyone in the world can have
+access to all of this knowledge,</span>
+<span class='talk-transcript__fragment' data-time='192503' id='t-192503'>and imagine using information technology</span>
+<span class='talk-transcript__fragment' data-time='194880' id='t-194880'>so that you can update this content,
+improve it, play with it,</span>
+<span class='talk-transcript__fragment' data-time='198240' id='t-198240'>on a timescale that's more
+on the order of seconds instead of years.</span>
+<span class='talk-transcript__fragment' data-time='202920' id='t-202920'>Instead of editions of a book
+coming out every two years,</span>
+<span class='talk-transcript__fragment' data-time='205800' id='t-205800'>imagine them coming out every 25 seconds.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='208760' id='t-208760'>So, imagine we could do that
+and imagine we could put people into this.</span>
+<span class='talk-transcript__fragment' data-time='213040' id='t-213040'>So that we could truly build
+an ecosystem with not just authors,</span>
+<span class='talk-transcript__fragment' data-time='216440' id='t-216440'>but all the people
+who could be or want to be authors</span>
+<span class='talk-transcript__fragment' data-time='220040' id='t-220040'>in all the different
+languages of the world,</span>
+<span class='talk-transcript__fragment' data-time='222120' id='t-222120'>and I think if you could do this,
+it would be called --</span>
+<span class='talk-transcript__fragment' data-time='224720' id='t-224720'>I'm just going to refer to it
+as a knowledge ecosystem.</span>
+<span class='talk-transcript__fragment' data-time='227320' id='t-227320'>So, really, this is the dream,</span>
+<span class='talk-transcript__fragment' data-time='229440' id='t-229440'>and in a sense what you can think of it</span>
+<span class='talk-transcript__fragment' data-time='231322' id='t-231322'>is we're trying
+to enable anyone in the world,</span>
+<span class='talk-transcript__fragment' data-time='233489' id='t-233489'>I mean anyone in the world --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='235040' id='t-235040'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='236280' id='t-236280'>to be their own educational DJ,</span>
+<span class='talk-transcript__fragment' data-time='238400' id='t-238400'>creating educational materials,
+sharing them with the world,</span>
+<span class='talk-transcript__fragment' data-time='241240' id='t-241240'>constantly innovating on them.</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>So, this is the dream.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='244240' id='t-244240'>In fact, this dream
+is actually being realized.</span>
+<span class='talk-transcript__fragment' data-time='247080' id='t-247080'>Over the last six-and-a-half years,</span>
+<span class='talk-transcript__fragment' data-time='248920' id='t-248920'>we've been working really hard
+at Rice University</span>
+<span class='talk-transcript__fragment' data-time='251600' id='t-251600'>on a project called Connexions,</span>
+<span class='talk-transcript__fragment' data-time='253200' id='t-253200'>and so what I'd like to do
+for the rest of the talk</span>
+<span class='talk-transcript__fragment' data-time='255640' id='t-255640'>is just tell you a little bit</span>
+<span class='talk-transcript__fragment' data-time='257045' id='t-257045'>about what people are doing
+with Connexions,</span>
+<span class='talk-transcript__fragment' data-time='259120' id='t-259120'>which you can kind of
+think of as the counterpoint</span>
+<span class='talk-transcript__fragment' data-time='261480' id='t-261480'>to Nicholas Negroponte's talk yesterday,</span>
+<span class='talk-transcript__fragment' data-time='263409' id='t-263409'>where they're working on the hardware
+of bringing education to the world.</span>
+<span class='talk-transcript__fragment' data-time='266862' id='t-266862'>We're working on the open-source tools</span>
+<span class='talk-transcript__fragment' data-time='269360' id='t-269360'>and the content.</span>
+<span class='talk-transcript__fragment' data-time='270920' id='t-270920'>So, that's sort of
+to put it in perspective here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='273760' id='t-273760'>So, create.</span>
+<span class='talk-transcript__fragment' data-time='275360' id='t-275360'>What are some of the people
+that are using these kind of tools?</span>
+<span class='talk-transcript__fragment' data-time='278360' id='t-278360'>Well, the first thing is,</span>
+<span class='talk-transcript__fragment' data-time='279600' id='t-279600'>there's a community
+of engineering professors,</span>
+<span class='talk-transcript__fragment' data-time='282480' id='t-282480'>from Cambridge to Kyoto,</span>
+<span class='talk-transcript__fragment' data-time='284600' id='t-284600'>who are developing engineering content
+in electrical engineering</span>
+<span class='talk-transcript__fragment' data-time='288560' id='t-288560'>to develop what you can think of
+as a massive, super textbook</span>
+<span class='talk-transcript__fragment' data-time='292560' id='t-292560'>that covers the entire area
+of electrical engineering.</span>
+<span class='talk-transcript__fragment' data-time='295520' id='t-295520'>And not only that --</span>
+<span class='talk-transcript__fragment' data-time='296760' id='t-296760'>it can be customized for use in each
+of their own individual institutions.</span>
+<span class='talk-transcript__fragment' data-time='302120' id='t-302120'>If people like Kitty Jones, a shut-out --</span>
+<span class='talk-transcript__fragment' data-time='305600' id='t-305600'>a private music teacher and mom
+from Champagne, Illinois,</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>who wanted to share her fantastic
+music content with the world,</span>
+<span class='talk-transcript__fragment' data-time='313400' id='t-313400'>on how to teach kids how to play music --</span>
+<span class='talk-transcript__fragment' data-time='315680' id='t-315680'>Her material is now used
+over 600,000 times per month.</span>
+<span class='talk-transcript__fragment' data-time='321160' id='t-321160'>Tremendous use.</span>
+<span class='talk-transcript__fragment' data-time='322680' id='t-322680'>In fact, a lot of this use coming
+from United States K-12 schools,</span>
+<span class='talk-transcript__fragment' data-time='326960' id='t-326960'>because anyone who's involved
+in a school scale back,</span>
+<span class='talk-transcript__fragment' data-time='331400' id='t-331400'>the first thing that's cut
+is the music curriculum.</span>
+<span class='talk-transcript__fragment' data-time='334080' id='t-334080'>And so this is just indicating
+the tremendous thirst</span>
+<span class='talk-transcript__fragment' data-time='336600' id='t-336600'>for this kind of open, free content.</span>
+<span class='talk-transcript__fragment' data-time='338760' id='t-338760'>A lot of teachers are using this stuff.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='341160' id='t-341160'>What about ripping?
+What about copying, reusing?</span>
+<span class='talk-transcript__fragment' data-time='344240' id='t-344240'>A team of volunteers
+at the University of Texas at El Paso --</span>
+<span class='talk-transcript__fragment' data-time='347680' id='t-347680'>graduate students translating
+this engineering super textbook ideas.</span>
+<span class='talk-transcript__fragment' data-time='352560' id='t-352560'>And within about a week,</span>
+<span class='talk-transcript__fragment' data-time='354200' id='t-354200'>having this be some
+of our most popular material</span>
+<span class='talk-transcript__fragment' data-time='356560' id='t-356560'>in widespread use all over Latin America,
+and in particular in Mexico,</span>
+<span class='talk-transcript__fragment' data-time='360960' id='t-360960'>because of the open,
+extensible nature of this.</span>
+<span class='talk-transcript__fragment' data-time='363800' id='t-363800'>People, volunteers and even companies</span>
+<span class='talk-transcript__fragment' data-time='366640' id='t-366640'>that are translating materials
+into Asian languages</span>
+<span class='talk-transcript__fragment' data-time='369280' id='t-369280'>like Chinese, Japanese and Thai,</span>
+<span class='talk-transcript__fragment' data-time='371480' id='t-371480'>to spread the knowledge even further.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='375760' id='t-375760'>OK, what about people who are mixing?</span>
+<span class='talk-transcript__fragment' data-time='377560' id='t-377560'>What does &quot;mixing&quot; mean?</span>
+<span class='talk-transcript__fragment' data-time='378760' id='t-378760'>&quot;Mixing&quot; means
+building customized courses,</span>
+<span class='talk-transcript__fragment' data-time='380800' id='t-380800'>means building customized books.</span>
+<span class='talk-transcript__fragment' data-time='384320' id='t-384320'>Companies like National Instruments,</span>
+<span class='talk-transcript__fragment' data-time='386080' id='t-386080'>who are embedding very powerful,
+interactive simulations</span>
+<span class='talk-transcript__fragment' data-time='391200' id='t-391200'>into the materials,</span>
+<span class='talk-transcript__fragment' data-time='392400' id='t-392400'>so that we can go way beyond
+our regular kind of textbook</span>
+<span class='talk-transcript__fragment' data-time='395360' id='t-395360'>to an experience</span>
+<span class='talk-transcript__fragment' data-time='396600' id='t-396600'>that all the teaching materials
+are things you can actually interact with</span>
+<span class='talk-transcript__fragment' data-time='400560' id='t-400560'>and play around with
+and actually learn as you do.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='404520' id='t-404520'>We've been working
+with Teachers Without Borders,</span>
+<span class='talk-transcript__fragment' data-time='406880' id='t-406880'>who are very interested
+in mixing our materials.</span>
+<span class='talk-transcript__fragment' data-time='409143' id='t-409143'>They're going to be using
+Connexions as their platform</span>
+<span class='talk-transcript__fragment' data-time='411840' id='t-411840'>to develop and deliver teaching materials
+for teaching teachers how to teach</span>
+<span class='talk-transcript__fragment' data-time='417080' id='t-417080'>in 84 countries around the world.</span>
+<span class='talk-transcript__fragment' data-time='419680' id='t-419680'>TWB is currently in Iraq,</span>
+<span class='talk-transcript__fragment' data-time='422920' id='t-422920'>training 20,000 teachers
+supported by USAID.</span>
+<span class='talk-transcript__fragment' data-time='427480' id='t-427480'>And to them, this idea
+of being able to remix</span>
+<span class='talk-transcript__fragment' data-time='430320' id='t-430320'>and customize to the local context
+is extraordinarily important,</span>
+<span class='talk-transcript__fragment' data-time='435000' id='t-435000'>because just providing
+free content to people</span>
+<span class='talk-transcript__fragment' data-time='437760' id='t-437760'>has actually been likened
+by people in the developing world</span>
+<span class='talk-transcript__fragment' data-time='440800' id='t-440800'>to a kind of cultural imperialism --</span>
+<span class='talk-transcript__fragment' data-time='443160' id='t-443160'>that if you don't empower people</span>
+<span class='talk-transcript__fragment' data-time='444720' id='t-444720'>with the ability
+to re-contextualize the material,</span>
+<span class='talk-transcript__fragment' data-time='447120' id='t-447120'>translate it into their own language
+and take ownership of it,</span>
+<span class='talk-transcript__fragment' data-time='450320' id='t-450320'>it's not good.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='452080' id='t-452080'>OK, other organizations
+we've been working with, UC Merced --</span>
+<span class='talk-transcript__fragment' data-time='456480' id='t-456480'>people know about UC Merced.</span>
+<span class='talk-transcript__fragment' data-time='458280' id='t-458280'>It's a new university in California,
+in the Central Valley,</span>
+<span class='talk-transcript__fragment' data-time='462200' id='t-462200'>working very closely
+with community colleges.</span>
+<span class='talk-transcript__fragment' data-time='464960' id='t-464960'>They're actually developing</span>
+<span class='talk-transcript__fragment' data-time='466320' id='t-466320'>a lot of their science
+and engineering curriculum</span>
+<span class='talk-transcript__fragment' data-time='468640' id='t-468640'>to spread widely
+around the world in our system.</span>
+<span class='talk-transcript__fragment' data-time='473160' id='t-473160'>And they're also trying to develop
+all of their software tools</span>
+<span class='talk-transcript__fragment' data-time='476089' id='t-476089'>completely open-source.</span>
+<span class='talk-transcript__fragment' data-time='477520' id='t-477520'>We've been working with AMD,
+which has a project called 50x15,</span>
+<span class='talk-transcript__fragment' data-time='482280' id='t-482280'>which is trying to bring
+Internet connectivity</span>
+<span class='talk-transcript__fragment' data-time='485040' id='t-485040'>to 50 percent of the world's
+population by 2015.</span>
+<span class='talk-transcript__fragment' data-time='488680' id='t-488680'>We're going to be
+providing content to them</span>
+<span class='talk-transcript__fragment' data-time='490720' id='t-490720'>in a whole range of different languages.</span>
+<span class='talk-transcript__fragment' data-time='492880' id='t-492880'>And we've also been working
+with a number of other organizations.</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>In particular, a bunch of the projects
+that are funded by Hewlett Foundation,</span>
+<span class='talk-transcript__fragment' data-time='500040' id='t-500040'>who have taken a real leadership role
+in this area of open content.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='504520' id='t-504520'>OK, burn -- I think
+this is, sort of, quite interesting.</span>
+<span class='talk-transcript__fragment' data-time='508120' id='t-508120'>&quot;Burn&quot; is the idea of trying
+to create the physical instantiation</span>
+<span class='talk-transcript__fragment' data-time='512400' id='t-512400'>of one of these courses.</span>
+<span class='talk-transcript__fragment' data-time='513640' id='t-513640'>And I think a lot of you received --</span>
+<span class='talk-transcript__fragment' data-time='515720' id='t-515720'>I think all of you received one
+of these music books in your gift pack.</span>
+<span class='talk-transcript__fragment' data-time='521600' id='t-521600'>A little present for you.</span>
+<span class='talk-transcript__fragment' data-time='523080' id='t-523080'>Just to tell you quickly about it:
+this is an engineering textbook.</span>
+<span class='talk-transcript__fragment' data-time='526600' id='t-526600'>It's about 300 pages long, hardbound.</span>
+<span class='talk-transcript__fragment' data-time='531200' id='t-531200'>This costs -- anybody guess?</span>
+<span class='talk-transcript__fragment' data-time='535320' id='t-535320'>How much would it cost in a bookstore?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='537400' id='t-537400'>(Audience) 65 dollars.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='538640' id='t-538640'>Richard Baraniuk:
+OK. This costs 22 dollars to the student.</span>
+<span class='talk-transcript__fragment' data-time='543400' id='t-543400'>Why does it cost 22 dollars?</span>
+<span class='talk-transcript__fragment' data-time='544760' id='t-544760'>Because it's published on demand</span>
+<span class='talk-transcript__fragment' data-time='546760' id='t-546760'>and it's developed
+from this repository of open materials.</span>
+<span class='talk-transcript__fragment' data-time='550320' id='t-550320'>If this book were to be published
+by a regular publisher,</span>
+<span class='talk-transcript__fragment' data-time='553040' id='t-553040'>it would cost at least 122 dollars.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='556240' id='t-556240'>So what we're seeing</span>
+<span class='talk-transcript__fragment' data-time='557480' id='t-557480'>is moving this burning
+or publication process</span>
+<span class='talk-transcript__fragment' data-time='560400' id='t-560400'>from the regular,
+sort of single-authored book</span>
+<span class='talk-transcript__fragment' data-time='563920' id='t-563920'>towards community-authored materials</span>
+<span class='talk-transcript__fragment' data-time='566320' id='t-566320'>that are modular, that are customized
+to each individual class</span>
+<span class='talk-transcript__fragment' data-time='570080' id='t-570080'>and published on demand
+very inexpensively,</span>
+<span class='talk-transcript__fragment' data-time='572760' id='t-572760'>either pushed out through Amazon</span>
+<span class='talk-transcript__fragment' data-time='575280' id='t-575280'>or published directly
+through an on-demand press, like QOOP.</span>
+<span class='talk-transcript__fragment' data-time='579480' id='t-579480'>And I think that this is
+an extraordinarily interesting area</span>
+<span class='talk-transcript__fragment' data-time='582920' id='t-582920'>because there is tremendous area
+under this long tail in publishing.</span>
+<span class='talk-transcript__fragment' data-time='588760' id='t-588760'>We're not talking
+about the Harry Potter end,</span>
+<span class='talk-transcript__fragment' data-time='590920' id='t-590920'>right at the left side.</span>
+<span class='talk-transcript__fragment' data-time='592160' id='t-592160'>We're talking about books</span>
+<span class='talk-transcript__fragment' data-time='593400' id='t-593400'>on hypergeometric
+partial differential equations.</span>
+<span class='talk-transcript__fragment' data-time='596040' id='t-596040'>Books that might sell
+100 copies a year, 1,000 copies a year.</span>
+<span class='talk-transcript__fragment' data-time='600360' id='t-600360'>There is tremendous
+sustaining revenue under this long tail</span>
+<span class='talk-transcript__fragment' data-time='605240' id='t-605240'>to sustain open projects like ours,</span>
+<span class='talk-transcript__fragment' data-time='607680' id='t-607680'>but also to sustain this new emergence
+of on-demand publishers,</span>
+<span class='talk-transcript__fragment' data-time='612560' id='t-612560'>like QOOP, who produced these two books.</span>
+<span class='talk-transcript__fragment' data-time='614880' id='t-614880'>And I think one of the things
+that you should take away from this talk</span>
+<span class='talk-transcript__fragment' data-time='618190' id='t-618190'>is that there's an impending
+cut-out-the-middle-man disintermediation,</span>
+<span class='talk-transcript__fragment' data-time='622240' id='t-622240'>that's going to be happening
+in the publishing industry.</span>
+<span class='talk-transcript__fragment' data-time='624920' id='t-624920'>And it's going to reach a crescendo
+over the next few years,</span>
+<span class='talk-transcript__fragment' data-time='627800' id='t-627800'>and I think that it's for our benefit,
+really, and for the world's benefit.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='631640' id='t-631640'>OK, so what are the enablers?</span>
+<span class='talk-transcript__fragment' data-time='633320' id='t-633320'>What's really making all of this happen?</span>
+<span class='talk-transcript__fragment' data-time='635280' id='t-635280'>There's tons of technology,</span>
+<span class='talk-transcript__fragment' data-time='636920' id='t-636920'>and the only piece of technology
+that I really want to talk about is XML.</span>
+<span class='talk-transcript__fragment' data-time='640800' id='t-640800'>How many people know about XML?</span>
+<span class='talk-transcript__fragment' data-time='642560' id='t-642560'>Oh, great.</span>
+<span class='talk-transcript__fragment' data-time='643800' id='t-643800'>So it's the future of the web, right?</span>
+<span class='talk-transcript__fragment' data-time='645600' id='t-645600'>It's semantic representation of content.</span>
+<span class='talk-transcript__fragment' data-time='650000' id='t-650000'>And what you can really
+think of XML in this case</span>
+<span class='talk-transcript__fragment' data-time='652400' id='t-652400'>is it's the packaging
+that we're putting around these pages.</span>
+<span class='talk-transcript__fragment' data-time='655320' id='t-655320'>Remember we took the book,
+tore the pages out?</span>
+<span class='talk-transcript__fragment' data-time='657600' id='t-657600'>Well, what the XML is going to do</span>
+<span class='talk-transcript__fragment' data-time='659520' id='t-659520'>is it's going to turn those pages
+into Lego blocks.</span>
+<span class='talk-transcript__fragment' data-time='663880' id='t-663880'>XML are the nubs on the Lego</span>
+<span class='talk-transcript__fragment' data-time='665800' id='t-665800'>that allow us to combine the content
+together in a myriad different ways,</span>
+<span class='talk-transcript__fragment' data-time='669880' id='t-669880'>and it provides us a framework
+to share content.</span>
+<span class='talk-transcript__fragment' data-time='673400' id='t-673400'>So, it lets you take this ecosystem</span>
+<span class='talk-transcript__fragment' data-time='676720' id='t-676720'>in its primordial state
+of all this content,</span>
+<span class='talk-transcript__fragment' data-time='679320' id='t-679320'>all the pages you've torn out of books,</span>
+<span class='talk-transcript__fragment' data-time='681202' id='t-681202'>and create highly sophisticated
+learning machines:</span>
+<span class='talk-transcript__fragment' data-time='685200' id='t-685200'>books, courses, course packs.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='687960' id='t-687960'>It gives you the ability
+to personalize the learning experience</span>
+<span class='talk-transcript__fragment' data-time='691680' id='t-691680'>to each individual student,</span>
+<span class='talk-transcript__fragment' data-time='693400' id='t-693400'>so that every student
+can have a book or a course</span>
+<span class='talk-transcript__fragment' data-time='696080' id='t-696080'>that's customized to their
+learning style, their context,</span>
+<span class='talk-transcript__fragment' data-time='699560' id='t-699560'>their language and the things
+that excite them.</span>
+<span class='talk-transcript__fragment' data-time='702320' id='t-702320'>It lets you reuse the same materials
+in multiple different ways,</span>
+<span class='talk-transcript__fragment' data-time='705960' id='t-705960'>and surprising new ways.</span>
+<span class='talk-transcript__fragment' data-time='707960' id='t-707960'>It lets you interconnect ideas,</span>
+<span class='talk-transcript__fragment' data-time='709920' id='t-709920'>indicating how fields
+relate to each other.</span>
+<span class='talk-transcript__fragment' data-time='714120' id='t-714120'>And I'll just give you my personal story.</span>
+<span class='talk-transcript__fragment' data-time='716400' id='t-716400'>We came up with this
+six-and-a-half years ago</span>
+<span class='talk-transcript__fragment' data-time='718920' id='t-718920'>because I teach the stuff in the red box.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='721560' id='t-721560'>And my day job, as Chris said --
+I'm an electrical engineering professor.</span>
+<span class='talk-transcript__fragment' data-time='725360' id='t-725360'>I teach signal processing</span>
+<span class='talk-transcript__fragment' data-time='727040' id='t-727040'>and my challenge
+was to show that this math --</span>
+<span class='talk-transcript__fragment' data-time='729600' id='t-729600'>Wow, about half of you
+have already fallen asleep</span>
+<span class='talk-transcript__fragment' data-time='731960' id='t-731960'>just looking at the equation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='733440' id='t-733440'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:25
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='734640' id='t-734640'>But this seemingly dry math</span>
+<span class='talk-transcript__fragment' data-time='736120' id='t-736120'>is actually the center
+of this tremendously powerful web</span>
+<span class='talk-transcript__fragment' data-time='740480' id='t-740480'>that links technology --</span>
+<span class='talk-transcript__fragment' data-time='742200' id='t-742200'>that links really cool applications
+like music synthesizers</span>
+<span class='talk-transcript__fragment' data-time='745960' id='t-745960'>to tremendous economic opportunities,</span>
+<span class='talk-transcript__fragment' data-time='749120' id='t-749120'>but also governed
+by intellectual property.</span>
+<span class='talk-transcript__fragment' data-time='751280' id='t-751280'>And the thing that I realized</span>
+<span class='talk-transcript__fragment' data-time='752720' id='t-752720'>is there was no way
+that I, as an engineer,</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>could write this book
+that would get all of this across.</span>
+<span class='talk-transcript__fragment' data-time='757644' id='t-757644'>We needed a community to do it</span>
+<span class='talk-transcript__fragment' data-time='759097' id='t-759097'>and we needed new tools
+to be able to interconnect these ideas.</span>
+<span class='talk-transcript__fragment' data-time='763160' id='t-763160'>And I think that really,
+in a sense, what we're trying to do</span>
+<span class='talk-transcript__fragment' data-time='766040' id='t-766040'>is make Minsky's dream come to a reality,</span>
+<span class='talk-transcript__fragment' data-time='768040' id='t-768040'>where you can imagine
+all the books in a library</span>
+<span class='talk-transcript__fragment' data-time='770320' id='t-770320'>actually starting to talk to each other.</span>
+<span class='talk-transcript__fragment' data-time='772280' id='t-772280'>And people who are teachers out here --
+whoever taught, you know this --</span>
+<span class='talk-transcript__fragment' data-time='776000' id='t-776000'>it's the interconnections between ideas
+that teaching is really all about.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='780520' id='t-780520'>OK, back to math.</span>
+<span class='talk-transcript__fragment' data-time='782600' id='t-782600'>Imagine -- this is possible:</span>
+<span class='talk-transcript__fragment' data-time='785120' id='t-785120'>that every single equation that you
+click on in one of your new e-texts</span>
+<span class='talk-transcript__fragment' data-time='789720' id='t-789720'>is something that you're going to be able
+to explore and experiment with.</span>
+<span class='talk-transcript__fragment' data-time='793480' id='t-793480'>So imagine your kid's
+algebra textbook in seventh grade.</span>
+<span class='talk-transcript__fragment' data-time='797040' id='t-797040'>You can click on every single equation</span>
+<span class='talk-transcript__fragment' data-time='798960' id='t-798960'>and bring up a little tool
+to be able to experiment with it,</span>
+<span class='talk-transcript__fragment' data-time='801840' id='t-801840'>tinker with it, understand it.</span>
+<span class='talk-transcript__fragment' data-time='803720' id='t-803720'>Because we really
+don't understand until we do.</span>
+<span class='talk-transcript__fragment' data-time='806480' id='t-806480'>The same type of mark-up,
+like MathML, for chemistry.</span>
+<span class='talk-transcript__fragment' data-time='810680' id='t-810680'>Imagine chemistry textbooks</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>that actually understand the structure
+of how molecules are formed.</span>
+<span class='talk-transcript__fragment' data-time='816240' id='t-816240'>Imagine Music XML</span>
+<span class='talk-transcript__fragment' data-time='818200' id='t-818200'>that actually lets you delve
+into the semantic structure of music,</span>
+<span class='talk-transcript__fragment' data-time='821640' id='t-821640'>play with it, understand it.</span>
+<span class='talk-transcript__fragment' data-time='823480' id='t-823480'>It's no wonder that everybody's
+getting into it, right?</span>
+<span class='talk-transcript__fragment' data-time='826680' id='t-826680'>Even the three wise men.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='827960' id='t-827960'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='829160' id='t-829160'>OK, the second big enabler,
+and this is where I told a big lie.</span>
+<span class='talk-transcript__fragment' data-time='834720' id='t-834720'>The second big enabler
+is intellectual property.</span>
+<span class='talk-transcript__fragment' data-time='837880' id='t-837880'>Because, in fact, I got up here</span>
+<span class='talk-transcript__fragment' data-time='839400' id='t-839400'>and I talked about how great
+the music culture is.</span>
+<span class='talk-transcript__fragment' data-time='841760' id='t-841760'>We can share and rip, mix and burn,
+but in fact, that's all illegal.</span>
+<span class='talk-transcript__fragment' data-time='845400' id='t-845400'>And we would be accused
+of [piracy] for doing that,</span>
+<span class='talk-transcript__fragment' data-time='848800' id='t-848800'>because this music has been propertized.</span>
+<span class='talk-transcript__fragment' data-time='852160' id='t-852160'>It's now owned,
+much of it by big industries.</span>
+<span class='talk-transcript__fragment' data-time='856480' id='t-856480'>So, really, the key thing here
+is we can't let this happen.</span>
+<span class='talk-transcript__fragment' data-time='859266' id='t-859266'>We can't let this
+Napster thing happen here.</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>So, what we have to do
+is get it right from the very beginning.</span>
+<span class='talk-transcript__fragment' data-time='864977' id='t-864977'>And what we have to do
+is find an intellectual property framework</span>
+<span class='talk-transcript__fragment' data-time='868400' id='t-868400'>that makes sharing safe
+and makes it easily understandable.</span>
+<span class='talk-transcript__fragment' data-time='873480' id='t-873480'>And the inspiration here
+is taken from open-source software.</span>
+<span class='talk-transcript__fragment' data-time='877320' id='t-877320'>Things like Linux and the GPL.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='880920' id='t-880920'>The Creative Commons licenses.</span>
+<span class='talk-transcript__fragment' data-time='883325' id='t-883325'>How many people
+have heard of creative commons?</span>
+<span class='talk-transcript__fragment' data-time='885540' id='t-885540'>If you have not, you must learn about it.</span>
+<span class='talk-transcript__fragment' data-time='887520' id='t-887520'>Creativecommons.org.</span>
+<span class='talk-transcript__fragment' data-time='889120' id='t-889120'>At the bottom of every piece
+of material in Connexions</span>
+<span class='talk-transcript__fragment' data-time='892480' id='t-892480'>and in lots of other projects,</span>
+<span class='talk-transcript__fragment' data-time='894360' id='t-894360'>you can find their logo.</span>
+<span class='talk-transcript__fragment' data-time='895960' id='t-895960'>Clicking on that logo
+takes you to an absolute no-nonsense,</span>
+<span class='talk-transcript__fragment' data-time='899560' id='t-899560'>human-readable document, a deed,</span>
+<span class='talk-transcript__fragment' data-time='902720' id='t-902720'>that tells you exactly
+what you can do with this content.</span>
+<span class='talk-transcript__fragment' data-time='905411' id='t-905411'>In fact, you're free to share it,
+to do all of these things:</span>
+<span class='talk-transcript__fragment' data-time='909040' id='t-909040'>to copy it, to change it,
+even to make commercial use of it,</span>
+<span class='talk-transcript__fragment' data-time='912120' id='t-912120'>as long as you attribute the author.</span>
+<span class='talk-transcript__fragment' data-time='915040' id='t-915040'>Because in academic publishing
+and much of educational publishing,</span>
+<span class='talk-transcript__fragment' data-time='919480' id='t-919480'>it's really this idea of sharing knowledge</span>
+<span class='talk-transcript__fragment' data-time='923840' id='t-923840'>and making impact.</span>
+<span class='talk-transcript__fragment' data-time='925160' id='t-925160'>That's why people write,
+not necessarily making bucks.</span>
+<span class='talk-transcript__fragment' data-time='929040' id='t-929040'>We're not talking
+about Harry Potter, right?</span>
+<span class='talk-transcript__fragment' data-time='931160' id='t-931160'>We're at the long tail end here.</span>
+<span class='talk-transcript__fragment' data-time='932880' id='t-932880'>Behind that is the legal code,
+very carefully constructed.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='937560' id='t-937560'>And Creative Commons is taking off --</span>
+<span class='talk-transcript__fragment' data-time='939440' id='t-939440'>over 43 million things out there,</span>
+<span class='talk-transcript__fragment' data-time='943600' id='t-943600'>licensed with a Creative Commons license.</span>
+<span class='talk-transcript__fragment' data-time='945720' id='t-945720'>Not just text,</span>
+<span class='talk-transcript__fragment' data-time='948840' id='t-948840'>but music, images, video.</span>
+<span class='talk-transcript__fragment' data-time='951360' id='t-951360'>And there's actually a tremendous uptake</span>
+<span class='talk-transcript__fragment' data-time='953400' id='t-953400'>of the number of people
+that are actually licensing music</span>
+<span class='talk-transcript__fragment' data-time='956880' id='t-956880'>to make it free for people
+who do this whole idea of re-sampling,</span>
+<span class='talk-transcript__fragment' data-time='960120' id='t-960120'>ripping, mixing, burning and sharing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='962280' id='t-962280'>OK, I'd like to conclude
+with just the last few points.</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>So, we've built this idea of a commons.</span>
+<span class='talk-transcript__fragment' data-time='968400' id='t-968400'>People are using it.</span>
+<span class='talk-transcript__fragment' data-time='970320' id='t-970320'>We get over 500,000 unique visitors
+per month, just to our particular site.</span>
+<span class='talk-transcript__fragment' data-time='976640' id='t-976640'>MIT OpenCourseWare,
+which is another large open-content site,</span>
+<span class='talk-transcript__fragment' data-time='980720' id='t-980720'>gets a similar number of hits.</span>
+<span class='talk-transcript__fragment' data-time='982960' id='t-982960'>But how do we protect this?</span>
+<span class='talk-transcript__fragment' data-time='984640' id='t-984640'>How do we protect it into the future?</span>
+<span class='talk-transcript__fragment' data-time='986440' id='t-986440'>And the first thing
+that people are probably thinking</span>
+<span class='talk-transcript__fragment' data-time='989200' id='t-989200'>is quality control, right?</span>
+<span class='talk-transcript__fragment' data-time='990840' id='t-990840'>Because we're saying that anybody
+can contribute things to this commons.</span>
+<span class='talk-transcript__fragment' data-time='995560' id='t-995560'>Anybody can contribute anything.</span>
+<span class='talk-transcript__fragment' data-time='998400' id='t-998400'>So that could be a problem.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1000960' id='t-1000960'>It didn't take long until people
+started contributing materials,</span>
+<span class='talk-transcript__fragment' data-time='1005200' id='t-1005200'>for example, on lingerie,</span>
+<span class='talk-transcript__fragment' data-time='1007360' id='t-1007360'>which is actually a pretty good module.</span>
+<span class='talk-transcript__fragment' data-time='1009360' id='t-1009360'>The only problem is it's plagiarized
+from a major French feminist journal,</span>
+<span class='talk-transcript__fragment' data-time='1014960' id='t-1014960'>and when you go
+to the supposed course website,</span>
+<span class='talk-transcript__fragment' data-time='1017800' id='t-1017800'>it points to a lingerie-selling website.</span>
+<span class='talk-transcript__fragment' data-time='1022000' id='t-1022000'>So this is a little bit of a problem.</span>
+<span class='talk-transcript__fragment' data-time='1024200' id='t-1024200'>So we clearly need some kind
+of idea of quality control</span>
+<span class='talk-transcript__fragment' data-time='1027280' id='t-1027280'>and this is really where the idea
+of review and peer review comes in.</span>
+<span class='talk-transcript__fragment' data-time='1031000' id='t-1031000'>You come to TED. Why do you come to TED?</span>
+<span class='talk-transcript__fragment' data-time='1033400' id='t-1033400'>Because Chris and his team have ensured</span>
+<span class='talk-transcript__fragment' data-time='1035839' id='t-1035839'>that things are
+very, very high quality, right?</span>
+<span class='talk-transcript__fragment' data-time='1039040' id='t-1039040'>And so we need to be able
+to do the same thing.</span>
+<span class='talk-transcript__fragment' data-time='1041480' id='t-1041480'>And we need to be able
+to design structures,</span>
+<span class='talk-transcript__fragment' data-time='1044560' id='t-1044560'>and what we're doing
+is designing social software</span>
+<span class='talk-transcript__fragment' data-time='1047640' id='t-1047640'>to enable anyone to build
+their own peer review process,</span>
+<span class='talk-transcript__fragment' data-time='1050760' id='t-1050760'>and we call these things &quot;lenses.&quot;</span>
+<span class='talk-transcript__fragment' data-time='1052600' id='t-1052600'>And basically what they allow</span>
+<span class='talk-transcript__fragment' data-time='1054040' id='t-1054040'>is anyone out there can develop
+their own peer-review process,</span>
+<span class='talk-transcript__fragment' data-time='1057480' id='t-1057480'>so that they can focus
+on the content in the repository</span>
+<span class='talk-transcript__fragment' data-time='1061480' id='t-1061480'>that they think is really important.</span>
+<span class='talk-transcript__fragment' data-time='1063219' id='t-1063219'>And you can think of TED
+as a potential lens.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1066520' id='t-1066520'>So I'd just like to end by saying:</span>
+<span class='talk-transcript__fragment' data-time='1068321' id='t-1068321'>you can really view this
+as a call to action.</span>
+<span class='talk-transcript__fragment' data-time='1073000' id='t-1073000'>Connexions and open content
+is all about sharing knowledge.</span>
+<span class='talk-transcript__fragment' data-time='1078000' id='t-1078000'>All of you here are tremendously imbued
+with tremendous amounts of knowledge,</span>
+<span class='talk-transcript__fragment' data-time='1083040' id='t-1083040'>and what I'd like to do
+is invite each and every one of you</span>
+<span class='talk-transcript__fragment' data-time='1085840' id='t-1085840'>to contribute to this project
+and other projects of its type,</span>
+<span class='talk-transcript__fragment' data-time='1089080' id='t-1089080'>because I think together
+we can truly change the landscape</span>
+<span class='talk-transcript__fragment' data-time='1092880' id='t-1092880'>of education and educational publishing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1095120' id='t-1095120'>So, thanks very much.</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

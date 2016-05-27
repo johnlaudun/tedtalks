@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jeff Hawkins: How brain science will change computing | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Jeff Hawkins: How brain science will change computing | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next." name="description" />
+<meta content="Jeff Hawkins" name="author" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=fi" hreflang="fi" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ka" hreflang="ka" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=nb" hreflang="nb" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;How brain science will change computing&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next." property="og:description" />
+<meta content="http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/125?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='jeff_hawkins_on_how_brain_science_will_change_computing'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='da'>Danish</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fi'>Finnish</option>
+<option value='fr'>French</option>
+<option value='ka'>Georgian</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='nb'>Norwegian Bokmal</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/125?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1211" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">20:11</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Jeff Hawkins</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/125?language=en' lang='en'>
+How brain science will change computing
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+May 2007
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='0' id='t-0'>I do two things: I design mobile computers and I study brains.</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>And today's talk is about brains and,</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>yay, somewhere I have a brain fan out there.</span>
+<span class='talk-transcript__fragment' data-time='8000' id='t-8000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>I'm going to, if I can have my first slide up here,</span>
+<span class='talk-transcript__fragment' data-time='12000' id='t-12000'>and you'll see the title of my talk and my two affiliations.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>So what I'm going to talk about is why we don't have a good brain theory,</span>
+<span class='talk-transcript__fragment' data-time='20000' id='t-20000'>why it is important that we should develop one and what we can do about it.</span>
+<span class='talk-transcript__fragment' data-time='23000' id='t-23000'>And I'll try to do all that in 20 minutes. I have two affiliations.</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>Most of you know me from my Palm and Handspring days,</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>but I also run a nonprofit scientific research institute</span>
+<span class='talk-transcript__fragment' data-time='32000' id='t-32000'>called the Redwood Neuroscience Institute in Menlo Park,</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>and we study theoretical neuroscience,</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>and we study how the neocortex works.</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>I'm going to talk all about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>I have one slide on my other life, the computer life, and that's the slide here.</span>
+<span class='talk-transcript__fragment' data-time='43000' id='t-43000'>These are some of the products I've worked on over the last 20 years,</span>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>starting back from the very original laptop to some of the first tablet computers</span>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>and so on, and ending up most recently with the Treo,</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>and we're continuing to do this.</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>And I've done this because I really believe that mobile computing</span>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>is the future of personal computing, and I'm trying to make the world</span>
+<span class='talk-transcript__fragment' data-time='59000' id='t-59000'>a little bit better by working on these things.</span>
+<span class='talk-transcript__fragment' data-time='62000' id='t-62000'>But this was, I have to admit, all an accident.</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>I really didn't want to do any of these products</span>
+<span class='talk-transcript__fragment' data-time='66000' id='t-66000'>and very early in my career I decided</span>
+<span class='talk-transcript__fragment' data-time='68000' id='t-68000'>I was not going to be in the computer industry.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>And before I tell you about that, I just have to tell you</span>
+<span class='talk-transcript__fragment' data-time='73000' id='t-73000'>this one little picture of graffiti there I picked off the web the other day.</span>
+<span class='talk-transcript__fragment' data-time='75000' id='t-75000'>I was looking for a picture of graffiti, little text input language,</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>and I found the website dedicated to teachers who want to make these,</span>
+<span class='talk-transcript__fragment' data-time='81000' id='t-81000'>you know, the script writing things across the top of their blackboard,</span>
+<span class='talk-transcript__fragment' data-time='84000' id='t-84000'>and they had added graffiti to it, and I'm sorry about that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='89000' id='t-89000'>So what happened was, when I was young and got out of engineering school</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>at Cornell in '79, I decided -- I went to work for Intel and</span>
+<span class='talk-transcript__fragment' data-time='98000' id='t-98000'>I was in the computer industry -- and three months into that,</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>I fell in love with something else, and I said, &quot;I made the wrong career choice here,&quot;</span>
+<span class='talk-transcript__fragment' data-time='105000' id='t-105000'>and I fell in love with brains.</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>This is not a real brain. This is a picture of one, a line drawing.</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>But I don't remember exactly how it happened,</span>
+<span class='talk-transcript__fragment' data-time='114000' id='t-114000'>but I have one recollection, which was pretty strong in my mind.</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>In September 1979, Scientific American came out</span>
+<span class='talk-transcript__fragment' data-time='120000' id='t-120000'>with a single topic issue about the brain. And it was quite good.</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>It was one of the best issues ever. And they talked about the neuron</span>
+<span class='talk-transcript__fragment' data-time='126000' id='t-126000'>and development and disease and vision and all the things</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>you might want to know about brains. It was really quite impressive.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='131000' id='t-131000'>And one might have the impression that we really knew a lot about brains.</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>But the last article in that issue was written by Francis Crick of DNA fame.</span>
+<span class='talk-transcript__fragment' data-time='138000' id='t-138000'>Today is, I think, the 50th anniversary of the discovery of DNA.</span>
+<span class='talk-transcript__fragment' data-time='141000' id='t-141000'>And he wrote a story basically saying,</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>well, this is all well and good, but you know what,</span>
+<span class='talk-transcript__fragment' data-time='146000' id='t-146000'>we don't know diddley squat about brains</span>
+<span class='talk-transcript__fragment' data-time='148000' id='t-148000'>and no one has a clue how these things work,</span>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>so don't believe what anyone tells you.</span>
+<span class='talk-transcript__fragment' data-time='152000' id='t-152000'>This is a quote from that article. He said, &quot;What is conspicuously lacking,&quot;</span>
+<span class='talk-transcript__fragment' data-time='155000' id='t-155000'>he's a very proper British gentleman so, &quot;What is conspicuously lacking</span>
+<span class='talk-transcript__fragment' data-time='159000' id='t-159000'>is a broad framework of ideas in which to interpret these different approaches.&quot;</span>
+<span class='talk-transcript__fragment' data-time='162000' id='t-162000'>I thought the word framework was great.</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>He didn't say we didn't even have a theory. He says,</span>
+<span class='talk-transcript__fragment' data-time='166000' id='t-166000'>we don't even know how to begin to think about it --</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>we don't even have a framework.</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>We are in the pre-paradigm days, if you want to use Thomas Kuhn.</span>
+<span class='talk-transcript__fragment' data-time='173000' id='t-173000'>And so I fell in love with this, and said look,</span>
+<span class='talk-transcript__fragment' data-time='176000' id='t-176000'>we have all this knowledge about brains. How hard can it be?</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>And this is something we can work on my lifetime. I felt I could make a difference,</span>
+<span class='talk-transcript__fragment' data-time='182000' id='t-182000'>and so I tried to get out of the computer business, into the brain business.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>First, I went to MIT, the AI lab was there,</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>and I said, well, I want to build intelligent machines, too,</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>but the way I want to do it is to study how brains work first.</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>And they said, oh, you don't need to do that.</span>
+<span class='talk-transcript__fragment' data-time='196000' id='t-196000'>We're just going to program computers; that's all we need to do.</span>
+<span class='talk-transcript__fragment' data-time='198000' id='t-198000'>And I said, no, you really ought to study brains. They said, oh, you know,</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>you're wrong. And I said, no, you're wrong, and I didn't get in.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='203000' id='t-203000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='205000' id='t-205000'>But I was a little disappointed -- pretty young -- but I went back again</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>a few years later and this time was in California, and I went to Berkeley.</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>And I said, I'll go in from the biological side.</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>So I got in -- in the Ph.D. program in biophysics, and I was, all right,</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>I'm studying brains now, and I said, well, I want to study theory.</span>
+<span class='talk-transcript__fragment' data-time='220000' id='t-220000'>And they said, oh no, you can't study theory about brains.</span>
+<span class='talk-transcript__fragment' data-time='222000' id='t-222000'>That's not something you do. You can't get funded for that.</span>
+<span class='talk-transcript__fragment' data-time='224000' id='t-224000'>And as a graduate student, you can't do that. So I said, oh my gosh.</span>
+<span class='talk-transcript__fragment' data-time='228000' id='t-228000'>I was very depressed. I said, but I can make a difference in this field.</span>
+<span class='talk-transcript__fragment' data-time='230000' id='t-230000'>So what I did is I went back in the computer industry</span>
+<span class='talk-transcript__fragment' data-time='233000' id='t-233000'>and said, well, I'll have to work here for a while, do something.</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>That's when I designed all those computer products.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='238000' id='t-238000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='239000' id='t-239000'>And I said, I want to do this for four years, make some money,</span>
+<span class='talk-transcript__fragment' data-time='242000' id='t-242000'>like I was having a family, and I would mature a bit,</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>and maybe the business of neuroscience would mature a bit.</span>
+<span class='talk-transcript__fragment' data-time='249000' id='t-249000'>Well, it took longer than four years. It's been about 16 years.</span>
+<span class='talk-transcript__fragment' data-time='252000' id='t-252000'>But I'm doing it now, and I'm going to tell you about it.</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>So why should we have a good brain theory?</span>
+<span class='talk-transcript__fragment' data-time='257000' id='t-257000'>Well, there's lots of reasons people do science.</span>
+<span class='talk-transcript__fragment' data-time='260000' id='t-260000'>One is -- the most basic one is -- people like to know things.</span>
+<span class='talk-transcript__fragment' data-time='263000' id='t-263000'>We're curious, and we just go out and get knowledge, you know?</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>Why do we study ants? Well, it's interesting.</span>
+<span class='talk-transcript__fragment' data-time='267000' id='t-267000'>Maybe we'll learn something really useful about it, but it's interesting and fascinating.</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>But sometimes, a science has some other attributes</span>
+<span class='talk-transcript__fragment' data-time='272000' id='t-272000'>which makes it really, really interesting.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>Sometimes a science will tell something about ourselves,</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>it'll tell us who we are.</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>Rarely, you know: evolution did this and Copernicus did this,</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>where we have a new understanding of who we are.</span>
+<span class='talk-transcript__fragment' data-time='283000' id='t-283000'>And after all, we are our brains. My brain is talking to your brain.</span>
+<span class='talk-transcript__fragment' data-time='287000' id='t-287000'>Our bodies are hanging along for the ride, but my brain is talking to your brain.</span>
+<span class='talk-transcript__fragment' data-time='290000' id='t-290000'>And if we want to understand who we are and how we feel and perceive,</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>we really understand what brains are.</span>
+<span class='talk-transcript__fragment' data-time='295000' id='t-295000'>Another thing is sometimes science</span>
+<span class='talk-transcript__fragment' data-time='297000' id='t-297000'>leads to really big societal benefits and technologies,</span>
+<span class='talk-transcript__fragment' data-time='299000' id='t-299000'>or businesses, or whatever, that come out of it. And this is one, too,</span>
+<span class='talk-transcript__fragment' data-time='301000' id='t-301000'>because when we understand how brains work, we're going to be able</span>
+<span class='talk-transcript__fragment' data-time='304000' id='t-304000'>to build intelligent machines, and I think that's actually a good thing on the whole,</span>
+<span class='talk-transcript__fragment' data-time='307000' id='t-307000'>and it's going to have tremendous benefits to society,</span>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>just like a fundamental technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>So why don't we have a good theory of brains?</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>And people have been working on it for 100 years.</span>
+<span class='talk-transcript__fragment' data-time='316000' id='t-316000'>Well, let's first take a look at what normal science looks like.</span>
+<span class='talk-transcript__fragment' data-time='318000' id='t-318000'>This is normal science.</span>
+<span class='talk-transcript__fragment' data-time='320000' id='t-320000'>Normal science is a nice balance between theory and experimentalists.</span>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>And so the theorist guys say, well, I think this is what's going on,</span>
+<span class='talk-transcript__fragment' data-time='326000' id='t-326000'>and the experimentalist says, no, you're wrong.</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>And it goes back and forth, you know?</span>
+<span class='talk-transcript__fragment' data-time='330000' id='t-330000'>This works in physics. This works in geology. But if this is normal science,</span>
+<span class='talk-transcript__fragment' data-time='332000' id='t-332000'>what does neuroscience look like? This is what neuroscience looks like.</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>We have this mountain of data, which is anatomy, physiology and behavior.</span>
+<span class='talk-transcript__fragment' data-time='340000' id='t-340000'>You can't imagine how much detail we know about brains.</span>
+<span class='talk-transcript__fragment' data-time='343000' id='t-343000'>There were 28,000 people who went to the neuroscience conference this year,</span>
+<span class='talk-transcript__fragment' data-time='347000' id='t-347000'>and every one of them is doing research in brains.</span>
+<span class='talk-transcript__fragment' data-time='349000' id='t-349000'>A lot of data. But there's no theory. There's a little, wimpy box on top there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>And theory has not played a role in any sort of grand way in the neurosciences.</span>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>And it's a real shame. Now why has this come about?</span>
+<span class='talk-transcript__fragment' data-time='361000' id='t-361000'>If you ask neuroscientists, why is this the state of affair,</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>they'll first of all admit it. But if you ask them, they'll say,</span>
+<span class='talk-transcript__fragment' data-time='366000' id='t-366000'>well, there's various reasons we don't have a good brain theory.</span>
+<span class='talk-transcript__fragment' data-time='369000' id='t-369000'>Some people say, well, we don't still have enough data,</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>we need to get more information, there's all these things we don't know.</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>Well, I just told you there's so much data coming out your ears.</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>We have so much information, we don't even know how to begin to organize it.</span>
+<span class='talk-transcript__fragment' data-time='380000' id='t-380000'>What good is more going to do?</span>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>Maybe we'll be lucky and discover some magic thing, but I don't think so.</span>
+<span class='talk-transcript__fragment' data-time='385000' id='t-385000'>This is actually a symptom of the fact that we just don't have a theory.</span>
+<span class='talk-transcript__fragment' data-time='388000' id='t-388000'>We don't need more data -- we need a good theory about it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='391000' id='t-391000'>Another one is sometimes people say, well, brains are so complex,</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>it'll take another 50 years.</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>I even think Chris said something like this yesterday.</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>I'm not sure what you said, Chris, but something like,</span>
+<span class='talk-transcript__fragment' data-time='400000' id='t-400000'>well, it's one of the most complicated things in the universe. That's not true.</span>
+<span class='talk-transcript__fragment' data-time='403000' id='t-403000'>You're more complicated than your brain. You've got a brain.</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>And it's also, although the brain looks very complicated,</span>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>things look complicated until you understand them.</span>
+<span class='talk-transcript__fragment' data-time='410000' id='t-410000'>That's always been the case. And so all we can say, well,</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>my neocortex, which is the part of the brain I'm interested in, has 30 billion cells.</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>But, you know what? It's very, very regular.</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>In fact, it looks like it's the same thing repeated over and over and over again.</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>It's not as complex as it looks. That's not the issue.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>Some people say, brains can't understand brains.</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>Very Zen-like. Whoo. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>You know,</span>
+<span class='talk-transcript__fragment' data-time='431000' id='t-431000'>it sounds good, but why? I mean, what's the point?</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>It's just a bunch of cells. You understand your liver.</span>
+<span class='talk-transcript__fragment' data-time='437000' id='t-437000'>It's got a lot of cells in it too, right?</span>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>So, you know, I don't think there's anything to that.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>And finally, some people say, well, you know,</span>
+<span class='talk-transcript__fragment' data-time='443000' id='t-443000'>I don't feel like a bunch of cells, you know. I'm conscious.</span>
+<span class='talk-transcript__fragment' data-time='447000' id='t-447000'>I've got this experience, I'm in the world, you know.</span>
+<span class='talk-transcript__fragment' data-time='449000' id='t-449000'>I can't be just a bunch of cells. Well, you know,</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>people used to believe there was a life force to be living,</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>and we now know that's really not true at all.</span>
+<span class='talk-transcript__fragment' data-time='456000' id='t-456000'>And there's really no evidence that says -- well, other than people</span>
+<span class='talk-transcript__fragment' data-time='459000' id='t-459000'>just have disbelief that cells can do what they do.</span>
+<span class='talk-transcript__fragment' data-time='461000' id='t-461000'>And so, if some people have fallen into the pit of metaphysical dualism,</span>
+<span class='talk-transcript__fragment' data-time='464000' id='t-464000'>some really smart people, too, but we can reject all that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>No, I'm going to tell you there's something else,</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>and it's really fundamental, and this is what it is:</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>there's another reason why we don't have a good brain theory,</span>
+<span class='talk-transcript__fragment' data-time='476000' id='t-476000'>and it's because we have an intuitive, strongly-held,</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>but incorrect assumption that has prevented us from seeing the answer.</span>
+<span class='talk-transcript__fragment' data-time='484000' id='t-484000'>There's something we believe that just, it's obvious, but it's wrong.</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>Now, there's a history of this in science and before I tell you what it is,</span>
+<span class='talk-transcript__fragment' data-time='491000' id='t-491000'>I'm going to tell you a bit about the history of it in science.</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>You look at some other scientific revolutions,</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>and this case, I'm talking about the solar system, that's Copernicus,</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>Darwin's evolution, and tectonic plates, that's Wegener.</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>They all have a lot in common with brain science.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>First of all, they had a lot of unexplained data. A lot of it.</span>
+<span class='talk-transcript__fragment' data-time='506000' id='t-506000'>But it got more manageable once they had a theory.</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>The best minds were stumped -- really, really smart people.</span>
+<span class='talk-transcript__fragment' data-time='512000' id='t-512000'>We're not smarter now than they were then.</span>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>It just turns out it's really hard to think of things,</span>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>but once you've thought of them, it's kind of easy to understand it.</span>
+<span class='talk-transcript__fragment' data-time='518000' id='t-518000'>My daughters understood these three theories</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>in their basic framework by the time they were in kindergarten.</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>And now it's not that hard, you know, here's the apple, here's the orange,</span>
+<span class='talk-transcript__fragment' data-time='526000' id='t-526000'>you know, the Earth goes around, that kind of stuff.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='529000' id='t-529000'>Finally, another thing is the answer was there all along,</span>
+<span class='talk-transcript__fragment' data-time='531000' id='t-531000'>but we kind of ignored it because of this obvious thing, and that's the thing.</span>
+<span class='talk-transcript__fragment' data-time='534000' id='t-534000'>It was an intuitive, strong-held belief that was wrong.</span>
+<span class='talk-transcript__fragment' data-time='537000' id='t-537000'>In the case of the solar system, the idea that the Earth is spinning</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>and the surface of the Earth is going like a thousand miles an hour,</span>
+<span class='talk-transcript__fragment' data-time='543000' id='t-543000'>and the Earth is going through the solar system about a million miles an hour.</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>This is lunacy. We all know the Earth isn't moving.</span>
+<span class='talk-transcript__fragment' data-time='548000' id='t-548000'>Do you feel like you're moving a thousand miles an hour?</span>
+<span class='talk-transcript__fragment' data-time='550000' id='t-550000'>Of course not. You know, and someone who said,</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>well, it was spinning around in space and it's so huge,</span>
+<span class='talk-transcript__fragment' data-time='554000' id='t-554000'>they would lock you up, and that's what they did back then.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>So it was intuitive and obvious. Now what about evolution?</span>
+<span class='talk-transcript__fragment' data-time='560000' id='t-560000'>Evolution's the same thing. We taught our kids, well, the Bible says,</span>
+<span class='talk-transcript__fragment' data-time='563000' id='t-563000'>you know, God created all these species, cats are cats, dogs are dogs,</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>people are people, plants are plants, they don't change.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>Noah put them on the Ark in that order, blah, blah, blah. And, you know,</span>
+<span class='talk-transcript__fragment' data-time='572000' id='t-572000'>the fact is, if you believe in evolution, we all have a common ancestor,</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>and we all have a common ancestry with the plant in the lobby.</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>This is what evolution tells us. And, it's true. It's kind of unbelievable.</span>
+<span class='talk-transcript__fragment' data-time='582000' id='t-582000'>And the same thing about tectonic plates, you know?</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>All the mountains and the continents are kind of floating around</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>on top of the Earth, you know? It's like, it doesn't make any sense.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>So what is the intuitive, but incorrect assumption,</span>
+<span class='talk-transcript__fragment' data-time='595000' id='t-595000'>that's kept us from understanding brains?</span>
+<span class='talk-transcript__fragment' data-time='597000' id='t-597000'>Now I'm going to tell it to you, and it's going to seem obvious that that is correct,</span>
+<span class='talk-transcript__fragment' data-time='599000' id='t-599000'>and that's the point, right? Then I'm going to have to make an argument</span>
+<span class='talk-transcript__fragment' data-time='601000' id='t-601000'>why you're incorrect about the other assumption.</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>The intuitive but obvious thing is that somehow intelligence</span>
+<span class='talk-transcript__fragment' data-time='606000' id='t-606000'>is defined by behavior,</span>
+<span class='talk-transcript__fragment' data-time='608000' id='t-608000'>that we are intelligent because of the way that we do things</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>and the way we behave intelligently, and I'm going to tell you that's wrong.</span>
+<span class='talk-transcript__fragment' data-time='613000' id='t-613000'>What it is is intelligence is defined by prediction.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='615000' id='t-615000'>And I'm going to work you through this in a few slides here,</span>
+<span class='talk-transcript__fragment' data-time='618000' id='t-618000'>give you an example of what this means. Here's a system.</span>
+<span class='talk-transcript__fragment' data-time='622000' id='t-622000'>Engineers like to look at systems like this. Scientists like to look at systems like this.</span>
+<span class='talk-transcript__fragment' data-time='625000' id='t-625000'>They say, well, we have a thing in a box, and we have its inputs and its outputs.</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>The AI people said, well, the thing in the box is a programmable computer</span>
+<span class='talk-transcript__fragment' data-time='631000' id='t-631000'>because that's equivalent to a brain, and we'll feed it some inputs</span>
+<span class='talk-transcript__fragment' data-time='633000' id='t-633000'>and we'll get it to do something, have some behavior.</span>
+<span class='talk-transcript__fragment' data-time='635000' id='t-635000'>And Alan Turing defined the Turing test, which is essentially saying,</span>
+<span class='talk-transcript__fragment' data-time='638000' id='t-638000'>we'll know if something's intelligent if it behaves identical to a human.</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>A behavioral metric of what intelligence is,</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>and this has stuck in our minds for a long period of time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='647000' id='t-647000'>Reality though, I call it real intelligence.</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>Real intelligence is built on something else.</span>
+<span class='talk-transcript__fragment' data-time='651000' id='t-651000'>We experience the world through a sequence of patterns, and we store them,</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>and we recall them. And when we recall them, we match them up</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>against reality, and we're making predictions all the time.</span>
+<span class='talk-transcript__fragment' data-time='662000' id='t-662000'>It's an eternal metric. There's an eternal metric about us sort of saying,</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>do we understand the world? Am I making predictions? And so on.</span>
+<span class='talk-transcript__fragment' data-time='668000' id='t-668000'>You're all being intelligent right now, but you're not doing anything.</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>Maybe you're scratching yourself, or picking your nose,</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>I don't know, but you're not doing anything right now,</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>but you're being intelligent; you're understanding what I'm saying.</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>Because you're intelligent and you speak English,</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>you know what word is at the end of this -- (Silence)</span>
+<span class='talk-transcript__fragment' data-time='680000' id='t-680000'>sentence.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>The word came into you, and you're making these predictions all the time.</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>And then, what I'm saying is,</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>is that the eternal prediction is the output in the neocortex.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>And that somehow, prediction leads to intelligent behavior.</span>
+<span class='talk-transcript__fragment' data-time='692000' id='t-692000'>And here's how that happens. Let's start with a non-intelligent brain.</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>Well I'll argue a non-intelligent brain, we got hold of an old brain,</span>
+<span class='talk-transcript__fragment' data-time='699000' id='t-699000'>and we're going to say it's like a non-mammal, like a reptile,</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>so I'll say, an alligator; we have an alligator.</span>
+<span class='talk-transcript__fragment' data-time='704000' id='t-704000'>And the alligator has some very sophisticated senses.</span>
+<span class='talk-transcript__fragment' data-time='707000' id='t-707000'>It's got good eyes and ears and touch senses and so on,</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>a mouth and a nose. It has very complex behavior.</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>It can run and hide. It has fears and emotions. It can eat you, you know.</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>It can attack. It can do all kinds of stuff.</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>But we don't consider the alligator very intelligent, not like in a human sort of way.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='727000' id='t-727000'>But it has all this complex behavior already.</span>
+<span class='talk-transcript__fragment' data-time='729000' id='t-729000'>Now, in evolution, what happened?</span>
+<span class='talk-transcript__fragment' data-time='731000' id='t-731000'>First thing that happened in evolution with mammals,</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>we started to develop a thing called the neocortex.</span>
+<span class='talk-transcript__fragment' data-time='736000' id='t-736000'>And I'm going to represent the neocortex here,</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>by this box that's sticking on top of the old brain.</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>Neocortex means new layer. It is a new layer on top of your brain.</span>
+<span class='talk-transcript__fragment' data-time='743000' id='t-743000'>If you don't know it, it's the wrinkly thing on the top of your head that,</span>
+<span class='talk-transcript__fragment' data-time='746000' id='t-746000'>it's got wrinkly because it got shoved in there and doesn't fit.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='749000' id='t-749000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='750000' id='t-750000'>No, really, that's what it is. It's about the size of a table napkin.</span>
+<span class='talk-transcript__fragment' data-time='752000' id='t-752000'>And it doesn't fit, so it gets all wrinkly. Now look at how I've drawn this here.</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>The old brain is still there. You still have that alligator brain.</span>
+<span class='talk-transcript__fragment' data-time='759000' id='t-759000'>You do. It's your emotional brain.</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>It's all those things, and all those gut reactions you have.</span>
+<span class='talk-transcript__fragment' data-time='764000' id='t-764000'>And on top of it, we have this memory system called the neocortex.</span>
+<span class='talk-transcript__fragment' data-time='767000' id='t-767000'>And the memory system is sitting over the sensory part of the brain.</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>And so as the sensory input comes in and feeds from the old brain,</span>
+<span class='talk-transcript__fragment' data-time='774000' id='t-774000'>it also goes up into the neocortex. And the neocortex is just memorizing.</span>
+<span class='talk-transcript__fragment' data-time='778000' id='t-778000'>It's sitting there saying, ah, I'm going to memorize all the things that are going on:</span>
+<span class='talk-transcript__fragment' data-time='782000' id='t-782000'>where I've been, people I've seen, things I've heard, and so on.</span>
+<span class='talk-transcript__fragment' data-time='784000' id='t-784000'>And in the future, when it sees something similar to that again,</span>
+<span class='talk-transcript__fragment' data-time='788000' id='t-788000'>so in a similar environment, or the exact same environment,</span>
+<span class='talk-transcript__fragment' data-time='791000' id='t-791000'>it'll play it back. It'll start playing it back.</span>
+<span class='talk-transcript__fragment' data-time='793000' id='t-793000'>Oh, I've been here before. And when you've been here before,</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>this happened next. It allows you to predict the future.</span>
+<span class='talk-transcript__fragment' data-time='798000' id='t-798000'>It allows you to, literally it feeds back the signals into your brain;</span>
+<span class='talk-transcript__fragment' data-time='802000' id='t-802000'>they'll let you see what's going to happen next,</span>
+<span class='talk-transcript__fragment' data-time='804000' id='t-804000'>will let you hear the word &quot;sentence&quot; before I said it.</span>
+<span class='talk-transcript__fragment' data-time='807000' id='t-807000'>And it's this feeding back into the old brain</span>
+<span class='talk-transcript__fragment' data-time='810000' id='t-810000'>that'll allow you to make very more intelligent decisions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='813000' id='t-813000'>This is the most important slide of my talk, so I'll dwell on it a little bit.</span>
+<span class='talk-transcript__fragment' data-time='816000' id='t-816000'>And so, all the time you say, oh, I can predict the things.</span>
+<span class='talk-transcript__fragment' data-time='820000' id='t-820000'>And if you're a rat and you go through a maze, and then you learn the maze,</span>
+<span class='talk-transcript__fragment' data-time='823000' id='t-823000'>the next time you're in a maze, you have the same behavior,</span>
+<span class='talk-transcript__fragment' data-time='825000' id='t-825000'>but all of a sudden, you're smarter</span>
+<span class='talk-transcript__fragment' data-time='827000' id='t-827000'>because you say, oh, I recognize this maze, I know which way to go,</span>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>I've been here before, I can envision the future. And that's what it's doing.</span>
+<span class='talk-transcript__fragment' data-time='833000' id='t-833000'>In humans -- by the way, this is true for all mammals;</span>
+<span class='talk-transcript__fragment' data-time='836000' id='t-836000'>it's true for other mammals -- and in humans, it got a lot worse.</span>
+<span class='talk-transcript__fragment' data-time='838000' id='t-838000'>In humans, we actually developed the front part of the neocortex</span>
+<span class='talk-transcript__fragment' data-time='841000' id='t-841000'>called the anterior part of the neocortex. And nature did a little trick.</span>
+<span class='talk-transcript__fragment' data-time='845000' id='t-845000'>It copied the posterior part, the back part, which is sensory,</span>
+<span class='talk-transcript__fragment' data-time='847000' id='t-847000'>and put it in the front part.</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>And humans uniquely have the same mechanism on the front,</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>but we use it for motor control.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='853000' id='t-853000'>So we are now able to make very sophisticated motor planning, things like that.</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>I don't have time to get into all this, but if you want to understand how a brain works,</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>you have to understand how the first part of the mammalian neocortex works,</span>
+<span class='talk-transcript__fragment' data-time='862000' id='t-862000'>how it is we store patterns and make predictions.</span>
+<span class='talk-transcript__fragment' data-time='864000' id='t-864000'>So let me give you a few examples of predictions.</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>I already said the word &quot;sentence.&quot; In music,</span>
+<span class='talk-transcript__fragment' data-time='869000' id='t-869000'>if you've heard a song before, if you heard Jill sing those songs before,</span>
+<span class='talk-transcript__fragment' data-time='872000' id='t-872000'>when she sings them, the next note pops into your head already --</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>you anticipate it as you're going. If it was an album of music,</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>the end of one album, the next song pops into your head.</span>
+<span class='talk-transcript__fragment' data-time='880000' id='t-880000'>And these things happen all the time. You're making these predictions.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='882000' id='t-882000'>I have this thing called the altered door thought experiment.</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>And the altered door thought experiment says, you have a door at home,</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>and when you're here, I'm changing it, I've got a guy</span>
+<span class='talk-transcript__fragment' data-time='891000' id='t-891000'>back at your house right now, moving the door around,</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>and they're going to take your doorknob and move it over two inches.</span>
+<span class='talk-transcript__fragment' data-time='895000' id='t-895000'>And when you go home tonight, you're going to put your hand out there,</span>
+<span class='talk-transcript__fragment' data-time='897000' id='t-897000'>and you're going to reach for the doorknob and you're going to notice</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>it's in the wrong spot, and you'll go, whoa, something happened.</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>It may take a second to figure out what it was, but something happened.</span>
+<span class='talk-transcript__fragment' data-time='904000' id='t-904000'>Now I could change your doorknob in other ways.</span>
+<span class='talk-transcript__fragment' data-time='906000' id='t-906000'>I can make it larger or smaller, I can change its brass to silver,</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>I could make it a lever. I can change your door, put colors on;</span>
+<span class='talk-transcript__fragment' data-time='910000' id='t-910000'>I can put windows in. I can change a thousand things about your door,</span>
+<span class='talk-transcript__fragment' data-time='913000' id='t-913000'>and in the two seconds you take to open your door,</span>
+<span class='talk-transcript__fragment' data-time='915000' id='t-915000'>you're going to notice that something has changed.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='918000' id='t-918000'>Now, the engineering approach to this, the AI approach to this,</span>
+<span class='talk-transcript__fragment' data-time='920000' id='t-920000'>is to build a door database. It has all the door attributes.</span>
+<span class='talk-transcript__fragment' data-time='923000' id='t-923000'>And as you go up to the door, you know, let's check them off one at time.</span>
+<span class='talk-transcript__fragment' data-time='926000' id='t-926000'>Door, door, door, you know, color, you know what I'm saying.</span>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>We don't do that. Your brain doesn't do that.</span>
+<span class='talk-transcript__fragment' data-time='930000' id='t-930000'>What your brain is doing is making constant predictions all the time</span>
+<span class='talk-transcript__fragment' data-time='932000' id='t-932000'>about what is going to happen in your environment.</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>As I put my hand on this table, I expect to feel it stop.</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>When I walk, every step, if I missed it by an eighth of an inch,</span>
+<span class='talk-transcript__fragment' data-time='940000' id='t-940000'>I'll know something has changed.</span>
+<span class='talk-transcript__fragment' data-time='942000' id='t-942000'>You're constantly making predictions about your environment.</span>
+<span class='talk-transcript__fragment' data-time='944000' id='t-944000'>I'll talk about vision here briefly. This is a picture of a woman.</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>And when you look at people, your eyes are caught</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>over at two to three times a second.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>You're not aware of this, but your eyes are always moving.</span>
+<span class='talk-transcript__fragment' data-time='952000' id='t-952000'>And so when you look at someone's face,</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>you'd typically go from eye to eye to eye to nose to mouth.</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>Now, when your eye moves from eye to eye,</span>
+<span class='talk-transcript__fragment' data-time='958000' id='t-958000'>if there was something else there like, a nose,</span>
+<span class='talk-transcript__fragment' data-time='960000' id='t-960000'>you'd see a nose where an eye is supposed to be,</span>
+<span class='talk-transcript__fragment' data-time='962000' id='t-962000'>and you'd go, oh shit, you know --</span>
+<span class='talk-transcript__fragment' data-time='965000' id='t-965000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='966000' id='t-966000'>There's something wrong about this person.</span>
+<span class='talk-transcript__fragment' data-time='968000' id='t-968000'>And that's because you're making a prediction.</span>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>It's not like you just look over there and say, what am I seeing now?</span>
+<span class='talk-transcript__fragment' data-time='972000' id='t-972000'>A nose, that's okay. No, you have an expectation of what you're going to see.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='975000' id='t-975000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='976000' id='t-976000'>Every single moment. And finally, let's think about how we test intelligence.</span>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>We test it by prediction. What is the next word in this, you know?</span>
+<span class='talk-transcript__fragment' data-time='983000' id='t-983000'>This is to this as this is to this. What is the next number in this sentence?</span>
+<span class='talk-transcript__fragment' data-time='986000' id='t-986000'>Here's three visions of an object.</span>
+<span class='talk-transcript__fragment' data-time='988000' id='t-988000'>What's the fourth one? That's how we test it. It's all about prediction.</span>
+<span class='talk-transcript__fragment' data-time='992000' id='t-992000'>So what is the recipe for brain theory?</span>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>First of all, we have to have the right framework.</span>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>And the framework is a memory framework,</span>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>not a computation or behavior framework. It's a memory framework.</span>
+<span class='talk-transcript__fragment' data-time='1002000' id='t-1002000'>How do you store and recall these sequences or patterns? It's spatio-temporal patterns.</span>
+<span class='talk-transcript__fragment' data-time='1006000' id='t-1006000'>Then, if in that framework, you take a bunch of theoreticians.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1009000' id='t-1009000'>Now biologists generally are not good theoreticians.</span>
+<span class='talk-transcript__fragment' data-time='1011000' id='t-1011000'>It's not always true, but in general, there's not a good history of theory in biology.</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>So I found the best people to work with are physicists,</span>
+<span class='talk-transcript__fragment' data-time='1018000' id='t-1018000'>engineers and mathematicians, who tend to think algorithmically.</span>
+<span class='talk-transcript__fragment' data-time='1021000' id='t-1021000'>Then they have to learn the anatomy, and they've got to learn the physiology.</span>
+<span class='talk-transcript__fragment' data-time='1024000' id='t-1024000'>You have to make these theories very realistic in anatomical terms.</span>
+<span class='talk-transcript__fragment' data-time='1028000' id='t-1028000'>Anyone who gets up and tells you their theory about how the brain works</span>
+<span class='talk-transcript__fragment' data-time='1032000' id='t-1032000'>and doesn't tell you exactly how it's working in the brain</span>
+<span class='talk-transcript__fragment' data-time='1034000' id='t-1034000'>and how the wiring works in the brain, it is not a theory.</span>
+<span class='talk-transcript__fragment' data-time='1036000' id='t-1036000'>And that's what we're doing at the Redwood Neuroscience Institute.</span>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>I would love to have more time to tell you we're making fantastic progress in this thing,</span>
+<span class='talk-transcript__fragment' data-time='1043000' id='t-1043000'>and I expect to be back up on this stage,</span>
+<span class='talk-transcript__fragment' data-time='1045000' id='t-1045000'>maybe this will be some other time in the not too distant future and tell you about it.</span>
+<span class='talk-transcript__fragment' data-time='1047000' id='t-1047000'>I'm really, really excited. This is not going to take 50 years at all.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1050000' id='t-1050000'>So what will brain theory look like?</span>
+<span class='talk-transcript__fragment' data-time='1052000' id='t-1052000'>First of all, it's going to be a theory about memory.</span>
+<span class='talk-transcript__fragment' data-time='1054000' id='t-1054000'>Not like computer memory. It's not at all like computer memory.</span>
+<span class='talk-transcript__fragment' data-time='1057000' id='t-1057000'>It's very, very different. And it's a memory of these very</span>
+<span class='talk-transcript__fragment' data-time='1059000' id='t-1059000'>high-dimensional patterns, like the things that come from your eyes.</span>
+<span class='talk-transcript__fragment' data-time='1062000' id='t-1062000'>It's also memory of sequences.</span>
+<span class='talk-transcript__fragment' data-time='1064000' id='t-1064000'>You cannot learn or recall anything outside of a sequence.</span>
+<span class='talk-transcript__fragment' data-time='1066000' id='t-1066000'>A song must be heard in sequence over time,</span>
+<span class='talk-transcript__fragment' data-time='1069000' id='t-1069000'>and you must play it back in sequence over time.</span>
+<span class='talk-transcript__fragment' data-time='1072000' id='t-1072000'>And these sequences are auto-associatively recalled, so if I see something,</span>
+<span class='talk-transcript__fragment' data-time='1075000' id='t-1075000'>I hear something, it reminds me of it, and then it plays back automatically.</span>
+<span class='talk-transcript__fragment' data-time='1078000' id='t-1078000'>It's an automatic playback. And prediction of future inputs is the desired output.</span>
+<span class='talk-transcript__fragment' data-time='1082000' id='t-1082000'>And as I said, the theory must be biologically accurate,</span>
+<span class='talk-transcript__fragment' data-time='1085000' id='t-1085000'>it must be testable, and you must be able to build it.</span>
+<span class='talk-transcript__fragment' data-time='1087000' id='t-1087000'>If you don't build it, you don't understand it. So, one more slide here.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1091000' id='t-1091000'>What is this going to result in? Are we going to really build intelligent machines?</span>
+<span class='talk-transcript__fragment' data-time='1095000' id='t-1095000'>Absolutely. And it's going to be different than people think.</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>No doubt that it's going to happen, in my mind.</span>
+<span class='talk-transcript__fragment' data-time='1102000' id='t-1102000'>First of all, it's going to be built up, we're going to build the stuff out of silicon.</span>
+<span class='talk-transcript__fragment' data-time='1106000' id='t-1106000'>The same techniques we use for building silicon computer memories,</span>
+<span class='talk-transcript__fragment' data-time='1109000' id='t-1109000'>we can use for here.</span>
+<span class='talk-transcript__fragment' data-time='1110000' id='t-1110000'>But they're very different types of memories.</span>
+<span class='talk-transcript__fragment' data-time='1112000' id='t-1112000'>And we're going to attach these memories to sensors,</span>
+<span class='talk-transcript__fragment' data-time='1114000' id='t-1114000'>and the sensors will experience real-live, real-world data,</span>
+<span class='talk-transcript__fragment' data-time='1117000' id='t-1117000'>and these things are going to learn about their environment.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1119000' id='t-1119000'>Now it's very unlikely the first things you're going to see are like robots.</span>
+<span class='talk-transcript__fragment' data-time='1122000' id='t-1122000'>Not that robots aren't useful and people can build robots.</span>
+<span class='talk-transcript__fragment' data-time='1125000' id='t-1125000'>But the robotics part is the hardest part. That's the old brain. That's really hard.</span>
+<span class='talk-transcript__fragment' data-time='1129000' id='t-1129000'>The new brain is actually kind of easier than the old brain.</span>
+<span class='talk-transcript__fragment' data-time='1131000' id='t-1131000'>So the first thing we're going to do are the things that don't require a lot of robotics.</span>
+<span class='talk-transcript__fragment' data-time='1134000' id='t-1134000'>So you're not going to see C-3PO.</span>
+<span class='talk-transcript__fragment' data-time='1136000' id='t-1136000'>You're going to more see things like, you know, intelligent cars</span>
+<span class='talk-transcript__fragment' data-time='1138000' id='t-1138000'>that really understand what traffic is and what driving is</span>
+<span class='talk-transcript__fragment' data-time='1141000' id='t-1141000'>and have learned that certain types of cars with the blinkers on for half a minute</span>
+<span class='talk-transcript__fragment' data-time='1144000' id='t-1144000'>probably aren't going to turn, things like that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1146000' id='t-1146000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1147000' id='t-1147000'>We can also do intelligent security systems.</span>
+<span class='talk-transcript__fragment' data-time='1149000' id='t-1149000'>Anywhere where we're basically using our brain, but not doing a lot of mechanics.</span>
+<span class='talk-transcript__fragment' data-time='1153000' id='t-1153000'>Those are the things that are going to happen first.</span>
+<span class='talk-transcript__fragment' data-time='1155000' id='t-1155000'>But ultimately, the world's the limit here.</span>
+<span class='talk-transcript__fragment' data-time='1157000' id='t-1157000'>I don't know how this is going to turn out.</span>
+<span class='talk-transcript__fragment' data-time='1159000' id='t-1159000'>I know a lot of people who invented the microprocessor</span>
+<span class='talk-transcript__fragment' data-time='1161000' id='t-1161000'>and if you talk to them, they knew what they were doing was really significant,</span>
+<span class='talk-transcript__fragment' data-time='1166000' id='t-1166000'>but they didn't really know what was going to happen.</span>
+<span class='talk-transcript__fragment' data-time='1169000' id='t-1169000'>They couldn't anticipate cell phones and the Internet and all this kind of stuff.</span>
+<span class='talk-transcript__fragment' data-time='1174000' id='t-1174000'>They just knew like, hey, they were going to build calculators</span>
+<span class='talk-transcript__fragment' data-time='1176000' id='t-1176000'>and traffic light controllers. But it's going to be big.</span>
+<span class='talk-transcript__fragment' data-time='1178000' id='t-1178000'>In the same way, this is like brain science and these memories</span>
+<span class='talk-transcript__fragment' data-time='1181000' id='t-1181000'>are going to be a very fundamental technology, and it's going to lead</span>
+<span class='talk-transcript__fragment' data-time='1184000' id='t-1184000'>to very unbelievable changes in the next 100 years.</span>
+<span class='talk-transcript__fragment' data-time='1187000' id='t-1187000'>And I'm most excited about how we're going to use them in science.</span>
+<span class='talk-transcript__fragment' data-time='1191000' id='t-1191000'>So I think that's all my time, I'm over it, and I'm going to end my talk</span>
+<span class='talk-transcript__fragment' data-time='1194000' id='t-1194000'>right there.</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jeremy Howard: The wonderful and terrifying implications of computers that can learn | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Jeremy Howard: The wonderful and terrifying implications of computers that can learn | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: What happens when we teach a computer how to learn? Technologist Jeremy Howard shares some surprising new developments in the fast-moving field of deep learning, a technique that can give computers the ability to learn Chinese, or to recognize objects in photos, or to help think through a medical diagnosis. (One deep learning tool, after watching hours of YouTube, taught itself the concept of “cats.”) Get caught up on a field that will change the way the computers around you behave … sooner than you probably think.  " name="description" />
+<meta content="Jeremy Howard" name="author" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;The wonderful and terrifying implications of computers that can learn&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4707d8e88ba824e4a9ad05ee2446d93576117d21_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4707d8e88ba824e4a9ad05ee2446d93576117d21_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: What happens when we teach a computer how to learn? Technologist Jeremy Howard shares some surprising new developments in the fast-moving field of deep learning, a technique that can give computers the ability to learn Chinese, or to recognize objects in photos, or to help think through a medical diagnosis. (One deep learning tool, after watching hours of YouTube, taught itself the concept of “cats.”) Get caught up on a field that will change the way the computers around you behave … sooner than you probably think.  " property="og:description" />
+<meta content="http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2155?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2155?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1185" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4707d8e88ba824e4a9ad05ee2446d93576117d21_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:45</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Jeremy Howard</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2155?language=en' lang='en'>
+The wonderful and terrifying implications of computers that can learn
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Dec 2014
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='880' id='t-880'>It used to be that if you wanted
+to get a computer to do something new,</span>
+<span class='talk-transcript__fragment' data-time='4893' id='t-4893'>you would have to program it.</span>
+<span class='talk-transcript__fragment' data-time='6447' id='t-6447'>Now, programming, for those of you here
+that haven't done it yourself,</span>
+<span class='talk-transcript__fragment' data-time='9858' id='t-9858'>requires laying out in excruciating detail</span>
+<span class='talk-transcript__fragment' data-time='13360' id='t-13360'>every single step that you want
+the computer to do</span>
+<span class='talk-transcript__fragment' data-time='16727' id='t-16727'>in order to achieve your goal.</span>
+<span class='talk-transcript__fragment' data-time='19089' id='t-19089'>Now, if you want to do something
+that you don't know how to do yourself,</span>
+<span class='talk-transcript__fragment' data-time='22585' id='t-22585'>then this is going
+to be a great challenge.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='24648' id='t-24648'>So this was the challenge faced
+by this man, Arthur Samuel.</span>
+<span class='talk-transcript__fragment' data-time='28131' id='t-28131'>In 1956, he wanted to get this computer</span>
+<span class='talk-transcript__fragment' data-time='32208' id='t-32208'>to be able to beat him at checkers.</span>
+<span class='talk-transcript__fragment' data-time='34548' id='t-34548'>How can you write a program,</span>
+<span class='talk-transcript__fragment' data-time='36588' id='t-36588'>lay out in excruciating detail,
+how to be better than you at checkers?</span>
+<span class='talk-transcript__fragment' data-time='40394' id='t-40394'>So he came up with an idea:</span>
+<span class='talk-transcript__fragment' data-time='42116' id='t-42116'>he had the computer play
+against itself thousands of times</span>
+<span class='talk-transcript__fragment' data-time='45840' id='t-45840'>and learn how to play checkers.</span>
+<span class='talk-transcript__fragment' data-time='48364' id='t-48364'>And indeed it worked,
+and in fact, by 1962,</span>
+<span class='talk-transcript__fragment' data-time='51544' id='t-51544'>this computer had beaten
+the Connecticut state champion.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='55561' id='t-55561'>So Arthur Samuel was
+the father of machine learning,</span>
+<span class='talk-transcript__fragment' data-time='58534' id='t-58534'>and I have a great debt to him,</span>
+<span class='talk-transcript__fragment' data-time='60251' id='t-60251'>because I am a machine
+learning practitioner.</span>
+<span class='talk-transcript__fragment' data-time='63014' id='t-63014'>I was the president of Kaggle,</span>
+<span class='talk-transcript__fragment' data-time='64479' id='t-64479'>a community of over 200,000
+machine learning practictioners.</span>
+<span class='talk-transcript__fragment' data-time='67867' id='t-67867'>Kaggle puts up competitions</span>
+<span class='talk-transcript__fragment' data-time='69925' id='t-69925'>to try and get them to solve
+previously unsolved problems,</span>
+<span class='talk-transcript__fragment' data-time='73633' id='t-73633'>and it's been successful 
+hundreds of times.</span>
+<span class='talk-transcript__fragment' data-time='77470' id='t-77470'>So from this vantage point,
+I was able to find out</span>
+<span class='talk-transcript__fragment' data-time='79940' id='t-79940'>a lot about what machine learning
+can do in the past, can do today,</span>
+<span class='talk-transcript__fragment' data-time='83890' id='t-83890'>and what it could do in the future.</span>
+<span class='talk-transcript__fragment' data-time='86252' id='t-86252'>Perhaps the first big success of 
+machine learning commercially was Google.</span>
+<span class='talk-transcript__fragment' data-time='90675' id='t-90675'>Google showed that it is
+possible to find information</span>
+<span class='talk-transcript__fragment' data-time='93784' id='t-93784'>by using a computer algorithm,</span>
+<span class='talk-transcript__fragment' data-time='95536' id='t-95536'>and this algorithm is based
+on machine learning.</span>
+<span class='talk-transcript__fragment' data-time='98437' id='t-98437'>Since that time, there have been many
+commercial successes of machine learning.</span>
+<span class='talk-transcript__fragment' data-time='102323' id='t-102323'>Companies like Amazon and Netflix</span>
+<span class='talk-transcript__fragment' data-time='104160' id='t-104160'>use machine learning to suggest
+products that you might like to buy,</span>
+<span class='talk-transcript__fragment' data-time='107876' id='t-107876'>movies that you might like to watch.</span>
+<span class='talk-transcript__fragment' data-time='109896' id='t-109896'>Sometimes, it's almost creepy.</span>
+<span class='talk-transcript__fragment' data-time='111703' id='t-111703'>Companies like LinkedIn and Facebook</span>
+<span class='talk-transcript__fragment' data-time='113657' id='t-113657'>sometimes will tell you about
+who your friends might be</span>
+<span class='talk-transcript__fragment' data-time='116251' id='t-116251'>and you have no idea how it did it,</span>
+<span class='talk-transcript__fragment' data-time='118228' id='t-118228'>and this is because it's using
+the power of machine learning.</span>
+<span class='talk-transcript__fragment' data-time='121195' id='t-121195'>These are algorithms that have
+learned how to do this from data</span>
+<span class='talk-transcript__fragment' data-time='124152' id='t-124152'>rather than being programmed by hand.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='127399' id='t-127399'>This is also how IBM was successful</span>
+<span class='talk-transcript__fragment' data-time='129877' id='t-129877'>in getting Watson to beat
+the two world champions at &quot;Jeopardy,&quot;</span>
+<span class='talk-transcript__fragment' data-time='133739' id='t-133739'>answering incredibly subtle
+and complex questions like this one.</span>
+<span class='talk-transcript__fragment' data-time='136964' id='t-136964'>[&quot;The ancient 'Lion of Nimrud' went missing
+from this city's national museum in 2003 
+(along with a lot of other stuff)&quot;]</span>
+<span class='talk-transcript__fragment' data-time='139799' id='t-139799'>This is also why we are now able
+to see the first self-driving cars.</span>
+<span class='talk-transcript__fragment' data-time='143034' id='t-143034'>If you want to be able to tell
+the difference between, say,</span>
+<span class='talk-transcript__fragment' data-time='145856' id='t-145856'>a tree and a pedestrian,
+well, that's pretty important.</span>
+<span class='talk-transcript__fragment' data-time='148488' id='t-148488'>We don't know how to write
+those programs by hand,</span>
+<span class='talk-transcript__fragment' data-time='151075' id='t-151075'>but with machine learning,
+this is now possible.</span>
+<span class='talk-transcript__fragment' data-time='154072' id='t-154072'>And in fact, this car has driven 
+over a million miles</span>
+<span class='talk-transcript__fragment' data-time='156680' id='t-156680'>without any accidents on regular roads.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='160196' id='t-160196'>So we now know that computers can learn,</span>
+<span class='talk-transcript__fragment' data-time='164110' id='t-164110'>and computers can learn to do things</span>
+<span class='talk-transcript__fragment' data-time='166010' id='t-166010'>that we actually sometimes
+don't know how to do ourselves,</span>
+<span class='talk-transcript__fragment' data-time='168848' id='t-168848'>or maybe can do them better than us.</span>
+<span class='talk-transcript__fragment' data-time='171733' id='t-171733'>One of the most amazing examples
+I've seen of machine learning</span>
+<span class='talk-transcript__fragment' data-time='175928' id='t-175928'>happened on a project that I ran at Kaggle</span>
+<span class='talk-transcript__fragment' data-time='178320' id='t-178320'>where a team run by a guy
+called Geoffrey Hinton</span>
+<span class='talk-transcript__fragment' data-time='181911' id='t-181911'>from the University of Toronto</span>
+<span class='talk-transcript__fragment' data-time='183463' id='t-183463'>won a competition for
+automatic drug discovery.</span>
+<span class='talk-transcript__fragment' data-time='186140' id='t-186140'>Now, what was extraordinary here
+is not just that they beat</span>
+<span class='talk-transcript__fragment' data-time='188987' id='t-188987'>all of the algorithms developed by Merck
+or the international academic community,</span>
+<span class='talk-transcript__fragment' data-time='193000' id='t-193000'>but nobody on the team had any background
+in chemistry or biology or life sciences,</span>
+<span class='talk-transcript__fragment' data-time='198061' id='t-198061'>and they did it in two weeks.</span>
+<span class='talk-transcript__fragment' data-time='200230' id='t-200230'>How did they do this?</span>
+<span class='talk-transcript__fragment' data-time='202421' id='t-202421'>They used an extraordinary algorithm
+called deep learning.</span>
+<span class='talk-transcript__fragment' data-time='205342' id='t-205342'>So important was this that in fact
+the success was covered</span>
+<span class='talk-transcript__fragment' data-time='208291' id='t-208291'>in The New York Times in a front page
+article a few weeks later.</span>
+<span class='talk-transcript__fragment' data-time='211412' id='t-211412'>This is Geoffrey Hinton
+here on the left-hand side.</span>
+<span class='talk-transcript__fragment' data-time='214147' id='t-214147'>Deep learning is an algorithm
+inspired by how the human brain works,</span>
+<span class='talk-transcript__fragment' data-time='218488' id='t-218488'>and as a result it's an algorithm</span>
+<span class='talk-transcript__fragment' data-time='220300' id='t-220300'>which has no theoretical limitations
+on what it can do.</span>
+<span class='talk-transcript__fragment' data-time='224141' id='t-224141'>The more data you give it and the more
+computation time you give it,</span>
+<span class='talk-transcript__fragment' data-time='226964' id='t-226964'>the better it gets.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='228276' id='t-228276'>The New York Times also
+showed in this article</span>
+<span class='talk-transcript__fragment' data-time='230615' id='t-230615'>another extraordinary
+result of deep learning</span>
+<span class='talk-transcript__fragment' data-time='232857' id='t-232857'>which I'm going to show you now.</span>
+<span class='talk-transcript__fragment' data-time='235569' id='t-235569'>It shows that computers 
+can listen and understand.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='240510' id='t-240510'>(Video) Richard Rashid: Now, the last step</span>
+<span class='talk-transcript__fragment' data-time='243221' id='t-243221'>that I want to be able
+to take in this process</span>
+<span class='talk-transcript__fragment' data-time='246246' id='t-246246'>is to actually speak to you in Chinese.</span>
+<span class='talk-transcript__fragment' data-time='250961' id='t-250961'>Now the key thing there is,</span>
+<span class='talk-transcript__fragment' data-time='253596' id='t-253596'>we've been able to take a large amount 
+of information from many Chinese speakers</span>
+<span class='talk-transcript__fragment' data-time='258598' id='t-258598'>and produce a text-to-speech system</span>
+<span class='talk-transcript__fragment' data-time='261128' id='t-261128'>that takes Chinese text
+and converts it into Chinese language,</span>
+<span class='talk-transcript__fragment' data-time='265801' id='t-265801'>and then we've taken
+an hour or so of my own voice</span>
+<span class='talk-transcript__fragment' data-time='269929' id='t-269929'>and we've used that to modulate</span>
+<span class='talk-transcript__fragment' data-time='271820' id='t-271820'>the standard text-to-speech system
+so that it would sound like me.</span>
+<span class='talk-transcript__fragment' data-time='276364' id='t-276364'>Again, the result's not perfect.</span>
+<span class='talk-transcript__fragment' data-time='278904' id='t-278904'>There are in fact quite a few errors.</span>
+<span class='talk-transcript__fragment' data-time='281552' id='t-281552'>(In Chinese)</span>
+<span class='talk-transcript__fragment' data-time='284036' id='t-284036'>(Applause)</span>
+<span class='talk-transcript__fragment' data-time='289446' id='t-289446'>There's much work to be done in this area.</span>
+<span class='talk-transcript__fragment' data-time='293022' id='t-293022'>(In Chinese)</span>
+<span class='talk-transcript__fragment' data-time='296667' id='t-296667'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='301345' id='t-301345'>Jeremy Howard: Well, that was at
+a machine learning conference in China.</span>
+<span class='talk-transcript__fragment' data-time='304744' id='t-304744'>It's not often, actually,
+at academic conferences</span>
+<span class='talk-transcript__fragment' data-time='307114' id='t-307114'>that you do hear spontaneous applause,</span>
+<span class='talk-transcript__fragment' data-time='309011' id='t-309011'>although of course sometimes
+at TEDx conferences, feel free.</span>
+<span class='talk-transcript__fragment' data-time='312687' id='t-312687'>Everything you saw there
+was happening with deep learning.</span>
+<span class='talk-transcript__fragment' data-time='315482' id='t-315482'>(Applause) Thank you.</span>
+<span class='talk-transcript__fragment' data-time='317007' id='t-317007'>The transcription in English
+was deep learning.</span>
+<span class='talk-transcript__fragment' data-time='319289' id='t-319289'>The translation to Chinese and the text
+in the top right, deep learning,</span>
+<span class='talk-transcript__fragment' data-time='322701' id='t-322701'>and the construction of the voice
+was deep learning as well.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='326008' id='t-326008'>So deep learning is
+this extraordinary thing.</span>
+<span class='talk-transcript__fragment' data-time='329242' id='t-329242'>It's a single algorithm that
+can seem to do almost anything,</span>
+<span class='talk-transcript__fragment' data-time='332341' id='t-332341'>and I discovered that a year earlier,
+it had also learned to see.</span>
+<span class='talk-transcript__fragment' data-time='335452' id='t-335452'>In this obscure competition from Germany</span>
+<span class='talk-transcript__fragment' data-time='337628' id='t-337628'>called the German Traffic Sign 
+Recognition Benchmark,</span>
+<span class='talk-transcript__fragment' data-time='340225' id='t-340225'>deep learning had learned
+to recognize traffic signs like this one.</span>
+<span class='talk-transcript__fragment' data-time='343618' id='t-343618'>Not only could it
+recognize the traffic signs</span>
+<span class='talk-transcript__fragment' data-time='345712' id='t-345712'>better than any other algorithm,</span>
+<span class='talk-transcript__fragment' data-time='347470' id='t-347470'>the leaderboard actually showed
+it was better than people,</span>
+<span class='talk-transcript__fragment' data-time='350189' id='t-350189'>about twice as good as people.</span>
+<span class='talk-transcript__fragment' data-time='352041' id='t-352041'>So by 2011, we had the first example</span>
+<span class='talk-transcript__fragment' data-time='354037' id='t-354037'>of computers that can see
+better than people.</span>
+<span class='talk-transcript__fragment' data-time='357442' id='t-357442'>Since that time, a lot has happened.</span>
+<span class='talk-transcript__fragment' data-time='359491' id='t-359491'>In 2012, Google announced that
+they had a deep learning algorithm</span>
+<span class='talk-transcript__fragment' data-time='363005' id='t-363005'>watch YouTube videos</span>
+<span class='talk-transcript__fragment' data-time='364420' id='t-364420'>and crunched the data
+on 16,000 computers for a month,</span>
+<span class='talk-transcript__fragment' data-time='367857' id='t-367857'>and the computer independently learned
+about concepts such as people and cats</span>
+<span class='talk-transcript__fragment' data-time='372218' id='t-372218'>just by watching the videos.</span>
+<span class='talk-transcript__fragment' data-time='374027' id='t-374027'>This is much like the way
+that humans learn.</span>
+<span class='talk-transcript__fragment' data-time='376379' id='t-376379'>Humans don't learn
+by being told what they see,</span>
+<span class='talk-transcript__fragment' data-time='379119' id='t-379119'>but by learning for themselves
+what these things are.</span>
+<span class='talk-transcript__fragment' data-time='382450' id='t-382450'>Also in 2012, Geoffrey Hinton,
+who we saw earlier,</span>
+<span class='talk-transcript__fragment' data-time='385819' id='t-385819'>won the very popular ImageNet competition,</span>
+<span class='talk-transcript__fragment' data-time='388677' id='t-388677'>looking to try to figure out 
+from one and a half million images</span>
+<span class='talk-transcript__fragment' data-time='392818' id='t-392818'>what they're pictures of.</span>
+<span class='talk-transcript__fragment' data-time='394256' id='t-394256'>As of 2014, we're now down
+to a six percent error rate</span>
+<span class='talk-transcript__fragment' data-time='397789' id='t-397789'>in image recognition.</span>
+<span class='talk-transcript__fragment' data-time='399242' id='t-399242'>This is better than people, again.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='401268' id='t-401268'>So machines really are doing
+an extraordinarily good job of this,</span>
+<span class='talk-transcript__fragment' data-time='405037' id='t-405037'>and it is now being used in industry.</span>
+<span class='talk-transcript__fragment' data-time='407306' id='t-407306'>For example, Google announced last year</span>
+<span class='talk-transcript__fragment' data-time='410348' id='t-410348'>that they had mapped every single
+location in France in two hours,</span>
+<span class='talk-transcript__fragment' data-time='414933' id='t-414933'>and the way they did it was
+that they fed street view images</span>
+<span class='talk-transcript__fragment' data-time='418380' id='t-418380'>into a deep learning algorithm
+to recognize and read street numbers.</span>
+<span class='talk-transcript__fragment' data-time='422699' id='t-422699'>Imagine how long
+it would have taken before:</span>
+<span class='talk-transcript__fragment' data-time='424919' id='t-424919'>dozens of people, many years.</span>
+<span class='talk-transcript__fragment' data-time='428274' id='t-428274'>This is also happening in China.</span>
+<span class='talk-transcript__fragment' data-time='430185' id='t-430185'>Baidu is kind of 
+the Chinese Google, I guess,</span>
+<span class='talk-transcript__fragment' data-time='434221' id='t-434221'>and what you see here in the top left</span>
+<span class='talk-transcript__fragment' data-time='436504' id='t-436504'>is an example of a picture that I uploaded
+to Baidu's deep learning system,</span>
+<span class='talk-transcript__fragment' data-time='440478' id='t-440478'>and underneath you can see that the system
+has understood what that picture is</span>
+<span class='talk-transcript__fragment' data-time='444247' id='t-444247'>and found similar images.</span>
+<span class='talk-transcript__fragment' data-time='446483' id='t-446483'>The similar images actually
+have similar backgrounds,</span>
+<span class='talk-transcript__fragment' data-time='449219' id='t-449219'>similar directions of the faces,</span>
+<span class='talk-transcript__fragment' data-time='450877' id='t-450877'>even some with their tongue out.</span>
+<span class='talk-transcript__fragment' data-time='452665' id='t-452665'>This is not clearly looking
+at the text of a web page.</span>
+<span class='talk-transcript__fragment' data-time='455695' id='t-455695'>All I uploaded was an image.</span>
+<span class='talk-transcript__fragment' data-time='457107' id='t-457107'>So we now have computers which
+really understand what they see</span>
+<span class='talk-transcript__fragment' data-time='461128' id='t-461128'>and can therefore search databases</span>
+<span class='talk-transcript__fragment' data-time='462752' id='t-462752'>of hundreds of millions
+of images in real time.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='466306' id='t-466306'>So what does it mean
+now that computers can see?</span>
+<span class='talk-transcript__fragment' data-time='469536' id='t-469536'>Well, it's not just 
+that computers can see.</span>
+<span class='talk-transcript__fragment' data-time='471553' id='t-471553'>In fact, deep learning
+has done more than that.</span>
+<span class='talk-transcript__fragment' data-time='473622' id='t-473622'>Complex, nuanced sentences like this one</span>
+<span class='talk-transcript__fragment' data-time='476570' id='t-476570'>are now understandable
+with deep learning algorithms.</span>
+<span class='talk-transcript__fragment' data-time='479394' id='t-479394'>As you can see here,</span>
+<span class='talk-transcript__fragment' data-time='480697' id='t-480697'>this Stanford-based system
+showing the red dot at the top</span>
+<span class='talk-transcript__fragment' data-time='483465' id='t-483465'>has figured out that this sentence
+is expressing negative sentiment.</span>
+<span class='talk-transcript__fragment' data-time='487384' id='t-487384'>Deep learning now in fact
+is near human performance</span>
+<span class='talk-transcript__fragment' data-time='490802' id='t-490802'>at understanding what sentences are about
+and what it is saying about those things.</span>
+<span class='talk-transcript__fragment' data-time='495923' id='t-495923'>Also, deep learning has
+been used to read Chinese,</span>
+<span class='talk-transcript__fragment' data-time='498651' id='t-498651'>again at about native
+Chinese speaker level.</span>
+<span class='talk-transcript__fragment' data-time='501807' id='t-501807'>This algorithm developed
+out of Switzerland</span>
+<span class='talk-transcript__fragment' data-time='503975' id='t-503975'>by people, none of whom speak
+or understand any Chinese.</span>
+<span class='talk-transcript__fragment' data-time='507331' id='t-507331'>As I say, using deep learning</span>
+<span class='talk-transcript__fragment' data-time='509382' id='t-509382'>is about the best system
+in the world for this,</span>
+<span class='talk-transcript__fragment' data-time='511601' id='t-511601'>even compared to native
+human understanding.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='516718' id='t-516718'>This is a system that we
+put together at my company</span>
+<span class='talk-transcript__fragment' data-time='519682' id='t-519682'>which shows putting
+all this stuff together.</span>
+<span class='talk-transcript__fragment' data-time='521728' id='t-521728'>These are pictures which
+have no text attached,</span>
+<span class='talk-transcript__fragment' data-time='524189' id='t-524189'>and as I'm typing in here sentences,</span>
+<span class='talk-transcript__fragment' data-time='526541' id='t-526541'>in real time it's understanding
+these pictures</span>
+<span class='talk-transcript__fragment' data-time='529510' id='t-529510'>and figuring out what they're about</span>
+<span class='talk-transcript__fragment' data-time='531189' id='t-531189'>and finding pictures that are similar
+to the text that I'm writing.</span>
+<span class='talk-transcript__fragment' data-time='534352' id='t-534352'>So you can see, it's actually
+understanding my sentences</span>
+<span class='talk-transcript__fragment' data-time='537108' id='t-537108'>and actually understanding these pictures.</span>
+<span class='talk-transcript__fragment' data-time='539332' id='t-539332'>I know that you've seen
+something like this on Google,</span>
+<span class='talk-transcript__fragment' data-time='541891' id='t-541891'>where you can type in things
+and it will show you pictures,</span>
+<span class='talk-transcript__fragment' data-time='544666' id='t-544666'>but actually what it's doing is it's
+searching the webpage for the text.</span>
+<span class='talk-transcript__fragment' data-time='548090' id='t-548090'>This is very different from actually
+understanding the images.</span>
+<span class='talk-transcript__fragment' data-time='551091' id='t-551091'>This is something that computers
+have only been able to do</span>
+<span class='talk-transcript__fragment' data-time='553843' id='t-553843'>for the first time in the last few months.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='557091' id='t-557091'>So we can see now that computers
+can not only see but they can also read,</span>
+<span class='talk-transcript__fragment' data-time='561182' id='t-561182'>and, of course, we've shown that they
+can understand what they hear.</span>
+<span class='talk-transcript__fragment' data-time='564947' id='t-564947'>Perhaps not surprising now that
+I'm going to tell you they can write.</span>
+<span class='talk-transcript__fragment' data-time='568389' id='t-568389'>Here is some text that I generated
+using a deep learning algorithm yesterday.</span>
+<span class='talk-transcript__fragment' data-time='573172' id='t-573172'>And here is some text that an algorithm
+out of Stanford generated.</span>
+<span class='talk-transcript__fragment' data-time='577096' id='t-577096'>Each of these sentences was generated</span>
+<span class='talk-transcript__fragment' data-time='578860' id='t-578860'>by a deep learning algorithm
+to describe each of those pictures.</span>
+<span class='talk-transcript__fragment' data-time='583109' id='t-583109'>This algorithm before has never seen
+a man in a black shirt playing a guitar.</span>
+<span class='talk-transcript__fragment' data-time='587581' id='t-587581'>It's seen a man before,
+it's seen black before,</span>
+<span class='talk-transcript__fragment' data-time='589801' id='t-589801'>it's seen a guitar before,</span>
+<span class='talk-transcript__fragment' data-time='591400' id='t-591400'>but it has independently generated
+this novel description of this picture.</span>
+<span class='talk-transcript__fragment' data-time='595694' id='t-595694'>We're still not quite at human
+performance here, but we're close.</span>
+<span class='talk-transcript__fragment' data-time='599196' id='t-599196'>In tests, humans prefer
+the computer-generated caption</span>
+<span class='talk-transcript__fragment' data-time='603264' id='t-603264'>one out of four times.</span>
+<span class='talk-transcript__fragment' data-time='604791' id='t-604791'>Now this system is now only two weeks old,</span>
+<span class='talk-transcript__fragment' data-time='606855' id='t-606855'>so probably within the next year,</span>
+<span class='talk-transcript__fragment' data-time='608701' id='t-608701'>the computer algorithm will be
+well past human performance</span>
+<span class='talk-transcript__fragment' data-time='611502' id='t-611502'>at the rate things are going.</span>
+<span class='talk-transcript__fragment' data-time='613364' id='t-613364'>So computers can also write.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='616413' id='t-616413'>So we put all this together and it leads
+to very exciting opportunities.</span>
+<span class='talk-transcript__fragment' data-time='619888' id='t-619888'>For example, in medicine,</span>
+<span class='talk-transcript__fragment' data-time='621380' id='t-621380'>a team in Boston announced
+that they had discovered</span>
+<span class='talk-transcript__fragment' data-time='623905' id='t-623905'>dozens of new clinically relevant features</span>
+<span class='talk-transcript__fragment' data-time='626854' id='t-626854'>of tumors which help doctors
+make a prognosis of a cancer.</span>
+<span class='talk-transcript__fragment' data-time='632220' id='t-632220'>Very similarly, in Stanford,</span>
+<span class='talk-transcript__fragment' data-time='634516' id='t-634516'>a group there announced that,
+looking at tissues under magnification,</span>
+<span class='talk-transcript__fragment' data-time='638179' id='t-638179'>they've developed 
+a machine learning-based system</span>
+<span class='talk-transcript__fragment' data-time='640560' id='t-640560'>which in fact is better
+than human pathologists</span>
+<span class='talk-transcript__fragment' data-time='643142' id='t-643142'>at predicting survival rates
+for cancer sufferers.</span>
+<span class='talk-transcript__fragment' data-time='647519' id='t-647519'>In both of these cases, not only
+were the predictions more accurate,</span>
+<span class='talk-transcript__fragment' data-time='650764' id='t-650764'>but they generated new insightful science.</span>
+<span class='talk-transcript__fragment' data-time='653276' id='t-653276'>In the radiology case,</span>
+<span class='talk-transcript__fragment' data-time='654781' id='t-654781'>they were new clinical indicators
+that humans can understand.</span>
+<span class='talk-transcript__fragment' data-time='657876' id='t-657876'>In this pathology case,</span>
+<span class='talk-transcript__fragment' data-time='659668' id='t-659668'>the computer system actually discovered
+that the cells around the cancer</span>
+<span class='talk-transcript__fragment' data-time='664168' id='t-664168'>are as important as
+the cancer cells themselves</span>
+<span class='talk-transcript__fragment' data-time='667508' id='t-667508'>in making a diagnosis.</span>
+<span class='talk-transcript__fragment' data-time='669260' id='t-669260'>This is the opposite of what pathologists
+had been taught for decades.</span>
+<span class='talk-transcript__fragment' data-time='674621' id='t-674621'>In each of those two cases,
+they were systems developed</span>
+<span class='talk-transcript__fragment' data-time='677913' id='t-677913'>by a combination of medical experts
+and machine learning experts,</span>
+<span class='talk-transcript__fragment' data-time='681534' id='t-681534'>but as of last year,
+we're now beyond that too.</span>
+<span class='talk-transcript__fragment' data-time='684275' id='t-684275'>This is an example of
+identifying cancerous areas</span>
+<span class='talk-transcript__fragment' data-time='687824' id='t-687824'>of human tissue under a microscope.</span>
+<span class='talk-transcript__fragment' data-time='690354' id='t-690354'>The system being shown here
+can identify those areas more accurately,</span>
+<span class='talk-transcript__fragment' data-time='694967' id='t-694967'>or about as accurately,
+as human pathologists,</span>
+<span class='talk-transcript__fragment' data-time='697742' id='t-697742'>but was built entirely with deep learning
+using no medical expertise</span>
+<span class='talk-transcript__fragment' data-time='701134' id='t-701134'>by people who have
+no background in the field.</span>
+<span class='talk-transcript__fragment' data-time='704730' id='t-704730'>Similarly, here, this neuron segmentation.</span>
+<span class='talk-transcript__fragment' data-time='707285' id='t-707285'>We can now segment neurons
+about as accurately as humans can,</span>
+<span class='talk-transcript__fragment' data-time='710953' id='t-710953'>but this system was developed
+with deep learning</span>
+<span class='talk-transcript__fragment' data-time='713670' id='t-713670'>using people with no previous 
+background in medicine.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='716921' id='t-716921'>So myself, as somebody with
+no previous background in medicine,</span>
+<span class='talk-transcript__fragment' data-time='720148' id='t-720148'>I seem to be entirely well qualified
+to start a new medical company,</span>
+<span class='talk-transcript__fragment' data-time='723875' id='t-723875'>which I did.</span>
+<span class='talk-transcript__fragment' data-time='726021' id='t-726021'>I was kind of terrified of doing it,</span>
+<span class='talk-transcript__fragment' data-time='727761' id='t-727761'>but the theory seemed to suggest
+that it ought to be possible</span>
+<span class='talk-transcript__fragment' data-time='730650' id='t-730650'>to do very useful medicine
+using just these data analytic techniques.</span>
+<span class='talk-transcript__fragment' data-time='736142' id='t-736142'>And thankfully, the feedback
+has been fantastic,</span>
+<span class='talk-transcript__fragment' data-time='738622' id='t-738622'>not just from the media
+but from the medical community,</span>
+<span class='talk-transcript__fragment' data-time='740978' id='t-740978'>who have been very supportive.</span>
+<span class='talk-transcript__fragment' data-time='743322' id='t-743322'>The theory is that we can take
+the middle part of the medical process</span>
+<span class='talk-transcript__fragment' data-time='747471' id='t-747471'>and turn that into data analysis
+as much as possible,</span>
+<span class='talk-transcript__fragment' data-time='750364' id='t-750364'>leaving doctors to do
+what they're best at.</span>
+<span class='talk-transcript__fragment' data-time='753429' id='t-753429'>I want to give you an example.</span>
+<span class='talk-transcript__fragment' data-time='755031' id='t-755031'>It now takes us about 15 minutes
+to generate a new medical diagnostic test</span>
+<span class='talk-transcript__fragment' data-time='759975' id='t-759975'>and I'll show you that in real time now,</span>
+<span class='talk-transcript__fragment' data-time='761929' id='t-761929'>but I've compressed it down to 
+three minutes by cutting some pieces out.</span>
+<span class='talk-transcript__fragment' data-time='765416' id='t-765416'>Rather than showing you
+creating a medical diagnostic test,</span>
+<span class='talk-transcript__fragment' data-time='768477' id='t-768477'>I'm going to show you 
+a diagnostic test of car images,</span>
+<span class='talk-transcript__fragment' data-time='771846' id='t-771846'>because that's something
+we can all understand.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='774068' id='t-774068'>So here we're starting with 
+about 1.5 million car images,</span>
+<span class='talk-transcript__fragment' data-time='777269' id='t-777269'>and I want to create something
+that can split them into the angle</span>
+<span class='talk-transcript__fragment' data-time='780475' id='t-780475'>of the photo that's being taken.</span>
+<span class='talk-transcript__fragment' data-time='782698' id='t-782698'>So these images are entirely unlabeled,
+so I have to start from scratch.</span>
+<span class='talk-transcript__fragment' data-time='786586' id='t-786586'>With our deep learning algorithm,</span>
+<span class='talk-transcript__fragment' data-time='788451' id='t-788451'>it can automatically identify
+areas of structure in these images.</span>
+<span class='talk-transcript__fragment' data-time='792158' id='t-792158'>So the nice thing is that the human
+and the computer can now work together.</span>
+<span class='talk-transcript__fragment' data-time='795778' id='t-795778'>So the human, as you can see here,</span>
+<span class='talk-transcript__fragment' data-time='797956' id='t-797956'>is telling the computer
+about areas of interest</span>
+<span class='talk-transcript__fragment' data-time='800631' id='t-800631'>which it wants the computer then
+to try and use to improve its algorithm.</span>
+<span class='talk-transcript__fragment' data-time='805281' id='t-805281'>Now, these deep learning systems actually
+are in 16,000-dimensional space,</span>
+<span class='talk-transcript__fragment' data-time='809577' id='t-809577'>so you can see here the computer
+rotating this through that space,</span>
+<span class='talk-transcript__fragment' data-time='813009' id='t-813009'>trying to find new areas of structure.</span>
+<span class='talk-transcript__fragment' data-time='815001' id='t-815001'>And when it does so successfully,</span>
+<span class='talk-transcript__fragment' data-time='816782' id='t-816782'>the human who is driving it can then
+point out the areas that are interesting.</span>
+<span class='talk-transcript__fragment' data-time='820786' id='t-820786'>So here, the computer has
+successfully found areas,</span>
+<span class='talk-transcript__fragment' data-time='823208' id='t-823208'>for example, angles.</span>
+<span class='talk-transcript__fragment' data-time='825770' id='t-825770'>So as we go through this process,</span>
+<span class='talk-transcript__fragment' data-time='827376' id='t-827376'>we're gradually telling
+the computer more and more</span>
+<span class='talk-transcript__fragment' data-time='829716' id='t-829716'>about the kinds of structures
+we're looking for.</span>
+<span class='talk-transcript__fragment' data-time='832144' id='t-832144'>You can imagine in a diagnostic test</span>
+<span class='talk-transcript__fragment' data-time='833916' id='t-833916'>this would be a pathologist identifying
+areas of pathosis, for example,</span>
+<span class='talk-transcript__fragment' data-time='837266' id='t-837266'>or a radiologist indicating
+potentially troublesome nodules.</span>
+<span class='talk-transcript__fragment' data-time='842292' id='t-842292'>And sometimes it can be
+difficult for the algorithm.</span>
+<span class='talk-transcript__fragment' data-time='844851' id='t-844851'>In this case, it got kind of confused.</span>
+<span class='talk-transcript__fragment' data-time='846815' id='t-846815'>The fronts and the backs
+of the cars are all mixed up.</span>
+<span class='talk-transcript__fragment' data-time='849365' id='t-849365'>So here we have to be a bit more careful,</span>
+<span class='talk-transcript__fragment' data-time='851437' id='t-851437'>manually selecting these fronts
+as opposed to the backs,</span>
+<span class='talk-transcript__fragment' data-time='854669' id='t-854669'>then telling the computer
+that this is a type of group</span>
+<span class='talk-transcript__fragment' data-time='860175' id='t-860175'>that we're interested in.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='861523' id='t-861523'>So we do that for a while,
+we skip over a little bit,</span>
+<span class='talk-transcript__fragment' data-time='864200' id='t-864200'>and then we train the
+machine learning algorithm</span>
+<span class='talk-transcript__fragment' data-time='866446' id='t-866446'>based on these couple of hundred things,</span>
+<span class='talk-transcript__fragment' data-time='868420' id='t-868420'>and we hope that it's gotten a lot better.</span>
+<span class='talk-transcript__fragment' data-time='870445' id='t-870445'>You can see, it's now started to fade
+some of these pictures out,</span>
+<span class='talk-transcript__fragment' data-time='873518' id='t-873518'>showing us that it already is recognizing
+how to understand some of these itself.</span>
+<span class='talk-transcript__fragment' data-time='878226' id='t-878226'>We can then use this concept
+of similar images,</span>
+<span class='talk-transcript__fragment' data-time='881128' id='t-881128'>and using similar images, you can now see,</span>
+<span class='talk-transcript__fragment' data-time='883222' id='t-883222'>the computer at this point is able to
+entirely find just the fronts of cars.</span>
+<span class='talk-transcript__fragment' data-time='887241' id='t-887241'>So at this point, the human
+can tell the computer,</span>
+<span class='talk-transcript__fragment' data-time='890189' id='t-890189'>okay, yes, you've done
+a good job of that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='893652' id='t-893652'>Sometimes, of course, even at this point</span>
+<span class='talk-transcript__fragment' data-time='895837' id='t-895837'>it's still difficult
+to separate out groups.</span>
+<span class='talk-transcript__fragment' data-time='899511' id='t-899511'>In this case, even after we let the
+computer try to rotate this for a while,</span>
+<span class='talk-transcript__fragment' data-time='903399' id='t-903399'>we still find that the left sides
+and the right sides pictures</span>
+<span class='talk-transcript__fragment' data-time='906744' id='t-906744'>are all mixed up together.</span>
+<span class='talk-transcript__fragment' data-time='908222' id='t-908222'>So we can again give
+the computer some hints,</span>
+<span class='talk-transcript__fragment' data-time='910362' id='t-910362'>and we say, okay, try and find
+a projection that separates out</span>
+<span class='talk-transcript__fragment' data-time='913338' id='t-913338'>the left sides and the right sides
+as much as possible</span>
+<span class='talk-transcript__fragment' data-time='915945' id='t-915945'>using this deep learning algorithm.</span>
+<span class='talk-transcript__fragment' data-time='918067' id='t-918067'>And giving it that hint --
+ah, okay, it's been successful.</span>
+<span class='talk-transcript__fragment' data-time='921009' id='t-921009'>It's managed to find a way
+of thinking about these objects</span>
+<span class='talk-transcript__fragment' data-time='923891' id='t-923891'>that's separated out these together.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='926271' id='t-926271'>So you get the idea here.</span>
+<span class='talk-transcript__fragment' data-time='928709' id='t-928709'>This is a case not where the human
+is being replaced by a computer,</span>
+<span class='talk-transcript__fragment' data-time='936906' id='t-936906'>but where they're working together.</span>
+<span class='talk-transcript__fragment' data-time='939546' id='t-939546'>What we're doing here is we're replacing
+something that used to take a team</span>
+<span class='talk-transcript__fragment' data-time='943096' id='t-943096'>of five or six people about seven years</span>
+<span class='talk-transcript__fragment' data-time='945098' id='t-945098'>and replacing it with something
+that takes 15 minutes</span>
+<span class='talk-transcript__fragment' data-time='947703' id='t-947703'>for one person acting alone.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='950208' id='t-950208'>So this process takes about
+four or five iterations.</span>
+<span class='talk-transcript__fragment' data-time='954158' id='t-954158'>You can see we now have 62 percent</span>
+<span class='talk-transcript__fragment' data-time='956017' id='t-956017'>of our 1.5 million images 
+classified correctly.</span>
+<span class='talk-transcript__fragment' data-time='958976' id='t-958976'>And at this point, we
+can start to quite quickly</span>
+<span class='talk-transcript__fragment' data-time='961448' id='t-961448'>grab whole big sections,</span>
+<span class='talk-transcript__fragment' data-time='962745' id='t-962745'>check through them to make sure
+that there's no mistakes.</span>
+<span class='talk-transcript__fragment' data-time='965664' id='t-965664'>Where there are mistakes, we can
+let the computer know about them.</span>
+<span class='talk-transcript__fragment' data-time='969616' id='t-969616'>And using this kind of process
+for each of the different groups,</span>
+<span class='talk-transcript__fragment' data-time='972661' id='t-972661'>we are now up to
+an 80 percent success rate</span>
+<span class='talk-transcript__fragment' data-time='975148' id='t-975148'>in classifying the 1.5 million images.</span>
+<span class='talk-transcript__fragment' data-time='977563' id='t-977563'>And at this point, it's just a case</span>
+<span class='talk-transcript__fragment' data-time='979641' id='t-979641'>of finding the small number
+that aren't classified correctly,</span>
+<span class='talk-transcript__fragment' data-time='983220' id='t-983220'>and trying to understand why.</span>
+<span class='talk-transcript__fragment' data-time='986108' id='t-986108'>And using that approach,</span>
+<span class='talk-transcript__fragment' data-time='987851' id='t-987851'>by 15 minutes we get
+to 97 percent classification rates.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='991972' id='t-991972'>So this kind of technique
+could allow us to fix a major problem,</span>
+<span class='talk-transcript__fragment' data-time='996578' id='t-996578'>which is that there's a lack
+of medical expertise in the world.</span>
+<span class='talk-transcript__fragment' data-time='999614' id='t-999614'>The World Economic Forum says
+that there's between a 10x and a 20x</span>
+<span class='talk-transcript__fragment' data-time='1003103' id='t-1003103'>shortage of physicians
+in the developing world,</span>
+<span class='talk-transcript__fragment' data-time='1005727' id='t-1005727'>and it would take about 300 years</span>
+<span class='talk-transcript__fragment' data-time='1007840' id='t-1007840'>to train enough people
+to fix that problem.</span>
+<span class='talk-transcript__fragment' data-time='1010734' id='t-1010734'>So imagine if we can help
+enhance their efficiency</span>
+<span class='talk-transcript__fragment' data-time='1013619' id='t-1013619'>using these deep learning approaches?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1016458' id='t-1016458'>So I'm very excited
+about the opportunities.</span>
+<span class='talk-transcript__fragment' data-time='1018690' id='t-1018690'>I'm also concerned about the problems.</span>
+<span class='talk-transcript__fragment' data-time='1021279' id='t-1021279'>The problem here is that
+every area in blue on this map</span>
+<span class='talk-transcript__fragment' data-time='1024403' id='t-1024403'>is somewhere where services
+are over 80 percent of employment.</span>
+<span class='talk-transcript__fragment' data-time='1028172' id='t-1028172'>What are services?</span>
+<span class='talk-transcript__fragment' data-time='1029959' id='t-1029959'>These are services.</span>
+<span class='talk-transcript__fragment' data-time='1031473' id='t-1031473'>These are also the exact things that
+computers have just learned how to do.</span>
+<span class='talk-transcript__fragment' data-time='1035627' id='t-1035627'>So 80 percent of the world's employment
+in the developed world</span>
+<span class='talk-transcript__fragment' data-time='1039431' id='t-1039431'>is stuff that computers 
+have just learned how to do.</span>
+<span class='talk-transcript__fragment' data-time='1041963' id='t-1041963'>What does that mean?</span>
+<span class='talk-transcript__fragment' data-time='1043403' id='t-1043403'>Well, it'll be fine.
+They'll be replaced by other jobs.</span>
+<span class='talk-transcript__fragment' data-time='1045986' id='t-1045986'>For example, there will be
+more jobs for data scientists.</span>
+<span class='talk-transcript__fragment' data-time='1048693' id='t-1048693'>Well, not really.</span>
+<span class='talk-transcript__fragment' data-time='1049510' id='t-1049510'>It doesn't take data scientists 
+very long to build these things.</span>
+<span class='talk-transcript__fragment' data-time='1052628' id='t-1052628'>For example, these four algorithms
+were all built by the same guy.</span>
+<span class='talk-transcript__fragment' data-time='1055880' id='t-1055880'>So if you think, oh, 
+it's all happened before,</span>
+<span class='talk-transcript__fragment' data-time='1058318' id='t-1058318'>we've seen the results in the past
+of when new things come along</span>
+<span class='talk-transcript__fragment' data-time='1062126' id='t-1062126'>and they get replaced by new jobs,</span>
+<span class='talk-transcript__fragment' data-time='1064378' id='t-1064378'>what are these new jobs going to be?</span>
+<span class='talk-transcript__fragment' data-time='1066494' id='t-1066494'>It's very hard for us to estimate this,</span>
+<span class='talk-transcript__fragment' data-time='1068365' id='t-1068365'>because human performance
+grows at this gradual rate,</span>
+<span class='talk-transcript__fragment' data-time='1071104' id='t-1071104'>but we now have a system, deep learning,</span>
+<span class='talk-transcript__fragment' data-time='1073666' id='t-1073666'>that we know actually grows
+in capability exponentially.</span>
+<span class='talk-transcript__fragment' data-time='1076893' id='t-1076893'>And we're here.</span>
+<span class='talk-transcript__fragment' data-time='1078498' id='t-1078498'>So currently, we see the things around us</span>
+<span class='talk-transcript__fragment' data-time='1080559' id='t-1080559'>and we say, &quot;Oh, computers
+are still pretty dumb.&quot; Right?</span>
+<span class='talk-transcript__fragment' data-time='1083235' id='t-1083235'>But in five years' time,
+computers will be off this chart.</span>
+<span class='talk-transcript__fragment' data-time='1086664' id='t-1086664'>So we need to be starting to think
+about this capability right now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1090529' id='t-1090529'>We have seen this once before, of course.</span>
+<span class='talk-transcript__fragment' data-time='1092579' id='t-1092579'>In the Industrial Revolution,</span>
+<span class='talk-transcript__fragment' data-time='1093966' id='t-1093966'>we saw a step change
+in capability thanks to engines.</span>
+<span class='talk-transcript__fragment' data-time='1097667' id='t-1097667'>The thing is, though,
+that after a while, things flattened out.</span>
+<span class='talk-transcript__fragment' data-time='1100805' id='t-1100805'>There was social disruption,</span>
+<span class='talk-transcript__fragment' data-time='1102507' id='t-1102507'>but once engines were used 
+to generate power in all the situations,</span>
+<span class='talk-transcript__fragment' data-time='1105946' id='t-1105946'>things really settled down.</span>
+<span class='talk-transcript__fragment' data-time='1108300' id='t-1108300'>The Machine Learning Revolution</span>
+<span class='talk-transcript__fragment' data-time='1109773' id='t-1109773'>is going to be very different
+from the Industrial Revolution,</span>
+<span class='talk-transcript__fragment' data-time='1112682' id='t-1112682'>because the Machine Learning Revolution,
+it never settles down.</span>
+<span class='talk-transcript__fragment' data-time='1115632' id='t-1115632'>The better computers get
+at intellectual activities,</span>
+<span class='talk-transcript__fragment' data-time='1118614' id='t-1118614'>the more they can build better computers
+to be better at intellectual capabilities,</span>
+<span class='talk-transcript__fragment' data-time='1122862' id='t-1122862'>so this is going to be a kind of change</span>
+<span class='talk-transcript__fragment' data-time='1124770' id='t-1124770'>that the world has actually
+never experienced before,</span>
+<span class='talk-transcript__fragment' data-time='1127248' id='t-1127248'>so your previous understanding
+of what's possible is different.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1130974' id='t-1130974'>This is already impacting us.</span>
+<span class='talk-transcript__fragment' data-time='1132754' id='t-1132754'>In the last 25 years,
+as capital productivity has increased,</span>
+<span class='talk-transcript__fragment' data-time='1136400' id='t-1136400'>labor productivity has been flat,
+in fact even a little bit down.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1141408' id='t-1141408'>So I want us to start
+having this discussion now.</span>
+<span class='talk-transcript__fragment' data-time='1144149' id='t-1144149'>I know that when I often tell people
+about this situation,</span>
+<span class='talk-transcript__fragment' data-time='1147176' id='t-1147176'>people can be quite dismissive.</span>
+<span class='talk-transcript__fragment' data-time='1148666' id='t-1148666'>Well, computers can't really think,</span>
+<span class='talk-transcript__fragment' data-time='1150339' id='t-1150339'>they don't emote,
+they don't understand poetry,</span>
+<span class='talk-transcript__fragment' data-time='1153367' id='t-1153367'>we don't really understand how they work.</span>
+<span class='talk-transcript__fragment' data-time='1155888' id='t-1155888'>So what?</span>
+<span class='talk-transcript__fragment' data-time='1157374' id='t-1157374'>Computers right now can do the things</span>
+<span class='talk-transcript__fragment' data-time='1159178' id='t-1159178'>that humans spend most
+of their time being paid to do,</span>
+<span class='talk-transcript__fragment' data-time='1161897' id='t-1161897'>so now's the time to start thinking</span>
+<span class='talk-transcript__fragment' data-time='1163628' id='t-1163628'>about how we're going to adjust our
+social structures and economic structures</span>
+<span class='talk-transcript__fragment' data-time='1168015' id='t-1168015'>to be aware of this new reality.</span>
+<span class='talk-transcript__fragment' data-time='1169855' id='t-1169855'>Thank you.</span>
+<span class='talk-transcript__fragment' data-time='1171388' id='t-1171388'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

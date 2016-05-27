@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Sanjay Pradhan: How open data is changing international aid | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Sanjay Pradhan: How open data is changing international aid | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: How do we make sure that development and aid money actually goes to the people who most need it? Sanjay Pradhan of the World Bank Institute lays out three guidelines to help relief efforts make the most impact -- while curbing corruption. One key: connecting the players who are working to change broken systems with the data they need.   " name="description" />
+<meta content="Sanjay Pradhan" name="author" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=ku" hreflang="ku" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;How open data is changing international aid&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a994993cb3b32f9c67b6578549015f392c163a7f_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a994993cb3b32f9c67b6578549015f392c163a7f_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: How do we make sure that development and aid money actually goes to the people who most need it? Sanjay Pradhan of the World Bank Institute lays out three guidelines to help relief efforts make the most impact -- while curbing corruption. One key: connecting the players who are working to change broken systems with the data they need.   " property="og:description" />
+<meta content="http://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1599?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='sanjay_pradhan_how_open_data_is_changing_international_aid'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='ku'>Kurdish</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1202910">Joseph Geni</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1599?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="866" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a994993cb3b32f9c67b6578549015f392c163a7f_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:26</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Sanjay Pradhan</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1599?language=en' lang='en'>
+How open data is changing international aid
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='402' id='t-402'>I grew up in Bihar, India's poorest state,</span>
+<span class='talk-transcript__fragment' data-time='5411' id='t-5411'>and I remember when I was six years old,</span>
+<span class='talk-transcript__fragment' data-time='8877' id='t-8877'>I remember coming home one day to find a cart</span>
+<span class='talk-transcript__fragment' data-time='12643' id='t-12643'>full of the most delicious sweets at our doorstep.</span>
+<span class='talk-transcript__fragment' data-time='17964' id='t-17964'>My brothers and I dug in,</span>
+<span class='talk-transcript__fragment' data-time='21453' id='t-21453'>and that's when my father came home.</span>
+<span class='talk-transcript__fragment' data-time='24741' id='t-24741'>He was livid, and I still remember how we cried</span>
+<span class='talk-transcript__fragment' data-time='30205' id='t-30205'>when that cart with our half-eaten sweets</span>
+<span class='talk-transcript__fragment' data-time='34269' id='t-34269'>was pulled away from us.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='37486' id='t-37486'>Later, I understood why my father got so upset.</span>
+<span class='talk-transcript__fragment' data-time='42287' id='t-42287'>Those sweets were a bribe</span>
+<span class='talk-transcript__fragment' data-time='45512' id='t-45512'>from a contractor who was trying to get my father</span>
+<span class='talk-transcript__fragment' data-time='49093' id='t-49093'>to award him a government contract.</span>
+<span class='talk-transcript__fragment' data-time='52556' id='t-52556'>My father was responsible for building roads in Bihar,</span>
+<span class='talk-transcript__fragment' data-time='57217' id='t-57217'>and he had developed a firm stance against corruption,</span>
+<span class='talk-transcript__fragment' data-time='61820' id='t-61820'>even though he was harassed and threatened.</span>
+<span class='talk-transcript__fragment' data-time='65868' id='t-65868'>His was a lonely struggle, because Bihar</span>
+<span class='talk-transcript__fragment' data-time='69236' id='t-69236'>was also India's most corrupt state,</span>
+<span class='talk-transcript__fragment' data-time='72973' id='t-72973'>where public officials were enriching themselves,</span>
+<span class='talk-transcript__fragment' data-time='76735' id='t-76735'>[rather] than serving the poor who had no means</span>
+<span class='talk-transcript__fragment' data-time='80828' id='t-80828'>to express their anguish if their children</span>
+<span class='talk-transcript__fragment' data-time='84774' id='t-84774'>had no food or no schooling.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='88607' id='t-88607'>And I experienced this most viscerally</span>
+<span class='talk-transcript__fragment' data-time='92964' id='t-92964'>when I traveled to remote villages to study poverty.</span>
+<span class='talk-transcript__fragment' data-time='99262' id='t-99262'>And as I went village to village,</span>
+<span class='talk-transcript__fragment' data-time='103079' id='t-103079'>I remember one day, when I was famished and exhausted,</span>
+<span class='talk-transcript__fragment' data-time='109591' id='t-109591'>and I was almost collapsing</span>
+<span class='talk-transcript__fragment' data-time='111910' id='t-111910'>in a scorching heat under a tree,</span>
+<span class='talk-transcript__fragment' data-time='114940' id='t-114940'>and just at that time, one of the poorest men in that village</span>
+<span class='talk-transcript__fragment' data-time='120999' id='t-120999'>invited me into his hut and graciously fed me.</span>
+<span class='talk-transcript__fragment' data-time='126915' id='t-126915'>Only I later realized that what he fed me</span>
+<span class='talk-transcript__fragment' data-time='131563' id='t-131563'>was food for his entire family for two days.</span>
+<span class='talk-transcript__fragment' data-time='137306' id='t-137306'>This profound gift of generosity</span>
+<span class='talk-transcript__fragment' data-time='141729' id='t-141729'>challenged and changed the very purpose of my life.</span>
+<span class='talk-transcript__fragment' data-time='147007' id='t-147007'>I resolved to give back.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='150779' id='t-150779'>Later, I joined the World Bank, which sought to fight</span>
+<span class='talk-transcript__fragment' data-time='155083' id='t-155083'>such poverty by transferring aid from rich to poor countries.</span>
+<span class='talk-transcript__fragment' data-time='160851' id='t-160851'>My initial work focused on Uganda, where I focused</span>
+<span class='talk-transcript__fragment' data-time='165883' id='t-165883'>on negotiating reforms with the Finance Ministry of Uganda</span>
+<span class='talk-transcript__fragment' data-time='170111' id='t-170111'>so they could access our loans.</span>
+<span class='talk-transcript__fragment' data-time='172940' id='t-172940'>But after we disbursed the loans, I remember</span>
+<span class='talk-transcript__fragment' data-time='176071' id='t-176071'>a trip in Uganda where I found newly built schools</span>
+<span class='talk-transcript__fragment' data-time='180789' id='t-180789'>without textbooks or teachers,</span>
+<span class='talk-transcript__fragment' data-time='183573' id='t-183573'>new health clinics without drugs,</span>
+<span class='talk-transcript__fragment' data-time='186493' id='t-186493'>and the poor once again without any voice or recourse.</span>
+<span class='talk-transcript__fragment' data-time='192276' id='t-192276'>It was Bihar all over again.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='195852' id='t-195852'>Bihar represents the challenge of development:</span>
+<span class='talk-transcript__fragment' data-time='199812' id='t-199812'>abject poverty surrounded by corruption.</span>
+<span class='talk-transcript__fragment' data-time='203723' id='t-203723'>Globally, 1.3 billion people live on less than</span>
+<span class='talk-transcript__fragment' data-time='207983' id='t-207983'>$1.25 a day, and the work I did in Uganda</span>
+<span class='talk-transcript__fragment' data-time='212692' id='t-212692'>represents the traditional approach to these problems</span>
+<span class='talk-transcript__fragment' data-time='217623' id='t-217623'>that has been practiced since 1944,</span>
+<span class='talk-transcript__fragment' data-time='221915' id='t-221915'>when winners of World War II, 500 founding fathers,</span>
+<span class='talk-transcript__fragment' data-time='227535' id='t-227535'>and one lonely founding mother,</span>
+<span class='talk-transcript__fragment' data-time='230971' id='t-230971'>gathered in New Hampshire, USA,</span>
+<span class='talk-transcript__fragment' data-time='233398' id='t-233398'>to establish the Bretton Woods institutions,</span>
+<span class='talk-transcript__fragment' data-time='236017' id='t-236017'>including the World Bank.</span>
+<span class='talk-transcript__fragment' data-time='237822' id='t-237822'>And that traditional approach to development</span>
+<span class='talk-transcript__fragment' data-time='241122' id='t-241122'>had three key elements. First, transfer of resources</span>
+<span class='talk-transcript__fragment' data-time='245058' id='t-245058'>from rich countries in the North</span>
+<span class='talk-transcript__fragment' data-time='247009' id='t-247009'>to poorer countries in the South,</span>
+<span class='talk-transcript__fragment' data-time='249506' id='t-249506'>accompanied by reform prescriptions.</span>
+<span class='talk-transcript__fragment' data-time='252399' id='t-252399'>Second, the development institutions that channeled</span>
+<span class='talk-transcript__fragment' data-time='255965' id='t-255965'>these transfers were opaque, with little transparency</span>
+<span class='talk-transcript__fragment' data-time='260727' id='t-260727'>of what they financed or what results they achieved.</span>
+<span class='talk-transcript__fragment' data-time='264527' id='t-264527'>And third, the engagement in developing countries</span>
+<span class='talk-transcript__fragment' data-time='268440' id='t-268440'>was with a narrow set of government elites</span>
+<span class='talk-transcript__fragment' data-time='271722' id='t-271722'>with little interaction with the citizens, who are</span>
+<span class='talk-transcript__fragment' data-time='275036' id='t-275036'>the ultimate beneficiaries of development assistance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='279321' id='t-279321'>Today, each of these elements is opening up</span>
+<span class='talk-transcript__fragment' data-time='283522' id='t-283522'>due to dramatic changes in the global environment.</span>
+<span class='talk-transcript__fragment' data-time='286882' id='t-286882'>Open knowledge, open aid, open governance,</span>
+<span class='talk-transcript__fragment' data-time='290577' id='t-290577'>and together, they represent three key shifts</span>
+<span class='talk-transcript__fragment' data-time='294322' id='t-294322'>that are transforming development</span>
+<span class='talk-transcript__fragment' data-time='297092' id='t-297092'>and that also hold greater hope for the problems</span>
+<span class='talk-transcript__fragment' data-time='300805' id='t-300805'>I witnessed in Uganda and in Bihar.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='305378' id='t-305378'>The first key shift is open knowledge.</span>
+<span class='talk-transcript__fragment' data-time='308344' id='t-308344'>You know, developing countries today will not simply</span>
+<span class='talk-transcript__fragment' data-time='311905' id='t-311905'>accept solutions that are handed down to them</span>
+<span class='talk-transcript__fragment' data-time='315502' id='t-315502'>by the U.S., Europe or the World Bank.</span>
+<span class='talk-transcript__fragment' data-time='319129' id='t-319129'>They get their inspiration, their hope,</span>
+<span class='talk-transcript__fragment' data-time='321964' id='t-321964'>their practical know-how,</span>
+<span class='talk-transcript__fragment' data-time='324364' id='t-324364'>from successful emerging economies in the South.</span>
+<span class='talk-transcript__fragment' data-time='327915' id='t-327915'>They want to know how China lifted 500 million people</span>
+<span class='talk-transcript__fragment' data-time='332595' id='t-332595'>out of poverty in 30 years,</span>
+<span class='talk-transcript__fragment' data-time='336258' id='t-336258'>how Mexico's Oportunidades program</span>
+<span class='talk-transcript__fragment' data-time='339204' id='t-339204'>improved schooling and nutrition for millions of children.</span>
+<span class='talk-transcript__fragment' data-time='343900' id='t-343900'>This is the new ecosystem of open-knowledge flows,</span>
+<span class='talk-transcript__fragment' data-time='349562' id='t-349562'>not just traveling North to South, but South to South,</span>
+<span class='talk-transcript__fragment' data-time='354495' id='t-354495'>and even South to North,</span>
+<span class='talk-transcript__fragment' data-time='356798' id='t-356798'>with Mexico's Oportunidades today inspiring New York City.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='362540' id='t-362540'>And just as these North-to-South transfers are opening up,</span>
+<span class='talk-transcript__fragment' data-time='366388' id='t-366388'>so too are the development institutions</span>
+<span class='talk-transcript__fragment' data-time='369228' id='t-369228'>that channeled these transfers.</span>
+<span class='talk-transcript__fragment' data-time='371755' id='t-371755'>This is the second shift: open aid.</span>
+<span class='talk-transcript__fragment' data-time='375624' id='t-375624'>Recently, the World Bank opened its vault of data</span>
+<span class='talk-transcript__fragment' data-time='379174' id='t-379174'>for public use, releasing 8,000 economic and social indicators</span>
+<span class='talk-transcript__fragment' data-time='384037' id='t-384037'>for 200 countries over 50 years,</span>
+<span class='talk-transcript__fragment' data-time='388406' id='t-388406'>and it launched a global competition to crowdsource</span>
+<span class='talk-transcript__fragment' data-time='392384' id='t-392384'>innovative apps using this data.</span>
+<span class='talk-transcript__fragment' data-time='396051' id='t-396051'>Development institutions today are also opening</span>
+<span class='talk-transcript__fragment' data-time='399224' id='t-399224'>for public scrutiny the projects they finance.</span>
+<span class='talk-transcript__fragment' data-time='403038' id='t-403038'>Take GeoMapping. In this map from Kenya,</span>
+<span class='talk-transcript__fragment' data-time='407303' id='t-407303'>the red dots show where all the schools financed by donors</span>
+<span class='talk-transcript__fragment' data-time='412022' id='t-412022'>are located, and the darker the shade of green,</span>
+<span class='talk-transcript__fragment' data-time='416014' id='t-416014'>the more the number of out-of-school children.</span>
+<span class='talk-transcript__fragment' data-time='419374' id='t-419374'>So this simple mashup reveals that donors</span>
+<span class='talk-transcript__fragment' data-time='423510' id='t-423510'>have not financed any schools in the areas</span>
+<span class='talk-transcript__fragment' data-time='426486' id='t-426486'>with the most out-of-school children,</span>
+<span class='talk-transcript__fragment' data-time='428594' id='t-428594'>provoking new questions. Is development assistance</span>
+<span class='talk-transcript__fragment' data-time='432686' id='t-432686'>targeting those who most need our help?</span>
+<span class='talk-transcript__fragment' data-time='437305' id='t-437305'>In this manner, the World Bank has now GeoMapped</span>
+<span class='talk-transcript__fragment' data-time='440207' id='t-440207'>30,000 project activities in 143 countries,</span>
+<span class='talk-transcript__fragment' data-time='445149' id='t-445149'>and donors are using a common platform</span>
+<span class='talk-transcript__fragment' data-time='448325' id='t-448325'>to map all their projects.</span>
+<span class='talk-transcript__fragment' data-time='451270' id='t-451270'>This is a tremendous leap forward in transparency</span>
+<span class='talk-transcript__fragment' data-time='456132' id='t-456132'>and accountability of aid.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='458974' id='t-458974'>And this leads me to the third, and in my view,</span>
+<span class='talk-transcript__fragment' data-time='461970' id='t-461970'>the most significant shift in development:</span>
+<span class='talk-transcript__fragment' data-time='465302' id='t-465302'>open governance. Governments today are opening up</span>
+<span class='talk-transcript__fragment' data-time='469517' id='t-469517'>just as citizens are demanding voice and accountability.</span>
+<span class='talk-transcript__fragment' data-time='473494' id='t-473494'>From the Arab Spring to the Anna Hazare movement in India,</span>
+<span class='talk-transcript__fragment' data-time='477524' id='t-477524'>using mobile phones and social media</span>
+<span class='talk-transcript__fragment' data-time='480258' id='t-480258'>not just for political accountability</span>
+<span class='talk-transcript__fragment' data-time='482872' id='t-482872'>but also for development accountability.</span>
+<span class='talk-transcript__fragment' data-time='487017' id='t-487017'>Are governments delivering services to the citizens?</span>
+<span class='talk-transcript__fragment' data-time='491489' id='t-491489'>So for instance, several governments in Africa</span>
+<span class='talk-transcript__fragment' data-time='495634' id='t-495634'>and Eastern Europe are opening their budgets to the public.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='500658' id='t-500658'>But, you know, there is a big difference between a budget</span>
+<span class='talk-transcript__fragment' data-time='504061' id='t-504061'>that's public and a budget that's accessible.</span>
+<span class='talk-transcript__fragment' data-time='508098' id='t-508098'>This is a public budget. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='513018' id='t-513018'>And as you can see, it's not really accessible</span>
+<span class='talk-transcript__fragment' data-time='516123' id='t-516123'>or understandable to an ordinary citizen</span>
+<span class='talk-transcript__fragment' data-time='518842' id='t-518842'>that is trying to understand how the government is spending its resources.</span>
+<span class='talk-transcript__fragment' data-time='523840' id='t-523840'>To tackle this problem, governments are using new tools</span>
+<span class='talk-transcript__fragment' data-time='527775' id='t-527775'>to visualize the budget so it's more understandable</span>
+<span class='talk-transcript__fragment' data-time='532458' id='t-532458'>to the public.</span>
+<span class='talk-transcript__fragment' data-time='534658' id='t-534658'>In this map from Moldova, the green color shows</span>
+<span class='talk-transcript__fragment' data-time='538592' id='t-538592'>those districts that have low spending on schools</span>
+<span class='talk-transcript__fragment' data-time='542680' id='t-542680'>but good educational outcomes,</span>
+<span class='talk-transcript__fragment' data-time='545000' id='t-545000'>and the red color shows the opposite.</span>
+<span class='talk-transcript__fragment' data-time='548249' id='t-548249'>Tools like this help turn a shelf full of inscrutable documents</span>
+<span class='talk-transcript__fragment' data-time='554776' id='t-554776'>into a publicly understandable visual,</span>
+<span class='talk-transcript__fragment' data-time='558530' id='t-558530'>and what's exciting is that with this openness,</span>
+<span class='talk-transcript__fragment' data-time='562296' id='t-562296'>there are today new opportunities for citizens</span>
+<span class='talk-transcript__fragment' data-time='566154' id='t-566154'>to give feedback and engage with government.</span>
+<span class='talk-transcript__fragment' data-time='569680' id='t-569680'>So in the Philippines today, parents and students</span>
+<span class='talk-transcript__fragment' data-time='574063' id='t-574063'>can give real-time feedback on a website,</span>
+<span class='talk-transcript__fragment' data-time='578210' id='t-578210'>Checkmyschool.org, or using SMS, whether teachers</span>
+<span class='talk-transcript__fragment' data-time='583302' id='t-583302'>and textbooks are showing up in school,</span>
+<span class='talk-transcript__fragment' data-time='586096' id='t-586096'>the same problems I witnessed in Uganda and in Bihar.</span>
+<span class='talk-transcript__fragment' data-time='590747' id='t-590747'>And the government is responsive. So for instance,</span>
+<span class='talk-transcript__fragment' data-time='593599' id='t-593599'>when it was reported on this website that 800 students</span>
+<span class='talk-transcript__fragment' data-time='598109' id='t-598109'>were at risk because school repairs had stalled</span>
+<span class='talk-transcript__fragment' data-time='602295' id='t-602295'>due to corruption, the Department of Education</span>
+<span class='talk-transcript__fragment' data-time='604886' id='t-604886'>in the Philippines took swift action.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='607840' id='t-607840'>And you know what's exciting is that this innovation</span>
+<span class='talk-transcript__fragment' data-time='611537' id='t-611537'>is now spreading South to South, from the Philippines</span>
+<span class='talk-transcript__fragment' data-time='616199' id='t-616199'>to Indonesia, Kenya, Moldova and beyond.</span>
+<span class='talk-transcript__fragment' data-time='620544' id='t-620544'>In Dar es Salaam, Tanzania, even an impoverished</span>
+<span class='talk-transcript__fragment' data-time='624803' id='t-624803'>community was able to use these tools</span>
+<span class='talk-transcript__fragment' data-time='628357' id='t-628357'>to voice its aspirations.</span>
+<span class='talk-transcript__fragment' data-time='631329' id='t-631329'>This is what the map of Tandale looked like</span>
+<span class='talk-transcript__fragment' data-time='634248' id='t-634248'>in August, 2011. But within a few weeks,</span>
+<span class='talk-transcript__fragment' data-time='638601' id='t-638601'>university students were able to use mobile phones</span>
+<span class='talk-transcript__fragment' data-time='643067' id='t-643067'>and an open-source platform to dramatically map</span>
+<span class='talk-transcript__fragment' data-time='647617' id='t-647617'>the entire community infrastructure.</span>
+<span class='talk-transcript__fragment' data-time='651104' id='t-651104'>And what is very exciting is that citizens were then</span>
+<span class='talk-transcript__fragment' data-time='655569' id='t-655569'>able to give feedback as to which health or water points</span>
+<span class='talk-transcript__fragment' data-time='660576' id='t-660576'>were not working, aggregated</span>
+<span class='talk-transcript__fragment' data-time='663450' id='t-663450'>in the red bubbles that you see,</span>
+<span class='talk-transcript__fragment' data-time='666050' id='t-666050'>which together provides a graphic visual</span>
+<span class='talk-transcript__fragment' data-time='670648' id='t-670648'>of the collective voices of the poor.</span>
+<span class='talk-transcript__fragment' data-time='675103' id='t-675103'>Today, even Bihar is turning around and opening up</span>
+<span class='talk-transcript__fragment' data-time='680713' id='t-680713'>under a committed leadership that is making government</span>
+<span class='talk-transcript__fragment' data-time='683585' id='t-683585'>transparent, accessible and responsive to the poor.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='688753' id='t-688753'>But, you know, in many parts of the world,</span>
+<span class='talk-transcript__fragment' data-time='692281' id='t-692281'>governments are not interested in opening up</span>
+<span class='talk-transcript__fragment' data-time='695259' id='t-695259'>or in serving the poor, and it is a real challenge</span>
+<span class='talk-transcript__fragment' data-time='700376' id='t-700376'>for those who want to change the system.</span>
+<span class='talk-transcript__fragment' data-time='704720' id='t-704720'>These are the lonely warriors</span>
+<span class='talk-transcript__fragment' data-time='708289' id='t-708289'>like my father and many, many others,</span>
+<span class='talk-transcript__fragment' data-time='711753' id='t-711753'>and a key frontier of development work</span>
+<span class='talk-transcript__fragment' data-time='714877' id='t-714877'>is to help these lonely warriors join hands</span>
+<span class='talk-transcript__fragment' data-time='720073' id='t-720073'>so they can together overcome the odds.</span>
+<span class='talk-transcript__fragment' data-time='723614' id='t-723614'>So for instance, today, in Ghana, courageous reformers</span>
+<span class='talk-transcript__fragment' data-time='728357' id='t-728357'>from civil society, Parliament and government,</span>
+<span class='talk-transcript__fragment' data-time='731557' id='t-731557'>have forged a coalition for transparent contracts</span>
+<span class='talk-transcript__fragment' data-time='735749' id='t-735749'>in the oil sector, and, galvanized by this,</span>
+<span class='talk-transcript__fragment' data-time='739805' id='t-739805'>reformers in Parliament are now investigating dubious contracts.</span>
+<span class='talk-transcript__fragment' data-time='745485' id='t-745485'>These examples give new hope, new possibility</span>
+<span class='talk-transcript__fragment' data-time='750413' id='t-750413'>to the problems I witnessed in Uganda</span>
+<span class='talk-transcript__fragment' data-time='753525' id='t-753525'>or that my father confronted in Bihar.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='758627' id='t-758627'>Two years ago, on April 8th, 2010, I called my father.</span>
+<span class='talk-transcript__fragment' data-time='765596' id='t-765596'>It was very late at night, and at age 80,</span>
+<span class='talk-transcript__fragment' data-time='770994' id='t-770994'>he was typing a 70-page public interest litigation</span>
+<span class='talk-transcript__fragment' data-time='775795' id='t-775795'>against corruption in a road project.</span>
+<span class='talk-transcript__fragment' data-time='779409' id='t-779409'>Though he was no lawyer, he argued the case in court</span>
+<span class='talk-transcript__fragment' data-time='784027' id='t-784027'>himself the next day. He won the ruling,</span>
+<span class='talk-transcript__fragment' data-time='788241' id='t-788241'>but later that very evening,</span>
+<span class='talk-transcript__fragment' data-time='790263' id='t-790263'>he fell, and he died.</span>
+<span class='talk-transcript__fragment' data-time='794857' id='t-794857'>He fought till the end, increasingly passionate</span>
+<span class='talk-transcript__fragment' data-time='799801' id='t-799801'>that to combat corruption and poverty,</span>
+<span class='talk-transcript__fragment' data-time='803746' id='t-803746'>not only did government officials need to be honest,</span>
+<span class='talk-transcript__fragment' data-time='807753' id='t-807753'>but citizens needed to join together</span>
+<span class='talk-transcript__fragment' data-time='811002' id='t-811002'>to make their voices heard.</span>
+<span class='talk-transcript__fragment' data-time='813897' id='t-813897'>These became the two bookends of his life,</span>
+<span class='talk-transcript__fragment' data-time='818758' id='t-818758'>and the journey he traveled in between</span>
+<span class='talk-transcript__fragment' data-time='821472' id='t-821472'>mirrored the changing development landscape.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='826257' id='t-826257'>Today, I'm inspired by these changes, and I'm excited</span>
+<span class='talk-transcript__fragment' data-time='831210' id='t-831210'>that at the World Bank, we are embracing</span>
+<span class='talk-transcript__fragment' data-time='834314' id='t-834314'>these new directions, a significant departure</span>
+<span class='talk-transcript__fragment' data-time='837403' id='t-837403'>from my work in Uganda 20 years ago.</span>
+<span class='talk-transcript__fragment' data-time='841281' id='t-841281'>We need to radically open up development</span>
+<span class='talk-transcript__fragment' data-time='844822' id='t-844822'>so knowledge flows in multiple directions,</span>
+<span class='talk-transcript__fragment' data-time='847626' id='t-847626'>inspiring practitioners, so aid becomes transparent,</span>
+<span class='talk-transcript__fragment' data-time='852417' id='t-852417'>accountable and effective, so governments open up</span>
+<span class='talk-transcript__fragment' data-time='856576' id='t-856576'>and citizens are engaged and empowered</span>
+<span class='talk-transcript__fragment' data-time='860522' id='t-860522'>with reformers in government.</span>
+<span class='talk-transcript__fragment' data-time='862181' id='t-862181'>We need to accelerate these shifts.</span>
+<span class='talk-transcript__fragment' data-time='865378' id='t-865378'>If we do, we will find that the collective voices</span>
+<span class='talk-transcript__fragment' data-time='870378' id='t-870378'>of the poor will be heard in Bihar,</span>
+<span class='talk-transcript__fragment' data-time='874768' id='t-874768'>in Uganda, and beyond.</span>
+<span class='talk-transcript__fragment' data-time='876990' id='t-876990'>We will find that textbooks and teachers</span>
+<span class='talk-transcript__fragment' data-time='881065' id='t-881065'>will show up in schools for their children.</span>
+<span class='talk-transcript__fragment' data-time='884102' id='t-884102'>We will find that these children, too,</span>
+<span class='talk-transcript__fragment' data-time='888185' id='t-888185'>have a real chance of breaking their way out of poverty.</span>
+<span class='talk-transcript__fragment' data-time='894303' id='t-894303'>Thank you. (Applause)</span>
+<span class='talk-transcript__fragment' data-time='897518' id='t-897518'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

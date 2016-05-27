@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Henry Evans and Chad Jenkins: Meet the robots for humanity | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Henry Evans and Chad Jenkins: Meet the robots for humanity | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Paralyzed by a stroke, Henry Evans uses a telepresence robot to take the stage -- and show how new robotics, tweaked and personalized by a group called Robots for Humanity, help him live his life. He shows off a nimble little quadrotor drone, created by a team led by Chad Jenkins, that gives him the ability to navigate space -- to once again look around a garden, stroll a campus …  (Filmed at TEDxMidAtlantic.)" name="description" />
+<meta content="Henry Evans and Chad Jenkins" name="author" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=bs" hreflang="bs" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;Meet the robots for humanity&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/606ddad42a977bc81fcc3f2ba033bc4706e584ca_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/606ddad42a977bc81fcc3f2ba033bc4706e584ca_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Paralyzed by a stroke, Henry Evans uses a telepresence robot to take the stage -- and show how new robotics, tweaked and personalized by a group called Robots for Humanity, help him live his life. He shows off a nimble little quadrotor drone, created by a team led by Chad Jenkins, that gives him the ability to navigate space -- to once again look around a garden, stroll a campus …  (Filmed at TEDxMidAtlantic.)" property="og:description" />
+<meta content="http://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1875?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='henry_evans_and_chad_jenkins_meet_the_robots_for_humanity'>
+<option value='ar'>Arabic</option>
+<option value='bs'>Bosnian</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1875?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="621" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/606ddad42a977bc81fcc3f2ba033bc4706e584ca_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:21</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Henry Evans and Chad Jenkins</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1875?language=en' lang='en'>
+Meet the robots for humanity
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2013
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='897' id='t-897'>Sarge Salman: All the way from
+Los Altos Hills, California,</span>
+<span class='talk-transcript__fragment' data-time='3293' id='t-3293'>Mr. Henry Evans.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='5354' id='t-5354'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='20477' id='t-20477'>Henry Evans: Hello.</span>
+<span class='talk-transcript__fragment' data-time='22105' id='t-22105'>My name is Henry Evans,</span>
+<span class='talk-transcript__fragment' data-time='23960' id='t-23960'>and until August 29, 2002,</span>
+<span class='talk-transcript__fragment' data-time='27551' id='t-27551'>I was living my version of the American dream.</span>
+<span class='talk-transcript__fragment' data-time='32575' id='t-32575'>I grew up in a typical American town near St. Louis.</span>
+<span class='talk-transcript__fragment' data-time='37073' id='t-37073'>My dad was a lawyer.</span>
+<span class='talk-transcript__fragment' data-time='38928' id='t-38928'>My mom was a homemaker.</span>
+<span class='talk-transcript__fragment' data-time='41917' id='t-41917'>My six siblings and I were good kids,</span>
+<span class='talk-transcript__fragment' data-time='44368' id='t-44368'>but caused our fair share of trouble.</span>
+<span class='talk-transcript__fragment' data-time='47860' id='t-47860'>After high school, I left home to study</span>
+<span class='talk-transcript__fragment' data-time='50250' id='t-50250'>and learn more about the world.</span>
+<span class='talk-transcript__fragment' data-time='53153' id='t-53153'>I went to Notre Dame University</span>
+<span class='talk-transcript__fragment' data-time='55810' id='t-55810'>and graduated with degrees
+in accounting and German,</span>
+<span class='talk-transcript__fragment' data-time='59356' id='t-59356'>including spending a year of study in Austria.</span>
+<span class='talk-transcript__fragment' data-time='62300' id='t-62300'>Later on, I earned an MBA at Stanford.</span>
+<span class='talk-transcript__fragment' data-time='67181' id='t-67181'>I married my high school sweetheart, Jane.</span>
+<span class='talk-transcript__fragment' data-time='71193' id='t-71193'>I am lucky to have her.</span>
+<span class='talk-transcript__fragment' data-time='73555' id='t-73555'>Together, we raised four wonderful children.</span>
+<span class='talk-transcript__fragment' data-time='78200' id='t-78200'>I worked and studied hard
+to move up the career ladder,</span>
+<span class='talk-transcript__fragment' data-time='81281' id='t-81281'>eventually becoming a chief financial officer</span>
+<span class='talk-transcript__fragment' data-time='83676' id='t-83676'>in Silicon Valley, a job I really enjoyed.</span>
+<span class='talk-transcript__fragment' data-time='88476' id='t-88476'>My family and I bought our first and only home</span>
+<span class='talk-transcript__fragment' data-time='91253' id='t-91253'>on December 13, 2001,</span>
+<span class='talk-transcript__fragment' data-time='95089' id='t-95089'>a fixer-upper in a beautiful spot</span>
+<span class='talk-transcript__fragment' data-time='97298' id='t-97298'>of Los Altos Hills, California,</span>
+<span class='talk-transcript__fragment' data-time='99738' id='t-99738'>from where I am speaking to you now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='102974' id='t-102974'>We were looking forward to rebuilding it,</span>
+<span class='talk-transcript__fragment' data-time='105584' id='t-105584'>but eight months after we moved in,</span>
+<span class='talk-transcript__fragment' data-time='107819' id='t-107819'>I suffered a stroke-like attack
+caused by a birth defect.</span>
+<span class='talk-transcript__fragment' data-time='112211' id='t-112211'>Overnight, I became a mute quadriplegic</span>
+<span class='talk-transcript__fragment' data-time='117150' id='t-117150'>at the ripe old age of 40.</span>
+<span class='talk-transcript__fragment' data-time='120493' id='t-120493'>It took me several years,</span>
+<span class='talk-transcript__fragment' data-time='122646' id='t-122646'>but with the help of an incredibly supportive family,</span>
+<span class='talk-transcript__fragment' data-time='126215' id='t-126215'>I finally decided life was still worth living.</span>
+<span class='talk-transcript__fragment' data-time='131074' id='t-131074'>I became fascinated with using technology</span>
+<span class='talk-transcript__fragment' data-time='133619' id='t-133619'>to help the severely disabled.</span>
+<span class='talk-transcript__fragment' data-time='138043' id='t-138043'>Head tracking devices sold commercially</span>
+<span class='talk-transcript__fragment' data-time='140565' id='t-140565'>by the company Madentec</span>
+<span class='talk-transcript__fragment' data-time='143316' id='t-143316'>convert my tiny head movements
+into cursor movements,</span>
+<span class='talk-transcript__fragment' data-time='147174' id='t-147174'>and enable my use of a regular computer.</span>
+<span class='talk-transcript__fragment' data-time='151460' id='t-151460'>I can surf the web, exchange email with people,</span>
+<span class='talk-transcript__fragment' data-time='154719' id='t-154719'>and routinely destroy my friend Steve Cousins</span>
+<span class='talk-transcript__fragment' data-time='157647' id='t-157647'>in online word games.</span>
+<span class='talk-transcript__fragment' data-time='159764' id='t-159764'>This technology allows me to remain engaged,</span>
+<span class='talk-transcript__fragment' data-time='162650' id='t-162650'>mentally active,</span>
+<span class='talk-transcript__fragment' data-time='164003' id='t-164003'>and feel like I am a part of the world.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='167754' id='t-167754'>One day, I was lying in bed watching CNN,</span>
+<span class='talk-transcript__fragment' data-time='171059' id='t-171059'>when I was amazed by Professor Charlie Kemp</span>
+<span class='talk-transcript__fragment' data-time='173645' id='t-173645'>of the Healthcare Robotics Lab at Georgia Tech</span>
+<span class='talk-transcript__fragment' data-time='176396' id='t-176396'>demonstrating a PR2 robot.</span>
+<span class='talk-transcript__fragment' data-time='179240' id='t-179240'>I emailed Charlie and
+Steve Cousins of Willow Garage,</span>
+<span class='talk-transcript__fragment' data-time='183287' id='t-183287'>and we formed the Robots for Humanity project.</span>
+<span class='talk-transcript__fragment' data-time='188139' id='t-188139'>For about two years, Robots for Humanity</span>
+<span class='talk-transcript__fragment' data-time='191040' id='t-191040'>developed ways for me to use the PR2</span>
+<span class='talk-transcript__fragment' data-time='193421' id='t-193421'>as my body surrogate.</span>
+<span class='talk-transcript__fragment' data-time='196801' id='t-196801'>I shaved myself for the first time in 10 years.</span>
+<span class='talk-transcript__fragment' data-time='201894' id='t-201894'>From my home in California,</span>
+<span class='talk-transcript__fragment' data-time='203668' id='t-203668'>I shaved Charlie in Atlanta. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='207647' id='t-207647'>I handed out Halloween candy.</span>
+<span class='talk-transcript__fragment' data-time='212064' id='t-212064'>I opened my refrigerator on my own.</span>
+<span class='talk-transcript__fragment' data-time='218091' id='t-218091'>I began doing tasks around the house.</span>
+<span class='talk-transcript__fragment' data-time='222163' id='t-222163'>I saw new and previously unthinkable possibilities</span>
+<span class='talk-transcript__fragment' data-time='225731' id='t-225731'>to live and contribute,</span>
+<span class='talk-transcript__fragment' data-time='228396' id='t-228396'>both for myself and others in my circumstance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='233022' id='t-233022'>All of us have disabilities in one form or another.</span>
+<span class='talk-transcript__fragment' data-time='237630' id='t-237630'>For example, if either of us
+wants to go 60 miles an hour,</span>
+<span class='talk-transcript__fragment' data-time='243056' id='t-243056'>both of us will need an assistive device called a car.</span>
+<span class='talk-transcript__fragment' data-time='248400' id='t-248400'>Your disability doesn't make you
+any less of a person,</span>
+<span class='talk-transcript__fragment' data-time='251716' id='t-251716'>and neither does mine.</span>
+<span class='talk-transcript__fragment' data-time='254140' id='t-254140'>By the way, check out my sweet ride. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='258913' id='t-258913'>Since birth, we have both suffered from the inability</span>
+<span class='talk-transcript__fragment' data-time='261810' id='t-261810'>to fly on our own.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='264754' id='t-264754'>Last year, Kaijen Hsiao of Willow Garage</span>
+<span class='talk-transcript__fragment' data-time='268864' id='t-268864'>connected with me Chad Jenkins.</span>
+<span class='talk-transcript__fragment' data-time='271436' id='t-271436'>Chad showed me how easy it is</span>
+<span class='talk-transcript__fragment' data-time='273909' id='t-273909'>to purchase and fly aerial drones.</span>
+<span class='talk-transcript__fragment' data-time='277565' id='t-277565'>It was then I realized that I could also use</span>
+<span class='talk-transcript__fragment' data-time='280153' id='t-280153'>an aerial drone to expand the worlds</span>
+<span class='talk-transcript__fragment' data-time='282381' id='t-282381'>of bedridden people through flight,</span>
+<span class='talk-transcript__fragment' data-time='285519' id='t-285519'>giving a sense of movement and control</span>
+<span class='talk-transcript__fragment' data-time='288442' id='t-288442'>that is incredible.</span>
+<span class='talk-transcript__fragment' data-time='291519' id='t-291519'>Using a mouse cursor I control with my head,</span>
+<span class='talk-transcript__fragment' data-time='294396' id='t-294396'>these web interfaces allow me</span>
+<span class='talk-transcript__fragment' data-time='296285' id='t-296285'>to see video from the robot</span>
+<span class='talk-transcript__fragment' data-time='297895' id='t-297895'>and send control commands</span>
+<span class='talk-transcript__fragment' data-time='299528' id='t-299528'>by pressing buttons in a web browser.</span>
+<span class='talk-transcript__fragment' data-time='303255' id='t-303255'>With a little practice, I became
+good enough with this interface</span>
+<span class='talk-transcript__fragment' data-time='307164' id='t-307164'>to drive around my home on my own.</span>
+<span class='talk-transcript__fragment' data-time='313884' id='t-313884'>I could look around our garden</span>
+<span class='talk-transcript__fragment' data-time='316592' id='t-316592'>and see the grapes we are growing.</span>
+<span class='talk-transcript__fragment' data-time='320702' id='t-320702'>I inspected the solar panels on our roof. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='326722' id='t-326722'>One of my challenges as a pilot is to land the drone</span>
+<span class='talk-transcript__fragment' data-time='329721' id='t-329721'>on our basketball hoop.</span>
+<span class='talk-transcript__fragment' data-time='335257' id='t-335257'>I went even further by seeing if I could use</span>
+<span class='talk-transcript__fragment' data-time='337688' id='t-337688'>a head-mounted display, the Oculus Rift,</span>
+<span class='talk-transcript__fragment' data-time='340711' id='t-340711'>as modified by Fighting Walrus,</span>
+<span class='talk-transcript__fragment' data-time='342759' id='t-342759'>to have an immersive experience</span>
+<span class='talk-transcript__fragment' data-time='344406' id='t-344406'>controlling the drone.</span>
+<span class='talk-transcript__fragment' data-time='348361' id='t-348361'>With Chad's group at Brown,</span>
+<span class='talk-transcript__fragment' data-time='350288' id='t-350288'>I regularly fly drones around his lab</span>
+<span class='talk-transcript__fragment' data-time='352768' id='t-352768'>several times a week,
+from my home 3,000 miles away.</span>
+<span class='talk-transcript__fragment' data-time='358517' id='t-358517'>All work and no fun makes for a dull quadriplegic,</span>
+<span class='talk-transcript__fragment' data-time='362042' id='t-362042'>so we also find time to play friendly games</span>
+<span class='talk-transcript__fragment' data-time='365072' id='t-365072'>of robot soccer. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='368789' id='t-368789'>I never thought I would be able to casually</span>
+<span class='talk-transcript__fragment' data-time='371179' id='t-371179'>move around a campus like Brown on my own.</span>
+<span class='talk-transcript__fragment' data-time='376151' id='t-376151'>I just wish I could afford the tuition. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='384505' id='t-384505'>Chad Jenkins: Henry, all joking aside,</span>
+<span class='talk-transcript__fragment' data-time='386953' id='t-386953'>I bet all of these people here</span>
+<span class='talk-transcript__fragment' data-time='389142' id='t-389142'>would love to see you fly this drone</span>
+<span class='talk-transcript__fragment' data-time='391348' id='t-391348'>from your bed in California 3,000 miles away.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='394513' id='t-394513'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='405540' id='t-405540'>Okay, Henry, have you been to D.C. lately?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='409330' id='t-409330'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='412838' id='t-412838'>Are you excited to be at TEDxMidAtlantic?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='416347' id='t-416347'>(Laughter) (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='423901' id='t-423901'>Can you show us how excited you are?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='426831' id='t-426831'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='431113' id='t-431113'>All right, big finish.</span>
+<span class='talk-transcript__fragment' data-time='432764' id='t-432764'>Can you show us how good of a pilot you are?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='437818' id='t-437818'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='442468' id='t-442468'>All right, we still have a little ways to go with that,</span>
+<span class='talk-transcript__fragment' data-time='444954' id='t-444954'>but I think it shows the promise.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='447466' id='t-447466'>What makes Henry's story amazing</span>
+<span class='talk-transcript__fragment' data-time='450102' id='t-450102'>is it's about understanding Henry's needs,</span>
+<span class='talk-transcript__fragment' data-time='453230' id='t-453230'>understanding what people in Henry's situation</span>
+<span class='talk-transcript__fragment' data-time='456224' id='t-456224'>need from technology,</span>
+<span class='talk-transcript__fragment' data-time='458133' id='t-458133'>and then also understanding</span>
+<span class='talk-transcript__fragment' data-time='459790' id='t-459790'>what advanced technology can provide,</span>
+<span class='talk-transcript__fragment' data-time='462168' id='t-462168'>and then bringing those two things together</span>
+<span class='talk-transcript__fragment' data-time='464241' id='t-464241'>for use in a wise and responsible way.</span>
+<span class='talk-transcript__fragment' data-time='467483' id='t-467483'>What we're trying to do is democratize robotics,</span>
+<span class='talk-transcript__fragment' data-time='469593' id='t-469593'>so that anybody can be a part of this.</span>
+<span class='talk-transcript__fragment' data-time='471494' id='t-471494'>We're providing affordable,
+off-the-shelf robot platforms</span>
+<span class='talk-transcript__fragment' data-time='474490' id='t-474490'>such as the A.R. drone, 300 dollars,</span>
+<span class='talk-transcript__fragment' data-time='477030' id='t-477030'>the Suitable Technologies beam,
+only 17,000 dollars,</span>
+<span class='talk-transcript__fragment' data-time='481618' id='t-481618'>along with open-source robotics software</span>
+<span class='talk-transcript__fragment' data-time='483978' id='t-483978'>so that you can be a part of what we're trying to do.</span>
+<span class='talk-transcript__fragment' data-time='486155' id='t-486155'>And our hope is that, by providing these tools,</span>
+<span class='talk-transcript__fragment' data-time='489039' id='t-489039'>that you'll be able to think of better ways</span>
+<span class='talk-transcript__fragment' data-time='490687' id='t-490687'>to provide movement for the disabled,</span>
+<span class='talk-transcript__fragment' data-time='492588' id='t-492588'>to provide care for our aging population,</span>
+<span class='talk-transcript__fragment' data-time='495310' id='t-495310'>to help better educate our children,</span>
+<span class='talk-transcript__fragment' data-time='497294' id='t-497294'>to think about what the new types</span>
+<span class='talk-transcript__fragment' data-time='499608' id='t-499608'>of middle class jobs could be for the future,</span>
+<span class='talk-transcript__fragment' data-time='502200' id='t-502200'>to both monitor and protect our environment,</span>
+<span class='talk-transcript__fragment' data-time='504803' id='t-504803'>and to explore the universe.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='506882' id='t-506882'>Back to you, Henry.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='510813' id='t-510813'>HE: Thank you, Chad.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='513599' id='t-513599'>With this drone setup, we show the potential</span>
+<span class='talk-transcript__fragment' data-time='516421' id='t-516421'>for bedridden people to once again be able</span>
+<span class='talk-transcript__fragment' data-time='518887' id='t-518887'>to explore the outside world,</span>
+<span class='talk-transcript__fragment' data-time='521558' id='t-521558'>and robotics will eventually provide</span>
+<span class='talk-transcript__fragment' data-time='523935' id='t-523935'>a level playing field</span>
+<span class='talk-transcript__fragment' data-time='525278' id='t-525278'>where one is only limited by their mental acuity</span>
+<span class='talk-transcript__fragment' data-time='527981' id='t-527981'>and imagination,</span>
+<span class='talk-transcript__fragment' data-time='530226' id='t-530226'>where the disabled are able to perform</span>
+<span class='talk-transcript__fragment' data-time='532385' id='t-532385'>the same activities as everyone else,</span>
+<span class='talk-transcript__fragment' data-time='535080' id='t-535080'>and perhaps better,</span>
+<span class='talk-transcript__fragment' data-time='537982' id='t-537982'>and technology will even allow us to provide</span>
+<span class='talk-transcript__fragment' data-time='540622' id='t-540622'>an outlet for many people who are presently</span>
+<span class='talk-transcript__fragment' data-time='542783' id='t-542783'>considered vegetables.</span>
+<span class='talk-transcript__fragment' data-time='545211' id='t-545211'>One hundred years ago,</span>
+<span class='talk-transcript__fragment' data-time='547218' id='t-547218'>I would have been treated like a vegetable.</span>
+<span class='talk-transcript__fragment' data-time='550569' id='t-550569'>Actually, that's not true.</span>
+<span class='talk-transcript__fragment' data-time='552999' id='t-552999'>I would have died.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='555194' id='t-555194'>It is up to us, all of us, to decide how</span>
+<span class='talk-transcript__fragment' data-time='558016' id='t-558016'>robotics will be used, for good or for evil,</span>
+<span class='talk-transcript__fragment' data-time='561381' id='t-561381'>for simply replacing people</span>
+<span class='talk-transcript__fragment' data-time='563006' id='t-563006'>or for making people better,</span>
+<span class='talk-transcript__fragment' data-time='564643' id='t-564643'>for allowing us to do and enjoy more.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='568583' id='t-568583'>Our goal for robotics is to
+unlock everyone's mental power</span>
+<span class='talk-transcript__fragment' data-time='572209' id='t-572209'>by making the world more physically accessible</span>
+<span class='talk-transcript__fragment' data-time='574878' id='t-574878'>to people such as myself and others like me</span>
+<span class='talk-transcript__fragment' data-time='577421' id='t-577421'>around the globe.</span>
+<span class='talk-transcript__fragment' data-time='579603' id='t-579603'>With the help of people like you,</span>
+<span class='talk-transcript__fragment' data-time='581486' id='t-581486'>we can make this dream a reality.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='584626' id='t-584626'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='587307' id='t-587307'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

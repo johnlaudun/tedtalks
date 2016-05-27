@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Ron Eglash: The fractals at the heart of African designs | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Ron Eglash: The fractals at the heart of African designs | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: &#39;I am a mathematician, and I would like to stand on your roof.&#39; That is how Ron Eglash greeted many African families he met while researching the fractal patterns he’d noticed in villages across the continent." name="description" />
+<meta content="Ron Eglash" name="author" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=da" hreflang="da" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;The fractals at the heart of African designs&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/989c14d1c30d89f74f42a8dacba9d471f0472065_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/989c14d1c30d89f74f42a8dacba9d471f0472065_1600x1200.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: &#39;I am a mathematician, and I would like to stand on your roof.&#39; That is how Ron Eglash greeted many African families he met while researching the fractal patterns he’d noticed in villages across the continent." property="og:description" />
+<meta content="http://www.ted.com/talks/ron_eglash_on_african_fractals/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/198?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='ron_eglash_on_african_fractals'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='da'>Danish</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/198?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1017" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/989c14d1c30d89f74f42a8dacba9d471f0472065_1600x1200.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:57</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Ron Eglash</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/198?language=en' lang='en'>
+The fractals at the heart of African designs
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2007
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Jaw-dropping
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1000' id='t-1000'>I want to start my story in Germany, in 1877,</span>
+<span class='talk-transcript__fragment' data-time='4000' id='t-4000'>with a mathematician named Georg Cantor.</span>
+<span class='talk-transcript__fragment' data-time='6000' id='t-6000'>And Cantor decided he was going to take a line and erase the middle third of the line,</span>
+<span class='talk-transcript__fragment' data-time='11000' id='t-11000'>and then take those two resulting lines and bring them back into the same process, a recursive process.</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>So he starts out with one line, and then two,</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>and then four, and then 16, and so on.</span>
+<span class='talk-transcript__fragment' data-time='21000' id='t-21000'>And if he does this an infinite number of times, which you can do in mathematics,</span>
+<span class='talk-transcript__fragment' data-time='24000' id='t-24000'>he ends up with an infinite number of lines,</span>
+<span class='talk-transcript__fragment' data-time='26000' id='t-26000'>each of which has an infinite number of points in it.</span>
+<span class='talk-transcript__fragment' data-time='29000' id='t-29000'>So he realized he had a set whose number of elements was larger than infinity.</span>
+<span class='talk-transcript__fragment' data-time='33000' id='t-33000'>And this blew his mind. Literally. He checked into a sanitarium. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>And when he came out of the sanitarium,</span>
+<span class='talk-transcript__fragment' data-time='38000' id='t-38000'>he was convinced that he had been put on earth to found transfinite set theory</span>
+<span class='talk-transcript__fragment' data-time='44000' id='t-44000'>because the largest set of infinity would be God Himself.</span>
+<span class='talk-transcript__fragment' data-time='47000' id='t-47000'>He was a very religious man.</span>
+<span class='talk-transcript__fragment' data-time='48000' id='t-48000'>He was a mathematician on a mission.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='50000' id='t-50000'>And other mathematicians did the same sort of thing.</span>
+<span class='talk-transcript__fragment' data-time='52000' id='t-52000'>A Swedish mathematician, von Koch,</span>
+<span class='talk-transcript__fragment' data-time='54000' id='t-54000'>decided that instead of subtracting lines, he would add them.</span>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>And so he came up with this beautiful curve.</span>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>And there's no particular reason why we have to start with this seed shape;</span>
+<span class='talk-transcript__fragment' data-time='63000' id='t-63000'>we can use any seed shape we like.</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>And I'll rearrange this and I'll stick this somewhere -- down there, OK --</span>
+<span class='talk-transcript__fragment' data-time='71000' id='t-71000'>and now upon iteration, that seed shape sort of unfolds into a very different looking structure.</span>
+<span class='talk-transcript__fragment' data-time='78000' id='t-78000'>So these all have the property of self-similarity:</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>the part looks like the whole.</span>
+<span class='talk-transcript__fragment' data-time='82000' id='t-82000'>It's the same pattern at many different scales.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='85000' id='t-85000'>Now, mathematicians thought this was very strange</span>
+<span class='talk-transcript__fragment' data-time='87000' id='t-87000'>because as you shrink a ruler down, you measure a longer and longer length.</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>And since they went through the iterations an infinite number of times,</span>
+<span class='talk-transcript__fragment' data-time='94000' id='t-94000'>as the ruler shrinks down to infinity, the length goes to infinity.</span>
+<span class='talk-transcript__fragment' data-time='100000' id='t-100000'>This made no sense at all,</span>
+<span class='talk-transcript__fragment' data-time='101000' id='t-101000'>so they consigned these curves to the back of the math books.</span>
+<span class='talk-transcript__fragment' data-time='104000' id='t-104000'>They said these are pathological curves, and we don't have to discuss them.</span>
+<span class='talk-transcript__fragment' data-time='108000' id='t-108000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='109000' id='t-109000'>And that worked for a hundred years.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='112000' id='t-112000'>And then in 1977, Benoit Mandelbrot, a French mathematician,</span>
+<span class='talk-transcript__fragment' data-time='117000' id='t-117000'>realized that if you do computer graphics and used these shapes he called fractals,</span>
+<span class='talk-transcript__fragment' data-time='122000' id='t-122000'>you get the shapes of nature.</span>
+<span class='talk-transcript__fragment' data-time='124000' id='t-124000'>You get the human lungs, you get acacia trees, you get ferns,</span>
+<span class='talk-transcript__fragment' data-time='128000' id='t-128000'>you get these beautiful natural forms.</span>
+<span class='talk-transcript__fragment' data-time='130000' id='t-130000'>If you take your thumb and your index finger and look right where they meet --</span>
+<span class='talk-transcript__fragment' data-time='134000' id='t-134000'>go ahead and do that now --</span>
+<span class='talk-transcript__fragment' data-time='136000' id='t-136000'>-- and relax your hand, you'll see a crinkle,</span>
+<span class='talk-transcript__fragment' data-time='139000' id='t-139000'>and then a wrinkle within the crinkle, and a crinkle within the wrinkle. Right?</span>
+<span class='talk-transcript__fragment' data-time='142000' id='t-142000'>Your body is covered with fractals.</span>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>The mathematicians who were saying these were pathologically useless shapes?</span>
+<span class='talk-transcript__fragment' data-time='147000' id='t-147000'>They were breathing those words with fractal lungs.</span>
+<span class='talk-transcript__fragment' data-time='149000' id='t-149000'>It's very ironic. And I'll show you a little natural recursion here.</span>
+<span class='talk-transcript__fragment' data-time='153000' id='t-153000'>Again, we just take these lines and recursively replace them with the whole shape.</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>So here's the second iteration, and the third, fourth and so on.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='163000' id='t-163000'>So nature has this self-similar structure.</span>
+<span class='talk-transcript__fragment' data-time='165000' id='t-165000'>Nature uses self-organizing systems.</span>
+<span class='talk-transcript__fragment' data-time='167000' id='t-167000'>Now in the 1980s, I happened to notice</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>that if you look at an aerial photograph of an African village, you see fractals.</span>
+<span class='talk-transcript__fragment' data-time='174000' id='t-174000'>And I thought, &quot;This is fabulous! I wonder why?&quot;</span>
+<span class='talk-transcript__fragment' data-time='178000' id='t-178000'>And of course I had to go to Africa and ask folks why.</span>
+<span class='talk-transcript__fragment' data-time='180000' id='t-180000'>So I got a Fulbright scholarship to just travel around Africa for a year</span>
+<span class='talk-transcript__fragment' data-time='186000' id='t-186000'>asking people why they were building fractals,</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>which is a great job if you can get it.</span>
+<span class='talk-transcript__fragment' data-time='190000' id='t-190000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='191000' id='t-191000'>And so I finally got to this city, and I'd done a little fractal model for the city</span>
+<span class='talk-transcript__fragment' data-time='198000' id='t-198000'>just to see how it would sort of unfold --</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>but when I got there, I got to the palace of the chief,</span>
+<span class='talk-transcript__fragment' data-time='204000' id='t-204000'>and my French is not very good; I said something like,</span>
+<span class='talk-transcript__fragment' data-time='207000' id='t-207000'>&quot;I am a mathematician and I would like to stand on your roof.&quot;</span>
+<span class='talk-transcript__fragment' data-time='210000' id='t-210000'>But he was really cool about it, and he took me up there,</span>
+<span class='talk-transcript__fragment' data-time='213000' id='t-213000'>and we talked about fractals.</span>
+<span class='talk-transcript__fragment' data-time='214000' id='t-214000'>And he said, &quot;Oh yeah, yeah! We knew about a rectangle within a rectangle,</span>
+<span class='talk-transcript__fragment' data-time='217000' id='t-217000'>we know all about that.&quot;</span>
+<span class='talk-transcript__fragment' data-time='219000' id='t-219000'>And it turns out the royal insignia has a rectangle within a rectangle within a rectangle,</span>
+<span class='talk-transcript__fragment' data-time='223000' id='t-223000'>and the path through that palace is actually this spiral here.</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>And as you go through the path, you have to get more and more polite.</span>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>So they're mapping the social scaling onto the geometric scaling;</span>
+<span class='talk-transcript__fragment' data-time='234000' id='t-234000'>it's a conscious pattern. It is not unconscious like a termite mound fractal.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='239000' id='t-239000'>This is a village in southern Zambia.</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>The Ba-ila built this village about 400 meters in diameter.</span>
+<span class='talk-transcript__fragment' data-time='245000' id='t-245000'>You have a huge ring.</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>The rings that represent the family enclosures get larger and larger as you go towards the back,</span>
+<span class='talk-transcript__fragment' data-time='254000' id='t-254000'>and then you have the chief's ring here towards the back</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>and then the chief's immediate family in that ring.</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>So here's a little fractal model for it.</span>
+<span class='talk-transcript__fragment' data-time='262000' id='t-262000'>Here's one house with the sacred altar,</span>
+<span class='talk-transcript__fragment' data-time='265000' id='t-265000'>here's the house of houses, the family enclosure,</span>
+<span class='talk-transcript__fragment' data-time='268000' id='t-268000'>with the humans here where the sacred altar would be,</span>
+<span class='talk-transcript__fragment' data-time='271000' id='t-271000'>and then here's the village as a whole --</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>a ring of ring of rings with the chief's extended family here, the chief's immediate family here,</span>
+<span class='talk-transcript__fragment' data-time='278000' id='t-278000'>and here there's a tiny village only this big.</span>
+<span class='talk-transcript__fragment' data-time='281000' id='t-281000'>Now you might wonder, how can people fit in a tiny village only this big?</span>
+<span class='talk-transcript__fragment' data-time='285000' id='t-285000'>That's because they're spirit people. It's the ancestors.</span>
+<span class='talk-transcript__fragment' data-time='288000' id='t-288000'>And of course the spirit people have a little miniature village in their village, right?</span>
+<span class='talk-transcript__fragment' data-time='293000' id='t-293000'>So it's just like Georg Cantor said, the recursion continues forever.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='296000' id='t-296000'>This is in the Mandara mountains, near the Nigerian border in Cameroon, Mokoulek.</span>
+<span class='talk-transcript__fragment' data-time='300000' id='t-300000'>I saw this diagram drawn by a French architect,</span>
+<span class='talk-transcript__fragment' data-time='303000' id='t-303000'>and I thought, &quot;Wow! What a beautiful fractal!&quot;</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>So I tried to come up with a seed shape, which, upon iteration, would unfold into this thing.</span>
+<span class='talk-transcript__fragment' data-time='311000' id='t-311000'>I came up with this structure here.</span>
+<span class='talk-transcript__fragment' data-time='313000' id='t-313000'>Let's see, first iteration, second, third, fourth.</span>
+<span class='talk-transcript__fragment' data-time='317000' id='t-317000'>Now, after I did the simulation,</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>I realized the whole village kind of spirals around, just like this,</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>and here's that replicating line -- a self-replicating line that unfolds into the fractal.</span>
+<span class='talk-transcript__fragment' data-time='328000' id='t-328000'>Well, I noticed that line is about where the only square building in the village is at.</span>
+<span class='talk-transcript__fragment' data-time='333000' id='t-333000'>So, when I got to the village,</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>I said, &quot;Can you take me to the square building?</span>
+<span class='talk-transcript__fragment' data-time='337000' id='t-337000'>I think something's going on there.&quot;</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>And they said, &quot;Well, we can take you there, but you can't go inside</span>
+<span class='talk-transcript__fragment' data-time='342000' id='t-342000'>because that's the sacred altar, where we do sacrifices every year</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>to keep up those annual cycles of fertility for the fields.&quot;</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>And I started to realize that the cycles of fertility</span>
+<span class='talk-transcript__fragment' data-time='350000' id='t-350000'>were just like the recursive cycles in the geometric algorithm that builds this.</span>
+<span class='talk-transcript__fragment' data-time='354000' id='t-354000'>And the recursion in some of these villages continues down into very tiny scales.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='358000' id='t-358000'>So here's a Nankani village in Mali.</span>
+<span class='talk-transcript__fragment' data-time='360000' id='t-360000'>And you can see, you go inside the family enclosure --</span>
+<span class='talk-transcript__fragment' data-time='363000' id='t-363000'>you go inside and here's pots in the fireplace, stacked recursively.</span>
+<span class='talk-transcript__fragment' data-time='367000' id='t-367000'>Here's calabashes that Issa was just showing us,</span>
+<span class='talk-transcript__fragment' data-time='371000' id='t-371000'>and they're stacked recursively.</span>
+<span class='talk-transcript__fragment' data-time='373000' id='t-373000'>Now, the tiniest calabash in here keeps the woman's soul.</span>
+<span class='talk-transcript__fragment' data-time='375000' id='t-375000'>And when she dies, they have a ceremony</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>where they break this stack called the zalanga and her soul goes off to eternity.</span>
+<span class='talk-transcript__fragment' data-time='382000' id='t-382000'>Once again, infinity is important.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='386000' id='t-386000'>Now, you might ask yourself three questions at this point.</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>Aren't these scaling patterns just universal to all indigenous architecture?</span>
+<span class='talk-transcript__fragment' data-time='394000' id='t-394000'>And that was actually my original hypothesis.</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>When I first saw those African fractals,</span>
+<span class='talk-transcript__fragment' data-time='398000' id='t-398000'>I thought, &quot;Wow, so any indigenous group that doesn't have a state society,</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>that sort of hierarchy, must have a kind of bottom-up architecture.&quot;</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>But that turns out not to be true.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='407000' id='t-407000'>I started collecting aerial photographs of Native American and South Pacific architecture;</span>
+<span class='talk-transcript__fragment' data-time='411000' id='t-411000'>only the African ones were fractal.</span>
+<span class='talk-transcript__fragment' data-time='413000' id='t-413000'>And if you think about it, all these different societies have different geometric design themes that they use.</span>
+<span class='talk-transcript__fragment' data-time='419000' id='t-419000'>So Native Americans use a combination of circular symmetry and fourfold symmetry.</span>
+<span class='talk-transcript__fragment' data-time='425000' id='t-425000'>You can see on the pottery and the baskets.</span>
+<span class='talk-transcript__fragment' data-time='427000' id='t-427000'>Here's an aerial photograph of one of the Anasazi ruins;</span>
+<span class='talk-transcript__fragment' data-time='430000' id='t-430000'>you can see it's circular at the largest scale, but it's rectangular at the smaller scale, right?</span>
+<span class='talk-transcript__fragment' data-time='435000' id='t-435000'>It is not the same pattern at two different scales.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='439000' id='t-439000'>Second, you might ask,</span>
+<span class='talk-transcript__fragment' data-time='440000' id='t-440000'>&quot;Well, Dr. Eglash, aren't you ignoring the diversity of African cultures?&quot;</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>And three times, the answer is no.</span>
+<span class='talk-transcript__fragment' data-time='446000' id='t-446000'>First of all, I agree with Mudimbe's wonderful book, &quot;The Invention of Africa,&quot;</span>
+<span class='talk-transcript__fragment' data-time='450000' id='t-450000'>that Africa is an artificial invention of first colonialism,</span>
+<span class='talk-transcript__fragment' data-time='453000' id='t-453000'>and then oppositional movements.</span>
+<span class='talk-transcript__fragment' data-time='455000' id='t-455000'>No, because a widely shared design practice doesn't necessarily give you a unity of culture --</span>
+<span class='talk-transcript__fragment' data-time='460000' id='t-460000'>and it definitely is not &quot;in the DNA.&quot;</span>
+<span class='talk-transcript__fragment' data-time='463000' id='t-463000'>And finally, the fractals have self-similarity --</span>
+<span class='talk-transcript__fragment' data-time='465000' id='t-465000'>so they're similar to themselves, but they're not necessarily similar to each other --</span>
+<span class='talk-transcript__fragment' data-time='469000' id='t-469000'>you see very different uses for fractals.</span>
+<span class='talk-transcript__fragment' data-time='471000' id='t-471000'>It's a shared technology in Africa.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>And finally, well, isn't this just intuition?</span>
+<span class='talk-transcript__fragment' data-time='477000' id='t-477000'>It's not really mathematical knowledge.</span>
+<span class='talk-transcript__fragment' data-time='479000' id='t-479000'>Africans can't possibly really be using fractal geometry, right?</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>It wasn't invented until the 1970s.</span>
+<span class='talk-transcript__fragment' data-time='485000' id='t-485000'>Well, it's true that some African fractals are, as far as I'm concerned, just pure intuition.</span>
+<span class='talk-transcript__fragment' data-time='490000' id='t-490000'>So some of these things, I'd wander around the streets of Dakar</span>
+<span class='talk-transcript__fragment' data-time='493000' id='t-493000'>asking people, &quot;What's the algorithm? What's the rule for making this?&quot;</span>
+<span class='talk-transcript__fragment' data-time='496000' id='t-496000'>and they'd say,</span>
+<span class='talk-transcript__fragment' data-time='497000' id='t-497000'>&quot;Well, we just make it that way because it looks pretty, stupid.&quot; (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>But sometimes, that's not the case.</span>
+<span class='talk-transcript__fragment' data-time='503000' id='t-503000'>In some cases, there would actually be algorithms, and very sophisticated algorithms.</span>
+<span class='talk-transcript__fragment' data-time='508000' id='t-508000'>So in Manghetu sculpture, you'd see this recursive geometry.</span>
+<span class='talk-transcript__fragment' data-time='511000' id='t-511000'>In Ethiopian crosses, you see this wonderful unfolding of the shape.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='516000' id='t-516000'>In Angola, the Chokwe people draw lines in the sand,</span>
+<span class='talk-transcript__fragment' data-time='520000' id='t-520000'>and it's what the German mathematician Euler called a graph;</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>we now call it an Eulerian path --</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>you can never lift your stylus from the surface</span>
+<span class='talk-transcript__fragment' data-time='527000' id='t-527000'>and you can never go over the same line twice.</span>
+<span class='talk-transcript__fragment' data-time='530000' id='t-530000'>But they do it recursively, and they do it with an age-grade system,</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>so the little kids learn this one, and then the older kids learn this one,</span>
+<span class='talk-transcript__fragment' data-time='536000' id='t-536000'>then the next age-grade initiation, you learn this one.</span>
+<span class='talk-transcript__fragment' data-time='539000' id='t-539000'>And with each iteration of that algorithm,</span>
+<span class='talk-transcript__fragment' data-time='542000' id='t-542000'>you learn the iterations of the myth.</span>
+<span class='talk-transcript__fragment' data-time='544000' id='t-544000'>You learn the next level of knowledge.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='547000' id='t-547000'>And finally, all over Africa, you see this board game.</span>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>It's called Owari in Ghana, where I studied it;</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>it's called Mancala here on the East Coast, Bao in Kenya, Sogo elsewhere.</span>
+<span class='talk-transcript__fragment' data-time='557000' id='t-557000'>Well, you see self-organizing patterns that spontaneously occur in this board game.</span>
+<span class='talk-transcript__fragment' data-time='562000' id='t-562000'>And the folks in Ghana knew about these self-organizing patterns</span>
+<span class='talk-transcript__fragment' data-time='565000' id='t-565000'>and would use them strategically.</span>
+<span class='talk-transcript__fragment' data-time='567000' id='t-567000'>So this is very conscious knowledge.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='569000' id='t-569000'>Here's a wonderful fractal.</span>
+<span class='talk-transcript__fragment' data-time='571000' id='t-571000'>Anywhere you go in the Sahel, you'll see this windscreen.</span>
+<span class='talk-transcript__fragment' data-time='575000' id='t-575000'>And of course fences around the world are all Cartesian, all strictly linear.</span>
+<span class='talk-transcript__fragment' data-time='579000' id='t-579000'>But here in Africa, you've got these nonlinear scaling fences.</span>
+<span class='talk-transcript__fragment' data-time='583000' id='t-583000'>So I tracked down one of the folks who makes these things,</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>this guy in Mali just outside of Bamako, and I asked him,</span>
+<span class='talk-transcript__fragment' data-time='589000' id='t-589000'>&quot;How come you're making fractal fences? Because nobody else is.&quot;</span>
+<span class='talk-transcript__fragment' data-time='591000' id='t-591000'>And his answer was very interesting.</span>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>He said, &quot;Well, if I lived in the jungle, I would only use the long rows of straw</span>
+<span class='talk-transcript__fragment' data-time='598000' id='t-598000'>because they're very quick and they're very cheap.</span>
+<span class='talk-transcript__fragment' data-time='600000' id='t-600000'>It doesn't take much time, doesn't take much straw.&quot;</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>He said, &quot;but wind and dust goes through pretty easily.</span>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>Now, the tight rows up at the very top, they really hold out the wind and dust.</span>
+<span class='talk-transcript__fragment' data-time='609000' id='t-609000'>But it takes a lot of time, and it takes a lot of straw because they're really tight.&quot;</span>
+<span class='talk-transcript__fragment' data-time='614000' id='t-614000'>&quot;Now,&quot; he said, &quot;we know from experience</span>
+<span class='talk-transcript__fragment' data-time='616000' id='t-616000'>that the farther up from the ground you go, the stronger the wind blows.&quot;</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>Right? It's just like a cost-benefit analysis.</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>And I measured out the lengths of straw,</span>
+<span class='talk-transcript__fragment' data-time='626000' id='t-626000'>put it on a log-log plot, got the scaling exponent,</span>
+<span class='talk-transcript__fragment' data-time='628000' id='t-628000'>and it almost exactly matches the scaling exponent for the relationship between wind speed and height</span>
+<span class='talk-transcript__fragment' data-time='633000' id='t-633000'>in the wind engineering handbook.</span>
+<span class='talk-transcript__fragment' data-time='634000' id='t-634000'>So these guys are right on target for a practical use of scaling technology.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>The most complex example of an algorithmic approach to fractals that I found</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>was actually not in geometry, it was in a symbolic code,</span>
+<span class='talk-transcript__fragment' data-time='646000' id='t-646000'>and this was Bamana sand divination.</span>
+<span class='talk-transcript__fragment' data-time='649000' id='t-649000'>And the same divination system is found all over Africa.</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>You can find it on the East Coast as well as the West Coast,</span>
+<span class='talk-transcript__fragment' data-time='657000' id='t-657000'>and often the symbols are very well preserved,</span>
+<span class='talk-transcript__fragment' data-time='659000' id='t-659000'>so each of these symbols has four bits -- it's a four-bit binary word --</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>you draw these lines in the sand randomly, and then you count off,</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>and if it's an odd number, you put down one stroke,</span>
+<span class='talk-transcript__fragment' data-time='672000' id='t-672000'>and if it's an even number, you put down two strokes.</span>
+<span class='talk-transcript__fragment' data-time='674000' id='t-674000'>And they did this very rapidly,</span>
+<span class='talk-transcript__fragment' data-time='677000' id='t-677000'>and I couldn't understand where they were getting --</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>they only did the randomness four times --</span>
+<span class='talk-transcript__fragment' data-time='681000' id='t-681000'>I couldn't understand where they were getting the other 12 symbols.</span>
+<span class='talk-transcript__fragment' data-time='683000' id='t-683000'>And they wouldn't tell me.</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>They said, &quot;No, no, I can't tell you about this.&quot;</span>
+<span class='talk-transcript__fragment' data-time='687000' id='t-687000'>And I said, &quot;Well look, I'll pay you, you can be my teacher,</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>and I'll come each day and pay you.&quot;</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>They said, &quot;It's not a matter of money. This is a religious matter.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='694000' id='t-694000'>And finally, out of desperation, I said,</span>
+<span class='talk-transcript__fragment' data-time='695000' id='t-695000'>&quot;Well, let me explain Georg Cantor in 1877.&quot;</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>And I started explaining why I was there in Africa,</span>
+<span class='talk-transcript__fragment' data-time='702000' id='t-702000'>and they got very excited when they saw the Cantor set.</span>
+<span class='talk-transcript__fragment' data-time='704000' id='t-704000'>And one of them said, &quot;Come here. I think I can help you out here.&quot;</span>
+<span class='talk-transcript__fragment' data-time='708000' id='t-708000'>And so he took me through the initiation ritual for a Bamana priest.</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>And of course, I was only interested in the math,</span>
+<span class='talk-transcript__fragment' data-time='715000' id='t-715000'>so the whole time, he kept shaking his head going,</span>
+<span class='talk-transcript__fragment' data-time='717000' id='t-717000'>&quot;You know, I didn't learn it this way.&quot;</span>
+<span class='talk-transcript__fragment' data-time='718000' id='t-718000'>But I had to sleep with a kola nut next to my bed, buried in sand,</span>
+<span class='talk-transcript__fragment' data-time='722000' id='t-722000'>and give seven coins to seven lepers and so on.</span>
+<span class='talk-transcript__fragment' data-time='725000' id='t-725000'>And finally, he revealed the truth of the matter.</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>And it turns out it's a pseudo-random number generator using deterministic chaos.</span>
+<span class='talk-transcript__fragment' data-time='734000' id='t-734000'>When you have a four-bit symbol, you then put it together with another one sideways.</span>
+<span class='talk-transcript__fragment' data-time='740000' id='t-740000'>So even plus odd gives you odd.</span>
+<span class='talk-transcript__fragment' data-time='742000' id='t-742000'>Odd plus even gives you odd.</span>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>Even plus even gives you even. Odd plus odd gives you even.</span>
+<span class='talk-transcript__fragment' data-time='747000' id='t-747000'>It's addition modulo 2, just like in the parity bit check on your computer.</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>And then you take this symbol, and you put it back in</span>
+<span class='talk-transcript__fragment' data-time='755000' id='t-755000'>so it's a self-generating diversity of symbols.</span>
+<span class='talk-transcript__fragment' data-time='757000' id='t-757000'>They're truly using a kind of deterministic chaos in doing this.</span>
+<span class='talk-transcript__fragment' data-time='761000' id='t-761000'>Now, because it's a binary code,</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>you can actually implement this in hardware --</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>what a fantastic teaching tool that should be in African engineering schools.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='770000' id='t-770000'>And the most interesting thing I found out about it was historical.</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>In the 12th century, Hugo of Santalla brought it from Islamic mystics into Spain.</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>And there it entered into the alchemy community as geomancy:</span>
+<span class='talk-transcript__fragment' data-time='785000' id='t-785000'>divination through the earth.</span>
+<span class='talk-transcript__fragment' data-time='787000' id='t-787000'>This is a geomantic chart drawn for King Richard II in 1390.</span>
+<span class='talk-transcript__fragment' data-time='792000' id='t-792000'>Leibniz, the German mathematician,</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>talked about geomancy in his dissertation called &quot;De Combinatoria.&quot;</span>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>And he said, &quot;Well, instead of using one stroke and two strokes,</span>
+<span class='talk-transcript__fragment' data-time='803000' id='t-803000'>let's use a one and a zero, and we can count by powers of two.&quot;</span>
+<span class='talk-transcript__fragment' data-time='807000' id='t-807000'>Right? Ones and zeros, the binary code.</span>
+<span class='talk-transcript__fragment' data-time='809000' id='t-809000'>George Boole took Leibniz's binary code and created Boolean algebra,</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>and John von Neumann took Boolean algebra and created the digital computer.</span>
+<span class='talk-transcript__fragment' data-time='815000' id='t-815000'>So all these little PDAs and laptops --</span>
+<span class='talk-transcript__fragment' data-time='818000' id='t-818000'>every digital circuit in the world -- started in Africa.</span>
+<span class='talk-transcript__fragment' data-time='821000' id='t-821000'>And I know Brian Eno says there's not enough Africa in computers,</span>
+<span class='talk-transcript__fragment' data-time='826000' id='t-826000'>but you know, I don't think there's enough African history in Brian Eno.</span>
+<span class='talk-transcript__fragment' data-time='831000' id='t-831000'>(Laughter) (Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>So let me end with just a few words about applications that we've found for this.</span>
+<span class='talk-transcript__fragment' data-time='838000' id='t-838000'>And you can go to our website,</span>
+<span class='talk-transcript__fragment' data-time='840000' id='t-840000'>the applets are all free; they just run in the browser.</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>Anybody in the world can use them.</span>
+<span class='talk-transcript__fragment' data-time='844000' id='t-844000'>The National Science Foundation's Broadening Participation in Computing program</span>
+<span class='talk-transcript__fragment' data-time='849000' id='t-849000'>recently awarded us a grant to make a programmable version of these design tools,</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>so hopefully in three years, anybody'll be able to go on the Web</span>
+<span class='talk-transcript__fragment' data-time='858000' id='t-858000'>and create their own simulations and their own artifacts.</span>
+<span class='talk-transcript__fragment' data-time='861000' id='t-861000'>We've focused in the U.S. on African-American students as well as Native American and Latino.</span>
+<span class='talk-transcript__fragment' data-time='866000' id='t-866000'>We've found statistically significant improvement with children using this software in a mathematics class</span>
+<span class='talk-transcript__fragment' data-time='872000' id='t-872000'>in comparison with a control group that did not have the software.</span>
+<span class='talk-transcript__fragment' data-time='875000' id='t-875000'>So it's really very successful teaching children that they have a heritage that's about mathematics,</span>
+<span class='talk-transcript__fragment' data-time='881000' id='t-881000'>that it's not just about singing and dancing.</span>
+<span class='talk-transcript__fragment' data-time='885000' id='t-885000'>We've started a pilot program in Ghana.</span>
+<span class='talk-transcript__fragment' data-time='888000' id='t-888000'>We got a small seed grant, just to see if folks would be willing to work with us on this;</span>
+<span class='talk-transcript__fragment' data-time='893000' id='t-893000'>we're very excited about the future possibilities for that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='896000' id='t-896000'>We've also been working in design.</span>
+<span class='talk-transcript__fragment' data-time='898000' id='t-898000'>I didn't put his name up here -- my colleague, Kerry, in Kenya, has come up with this great idea</span>
+<span class='talk-transcript__fragment' data-time='903000' id='t-903000'>for using fractal structure for postal address in villages that have fractal structure,</span>
+<span class='talk-transcript__fragment' data-time='908000' id='t-908000'>because if you try to impose a grid structure postal system on a fractal village,</span>
+<span class='talk-transcript__fragment' data-time='912000' id='t-912000'>it doesn't quite fit.</span>
+<span class='talk-transcript__fragment' data-time='914000' id='t-914000'>Bernard Tschumi at Columbia University has finished using this in a design for a museum of African art.</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>David Hughes at Ohio State University has written a primer on Afrocentric architecture</span>
+<span class='talk-transcript__fragment' data-time='927000' id='t-927000'>in which he's used some of these fractal structures.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='929000' id='t-929000'>And finally, I just wanted to point out that this idea of self-organization,</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>as we heard earlier, it's in the brain.</span>
+<span class='talk-transcript__fragment' data-time='936000' id='t-936000'>It's in the -- it's in Google's search engine.</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>Actually, the reason that Google was such a success</span>
+<span class='talk-transcript__fragment' data-time='943000' id='t-943000'>is because they were the first ones to take advantage of the self-organizing properties of the web.</span>
+<span class='talk-transcript__fragment' data-time='947000' id='t-947000'>It's in ecological sustainability.</span>
+<span class='talk-transcript__fragment' data-time='949000' id='t-949000'>It's in the developmental power of entrepreneurship,</span>
+<span class='talk-transcript__fragment' data-time='951000' id='t-951000'>the ethical power of democracy.</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>It's also in some bad things.</span>
+<span class='talk-transcript__fragment' data-time='956000' id='t-956000'>Self-organization is why the AIDS virus is spreading so fast.</span>
+<span class='talk-transcript__fragment' data-time='959000' id='t-959000'>And if you don't think that capitalism, which is self-organizing, can have destructive effects,</span>
+<span class='talk-transcript__fragment' data-time='963000' id='t-963000'>you haven't opened your eyes enough.</span>
+<span class='talk-transcript__fragment' data-time='965000' id='t-965000'>So we need to think about, as was spoken earlier,</span>
+<span class='talk-transcript__fragment' data-time='969000' id='t-969000'>the traditional African methods for doing self-organization.</span>
+<span class='talk-transcript__fragment' data-time='971000' id='t-971000'>These are robust algorithms.</span>
+<span class='talk-transcript__fragment' data-time='974000' id='t-974000'>These are ways of doing self-organization -- of doing entrepreneurship --</span>
+<span class='talk-transcript__fragment' data-time='977000' id='t-977000'>that are gentle, that are egalitarian.</span>
+<span class='talk-transcript__fragment' data-time='979000' id='t-979000'>So if we want to find a better way of doing that kind of work,</span>
+<span class='talk-transcript__fragment' data-time='983000' id='t-983000'>we need look only no farther than Africa to find these robust self-organizing algorithms.</span>
+<span class='talk-transcript__fragment' data-time='988000' id='t-988000'>Thank you.</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

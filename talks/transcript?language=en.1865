@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Fred Jansen: How to land on a comet | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Fred Jansen: How to land on a comet | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: As manager of the Rosetta mission, Fred Jansen was responsible for the successful 2014 landing of a probe on the comet known as 67P/Churyumov-Gerasimenko. In this fascinating and funny talk, Jansen reveals some of the intricate calculations that went into landing the Philae probe on a comet 500 million kilometers from Earth -- and shares some incredible photographs taken along the way." name="description" />
+<meta content="Fred Jansen" name="author" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=uk" hreflang="uk" rel="alternate" />
+<link href="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript?language=vi" hreflang="vi" rel="alternate" />
+<meta content="Transcript of &quot;How to land on a comet&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67b74a45a7b1531aafc66f1f249f6533ae388e27_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67b74a45a7b1531aafc66f1f249f6533ae388e27_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: As manager of the Rosetta mission, Fred Jansen was responsible for the successful 2014 landing of a probe on the comet known as 67P/Churyumov-Gerasimenko. In this fascinating and funny talk, Jansen reveals some of the intricate calculations that went into landing the Philae probe on a comet 500 million kilometers from Earth -- and shares some incredible photographs taken along the way." property="og:description" />
+<meta content="http://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592557">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592557">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592557">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592557"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/2230?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='fred_jansen_how_to_land_on_a_comet'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+<option value='vi'>Vietnamese</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/2230?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1067" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67b74a45a7b1531aafc66f1f249f6533ae388e27_2880x1620.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:47</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Fred Jansen</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/2230?language=en' lang='en'>
+How to land on a comet
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Apr 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='717' id='t-717'>I'd like to take you on the epic quest
+of the Rosetta spacecraft.</span>
+<span class='talk-transcript__fragment' data-time='5514' id='t-5514'>To escort and land the probe on a comet,</span>
+<span class='talk-transcript__fragment' data-time='9540' id='t-9540'>this has been my passion
+for the past two years.</span>
+<span class='talk-transcript__fragment' data-time='13450' id='t-13450'>In order to do that,</span>
+<span class='talk-transcript__fragment' data-time='14545' id='t-14545'>I need to explain to you something
+about the origin of the solar system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='18015' id='t-18015'>When we go back
+four and a half billion years,</span>
+<span class='talk-transcript__fragment' data-time='20238' id='t-20238'>there was a cloud of gas and dust.</span>
+<span class='talk-transcript__fragment' data-time='21957' id='t-21957'>In the center of this cloud,
+our sun formed and ignited.</span>
+<span class='talk-transcript__fragment' data-time='26484' id='t-26484'>Along with that, what we now know
+as planets, comets and asteroids formed.</span>
+<span class='talk-transcript__fragment' data-time='32195' id='t-32195'>What then happened, according to theory,</span>
+<span class='talk-transcript__fragment' data-time='35608' id='t-35608'>is that when the Earth had cooled down
+a bit after its formation,</span>
+<span class='talk-transcript__fragment' data-time='39625' id='t-39625'>comets massively impacted the Earth
+and delivered water to Earth.</span>
+<span class='talk-transcript__fragment' data-time='45082' id='t-45082'>They probably also delivered
+complex organic material to Earth,</span>
+<span class='talk-transcript__fragment' data-time='49516' id='t-49516'>and that may have bootstrapped
+the emergence of life.</span>
+<span class='talk-transcript__fragment' data-time='52906' id='t-52906'>You can compare this to having
+to solve a 250-piece puzzle</span>
+<span class='talk-transcript__fragment' data-time='56366' id='t-56366'>and not a 2,000-piece puzzle.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='59570' id='t-59570'>Afterwards, the big planets
+like Jupiter and Saturn,</span>
+<span class='talk-transcript__fragment' data-time='63053' id='t-63053'>they were not in their place
+where they are now,</span>
+<span class='talk-transcript__fragment' data-time='65631' id='t-65631'>and they interacted gravitationally,</span>
+<span class='talk-transcript__fragment' data-time='68278' id='t-68278'>and they swept the whole interior
+of the solar system clean,</span>
+<span class='talk-transcript__fragment' data-time='71830' id='t-71830'>and what we now know as comets</span>
+<span class='talk-transcript__fragment' data-time='73432' id='t-73432'>ended up in something
+called the Kuiper Belt,</span>
+<span class='talk-transcript__fragment' data-time='75545' id='t-75545'>which is a belt of objects
+beyond the orbit of Neptune.</span>
+<span class='talk-transcript__fragment' data-time='79213' id='t-79213'>And sometimes these objects
+run into each other,</span>
+<span class='talk-transcript__fragment' data-time='82906' id='t-82906'>and they gravitationally deflect,</span>
+<span class='talk-transcript__fragment' data-time='85971' id='t-85971'>and then the gravity of Jupiter
+pulls them back into the solar system.</span>
+<span class='talk-transcript__fragment' data-time='90428' id='t-90428'>And they then become the comets
+as we see them in the sky.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='94120' id='t-94120'>The important thing here to note
+is that in the meantime,</span>
+<span class='talk-transcript__fragment' data-time='97394' id='t-97394'>the four and a half billion years,</span>
+<span class='talk-transcript__fragment' data-time='99693' id='t-99693'>these comets have been sitting
+on the outside of the solar system,</span>
+<span class='talk-transcript__fragment' data-time='102875' id='t-102875'>and haven't changed --</span>
+<span class='talk-transcript__fragment' data-time='104290' id='t-104290'>deep, frozen versions of our solar system.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='107193' id='t-107193'>In the sky, they look like this.</span>
+<span class='talk-transcript__fragment' data-time='109282' id='t-109282'>We know them for their tails.</span>
+<span class='talk-transcript__fragment' data-time='111233' id='t-111233'>There are actually two tails.</span>
+<span class='talk-transcript__fragment' data-time='112904' id='t-112904'>One is a dust tail,
+which is blown away by the solar wind.</span>
+<span class='talk-transcript__fragment' data-time='116759' id='t-116759'>The other one is an ion tail,
+which is charged particles,</span>
+<span class='talk-transcript__fragment' data-time='120404' id='t-120404'>and they follow the magnetic field
+in the solar system.</span>
+<span class='talk-transcript__fragment' data-time='123143' id='t-123143'>There's the coma,</span>
+<span class='talk-transcript__fragment' data-time='124292' id='t-124292'>and then there is the nucleus,
+which here is too small to see,</span>
+<span class='talk-transcript__fragment' data-time='127199' id='t-127199'>and you have to remember
+that in the case of Rosetta,</span>
+<span class='talk-transcript__fragment' data-time='129689' id='t-129689'>the spacecraft is in that center pixel.</span>
+<span class='talk-transcript__fragment' data-time='131866' id='t-131866'>We are only 20, 30, 40 kilometers
+away from the comet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='135976' id='t-135976'>So what's important to remember?</span>
+<span class='talk-transcript__fragment' data-time='138297' id='t-138297'>Comets contain the original material
+from which our solar system was formed,</span>
+<span class='talk-transcript__fragment' data-time='143166' id='t-143166'>so they're ideal to study the components</span>
+<span class='talk-transcript__fragment' data-time='145526' id='t-145526'>that were present at the time 
+when Earth, and life, started.</span>
+<span class='talk-transcript__fragment' data-time='149791' id='t-149791'>Comets are also suspected</span>
+<span class='talk-transcript__fragment' data-time='151673' id='t-151673'>of having brought the elements
+which may have bootstrapped life.</span>
+<span class='talk-transcript__fragment' data-time='155944' id='t-155944'>In 1983, ESA set up
+its long-term Horizon 2000 program,</span>
+<span class='talk-transcript__fragment' data-time='160309' id='t-160309'>which contained one cornerstone,
+which would be a mission to a comet.</span>
+<span class='talk-transcript__fragment' data-time='164233' id='t-164233'>In parallel, a small mission to a comet,
+what you see here, Giotto, was launched,</span>
+<span class='talk-transcript__fragment' data-time='169123' id='t-169123'>and in 1986, flew by the comet of Halley
+with an armada of other spacecraft.</span>
+<span class='talk-transcript__fragment' data-time='175329' id='t-175329'>From the results of that mission,
+it became immediately clear</span>
+<span class='talk-transcript__fragment' data-time='178900' id='t-178900'>that comets were ideal bodies to study
+to understand our solar system.</span>
+<span class='talk-transcript__fragment' data-time='184087' id='t-184087'>And thus, the Rosetta mission
+was approved in 1993,</span>
+<span class='talk-transcript__fragment' data-time='188599' id='t-188599'>and originally it was supposed
+to be launched in 2003,</span>
+<span class='talk-transcript__fragment' data-time='192234' id='t-192234'>but a problem arose
+with an Ariane rocket.</span>
+<span class='talk-transcript__fragment' data-time='194858' id='t-194858'>However, our P.R. department,
+in its enthusiasm,</span>
+<span class='talk-transcript__fragment' data-time='197923' id='t-197923'>had already made
+1,000 Delft Blue plates</span>
+<span class='talk-transcript__fragment' data-time='200145' id='t-200145'>with the name of the wrong comets.</span>
+<span class='talk-transcript__fragment' data-time='202535' id='t-202535'>So I've never had to buy any china since.
+That's the positive part.</span>
+<span class='talk-transcript__fragment' data-time='206102' id='t-206102'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='207821' id='t-207821'>Once the whole problem was solved,</span>
+<span class='talk-transcript__fragment' data-time='209701' id='t-209701'>we left Earth in 2004</span>
+<span class='talk-transcript__fragment' data-time='212882' id='t-212882'>to the newly selected comet,
+Churyumov-Gerasimenko.</span>
+<span class='talk-transcript__fragment' data-time='215970' id='t-215970'>This comet had to be specially selected</span>
+<span class='talk-transcript__fragment' data-time='218826' id='t-218826'>because A, you have to
+be able to get to it,</span>
+<span class='talk-transcript__fragment' data-time='221480' id='t-221480'>and B, it shouldn't have been
+in the solar system too long.</span>
+<span class='talk-transcript__fragment' data-time='224261' id='t-224261'>This particular comet has been 
+in the solar system since 1959.</span>
+<span class='talk-transcript__fragment' data-time='228208' id='t-228208'>That's the first time
+when it was deflected by Jupiter,</span>
+<span class='talk-transcript__fragment' data-time='231523' id='t-231523'>and it got close enough
+to the sun to start changing.</span>
+<span class='talk-transcript__fragment' data-time='234500' id='t-234500'>So it's a very fresh comet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='236611' id='t-236611'>Rosetta made a few historic firsts.</span>
+<span class='talk-transcript__fragment' data-time='239502' id='t-239502'>It's the first satellite to orbit a comet,</span>
+<span class='talk-transcript__fragment' data-time='242018' id='t-242018'>and to escort it throughout
+its whole tour through the solar system --</span>
+<span class='talk-transcript__fragment' data-time='245640' id='t-245640'>closest approach to the sun,
+as we will see in August,</span>
+<span class='talk-transcript__fragment' data-time='248938' id='t-248938'>and then away again to the exterior.</span>
+<span class='talk-transcript__fragment' data-time='251259' id='t-251259'>It's the first ever landing on a comet.</span>
+<span class='talk-transcript__fragment' data-time='253860' id='t-253860'>We actually orbit the comet
+using something which is not</span>
+<span class='talk-transcript__fragment' data-time='257552' id='t-257552'>normally done with spacecraft.</span>
+<span class='talk-transcript__fragment' data-time='259001' id='t-259001'>Normally, you look at the sky and you know
+where you point and where you are.</span>
+<span class='talk-transcript__fragment' data-time='262636' id='t-262636'>In this case, that's not enough.</span>
+<span class='talk-transcript__fragment' data-time='264772' id='t-264772'>We navigated by looking
+at landmarks on the comet.</span>
+<span class='talk-transcript__fragment' data-time='268070' id='t-268070'>We recognized features --
+boulders, craters --</span>
+<span class='talk-transcript__fragment' data-time='270545' id='t-270545'>and that's how we know where we are
+respective to the comet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='274562' id='t-274562'>And, of course, it's the first satellite
+to go beyond the orbit of Jupiter</span>
+<span class='talk-transcript__fragment' data-time='279091' id='t-279091'>on solar cells.</span>
+<span class='talk-transcript__fragment' data-time='280292' id='t-280292'>Now, this sounds more heroic
+than it actually is,</span>
+<span class='talk-transcript__fragment' data-time='282619' id='t-282619'>because the technology
+to use radio isotope thermal generators</span>
+<span class='talk-transcript__fragment' data-time='287715' id='t-287715'>wasn't available in Europe at that time,
+so there was no choice.</span>
+<span class='talk-transcript__fragment' data-time='291013' id='t-291013'>But these solar arrays are big.</span>
+<span class='talk-transcript__fragment' data-time='292590' id='t-292590'>This is one wing, and these are not
+specially selected small people.</span>
+<span class='talk-transcript__fragment' data-time='295865' id='t-295865'>They're just like you and me.</span>
+<span class='talk-transcript__fragment' data-time='297699' id='t-297699'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='300090' id='t-300090'>We have two of these wings,
+65 square meters.</span>
+<span class='talk-transcript__fragment' data-time='304291' id='t-304291'>Now later on, of course,
+when we got to the comet,</span>
+<span class='talk-transcript__fragment' data-time='307310' id='t-307310'>you find out that 65 square meters of sail</span>
+<span class='talk-transcript__fragment' data-time='310839' id='t-310839'>close to a body which is outgassing
+is not always a very handy choice.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='316481' id='t-316481'>Now, how did we get to the comet?</span>
+<span class='talk-transcript__fragment' data-time='318525' id='t-318525'>Because we had to go there
+for the Rosetta scientific objectives</span>
+<span class='talk-transcript__fragment' data-time='322193' id='t-322193'>very far away -- four times the distance
+of the Earth to the sun --</span>
+<span class='talk-transcript__fragment' data-time='326001' id='t-326001'>and also at a much higher velocity
+than we could achieve with fuel,</span>
+<span class='talk-transcript__fragment' data-time='330111' id='t-330111'>because we'd have to take six times as
+much fuel as the whole spacecraft weighed.</span>
+<span class='talk-transcript__fragment' data-time='334430' id='t-334430'>So what do you do?</span>
+<span class='talk-transcript__fragment' data-time='335840' id='t-335840'>You use gravitational flybys, slingshots,</span>
+<span class='talk-transcript__fragment' data-time='339323' id='t-339323'>where you pass by a planet
+at very low altitude,</span>
+<span class='talk-transcript__fragment' data-time='342690' id='t-342690'>a few thousand kilometers,</span>
+<span class='talk-transcript__fragment' data-time='344455' id='t-344455'>and then you get the velocity
+of that planet around the sun for free.</span>
+<span class='talk-transcript__fragment' data-time='349168' id='t-349168'>We did that a few times.</span>
+<span class='talk-transcript__fragment' data-time='351211' id='t-351211'>We did Earth, we did Mars,
+we did twice Earth again,</span>
+<span class='talk-transcript__fragment' data-time='353690' id='t-353690'>and we also flew by two asteroids,
+Lutetia and Steins.</span>
+<span class='talk-transcript__fragment' data-time='358318' id='t-358318'>Then in 2011, we got so far from the sun
+that if the spacecraft got into trouble,</span>
+<span class='talk-transcript__fragment' data-time='362983' id='t-362983'>we couldn't actually
+save the spacecraft anymore,</span>
+<span class='talk-transcript__fragment' data-time='366792' id='t-366792'>so we went into hibernation.</span>
+<span class='talk-transcript__fragment' data-time='368765' id='t-368765'>Everything was switched off
+except for one clock.</span>
+<span class='talk-transcript__fragment' data-time='372103' id='t-372103'>Here you see in white the trajectory,
+and the way this works.</span>
+<span class='talk-transcript__fragment' data-time='375614' id='t-375614'>You see that from
+the circle where we started,</span>
+<span class='talk-transcript__fragment' data-time='378057' id='t-378057'>the white line, actually you get
+more and more and more elliptical,</span>
+<span class='talk-transcript__fragment' data-time='381873' id='t-381873'>and then finally we approached the comet</span>
+<span class='talk-transcript__fragment' data-time='384822' id='t-384822'>in May 2014, and we had to start
+doing the rendezvous maneuvers.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='389187' id='t-389187'>On the way there, we flew by Earth and we
+took a few pictures to test our cameras.</span>
+<span class='talk-transcript__fragment' data-time='393784' id='t-393784'>This is the moon rising over Earth,</span>
+<span class='talk-transcript__fragment' data-time='395962' id='t-395962'>and this is what we now call a selfie,</span>
+<span class='talk-transcript__fragment' data-time='397917' id='t-397917'>which at that time, by the way,
+that word didn't exist. (Laughter)</span>
+<span class='talk-transcript__fragment' data-time='401609' id='t-401609'>It's at Mars. It was taken
+by the CIVA camera.</span>
+<span class='talk-transcript__fragment' data-time='404580' id='t-404580'>That's one of the cameras on the lander,</span>
+<span class='talk-transcript__fragment' data-time='406762' id='t-406762'>and it just looks under the solar arrays,</span>
+<span class='talk-transcript__fragment' data-time='409177' id='t-409177'>and you see the planet Mars
+and the solar array in the distance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='413450' id='t-413450'>Now, when we got out
+of hibernation in January 2014,</span>
+<span class='talk-transcript__fragment' data-time='419118' id='t-419118'>we started arriving at a distance</span>
+<span class='talk-transcript__fragment' data-time='420903' id='t-420903'>of two million kilometers
+from the comet in May.</span>
+<span class='talk-transcript__fragment' data-time='423736' id='t-423736'>However, the velocity
+the spacecraft had was much too fast.</span>
+<span class='talk-transcript__fragment' data-time='427845' id='t-427845'>We were going 2,800 kilometers an hour
+faster than the comet, so we had to brake.</span>
+<span class='talk-transcript__fragment' data-time='433906' id='t-433906'>We had to do eight maneuvers,</span>
+<span class='talk-transcript__fragment' data-time='435763' id='t-435763'>and you see here,
+some of them were really big.</span>
+<span class='talk-transcript__fragment' data-time='438340' id='t-438340'>We had to brake the first one
+by a few hundred kilometers per hour,</span>
+<span class='talk-transcript__fragment' data-time='444364' id='t-444364'>and actually, the duration of that
+was seven hours,</span>
+<span class='talk-transcript__fragment' data-time='448674' id='t-448674'>and it used 218 kilos of fuel,</span>
+<span class='talk-transcript__fragment' data-time='451622' id='t-451622'>and those were seven nerve-wracking 
+hours, because in 2007,</span>
+<span class='talk-transcript__fragment' data-time='455572' id='t-455572'>there was a leak in the system
+of the propulsion of Rosetta,</span>
+<span class='talk-transcript__fragment' data-time='458762' id='t-458762'>and we had to close off a branch,</span>
+<span class='talk-transcript__fragment' data-time='460909' id='t-460909'>so the system was actually
+operating at a pressure</span>
+<span class='talk-transcript__fragment' data-time='463487' id='t-463487'>which it was never designed
+or qualified for.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='467795' id='t-467795'>Then we got in the vicinity of the comet,
+and these were the first pictures we saw.</span>
+<span class='talk-transcript__fragment' data-time='472704' id='t-472704'>The true comet rotation period
+is 12 and a half hours,</span>
+<span class='talk-transcript__fragment' data-time='475277' id='t-475277'>so this is accelerated,</span>
+<span class='talk-transcript__fragment' data-time='477366' id='t-477366'>but you will understand that
+our flight dynamics engineers thought,</span>
+<span class='talk-transcript__fragment' data-time='480617' id='t-480617'>this is not going to be
+an easy thing to land on.</span>
+<span class='talk-transcript__fragment' data-time='484471' id='t-484471'>We had hoped for some kind
+of spud-like thing</span>
+<span class='talk-transcript__fragment' data-time='489115' id='t-489115'>where you could easily land.</span>
+<span class='talk-transcript__fragment' data-time='491281' id='t-491281'>But we had one hope: maybe it was smooth.</span>
+<span class='talk-transcript__fragment' data-time='494572' id='t-494572'>No. That didn't work either. (Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='498310' id='t-498310'>So at that point in time,
+it was clearly unavoidable:</span>
+<span class='talk-transcript__fragment' data-time='501003' id='t-501003'>we had to map this body
+in all the detail you could get,</span>
+<span class='talk-transcript__fragment' data-time='504534' id='t-504534'>because we had to find an area
+which is 500 meters in diameter and flat.</span>
+<span class='talk-transcript__fragment' data-time='509687' id='t-509687'>Why 500 meters? That's the error
+we have on landing the probe.</span>
+<span class='talk-transcript__fragment' data-time='514286' id='t-514286'>So we went through this process,
+and we mapped the comet.</span>
+<span class='talk-transcript__fragment' data-time='517467' id='t-517467'>We used a technique
+called photoclinometry.</span>
+<span class='talk-transcript__fragment' data-time='519834' id='t-519834'>You use shadows thrown by the sun.</span>
+<span class='talk-transcript__fragment' data-time='522064' id='t-522064'>What you see here is a rock
+sitting on the surface of the comet,</span>
+<span class='talk-transcript__fragment' data-time='525151' id='t-525151'>and the sun shines from above.</span>
+<span class='talk-transcript__fragment' data-time='528077' id='t-528077'>From the shadow, we, with our brain,</span>
+<span class='talk-transcript__fragment' data-time='530236' id='t-530236'>can immediately determine
+roughly what the shape of that rock is.</span>
+<span class='talk-transcript__fragment' data-time='533880' id='t-533880'>You can program that in a computer,</span>
+<span class='talk-transcript__fragment' data-time='535922' id='t-535922'>you then cover the whole comet,
+and you can map the comet.</span>
+<span class='talk-transcript__fragment' data-time='540176' id='t-540176'>For that, we flew special trajectories
+starting in August.</span>
+<span class='talk-transcript__fragment' data-time='543856' id='t-543856'>First, a triangle
+of 100 kilometers on a side</span>
+<span class='talk-transcript__fragment' data-time='546765' id='t-546765'>at 100 kilometers' distance,</span>
+<span class='talk-transcript__fragment' data-time='548428' id='t-548428'>and we repeated the whole 
+thing at 50 kilometers.</span>
+<span class='talk-transcript__fragment' data-time='551432' id='t-551432'>At that time, we had seen the comet
+at all kinds of angles,</span>
+<span class='talk-transcript__fragment' data-time='555079' id='t-555079'>and we could use this technique
+to map the whole thing.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='559752' id='t-559752'>Now, this led to a selection
+of landing sites.</span>
+<span class='talk-transcript__fragment' data-time='563019' id='t-563019'>This whole process we had to do,
+to go from the mapping of the comet</span>
+<span class='talk-transcript__fragment' data-time='567279' id='t-567279'>to actually finding
+the final landing site, was 60 days.</span>
+<span class='talk-transcript__fragment' data-time='570844' id='t-570844'>We didn't have more.</span>
+<span class='talk-transcript__fragment' data-time='572230' id='t-572230'>To give you an idea,
+the average Mars mission</span>
+<span class='talk-transcript__fragment' data-time='574350' id='t-574350'>takes hundreds of scientists
+for years to meet</span>
+<span class='talk-transcript__fragment' data-time='578134' id='t-578134'>about where shall we go?</span>
+<span class='talk-transcript__fragment' data-time='580201' id='t-580201'>We had 60 days, and that was it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='582359' id='t-582359'>We finally selected the final landing site</span>
+<span class='talk-transcript__fragment' data-time='585402' id='t-585402'>and the commands were prepared
+for Rosetta to launch Philae.</span>
+<span class='talk-transcript__fragment' data-time='590455' id='t-590455'>The way this works is that Rosetta
+has to be at the right point in space,</span>
+<span class='talk-transcript__fragment' data-time='594830' id='t-594830'>and aiming towards the comet,
+because the lander is passive.</span>
+<span class='talk-transcript__fragment' data-time='597653' id='t-597653'>The lander is then pushed out
+and moves towards the comet.</span>
+<span class='talk-transcript__fragment' data-time='601330' id='t-601330'>Rosetta had to turn around</span>
+<span class='talk-transcript__fragment' data-time='603120' id='t-603120'>to get its cameras to actually look
+at Philae while it was departing</span>
+<span class='talk-transcript__fragment' data-time='607677' id='t-607677'>and to be able to communicate with it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='610146' id='t-610146'>Now, the landing duration
+of the whole trajectory was seven hours.</span>
+<span class='talk-transcript__fragment' data-time='614720' id='t-614720'>Now do a simple calculation:</span>
+<span class='talk-transcript__fragment' data-time='617507' id='t-617507'>if the velocity of Rosetta is off
+by one centimeter per second,</span>
+<span class='talk-transcript__fragment' data-time='621546' id='t-621546'>seven hours is 25,000 seconds.</span>
+<span class='talk-transcript__fragment' data-time='625888' id='t-625888'>That means 252 meters wrong on the comet.</span>
+<span class='talk-transcript__fragment' data-time='630253' id='t-630253'>So we had to know the velocity of Rosetta</span>
+<span class='talk-transcript__fragment' data-time='633597' id='t-633597'>much better than
+one centimeter per second,</span>
+<span class='talk-transcript__fragment' data-time='636104' id='t-636104'>and its location in space
+better than 100 meters</span>
+<span class='talk-transcript__fragment' data-time='640168' id='t-640168'>at 500 million kilometers from Earth.</span>
+<span class='talk-transcript__fragment' data-time='643372' id='t-643372'>That's no mean feat.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='645740' id='t-645740'>Let me quickly take you through
+some of the science and the instruments.</span>
+<span class='talk-transcript__fragment' data-time='650129' id='t-650129'>I won't bore you with all the details
+of all the instruments,</span>
+<span class='talk-transcript__fragment' data-time='653565' id='t-653565'>but it's got everything.</span>
+<span class='talk-transcript__fragment' data-time='655214' id='t-655214'>We can sniff gas,
+we can measure dust particles,</span>
+<span class='talk-transcript__fragment' data-time='658348' id='t-658348'>the shape of them, the composition,</span>
+<span class='talk-transcript__fragment' data-time='660600' id='t-660600'>there are magnetometers, everything.</span>
+<span class='talk-transcript__fragment' data-time='663108' id='t-663108'>This is one of the results from
+an instrument which measures gas density</span>
+<span class='talk-transcript__fragment' data-time='666707' id='t-666707'>at the position of Rosetta,</span>
+<span class='talk-transcript__fragment' data-time='668565' id='t-668565'>so it's gas which has left the comet.</span>
+<span class='talk-transcript__fragment' data-time='670794' id='t-670794'>The bottom graph
+is September of last year.</span>
+<span class='talk-transcript__fragment' data-time='673278' id='t-673278'>There is a long-term variation,
+which in itself is not surprising,</span>
+<span class='talk-transcript__fragment' data-time='676575' id='t-676575'>but you see the sharp peaks.</span>
+<span class='talk-transcript__fragment' data-time='678456' id='t-678456'>This is a comet day.</span>
+<span class='talk-transcript__fragment' data-time='680546' id='t-680546'>You can see the effect of the sun
+on the evaporation of gas</span>
+<span class='talk-transcript__fragment' data-time='684656' id='t-684656'>and the fact that the comet is rotating.</span>
+<span class='talk-transcript__fragment' data-time='687604' id='t-687604'>So there is one spot, apparently,</span>
+<span class='talk-transcript__fragment' data-time='689312' id='t-689312'>where there is a lot of stuff coming from,</span>
+<span class='talk-transcript__fragment' data-time='691459' id='t-691459'>it gets heated in the Sun,
+and then cools down on the back side.</span>
+<span class='talk-transcript__fragment' data-time='694756' id='t-694756'>And we can see
+the density variations of this.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='698262' id='t-698262'>These are the gases
+and the organic compounds</span>
+<span class='talk-transcript__fragment' data-time='702395' id='t-702395'>that we already have measured.</span>
+<span class='talk-transcript__fragment' data-time='704090' id='t-704090'>You will see it's an impressive list,</span>
+<span class='talk-transcript__fragment' data-time='705878' id='t-705878'>and there is much, much,
+much more to come,</span>
+<span class='talk-transcript__fragment' data-time='708362' id='t-708362'>because there are more measurements.</span>
+<span class='talk-transcript__fragment' data-time='710308' id='t-710308'>Actually, there is a conference
+going on in Houston at the moment</span>
+<span class='talk-transcript__fragment' data-time='713656' id='t-713656'>where many of these results are presented.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='716827' id='t-716827'>Also, we measured dust particles.</span>
+<span class='talk-transcript__fragment' data-time='718448' id='t-718448'>Now, for you, this will not
+look very impressive,</span>
+<span class='talk-transcript__fragment' data-time='721250' id='t-721250'>but the scientists were thrilled
+when they saw this.</span>
+<span class='talk-transcript__fragment' data-time='724523' id='t-724523'>Two dust particles:</span>
+<span class='talk-transcript__fragment' data-time='725940' id='t-725940'>the right one they call Boris,
+and they shot it with tantalum</span>
+<span class='talk-transcript__fragment' data-time='728934' id='t-728934'>in order to be able to analyze it.</span>
+<span class='talk-transcript__fragment' data-time='731048' id='t-731048'>Now, we found sodium and magnesium.</span>
+<span class='talk-transcript__fragment' data-time='733439' id='t-733439'>What this tells you is this is
+the concentration of these two materials</span>
+<span class='talk-transcript__fragment' data-time='737688' id='t-737688'>at the time the solar system was formed,</span>
+<span class='talk-transcript__fragment' data-time='740404' id='t-740404'>so we learned things about
+which materials were there</span>
+<span class='talk-transcript__fragment' data-time='743771' id='t-743771'>when the planet was made.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='746859' id='t-746859'>Of course, one of the important
+elements is the imaging.</span>
+<span class='talk-transcript__fragment' data-time='749577' id='t-749577'>This is one of the cameras of Rosetta,
+the OSIRIS camera,</span>
+<span class='talk-transcript__fragment' data-time='752943' id='t-752943'>and this actually was the cover
+of Science magazine</span>
+<span class='talk-transcript__fragment' data-time='755938' id='t-755938'>on January 23 of this year.</span>
+<span class='talk-transcript__fragment' data-time='758608' id='t-758608'>Nobody had expected
+this body to look like this.</span>
+<span class='talk-transcript__fragment' data-time='762046' id='t-762046'>Boulders, rocks -- if anything, it looks
+more like the Half Dome in Yosemite</span>
+<span class='talk-transcript__fragment' data-time='765644' id='t-765644'>than anything else.</span>
+<span class='talk-transcript__fragment' data-time='768151' id='t-768151'>We also saw things like this:</span>
+<span class='talk-transcript__fragment' data-time='770729' id='t-770729'>dunes, and what look to be,
+on the righthand side, wind-blown shadows.</span>
+<span class='talk-transcript__fragment' data-time='775651' id='t-775651'>Now we know these from Mars,
+but this comet doesn't have an atmosphere,</span>
+<span class='talk-transcript__fragment' data-time='779575' id='t-779575'>so it's a bit difficult to create
+a wind-blown shadow.</span>
+<span class='talk-transcript__fragment' data-time='782454' id='t-782454'>It may be local outgassing,</span>
+<span class='talk-transcript__fragment' data-time='784439' id='t-784439'>stuff which goes up and comes back.</span>
+<span class='talk-transcript__fragment' data-time='786622' id='t-786622'>We don't know, so there is
+a lot to investigate.</span>
+<span class='talk-transcript__fragment' data-time='789803' id='t-789803'>Here, you see the same image twice.</span>
+<span class='talk-transcript__fragment' data-time='791893' id='t-791893'>On the left-hand side,
+you see in the middle a pit.</span>
+<span class='talk-transcript__fragment' data-time='794410' id='t-794410'>On the right-hand side,
+if you carefully look,</span>
+<span class='talk-transcript__fragment' data-time='796627' id='t-796627'>there are three jets coming out
+of the bottom of that pit.</span>
+<span class='talk-transcript__fragment' data-time='799858' id='t-799858'>So this is the activity of the comet.</span>
+<span class='talk-transcript__fragment' data-time='802155' id='t-802155'>Apparently, at the bottom of these pits
+is where the active regions are,</span>
+<span class='talk-transcript__fragment' data-time='806172' id='t-806172'>and where the material
+evaporates into space.</span>
+<span class='talk-transcript__fragment' data-time='808935' id='t-808935'>There is a very intriguing crack
+in the neck of the comet.</span>
+<span class='talk-transcript__fragment' data-time='812545' id='t-812545'>You see it on the right-hand side.</span>
+<span class='talk-transcript__fragment' data-time='814541' id='t-814541'>It's a kilometer long,
+and it's two and a half meters wide.</span>
+<span class='talk-transcript__fragment' data-time='818237' id='t-818237'>Some people suggest that actually,</span>
+<span class='talk-transcript__fragment' data-time='820483' id='t-820483'>when we get close to the sun,</span>
+<span class='talk-transcript__fragment' data-time='822551' id='t-822551'>the comet may split in two,</span>
+<span class='talk-transcript__fragment' data-time='824409' id='t-824409'>and then we'll have to choose,</span>
+<span class='talk-transcript__fragment' data-time='826089' id='t-826089'>which comet do we go for?</span>
+<span class='talk-transcript__fragment' data-time='828341' id='t-828341'>The lander -- again, lots of instruments,</span>
+<span class='talk-transcript__fragment' data-time='831514' id='t-831514'>mostly comparable except for the things
+which hammer in the ground and drill, etc.</span>
+<span class='talk-transcript__fragment' data-time='836855' id='t-836855'>But much the same as Rosetta, and that is
+because you want to compare</span>
+<span class='talk-transcript__fragment' data-time='840732' id='t-840732'>what you find in space
+with what you find on the comet.</span>
+<span class='talk-transcript__fragment' data-time='844238' id='t-844238'>These are called
+ground truth measurements.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='846931' id='t-846931'>These are the landing descent images</span>
+<span class='talk-transcript__fragment' data-time='850162' id='t-850162'>that were taken by the OSIRIS camera.</span>
+<span class='talk-transcript__fragment' data-time='852210' id='t-852210'>You see the lander getting further
+and further away from Rosetta.</span>
+<span class='talk-transcript__fragment' data-time='856436' id='t-856436'>On the top right, you see an image
+taken at 60 meters by the lander,</span>
+<span class='talk-transcript__fragment' data-time='860244' id='t-860244'>60 meters above the surface of the comet.</span>
+<span class='talk-transcript__fragment' data-time='863100' id='t-863100'>The boulder there is some 10 meters.</span>
+<span class='talk-transcript__fragment' data-time='865514' id='t-865514'>So this is one of the last images we took
+before we landed on the comet.</span>
+<span class='talk-transcript__fragment' data-time='870228' id='t-870228'>Here, you see the whole sequence again,
+but from a different perspective,</span>
+<span class='talk-transcript__fragment' data-time='873786' id='t-873786'>and you see three blown-ups
+from the bottom-left to the middle</span>
+<span class='talk-transcript__fragment' data-time='877971' id='t-877971'>of the lander traveling
+over the surface of the comet.</span>
+<span class='talk-transcript__fragment' data-time='882156' id='t-882156'>Then, at the top, there is a before
+and an after image of the landing.</span>
+<span class='talk-transcript__fragment' data-time='886342' id='t-886342'>The only problem with the after image is,
+there is no lander.</span>
+<span class='talk-transcript__fragment' data-time='890269' id='t-890269'>But if you carefully look
+at the right-hand side of this image,</span>
+<span class='talk-transcript__fragment' data-time='893540' id='t-893540'>we saw the lander still there, 
+but it had bounced.</span>
+<span class='talk-transcript__fragment' data-time='897569' id='t-897569'>It had departed again.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='899230' id='t-899230'>Now, on a bit of a comical note here</span>
+<span class='talk-transcript__fragment' data-time='902317' id='t-902317'>is that originally Rosetta was designed
+to have a lander which would bounce.</span>
+<span class='talk-transcript__fragment' data-time='906937' id='t-906937'>That was discarded because
+it was way too expensive.</span>
+<span class='talk-transcript__fragment' data-time='909510' id='t-909510'>Now, we forgot, but the lander knew.</span>
+<span class='talk-transcript__fragment' data-time='911784' id='t-911784'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='913388' id='t-913388'>During the first bounce,
+in the magnetometers,</span>
+<span class='talk-transcript__fragment' data-time='915895' id='t-915895'>you see here the data from them,
+from the three axes, x, y and z.</span>
+<span class='talk-transcript__fragment' data-time='919725' id='t-919725'>Halfway through, you see a red line.</span>
+<span class='talk-transcript__fragment' data-time='921931' id='t-921931'>At that red line, there is a change.</span>
+<span class='talk-transcript__fragment' data-time='923765' id='t-923765'>What happened, apparently,
+is during the first bounce,</span>
+<span class='talk-transcript__fragment' data-time='927690' id='t-927690'>somewhere, we hit the edge of a crater
+with one of the legs of the lander,</span>
+<span class='talk-transcript__fragment' data-time='932416' id='t-932416'>and the rotation velocity
+of the lander changed.</span>
+<span class='talk-transcript__fragment' data-time='935236' id='t-935236'>So we've been rather lucky</span>
+<span class='talk-transcript__fragment' data-time='937209' id='t-937209'>that we are where we are.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='939485' id='t-939485'>This is one of
+the iconic images of Rosetta.</span>
+<span class='talk-transcript__fragment' data-time='943154' id='t-943154'>It's a man-made object,
+a leg of the lander,</span>
+<span class='talk-transcript__fragment' data-time='947077' id='t-947077'>standing on a comet.</span>
+<span class='talk-transcript__fragment' data-time='949028' id='t-949028'>This, for me, is one of the very best
+images of space science I have ever seen.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='954159' id='t-954159'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='959340' id='t-959340'>One of the things we still have to do
+is to actually find the lander.</span>
+<span class='talk-transcript__fragment' data-time='963191' id='t-963191'>The blue area here
+is where we know it must be.</span>
+<span class='talk-transcript__fragment' data-time='966887' id='t-966887'>We haven't been able to find it yet,
+but the search is continuing,</span>
+<span class='talk-transcript__fragment' data-time='970505' id='t-970505'>as are our efforts to start getting
+the lander to work again.</span>
+<span class='talk-transcript__fragment' data-time='974270' id='t-974270'>We listen every day,</span>
+<span class='talk-transcript__fragment' data-time='976012' id='t-976012'>and we hope that between now
+and somewhere in April,</span>
+<span class='talk-transcript__fragment' data-time='978570' id='t-978570'>the lander will wake up again.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='980308' id='t-980308'>The findings of what
+we found on the comet:</span>
+<span class='talk-transcript__fragment' data-time='983795' id='t-983795'>This thing would float in water.</span>
+<span class='talk-transcript__fragment' data-time='986251' id='t-986251'>It's half the density of water.</span>
+<span class='talk-transcript__fragment' data-time='988875' id='t-988875'>So it looks like
+a very big rock, but it's not.</span>
+<span class='talk-transcript__fragment' data-time='991893' id='t-991893'>The activity increase we saw
+in June, July, August last year</span>
+<span class='talk-transcript__fragment' data-time='995539' id='t-995539'>was a four-fold activity increase.</span>
+<span class='talk-transcript__fragment' data-time='997930' id='t-997930'>By the time we will be at the sun,</span>
+<span class='talk-transcript__fragment' data-time='999673' id='t-999673'>there will be 100 kilos
+a second leaving this comet:</span>
+<span class='talk-transcript__fragment' data-time='1004246' id='t-1004246'>gas, dust, whatever.</span>
+<span class='talk-transcript__fragment' data-time='1005802' id='t-1005802'>That's 100 million kilos a day.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1009603' id='t-1009603'>Then, finally, the landing day.</span>
+<span class='talk-transcript__fragment' data-time='1011978' id='t-1011978'>I will never forget -- absolute madness,
+250 TV crews in Germany.</span>
+<span class='talk-transcript__fragment' data-time='1017366' id='t-1017366'>The BBC was interviewing me,</span>
+<span class='talk-transcript__fragment' data-time='1019385' id='t-1019385'>and another TV crew
+who was following me all day</span>
+<span class='talk-transcript__fragment' data-time='1022357' id='t-1022357'>were filming me being interviewed,</span>
+<span class='talk-transcript__fragment' data-time='1024493' id='t-1024493'>and it went on like that
+for the whole day.</span>
+<span class='talk-transcript__fragment' data-time='1026931' id='t-1026931'>The Discovery Channel crew</span>
+<span class='talk-transcript__fragment' data-time='1028742' id='t-1028742'>actually caught me
+when leaving the control room,</span>
+<span class='talk-transcript__fragment' data-time='1031064' id='t-1031064'>and they asked the right question,</span>
+<span class='talk-transcript__fragment' data-time='1033177' id='t-1033177'>and man, I got into tears,
+and I still feel this.</span>
+<span class='talk-transcript__fragment' data-time='1036802' id='t-1036802'>For a month and a half,</span>
+<span class='talk-transcript__fragment' data-time='1038485' id='t-1038485'>I couldn't think about
+landing day without crying,</span>
+<span class='talk-transcript__fragment' data-time='1041319' id='t-1041319'>and I still have the emotion in me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1044034' id='t-1044034'>With this image of the comet,
+I would like to leave you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1046983' id='t-1046983'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1049096' id='t-1049096'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

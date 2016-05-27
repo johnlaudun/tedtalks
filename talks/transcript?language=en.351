@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Steven Strogatz: The science of sync | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Steven Strogatz: The science of sync | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Mathematician Steven Strogatz shows how flocks of creatures (like birds, fireflies and fish) manage to synchronize and act as a unit -- when no one&#39;s giving orders. The powerful tendency extends into the realm of objects, too." name="description" />
+<meta content="Steven Strogatz" name="author" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/steven_strogatz_on_sync/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;The science of sync&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63348_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63348_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Mathematician Steven Strogatz shows how flocks of creatures (like birds, fireflies and fish) manage to synchronize and act as a unit -- when no one&#39;s giving orders. The powerful tendency extends into the realm of objects, too." property="og:description" />
+<meta content="http://www.ted.com/talks/steven_strogatz_on_sync/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","flot":"flot.js?790926032e983cb92cb5850d4fa89693","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","transit":"transit.js?2226c77c637b435dd40846cb36691f81","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","pages":"pages.js?c380f6653c58ef113691a673999f9d17","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react":"react.js?cbe26e2257334e0f6b675367f1081fce","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","search":"search.js?890f679965e7e416505192b8de553a5e","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","new-home":"new-home.js?6c883b7c3176728701929c770390e001","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","text":"text.js?e26b019a9234318cd703fd6fa193101d","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/422?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='steven_strogatz_on_sync'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/422?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1318" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63348_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">21:58</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Steven Strogatz</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/422?language=en' lang='en'>
+The science of sync
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Dec 2008
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1000' id='t-1000'>I was trying to think, how is sync connected to happiness,</span>
+<span class='talk-transcript__fragment' data-time='3000' id='t-3000'>and it occurred to me that for some reason we take pleasure in synchronizing.</span>
+<span class='talk-transcript__fragment' data-time='10000' id='t-10000'>We like to dance together, we like singing together.</span>
+<span class='talk-transcript__fragment' data-time='13000' id='t-13000'>And so, if you'll put up with this, I would like to enlist your help</span>
+<span class='talk-transcript__fragment' data-time='18000' id='t-18000'>with a first experiment today. The experiment is --</span>
+<span class='talk-transcript__fragment' data-time='22000' id='t-22000'>and I notice, by the way, that when you applauded,</span>
+<span class='talk-transcript__fragment' data-time='25000' id='t-25000'>that you did it in a typical North American way,</span>
+<span class='talk-transcript__fragment' data-time='27000' id='t-27000'>that is, you were raucous and incoherent.</span>
+<span class='talk-transcript__fragment' data-time='31000' id='t-31000'>You were not organized. It didn't even occur to you to clap in unison.</span>
+<span class='talk-transcript__fragment' data-time='36000' id='t-36000'>Do you think you could do it? I would like to see if this audience would --</span>
+<span class='talk-transcript__fragment' data-time='40000' id='t-40000'>no, you haven't practiced, as far as I know --</span>
+<span class='talk-transcript__fragment' data-time='42000' id='t-42000'>can you get it together to clap in sync?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='46000' id='t-46000'>(Clapping)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='56000' id='t-56000'>Whoa! Now, that's what we call emergent behavior.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='58000' id='t-58000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='60000' id='t-60000'>So I didn't expect that, but -- I mean, I expected you could synchronize.</span>
+<span class='talk-transcript__fragment' data-time='64000' id='t-64000'>It didn't occur to me you'd increase your frequency.</span>
+<span class='talk-transcript__fragment' data-time='67000' id='t-67000'>It's interesting.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='69000' id='t-69000'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>So what do we make of that? First of all, we know that you're all brilliant.</span>
+<span class='talk-transcript__fragment' data-time='76000' id='t-76000'>This is a room full of intelligent people, highly sensitive.</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>Some trained musicians out there.</span>
+<span class='talk-transcript__fragment' data-time='83000' id='t-83000'>Is that what enabled you to synchronize?</span>
+<span class='talk-transcript__fragment' data-time='85000' id='t-85000'>So to put the question a little more seriously,</span>
+<span class='talk-transcript__fragment' data-time='88000' id='t-88000'>let's ask ourselves what are the minimum requirements for what you just did,</span>
+<span class='talk-transcript__fragment' data-time='92000' id='t-92000'>for spontaneous synchronization.</span>
+<span class='talk-transcript__fragment' data-time='95000' id='t-95000'>Do you need, for instance, to be as smart as you are?</span>
+<span class='talk-transcript__fragment' data-time='99000' id='t-99000'>Do you even need a brain at all just to synchronize?</span>
+<span class='talk-transcript__fragment' data-time='106000' id='t-106000'>Do you need to be alive? I mean, that's a spooky thought, right?</span>
+<span class='talk-transcript__fragment' data-time='111000' id='t-111000'>Inanimate objects that might spontaneously synchronize themselves.</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>It's real. In fact, I'll try to explain today that sync is maybe one of,</span>
+<span class='talk-transcript__fragment' data-time='123000' id='t-123000'>if not one of the most, perhaps the most pervasive drive in all of nature.</span>
+<span class='talk-transcript__fragment' data-time='127000' id='t-127000'>It extends from the subatomic scale to the farthest reaches of the cosmos.</span>
+<span class='talk-transcript__fragment' data-time='133000' id='t-133000'>It's a deep tendency toward order in nature</span>
+<span class='talk-transcript__fragment' data-time='137000' id='t-137000'>that opposes what we've all been taught about entropy.</span>
+<span class='talk-transcript__fragment' data-time='140000' id='t-140000'>I mean, I'm not saying the law of entropy is wrong -- it's not.</span>
+<span class='talk-transcript__fragment' data-time='143000' id='t-143000'>But there is a countervailing force in the universe --</span>
+<span class='talk-transcript__fragment' data-time='145000' id='t-145000'>the tendency towards spontaneous order. And so that's our theme.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='150000' id='t-150000'>Now, to get into that, let me begin with what might have occurred to you immediately</span>
+<span class='talk-transcript__fragment' data-time='154000' id='t-154000'>when you hear that we're talking about synchrony in nature,</span>
+<span class='talk-transcript__fragment' data-time='158000' id='t-158000'>which is the glorious example of birds that flock together,</span>
+<span class='talk-transcript__fragment' data-time='164000' id='t-164000'>or fish swimming in organized schools.</span>
+<span class='talk-transcript__fragment' data-time='168000' id='t-168000'>So these are not particularly intelligent creatures,</span>
+<span class='talk-transcript__fragment' data-time='172000' id='t-172000'>and yet, as we'll see, they exhibit beautiful ballets.</span>
+<span class='talk-transcript__fragment' data-time='177000' id='t-177000'>This is from a BBC show called &quot;Predators,&quot;</span>
+<span class='talk-transcript__fragment' data-time='179000' id='t-179000'>and what we're looking at here are examples of synchrony that have to do with defense.</span>
+<span class='talk-transcript__fragment' data-time='185000' id='t-185000'>When you're small and vulnerable, like these starlings,</span>
+<span class='talk-transcript__fragment' data-time='188000' id='t-188000'>or like the fish, it helps to swarm to avoid predators, to confuse predators.</span>
+<span class='talk-transcript__fragment' data-time='197000' id='t-197000'>Let me be quiet for a second because this is so gorgeous.</span>
+<span class='talk-transcript__fragment' data-time='215000' id='t-215000'>For a long time, biologists were puzzled by this behavior,</span>
+<span class='talk-transcript__fragment' data-time='218000' id='t-218000'>wondering how it could be possible.</span>
+<span class='talk-transcript__fragment' data-time='221000' id='t-221000'>We're so used to choreography giving rise to synchrony.</span>
+<span class='talk-transcript__fragment' data-time='225000' id='t-225000'>These creatures are not choreographed.</span>
+<span class='talk-transcript__fragment' data-time='227000' id='t-227000'>They're choreographing themselves.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='231000' id='t-231000'>And only today is science starting to figure out how it works.</span>
+<span class='talk-transcript__fragment' data-time='235000' id='t-235000'>I'll show you a computer model made by Iain Couzin, a researcher at Oxford,</span>
+<span class='talk-transcript__fragment' data-time='241000' id='t-241000'>that shows how swarms work.</span>
+<span class='talk-transcript__fragment' data-time='243000' id='t-243000'>There are just three simple rules.</span>
+<span class='talk-transcript__fragment' data-time='246000' id='t-246000'>First, all the individuals are only aware of their nearest neighbors.</span>
+<span class='talk-transcript__fragment' data-time='251000' id='t-251000'>Second, all the individuals have a tendency to line up.</span>
+<span class='talk-transcript__fragment' data-time='255000' id='t-255000'>And third, they're all attracted to each other,</span>
+<span class='talk-transcript__fragment' data-time='258000' id='t-258000'>but they try to keep a small distance apart.</span>
+<span class='talk-transcript__fragment' data-time='261000' id='t-261000'>And when you build those three rules in,</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>automatically you start to see swarms</span>
+<span class='talk-transcript__fragment' data-time='266000' id='t-266000'>that look very much like fish schools or bird flocks.</span>
+<span class='talk-transcript__fragment' data-time='270000' id='t-270000'>Now, fish like to stay close together, about a body length apart.</span>
+<span class='talk-transcript__fragment' data-time='274000' id='t-274000'>Birds try to stay about three or four body lengths apart.</span>
+<span class='talk-transcript__fragment' data-time='277000' id='t-277000'>But except for that difference, the rules are the same for both.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='286000' id='t-286000'>Now, all this changes when a predator enters the scene.</span>
+<span class='talk-transcript__fragment' data-time='291000' id='t-291000'>There's a fourth rule: when a predator's coming, get out of the way.</span>
+<span class='talk-transcript__fragment' data-time='305000' id='t-305000'>Here on the model you see the predator attacking.</span>
+<span class='talk-transcript__fragment' data-time='310000' id='t-310000'>The prey move out in random directions,</span>
+<span class='talk-transcript__fragment' data-time='312000' id='t-312000'>and then the rule of attraction brings them back together again,</span>
+<span class='talk-transcript__fragment' data-time='315000' id='t-315000'>so there's this constant splitting and reforming.</span>
+<span class='talk-transcript__fragment' data-time='319000' id='t-319000'>And you see that in nature.</span>
+<span class='talk-transcript__fragment' data-time='329000' id='t-329000'>Keep in mind that, although it looks as if each individual is acting to cooperate,</span>
+<span class='talk-transcript__fragment' data-time='335000' id='t-335000'>what's really going on is a kind of selfish Darwinian behavior.</span>
+<span class='talk-transcript__fragment' data-time='339000' id='t-339000'>Each is scattering away at random to try to save its scales or feathers.</span>
+<span class='talk-transcript__fragment' data-time='345000' id='t-345000'>That is, out of the desire to save itself,</span>
+<span class='talk-transcript__fragment' data-time='348000' id='t-348000'>each creature is following these rules,</span>
+<span class='talk-transcript__fragment' data-time='351000' id='t-351000'>and that leads to something that's safe for all of them.</span>
+<span class='talk-transcript__fragment' data-time='353000' id='t-353000'>Even though it looks like they're thinking as a group, they're not.</span>
+<span class='talk-transcript__fragment' data-time='374000' id='t-374000'>You might wonder what exactly is the advantage to being in a swarm,</span>
+<span class='talk-transcript__fragment' data-time='377000' id='t-377000'>so you can think of several.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='379000' id='t-379000'>As I say, if you're in a swarm, your odds of being the unlucky one</span>
+<span class='talk-transcript__fragment' data-time='383000' id='t-383000'>are reduced as compared to a small group.</span>
+<span class='talk-transcript__fragment' data-time='387000' id='t-387000'>There are many eyes to spot danger.</span>
+<span class='talk-transcript__fragment' data-time='390000' id='t-390000'>And you'll see in the example with the starlings, with the birds,</span>
+<span class='talk-transcript__fragment' data-time='397000' id='t-397000'>when this peregrine hawk is about to attack them,</span>
+<span class='talk-transcript__fragment' data-time='399000' id='t-399000'>that actually waves of panic can propagate,</span>
+<span class='talk-transcript__fragment' data-time='402000' id='t-402000'>sending messages over great distances.</span>
+<span class='talk-transcript__fragment' data-time='405000' id='t-405000'>You'll see -- let's see, it's coming up possibly at the very end -- maybe not.</span>
+<span class='talk-transcript__fragment' data-time='414000' id='t-414000'>Information can be sent over half a kilometer away</span>
+<span class='talk-transcript__fragment' data-time='417000' id='t-417000'>in a very short time through this mechanism.</span>
+<span class='talk-transcript__fragment' data-time='422000' id='t-422000'>Yes, it's happening here.</span>
+<span class='talk-transcript__fragment' data-time='424000' id='t-424000'>See if you can see those waves propagating through the swarm.</span>
+<span class='talk-transcript__fragment' data-time='428000' id='t-428000'>It's beautiful. The birds are, we sort of understand, we think,</span>
+<span class='talk-transcript__fragment' data-time='432000' id='t-432000'>from that computer model, what's going on.</span>
+<span class='talk-transcript__fragment' data-time='434000' id='t-434000'>As I say, it's just those three simple rules,</span>
+<span class='talk-transcript__fragment' data-time='436000' id='t-436000'>plus the one about watch out for predators.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='438000' id='t-438000'>There doesn't seem to be anything mystical about this.</span>
+<span class='talk-transcript__fragment' data-time='441000' id='t-441000'>We don't, however, really understand at a mathematical level.</span>
+<span class='talk-transcript__fragment' data-time='444000' id='t-444000'>I'm a mathematician. We would like to be able to understand better.</span>
+<span class='talk-transcript__fragment' data-time='448000' id='t-448000'>I mean, I showed you a computer model, but a computer is not understanding.</span>
+<span class='talk-transcript__fragment' data-time='451000' id='t-451000'>A computer is, in a way, just another experiment.</span>
+<span class='talk-transcript__fragment' data-time='454000' id='t-454000'>We would really like to have a deeper insight into how this works</span>
+<span class='talk-transcript__fragment' data-time='457000' id='t-457000'>and to understand, you know, exactly where this organization comes from.</span>
+<span class='talk-transcript__fragment' data-time='462000' id='t-462000'>How do the rules give rise to the patterns?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='464000' id='t-464000'>There is one case that we have begun to understand better,</span>
+<span class='talk-transcript__fragment' data-time='467000' id='t-467000'>and it's the case of fireflies.</span>
+<span class='talk-transcript__fragment' data-time='470000' id='t-470000'>If you see fireflies in North America,</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>like so many North American sorts of things,</span>
+<span class='talk-transcript__fragment' data-time='474000' id='t-474000'>they tend to be independent operators. They ignore each other.</span>
+<span class='talk-transcript__fragment' data-time='478000' id='t-478000'>They each do their own thing, flashing on and off,</span>
+<span class='talk-transcript__fragment' data-time='480000' id='t-480000'>paying no attention to their neighbors.</span>
+<span class='talk-transcript__fragment' data-time='482000' id='t-482000'>But in Southeast Asia -- places like Thailand or Malaysia or Borneo --</span>
+<span class='talk-transcript__fragment' data-time='487000' id='t-487000'>there's a beautiful cooperative behavior that occurs among male fireflies.</span>
+<span class='talk-transcript__fragment' data-time='492000' id='t-492000'>You can see it every night along the river banks.</span>
+<span class='talk-transcript__fragment' data-time='495000' id='t-495000'>The trees, mangrove trees, are filled with fireflies communicating with light.</span>
+<span class='talk-transcript__fragment' data-time='500000' id='t-500000'>Specifically, it's male fireflies who are all flashing in perfect time together,</span>
+<span class='talk-transcript__fragment' data-time='505000' id='t-505000'>in perfect synchrony, to reinforce a message to the females.</span>
+<span class='talk-transcript__fragment' data-time='509000' id='t-509000'>And the message, as you can imagine, is &quot;Come hither. Mate with me.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='514000' id='t-514000'>(Music)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='521000' id='t-521000'>In a second I'm going to show you a slow motion of a single firefly</span>
+<span class='talk-transcript__fragment' data-time='525000' id='t-525000'>so that you can get a sense. This is a single frame.</span>
+<span class='talk-transcript__fragment' data-time='528000' id='t-528000'>Then on, and then off -- a 30th of a second, there.</span>
+<span class='talk-transcript__fragment' data-time='533000' id='t-533000'>And then watch this whole river bank, and watch how precise the synchrony is.</span>
+<span class='talk-transcript__fragment' data-time='540000' id='t-540000'>On, more on and then off.</span>
+<span class='talk-transcript__fragment' data-time='549000' id='t-549000'>The combined light from these beetles -- these are actually tiny beetles --</span>
+<span class='talk-transcript__fragment' data-time='552000' id='t-552000'>is so bright that fishermen out at sea can use them</span>
+<span class='talk-transcript__fragment' data-time='555000' id='t-555000'>as navigating beacons to find their way back to their home rivers. It's stunning.</span>
+<span class='talk-transcript__fragment' data-time='559000' id='t-559000'>For a long time it was not believed</span>
+<span class='talk-transcript__fragment' data-time='561000' id='t-561000'>when the first Western travelers, like Sir Francis Drake,</span>
+<span class='talk-transcript__fragment' data-time='564000' id='t-564000'>went to Thailand and came back with tales of this unbelievable spectacle.</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>No one believed them.</span>
+<span class='talk-transcript__fragment' data-time='570000' id='t-570000'>We don't see anything like this in Europe or in the West.</span>
+<span class='talk-transcript__fragment' data-time='573000' id='t-573000'>And for a long time, even after it was documented,</span>
+<span class='talk-transcript__fragment' data-time='576000' id='t-576000'>it was thought to be some kind of optical illusion.</span>
+<span class='talk-transcript__fragment' data-time='578000' id='t-578000'>Scientific papers were published saying it was twitching eyelids</span>
+<span class='talk-transcript__fragment' data-time='581000' id='t-581000'>that explained it, or, you know, a human being's tendency</span>
+<span class='talk-transcript__fragment' data-time='585000' id='t-585000'>to see patterns where there are none.</span>
+<span class='talk-transcript__fragment' data-time='587000' id='t-587000'>But I hope you've convinced yourself now, with this nighttime video,</span>
+<span class='talk-transcript__fragment' data-time='590000' id='t-590000'>that they really were very well synchronized.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='593000' id='t-593000'>Okay, well, the issue then is, do we need to be alive</span>
+<span class='talk-transcript__fragment' data-time='596000' id='t-596000'>to see this kind of spontaneous order,</span>
+<span class='talk-transcript__fragment' data-time='598000' id='t-598000'>and I've already hinted that the answer is no.</span>
+<span class='talk-transcript__fragment' data-time='603000' id='t-603000'>Well, you don't have to be a whole creature.</span>
+<span class='talk-transcript__fragment' data-time='605000' id='t-605000'>You can even be just a single cell.</span>
+<span class='talk-transcript__fragment' data-time='607000' id='t-607000'>Like, take, for instance, your pacemaker cells in your heart right now.</span>
+<span class='talk-transcript__fragment' data-time='610000' id='t-610000'>They're keeping you alive.</span>
+<span class='talk-transcript__fragment' data-time='612000' id='t-612000'>Every beat of your heart depends on this crucial region, the sinoatrial node,</span>
+<span class='talk-transcript__fragment' data-time='617000' id='t-617000'>which has about 10,000 independent cells that would each beep,</span>
+<span class='talk-transcript__fragment' data-time='621000' id='t-621000'>have an electrical rhythm -- a voltage up and down --</span>
+<span class='talk-transcript__fragment' data-time='624000' id='t-624000'>to send a signal to the ventricles to pump.</span>
+<span class='talk-transcript__fragment' data-time='627000' id='t-627000'>Now, your pacemaker is not a single cell.</span>
+<span class='talk-transcript__fragment' data-time='630000' id='t-630000'>It's this democracy of 10,000 cells that all have to fire in unison</span>
+<span class='talk-transcript__fragment' data-time='633000' id='t-633000'>for the pacemaker to work correctly.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='636000' id='t-636000'>I don't want to give you the idea that synchrony is always a good idea.</span>
+<span class='talk-transcript__fragment' data-time='639000' id='t-639000'>If you have epilepsy, there is an instance of billions of brain cells, or at least millions,</span>
+<span class='talk-transcript__fragment' data-time='644000' id='t-644000'>discharging in pathological concert.</span>
+<span class='talk-transcript__fragment' data-time='648000' id='t-648000'>So this tendency towards order is not always a good thing.</span>
+<span class='talk-transcript__fragment' data-time='652000' id='t-652000'>You don't have to be alive. You don't have to be even a single cell.</span>
+<span class='talk-transcript__fragment' data-time='655000' id='t-655000'>If you look, for instance, at how lasers work,</span>
+<span class='talk-transcript__fragment' data-time='658000' id='t-658000'>that would be a case of atomic synchrony.</span>
+<span class='talk-transcript__fragment' data-time='661000' id='t-661000'>In a laser, what makes laser light so different from the light above my head here</span>
+<span class='talk-transcript__fragment' data-time='665000' id='t-665000'>is that this light is incoherent --</span>
+<span class='talk-transcript__fragment' data-time='667000' id='t-667000'>many different colors and different frequencies,</span>
+<span class='talk-transcript__fragment' data-time='670000' id='t-670000'>sort of like the way you clapped initially --</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>but if you were a laser, it would be rhythmic applause.</span>
+<span class='talk-transcript__fragment' data-time='676000' id='t-676000'>It would be all atoms pulsating in unison,</span>
+<span class='talk-transcript__fragment' data-time='678000' id='t-678000'>emitting light of one color, one frequency.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='682000' id='t-682000'>Now comes the very risky part of my talk,</span>
+<span class='talk-transcript__fragment' data-time='685000' id='t-685000'>which is to demonstrate that inanimate things can synchronize.</span>
+<span class='talk-transcript__fragment' data-time='689000' id='t-689000'>Hold your breath for me.</span>
+<span class='talk-transcript__fragment' data-time='691000' id='t-691000'>What I have here are two empty water bottles.</span>
+<span class='talk-transcript__fragment' data-time='698000' id='t-698000'>This is not Keith Barry doing a magic trick.</span>
+<span class='talk-transcript__fragment' data-time='700000' id='t-700000'>This is a klutz just playing with some water bottles.</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>I have some metronomes here.</span>
+<span class='talk-transcript__fragment' data-time='710000' id='t-710000'>Can you hear that?</span>
+<span class='talk-transcript__fragment' data-time='714000' id='t-714000'>All right, so, I've got a metronome,</span>
+<span class='talk-transcript__fragment' data-time='716000' id='t-716000'>and it's the world's smallest metronome, the -- well, I shouldn't advertise.</span>
+<span class='talk-transcript__fragment' data-time='720000' id='t-720000'>Anyway, so this is the world's smallest metronome.</span>
+<span class='talk-transcript__fragment' data-time='723000' id='t-723000'>I've set it on the fastest setting, and I'm going to now take</span>
+<span class='talk-transcript__fragment' data-time='726000' id='t-726000'>another one set to the same setting.</span>
+<span class='talk-transcript__fragment' data-time='730000' id='t-730000'>We can try this first. If I just put them on the table together,</span>
+<span class='talk-transcript__fragment' data-time='735000' id='t-735000'>there's no reason for them to synchronize, and they probably won't.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='744000' id='t-744000'>Maybe you'd better listen to them. I'll stand here.</span>
+<span class='talk-transcript__fragment' data-time='751000' id='t-751000'>What I'm hoping is that they might just drift apart</span>
+<span class='talk-transcript__fragment' data-time='753000' id='t-753000'>because their frequencies aren't perfectly the same.</span>
+<span class='talk-transcript__fragment' data-time='763000' id='t-763000'>Right? They did.</span>
+<span class='talk-transcript__fragment' data-time='765000' id='t-765000'>They were in sync for a while, but then they drifted apart.</span>
+<span class='talk-transcript__fragment' data-time='769000' id='t-769000'>And the reason is that they're not able to communicate.</span>
+<span class='talk-transcript__fragment' data-time='771000' id='t-771000'>Now, you might think that's a bizarre idea.</span>
+<span class='talk-transcript__fragment' data-time='773000' id='t-773000'>How can metronomes communicate?</span>
+<span class='talk-transcript__fragment' data-time='776000' id='t-776000'>Well, they can communicate through mechanical forces.</span>
+<span class='talk-transcript__fragment' data-time='779000' id='t-779000'>So I'm going to give them a chance to do that.</span>
+<span class='talk-transcript__fragment' data-time='781000' id='t-781000'>I also want to wind this one up a bit. How can they communicate?</span>
+<span class='talk-transcript__fragment' data-time='784000' id='t-784000'>I'm going to put them on a movable platform,</span>
+<span class='talk-transcript__fragment' data-time='786000' id='t-786000'>which is the &quot;Guide to Graduate Study at Cornell.&quot; Okay? So here it is.</span>
+<span class='talk-transcript__fragment' data-time='795000' id='t-795000'>Let's see if we can get this to work.</span>
+<span class='talk-transcript__fragment' data-time='799000' id='t-799000'>My wife pointed out to me that it will work better if I put both on at the same time</span>
+<span class='talk-transcript__fragment' data-time='803000' id='t-803000'>because otherwise the whole thing will tip over.</span>
+<span class='talk-transcript__fragment' data-time='805000' id='t-805000'>All right. So there we go. Let's see. OK, I'm not trying to cheat --</span>
+<span class='talk-transcript__fragment' data-time='812000' id='t-812000'>let me start them out of sync. No, hard to even do that.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='830000' id='t-830000'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='834000' id='t-834000'>All right. So before any one goes out of sync, I'll just put those right there.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='839000' id='t-839000'>(Laughter)</span>
+<span class='talk-transcript__fragment' data-time='840000' id='t-840000'>Now, that might seem a bit whimsical,</span>
+<span class='talk-transcript__fragment' data-time='842000' id='t-842000'>but this pervasiveness of this tendency towards spontaneous order</span>
+<span class='talk-transcript__fragment' data-time='847000' id='t-847000'>sometimes has unexpected consequences.</span>
+<span class='talk-transcript__fragment' data-time='851000' id='t-851000'>And a clear case of that,</span>
+<span class='talk-transcript__fragment' data-time='853000' id='t-853000'>was something that happened in London in the year 2000.</span>
+<span class='talk-transcript__fragment' data-time='856000' id='t-856000'>The Millennium Bridge was supposed to be the pride of London --</span>
+<span class='talk-transcript__fragment' data-time='859000' id='t-859000'>a beautiful new footbridge erected across the Thames,</span>
+<span class='talk-transcript__fragment' data-time='863000' id='t-863000'>first river crossing in over 100 years in London.</span>
+<span class='talk-transcript__fragment' data-time='867000' id='t-867000'>There was a big competition for the design of this bridge,</span>
+<span class='talk-transcript__fragment' data-time='870000' id='t-870000'>and the winning proposal was submitted by an unusual team --</span>
+<span class='talk-transcript__fragment' data-time='874000' id='t-874000'>in the TED spirit, actually -- of an architect --</span>
+<span class='talk-transcript__fragment' data-time='877000' id='t-877000'>perhaps the greatest architect in the United Kingdom, Lord Norman Foster --</span>
+<span class='talk-transcript__fragment' data-time='881000' id='t-881000'>working with an artist, a sculptor, Sir Anthony Caro,</span>
+<span class='talk-transcript__fragment' data-time='886000' id='t-886000'>and an engineering firm, Ove Arup.</span>
+<span class='talk-transcript__fragment' data-time='890000' id='t-890000'>And together they submitted a design based on Lord Foster's vision,</span>
+<span class='talk-transcript__fragment' data-time='895000' id='t-895000'>which was -- he remembered as a kid reading Flash Gordon comic books,</span>
+<span class='talk-transcript__fragment' data-time='899000' id='t-899000'>and he said that when Flash Gordon would come to an abyss,</span>
+<span class='talk-transcript__fragment' data-time='902000' id='t-902000'>he would shoot what today would be a kind of a light saber.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='905000' id='t-905000'>He would shoot his light saber across the abyss, making a blade of light,</span>
+<span class='talk-transcript__fragment' data-time='909000' id='t-909000'>and then scamper across on this blade of light.</span>
+<span class='talk-transcript__fragment' data-time='911000' id='t-911000'>He said, &quot;That's the vision I want to give to London.</span>
+<span class='talk-transcript__fragment' data-time='913000' id='t-913000'>I want a blade of light across the Thames.&quot;</span>
+<span class='talk-transcript__fragment' data-time='917000' id='t-917000'>So they built the blade of light,</span>
+<span class='talk-transcript__fragment' data-time='919000' id='t-919000'>and it's a very thin ribbon of steel, the world's --</span>
+<span class='talk-transcript__fragment' data-time='925000' id='t-925000'>probably the flattest and thinnest suspension bridge there is,</span>
+<span class='talk-transcript__fragment' data-time='928000' id='t-928000'>with cables that are out on the side.</span>
+<span class='talk-transcript__fragment' data-time='931000' id='t-931000'>You're used to suspension bridges with big droopy cables on the top.</span>
+<span class='talk-transcript__fragment' data-time='934000' id='t-934000'>These cables were on the side of the bridge,</span>
+<span class='talk-transcript__fragment' data-time='937000' id='t-937000'>like if you took a rubber band and stretched it taut across the Thames --</span>
+<span class='talk-transcript__fragment' data-time='941000' id='t-941000'>that's what's holding up this bridge.</span>
+<span class='talk-transcript__fragment' data-time='943000' id='t-943000'>Now, everyone was very excited to try it out.</span>
+<span class='talk-transcript__fragment' data-time='945000' id='t-945000'>On opening day, thousands of Londoners came out, and something happened.</span>
+<span class='talk-transcript__fragment' data-time='950000' id='t-950000'>And within two days the bridge was closed to the public.</span>
+<span class='talk-transcript__fragment' data-time='954000' id='t-954000'>So I want to first show you some interviews with people</span>
+<span class='talk-transcript__fragment' data-time='959000' id='t-959000'>who were on the bridge on opening day, who will describe what happened.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='962000' id='t-962000'>Man: It really started moving sideways and slightly up and down,</span>
+<span class='talk-transcript__fragment' data-time='967000' id='t-967000'>rather like being on the boat.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='970000' id='t-970000'>Woman: Yeah, it felt unstable, and it was very windy,</span>
+<span class='talk-transcript__fragment' data-time='973000' id='t-973000'>and I remember it had lots of flags up and down the sides, so you could definitely --</span>
+<span class='talk-transcript__fragment' data-time='977000' id='t-977000'>there was something going on sideways, it felt, maybe.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='980000' id='t-980000'>Interviewer: Not up and down? Boy: No.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='982000' id='t-982000'>Interviewer: And not forwards and backwards? Boy: No.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='984000' id='t-984000'>Interviewer: Just sideways. About how much was it moving, do you think?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='987000' id='t-987000'>Boy: It was about --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='989000' id='t-989000'>Interviewer: I mean, that much, or this much?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='991000' id='t-991000'>Boy: About the second one.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='993000' id='t-993000'>Interviewer: This much? Boy: Yeah.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='995000' id='t-995000'>Man: It was at least six, six to eight inches, I would have thought.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='998000' id='t-998000'>Interviewer: Right, so, at least this much? Man: Oh, yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1000000' id='t-1000000'>Woman: I remember wanting to get off.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1002000' id='t-1002000'>Interviewer: Oh, did you? Woman: Yeah. It felt odd.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+16:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1004000' id='t-1004000'>Interviewer: So it was enough to be scary? Woman: Yeah, but I thought that was just me.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1010000' id='t-1010000'>Interviewer: Ah! Now, tell me why you had to do this?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1013000' id='t-1013000'>Boy: We had to do this because, to keep in balance</span>
+<span class='talk-transcript__fragment' data-time='1015000' id='t-1015000'>because if you didn't keep your balance,</span>
+<span class='talk-transcript__fragment' data-time='1017000' id='t-1017000'>then you would just fall over about, like, to the left or right, about 45 degrees.</span>
+<span class='talk-transcript__fragment' data-time='1023000' id='t-1023000'>Interviewer: So just show me how you walk normally. Right.</span>
+<span class='talk-transcript__fragment' data-time='1028000' id='t-1028000'>And then show me what it was like when the bridge started to go. Right.</span>
+<span class='talk-transcript__fragment' data-time='1033000' id='t-1033000'>So you had to deliberately push your feet out sideways and --</span>
+<span class='talk-transcript__fragment' data-time='1037000' id='t-1037000'>oh, and short steps?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1039000' id='t-1039000'>Man: That's right. And it seemed obvious to me</span>
+<span class='talk-transcript__fragment' data-time='1042000' id='t-1042000'>that it was probably the number of people on it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1046000' id='t-1046000'>Interviewer: Were they deliberately walking in step, or anything like that?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1050000' id='t-1050000'>Man: No, they just had to conform to the movement of the bridge.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+17:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1054000' id='t-1054000'>Steven Strogatz: All right, so that already gives you a hint of what happened.</span>
+<span class='talk-transcript__fragment' data-time='1057000' id='t-1057000'>Think of the bridge as being like this platform.</span>
+<span class='talk-transcript__fragment' data-time='1061000' id='t-1061000'>Think of the people as being like metronomes.</span>
+<span class='talk-transcript__fragment' data-time='1064000' id='t-1064000'>Now, you might not be used to thinking of yourself as a metronome,</span>
+<span class='talk-transcript__fragment' data-time='1067000' id='t-1067000'>but after all, we do walk like -- I mean, we oscillate back and forth as we walk.</span>
+<span class='talk-transcript__fragment' data-time='1071000' id='t-1071000'>And especially if we start to walk like those people did, right?</span>
+<span class='talk-transcript__fragment' data-time='1074000' id='t-1074000'>They all showed this strange sort of skating gait</span>
+<span class='talk-transcript__fragment' data-time='1078000' id='t-1078000'>that they adopted once the bridge started to move.</span>
+<span class='talk-transcript__fragment' data-time='1081000' id='t-1081000'>And so let me show you now the footage of the bridge.</span>
+<span class='talk-transcript__fragment' data-time='1084000' id='t-1084000'>But also, after you see the bridge on opening day, you'll see an interesting clip</span>
+<span class='talk-transcript__fragment' data-time='1088000' id='t-1088000'>of work done by a bridge engineer at Cambridge named Allan McRobie,</span>
+<span class='talk-transcript__fragment' data-time='1093000' id='t-1093000'>who figured out what happened on the bridge,</span>
+<span class='talk-transcript__fragment' data-time='1095000' id='t-1095000'>and who built a bridge simulator to explain exactly what the problem was.</span>
+<span class='talk-transcript__fragment' data-time='1099000' id='t-1099000'>It was a kind of unintended positive feedback loop</span>
+<span class='talk-transcript__fragment' data-time='1103000' id='t-1103000'>between the way the people walked and the way the bridge began to move,</span>
+<span class='talk-transcript__fragment' data-time='1106000' id='t-1106000'>that engineers knew nothing about.</span>
+<span class='talk-transcript__fragment' data-time='1108000' id='t-1108000'>Actually, I think the first person you'll see</span>
+<span class='talk-transcript__fragment' data-time='1110000' id='t-1110000'>is the young engineer who was put in charge of this project. Okay.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1115000' id='t-1115000'>(Video) Interviewer: Did anyone get hurt? Engineer: No.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1117000' id='t-1117000'>Interviewer: Right. So it was quite small -- Engineer: Yes. Interviewer: -- but real?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1120000' id='t-1120000'>Engineer: Absolutely. Interviewer: You thought, &quot;Oh, bother.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1123000' id='t-1123000'>Engineer: I felt I was disappointed about it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+18:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1126000' id='t-1126000'>We'd spent a lot of time designing this bridge, and we'd analyzed it,</span>
+<span class='talk-transcript__fragment' data-time='1130000' id='t-1130000'>we'd checked it to codes -- to heavier loads than the codes --</span>
+<span class='talk-transcript__fragment' data-time='1133000' id='t-1133000'>and here it was doing something that we didn't know about.</span>
+<span class='talk-transcript__fragment' data-time='1136000' id='t-1136000'>Interviewer: You didn't expect. Engineer: Exactly.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1138000' id='t-1138000'>Narrator: The most dramatic and shocking footage</span>
+<span class='talk-transcript__fragment' data-time='1141000' id='t-1141000'>shows whole sections of the crowd -- hundreds of people --</span>
+<span class='talk-transcript__fragment' data-time='1144000' id='t-1144000'>apparently rocking from side to side in unison,</span>
+<span class='talk-transcript__fragment' data-time='1146000' id='t-1146000'>not only with each other, but with the bridge.</span>
+<span class='talk-transcript__fragment' data-time='1149000' id='t-1149000'>This synchronized movement seemed to be driving the bridge.</span>
+<span class='talk-transcript__fragment' data-time='1153000' id='t-1153000'>But how could the crowd become synchronized?</span>
+<span class='talk-transcript__fragment' data-time='1156000' id='t-1156000'>Was there something special about the Millennium Bridge that caused this effect?</span>
+<span class='talk-transcript__fragment' data-time='1160000' id='t-1160000'>This was to be the focus of the investigation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1164000' id='t-1164000'>Interviewer: Well, at last the simulated bridge is finished, and I can make it wobble.</span>
+<span class='talk-transcript__fragment' data-time='1171000' id='t-1171000'>Now, Allan, this is all your fault, isn't it? Allan McRobie: Yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1175000' id='t-1175000'>Interviewer: You designed this, yes, this simulated bridge,</span>
+<span class='talk-transcript__fragment' data-time='1177000' id='t-1177000'>and this, you reckon, mimics the action of the real bridge?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1180000' id='t-1180000'>AM: It captures a lot of the physics, yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1182000' id='t-1182000'>Interviewer: Right. So if we get on it, we should be able to wobble it, yes?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+19:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1188000' id='t-1188000'>Allan McRobie is a bridge engineer from Cambridge who wrote to me,</span>
+<span class='talk-transcript__fragment' data-time='1191000' id='t-1191000'>suggesting that a bridge simulator ought to wobble</span>
+<span class='talk-transcript__fragment' data-time='1194000' id='t-1194000'>in the same way as the real bridge --</span>
+<span class='talk-transcript__fragment' data-time='1196000' id='t-1196000'>provided we hung it on pendulums of exactly the right length.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1198000' id='t-1198000'>AM: This one's only a couple of tons, so it's fairly easy to get going.</span>
+<span class='talk-transcript__fragment' data-time='1201000' id='t-1201000'>Just by walking. Interviewer: Well, it's certainly going now.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1204000' id='t-1204000'>AM: It doesn't have to be a real dangle. Just walk. It starts to go.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1207000' id='t-1207000'>Interviewer: It's actually quite difficult to walk.</span>
+<span class='talk-transcript__fragment' data-time='1210000' id='t-1210000'>You have to be careful where you put your feet down, don't you,</span>
+<span class='talk-transcript__fragment' data-time='1213000' id='t-1213000'>because if you get it wrong, it just throws you off your feet.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1216000' id='t-1216000'>AM: It certainly affects the way you walk, yes. You can't walk normally on it.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1221000' id='t-1221000'>Interviewer: No. If you try and put one foot in front of another,</span>
+<span class='talk-transcript__fragment' data-time='1223000' id='t-1223000'>it's moving your feet away from under you. AM: Yes.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1226000' id='t-1226000'>Interviewer: So you've got to put your feet out sideways.</span>
+<span class='talk-transcript__fragment' data-time='1229000' id='t-1229000'>So already, the simulator is making me walk in exactly the same way</span>
+<span class='talk-transcript__fragment' data-time='1232000' id='t-1232000'>as our witnesses walked on the real bridge.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1234000' id='t-1234000'>AM: ... ice-skating gait. There isn't all this sort of snake way of walking.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+20:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1237000' id='t-1237000'>Interviewer: For a more convincing experiment,</span>
+<span class='talk-transcript__fragment' data-time='1239000' id='t-1239000'>I wanted my own opening-day crowd, the sound check team.</span>
+<span class='talk-transcript__fragment' data-time='1242000' id='t-1242000'>Their instructions: just walk normally.</span>
+<span class='talk-transcript__fragment' data-time='1254000' id='t-1254000'>It's really intriguing because none of these people is trying to drive it.</span>
+<span class='talk-transcript__fragment' data-time='1258000' id='t-1258000'>They're all having some difficulty walking.</span>
+<span class='talk-transcript__fragment' data-time='1261000' id='t-1261000'>And the only way you can walk comfortably is by getting in step.</span>
+<span class='talk-transcript__fragment' data-time='1264000' id='t-1264000'>But then, of course, everyone is driving the bridge.</span>
+<span class='talk-transcript__fragment' data-time='1269000' id='t-1269000'>You can't help it. You're actually forced by the movement of the bridge to get into step,</span>
+<span class='talk-transcript__fragment' data-time='1274000' id='t-1274000'>and therefore to drive it to move further.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1280000' id='t-1280000'>SS: All right, well, with that from the Ministry of Silly Walks,</span>
+<span class='talk-transcript__fragment' data-time='1284000' id='t-1284000'>maybe I'd better end. I see I've gone over.</span>
+<span class='talk-transcript__fragment' data-time='1287000' id='t-1287000'>But I hope that you'll go outside and see the world in a new way,</span>
+<span class='talk-transcript__fragment' data-time='1290000' id='t-1290000'>to see all the amazing synchrony around us. Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+21:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1293000' id='t-1293000'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

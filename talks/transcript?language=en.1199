@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Chris Gerdes: The future race car -- 150mph, and no driver | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Chris Gerdes: The future race car -- 150mph, and no driver | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: Autonomous cars are coming -- and they’re going to drive better than you. Chris Gerdes reveals how he and his team are developing robotic race cars that can drive at 150 mph while avoiding every possible accident. And yet, in studying the brainwaves of professional racing drivers, Gerdes says he has gained a new appreciation for the instincts of professional drivers" name="description" />
+<meta content="Chris Gerdes" name="author" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=cs" hreflang="cs" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=de" hreflang="de" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=id" hreflang="id" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript?language=th" hreflang="th" rel="alternate" />
+<meta content="Transcript of &quot;The future race car -- 150mph, and no driver&quot;" property="og:title" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15e9b94b9856ac969692bfc5515bd7754e26977b_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15e9b94b9856ac969692bfc5515bd7754e26977b_800x600.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://pa.tedcdn.com/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://pa.tedcdn.com/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://pa.tedcdn.com/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: Autonomous cars are coming -- and they’re going to drive better than you. Chris Gerdes reveals how he and his team are developing robotic race cars that can drive at 150 mph while avoiding every possible accident. And yet, in studying the brainwaves of professional racing drivers, Gerdes says he has gained a new appreciation for the instincts of professional drivers" property="og:description" />
+<meta content="http://www.ted.com/talks/chris_gerdes_the_future_race_car_150mph_and_no_driver/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global-ie.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk-ie.css?1463592553">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1463592553">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1463592553">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+    __ga('send','pageview');
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1463592553,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_014.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_014.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"new-home":"new-home.js?6c883b7c3176728701929c770390e001","Backbone":"libs.js?182ff19a8a4f38fa390bc70300820a77","embed":"embed.js?6108735ae82d1a574c786d9c34ae7d9d","speakingurl":"speakingurl.js?d8c386fbbd5230ccaa24fe98cf8f616f","swatch":"swatch.js?29771580a9ef7b2557a92b0702eb49e8","libs":"libs.js?182ff19a8a4f38fa390bc70300820a77","touchPunch":"touchPunch.js?09f0267b1ecb9ecae2dcc9c959aebcf8","deferLink":"deferLink.js?94b8fe52c43aa38bbbbae8b644402a6a","swfobject":"libs.js?182ff19a8a4f38fa390bc70300820a77","dq":"libs.js?182ff19a8a4f38fa390bc70300820a77","surprise_me":"surprise_me.js?353a9228a4c34b6876905f67c837440e","jqueryujs":"libs.js?182ff19a8a4f38fa390bc70300820a77","SwipeView":"SwipeView.js?7cf8ca03d10ef96e9dfb61ccda2fb593","es6":"es6.js?67d446f0796af20cd6c37dcfcce8c1b7","react-slick":"react-slick.js?913c7b6b9dd13dfd06d6ba11f2bb2f3a","Swipe":"Swipe.js?06c09c31eee30e4b63e92260789ccd9d","Mailcheck":"Mailcheck.js?07b72637946609e65ed5b33a5a61b74f","depot":"depot.js?f4166ce8d2b6c6d5d5da9db5fa4e9148","pages":"pages.js?c380f6653c58ef113691a673999f9d17","hbs":"hbs.js?7fe6bc103066364fdcf53c35c3f02e1e","talk":"talk.js?ff7befe09ad3b4242ae1a5a0519704da","Cookies":"Cookies.js?9d0fa6891579557bb33b89ca2aefe37b","spinjs":"spinjs.js?3d2acdc2ca1f8bd659f80fe5f0c506b7","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","classnames":"classnames.js?32f2c58b6085bc2c65a80e2eb28b7955","tedx":"tedx.js?309c4eb772299ef0988610119815ab4b","autosize":"autosize.js?221ca58af125bad7be036dace1f404ec","dashboard_hotels":"dashboard_hotels.js?9900c4133c8759c1be27903351df34fb","crushinator":"crushinator.js?78fa02fc2be00f61a95c0f3a713e7066","home":"home.js?0b35e6ff795b8acd422fc3e3f9c7abd2","settings":"settings.js?d9314281e48f66e1e01c7091a0342f94","moment":"moment.js?ac7a02f79dbe8cd3bb938d9d2c975e95","profiles":"profiles.js?97eb2fcf2058169a5e06a378ed80eac9","numeral":"numeral.js?960a90d12eeba5f5053ff9b510920c8b","enquire":"enquire.js?38ba93eab5a5b53ed8939a2d064c2ca6","global":"global.js?355adbd1b8f75bc5845a6b8df5e68bc9","dashboard_sessions":"dashboard_sessions.js?bd4ed1ef6a38c41ef5e1cf56e98fb537","Modernizr":"Modernizr.js?d7439d114d161f45ec3a6e1674b66c6d","menuAim":"menuAim.js?1abd7c848a7403e1178fdc3a67aed445","dashboard":"dashboard.js?517c8cdd6aa049ac606354be45d73330","pages/dynamic/dummy":"pages/dynamic/dummy.js?c4510725de4bbca4fe655b5b33bcf42c","playlists":"playlists.js?9c832e80050ca638f310eaa69f350cc3","lodash":"libs.js?182ff19a8a4f38fa390bc70300820a77","core":"core.js?a0fed3a5ccba61c0ebdd99615246658b","react-dom":"react-dom.js?0e4bb58cd36b3da9fefb45e85ae3655d","dashboard_tedx":"dashboard_tedx.js?af761ef2925c76662eb436f1b8c29ac5","react-svg-inline":"react-svg-inline.js?c754fdf4dcbcec60c0e87472165b62bf","dashboard_attendees":"dashboard_attendees.js?41cedb022f6a612c6dcb6655a31e9b53","flot":"flot.js?790926032e983cb92cb5850d4fa89693","search":"search.js?890f679965e7e416505192b8de553a5e","react":"react.js?cbe26e2257334e0f6b675367f1081fce","text":"text.js?e26b019a9234318cd703fd6fa193101d","jquery":"libs.js?182ff19a8a4f38fa390bc70300820a77","newsletter":"newsletter.js?4013db3a241e8c3d306abde7779e4afc","transit":"transit.js?2226c77c637b435dd40846cb36691f81","talks":"talks.js?de7b6b643cbfc2c56b1c3ee48158f880","waypoints":"waypoints.js?cb23603665f0672222117a00849ff86e","hbs/handlebars":"libs.js?182ff19a8a4f38fa390bc70300820a77"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://pa.tedcdn.com/javascripts/core.js?1463592553"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input autocorrect='off' class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/1506?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Watch the talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='chris_gerdes_the_future_race_car_150mph_and_no_driver'>
+<option value='ar'>Arabic</option>
+<option value='bg'>Bulgarian</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='cs'>Czech</option>
+<option value='nl'>Dutch</option>
+<option selected value='en'>English</option>
+<option value='fr'>French</option>
+<option value='de'>German</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hu'>Hungarian</option>
+<option value='id'>Indonesian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option value='ko'>Korean</option>
+<option value='pl'>Polish</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='th'>Thai</option>
+</select>
+<p>
+Transcribed by
+<a href="http://www.ted.com/profiles/1108408">Morton Bast</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1020352">Thu-Huong Ha</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/1506?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="647" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15e9b94b9856ac969692bfc5515bd7754e26977b_800x600.jpg?cb=20160511&amp;quality=63&amp;u=&amp;w=512" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:47</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Chris Gerdes</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/1506?language=en' lang='en'>
+The future race car — 150mph, and no driver
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Jul 2012
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Fascinating, Informative
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='506' id='t-506'>So, how many of you have ever</span>
+<span class='talk-transcript__fragment' data-time='1913' id='t-1913'>gotten behind the wheel of a car</span>
+<span class='talk-transcript__fragment' data-time='3568' id='t-3568'>when you really shouldn't have been driving?</span>
+<span class='talk-transcript__fragment' data-time='9255' id='t-9255'>Maybe you're out on the road for a long day,</span>
+<span class='talk-transcript__fragment' data-time='11160' id='t-11160'>and you just wanted to get home.</span>
+<span class='talk-transcript__fragment' data-time='12650' id='t-12650'>You were tired, but you felt you could drive a few more miles.</span>
+<span class='talk-transcript__fragment' data-time='15297' id='t-15297'>Maybe you thought,</span>
+<span class='talk-transcript__fragment' data-time='16496' id='t-16496'>I've had less to drink than everybody else,</span>
+<span class='talk-transcript__fragment' data-time='18513' id='t-18513'>I should be the one to go home.</span>
+<span class='talk-transcript__fragment' data-time='20249' id='t-20249'>Or maybe your mind was just entirely elsewhere.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='24840' id='t-24840'>Does this sound familiar to you?</span>
+<span class='talk-transcript__fragment' data-time='26294' id='t-26294'>Now, in those situations, wouldn't it be great</span>
+<span class='talk-transcript__fragment' data-time='29192' id='t-29192'>if there was a button on your dashboard</span>
+<span class='talk-transcript__fragment' data-time='30785' id='t-30785'>that you could push, and the car would get you home safely?</span>
+<span class='talk-transcript__fragment' data-time='37128' id='t-37128'>Now, that's been the promise of the self-driving car,</span>
+<span class='talk-transcript__fragment' data-time='39421' id='t-39421'>the autonomous vehicle, and it's been the dream</span>
+<span class='talk-transcript__fragment' data-time='42048' id='t-42048'>since at least 1939, when General Motors showcased</span>
+<span class='talk-transcript__fragment' data-time='45297' id='t-45297'>this idea at their Futurama booth at the World's Fair.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 0:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='48599' id='t-48599'>Now, it's been one of those dreams</span>
+<span class='talk-transcript__fragment' data-time='50542' id='t-50542'>that's always seemed about 20 years in the future.</span>
+<span class='talk-transcript__fragment' data-time='54756' id='t-54756'>Now, two weeks ago, that dream took a step forward,</span>
+<span class='talk-transcript__fragment' data-time='57439' id='t-57439'>when the state of Nevada granted Google's self-driving car</span>
+<span class='talk-transcript__fragment' data-time='60704' id='t-60704'>the very first license for an autonomous vehicle,</span>
+<span class='talk-transcript__fragment' data-time='64304' id='t-64304'>clearly establishing that it's legal for them</span>
+<span class='talk-transcript__fragment' data-time='66549' id='t-66549'>to test it on the roads in Nevada.</span>
+<span class='talk-transcript__fragment' data-time='68359' id='t-68359'>Now, California's considering similar legislation,</span>
+<span class='talk-transcript__fragment' data-time='72086' id='t-72086'>and this would make sure that the autonomous car</span>
+<span class='talk-transcript__fragment' data-time='74494' id='t-74494'>is not one of those things that has to stay in Vegas.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='77471' id='t-77471'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='79567' id='t-79567'>Now, in my lab at Stanford, we've been working on</span>
+<span class='talk-transcript__fragment' data-time='83351' id='t-83351'>autonomous cars too, but with a slightly different spin</span>
+<span class='talk-transcript__fragment' data-time='86838' id='t-86838'>on things. You see, we've been developing robotic race cars,</span>
+<span class='talk-transcript__fragment' data-time='91086' id='t-91086'>cars that can actually push themselves to the very limits</span>
+<span class='talk-transcript__fragment' data-time='95206' id='t-95206'>of physical performance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 1:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='97446' id='t-97446'>Now, why would we want to do such a thing?</span>
+<span class='talk-transcript__fragment' data-time='100059' id='t-100059'>Well, there's two really good reasons for this.</span>
+<span class='talk-transcript__fragment' data-time='102159' id='t-102159'>First, we believe that before people turn over control</span>
+<span class='talk-transcript__fragment' data-time='106118' id='t-106118'>to an autonomous car, that autonomous car should be</span>
+<span class='talk-transcript__fragment' data-time='108952' id='t-108952'>at least as good as the very best human drivers.</span>
+<span class='talk-transcript__fragment' data-time='112206' id='t-112206'>Now, if you're like me, and the other 70 percent of the population</span>
+<span class='talk-transcript__fragment' data-time='115511' id='t-115511'>who know that we are above-average drivers,</span>
+<span class='talk-transcript__fragment' data-time='117704' id='t-117704'>you understand that's a very high bar.</span>
+<span class='talk-transcript__fragment' data-time='120879' id='t-120879'>There's another reason as well.</span>
+<span class='talk-transcript__fragment' data-time='123271' id='t-123271'>Just like race car drivers can use all of the friction</span>
+<span class='talk-transcript__fragment' data-time='126847' id='t-126847'>between the tire and the road,</span>
+<span class='talk-transcript__fragment' data-time='128127' id='t-128127'>all of the car's capabilities to go as fast as possible,</span>
+<span class='talk-transcript__fragment' data-time='131304' id='t-131304'>we want to use all of those capabilities to avoid</span>
+<span class='talk-transcript__fragment' data-time='134649' id='t-134649'>any accident we can.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='136237' id='t-136237'>Now, you may push the car to the limits</span>
+<span class='talk-transcript__fragment' data-time='138287' id='t-138287'>not because you're driving too fast,</span>
+<span class='talk-transcript__fragment' data-time='140254' id='t-140254'>but because you've hit an icy patch of road,</span>
+<span class='talk-transcript__fragment' data-time='142414' id='t-142414'>conditions have changed.</span>
+<span class='talk-transcript__fragment' data-time='144118' id='t-144118'>In those situations, we want a car</span>
+<span class='talk-transcript__fragment' data-time='146879' id='t-146879'>that is capable enough to avoid any accident</span>
+<span class='talk-transcript__fragment' data-time='150599' id='t-150599'>that can physically be avoided.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 2:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='153277' id='t-153277'>I must confess, there's kind of a third motivation as well.</span>
+<span class='talk-transcript__fragment' data-time='157544' id='t-157544'>You see, I have a passion for racing.</span>
+<span class='talk-transcript__fragment' data-time='159800' id='t-159800'>In the past, I've been a race car owner,</span>
+<span class='talk-transcript__fragment' data-time='162564' id='t-162564'>a crew chief and a driving coach,</span>
+<span class='talk-transcript__fragment' data-time='165119' id='t-165119'>although maybe not at the level that you're currently expecting.</span>
+<span class='talk-transcript__fragment' data-time='168974' id='t-168974'>One of the things that we've developed in the lab --</span>
+<span class='talk-transcript__fragment' data-time='171678' id='t-171678'>we've developed several vehicles --</span>
+<span class='talk-transcript__fragment' data-time='173382' id='t-173382'>is what we believe is the world's first</span>
+<span class='talk-transcript__fragment' data-time='175617' id='t-175617'>autonomously drifting car.</span>
+<span class='talk-transcript__fragment' data-time='177982' id='t-177982'>It's another one of those categories</span>
+<span class='talk-transcript__fragment' data-time='180495' id='t-180495'>where maybe there's not a lot of competition.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='182918' id='t-182918'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='184326' id='t-184326'>But this is P1. It's an entirely student-built electric vehicle,</span>
+<span class='talk-transcript__fragment' data-time='188148' id='t-188148'>which through using its rear-wheel drive</span>
+<span class='talk-transcript__fragment' data-time='190226' id='t-190226'>and front-wheel steer-by-wire</span>
+<span class='talk-transcript__fragment' data-time='191791' id='t-191791'>can drift around corners.</span>
+<span class='talk-transcript__fragment' data-time='193858' id='t-193858'>It can get sideways like a rally car driver,</span>
+<span class='talk-transcript__fragment' data-time='196058' id='t-196058'>always able to take the tightest curve,</span>
+<span class='talk-transcript__fragment' data-time='197773' id='t-197773'>even on slippery, changing surfaces,</span>
+<span class='talk-transcript__fragment' data-time='201077' id='t-201077'>never spinning out.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='202693' id='t-202693'>We've also worked with Volkswagen Oracle,</span>
+<span class='talk-transcript__fragment' data-time='205061' id='t-205061'>on Shelley, an autonomous race car that has raced</span>
+<span class='talk-transcript__fragment' data-time='208485' id='t-208485'>at 150 miles an hour through the Bonneville Salt Flats,</span>
+<span class='talk-transcript__fragment' data-time='211555' id='t-211555'>gone around Thunderhill Raceway Park in the sun,</span>
+<span class='talk-transcript__fragment' data-time='216026' id='t-216026'>the wind and the rain,</span>
+<span class='talk-transcript__fragment' data-time='218665' id='t-218665'>and navigated the 153 turns and 12.4 miles</span>
+<span class='talk-transcript__fragment' data-time='223683' id='t-223683'>of the Pikes Peak Hill Climb route</span>
+<span class='talk-transcript__fragment' data-time='225245' id='t-225245'>in Colorado with nobody at the wheel.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 3:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='228718' id='t-228718'>(Laughter)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='230166' id='t-230166'>(Applause)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='235732' id='t-235732'>I guess it goes without saying that we've had a lot of fun</span>
+<span class='talk-transcript__fragment' data-time='239011' id='t-239011'>doing this.</span>
+<span class='talk-transcript__fragment' data-time='240315' id='t-240315'>But in fact, there's something else that we've developed</span>
+<span class='talk-transcript__fragment' data-time='243972' id='t-243972'>in the process of developing these autonomous cars.</span>
+<span class='talk-transcript__fragment' data-time='247027' id='t-247027'>We have developed a tremendous appreciation</span>
+<span class='talk-transcript__fragment' data-time='250898' id='t-250898'>for the capabilities of human race car drivers.</span>
+<span class='talk-transcript__fragment' data-time='254715' id='t-254715'>As we've looked at the question of how well do these cars perform,</span>
+<span class='talk-transcript__fragment' data-time='259060' id='t-259060'>we wanted to compare them to our human counterparts.</span>
+<span class='talk-transcript__fragment' data-time='262339' id='t-262339'>And we discovered their human counterparts are amazing.</span>
+<span class='talk-transcript__fragment' data-time='268019' id='t-268019'>Now, we can take a map of a race track,</span>
+<span class='talk-transcript__fragment' data-time='272042' id='t-272042'>we can take a mathematical model of a car,</span>
+<span class='talk-transcript__fragment' data-time='274412' id='t-274412'>and with some iteration, we can actually find</span>
+<span class='talk-transcript__fragment' data-time='277315' id='t-277315'>the fastest way around that track.</span>
+<span class='talk-transcript__fragment' data-time='278940' id='t-278940'>We line that up with data that we record</span>
+<span class='talk-transcript__fragment' data-time='281473' id='t-281473'>from a professional driver,</span>
+<span class='talk-transcript__fragment' data-time='282906' id='t-282906'>and the resemblance is absolutely remarkable.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 4:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='287013' id='t-287013'>Yes, there are subtle differences here,</span>
+<span class='talk-transcript__fragment' data-time='290225' id='t-290225'>but the human race car driver is able to go out</span>
+<span class='talk-transcript__fragment' data-time='293352' id='t-293352'>and drive an amazingly fast line,</span>
+<span class='talk-transcript__fragment' data-time='295687' id='t-295687'>without the benefit of an algorithm that compares</span>
+<span class='talk-transcript__fragment' data-time='298017' id='t-298017'>the trade-off between going as fast as possible</span>
+<span class='talk-transcript__fragment' data-time='300625' id='t-300625'>in this corner, and shaving a little bit of time</span>
+<span class='talk-transcript__fragment' data-time='302662' id='t-302662'>off of the straight over here.</span>
+<span class='talk-transcript__fragment' data-time='304564' id='t-304564'>Not only that, they're able to do it lap</span>
+<span class='talk-transcript__fragment' data-time='308021' id='t-308021'>after lap after lap.</span>
+<span class='talk-transcript__fragment' data-time='310396' id='t-310396'>They're able to go out and consistently do this,</span>
+<span class='talk-transcript__fragment' data-time='313308' id='t-313308'>pushing the car to the limits every single time.</span>
+<span class='talk-transcript__fragment' data-time='317436' id='t-317436'>It's extraordinary to watch.</span>
+<span class='talk-transcript__fragment' data-time='320605' id='t-320605'>You put them in a new car,</span>
+<span class='talk-transcript__fragment' data-time='322671' id='t-322671'>and after a few laps, they've found the fastest line in that car,</span>
+<span class='talk-transcript__fragment' data-time='326573' id='t-326573'>and they're off to the races.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 5:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='330450' id='t-330450'>It really makes you think,</span>
+<span class='talk-transcript__fragment' data-time='331596' id='t-331596'>we'd love to know what's going on inside their brain.</span>
+<span class='talk-transcript__fragment' data-time='336467' id='t-336467'>So as researchers, that's what we decided to find out.</span>
+<span class='talk-transcript__fragment' data-time='341008' id='t-341008'>We decided to instrument not only the car,</span>
+<span class='talk-transcript__fragment' data-time='342820' id='t-342820'>but also the race car driver,</span>
+<span class='talk-transcript__fragment' data-time='345315' id='t-345315'>to try to get a glimpse into what was going on</span>
+<span class='talk-transcript__fragment' data-time='348084' id='t-348084'>in their head as they were doing this.</span>
+<span class='talk-transcript__fragment' data-time='350270' id='t-350270'>Now, this is Dr. Lene Harbott applying electrodes</span>
+<span class='talk-transcript__fragment' data-time='354220' id='t-354220'>to the head of John Morton.</span>
+<span class='talk-transcript__fragment' data-time='355452' id='t-355452'>John Morton is a former Can-Am and IMSA driver,</span>
+<span class='talk-transcript__fragment' data-time='358441' id='t-358441'>who's also a class champion at Le Mans.</span>
+<span class='talk-transcript__fragment' data-time='360241' id='t-360241'>Fantastic driver, and very willing to put up with graduate students</span>
+<span class='talk-transcript__fragment' data-time='363737' id='t-363737'>and this sort of research.</span>
+<span class='talk-transcript__fragment' data-time='365592' id='t-365592'>She's putting electrodes on his head</span>
+<span class='talk-transcript__fragment' data-time='368264' id='t-368264'>so that we can monitor the electrical activity</span>
+<span class='talk-transcript__fragment' data-time='370376' id='t-370376'>in John's brain as he races around the track.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 6:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='373208' id='t-373208'>Now, clearly we're not going to put a couple of electrodes on his head</span>
+<span class='talk-transcript__fragment' data-time='376403' id='t-376403'>and understand exactly what all of his thoughts are on the track.</span>
+<span class='talk-transcript__fragment' data-time='379673' id='t-379673'>However, neuroscientists have identified certain patterns</span>
+<span class='talk-transcript__fragment' data-time='383080' id='t-383080'>that let us tease out some very important aspects of this.</span>
+<span class='talk-transcript__fragment' data-time='386841' id='t-386841'>For instance, the resting brain</span>
+<span class='talk-transcript__fragment' data-time='388688' id='t-388688'>tends to generate a lot of alpha waves.</span>
+<span class='talk-transcript__fragment' data-time='390843' id='t-390843'>In contrast, theta waves are associated with</span>
+<span class='talk-transcript__fragment' data-time='394595' id='t-394595'>a lot of cognitive activity, like visual processing,</span>
+<span class='talk-transcript__fragment' data-time='397779' id='t-397779'>things where the driver is thinking quite a bit.</span>
+<span class='talk-transcript__fragment' data-time='400827' id='t-400827'>Now, we can measure this,</span>
+<span class='talk-transcript__fragment' data-time='402490' id='t-402490'>and we can look at the relative power</span>
+<span class='talk-transcript__fragment' data-time='404475' id='t-404475'>between the theta waves and the alpha waves.</span>
+<span class='talk-transcript__fragment' data-time='406675' id='t-406675'>This gives us a measure of mental workload,</span>
+<span class='talk-transcript__fragment' data-time='409117' id='t-409117'>how much the driver is actually challenged cognitively</span>
+<span class='talk-transcript__fragment' data-time='412684' id='t-412684'>at any point along the track.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='414470' id='t-414470'>Now, we wanted to see if we could actually record this</span>
+<span class='talk-transcript__fragment' data-time='417412' id='t-417412'>on the track, so we headed down south to Laguna Seca.</span>
+<span class='talk-transcript__fragment' data-time='420450' id='t-420450'>Laguna Seca is a legendary raceway</span>
+<span class='talk-transcript__fragment' data-time='422466' id='t-422466'>about halfway between Salinas and Monterey.</span>
+<span class='talk-transcript__fragment' data-time='424767' id='t-424767'>It has a curve there called the Corkscrew.</span>
+<span class='talk-transcript__fragment' data-time='426854' id='t-426854'>Now, the Corkscrew is a chicane, followed by a quick</span>
+<span class='talk-transcript__fragment' data-time='429571' id='t-429571'>right-handed turn as the road drops three stories.</span>
+<span class='talk-transcript__fragment' data-time='432317' id='t-432317'>Now, the strategy for driving this as explained to me was,</span>
+<span class='talk-transcript__fragment' data-time='436083' id='t-436083'>you aim for the bush in the distance,</span>
+<span class='talk-transcript__fragment' data-time='438105' id='t-438105'>and as the road falls away, you realize it was actually the top of a tree.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 7:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='441130' id='t-441130'>All right, so thanks to the Revs Program at Stanford,</span>
+<span class='talk-transcript__fragment' data-time='444434' id='t-444434'>we were able to take John there</span>
+<span class='talk-transcript__fragment' data-time='445907' id='t-445907'>and put him behind the wheel</span>
+<span class='talk-transcript__fragment' data-time='446871' id='t-446871'>of a 1960 Porsche Abarth Carrera.</span>
+<span class='talk-transcript__fragment' data-time='449310' id='t-449310'>Life is way too short for boring cars.</span>
+<span class='talk-transcript__fragment' data-time='453008' id='t-453008'>So, here you see John on the track,</span>
+<span class='talk-transcript__fragment' data-time='454767' id='t-454767'>he's going up the hill -- Oh! Somebody liked that --</span>
+<span class='talk-transcript__fragment' data-time='456951' id='t-456951'>and you can see, actually, his mental workload</span>
+<span class='talk-transcript__fragment' data-time='459416' id='t-459416'>-- measuring here in the red bar --</span>
+<span class='talk-transcript__fragment' data-time='461569' id='t-461569'>you can see his actions as he approaches.</span>
+<span class='talk-transcript__fragment' data-time='463912' id='t-463912'>Now watch, he has to downshift.</span>
+<span class='talk-transcript__fragment' data-time='467142' id='t-467142'>And then he has to turn left.</span>
+<span class='talk-transcript__fragment' data-time='467903' id='t-467903'>Look for the tree, and down.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='471896' id='t-471896'>Not surprisingly, you can see this is a pretty challenging task.</span>
+<span class='talk-transcript__fragment' data-time='474734' id='t-474734'>You can see his mental workload spike as he goes through this,</span>
+<span class='talk-transcript__fragment' data-time='477710' id='t-477710'>as you would expect with something that requires</span>
+<span class='talk-transcript__fragment' data-time='479774' id='t-479774'>this level of complexity.</span>
+<span class='talk-transcript__fragment' data-time='482583' id='t-482583'>But what's really interesting is to look at areas of the track</span>
+<span class='talk-transcript__fragment' data-time='485999' id='t-485999'>where his mental workload doesn't increase.</span>
+<span class='talk-transcript__fragment' data-time='488845' id='t-488845'>I'm going to take you around now</span>
+<span class='talk-transcript__fragment' data-time='490340' id='t-490340'>to the other side of the track.</span>
+<span class='talk-transcript__fragment' data-time='491429' id='t-491429'>Turn three. And John's going to go into that corner</span>
+<span class='talk-transcript__fragment' data-time='493765' id='t-493765'>and the rear end of the car is going to begin to slide out.</span>
+<span class='talk-transcript__fragment' data-time='496316' id='t-496316'>He's going to have to correct for that with steering.</span>
+<span class='talk-transcript__fragment' data-time='498333' id='t-498333'>So watch as John does this here.</span>
+<span class='talk-transcript__fragment' data-time='500564' id='t-500564'>Watch the mental workload, and watch the steering.</span>
+<span class='talk-transcript__fragment' data-time='502886' id='t-502886'>The car begins to slide out, dramatic maneuver to correct it,</span>
+<span class='talk-transcript__fragment' data-time='506558' id='t-506558'>and no change whatsoever in the mental workload.</span>
+<span class='talk-transcript__fragment' data-time='510081' id='t-510081'>Not a challenging task.</span>
+<span class='talk-transcript__fragment' data-time='512913' id='t-512913'>In fact, entirely reflexive.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 8:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='516113' id='t-516113'>Now, our data processing on this is still preliminary,</span>
+<span class='talk-transcript__fragment' data-time='519756' id='t-519756'>but it really seems that these phenomenal feats</span>
+<span class='talk-transcript__fragment' data-time='522428' id='t-522428'>that the race car drivers are performing</span>
+<span class='talk-transcript__fragment' data-time='524038' id='t-524038'>are instinctive.</span>
+<span class='talk-transcript__fragment' data-time='525948' id='t-525948'>They are things that they have simply learned to do.</span>
+<span class='talk-transcript__fragment' data-time='529338' id='t-529338'>It requires very little mental workload</span>
+<span class='talk-transcript__fragment' data-time='531620' id='t-531620'>for them to perform these amazing feats.</span>
+<span class='talk-transcript__fragment' data-time='534444' id='t-534444'>And their actions are fantastic.</span>
+<span class='talk-transcript__fragment' data-time='537579' id='t-537579'>This is exactly what you want to do on the steering wheel</span>
+<span class='talk-transcript__fragment' data-time='540190' id='t-540190'>to catch the car in this situation.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='543527' id='t-543527'>Now, this has given us tremendous insight</span>
+<span class='talk-transcript__fragment' data-time='546972' id='t-546972'>and inspiration for our own autonomous vehicles.</span>
+<span class='talk-transcript__fragment' data-time='550094' id='t-550094'>We've started to ask the question:</span>
+<span class='talk-transcript__fragment' data-time='552022' id='t-552022'>Can we make them a little less algorithmic</span>
+<span class='talk-transcript__fragment' data-time='554275' id='t-554275'>and a little more intuitive?</span>
+<span class='talk-transcript__fragment' data-time='556724' id='t-556724'>Can we take this reflexive action</span>
+<span class='talk-transcript__fragment' data-time='559005' id='t-559005'>that we see from the very best race car drivers,</span>
+<span class='talk-transcript__fragment' data-time='561292' id='t-561292'>introduce it to our cars,</span>
+<span class='talk-transcript__fragment' data-time='562941' id='t-562941'>and maybe even into a system that could</span>
+<span class='talk-transcript__fragment' data-time='564925' id='t-564925'>get onto your car in the future?</span>
+<span class='talk-transcript__fragment' data-time='566893' id='t-566893'>That would take us a long step</span>
+<span class='talk-transcript__fragment' data-time='568504' id='t-568504'>along the road to autonomous vehicles</span>
+<span class='talk-transcript__fragment' data-time='571013' id='t-571013'>that drive as well as the best humans.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+ 9:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='572925' id='t-572925'>But it's made us think a little bit more deeply as well.</span>
+<span class='talk-transcript__fragment' data-time='576365' id='t-576365'>Do we want something more from our car</span>
+<span class='talk-transcript__fragment' data-time='579333' id='t-579333'>than to simply be a chauffeur?</span>
+<span class='talk-transcript__fragment' data-time='581173' id='t-581173'>Do we want our car to perhaps be a partner, a coach,</span>
+<span class='talk-transcript__fragment' data-time='585408' id='t-585408'>someone that can use their understanding of the situation</span>
+<span class='talk-transcript__fragment' data-time='588495' id='t-588495'>to help us reach our potential?</span>
+<span class='talk-transcript__fragment' data-time='592751' id='t-592751'>Can, in fact, the technology not simply replace humans,</span>
+<span class='talk-transcript__fragment' data-time='595024' id='t-595024'>but allow us to reach the level of reflex and intuition</span>
+<span class='talk-transcript__fragment' data-time='599599' id='t-599599'>that we're all capable of?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='603024' id='t-603024'>So, as we move forward into this technological future,</span>
+<span class='talk-transcript__fragment' data-time='604947' id='t-604947'>I want you to just pause and think of that for a moment.</span>
+<span class='talk-transcript__fragment' data-time='607768' id='t-607768'>What is the ideal balance of human and machine?</span>
+<span class='talk-transcript__fragment' data-time='611543' id='t-611543'>And as we think about that,</span>
+<span class='talk-transcript__fragment' data-time='613252' id='t-613252'>let's take inspiration</span>
+<span class='talk-transcript__fragment' data-time='614983' id='t-614983'>from the absolutely amazing capabilities</span>
+<span class='talk-transcript__fragment' data-time='618312' id='t-618312'>of the human body and the human mind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='621128' id='t-621128'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='622864' id='t-622864'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>
