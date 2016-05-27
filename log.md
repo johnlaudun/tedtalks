@@ -1,10 +1,5 @@
 # Notebook
 
-As I work through Matt Jockers’ `syuzhet`, I decided it would be interesting to try it out on some non-narrative materials to see what shapes turn up. A variety of possibilities ran through my head, but the one that stood out was, believe it or not, TED talks. TED talks are a well-established genre with a stable structure/format. They have become both popular -- witness NPR's syndicated _TED Hour_ and influential, if the various TEDx instantiations as well as uses in education (TEDucation?) are a reliable index.
-
-Moreover, in 2010 [Sebastian Wernicke][] assessed the corpus as it stood at that time, and so perhaps a revision of that early assessment might be due.
-
-
 ## Getting the transcripts
 
 The next step was how to download all the transcripts. The URLs all looked like this:
@@ -109,7 +104,5 @@ And I want to name the file: al_gore_on_averting_climate_crisis.
    #date_spans = soup.find_all('span', {'class' : 'meta__val'})
    #date = [x.get_text().strip("\n\r") for x in date_spans if re.search(r"(?s)[A-Z][a-z]{2}\s+\d{4}", x.get_text().strip("\n\r"))][0]
 
-
-[Sebastian Wernicke]: http://www.ted.com/talks/lies_damned_lies_and_statistics_about_tedtalks
 [Open Culture]: http://www.openculture.com/2014/06/1756-ted-talks-listed-in-a-neat-spreadsheet.html
 [Google Spreadsheet]: https://spreadsheets.google.com/ccc?hl=en&key=pjGlYH-8AK8ffDa6o2bYlXg&hl=en#gid=0
