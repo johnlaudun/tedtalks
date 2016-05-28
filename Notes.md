@@ -1,5 +1,6 @@
-- TED Talk Transcripts
-    - Reasons for Interest
+# TED Talk Transcripts
+
+## Reasons for Interest
         - incredible saturation of various dimensions of culture very
           quickly, both popular and on NPR.
         - impact on education (TEDucation)
@@ -7,7 +8,8 @@
           culture as tweets and the study of culture as novels. There
           is an incredible middle ground and these talks are
           representative of that.
-    - Features Previously Discussed
+		  
+## Features Previously Discussed
         - This initial feature set is part of Sebastian Wernicke’s TED
           talk
           (http://www.ted.com/talks/lies_damned_lies_and_statistics_abou
@@ -40,7 +42,7 @@
             - 4-grams for most and least favorite.
             - He has a few more things to consider (e.g., the “TED
               Pad”).
-    - Possible Features to Consider
+## Possible Features to Consider
         - What is the overall “topical map” of the TED talks and what
           is changing map of the talks: i.e., year to year.
         - Do topics arise in response to external events?
@@ -70,3 +72,41 @@
             - >>> Grab speaker profiles from TED website, build CSV
               with name, designation, and text. (We will derive gender
               from text.)
+
+## More Notes
+
+The following CFP came across _The Humanist_ mailing list two days ago (May 26). I only quote the top portion below for the notion of *trend detection*:
+
+```
+========================================================
+CALL FOR PAPERS
+20th International Conference on Knowledge Engineering and Knowledge
+Management (EKAW 2016)
+
+19-23 November 2016, Bologna, Italy
+Abstract submission: July 8, 2016
+Paper submission: July 15, 2016
+
+Web site: http://ekaw2016.cs.unibo.it/?q=callforpapers
+========================================================
+
+
+The 20th International Conference on Knowledge Engineering and Knowledge
+Management is concerned with the impact of time and space on the
+representation of knowledge. Knowledge engineering has mostly been about
+creating static, universal representations. Yet the world is rarely static:
+everything changes, including the models, and real world systems need to
+evolve along with the surrounding world. Also, what makes some
+representations valid in some contexts may make them invalid elsewhere
+(e.g., jurisdiction for laws).
+
+The special focus of this year's EKAW is "evolving knowledge", which
+concerns all aspects of the management and acquisition of knowledge
+representations of evolving, contextual, and local models. This includes
+change management, trend detection, model evolution, streaming data and
+stream reasoning, event processing, time-and space dependent models,
+contextual and local knowledge representations, etc.
+
+EKAW 2016 will put a special emphasis on the evolvability and localization
+of knowledge and the correct usage of these limits.
+```
