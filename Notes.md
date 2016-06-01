@@ -72,6 +72,24 @@
             - >>> Grab speaker profiles from TED website, build CSV
               with name, designation, and text. (We will derive gender
               from text.)
+              
+### More Features
+
+* Organization/formulae/templates for talks:
+    - Sampled talk had a quick introduction and a quick definition and then lots of details: do technical words increase in the "body" of the talk? Second sample also used "I hope" at the end of the talk.
+    - Derived "footprint" by audio analysis? (Footprint = structure = organization.)
+    - Last sentence (or so) of every talk.
+    - If TED has "thin" introductions and conclusions and seem to focus more on examples within a talk, are there fewer "structural" words or cues? (e.g., "in this next section" "I will now examine.")
+    - 
+
+
+### Time of Talk
+
+* Talk lengths: by class.
+* Density of terms vs. density of talk. TED talks are more dense in what way? (Less framing language, metalanguage, metadiscourse?)
+    
+              
+
 
 ## More Notes
 
