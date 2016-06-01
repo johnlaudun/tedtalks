@@ -106,3 +106,8 @@ And I want to name the file: al_gore_on_averting_climate_crisis.
 
 [Open Culture]: http://www.openculture.com/2014/06/1756-ted-talks-listed-in-a-neat-spreadsheet.html
 [Google Spreadsheet]: https://spreadsheets.google.com/ccc?hl=en&key=pjGlYH-8AK8ffDa6o2bYlXg&hl=en#gid=0
+
+
+## Further On...
+
+LDA and possible visualization: http://chdoig.github.io/pygotham-topic-modeling/#/
