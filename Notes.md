@@ -31,44 +31,32 @@
 * Do topics arise in response to external events?
 * What is the most central TED talk once we have a set of features?
 * Do the early talks set any kind of example or reveal any kind of influence in later talks in terms of topics or word use?
-        - Are their consistent phrases? (See Wernicke above.)
-        - Do these talks reveal any particular shape? (In terms of
-          sentiment or other controlled-vocabulary methods.)
-        - Speaking of which, is there a TED vocabulary/lexicon?
-        - How do any of these features play out against how often a
-          talk is viewed/favorited? (We have another measure of
-          sentiment, which means we also have a way to consider how the
-          sentiment about a talk compares to sentiment within a talk.)
-        - Time 100 vs TED speakers. Which comes first? Who comes across?
-            - Time's list is published in April.
-        - Sentiment vs Public Mood (Stimson).
-        - Some TEDs have tag lines: do talks follow the "assigned
-          topic"?
-        - When does a TED talk “deliver” its title? (Train topics on
-          documents and then hand code titles.)
-        - Dynamic Topic Modeling: is there influence? (Probably not but
-          if null, interesting?)
-        - ted.com/speakers has all the speakers and it has them by some
-          sort of category/designation.
-            - >>> Grab speaker profiles from TED website, build CSV
-              with name, designation, and text. (We will derive gender
-              from text.)
-              
+* Are their consistent phrases? (See Wernicke above.)
+* Do these talks reveal any particular shape? (In terms of sentiment or other controlled-vocabulary methods.)
+* Speaking of which, is there a TED vocabulary/lexicon?
+* How do any of these features play out against how often a talk is viewed/favorited? (We have another measure of sentiment, which means we also have a way to consider how the sentiment about a talk compares to sentiment within a talk.)
+* Time 100 vs TED speakers. Which comes first? Who comes across? >>> Time's list is published in April.
+* Sentiment vs Public Mood (Stimson).
+* Some TEDs have tag lines: do talks follow the "assigned topic"?
+* When does a TED talk “deliver” its title? (Train topics on documents and then hand code titles.)
+* Dynamic Topic Modeling: is there influence? (Probably not but if null, interesting?)
+* ted.com/speakers has all the speakers and it has them by some sort of category/designation. >>> Grab speaker profiles from TED website, build CSV with name, designation, and text. (We will derive gender from text.)
+
+
 ### More Features
 
 * Organization/formulae/templates for talks:
-    - Sampled talk had a quick introduction and a quick definition and then lots of details: do technical words increase in the "body" of the talk? Second sample also used "I hope" at the end of the talk.
-    - Derived "footprint" by audio analysis? (Footprint = structure = organization.)
-    - Last sentence (or so) of every talk.
-    - If TED has "thin" introductions and conclusions and seem to focus more on examples within a talk, are there fewer "structural" words or cues? (e.g., "in this next section" "I will now examine.")
-    - In the big "middle" of TED talks, are there signals (phrases or audience applause) that indicate a better talk? (A more organized talk?)
-    - 
-    
-    
-    Footprint
-    External signals
-    Stock words/phrases
-    Density 
+  - Sampled talk had a quick introduction and a quick definition and then lots of details: do technical words increase in the "body" of the talk? Second sample also used "I hope" at the end of the talk.
+  - Derived "footprint" by audio analysis? (Footprint = structure = organization.)
+  - Last sentence (or so) of every talk.
+  - If TED has "thin" introductions and conclusions and seem to focus more on examples within a talk, are there fewer "structural" words or cues? (e.g., "in this next section" "I will now examine.")
+  - In the big "middle" of TED talks, are there signals (phrases or audience applause) that indicate a better talk? (A more organized talk?)
+
+* James' Short List
+  - Footprint
+  - External signals
+  - Stock words/phrases
+  - Density 
 
 
 ### Time of Talk
@@ -76,15 +64,13 @@
 * Talk lengths: by class.
 * Density of terms vs. density of talk. TED talks are more dense in what way? (Less framing language, metalanguage, metadiscourse? >>> This will probably be phrases.)
     
-              
 
 
 ## More Notes
 
 The following CFP came across _The Humanist_ mailing list two days ago (May 26). I only quote the top portion below for the notion of *trend detection*:
 
-```
-========================================================
+```md
 CALL FOR PAPERS
 20th International Conference on Knowledge Engineering and Knowledge
 Management (EKAW 2016)
@@ -92,10 +78,7 @@ Management (EKAW 2016)
 19-23 November 2016, Bologna, Italy
 Abstract submission: July 8, 2016
 Paper submission: July 15, 2016
-
 Web site: http://ekaw2016.cs.unibo.it/?q=callforpapers
-========================================================
-
 
 The 20th International Conference on Knowledge Engineering and Knowledge
 Management is concerned with the impact of time and space on the
