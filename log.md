@@ -111,3 +111,12 @@ And I want to name the file: al_gore_on_averting_climate_crisis.
 ## Further On...
 
 LDA and possible visualization: http://chdoig.github.io/pygotham-topic-modeling/#/
+
+
+## So Much `wget`ting
+
+```bash
+FINISHED --2016-06-02 15:48:26--
+Total wall clock time: 2h 17m 7s
+Downloaded: 1397 files, 116M in 18m 4s (109 KB/s)
+```
