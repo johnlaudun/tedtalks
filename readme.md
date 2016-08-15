@@ -2,11 +2,11 @@
 
 **Table of Contents**
 
-[Reasons for Interest](#reasons-for-interest)
-[Features under Consideration](#features-under-consideration)
-[CFPs](#cfps)
-[Getting the Transcripts](#getting-the-transcripts)
-[Generating a CSV](#generating-a-csv)
+1. [Reasons for Interest](#reasons-for-interest)
+2. [Features under Consideration](#features-under-consideration)
+3. [CFPs](#cfps)
+4. [Getting the Transcripts](#getting-the-transcripts)
+5. [Generating a CSV](#generating-a-csv)
 
 ## Reasons for Interest
 
