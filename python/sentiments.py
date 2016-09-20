@@ -13,12 +13,15 @@ from nltk import tokenize
 import numpy as np
 
 
-# Customizations
+# MPL Customizations
 seaborn.set_style("darkgrid")
 plt.rcParams['figure.figsize'] = 12, 8
 
 
-# AFINN
+# Below are three functions that break a text into sentences and then 
+# assign a numerical value for sentiment based on a particular library.
+
+## AFINN
 
 def afinn_sentiment(filename):
     from afinn import Afinn
@@ -33,7 +36,7 @@ def afinn_sentiment(filename):
         return sentiments
 
 
-# TextBlob
+## TextBlob
 
 def textblob_sentiment(filename):
     from textblob import TextBlob
@@ -46,7 +49,9 @@ def textblob_sentiment(filename):
             textsentiments.append(sentsent)
         return textsentiments
 
-# Indico
+## Indico
+
+## Please note that my_key has been removed. Other users will need their own API key.
 
 def indico_sentiment(filename):
     import indicoio
@@ -57,22 +62,26 @@ def indico_sentiment(filename):
         indico_sent = indicoio.sentiment(sentences)
     return indico_sent
 
-# Moving Average with TA Library
+# The next five functions are various mathematical calculations for
+# averages and normalization (in order to make comparisons between 
+# sentiment libraries.
+
+
+## Moving Average with TA Library
 
 def m_average(a_list, window):
     from talib import MA
     ma_array = np.asarray(a_list)
     return MA(ma_array,window)
 
-# Running Mean with Numpy
+## Running Mean with Numpy
 
 def r_mean(a_list, window):
     rm_array = np.asarray(a_list)
     cumsum = np.cumsum(np.insert(rm_array, 0, 0))
     return (cumsum[window:] - cumsum[:-window]) / window
 
-
-# BONUS: Min-Max Function
+## BONUS: Min-Max Function
 
 def minmax(a_list):
     the_len  = len(a_list)
@@ -81,8 +90,7 @@ def minmax(a_list):
     the_range = max_val - min_val
     return (the_len, min_val, max_val, the_range)
 
-
-# Normalization
+## Normalization
 
 def normed(a_list, norm_min, norm_max):
     old_min = min(a_list)
@@ -98,6 +106,11 @@ def mehrdad(a_list):
     return mehrdad
 
 # Plotting
+
+# The five functions below are various plots: raw results, averaged, 
+# normalized, normalized and averaged. 
+# The function that calls the INDICO API is commented out because of
+# the limits on the free version of the API.
 
 def plot_sentiments(filename, annotation):
     fig = plt.figure()
