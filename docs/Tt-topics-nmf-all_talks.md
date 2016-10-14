@@ -2,6 +2,10 @@
 
 ```python
 >>> %pylab inline
+Populating the interactive namespace from numpy and matplotlib
+/Users/john/Library/Python/3.4/lib/python/site-packages/IPython/core/magics/pylab.py:161: UserWarning: pylab import has clobbered these variables: ['text']
+`%matplotlib` prevents importing * from pylab and numpy
+  "\n`%matplotlib` prevents importing * from pylab and numpy"
 ```
 
 ```python
@@ -18,6 +22,16 @@
 >>> dates = df.date.tolist()
 >>> citations = [author+" "+date for author, date in zip(authors, dates)]
 ```
+
+On stopwords in `sklearn`:
+
+* According to the sklearn GH page on this topic the "list of English stop words is taken from the "Glasgow Information Retrieval Group". The original list can be found at http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words." [Link to GH page][].
+* `sklearn` has a built-in list of stopwords for various languages. If, however, we decide not to use stopwords, and there's no reason why we couldn't take advantage of the inherent properties of TFIDF to eliminate common words, then the documentation notes: "If None, no stop words will be used. max_df can be set to a value in the range [0.7, 1.0) to automatically detect and filter stop words based on intra corpus document frequency of terms."
+* [David Blei][] did publish a list of stopwords with his _Turbo Topics_ python scripts. 
+* A comparison of Blei's stopwords (296 words) and the Glasgow stopwords (318) revealed some slight differences -- Blei prefers to eliminate all uses of "use", for example, but that's about it.
+
+[Link to GH page]: https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/feature_extraction/stop_words.py
+[David Blei]: https://www.cs.princeton.edu/~blei/topicmodeling.html
 
 ```python
 >>> import numpy as np
@@ -49,6 +63,7 @@
 ...           random_state=1,
 ...           alpha=.1,
 ...           l1_ratio=.5).fit(tfidf)
+Fitting the NMF model with 35 topics for 2113 documents with 1000 features.
 ```
 
 ```python
@@ -140,3 +155,34 @@ To save a df to a CSV:
 ## Topics by Year
 
 I have 35 topics, so 35 boxes: each with 10 bars.
+
+```python
+>>> doctopic = nmf.fit_transform(dtm)
+>>> # Assuming that doctopic is a ARRAY!
+... #
+... # If this is actually an array, then you could just do:
+... #      np.savetxt("foo.csv", doctopic, delimiter=",", fmt = "%s")
+... # http://stackoverflow.com/questions/6081008/dump-a-numpy-array-into-a-csv-file
+... #
+... # The above won't give you the names of the files. Instead try this:
+... # fileheader = np.concatenate((np.array([["citations"]]), np.array([list(range(K)])),axis = 1)
+... #                                                         where K is the number of topics
+... # docTopics = np.concatenate((citatations, doctopic), axis = 1)
+... # docTopics = np.concatenate((fileheader, docTopics), axis = 0)
+...
+... for i in range(len(doctopic)): #march over each row --> document
+...     top_topics = np.argsort(doctopic[i,:])[::-1][0:3]
+...     # DOCTOPIC[I,:] is the amount of each topic starting at 0
+...     # NP.ARGSORT(DOCTOPIC[I,:]) tells us how topics are used starting with the least
+...     #        EX - test = np.matrix("1 3 4 2")
+...     #        	  np.argsort(test) will yield matrix([[0, 3, 1, 2]])
+...     # [::-1] reverses the order.
+...     # So NP.ARGSORT(DOCTOPIC[I,:])[::-1] gives us the topics in order of being used
+...     #        biggest to smallest
+...     # Then NP.ARGSORT(DOCTOPIC[I,:])[::-1][0:3] gives us the top 3 topics
+...     top_topics_str = ' '.join(str(t) for t in top_topics)
+...     # Here you loop over each of the top three topics and convert the integer type to a
+...     # string and concatenates all of these together.
+...     print("{}: {}".format(citations[i], top_topics_str))
+...     # Then you print two strings for each document
+```
