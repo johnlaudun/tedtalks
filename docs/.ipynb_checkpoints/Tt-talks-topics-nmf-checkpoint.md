@@ -16,44 +16,47 @@ More useful discussion of NMF-LDA on this [SO thread][so].
 
 [so]: http://stackoverflow.com/questions/35140117/how-to-interpret-lda-components-using-sklearn
 
+```python
+>>> import pandas
+>>> import re
+>>> colnames = ['author', 'title', 'date' , 'length', 'text']
+>>> data = pandas.read_csv('./data/talks-v1b.csv', names=colnames)
+```
 
 ```python
-import pandas
-import re
-colnames = ['author', 'title', 'date' , 'length', 'text']
-data = pandas.read_csv('./data/talks-v1b.csv', names=colnames)
+>>> # Creating 3 lists of relevant data.
+... # Importing everything here.
+... # If we want to test, we should import 2006-2015 and test on 2016.
+...
+... talks = data.text.tolist()
+>>> authors = data.author.tolist()
+>>> dates = data.date.tolist()
+...
+>>> # Getting only the years from dates list
+... years = [re.sub('[A-Za-z ]', '', item) for item in dates]
+...
+>>> # Combining year with presenter for citation
+... authordate = [author+" "+year for author, year in zip(authors, years)]
+```
 
-# Creating 3 lists of relevant data.
-# Importing everything here. 
-# If we want to test, we should import 2006-2015 and test on 2016.
-
-talks = data.text.tolist()
-authors = data.author.tolist()
-dates = data.date.tolist()
-
-# Getting only the years from dates list
-years = [re.sub('[A-Za-z ]', '', item) for item in dates]
-
-# Combining year with presenter for citation
-authordate = [author+" "+year for author, year in zip(authors, years)]
-
-# We need to remove the "empty" talks from both lists.
-
-# We establish which talks are empty
-i = 0
-no_good = []
-for talk in talks: 
-    A = type(talk)
-    B = type('string or something')
-    if A != B:
-        no_good.append(i)
-    i = i + 1
-
-# Now we delete them in reverse order so as to preserve index order
-for index in sorted(no_good, reverse=True):
-    del talks[index]
-for index in sorted(no_good, reverse=True):
-    del authordate[index]
+```python
+>>> # We need to remove the "empty" talks from both lists.
+...
+... # We establish which talks are empty
+... i = 0
+>>> no_good = []
+>>> for talk in talks:
+...     A = type(talk)
+...     B = type('string or something')
+...     if A != B:
+...         no_good.append(i)
+...     i = i + 1
+...
+>>> # Now we delete them in reverse order so as to preserve index order
+... for index in sorted(no_good, reverse=True):
+...     del talks[index]
+>>> for index in sorted(no_good, reverse=True):
+...     del authordate[index]
 ```
 
 ## Non-Negative Matrix Topic Models
@@ -2246,6 +2249,7 @@ for i in range(len(doctopic)):
 
 ```python
 
+
 # Fit the LDA model
 lda = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
                                 learning_method='online',
@@ -2381,11 +2385,13 @@ print(type(doc_topic_distrib), len(doc_topic_distrib))
 
 ```python
 
+
 # For a quick check of the number of documents and terms in the matrix:
 print(dtm.shape)
 ```
 
 ```python
+
 
 doctopic_orig = doctopic.copy()
 num_groups = len(set(authordate))

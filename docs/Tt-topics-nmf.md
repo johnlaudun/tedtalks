@@ -15,11 +15,11 @@ Populating the interactive namespace from numpy and matplotlib
 ...
 >>> df['date'] = df['date'].replace(to_replace='[A-Za-z ]', value='', regex=True)
 ...
->>> data2006 = df[df['date'] == '2006']
+>>> data2016 = df[df['date'] == '2016']
 ...
->>> talks = data2006.text.tolist()
->>> authors = data2006.author.tolist()
->>> dates = data2006.date.tolist()
+>>> talks = data2016.text.tolist()
+>>> authors = data2016.author.tolist()
+>>> dates = data2016.date.tolist()
 ...
 >>> # Combining year with presenter for citations
 ... citations = [author+" "+date for author, date in zip(authors, dates)]
@@ -39,7 +39,7 @@ Populating the interactive namespace from numpy and matplotlib
 ...
 >>> n_samples = len(talks)
 >>> n_features = 1000
->>> n_topics = 15
+>>> n_topics = 45
 >>> n_top_words = 15
 ...
 >>> # Use tf-idf features for NMF.
@@ -52,7 +52,7 @@ Populating the interactive namespace from numpy and matplotlib
 ...                                 stop_words='english')
 ...
 >>> # Use tf (raw term count) features for LDA.
-... tf = tf_vectorizer.fit_transform(talks)
+... # tf = tf_vectorizer.fit_transform(talks)
 ```
 
 ```python
@@ -63,7 +63,7 @@ Populating the interactive namespace from numpy and matplotlib
 ...           random_state=1,
 ...           alpha=.1,
 ...           l1_ratio=.5).fit(tfidf)
-Fitting the NMF model with tf-idf features, n_topics=15, n_samples=50 and n_features=1000...
+Fitting the NMF model with tf-idf features, n_topics=45, n_samples=95 and n_features=1000...
 ```
 
 ```python
@@ -74,54 +74,145 @@ Fitting the NMF model with tf-idf features, n_topics=15, n_samples=50 and n_feat
 Topics in NMF model:
 
 Topic 0:
-people 0.33, know 0.23, world 0.2, ve 0.17, said 0.16, things 0.16, say 0.15, years 0.15, want 0.14, time 0.13, got 0.12, actually 0.12, ll 0.1, lot 0.1, work 0.09,
+ca 0.37, source 0.24, code 0.24, people 0.18, open 0.16, mean 0.12, really 0.11, project 0.09, software 0.08, kind 0.06, point 0.05, big 0.03, actually 0.03, interesting 0.03, nice 0.02, 
 
 Topic 1:
-countries 0.26, data 0.26, africa 0.2, world 0.2, families 0.12, country 0.12, income 0.11, aid 0.1, asia 0.1, health 0.1, uganda 0.09, students 0.08, south 0.07, america 0.07, economy 0.07,
+mars 0.85, earth 0.2, atmosphere 0.12, planet 0.1, humans 0.09, space 0.09, biology 0.06, species 0.05, human 0.05, water 0.04, ice 0.04, survive 0.02, technology 0.02, reality 0.02, ways 0.02, 
 
 Topic 2:
-interface 0.31, multi 0.22, kind 0.19, touch 0.17, hands 0.17, data 0.1, things 0.09, use 0.08, nasa 0.07, lab 0.07, tool 0.06, research 0.05, control 0.04, expect 0.04, points 0.04,
+young 0.0, fix 0.0, friend 0.0, free 0.0, fossil 0.0, forward 0.0, forms 0.0, form 0.0, forget 0.0, forever 0.0, force 0.0, food 0.0, focus 0.0, flying 0.0, fly 0.0, 
 
 Topic 3:
-technology 0.53, evolution 0.22, life 0.16, game 0.15, actually 0.12, machines 0.09, biological 0.08, technologies 0.08, species 0.07, things 0.06, general 0.05, wants 0.04, took 0.04, price 0.03, term 0.03,
+plant 0.51, plants 0.4, genes 0.31, food 0.28, water 0.19, drought 0.15, communities 0.08, climate 0.06, percent 0.04, known 0.04, environment 0.04, platform 0.04, approach 0.04, data 0.03, weeks 0.03, 
 
 Topic 4:
-cancer 0.53, muscle 0.45, cells 0.26, tumor 0.16, body 0.11, blood 0.07, cell 0.04, articles 0.04, brain 0.02, reading 0.02, disease 0.01, growth 0.01, medical 0.01, tried 0.01, percent 0.0,
+brain 0.84, cells 0.48, brains 0.16, story 0.12, listeners 0.1, monkey 0.07, similar 0.07, dreams 0.07, patients 0.07, sound 0.03, bg 0.03, cell 0.03, exactly 0.03, inside 0.03, ability 0.03, 
 
 Topic 5:
-draw 0.27, choose 0.2, drawing 0.16, theme 0.14, piece 0.13, main 0.1, decide 0.09, play 0.08, romantic 0.08, ok 0.07, try 0.07, supposed 0.07, happens 0.07, ll 0.06, know 0.06,
+race 0.56, patients 0.25, black 0.22, medicine 0.19, doctors 0.17, health 0.16, medical 0.13, genetic 0.12, drug 0.11, white 0.1, drugs 0.09, social 0.09, patient 0.06, african 0.04, woman 0.03, 
 
 Topic 6:
-film 0.36, people 0.15, arab 0.14, independent 0.12, world 0.11, wish 0.11, al 0.07, peace 0.07, feeling 0.07, war 0.07, incredible 0.06, photographs 0.05, military 0.05, power 0.05, know 0.04,
+water 0.82, supply 0.13, cities 0.1, treatment 0.08, city 0.08, plant 0.08, urban 0.07, communities 0.05, process 0.04, solve 0.04, san 0.03, step 0.02, drought 0.02, local 0.01, effects 0.01, 
 
 Topic 7:
-bronx 0.36, south 0.19, community 0.16, city 0.16, environmental 0.15, sustainable 0.09, waste 0.09, development 0.09, green 0.08, communities 0.08, justice 0.08, common 0.07, urban 0.06, dog 0.05, black 0.05,
+young 0.0, fix 0.0, friend 0.0, free 0.0, fossil 0.0, forward 0.0, forms 0.0, form 0.0, forget 0.0, forever 0.0, force 0.0, food 0.0, focus 0.0, flying 0.0, fly 0.0, 
 
 Topic 8:
-com 0.35, internet 0.3, email 0.17, boy 0.1, dead 0.09, listen 0.08, web 0.08, known 0.08, guess 0.07, attachment 0.06, pole 0.06, possible 0.06, interface 0.06, shit 0.05, maybe 0.04,
+girls 0.73, periods 0.45, women 0.19, book 0.09, code 0.08, teach 0.08, parents 0.05, india 0.03, stories 0.02, girl 0.02, period 0.02, percent 0.02, perfect 0.02, taught 0.02, young 0.01, 
 
 Topic 9:
-love 0.35, romantic 0.25, women 0.24, brain 0.22, sex 0.16, attachment 0.14, men 0.09, moving 0.08, drive 0.08, fall 0.07, somebody 0.05, kill 0.05, person 0.05, market 0.04, societies 0.04,
+data 0.58, credit 0.27, shows 0.2, tv 0.15, decision 0.14, amazon 0.12, points 0.12, analysis 0.11, pieces 0.11, curve 0.1, decisions 0.07, price 0.07, financial 0.05, business 0.05, bank 0.04, 
 
 Topic 10:
-heart 0.28, device 0.26, attack 0.25, signal 0.21, patient 0.19, electrical 0.16, brain 0.15, patients 0.1, magnetic 0.08, emergency 0.06, save 0.06, st 0.05, wish 0.04, medical 0.03, means 0.03,
+young 0.0, fix 0.0, friend 0.0, free 0.0, fossil 0.0, forward 0.0, forms 0.0, form 0.0, forget 0.0, forever 0.0, force 0.0, food 0.0, focus 0.0, flying 0.0, fly 0.0, 
 
 Topic 11:
-gang 0.75, cocaine 0.18, crack 0.14, mcdonald 0.1, inner 0.05, death 0.04, selling 0.03, city 0.02, soldiers 0.02, shit 0.01, drugs 0.01, money 0.01, job 0.01, willing 0.01, got 0.01,
+young 0.0, fix 0.0, friend 0.0, free 0.0, fossil 0.0, forward 0.0, forms 0.0, form 0.0, forget 0.0, forever 0.0, force 0.0, food 0.0, focus 0.0, flying 0.0, fly 0.0, 
 
 Topic 12:
-sauce 0.61, tomato 0.26, pepsi 0.16, perfect 0.1, extra 0.08, data 0.07, food 0.06, industry 0.06, happy 0.05, cancer 0.04, did 0.02, rich 0.02, say 0.02, want 0.02, kinds 0.01,
+universe 0.5, waves 0.3, higgs 0.28, theory 0.19, physics 0.13, field 0.11, energy 0.11, mass 0.08, space 0.08, black 0.07, stars 0.06, sound 0.06, dark 0.05, exist 0.05, fine 0.04, 
 
 Topic 13:
-women 0.46, wave 0.18, woman 0.13, girls 0.12, extraordinary 0.12, worried 0.1, journey 0.09, happiness 0.08, met 0.07, violence 0.07, said 0.06, body 0.06, community 0.05, ice 0.05, began 0.04,
+christopher 0.47, criminal 0.44, justice 0.22, law 0.09, decisions 0.08, school 0.05, money 0.04, police 0.03, job 0.03, young 0.02, internship 0.02, record 0.02, spend 0.02, community 0.02, public 0.02, 
 
 Topic 14:
-sound 0.27, wave 0.21, mr 0.16, design 0.14, technology 0.14, actually 0.13, changes 0.1, play 0.1, box 0.09, century 0.09, th 0.07, cool 0.07, mean 0.06, based 0.06, looks 0.06,
+economic 0.36, capitalism 0.35, democracy 0.32, growth 0.26, sphere 0.2, bg 0.15, political 0.15, countries 0.11, china 0.09, continue 0.05, capital 0.05, free 0.05, market 0.04, mountain 0.04, government 0.04, 
+
+Topic 15:
+young 0.0, fix 0.0, friend 0.0, free 0.0, fossil 0.0, forward 0.0, forms 0.0, form 0.0, forget 0.0, forever 0.0, force 0.0, food 0.0, focus 0.0, flying 0.0, fly 0.0, 
+
+Topic 16:
+cancer 0.56, tumor 0.39, cell 0.17, drug 0.15, gene 0.08, signal 0.08, size 0.07, cells 0.07, genetic 0.06, engineering 0.06, body 0.06, blood 0.06, core 0.05, detect 0.05, patients 0.04, 
+
+Topic 17:
+design 0.75, designers 0.33, trust 0.09, teach 0.06, phone 0.05, course 0.05, powerful 0.04, patients 0.04, designed 0.04, stay 0.02, sharing 0.02, plastic 0.02, different 0.02, projects 0.01, internet 0.01, 
+
+Topic 18:
+corals 0.48, ocean 0.42, coral 0.24, sharks 0.21, underwater 0.14, sea 0.13, blue 0.13, deep 0.12, meters 0.12, fish 0.08, ve 0.08, green 0.06, light 0.06, beautiful 0.05, swimming 0.05, 
+
+Topic 19:
+rock 0.14, students 0.13, groups 0.12, solve 0.12, friends 0.12, step 0.11, creative 0.09, try 0.09, performance 0.08, list 0.08, house 0.07, worked 0.07, play 0.07, complicated 0.06, difficult 0.05, 
+
+Topic 20:
+connectivity 0.37, cities 0.25, world 0.12, china 0.12, map 0.11, countries 0.1, network 0.1, global 0.1, borders 0.09, war 0.07, india 0.07, trade 0.07, million 0.06, billion 0.06, dollars 0.05, 
+
+Topic 21:
+fish 0.5, healthy 0.2, farming 0.19, feed 0.15, oceans 0.12, animal 0.12, ocean 0.1, food 0.07, global 0.07, planet 0.07, need 0.07, tons 0.06, eat 0.06, industry 0.05, needs 0.05, 
+
+Topic 22:
+olympics 0.46, intellectual 0.35, disabilities 0.33, special 0.29, games 0.13, world 0.04, people 0.03, hidden 0.02, health 0.02, word 0.02, million 0.01, year 0.01, half 0.0, team 0.0, friends 0.0, 
+
+Topic 23:
+government 0.52, services 0.23, team 0.15, service 0.12, digital 0.12, united 0.06, states 0.06, projects 0.05, application 0.04, easy 0.04, work 0.03, president 0.03, change 0.03, inside 0.03, online 0.03, 
+
+Topic 24:
+young 0.0, fix 0.0, friend 0.0, free 0.0, fossil 0.0, forward 0.0, forms 0.0, form 0.0, forget 0.0, forever 0.0, force 0.0, food 0.0, focus 0.0, flying 0.0, fly 0.0, 
+
+Topic 25:
+said 0.57, email 0.34, gold 0.26, drugs 0.07, code 0.05, day 0.04, business 0.04, going 0.04, doing 0.04, start 0.03, bank 0.03, highly 0.03, worth 0.03, spending 0.02, thought 0.02, 
+
+Topic 26:
+ln 0.67, bone 0.18, desert 0.12, north 0.07, story 0.06, totally 0.06, species 0.05, long 0.03, yeah 0.03, scientists 0.03, turns 0.03, tiny 0.02, hot 0.02, different 0.02, million 0.02, 
+
+Topic 27:
+dreams 0.48, dream 0.21, moon 0.18, humanity 0.15, fear 0.08, picture 0.08, everybody 0.08, talking 0.07, set 0.05, potential 0.05, simply 0.05, help 0.04, right 0.04, technology 0.04, thomas 0.04, 
+
+Topic 28:
+river 0.67, hot 0.33, water 0.09, coffee 0.09, amazon 0.06, gold 0.05, cold 0.05, unique 0.03, earth 0.03, degrees 0.02, heat 0.02, extra 0.02, waves 0.01, asked 0.01, exist 0.0, 
+
+Topic 29:
+children 0.33, lying 0.24, lies 0.23, lie 0.2, detect 0.19, emotions 0.18, child 0.16, hidden 0.1, blood 0.08, truth 0.07, tell 0.05, reading 0.04, technology 0.04, changes 0.04, percent 0.04, 
+
+Topic 30:
+age 0.25, pages 0.24, wrote 0.24, list 0.21, life 0.2, year 0.12, old 0.08, book 0.07, sure 0.07, read 0.06, patterns 0.06, clear 0.06, die 0.06, shared 0.05, live 0.05, 
+
+Topic 31:
+patents 0.32, myriad 0.28, gene 0.24, court 0.2, dna 0.17, chris 0.13, genes 0.12, gold 0.11, case 0.09, test 0.09, cancer 0.06, nature 0.05, result 0.04, issue 0.04, testing 0.04, 
+
+Topic 32:
+ebola 0.49, fight 0.15, data 0.1, health 0.09, humanity 0.08, individuals 0.08, work 0.08, worked 0.07, team 0.07, came 0.07, release 0.05, capacity 0.05, cases 0.05, extraordinary 0.05, lives 0.04, 
+
+Topic 33:
+people 0.27, world 0.2, going 0.18, time 0.18, think 0.17, ve 0.16, know 0.15, don 0.14, new 0.14, make 0.14, really 0.14, right 0.13, years 0.13, things 0.13, want 0.12, 
+
+Topic 34:
+gene 0.68, drive 0.24, drives 0.21, species 0.17, genes 0.15, release 0.07, basically 0.05, fly 0.04, spread 0.04, tool 0.03, red 0.02, engineer 0.02, ll 0.01, population 0.01, theory 0.01, 
+
+Topic 35:
+flying 0.33, machines 0.25, fly 0.23, machine 0.17, moving 0.13, wants 0.13, space 0.12, technology 0.08, parts 0.07, example 0.07, highly 0.05, performance 0.05, allows 0.05, new 0.04, developed 0.04, 
+
+Topic 36:
+internship 0.45, career 0.38, break 0.18, work 0.13, programs 0.13, job 0.12, return 0.07, program 0.06, loved 0.04, company 0.03, companies 0.03, business 0.03, tell 0.02, told 0.02, touch 0.02, 
+
+Topic 37:
+rocks 0.48, dinosaurs 0.41, rock 0.14, earth 0.13, bone 0.1, desert 0.07, record 0.05, age 0.05, fossil 0.05, planet 0.05, pages 0.04, species 0.04, place 0.03, giant 0.03, river 0.02, 
+
+Topic 38:
+star 0.38, planet 0.38, planets 0.3, stars 0.24, light 0.23, ice 0.14, climate 0.08, search 0.07, surface 0.07, earth 0.07, life 0.06, blue 0.06, atmosphere 0.06, models 0.05, data 0.05, 
+
+Topic 39:
+conversation 0.31, listen 0.17, listening 0.16, don 0.15, number 0.15, conversations 0.12, talk 0.09, talking 0.08, said 0.08, attention 0.07, learn 0.06, host 0.05, mind 0.05, going 0.05, means 0.04, 
+
+Topic 40:
+media 0.32, social 0.22, page 0.2, internet 0.15, people 0.12, conversations 0.12, write 0.09, revolution 0.08, facebook 0.07, minds 0.06, online 0.06, days 0.06, experiences 0.05, behavior 0.05, spread 0.05, 
+
+Topic 41:
+poem 0.52, human 0.29, written 0.23, computer 0.21, test 0.18, write 0.09, computers 0.05, language 0.05, asking 0.05, text 0.03, material 0.03, think 0.02, ok 0.02, ve 0.02, answer 0.02, 
+
+Topic 42:
+stuff 0.29, random 0.23, natural 0.16, word 0.14, baby 0.13, changing 0.1, animals 0.09, doing 0.08, plants 0.07, thinking 0.07, choose 0.07, movie 0.06, technologies 0.05, forms 0.05, humans 0.05, 
+
+Topic 43:
+global 0.4, climate 0.35, governments 0.21, printing 0.21, money 0.2, citizens 0.17, change 0.16, countries 0.15, dollars 0.12, national 0.11, carbon 0.1, extra 0.1, fund 0.1, financial 0.09, crisis 0.08, 
+
+Topic 44:
+computer 0.33, computers 0.28, kids 0.2, world 0.13, really 0.1, technology 0.09, girl 0.09, learn 0.08, favorite 0.07, teach 0.07, built 0.07, little 0.07, boy 0.05, smaller 0.04, parents 0.04,
 ```
 
 ```python
 >>> # Now to associate NMF topics to documents...
-... dtm = tf.toarray()
+... tf = tf_vectorizer.fit_transform(talks)
+>>> dtm = tf.toarray()
 >>> doctopic = nmf.fit_transform(dtm)
 >>> print("Top NMF topics in...")
 >>> for i in range(len(doctopic)):
@@ -129,315 +220,109 @@ sound 0.27, wave 0.21, mr 0.16, design 0.14, technology 0.14, actually 0.13, cha
 ...     top_topics_str = ' '.join(str(t) for t in top_topics)
 ...     print("{}: {}".format(citations[i], top_topics_str))
 Top NMF topics in...
-Al Gore 2006: 2 0 12
-David Pogue 2006: 10 12 2
-Cameron Sinclair 2006: 12 14 6
-Jehane Noujaim 2006: 0 6 14
-Larry Brilliant 2006: 9 2 14
-Nicholas Negroponte 2006: 12 13 10
-Jeff Han 2006: 13 10 1
-Sirena Huang 2006: 1 11 2
-Jennifer Lin 2006: 12 11 10
-Amy Smith 2006: 13 12 11
-Ross Lovegrove 2006: 13 12 10
-Richard Baraniuk 2006: 12 0 6
-Majora Carter 2006: 12 3 14
-Jimmy Wales 2006: 12 0 11
-Mena Trott 2006: 0 2 13
-Ze Frank 2006: 0 11 2
-Helen Fisher 2006: 4 14 13
-Eve Ensler 2006: 14 1 11
-David Deutsch 2006: 10 1 12
-Richard Dawkins 2006: 6 1 4
-Malcolm Gladwell 2006: 2 9 13
-Steven Levitt 2006: 3 14 13
-Barry Schwartz 2006: 11 10 13
-Ken Robinson 2006: 2 13 0
-Dan Gilbert 2006: 10 8 11
-Eva Vertes 2006: 5 14 13
-Aubrey de Grey 2006: 11 14 13
-Iqbal Quadir 2006: 9 13 0
-Jacqueline Novogratz 2006: 14 13 9
-Ashraf Ghani 2006: 6 9 12
-Sasa Vucinic 2006: 13 11 9
-Burt Rutan 2006: 10 12 11
-Ben Saunders 2006: 10 14 2
-Edward Burtynsky 2006: 13 2 14
-Hans Rosling 2006: 6 3 2
-Robert Fischell 2006: 8 14 13
-Bono 2006: 6 0 13
-Michael Shermer 2006: 7 10 13
-Peter Donnelly 2006: 7 14 13
-Kevin Kelly 2006: 1 2 0
-Ray Kurzweil 2006: 1 12 9
-Peter Gabriel 2006: 6 0 10
-Dean Ornish 2006: 9 8 12
-Rives 2006: 10 0 8
-Richard St. John 2006: 2 10 4
-Tony Robbins 2006: 0 2 4
-Joshua Prince-Ramus 2006: 12 1 2
-Julia Sweeney 2006: 2 14 13
-Rick Warren 2006: 2 0 1
-Dan Dennett 2006: 2 1 8
+Harry Cliff 2016: 20 2 30
+Sebastian Wernicke 2016: 5 4 38
+Aomawa Shields 2016: 39 40 1
+David Sedlak 2016: 1 23 26
+James Veitch 2016: 41 11 19
+Tim Harford 2016: 0 41 38
+Melvin Russell 2016: 19 2 3
+Wael Ghonim 2016: 41 22 29
+Ole Scheeren 2016: 22 1 5
+Jill Farrant 2016: 14 1 24
+Oscar Schwartz 2016: 12 3 29
+Achenyo Idachaba 2016: 1 19 14
+Elizabeth Lev 2016: 40 22 34
+Yanis Varoufakis 2016: 33 1 39
+David Gruber 2016: 40 18 10
+Tania Simoncelli 2016: 9 5 41
+Auke Ijspeert 2016: 17 28 2
+Melati and Isabel Wijsen 2016: 43 41 16
+Linda Liukas 2016: 30 40 3
+Andrés Ruzo 2016: 35 1 30
+Judson Brewer 2016: 4 17 0
+Pardis Sabeti 2016: 43 44 5
+Matthew Williams 2016: 28 44 11
+Dambisa Moyo 2016: 8 39 3
+Sean Follmer 2016: 0 22 42
+Gregory Heyworth 2016: 40 27 2
+Mike Velings 2016: 10 34 14
+Dorothy Roberts 2016: 15 12 30
+Jocelyne Bloch 2016: 4 31 17
+Celeste Headlee 2016: 41 12 17
+Shonda Rhimes 2016: 38 2 28
+Allan Adams 2016: 20 3 39
+Raffaello D'Andrea 2016: 30 20 22
+Al Gore 2016: 34 2 3
+Dalia Mogahed 2016: 41 3 29
+Audrey Choi 2016: 0 2 13
+Mary Bassett 2016: 15 25 34
+Ivan Coyote 2016: 41 36 42
+Thomas Peschak 2016: 18 10 35
+Magda Sayeg 2016: 23 22 0
+Russ Altman 2016: 11 3 2
+Alexander Betts 2016: 7 37 44
+Travis Kalanick 2016: 23 2 12
+Reshma Saujani 2016: 16 34 0
+Caleb Harper 2016: 14 41 30
+Laura Robinson 2016: 18 13 44
+Mileha Soneji 2016: 17 30 41
+Tshering Tobgay 2016: 25 39 2
+Joe Gebbia 2016: 42 41 3
+Tim Urban 2016: 26 4 44
+Jessica Ladd 2016: 0 29 30
+Arthur Brooks 2016: 41 2 8
+Meron Gribetz 2016: 30 4 42
+Adam Foss 2016: 36 12 8
+Carol Fishman Cohen 2016: 44 21 19
+Latif Nasser 2016: 35 34 40
+Siyanda Mohutsiwa 2016: 27 5 8
+Alex Kipman 2016: 30 6 44
+Angélica Dass 2016: 40 15 44
+Dan Gross 2016: 29 21 5
+Lisa Nip 2016: 6 35 39
+Knut Haanaes 2016: 0 44 23
+Adam Grant 2016: 41 40 23
+Haley Van Dyck 2016: 43 12 21
+Parag Khanna 2016: 2 1 12
+Danielle Feinberg 2016: 40 1 38
+Tabetha Boyajian 2016: 39 3 5
+Robert Palmer 2016: 0 3 37
+Linus Torvalds 2016: 3 39 44
+Hugh Evans 2016: 13 1 12
+Stephen Petranek 2016: 6 41 3
+Paula Hammond 2016: 31 24 11
+Astro Teller 2016: 23 42 40
+Mary Norris 2016: 34 0 20
+Christiana Figueres 2016: 37 34 25
+Joshua Prager 2016: 32 35 36
+Chris Anderson 2016: 41 4 22
+Juan Enriquez 2016: 26 31 2
+Aditi Gupta 2016: 16 27 44
+Kenneth Lacovara 2016: 35 3 41
+Shivani Siroya 2016: 5 41 36
+R. Luke DuBois 2016: 26 40 23
+Ameera Harouda 2016: 25 22 36
+Michael Metcalfe 2016: 37 3 36
+Riccardo Sabatini 2016: 32 3 2
+Sarah Gray 2016: 11 40 21
+Alice Rawsthorn 2016: 42 27 22
+Dan Pallotta 2016: 30 41 38
+Monica Byrne 2016: 35 41 20
+Jennifer Kahn 2016: 24 41 3
+Uri Hasson 2016: 4 21 12
+Sanford Biggers 2016: 40 15 44
+Sangeeta Bhatia 2016: 31 40 21
+Kang Lee 2016: 21 3 44
+Moran Cerf 2016: 4 40 3
 ```
 
 ```python
 >>> doctopic.shape
-(50, 15)
 ```
 
 ```python
 >>> doctopic
-array([[  5.47009445e-01,   6.42458320e-03,   6.74609594e-01,
-          2.31820838e-01,   1.93108142e-01,   0.00000000e+00,
-          4.15429304e-01,   1.04336530e-01,   0.00000000e+00,
-          0.00000000e+00,   3.35002416e-01,   2.30887922e-01,
-          4.88786866e-01,   1.25905629e-01,   1.80600026e-01],
-       [  5.61154575e-01,   3.80024770e-01,   1.04059368e+00,
-          0.00000000e+00,   1.72781091e-02,   0.00000000e+00,
-          0.00000000e+00,   2.61249126e-01,   3.68440932e-01,
-          0.00000000e+00,   2.40577850e+00,   7.23595678e-02,
-          1.82774411e+00,   0.00000000e+00,   0.00000000e+00],
-       [  5.50612669e-01,   0.00000000e+00,   7.14248427e-01,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          9.59162817e-01,   0.00000000e+00,   0.00000000e+00,
-          1.21698675e-01,   0.00000000e+00,   0.00000000e+00,
-          4.67371896e+00,   2.89336900e-01,   1.08063396e+00],
-       [  5.49287115e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          9.83551849e-01,   0.00000000e+00,   0.00000000e+00,
-          2.56210066e-02,   0.00000000e+00,   0.00000000e+00,
-          1.03018544e-01,   4.45148699e-01,   8.09004681e-01],
-       [  0.00000000e+00,   0.00000000e+00,   9.13677795e-02,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          9.02511425e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  2.95252294e-01,   0.00000000e+00,   5.24238607e-01,
-          1.53082707e-01,   1.20213950e-01,   1.38484279e-02,
-          9.18730140e-02,   2.50264107e-01,   9.84151974e-02,
-          1.84084296e-01,   8.91312909e-01,   7.93085163e-01,
-          1.48731481e+00,   9.48767642e-01,   0.00000000e+00],
-       [  0.00000000e+00,   4.69321508e-01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   3.78226884e-02,
-          0.00000000e+00,   6.45003609e-02,   0.00000000e+00,
-          0.00000000e+00,   5.32926341e-01,   3.12801172e-01,
-          4.34399308e-01,   9.95497715e-01,   0.00000000e+00],
-       [  0.00000000e+00,   5.44191989e-01,   1.86745064e-01,
-          0.00000000e+00,   6.95501730e-02,   8.60503421e-03,
-          0.00000000e+00,   0.00000000e+00,   4.54490431e-02,
-          0.00000000e+00,   0.00000000e+00,   2.14498486e-01,
-          1.50097701e-01,   0.00000000e+00,   1.65569544e-01],
-       [  0.00000000e+00,   1.02357546e-02,   1.36743056e-01,
-          0.00000000e+00,   7.25094963e-02,   9.24293390e-02,
-          0.00000000e+00,   1.00039281e-01,   1.45119005e-01,
-          0.00000000e+00,   3.42368195e-01,   4.11338280e-01,
-          4.27810924e-01,   2.63038997e-02,   0.00000000e+00],
-       [  3.36172128e-01,   3.01119453e-01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   4.09616512e-02,
-          2.61938316e-01,   0.00000000e+00,   1.13972274e-01,
-          3.64662950e-01,   2.26771018e-01,   4.69774512e-01,
-          1.01447003e+00,   1.59423247e+00,   2.88382222e-02],
-       [  5.43231131e-01,   5.08941965e-01,   0.00000000e+00,
-          0.00000000e+00,   4.39808513e-01,   2.02760828e-03,
-          2.04883744e-01,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   1.26605131e+00,   1.17826735e-01,
-          1.83081048e+00,   2.04502503e+00,   0.00000000e+00],
-       [  7.80443487e-01,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          5.85720307e-01,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          5.65637104e+00,   0.00000000e+00,   0.00000000e+00],
-       [  2.11048144e-01,   0.00000000e+00,   0.00000000e+00,
-          5.89336357e-01,   0.00000000e+00,   0.00000000e+00,
-          5.02733149e-01,   0.00000000e+00,   2.12856121e-01,
-          3.70944539e-01,   0.00000000e+00,   0.00000000e+00,
-          2.59916407e+00,   1.66316418e-01,   5.50374467e-01],
-       [  1.61662989e+00,   0.00000000e+00,   5.85588187e-01,
-          3.86668152e-01,   1.31791674e-01,   0.00000000e+00,
-          0.00000000e+00,   2.09075231e-01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   8.21909474e-01,
-          3.56185110e+00,   0.00000000e+00,   0.00000000e+00],
-       [  3.46308414e+00,   0.00000000e+00,   7.21544654e-01,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   7.37219847e-02,
-          0.00000000e+00,   0.00000000e+00,   6.36904879e-01,
-          0.00000000e+00,   6.64486454e-01,   1.66696618e-01],
-       [  1.29594391e+00,   0.00000000e+00,   9.32858904e-01,
-          1.69687144e-01,   1.67203349e-01,   0.00000000e+00,
-          0.00000000e+00,   1.10912965e-01,   4.07201027e-02,
-          0.00000000e+00,   3.10740570e-01,   1.24519016e+00,
-          4.78478484e-01,   3.04546531e-01,   0.00000000e+00],
-       [  0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   1.05357834e+01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   1.05478052e-05,   3.81576534e-01],
-       [  0.00000000e+00,   1.69884118e-01,   0.00000000e+00,
-          7.67778838e-02,   4.91345811e-02,   5.48825400e-03,
-          0.00000000e+00,   2.24571473e-02,   0.00000000e+00,
-          0.00000000e+00,   5.15674106e-02,   8.96885074e-02,
-          0.00000000e+00,   0.00000000e+00,   9.70912823e+00],
-       [  0.00000000e+00,   1.11499968e+00,   0.00000000e+00,
-          0.00000000e+00,   1.90709234e-01,   0.00000000e+00,
-          2.88199144e-01,   3.48549925e-01,   1.50916676e-01,
-          0.00000000e+00,   2.06463569e+00,   2.31725758e-01,
-          6.84259934e-01,   0.00000000e+00,   0.00000000e+00],
-       [  3.11965805e-01,   9.17750586e-01,   0.00000000e+00,
-          0.00000000e+00,   4.29017610e-01,   0.00000000e+00,
-          3.67068550e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   3.10682380e-01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  6.37968546e-01,   0.00000000e+00,   1.55310085e+00,
-          4.60982591e-01,   3.43379458e-01,   4.65394275e-01,
-          5.88102860e-02,   2.10061820e-01,   2.60422939e-01,
-          1.21362450e+00,   0.00000000e+00,   8.32039811e-01,
-          0.00000000e+00,   8.75183165e-01,   4.83401380e-02],
-       [  0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          1.02299835e+01,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  7.97002604e-01,   3.18164910e-01,   3.33179454e-01,
-          4.00099455e-01,   8.52332790e-02,   0.00000000e+00,
-          4.49997608e-01,   2.37356863e-01,   5.13418033e-01,
-          3.66262725e-01,   8.77207785e-01,   9.26010236e-01,
-          0.00000000e+00,   8.76114549e-01,   0.00000000e+00],
-       [  7.85246704e-01,   3.60119027e-01,   2.39362072e+00,
-          3.90259585e-02,   6.60321399e-01,   3.89099890e-02,
-          0.00000000e+00,   1.76426342e-01,   1.50222423e-01,
-          8.70362443e-02,   3.00808000e-01,   2.97144600e-01,
-          5.70106048e-01,   7.99535592e-01,   4.47616506e-01],
-       [  5.41582378e-01,   0.00000000e+00,   2.97809112e-01,
-          3.88176044e-01,   9.78931089e-02,   0.00000000e+00,
-          1.30927243e-01,   4.96245534e-01,   1.36501652e+00,
-          7.44570366e-03,   1.98651624e+00,   8.86916254e-01,
-          0.00000000e+00,   8.78356983e-01,   5.45705049e-01],
-       [  0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   9.31275479e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   1.18478626e+01,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  6.85778473e-01,   0.00000000e+00,   3.76984923e-02,
-          5.21115074e-01,   0.00000000e+00,   0.00000000e+00,
-          6.27767222e-01,   0.00000000e+00,   0.00000000e+00,
-          1.00571064e+00,   1.88086274e-02,   4.14573884e-01,
-          6.03062311e-01,   7.87164976e-01,   2.01322862e-01],
-       [  4.51811289e-01,   0.00000000e+00,   0.00000000e+00,
-          3.09650684e-01,   8.55554806e-02,   0.00000000e+00,
-          6.87350628e-01,   0.00000000e+00,   1.60554569e-01,
-          8.75478100e-01,   0.00000000e+00,   4.58926449e-01,
-          2.75561254e-01,   8.92038440e-01,   1.18132820e+00],
-       [  3.66540595e-01,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   3.29603251e-01,   0.00000000e+00,
-          1.96995766e+00,   0.00000000e+00,   0.00000000e+00,
-          6.83871260e-01,   0.00000000e+00,   3.46943479e-01,
-          6.43294316e-01,   2.72275277e-01,   1.38387774e-01],
-       [  0.00000000e+00,   2.57669017e-01,   3.33311047e-01,
-          3.25114536e-01,   0.00000000e+00,   1.61416140e-01,
-          3.12412164e-01,   4.23313884e-01,   3.38115330e-03,
-          5.17756549e-01,   0.00000000e+00,   1.37537404e+00,
-          3.51718431e-01,   1.74898492e+00,   0.00000000e+00],
-       [  1.84335912e-01,   4.27566173e-02,   0.00000000e+00,
-          1.97512441e-01,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   4.12285301e-01,
-          3.83807373e-01,   3.83801689e+00,   9.04990609e-01,
-          9.65610248e-01,   3.72244556e-01,   0.00000000e+00],
-       [  0.00000000e+00,   0.00000000e+00,   2.86884195e-02,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   8.03730202e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   7.25107292e-02],
-       [  0.00000000e+00,   0.00000000e+00,   1.08080328e-01,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   9.89340528e+00,   1.35473782e-02],
-       [  0.00000000e+00,   0.00000000e+00,   1.09861132e-01,
-          2.45749640e-01,   0.00000000e+00,   0.00000000e+00,
-          6.47174997e+00,   2.55380592e-02,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   9.95662014e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   1.94517976e-02],
-       [  1.08894018e+00,   4.21921798e-01,   7.00985530e-01,
-          8.12004965e-02,   0.00000000e+00,   5.22686918e-02,
-          2.97713425e+00,   1.78435252e-01,   4.09895434e-01,
-          0.00000000e+00,   2.42016259e-01,   5.19360591e-01,
-          1.16601519e-01,   7.66231695e-01,   0.00000000e+00],
-       [  2.39924411e-01,   5.90224374e-02,   8.65562393e-02,
-          3.22824053e-01,   1.23506388e-01,   6.92195424e-02,
-          2.14659808e-01,   6.60470040e-01,   1.04076279e-01,
-          0.00000000e+00,   6.25263875e-01,   5.09602537e-01,
-          4.75588153e-01,   5.31973056e-01,   0.00000000e+00],
-       [  0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   1.10325336e+01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   9.76535493e-02],
-       [  8.88856376e-02,   8.25340761e+00,   2.44692878e-01,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  0.00000000e+00,   5.36453812e+00,   0.00000000e+00,
-          0.00000000e+00,   3.10020308e-01,   3.79499565e-01,
-          0.00000000e+00,   0.00000000e+00,   5.75730898e-01,
-          1.23728610e+00,   0.00000000e+00,   0.00000000e+00,
-          1.77371813e+00,   0.00000000e+00,   0.00000000e+00],
-       [  5.88120960e-01,   1.31397186e-01,   7.05924493e-02,
-          2.40923759e-01,   1.61675381e-01,   4.53268644e-02,
-          9.23358229e-01,   1.49042011e-02,   0.00000000e+00,
-          1.38557614e-01,   4.49353463e-01,   1.97770702e-01,
-          0.00000000e+00,   2.09302838e-01,   3.13099772e-01],
-       [  2.04585344e-01,   3.58793489e-04,   0.00000000e+00,
-          8.83941071e-02,   0.00000000e+00,   1.85164321e-01,
-          0.00000000e+00,   3.25088545e-02,   2.66984661e-01,
-          3.02467849e-01,   0.00000000e+00,   1.37366986e-01,
-          2.54472077e-01,   0.00000000e+00,   0.00000000e+00],
-       [  1.44851731e-01,   1.16352670e-02,   4.71964636e-02,
-          1.44597561e-02,   3.72813950e-03,   2.77812769e-02,
-          6.61841492e-02,   0.00000000e+00,   7.73287795e-02,
-          0.00000000e+00,   2.81242043e-01,   0.00000000e+00,
-          2.87086268e-02,   1.72606682e-02,   0.00000000e+00],
-       [  3.01198956e-02,   4.83249886e-02,   4.65362712e-01,
-          1.68876066e-01,   1.84937095e-01,   0.00000000e+00,
-          0.00000000e+00,   3.88386446e-02,   4.53759863e-02,
-          0.00000000e+00,   3.60964242e-01,   6.34202681e-02,
-          1.11492684e-01,   1.33861409e-01,   0.00000000e+00],
-       [  4.53470583e+00,   9.04499420e-01,   1.70438695e+00,
-          8.20237584e-02,   1.57190999e+00,   2.79848387e-02,
-          0.00000000e+00,   5.42518952e-01,   0.00000000e+00,
-          0.00000000e+00,   7.95221509e-01,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00],
-       [  0.00000000e+00,   8.38554541e-01,   7.18857498e-01,
-          0.00000000e+00,   0.00000000e+00,   3.27274682e-02,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          4.06619200e+00,   3.91893625e-02,   0.00000000e+00],
-       [  0.00000000e+00,   0.00000000e+00,   7.33757358e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   0.00000000e+00,
-          0.00000000e+00,   0.00000000e+00,   7.64664040e-01],
-       [  1.43103591e+00,   1.01918583e+00,   3.52618483e+00,
-          4.72069877e-01,   0.00000000e+00,   1.39689239e-01,
-          2.33593094e-01,   0.00000000e+00,   6.74799017e-02,
-          0.00000000e+00,   3.17293051e-01,   4.61133334e-01,
-          0.00000000e+00,   3.81224351e-01,   0.00000000e+00],
-       [  7.78120821e-01,   1.24173973e+00,   1.79141024e+00,
-          0.00000000e+00,   6.03399722e-01,   1.70125956e-03,
-          5.18370030e-01,   4.39490802e-02,   8.53848120e-01,
-          9.95015124e-02,   0.00000000e+00,   6.18627384e-01,
-          8.29240060e-01,   0.00000000e+00,   0.00000000e+00]])
 ```
 
 ```python
@@ -459,7 +344,7 @@ array([[  5.47009445e-01,   6.42458320e-03,   6.74609594e-01,
 ... import numpy as np
 >>> import matplotlib.pyplot as plt
 ...
->>> plt.figure(figsize=(12,8))
+>>> plt.figure(figsize=(24,8))
 >>> #fig = matplotlib.pyplot.gcf()
 ... #fig.set_size_inches(18.5, 10.5)
 ...
@@ -480,15 +365,13 @@ array([[  5.47009445e-01,   6.42458320e-03,   6.74609594e-01,
 ...
 >>> plt.ylim((0, 1))  # proportions sum to 1, so the height of the stacked bars is 1
 >>> plt.ylabel('Topics')
->>> plt.title('Topics in 2006 TEDtalks')
+>>> plt.title('Topics in 2016 TEDtalks')
 >>> plt.xticks(ind+width/2, citations, rotation='vertical')
 >>> plt.yticks(np.arange(0, 1, 10))
 >>> topic_labels = ['Topic #{}'.format(k) for k in range(K)]
->>> plt.legend([p[0] for p in plots], topic_labels)
->>> plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
->>> plt.show()
-/Users/john/Library/Python/3.4/lib/python/site-packages/matplotlib/axes/_axes.py:519: UserWarning: No labelled objects found. Use label='...' kwarg on individual plots.
-  warnings.warn("No labelled objects found. "
+>>> #plt.legend([p[0] for p in plots], topic_labels)
+... #plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
+... plt.show()
 ```
 
 ## Working with LSI/LSA to get Elbow graph for k-means
