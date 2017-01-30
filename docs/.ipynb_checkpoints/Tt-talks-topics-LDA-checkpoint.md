@@ -80,20 +80,4 @@
 >>> # =-=-=-=-=-=
 ... # LDA Topic Models
 ... # =-=-=-=-=-=
-...
-... # Documentation: https://pypi.python.org/pypi/lda
-... # LDA requires a DTM as input
-...
-... import sklearn.feature_extraction.text as text
->>> import numpy as np
->>> import lda
-...
->>> # Doc for DTM: https://de.dariah.eu/tatom/topic_model_python.html
-... vectorizer = text.CountVectorizer(input='filename', stop_words='english', min_df=20)
->>> dtm = vectorizer.fit_transform(talks).toarray()
-```
-
-```python
->>> model = lda.LDA(n_topics=20, n_iter=1500, random_state=1)
->>> model.fit(X)
 ```
