@@ -2250,6 +2250,7 @@ for i in range(len(doctopic)):
 ```python
 
 
+
 # Fit the LDA model
 lda = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
                                 learning_method='online',
@@ -2386,11 +2387,13 @@ print(type(doc_topic_distrib), len(doc_topic_distrib))
 ```python
 
 
+
 # For a quick check of the number of documents and terms in the matrix:
 print(dtm.shape)
 ```
 
 ```python
+
 
 
 doctopic_orig = doctopic.copy()
