@@ -359,12 +359,19 @@ raw = re.sub(r"[^\w\d'\s]+",'', i).lower()
 
 ## 2017-02-04
 
-The working code for the LDA model is, I think, reasonably clear and clean. What it doesn't have built into it, and I have seen other examples that do this, is removal of low-frequency words -- thresholds are variable.
+The working code for the LDA model is, I think, reasonably clear and clean. What it doesn't have built into it, and I have seen other examples that do this, is removal of low-frequency words -- thresholds are variable -- but since most topic models are represented as words that co-occur, I don't know that worrying about the low-freq words is worth the trouble.
 
-A lot of what is in the LDA notebook right now, after the code, is a variety of attempts to print out the data in the LDA model so that I can also understand how it's stored. 
-Getting the rich data in the LDA model outputted in a fashion where we can
+A lot of what is at the end of the LDA notebook right now is a variety of attempts to print out the data in the LDA model so that I can also understand how it's stored and how to output it in ways that we can do other things with it. For now, there's a simple for loop that simply makes it easier to copy and paste the output into a CSV -- I know we could write code to do this, but I got lazy at this moment. 
 
+- [] Getting the rich data in the LDA model outputted in a fashion where we can do other things with it is a higher priority.
 
+## 2017-02-07
+
+Okay, with the LDA code working and tested with 25 topics after 10 passes, I ran the code a couple of times with 35 topics and 100 passes -- this took about 5 to 10 minutes on my MacBook Pro, so be prepared to make a cup of coffee.
+
+I checked the 35 LDA topics against those produced by NMF: the NMF looks better. I'm not really sure on the LDA topics at all. I will try it again without the stopwords coming out to see if the results are more in-line with the NMF method.
+
+And the NMF code is a lot faster than the LDA code (at least the `gensim` implementation). 
 
 
 
