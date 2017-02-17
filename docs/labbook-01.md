@@ -446,23 +446,23 @@ Just for the sake of knowing it, there are 67 words with a count of ten thousand
 
 ## 2017-02-16
 
-So why all this concern with vocabulary? To some degree, I think it's under-examined. I think I'd like to see us have a CSV file in the eventual official repo for this project that lists all the words and their frequency. It would be nice to compare vocabularies of different corpora to see which corpora have more in common. We have no ready way of knowing, for example, if TED talks have more in common with newspaper editorials, marketing materials, political discourse, academic discourse, etc. 
+So why all this concern with vocabulary? To some degree, I think it's under-examined. I think I'd like to see us have a CSV file in the eventual official repo for this project that lists all the words and their frequency. (This is also jow JSTOR does it.) It would be nice to compare vocabularies of different corpora to see which corpora have more in common. We have no ready way of knowing, for example, if TED talks have more in common with newspaper editorials, marketing materials, political discourse, academic discourse, etc. 
 
 Okay, we can do such things. But let's get to the larger picture, and remind ourselves why we are doing this: we have ~2000 texts thare are for the most part between 500 and 4000 words in length.
 
 ![The Lengths of TED Talks](../images/Words_v_Minutes.png)
 
-The following dimensions are internal to the texts:
+The following dimensions are internal to the texts, which really comes down to their words in variety and in length:
 
 * length
 * vocabulary (and considerations like diversity)
-* topics
+* topics (which is shorthand for custom vocabularies)
 
 The following dimensions are external to the texts but measurable via controled vocabularies:
 
-* sentiment
+* sentiment & intensity
 * concreteness
-* intensity
+* potentially irony (? See Joshi et al. 2016)
 
 The following are non-textual dimensions which may in fact manifest in texts in either established ways or in ways that will suggest possibilities for future research. These are meta-textual features for which we have concrete data:
 
@@ -470,6 +470,15 @@ The following are non-textual dimensions which may in fact manifest in texts in 
 * discipline of speakers
 * popularity of a given talk (via hits/views)
 * possibly links from outside pointing in (I don't know how to do this.)
+
+Here's what follows after this vocabulary stuff gets set aside:
+
+1. Topics
+	a. Overall topic distribution
+	b. Topic distribution by year
+	c. Assignment of top topics in each document
+	d. While we're here, I think it owuld be interest to slice texts (perhaps into ten pieces) and see if topics shift within a talk. (My hypothesis is that the openings of TED talks will reveal a more generic topic before speakers get down to business. Later, if we get ahold of other kinds of talks -- if we continue this line of inquiry -- it will be interesting to see if this "orientation" moment is similar or different.)
+2. Speakers
 
 
 
@@ -483,6 +492,8 @@ The following are non-textual dimensions which may in fact manifest in texts in 
 ## References
 
 Fredrik deBoer, Evaluating the comparability of two measures of lexical diversity, System, Volume 47, December 2014, Pages 139-145, ISSN 0346-251X, http://dx.doi.org/10.1016/j.system.2014.10.008.
+
+Joshi, Aditya, Pushpak Bjattacharyya, Mark Carman, Meghna Singh, Jaya Sraswati, and Rajita Shukla. 2016. How Challenging Is Sarcasm versus irony classification?: ana anlysis from human and computational perspectives. In Proceedings of Autralasian Language Technology Association Workshop, 134-138.
 
 
 ## Notes
