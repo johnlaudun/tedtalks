@@ -363,7 +363,7 @@ The working code for the LDA model is, I think, reasonably clear and clean. What
 
 A lot of what is at the end of the LDA notebook right now is a variety of attempts to print out the data in the LDA model so that I can also understand how it's stored and how to output it in ways that we can do other things with it. For now, there's a simple for loop that simply makes it easier to copy and paste the output into a CSV -- I know we could write code to do this, but I got lazy at this moment. 
 
-- [] Getting the rich data in the LDA model outputted in a fashion where we can do other things with it is a higher priority.
+- [ ] Getting the rich data in the LDA model outputted in a fashion where we can do other things with it is a higher priority.
 
 ## 2017-02-07
 
@@ -378,14 +378,14 @@ And the NMF code is a lot faster than the LDA code (at least the `gensim` implem
 
 The differences between the LDA and the NMF results continued to haunt me, making me wonder if there wasn't some work to be done, basic work, on the vocabulary of the corpus. 
 
-- [] Here we could probably use a refresher/primer on the basics of vocabulary versus lexicon. Words versus tokens is easy. I'm a little less clear on the nature of word-forms -- e.g., stem, stemmed, stemmer, stemming. 
+- [ ] Here we could probably use a refresher/primer on the basics of vocabulary versus lexicon. Words versus tokens is easy. I'm a little less clear on the nature of word-forms -- e.g., stem, stemmed, stemmer, stemming. 
 
 Single instances of a token: 19855.
 
 Looking more closely, keeping apostrophes, in order to keep contractions intact, appears to have been a mistake. For example, it's not entirely clear how one instance of *avatar* got wrapped in single quotation marks. 
 
 Line  | Count | Token
--------------------------
+------|-------|----------
 6115  | 40    | avatar
 12420 | 13    | avatars
 55350 |  1    | avatar's
@@ -446,7 +446,7 @@ Just for the sake of knowing it, there are 67 words with a count of ten thousand
 
 ## 2017-02-16
 
-So why all this concern with vocabulary? To some degree, I think it's under-examined. I think I'd like to see us have a CSV file in the eventual official repo for this project that lists all the words and their frequency. (This is also jow JSTOR does it.) It would be nice to compare vocabularies of different corpora to see which corpora have more in common. We have no ready way of knowing, for example, if TED talks have more in common with newspaper editorials, marketing materials, political discourse, academic discourse, etc. 
+So why all this concern with vocabulary? To some degree, I think it's under-examined. I think I'd like to see us have a CSV file in the eventual official repo for this project that lists all the words and their frequency. (This is also how JSTOR does it.) It would be nice to compare vocabularies of different corpora to see which corpora have more in common. We have no ready way of knowing, for example, if TED talks have more in common with newspaper editorials, marketing materials, political discourse, academic discourse, etc. 
 
 Okay, we can do such things. But let's get to the larger picture, and remind ourselves why we are doing this: we have ~2000 texts thare are for the most part between 500 and 4000 words in length.
 
@@ -482,11 +482,42 @@ Here's what follows after this vocabulary stuff gets set aside:
 
 
 
+## 2017-02-21
 
+My mantra for the morning: "My task is topics." (That's too alliterations for the price of one.) I'm running the lean version of the NMF code, `Tt-06-topics-NMF`. (An early error I caught in returning to and revising this part of the code is that the stopword list still pointed to the old one: the current, working, list is `tt_stop.txt`.)
 
+An early hiccough is that the `sklearn` vectorizer does not accept lists, so I had to write a small for loop to put the texts back into strings. My apologies for the variable names:
 
+```python
+strungs = []
+for text in texts:
+    strung = ' '.join(text)
+    strungs.append(strung)
+```
 
+It's still not happy:
 
+```python
+---> 13 tfidf_vectorizer = text.TfidfVectorizer(max_df = 0.95,
+     14                                         min_df = 2,
+     15                                         max_features = n_features)
+
+AttributeError: 'list' object has no attribute 'TfidfVectorizer'
+```
+
+And here's what happened: the `for` loop documented above in today's entry displaced the `text` part of the sklearn import, which I changed for the sake of clarity to: 
+
+```python
+import sklearn.feature_extraction.text as sk_text
+```
+
+I'm very happy to report at the end of the day that this code works: we have our stop words, and we have our vocabulary showing up in the topics. The code runs and runs reliably. I ran the code with 30, 35, 40, 42, and 45 topics. At 30, it was hard to make out what some of the clusters meant, but it became easier as the number of topics increased. By the time I got to 45, it looked like some redundancies were beginning to emerge, so I dialed back to 42. I still think there are redundancies present, and so I am going to call the ideal number of topics for this corpus 40. It's entirely a human call, and I will attach the Numbers document with its multiple spreadsheets when I report this to KK.
+
+(The output from the last run with 42 topics is in the current version of the notebook: you just need to double-click on the ellipsis below the cell to see the printout.)
+
+... No luck on saving these results, but when I ran the 40 topics again, it comes up the same. (The topic ID numbers change, but everything else looks stable. Yay!)
+
+- [ ] I'm going to leave this for you (KK) to save to an array.
 
 ***
 ## References
