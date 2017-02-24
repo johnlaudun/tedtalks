@@ -519,6 +519,99 @@ I'm very happy to report at the end of the day that this code works: we have our
 
 - [ ] I'm going to leave this for you (KK) to save to an array.
 
+## 2017-02-23 
+
+I decided to set aside some time today to try to understand NMF. My initial reason is to be able to save the NMF outputs to a file -- probably as an array, but then I realized I understand very little about the internals of NMF, so why not ask more questions on this quiet Thursday?
+
+My search was pretty general: `sklearn nmf`. 
+
+The first page I read was a [SO post][]:
+
+> I am applying nonnegative matrix factorization (NMF) on a large matrix. Essentially the NMF method does the following: given an m by n matrix A, NMF decomposes into A = WH, where W is m by d and H is d by n. The ProjectedGradientNMF method is implemented in Python package Sklearn. I would want the algorithm return both W and H. But it seems that it only returns H, not W. Applying the algorithm again to A.T (the transpose) could give me W. However, I would want to avoid computing it twice since the matrix ix very large. If you could tell me how to simultaneously get W and H, that would be great!
+
+The included code:
+
+```python
+from sklearn.decomposition import ProjectedGradientNMF
+import numpy
+A = numpy.random.uniform(size = [40, 30])
+nmf_model = ProjectedGradientNMF(n_components = 5, init='random', random_state=0)
+nmf_model.fit(A)
+H = nmf_model.components_.T
+```
+
+The upvoted response notes that:
+
+> [In] `fit_transform()` [...] H gets attached to components_ and W is returned from the function. So you shouldn't have to run this twice, you should just change:
+> 
+```python
+nmf_model.fit(A);
+H = nmf_model.components_.T;
+```
+> 
+> to
+> 
+```python
+W = nmf_model.fit_transform(A);
+H = nmf_model.components_;
+```
+
+I had to remind myself what `W` and `H` are: the factor matrices of matrix V, which, when multiplied, approximately reconstruct the original matrix, usually referred to as `V`, but sometimes as `D`. In regards to text mining, the Wikipedia entry on NMF notes that: "In this process, a *document-term matrix* is constructed with the weights of various terms (typically weighted word frequency information) from a set of documents. This matrix is factored into a *term-feature* and a *feature-document* matrix."
+
+Elsewhere, In terms closer to the NMF implementation: The original D matrix is approximated by the product of two low rank matrices: the Document-Topic matrix W and the Topic-Word matrix H. The rank of the matrices is defined by the number k of topics. wd(i,k) in W represents the importance of the topic k to the document i and wt(k,j) represents the importance of the term j to the topic k. 
+
+Whenever I teach this, I need to remember to ground the idea of a *document-term matrix* in a very concrete way. For example, begin with the following four documents:
+
+```python
+D1 = "I like coffee."
+D2 = "I hate coffee."
+D3 = "I like cats."
+D4 = "Cats hate coffee."
+```
+
+The first three can be represented in a very straightforward fashion in the following table:
+
+ID | I | like | hate | coffee | cats
+---|---|------|------|--------|------
+D1 | 1 |   1  |  0   |    1   |  0
+D2 | 1 |   0  |  1   |    1   |  0
+D3 | 1 |   1  |  0   |    0   |  1
+
+So far, so good. Words are being handled in the order they come, which seems very sensible. Only in a DTM texts are not strings of words so much as bags of words, such that the numbers need not be in the same order in which they occurred in the text so much as where they occur in the table. Thus, if we were to add D4 to out table, the sequence would be 0, 0, 1, 1, 1. As other documents (rows) get added to our table, we will add terms (columns). The order of the columns does not matter, only the relationship between the individual terms to the document. As the documents get longer and a term occurs more than once, then the numbers in the column reflect that. For instance, the document "I hate coffee, and I hate cats" would be represented by the line 2, 0, 2, 1, 1.
+
+If we include all 5 documents and all five terms, we have a 5 x 5 matrix representation of our corpus:
+
+```python
+[[1 1 0 1 0]
+ [1 0 1 1 0] 
+ [1 1 0 0 1]
+ [0 0 1 1 1]
+ [2 0 2 1 1]]
+```
+
+*Note that this is Python's numpy representation of a matrix, since I don't have the giant square braces that normally represent matrices available here.*
+
+Okay, so back to the sklearn NMF factorization module ... I need to see what the DTM looks like, but if I understand the above note correctly, it looks like I need to be able to save not only the DTM, as a matter of course, but also the *term-feature* and the *feature-document* matrices. (Well, I needed to port the NMF notebook into a script anyway, so here goes.)
+
+While I have the notebook open, let's make sure to understand what's going on. I re-ran the code up until the moment of printing the topics with the following parameters
+
+```python
+n_samples = len(strungs)
+n_features = 2000
+n_topics = 40
+n_top_words = 15
+```
+
+When we run `dtm.shape` we get `2092, 2000`, which means our 2092 documents have been assigned 2000 features. Previously, I used 1000 features, and the topics look a lot the same, but I think it's worth running with more features (3000, 4000, and 5000) as well as changing the `max_df` and `min_df` to see what how they affect output.
+
+According to [a gist][], setting `mx_df` to 0.95 discards the 5% most frequent words, and Alan Riddell in his post on the Dariah website where he creates a topic model for Jane Austen novels doesn't use a `max_df` or `max_features` and sets the `min_df` at `20`. 
+
+
+
+
+[SO post]: http://stackoverflow.com/questions/24739121/nonnegative-matrix-factorization-in-sklearn
+[a gist]: https://gist.github.com/tgalery/3354850
+
 ***
 ## References
 
