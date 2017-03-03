@@ -31,7 +31,7 @@ alltalks = " ".join(str(item) for item in talks) # Solves pbm of floats in talks
 # Clean out all punctuation except apostrophes
 all_words = re.sub(r"[^\w\d'\s]+",'',alltalks).lower()
 ```
-
+**KK** - I'll call the `all_words' line star. 
 
 We still need to identify which talks have floats for values and determine what impact, if any, it has on the project.
 
@@ -52,7 +52,10 @@ Using this method, the dictionary has 63426 entries. Most of those are going to 
 
 I converted the dictionary to a list of tuples in order to be able to sort -- I see that there is a way to sort a dictionary in Python, but this is a way I know. Looking at the most common words, I see NLTK didn't get rid of punctuation: I cleared this up by removing punctuation earlier in the process, keeping the contractions (words with apostrophes), which the NLTK does not respect. 
 
+**KK** - Sorting dictionaries is a PAIN. The point of dictionaries is that they are unsorted. Your conversion makes a lot of sense to me. 
+
 **N.B.** I tried doing this simply with a regex expression that split on white spaces, but I am still seeing contractions split into different words. 
+**KK** - What about the star line above?
 
 ```python
 tt_freq_list.sort(reverse=True)
@@ -174,6 +177,8 @@ tt_stop has 351 words
 
 I am beginning with the following code that KK wrote to find those talks that were not strings:
 
+**KK** - omg, this is such a hack. 
+
 ```python
 # We establish which talks are empty
 i = 0
@@ -190,7 +195,7 @@ print(no_good)
 [185, 398, 513, 877, 1015, 1100, 2011]
 ```
 
-In `pandas` in addition to being able to filter rows, you can also select by position. It looks a lot like slicing in lists. (You can do this two dimensionally as well.) **N.B.** Another way to do this would have been to filter by `NaN` but I already had the list above so I went with this method.
+In `pandas` in addition to being able to filter rows, you can also select by position. It looks a lot like slicing in lists. (You can do this two dimensionally as well.) **N.B.** Another way to do this would have been to filter by `NaN` but I already had the list above so I went with this method.**KK** - I like this second idea better.  
 
 ```python
 df.iloc[no_good]
@@ -209,7 +214,7 @@ author |	title	| date	| length	| text
 A visual inspection of the CSV file confirmed the lack of text in each of these rows. A quick check of the TED website found the following:
 
 * 185: Yup, no words.
-* 398: No transcript on website. 3:00 long.
+* 398: No transcript on website. 3:00 long. **KK** - Is there any talking on the track? Have we checked?
 * 513: No transcript. 3:28.
 * 877: No transcript. 9:50.
 
@@ -270,20 +275,26 @@ cited_texts.head()
 3 | Sergey Brin + Larry Page 2007 | Sergey Brin I want to discuss a question
 4 | Nathalie Miebach 2011 | What you just heard are the interactions
 
+**KK** - Are we at all concerned about names in the texts? For example in the Sergey Brin and Larry Page, I assume that they refer to each other by name (as they do in the opening line) throughout. 
+
 Now, all the work on determining empty or too short talks get re-called from the file `drop_talks.txt` and loaded into a list. I combined the usual file open into a list comprehenshion in order to convert the numbers being stored as strings into integers. Essentially, I took `numbers = [ int(x) for x in numbers ]` and replaced the `open()` sequence inside the comprehension. And ... it works! (Not sure how Pythonic it is.)
 
 ```python
 the_bad = [ int(x) for x in open("../data/drop_talks.txt", "r").read().split('\n') ]
 ```
 
-And then it's time to use KK's backwards technique to keep the indices in place:
+And then it's time to use KK's backwards technique to keep the indices in place: 
+**KK** - Note that you go backwards to preserve the positions of the "bad indices" higher up the list.
 
 ```python
 for index in sorted(the_bad, reverse=True):
     del talks[index]
 ```
 
-However, this throws off our pairing, so what we need to do is filter out the rows in the dataframe before creating the lists above. Here's my plan:
+However, this throws off our pairing, so what we need to do is filter out the rows in the dataframe before creating the lists above. 
+**KK** - For the above to work, you have to do the above to all the lists at the same time in the loop. But the below that you used is MUCH SAFER. 
+
+Here's my plan:
 
 * Filter the rows using the index
 * Save the new dataframe as a CSV file
