@@ -70,3 +70,14 @@ plot(test_mat,'*')
 figure(); plot(doc_sort(inds,1:6))
 figure(); imagesc(doc_sort(inds,1:6))
 
+test = doc_sort(:,1);
+test2 = sum(doc_sort(:,1:2),2);
+test3 = sum(doc_sort(:,1:3),2);
+test4 = sum(doc_sort(:,1:4),2);
+test5 = sum(doc_sort(:,1:5),2);
+test6 = sum(doc_sort(:,1:6),2);
+
+high_tc_vec = [sum(test >= 0.9), sum(test2 >= 0.9), sum(test3 >= 0.9), ...
+ sum(test4 >= 0.9), sum(test5 >= 0.9), sum(test6 >= 0.9)];
+
+
