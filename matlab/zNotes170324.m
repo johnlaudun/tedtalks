@@ -38,7 +38,7 @@ dt_normed = DT./tt_mats;
 %imagesc(dt_normed)
 
 % Check that our normalization ?worked? (i.e. that each row sums to one). 
-plot(sum(dt_normed,2))
+%plot(sum(dt_normed,2))
 
 % Built SORT_BY_ROW and checked out the output. 
 [doc_sort, doc_inds] = sort_by_row(DT);
@@ -58,4 +58,15 @@ imagesc(diff_mat)
 plot(sort(diff_mat(:,1)))
 plot(sort(diff_mat(:,2)))
 plot(sort(diff_mat(:,1)))
-plot(diff_mat)
+figure();plot(diff_mat)
+
+[~,inds] = sort(doc_sort(:,1));
+test_mat = [doc_sort(inds,1), sum(doc_sort(inds,1:2),2), ...
+    sum(doc_sort(inds,1:3),2),sum(doc_sort(inds,1:4),2), ...
+    sum(doc_sort(inds,1:5),2), sum(doc_sort(inds,1:6),2)];
+plot(test_mat')
+plot(test_mat)
+plot(test_mat,'*')
+figure(); plot(doc_sort(inds,1:6))
+figure(); imagesc(doc_sort(inds,1:6))
+
