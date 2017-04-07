@@ -4,7 +4,7 @@
 
 % Working with the test file of just documents and topic values. Adjusting 
 % the name as to be not so annoying. 
-load('dt_KK_test.csv')
+load('../data/dt_KK_test.csv')
 DT = dt_KK_test;
 
 % Just plotting what the topic values for all the documents are to get a 
@@ -35,20 +35,27 @@ plot(sum(DT,2),'*')
 total_topics = sum(DT,2);
 tt_mats = repmat(total_topics,1,40);
 dt_normed = DT./tt_mats;
-imagesc(dt_normed)
+%imagesc(dt_normed)
 
 % Check that our normalization ?worked? (i.e. that each row sums to one). 
 plot(sum(dt_normed,2))
 
 % Built SORT_BY_ROW and checked out the output. 
-
 [doc_sort, doc_inds] = sort_by_row(DT);
-plot(doc_sort')
-
-[doc_sort, doc_inds] = sort_by_row(DT);
-plot(doc_sort')
-plot(doc_sort','*')
+figure();plot(doc_sort','*')
 
 [doc_sort, doc_inds] = sort_by_row(dt_normed);
-plot(doc_sort','*')
+figure();plot(doc_sort','*')
 
+% Notes from 170406
+% Diff mat
+diff_mat = zeros(size(DT,1),5);
+for i = 1:5
+    diff_mat(:,i) = doc_sort(:,i) - doc_sort(:,i+1);
+end
+
+imagesc(diff_mat)
+plot(sort(diff_mat(:,1)))
+plot(sort(diff_mat(:,2)))
+plot(sort(diff_mat(:,1)))
+plot(diff_mat)
