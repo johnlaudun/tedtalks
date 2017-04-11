@@ -33,7 +33,7 @@ if lh_flag == 'H'
     end
     
 else
-    for i = 1:num_rows
+    for i = 1:nr
         [DT_out(i,:), DT_ind_out(i,:)] = sort(DT(i,:),'ascend');
     end
 end
