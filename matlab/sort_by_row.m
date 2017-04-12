@@ -5,7 +5,8 @@ function [dt_row_sort, dt_sort_inds] = sort_by_row(dt_mat, lh_flag)
 % used topic is first. 
 %
 % INPUT: DT_MAT -- Matrix with each row as a document and each column as a
-%                  topic
+%                  topic. The entries are the amount of document that is
+%                  covered by each topic. 
 %        LH_FLAG -- Flag so that we can either sort low to high ("L") or 
 %                   high to low. Default is high ("H")
 %

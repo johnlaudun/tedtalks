@@ -44,8 +44,8 @@ dt_normed = DT./tt_mats;
 [doc_sort, doc_inds] = sort_by_row(DT);
 figure();plot(doc_sort','*')
 
-[doc_sort, doc_inds] = sort_by_row(dt_normed);
-figure();plot(doc_sort','*')
+%[doc_sort, doc_inds] = sort_by_row(dt_normed);
+%figure();plot(doc_sort','*')
 
 % Notes from 170406
 % Diff mat compares the differences between how much the topics are used in
@@ -94,4 +94,45 @@ test6 = sum(doc_sort(:,1:6),2);
 high_tc_vec = [sum(test >= 0.9), sum(test2 >= 0.9), sum(test3 >= 0.9), ...
  sum(test4 >= 0.9), sum(test5 >= 0.9), sum(test6 >= 0.9)];
 
+% To tune the number of topics that we should use, I have been looking at
+% the contributions of the first N against if we used all the of the
+% topics. Using the below workflow and based on visual inspection, I think
+% that N = 5 would be the right number of topics to use. 
 
+% Set number of topics and select the most used N topics that contribute at
+% least 1% to the document. 
+N = 5;
+just_inds = doc_inds(:,1:N);
+[test_select, test_sb] = entry_select(DT, just_inds, 0.01);
+
+% Sort based on how much is covered by the most used N topics that 
+% contribute at least 1% to the document. 
+[~,tnds] = sort(sum(test_select,2));
+
+% Create a matrix that where you can plot the sorted contributions of the
+% most used N topics that contribute at least 1% to the document against
+% how much of the documents are covered by all topics. 
+compare_tests = [sum(test_select(tnds,:),2),sum(DT(tnds,:),2)];
+figure();plot(compare_tests,'*');
+
+% To quantify the error, we can do the following residual calculation:
+DT_sum = sum(DT,2);
+TS_sum = sum(test_select,2);
+diff_topN = sqrt(sum((DT_sum - TS_sum).^2));
+
+% For N = 1, we have 8.027067546090647
+% For N = 2, we have 5.146192541980327
+% For N = 3, we have 3.345717704293374
+% For N = 4, we have 2.193482324805254
+% For N = 5, we have 1.456800237864811
+% For N = 6, we have 1.012442286649524
+% For N = 7, we have 0.767378249712239
+% For N = 8, we have 0.649890891419852
+% For N = 9, we have 0.596619014131226
+% For N = 10, we have 0.577725706084323
+
+% Plot error results
+vec = [diff_top1,diff_top2,diff_top3,diff_top4,diff_top5,diff_top6,...
+    diff_top7,diff_top8,diff_top9,diff_top10];
+mat = [1:10;vec];
+plot(mat(1,:), mat(2,:), '*-');
