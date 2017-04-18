@@ -4,8 +4,8 @@
 
 % Working with the test file of just documents and topic values. Adjusting 
 % the name as to be not so annoying. 
-load('../data/dt_KK_test.csv')
-DT = dt_KK_test;
+load('../data/nmf_topics_raw.csv')
+DT = nmf_topics_raw;
 
 % Just plotting what the topic values for all the documents are to get a 
 % sense of the general trends. This gives a plot line for each document 
@@ -101,38 +101,39 @@ high_tc_vec = [sum(test >= 0.9), sum(test2 >= 0.9), sum(test3 >= 0.9), ...
 
 % Set number of topics and select the most used N topics that contribute at
 % least 1% to the document. 
-N = 5;
-just_inds = doc_inds(:,1:N);
-[test_select, test_sb] = entry_select(DT, just_inds, 0.01);
 
-% Sort based on how much is covered by the most used N topics that 
-% contribute at least 1% to the document. 
-[~,tnds] = sort(sum(test_select,2));
+vec = zeros(1,10);
 
-% Create a matrix that where you can plot the sorted contributions of the
-% most used N topics that contribute at least 1% to the document against
-% how much of the documents are covered by all topics. 
-compare_tests = [sum(test_select(tnds,:),2),sum(DT(tnds,:),2)];
-figure();plot(compare_tests,'*');
+for ni = 1:10
+    N = ni;
+    just_inds = doc_inds(:,1:N);
+    [test_select, test_sb] = entry_select(DT, just_inds, 0.01);
 
-% To quantify the error, we can do the following residual calculation:
-DT_sum = sum(DT,2);
-TS_sum = sum(test_select,2);
-diff_topN = sqrt(sum((DT_sum - TS_sum).^2));
+    % Sort based on how much is covered by the most used N topics that 
+    % contribute at least 1% to the document. 
+    [~,tnds] = sort(sum(test_select,2));
 
-% For N = 1, we have 8.027067546090647
-% For N = 2, we have 5.146192541980327
-% For N = 3, we have 3.345717704293374
-% For N = 4, we have 2.193482324805254
-% For N = 5, we have 1.456800237864811
-% For N = 6, we have 1.012442286649524
-% For N = 7, we have 0.767378249712239
-% For N = 8, we have 0.649890891419852
-% For N = 9, we have 0.596619014131226
-% For N = 10, we have 0.577725706084323
+    % Create a matrix that where you can plot the sorted contributions of the
+    % most used N topics that contribute at least 1% to the document against
+    % how much of the documents are covered by all topics. 
+    compare_tests = [sum(test_select(tnds,:),2),sum(DT(tnds,:),2)];
+    figure();plot(compare_tests,'*');
+
+    % To quantify the error, we can do the following residual calculation:
+    DT_sum = sum(DT,2);
+    TS_sum = sum(test_select,2);
+    diff_topN = sqrt(sum((DT_sum - TS_sum).^2));
+    
+    vec(ni) = diff_topN;
+    
+end
+
+% vec = [8.9856, 5.9924, 4.0352, 2.7226, 1.8445, ...
+%           1.2757, 0.9430, 0.7711, 0.6963, 0.6661];
+
 
 % Plot error results
-vec = [diff_top1,diff_top2,diff_top3,diff_top4,diff_top5,diff_top6,...
-    diff_top7,diff_top8,diff_top9,diff_top10];
+% vec = [diff_top1,diff_top2,diff_top3,diff_top4,diff_top5,diff_top6,...
+%     diff_top7,diff_top8,diff_top9,diff_top10];
 mat = [1:10;vec];
 plot(mat(1,:), mat(2,:), '*-');
