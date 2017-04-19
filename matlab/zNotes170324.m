@@ -137,3 +137,47 @@ end
 %     diff_top7,diff_top8,diff_top9,diff_top10];
 mat = [1:10;vec];
 plot(mat(1,:), mat(2,:), '*-');
+
+% Just look at the top 5 topics with contributions at least 1%
+N = 5;
+just_inds = doc_inds(:,1:N);
+[test_select, test_sb] = entry_select(DT, just_inds, 0.01);
+
+colormap default
+cvals = colormap; % save the color values
+inds = 1:4:64; % take every fourth color value
+map = [ones(1,3);cvals(inds,:)]; % Make a course color bar
+
+figure(); imagesc(test_select); colormap(map);
+
+% Trying to determine the correct metric for comparison. 
+% Compute the pairwise union of topics in documents: 
+D_union = pairwise_union(test_sb);
+figure(); imagesc(D_union);
+
+% Compute the pairwise correlation of documents by topics: 
+Corr_TS = squareform(pdist(test_select,'correlation'));
+figure(); hist(Corr_TS(:));
+figure(); imagesc(Corr_TS); % Contender? 
+
+% Standard Euclidean distance on both non-binary and binary:
+dist_TS = dist(test_select');
+figure();imagesc(dist_TS);
+figure();hist(dist_TS(:)); % Contender
+
+dist_sb = dist(test_sb');
+figure();imagesc(dist_sb);
+figure();hist(dist_sb(:)); % Not as great as the non-binary one. 
+
+% Jaccard on non-binary result washes out
+D_test_j = squareform(pdist(test_select,'jaccard'));
+figure();imagesc(D_test_j);
+
+% Jaccard on binary result not a full wash out, but also not awesome...
+D_test_j = squareform(pdist(test_sb,'jaccard'));
+figure();imagesc(D_test_j);
+figure();hist(D_test_j(:));
+
+% =-=-=-= Next Step =-=-=-=
+% spectral clustering on dist_TS
+% Expect to see big cluster around topic 1. 
