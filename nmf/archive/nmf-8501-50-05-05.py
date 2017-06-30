@@ -15,10 +15,16 @@ talks = df.text.tolist()
 # Import stoplist
 stopwords = re.split('\s+', open('../data/stopwords_2.txt', 'r').read().lower())
 
-# TFIDF parameters
-n_top_words = 15
+# Model parameters
+
+# TFIDF
 max_percent = 0.85
-min_percent = 0.05 # One percent = 20 talks (so not enought to warrant a topic?)
+min_percent = 0.01
+
+# NMF
+topics = 50
+n_top_words = 15
+
 
 # Create TFIDF matrix
 vectorizer = sktext.TfidfVectorizer(lowercase = True, 
@@ -30,19 +36,19 @@ print(td_matrix.shape)
 
 
 # Fit NMF
-model = NMF(n_components = 40,
+model = NMF(n_components = topics,
             solver='cd',
             random_state = 1,
-            alpha = 0.1,
-            l1_ratio = 0).fit(td_matrix)
+            alpha = 0.5,
+            l1_ratio = 0.5).fit(td_matrix)
 
 W = model.fit_transform(td_matrix)
 H = model.components_
-print(W.shape, H.shape)
+print(W.shape, H.shape, model)
 
 
-np.savetxt("../nmf/8505-40-1-01-00-dtm.csv", H, delimiter=",", fmt = "%s")
-np.savetxt("../nmf/8505-40-1-01-00-twm.csv", W, delimiter=",", fmt = "%s")
+np.savetxt("../nmf/8501-50-1-05-05-dtm.csv", H, delimiter=",", fmt = "%s")
+np.savetxt("../nmf/8501-50-1-05-05-twm.csv", W, delimiter=",", fmt = "%s")
 
 
 def print_top_words(model, feature_names, n_top_words):
