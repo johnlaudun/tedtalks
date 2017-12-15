@@ -40,3 +40,4 @@ for i in range(num_talks):
 # https://chrisalbon.com/python/pandas_dataframe_importing_csv.html
 # http://pythonhow.com/accessing-dataframe-columns-rows-and-cells/
 # https://pandas.pydata.org/pandas-docs/stable/merging.html
+# https://stackoverflow.com/questions/493819/python-join-why-is-it-string-joinlist-instead-of-list-joinstring
