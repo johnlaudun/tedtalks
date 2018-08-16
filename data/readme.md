@@ -1,3 +1,5 @@
+Katherine Kinnaird and John Laudun
+
 # About the Data
 
 The files in this folder are downloads from two sources, the first of which is the the list maintained by as a Google Sheet and the second of which are the HTML files downloaded from the TED website as per their usage permissions. Those files are mostly here as an archive, both of the TED website itself as well in case others see data within the files that they wish to parse out for themselves. Most readers will be interested, we think, in the CSV file which represents the data parsed from the various HTML files and then edited to make it easier to load: as our code reveals, we ultimately based our work on Python and used its pandas library for a lot of the data handling.
