@@ -1,7 +1,8 @@
-
-notebooks/.ipynb_checkpoints/*
 .DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/*
 *-checkpoint.md
 *-checkpoint.csv
-.DS_Store
 *-checkpoint.ipynb
