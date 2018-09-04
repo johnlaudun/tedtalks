@@ -33,9 +33,12 @@ Because it is easy to use, can be made to access servers respectfully, and accep
 wget -w 2 -i ../descriptions_URL_list.txt
 ```
 
-Total time to download all the files for each iterate was just under two hours in all three cases. `wget` reported 2749 files for the descriptions and discussions, and 2689 files for the transcripts. (What is not yet transcribed is something which we plan to examine as part of the project.)
+Total time to download all the files for each iteration was right around two hours in all three cases. `wget` reported 2749 files for the descriptions and discussions, and 2689 files for the transcripts. (What is not yet transcribed is something we plan to explore as part of the project.)
 
 
+## Parsing HTML Files into CSVs
+
+While a more detailed account of the work we did is available in the Jupyter notebooks available in this directory, we thought it might be helpful to gloss our actions there for readers interested only in a sketch of the actions that lie behind the data: the notebooks will always be there for fuller consideration and documentation. 
 
 ## About Us
 
