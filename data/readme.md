@@ -57,15 +57,21 @@ The difficulty in parsing the description files is that a lot of the metadata we
 
 After that, we ran through the CSV files, comparing results, and once we were satisfied, merged the tiles using the original public URLs as the basis for matching rows. With the merge completed and `tedtalks_raw.csv` written to disk, we checked the new CSV for duplicate columns, first using the duplication to verify we had matched correctly, and then dropping the redundant information, resulting in `tedtalks2018.csv` which we are releasing under the same fair/open use provisions as the TED organization itself makes available.
 
-If you do use this dataset, please cite as:
-
-Kinnaird, Katherine M. and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/data. 
-
 
 
 ## About Us
 
 Katherine M. Kinnaird is Clare Boothe Luce Assistant Professor of Computer Science, and Statistical & Data Sciences at Smith College. John Laudun is Doris H. Meriwether/BORSF Endowed Professor of English at the University of Louisiana at Lafayette.
+
+
+
+## Citation
+
+If you do use this dataset, please cite as:
+
+Kinnaird, Katherine M. and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/data.
+
+
 
 [Open Culture]: http://www.openculture.com/2014/06/1756-ted-talks-listed-in-a-neat-spreadsheet.html
 [Google Sheet]: https://docs.google.com/spreadsheets/d/1Yv_9nDl4ocIZR0GXU3OZuBaXxER1blfwR_XHvklPpEM/edit?hl=en&hl=en&hl=en#gid=0
