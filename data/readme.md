@@ -1,6 +1,6 @@
 # About the Data
 
-Katherine Kinnaird and John Laudun[1](#about-us)
+Katherine M. Kinnaird and John Laudun[1](#about-us)
 
 The files in this folder are downloads from two sources, the first of which is the list maintained as a Google Sheet and the second of which are the HTML files downloaded from the TED website as per their usage permissions.
 
@@ -59,13 +59,13 @@ After that, we ran through the CSV files, comparing results, and once we were sa
 
 If you do use this dataset, please cite as:
 
-Kinnaird, Katherine and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/data. 
+Kinnaird, Katherine M. and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/data. 
 
 
 
 ## About Us
 
-Katherine Kinnaird is Clare Boothe Luce Assistant Professor of Computer Science, and Statistical & Data Sciences at Smith College. John Laudun is Doris H. Meriwether/BORSF Endowed Professor of English at the University of Louisiana at Lafayette.
+Katherine M. Kinnaird is Clare Boothe Luce Assistant Professor of Computer Science, and Statistical & Data Sciences at Smith College. John Laudun is Doris H. Meriwether/BORSF Endowed Professor of English at the University of Louisiana at Lafayette.
 
 [Open Culture]: http://www.openculture.com/2014/06/1756-ted-talks-listed-in-a-neat-spreadsheet.html
 [Google Sheet]: https://docs.google.com/spreadsheets/d/1Yv_9nDl4ocIZR0GXU3OZuBaXxER1blfwR_XHvklPpEM/edit?hl=en&hl=en&hl=en#gid=0
