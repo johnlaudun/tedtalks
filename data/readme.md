@@ -40,7 +40,28 @@ We issued that command three times, once for each list of URLs -- the prefix for
 
 ## Parsing HTML Files into CSVs
 
-While a more detailed account of the work we did is available in the Jupyter notebooks available in this directory, we thought it might be helpful to gloss our actions there for readers interested only in a sketch of the actions that lie behind the data: the notebooks will always be there for fuller consideration and documentation.
+While a more detailed account of the work we did is available in the Jupyter notebooks available in this directory, we thought it might be helpful to provide a gloss of our actions for those interested only in a quick thumbnail -- the notebooks are there for fuller documentation. We used Python's `BeautifulSoup` module to parse both the description and the transcript HTML files and wrote the parsed data to one CSV, knowing we would merge the two CSVs, once we had the data we desired. For both sets of files that meant a lot of trial and error, as we found what worked. There are always, it seems, rogue HTML files that refuse to respond to a script, but we managed to tune the scripts to a point to where one a very small number -- less than three at last count -- were not tidily parsed and written to the relevant CSV file.
+
+We began work with the transcripts files, which not only contain the transcript of each talk but also the view count and the length. The other metadata we gathered was simply to insure that the metadata was the same across the descriptions and the information in the Google Sheet: redundancy guaranteed that talks were aligned correctly with their speakers, events, etc.
+
+`BeautifulSoup` makes finding information in particular tags quite straightforward, and the most difficult part of parsing these files was in determining how to get the actual transcript out: the transcripts themselves were broken across a number of divisions what were not named in a human-readable fashion, and thus the following line of code was used:
+
+```python
+strung = ''.join([div.text for div in
+            the_soup.findAll("div", {"class": "Grid__cell flx-s:1 p-r:4"})])
+```
+
+We probably could have stopped with the transcript files and simply merged the CSV into which they had been parsed with the CSV from the Google sheet, but we wanted to derive the metadata for ourselves relegating the Google sheet to an external reference source with which we could verify our work.
+
+The difficulty in parsing the description files is that a lot of the metadata we wanted to access was embedded within a block of not quite standard JSON. Working iteratively, we eventually found a way to reliably get the talk ID, the description, the view count, and which TED event the talk was part of written to a CSV.
+
+After that, we ran through the CSV files, comparing results, and once we were satisfied, merged the tiles using the original public URLs as the basis for matching rows. With the merge completed and `tedtalks_raw.csv` written to disk, we checked the new CSV for duplicate columns, first using the duplication to verify we had matched correctly, and then dropping the redundant information, resulting in `tedtalks2018.csv` which we are releasing under the same fair/open use provisions as the TED organization itself makes available.
+
+If you do use this dataset, please cite as:
+
+Kinnaird, Katherine and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/data. 
+
+
 
 ## About Us
 
