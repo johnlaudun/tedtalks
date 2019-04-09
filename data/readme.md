@@ -57,6 +57,9 @@ The difficulty in parsing the description files is that a lot of the metadata we
 
 After that, we ran through the CSV files, comparing results, and once we were satisfied, merged the tiles using the original public URLs as the basis for matching rows. With the merge completed and `tedtalks_raw.csv` written to disk, we checked the new CSV for duplicate columns, first using the duplication to verify we had matched correctly, and then dropping the redundant information, resulting in `tedtalks2018.csv` which we are releasing under the same fair/open use provisions as the TED organization itself makes available.
 
+## About the Jupyter Notebooks
+Please note that the Jupyter notebooks in this directory should be considered historical in nature: while the code in them can be run, in some cases input and output files have subsequently been moved and/or renamed as our own processes and priorities became clearer to us. We welcome their use: just know they may not run as-is.
+
 
 
 ## About Us
@@ -69,7 +72,7 @@ Katherine M. Kinnaird is Clare Boothe Luce Assistant Professor of Computer Scien
 
 If you do use this dataset, please cite as:
 
-Kinnaird, Katherine M. and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/data.
+Kinnaird, Katherine M. and John Laudun. 2018. TED Talks Data Set. https://github.com/johnlaudun/tedtalks/tree/master/data/Release_v0.
 
 
 
