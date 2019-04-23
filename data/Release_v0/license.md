@@ -7,6 +7,10 @@ TED licenses its materials for non-profit use under the Creative Commons license
 
 In keeping with the spirit of openness displayed by the TED organization, we are in turn licensing our work here under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
 
+In addition, we would like to thank TED for its explicit permission to release this data under a one-time, non-precedent setting basis.[^1]
+
 To view a copy of the BY-NC-ND license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+[^1]: As per 12 April 2019 correspondence.
