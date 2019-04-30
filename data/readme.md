@@ -2,7 +2,7 @@
 
 Katherine M. Kinnaird and John Laudun[1](#about-us)
 
-*If you arrived here from the _Journal of Cultural Analytics_, welcome! You have navigated one level up from the data packaged and released as Version 0. In this directory are the Jupyter notebooks and the raw HTML files that were used to create the data in the release. More details below.*
+*If you arrived here from the _Journal of Cultural Analytics_, welcome! You have navigated one level up from the data packaged and released as Version 0. In this directory are the Jupyter notebooks and the raw HTML files that were used to create the data in the release. More details below. ***Please note that this is a working directory and files can get renamed and/or moved.***
 
 The files in this folder are downloads from two sources, the first of which is the list maintained as a Google Sheet and the second of which are the HTML files downloaded from the TED website as per their usage permissions.
 
