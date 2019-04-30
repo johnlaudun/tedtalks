@@ -2,6 +2,8 @@
 
 Katherine M. Kinnaird and John Laudun[1](#about-us)
 
+*If you arrived here from the _Journal of Cultural Analytics_, welcome! You have navigated one level up from the data packaged and released as Version 0. In this directory are the Jupyter notebooks and the raw HTML files that were used to create the data in the release. More details below.*
+
 The files in this folder are downloads from two sources, the first of which is the list maintained as a Google Sheet and the second of which are the HTML files downloaded from the TED website as per their usage permissions.
 
 We first became aware of a comprehensive list of TED talks when [Open Culture][] reported its existence and that it was being kept up to date. At the time of the report in 2014, the list contained 1756 TED talks. In 2016, when we first decided to begin collaborating and decided to make TED talks a place to start having a dialogue about the application of statistical methods to humanistic topics, the list contained 2209 talks. At the time of our update in June 2018, the list had grown to 2755 talks.
