@@ -1,69 +1,69 @@
 # TEDtalks: `pandas` filters and visualizations
 
 ```python
->>> %pylab inline
+ %pylab inline
 Populating the interactive namespace from numpy and matplotlib
 ```
 
 ## Pandas filters
 
 
->>> import pandas
->>> import re
->>> colnames = ['author', 'title', 'date' , 'length', 'text']
->>> df = pandas.read_csv('../data/talks-v1b.csv', names=colnames)
+ import pandas
+ import re
+ colnames = ['author', 'title', 'date' , 'length', 'text']
+ df = pandas.read_csv('../data/talks-v1b.csv', names=colnames)
 ...
->>> df['date'] = df['date'].replace(to_replace='[A-Za-z ]', value='', regex=True)
+ df['date'] = df['date'].replace(to_replace='[A-Za-z ]', value='', regex=True)
 ...
->>> data2016 = df[df['date'] == '2016']
+ data2016 = df[df['date'] == '2016']
 ...
->>> talks = data2016.text.tolist()
->>> authors = data2016.author.tolist()
->>> dates = data2016.date.tolist()
+ talks = data2016.text.tolist()
+ authors = data2016.author.tolist()
+ dates = data2016.date.tolist()
 ...
->>> # Combining year with presenter for citations
+ # Combining year with presenter for citations
 ... citations = [author+" "+date for author, date in zip(authors, dates)]
 
 
->>> import numpy as np
->>> import sklearn.feature_extraction.text as text
->>> from sklearn.decomposition import NMF, LatentDirichletAllocation
+ import numpy as np
+ import sklearn.feature_extraction.text as text
+ from sklearn.decomposition import NMF, LatentDirichletAllocation
 ...
->>> # Function for printing topic words (used later):
+ # Function for printing topic words (used later):
 ...
->>> n_samples = len(talks)
->>> n_features = 1000
->>> n_topics = 45
->>> n_top_words = 15
+ n_samples = len(talks)
+ n_features = 1000
+ n_topics = 45
+ n_top_words = 15
 ...
->>> # Use tf-idf features for NMF.
+ # Use tf-idf features for NMF.
 ... tfidf_vectorizer = text.TfidfVectorizer(max_df=0.95, min_df=2,
 ...                                    max_features=n_features,
 ...                                    stop_words='english')
->>> tfidf = tfidf_vectorizer.fit_transform(talks)
->>> tf_vectorizer = text.CountVectorizer(max_df=0.95, min_df=2,
+ tfidf = tfidf_vectorizer.fit_transform(talks)
+ tf_vectorizer = text.CountVectorizer(max_df=0.95, min_df=2,
 ...                                 max_features=n_features,
 ...                                 stop_words='english')
 ...
->>> # Use tf (raw term count) features for LDA.
+ # Use tf (raw term count) features for LDA.
 ... # tf = tf_vectorizer.fit_transform(talks)
 
->>> # Fit the NMF model
+ # Fit the NMF model
 ... print("Fitting the NMF model with tf-idf features, "
 ...       "n_topics={}, n_samples={} and n_features={}...".format(n_topics, n_samples, n_features))
->>> nmf = NMF(n_components=n_topics,
+ nmf = NMF(n_components=n_topics,
 ...           random_state=1,
 ...           alpha=.1,
 ...           l1_ratio=.5).fit(tfidf)
 Fitting the NMF model with tf-idf features, n_topics=45, n_samples=95 and n_features=1000...
 
 
->>> # Now to associate NMF topics to documents...
+ # Now to associate NMF topics to documents...
 ... tf = tf_vectorizer.fit_transform(talks)
->>> dtm = tf.toarray()
->>> doctopic = nmf.fit_transform(dtm)
->>> print("Top NMF topics in...")
->>> for i in range(len(doctopic)):
+ dtm = tf.toarray()
+ doctopic = nmf.fit_transform(dtm)
+ print("Top NMF topics in...")
+ for i in range(len(doctopic)):
 ...     top_topics = np.argsort(doctopic[i,:])[::-1][0:3]
 ...     top_topics_str = ' '.join(str(t) for t in top_topics)
 ...     print("{}: {}".format(citations[i], top_topics_str))
@@ -166,43 +166,43 @@ Moran Cerf 2016: 4 40 3
 ```
 
 ```python
->>> doctopic.shape
+ doctopic.shape
 ```
 
 ```python
->>> doctopic
+ doctopic
 ```
 
 ```python
->>> # Bar Chart of One Topic
+ # Bar Chart of One Topic
 ... import matplotlib.pyplot as plt
 ...
->>> N, K = doctopic.shape
->>> ind = np.arange(N)
->>> width = 1
->>> plt.bar(ind, doctopic[:,0], width=width)
->>> plt.xticks(ind + width/2, citations) # put labels in the center
->>> plt.title('Share of Topic #0')
+ N, K = doctopic.shape
+ ind = np.arange(N)
+ width = 1
+ plt.bar(ind, doctopic[:,0], width=width)
+ plt.xticks(ind + width/2, citations) # put labels in the center
+ plt.title('Share of Topic #0')
 ```
 
 ```python
->>> # Stacked Bar Chart of All Topics
+ # Stacked Bar Chart of All Topics
 ... # Thanks to Alan Riddell (https://de.dariah.eu/tatom/topic_model_visualization.html)
 ...
 ... import numpy as np
->>> import matplotlib.pyplot as plt
+ import matplotlib.pyplot as plt
 ...
->>> plt.figure(figsize=(24,8))
->>> #fig = matplotlib.pyplot.gcf()
+ plt.figure(figsize=(24,8))
+ #fig = matplotlib.pyplot.gcf()
 ... #fig.set_size_inches(18.5, 10.5)
 ...
 ... N, K = doctopic.shape  # N documents, K topics
->>> ind = np.arange(N)  # the x-axis locations for the texts
->>> width = 1  # the width of the bars
->>> plots = []
->>> height_cumulative = np.zeros(N)
+ ind = np.arange(N)  # the x-axis locations for the texts
+ width = 1  # the width of the bars
+ plots = []
+ height_cumulative = np.zeros(N)
 ...
->>> for k in range(K):
+ for k in range(K):
 ...     color = plt.cm.coolwarm(k/K, 1)
 ...     if k == 0:
 ...         p = plt.bar(ind, doctopic[:, k], width, color=color)
@@ -211,13 +211,13 @@ Moran Cerf 2016: 4 40 3
 ...     height_cumulative += doctopic[:, k]
 ...     plots.append(p)
 ...
->>> plt.ylim((0, 1))  # proportions sum to 1, so the height of the stacked bars is 1
->>> plt.ylabel('Topics')
->>> plt.title('Topics in 2016 TEDtalks')
->>> plt.xticks(ind+width/2, citations, rotation='vertical')
->>> plt.yticks(np.arange(0, 1, 10))
->>> topic_labels = ['Topic #{}'.format(k) for k in range(K)]
->>> #plt.legend([p[0] for p in plots], topic_labels)
+ plt.ylim((0, 1))  # proportions sum to 1, so the height of the stacked bars is 1
+ plt.ylabel('Topics')
+ plt.title('Topics in 2016 TEDtalks')
+ plt.xticks(ind+width/2, citations, rotation='vertical')
+ plt.yticks(np.arange(0, 1, 10))
+ topic_labels = ['Topic #{}'.format(k) for k in range(K)]
+ #plt.legend([p[0] for p in plots], topic_labels)
 ... #plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 ... plt.show()
 ```
@@ -227,25 +227,25 @@ Moran Cerf 2016: 4 40 3
 I got the idea from [Sujit Pal][].
 
 ```python
->>> from sklearn.decomposition import TruncatedSVD
->>> from sklearn.preprocessing import Normalizer
+ from sklearn.decomposition import TruncatedSVD
+ from sklearn.preprocessing import Normalizer
 ...
->>> lsa = TruncatedSVD()
->>> my_lsa = lsa.fit_transform(tfidf)
->>> #normed = Normalizer(copy=False).fit_transform(my_lsa)
+ lsa = TruncatedSVD()
+ my_lsa = lsa.fit_transform(tfidf)
+ #normed = Normalizer(copy=False).fit_transform(my_lsa)
 ... #cosine_similarity(normed)
 ```
 
 ```python
->>> print(normed)
+ print(normed)
 ```
 
 ```python
->>> # write out coordinates to file
+ # write out coordinates to file
 ... fcoords = open(os.path.join(MODELS_DIR, "coords.csv"), 'wb')
->>> for vector in lsi[corpus]:
+ for vector in lsi[corpus]:
 ...     if len(vector) != 2:
 ...         continue
 ...     fcoords.write("%6.4f\t%6.4f\n" % (vector[0][1], vector[1][1]))
->>> fcoords.close()
+ fcoords.close()
 ```
