@@ -1,6 +1,6 @@
 # ReadMe.md
 
-A Notebook file is created for each significant piece of experimentation, with a relevant title and a versioning number for each time the experiment is repeated using different parameters or a new way of doing things.
+Each notebook focuses on a single, significant piece of experimentation, with a relevant title and a versioning number for each time the experiment is repeated using different parameters or a new way of doing things.
 
 While we are working, we tend to keep all our notebooks in one big pile, sorting by modification date and time in Jupyter's file explorer view. As Serban notes: "The advantage of keeping things together is that you can implement cross referencing within and between notebooks. This is simply done with html links in Markdown."
 
