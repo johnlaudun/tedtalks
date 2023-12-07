@@ -30,7 +30,7 @@ ggplot(i_df, aes(x=tfidf, y=verb, color=speaker_gender)) +
   geom_segment(data=diff_df_i, aes(x=tfidf.x, xend=tfidf.y, y=verb, yend=verb), color="black") +
   geom_point() + scale_color_manual(values=c("#4775ba", "#ba4767"))
 
-ggsave("../output/i_subjects_trimmed.pdf", width=6, height = 45, units="in")
+ggsave("../output/i_subjects_trimmed_new.pdf", width=6, height = 45, units="in")
 
 
 ggplot(he_df, aes(x=tfidf, y=verb, color=speaker_gender)) +
